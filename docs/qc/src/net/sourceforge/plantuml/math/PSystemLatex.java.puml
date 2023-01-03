@@ -1,0 +1,11 @@
+@startuml
+!pragma layout smetana
+"AbstractPSystem" <|-- "net.sourceforge.plantuml.math.PSystemLatex"
+class net.sourceforge.plantuml.math.PSystemLatex {
++PSystemLatex(UmlSource) : PSystemLatex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#60]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#64]]]
+exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#69]]]
++doCommandLine(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#75]]]
+-getColor(String) : Color [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#114]]]
+} 
+@enduml

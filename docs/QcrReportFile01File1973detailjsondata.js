@@ -156,7 +156,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalNewpage.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalNewpage.getStartingX@POLYN151865 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalNewpage.getStartingX@POLYN152297 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

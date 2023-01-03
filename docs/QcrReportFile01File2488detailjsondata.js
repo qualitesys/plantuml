@@ -103,14 +103,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Strpos.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Strpos.getSignature@POLYN150047 the MagicNumber/String  '%strpos' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Strpos.getSignature@POLYN150479 the MagicNumber/String  '%strpos' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Strpos.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Strpos.getSignature@POLYN150047 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Strpos.getSignature@POLYN150479 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Strpos.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.Strpos.canCover@POLYN150197 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.Strpos.canCover@POLYN150629 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -145,14 +145,14 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Strpos.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.stdlib.Strpos.executeReturnFunction@POLYN150375 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.stdlib.Strpos.executeReturnFunction@POLYN150807 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Strpos.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.Strpos.executeReturnFunction@POLYN150375 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.Strpos.executeReturnFunction@POLYN150807 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

@@ -138,189 +138,189 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.lengthLimitedCodeLengths@POLYN159589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -341,84 +341,84 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN162705 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.boundaryPm@POLYN163137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -446,28 +446,28 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.sort@POLYN164990 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.sort@POLYN165422 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.sort@POLYN164990 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.sort@POLYN165422 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.sort@POLYN164990 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.sort@POLYN165422 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Katajainen.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.sort@POLYN164990 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Katajainen.sort@POLYN165422 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

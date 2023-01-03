@@ -103,14 +103,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.Size.getSignature@POLYN153080 the MagicNumber/String  '%size' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.Size.getSignature@POLYN153512 the MagicNumber/String  '%size' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.Size.getSignature@POLYN153080 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.Size.getSignature@POLYN153512 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Size.canCover@POLYN153230 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Size.canCover@POLYN153662 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -145,21 +145,21 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153408 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153840 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153408 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153840 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153408 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.stdlib.Size.executeReturnFunction@POLYN153840 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

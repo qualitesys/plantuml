@@ -193,14 +193,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.yaml.YamlLines.YamlLines@POLYN168818 the MagicNumber/String  '#' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.yaml.YamlLines.YamlLines@POLYN169250 the MagicNumber/String  '#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.yaml.YamlLines.YamlLines@POLYN168818 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.yaml.YamlLines.YamlLines@POLYN169250 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -214,77 +214,77 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN169603 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.yaml.YamlLines.manageSpaceTwoPoints@POLYN170035 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -298,21 +298,21 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.yaml.YamlLines.removeDiese@POLYN170588 the MagicNumber/String  ' #' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.yaml.YamlLines.removeDiese@POLYN171020 the MagicNumber/String  ' #' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.yaml.YamlLines.removeDiese@POLYN170588 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.yaml.YamlLines.removeDiese@POLYN171020 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.yaml.YamlLines.removeDiese@POLYN170588 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.yaml.YamlLines.removeDiese@POLYN171020 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -333,42 +333,42 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN170952 the MagicNumber/String  '^(\\s*[-])(\\s*\\S.*)$' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN171384 the MagicNumber/String  '^(\\s*[-])(\\s*\\S.*)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN170952 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN171384 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN170952 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN171384 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN170952 the MagicNumber/String  '[-]' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN171384 the MagicNumber/String  '[-]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN170952 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN171384 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN170952 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.yaml.YamlLines.manageList@POLYN171384 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -389,21 +389,21 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.yaml.YamlLines.removeFirstCols@POLYN172081 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.yaml.YamlLines.removeFirstCols@POLYN172513 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.yaml.YamlLines.startingEmptyCols@POLYN172605 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.yaml.YamlLines.startingEmptyCols@POLYN173037 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.yaml.YamlLines.startingEmptyCols@POLYN172605 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.yaml.YamlLines.startingEmptyCols@POLYN173037 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -417,21 +417,21 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.yaml.YamlLines.startingSpaces@POLYN173075 the MagicNumber/String  '^(\\s*).*' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.yaml.YamlLines.startingSpaces@POLYN173507 the MagicNumber/String  '^(\\s*).*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.yaml.YamlLines.startingSpaces@POLYN173075 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.yaml.YamlLines.startingSpaces@POLYN173507 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.yaml.YamlLines.startingSpaces@POLYN173075 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.yaml.YamlLines.startingSpaces@POLYN173507 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -452,42 +452,42 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173525 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173525 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173957 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173525 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173957 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173525 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173957 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173525 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173957 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173525 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.yaml.YamlLines.mergeMultiline@POLYN173957 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -501,42 +501,42 @@ var maDataBlocs = {
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN174866 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN175298 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN174866 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN175298 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN174866 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN175298 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN174866 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN175298 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN174866 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN175298 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN174866 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.yaml.YamlLines.isMultilineStart@POLYN175298 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -550,28 +550,28 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.yaml.YamlLines.nameOnly@POLYN175542 the MagicNumber/String  '^\\s*' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.yaml.YamlLines.nameOnly@POLYN175974 the MagicNumber/String  '^\\s*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.yaml.YamlLines.nameOnly@POLYN175542 the MagicNumber/String  '\\s*:\\s*[|&amp;gt;]?\\s*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.yaml.YamlLines.nameOnly@POLYN175974 the MagicNumber/String  '\\s*:\\s*[|&amp;gt;]?\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.yaml.YamlLines.nameOnly@POLYN175542 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.yaml.YamlLines.nameOnly@POLYN175974 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.yaml.YamlLines.nameOnly@POLYN175542 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.yaml.YamlLines.nameOnly@POLYN175974 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -585,21 +585,21 @@ var maDataBlocs = {
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.yaml.YamlLines.textOnly@POLYN176104 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.yaml.YamlLines.textOnly@POLYN176536 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.yaml.YamlLines.textOnly@POLYN176104 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.yaml.YamlLines.textOnly@POLYN176536 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.yaml.YamlLines.textOnly@POLYN176104 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.yaml.YamlLines.textOnly@POLYN176536 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -613,7 +613,7 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.yaml.YamlLines.isList@POLYN176386 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.yaml.YamlLines.isList@POLYN176818 the MagicNumber/String  '-' should be converted to const"
 }} 
 ]
 , 

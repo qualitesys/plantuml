@@ -142,21 +142,21 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.style.StyleSignatures.getMergedStyle@POLYN151367 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.style.StyleSignatures.getMergedStyle@POLYN151799 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.StyleSignatures.getMergedStyle@POLYN151367 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.StyleSignatures.getMergedStyle@POLYN151799 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.style.StyleSignatures.getMergedStyle@POLYN151367 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.style.StyleSignatures.getMergedStyle@POLYN151799 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -170,7 +170,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.StyleSignatures.withTOBECHANGED@POLYN152088 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.StyleSignatures.withTOBECHANGED@POLYN152520 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -184,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatures.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.style.StyleSignatures.with@POLYN152359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.style.StyleSignatures.with@POLYN152791 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

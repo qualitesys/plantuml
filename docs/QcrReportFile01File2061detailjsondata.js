@@ -211,21 +211,21 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165066 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165498 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165066 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165498 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165066 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN165498 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,21 +253,21 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN166147 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN166579 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN166147 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN166579 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN166147 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.AbstractTextualComponent@POLYN166579 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -295,7 +295,7 @@ var maDataBlocs = {
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractTextualComponent.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.getTextHeight@POLYN169062 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.skin.AbstractTextualComponent.getTextHeight@POLYN169494 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

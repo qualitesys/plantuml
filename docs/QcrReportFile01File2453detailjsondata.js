@@ -103,14 +103,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dec2hex.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.getSignature@POLYN150035 the MagicNumber/String  '%dec2hex' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.getSignature@POLYN150467 the MagicNumber/String  '%dec2hex' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dec2hex.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.getSignature@POLYN150035 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.getSignature@POLYN150467 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dec2hex.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.canCover@POLYN150185 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.canCover@POLYN150617 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -145,21 +145,21 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dec2hex.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.executeReturnFunction@POLYN150363 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.executeReturnFunction@POLYN150795 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dec2hex.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.executeReturnFunction@POLYN150363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.executeReturnFunction@POLYN150795 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dec2hex.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.executeReturnFunction@POLYN150363 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.Dec2hex.executeReturnFunction@POLYN150795 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

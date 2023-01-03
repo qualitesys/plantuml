@@ -139,14 +139,14 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.getSignature@POLYN153961 the MagicNumber/String  '%invoke_procedure' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.getSignature@POLYN154393 the MagicNumber/String  '%invoke_procedure' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.getSignature@POLYN153961 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.getSignature@POLYN154393 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -160,7 +160,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.canCover@POLYN154111 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.canCover@POLYN154543 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -195,28 +195,28 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.executeProcedureInternal@POLYN154587 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.executeProcedureInternal@POLYN155019 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.executeProcedureInternal@POLYN154587 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.executeProcedureInternal@POLYN155019 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.executeProcedureInternal@POLYN154587 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.executeProcedureInternal@POLYN155019 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.executeProcedureInternal@POLYN154587 the MagicNumber/String  'Cannot find void function ' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.executeProcedureInternal@POLYN155019 the MagicNumber/String  'Cannot find void function ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -230,7 +230,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.isUnquoted@POLYN155931 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.isUnquoted@POLYN156363 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

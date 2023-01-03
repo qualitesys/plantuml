@@ -241,28 +241,28 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.salt.Dictionary.getValue@POLYN156317 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.salt.Dictionary.getValue@POLYN156749 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.salt.Dictionary.getPadding@POLYN156427 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.salt.Dictionary.getPadding@POLYN156859 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.salt.Dictionary.getTabSize@POLYN156703 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.salt.Dictionary.getTabSize@POLYN157135 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.salt.Dictionary.getDpi@POLYN156897 the MagicNumber/String  96 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.salt.Dictionary.getDpi@POLYN157329 the MagicNumber/String  96 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -290,7 +290,7 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.salt.Dictionary.minClassWidthTOBEREMOVED@POLYN157712 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.salt.Dictionary.minClassWidthTOBEREMOVED@POLYN158144 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -22,11 +22,11 @@ class gen.lib.common.ns__c {
 +LR_balance() : void [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#707]]]
 +TB_balance() : void [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#739]]]
 +init_graph(ST_Agraph_s) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#801]]]
-+rank2(ST_Agraph_s;int;int;int) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#868]]]
-+rank(ST_Agraph_s;int;int) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#950]]]
-+x_cutval(ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#973]]]
-+x_val(ST_Agedge_s;ST_Agnode_s;int) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#1005]]]
-+dfs_cutval(ST_Agnode_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#1052]]]
-+dfs_range(ST_Agnode_s;ST_Agedge_s;int) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#1076]]]
++rank2(ST_Agraph_s;int;int;int) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#867]]]
++rank(ST_Agraph_s;int;int) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#949]]]
++x_cutval(ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#972]]]
++x_val(ST_Agedge_s;ST_Agnode_s;int) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#1004]]]
++dfs_cutval(ST_Agnode_s;ST_Agedge_s) : void [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#1051]]]
++dfs_range(ST_Agnode_s;ST_Agedge_s;int) : int [[[./../../../../.././qc/src/gen/lib/common/ns__c.java.html#1075]]]
 } 
 @enduml

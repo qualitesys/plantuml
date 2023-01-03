@@ -119,21 +119,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Filename.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.Filename.Filename@POLYN150546 the MagicNumber/String  'filename' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.Filename.Filename@POLYN150978 the MagicNumber/String  'filename' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Filename.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Filename.getSignature@POLYN150722 the MagicNumber/String  '%filename' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Filename.getSignature@POLYN151154 the MagicNumber/String  '%filename' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Filename.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Filename.getSignature@POLYN150722 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Filename.getSignature@POLYN151154 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Filename.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.Filename.canCover@POLYN150872 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.Filename.canCover@POLYN151304 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -161,14 +161,14 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Filename.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.stdlib.Filename.executeReturnFunction@POLYN151050 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.stdlib.Filename.executeReturnFunction@POLYN151482 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Filename.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.tim.stdlib.Filename.executeReturnFunction@POLYN151050 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.tim.stdlib.Filename.executeReturnFunction@POLYN151482 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

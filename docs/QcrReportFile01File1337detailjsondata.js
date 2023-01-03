@@ -434,7 +434,7 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphic.FontConfiguration.toStringDebug@POLYN185924 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphic.FontConfiguration.toStringDebug@POLYN186356 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -448,7 +448,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN186113 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN186545 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -462,7 +462,7 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN186422 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN186854 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -476,7 +476,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.FontConfiguration.blackBlueTrue@POLYN186953 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.FontConfiguration.blackBlueTrue@POLYN187385 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -504,7 +504,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187777 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN188209 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -532,21 +532,21 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187992 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN188424 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187992 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN188424 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN187992 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.graphic.FontConfiguration.create@POLYN188424 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -567,7 +567,7 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.graphic.FontConfiguration.toString@POLYN189696 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.graphic.FontConfiguration.toString@POLYN190128 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -581,14 +581,14 @@ var maDataBlocs = {
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.graphic.FontConfiguration.forceFont@POLYN190883 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.graphic.FontConfiguration.forceFont@POLYN191315 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.graphic.FontConfiguration.forceFont@POLYN190883 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.graphic.FontConfiguration.forceFont@POLYN191315 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -616,7 +616,7 @@ var maDataBlocs = {
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.graphic.FontConfiguration.mute@POLYN192725 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.graphic.FontConfiguration.mute@POLYN193157 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -658,7 +658,7 @@ var maDataBlocs = {
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.FontConfiguration.resetFont@POLYN194941 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.FontConfiguration.resetFont@POLYN195373 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -679,7 +679,7 @@ var maDataBlocs = {
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/FontConfiguration.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.graphic.FontConfiguration.hyperlink@POLYN196779 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.graphic.FontConfiguration.hyperlink@POLYN197211 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

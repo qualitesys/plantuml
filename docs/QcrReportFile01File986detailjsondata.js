@@ -112,28 +112,28 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.regex.FoxSignature.printMe@POLYN153771 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.regex.FoxSignature.printMe@POLYN154203 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.regex.FoxSignature.printMe@POLYN153771 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.regex.FoxSignature.printMe@POLYN154203 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.regex.FoxSignature.printMe@POLYN153771 the MagicNumber/String  'ch=' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.regex.FoxSignature.printMe@POLYN154203 the MagicNumber/String  'ch=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.regex.FoxSignature.printMe@POLYN153771 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.regex.FoxSignature.printMe@POLYN154203 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.regex.FoxSignature.getMask@POLYN154359 the MagicNumber/String  0L should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.regex.FoxSignature.getMask@POLYN154791 the MagicNumber/String  0L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -161,14 +161,14 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.regex.FoxSignature.getFoxSignature@POLYN154618 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.regex.FoxSignature.getFoxSignature@POLYN155050 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.command.regex.FoxSignature.getFoxSignature@POLYN154618 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.command.regex.FoxSignature.getFoxSignature@POLYN155050 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -189,21 +189,21 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.command.regex.FoxSignature.backToString@POLYN155118 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.command.regex.FoxSignature.backToString@POLYN155550 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.command.regex.FoxSignature.backToString@POLYN155118 the MagicNumber/String  0L should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.command.regex.FoxSignature.backToString@POLYN155550 the MagicNumber/String  0L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/FoxSignature.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.command.regex.FoxSignature.backToString@POLYN155118 the MagicNumber/String  0L should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.command.regex.FoxSignature.backToString@POLYN155550 the MagicNumber/String  0L should be converted to const"
 }} 
 ]
 , 

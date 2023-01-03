@@ -191,28 +191,28 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificBackColor@POLYN163947 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificBackColor@POLYN164379 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificBackColor@POLYN163947 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificBackColor@POLYN164379 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificLineColor@POLYN164164 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificLineColor@POLYN164596 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificLineColor@POLYN164164 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.getSpecificLineColor@POLYN164596 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -247,21 +247,21 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164891 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN165323 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164891 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN165323 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SegmentColored.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN164891 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.graphic.SegmentColored.drawU@POLYN165323 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

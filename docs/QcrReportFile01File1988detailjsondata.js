@@ -193,7 +193,7 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.NoteBox@POLYN165426 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.NoteBox@POLYN165858 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -207,21 +207,21 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166222 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166654 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166222 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166654 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166222 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getRightShift@POLYN166654 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -256,14 +256,14 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.drawInternalU@POLYN167347 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.drawInternalU@POLYN167779 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.drawInternalU@POLYN167347 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.drawInternalU@POLYN167779 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -277,21 +277,21 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168436 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168868 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168436 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168868 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/NoteBox.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168436 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.graphic.NoteBox.getStartingX@POLYN168868 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

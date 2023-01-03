@@ -295,21 +295,21 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.wire.WBlock.getAbsolutePosition@POLYN195116 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.wire.WBlock.getAbsolutePosition@POLYN195548 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.wire.WBlock.getAbsolutePosition@POLYN195116 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.wire.WBlock.getAbsolutePosition@POLYN195548 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.wire.WBlock.getAbsolutePosition@POLYN195116 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.wire.WBlock.getAbsolutePosition@POLYN195548 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -330,49 +330,49 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN195875 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN196307 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN195875 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN196307 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN195875 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN196307 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN195875 the MagicNumber/String  100.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN196307 the MagicNumber/String  100.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN195875 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN196307 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN195875 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN196307 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN195875 the MagicNumber/String  100.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.wire.WBlock.parseWidth@POLYN196307 the MagicNumber/String  100.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -393,56 +393,56 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197078 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197510 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197078 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197510 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197078 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197510 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197078 the MagicNumber/String  100.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197510 the MagicNumber/String  100.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197078 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197510 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197078 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197510 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197078 the MagicNumber/String  100.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.wire.WBlock.parseHeight@POLYN197510 the MagicNumber/String  100.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.wire.WBlock.toString@POLYN198295 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.wire.WBlock.toString@POLYN198727 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -463,7 +463,7 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.wire.WBlock.getChildByName@POLYN198907 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.wire.WBlock.getChildByName@POLYN199339 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -484,42 +484,42 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199202 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199634 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199202 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199634 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199202 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199202 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199634 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199202 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199634 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199202 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.wire.WBlock.getBlock@POLYN199634 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -533,28 +533,28 @@ var maDataBlocs = {
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.wire.WBlock.newColumn@POLYN199977 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.wire.WBlock.newColumn@POLYN200409 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wire.WBlock.newColumn@POLYN199977 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wire.WBlock.newColumn@POLYN200409 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WBlock.newColumn@POLYN199977 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WBlock.newColumn@POLYN200409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.wire.WBlock.newColumn@POLYN199977 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.wire.WBlock.newColumn@POLYN200409 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -568,21 +568,21 @@ var maDataBlocs = {
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.wire.WBlock.wgoto@POLYN200595 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.wire.WBlock.wgoto@POLYN201027 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.wire.WBlock.wgoto@POLYN200595 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.wire.WBlock.wgoto@POLYN201027 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wire.WBlock.wgoto@POLYN200595 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wire.WBlock.wgoto@POLYN201027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -596,14 +596,14 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.wire.WBlock.wmove@POLYN201191 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.wire.WBlock.wmove@POLYN201623 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.wire.WBlock.wmove@POLYN201191 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.wire.WBlock.wmove@POLYN201623 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -617,21 +617,21 @@ var maDataBlocs = {
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.wire.WBlock.print@POLYN201770 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.wire.WBlock.print@POLYN202202 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.wire.WBlock.print@POLYN201770 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.wire.WBlock.print@POLYN202202 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.wire.WBlock.print@POLYN201770 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.wire.WBlock.print@POLYN202202 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -652,84 +652,84 @@ var maDataBlocs = {
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN202712 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN203144 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN202712 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN203144 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN202712 the MagicNumber/String  'Component exists already' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN203144 the MagicNumber/String  'Component exists already' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN202712 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN203144 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN202712 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN203144 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN202712 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN203144 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN202712 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.wire.WBlock.addBlock@POLYN203144 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.wire.WBlock.getNextPosition@POLYN204299 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.wire.WBlock.getNextPosition@POLYN204731 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.wire.WBlock.getNextPosition@POLYN204299 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.wire.WBlock.getNextPosition@POLYN204731 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.wire.WBlock.getLastChild@POLYN204809 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.wire.WBlock.getLastChild@POLYN205241 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.wire.WBlock.getLastChild@POLYN204809 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.wire.WBlock.getLastChild@POLYN205241 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.wire.WBlock.getLastChild@POLYN204809 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.wire.WBlock.getLastChild@POLYN205241 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -750,35 +750,35 @@ var maDataBlocs = {
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205083 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205515 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00237"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205083 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205515 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205083 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205515 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205083 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205515 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205083 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.wire.WBlock.drawMe@POLYN205515 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -799,56 +799,56 @@ var maDataBlocs = {
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.wire.WBlock.drawBox@POLYN206127 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.wire.WBlock.drawBox@POLYN206559 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.wire.WBlock.drawBox@POLYN206127 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.wire.WBlock.drawBox@POLYN206559 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207226 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207226 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00273"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#273"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207226 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00273"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#273"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207226 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207658 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00274"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#274"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207226 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00274"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#274"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207226 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.wire.WBlock.getMaxDimension@POLYN207658 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -862,28 +862,28 @@ var maDataBlocs = {
  , "c1" : "00279"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.wire.WBlock.getNaturalDimension@POLYN207942 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.wire.WBlock.getNaturalDimension@POLYN208374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00280"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.wire.WBlock.getNaturalDimension@POLYN207942 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.wire.WBlock.getNaturalDimension@POLYN208374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00283"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#283"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.wire.WBlock.getNaturalDimension@POLYN207942 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.wire.WBlock.getNaturalDimension@POLYN208374 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00284"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#284"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.wire.WBlock.getNaturalDimension@POLYN207942 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.wire.WBlock.getNaturalDimension@POLYN208374 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -904,35 +904,35 @@ var maDataBlocs = {
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN208777 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN209209 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN208777 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN209209 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN208777 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN209209 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN208777 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN209209 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN208777 the MagicNumber/String  '5' should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.wire.WBlock.getNextOutHorizontal@POLYN209209 the MagicNumber/String  '5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -953,35 +953,35 @@ var maDataBlocs = {
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN209607 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN210039 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN209607 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN210039 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00306"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN209607 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN210039 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN209607 the MagicNumber/String  '5' should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN210039 the MagicNumber/String  '5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WBlock.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN209607 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.wire.WBlock.getNextOutVertical@POLYN210039 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

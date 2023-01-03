@@ -142,7 +142,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.CommonCommands.addCommonCommands2@POLYN158548 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.CommonCommands.addCommonCommands2@POLYN158980 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

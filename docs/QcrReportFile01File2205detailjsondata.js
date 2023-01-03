@@ -155,49 +155,49 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN171715 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN172147 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN171715 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN172147 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN171715 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN172147 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN171715 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN172147 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN171715 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN172147 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN171715 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN172147 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN171715 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.ClusterHeader.ClusterHeader@POLYN172147 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -218,28 +218,28 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.svek.ClusterHeader.getTitleBlock@POLYN174061 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.svek.ClusterHeader.getTitleBlock@POLYN174493 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.ClusterHeader.getTitleBlock@POLYN174061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.ClusterHeader.getTitleBlock@POLYN174493 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.ClusterHeader.getTitleBlock@POLYN174061 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.ClusterHeader.getTitleBlock@POLYN174493 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.ClusterHeader.getTitleBlock@POLYN174061 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.ClusterHeader.getTitleBlock@POLYN174493 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,7 +253,7 @@ var maDataBlocs = {
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlock@POLYN176052 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlock@POLYN176484 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -281,70 +281,70 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterHeader.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN176844 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.ClusterHeader.getStereoBlockWithoutLegend@POLYN177276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

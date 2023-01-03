@@ -2755,14 +2755,14 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method smetana.core.Macro.ASINT@POLYN380534 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method smetana.core.Macro.ASINT@POLYN380966 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method smetana.core.Macro.ASINT@POLYN380534 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method smetana.core.Macro.ASINT@POLYN380966 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2776,7 +2776,7 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method smetana.core.Macro.N@POLYN380695 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method smetana.core.Macro.N@POLYN381127 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2790,7 +2790,7 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method smetana.core.Macro.N@POLYN380832 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method smetana.core.Macro.N@POLYN381264 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2804,7 +2804,7 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method smetana.core.Macro.N@POLYN380969 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method smetana.core.Macro.N@POLYN381401 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2818,7 +2818,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method smetana.core.Macro.N@POLYN381106 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method smetana.core.Macro.N@POLYN381538 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2832,7 +2832,7 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method smetana.core.Macro.NOT@POLYN381483 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method smetana.core.Macro.NOT@POLYN381915 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2846,14 +2846,14 @@ var maDataBlocs = {
  , "c1" : "00116"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method smetana.core.Macro.NOTI@POLYN381620 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method smetana.core.Macro.NOTI@POLYN382052 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method smetana.core.Macro.NOTI@POLYN381620 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method smetana.core.Macro.NOTI@POLYN382052 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2867,7 +2867,7 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method smetana.core.Macro.NOT@POLYN381781 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method smetana.core.Macro.NOT@POLYN382213 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2881,7 +2881,7 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method smetana.core.Macro.NOT@POLYN381918 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method smetana.core.Macro.NOT@POLYN382350 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2895,7 +2895,7 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method smetana.core.Macro.NOT@POLYN382055 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method smetana.core.Macro.NOT@POLYN382487 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2909,7 +2909,7 @@ var maDataBlocs = {
  , "c1" : "00136"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method smetana.core.Macro.UNSURE_ABOUT@POLYN382184 the MagicNumber/String  'UNSURE_ABOUT: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method smetana.core.Macro.UNSURE_ABOUT@POLYN382616 the MagicNumber/String  'UNSURE_ABOUT: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2958,7 +2958,7 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#170"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00170] For method AGTYPE list of called methods Object monObjet|h.ST_Agtag_s AGTAGN383417"
+ , "c3" : "QC-JAV000007[00170] For method AGTYPE list of called methods Object monObjet|h.ST_Agtag_s AGTAGN383849"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2979,7 +2979,7 @@ var maDataBlocs = {
  , "c1" : "00179"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#179"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00179] For method AGID list of called methods Object monObjet|h.ST_Agtag_s AGTAGN383763"
+ , "c3" : "QC-JAV000007[00179] For method AGID list of called methods Object monObjet|h.ST_Agtag_s AGTAGN384195"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3000,7 +3000,7 @@ var maDataBlocs = {
  , "c1" : "00188"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#188"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00188] For method AGSEQ list of called methods Object monObjet|h.ST_Agtag_s AGTAGN384109"
+ , "c3" : "QC-JAV000007[00188] For method AGSEQ list of called methods Object monObjet|h.ST_Agtag_s AGTAGN384541"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3042,7 +3042,7 @@ var maDataBlocs = {
  , "c1" : "00204"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method smetana.core.Macro.AGIN2OUT@POLYN384488 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method smetana.core.Macro.AGIN2OUT@POLYN384920 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3056,7 +3056,7 @@ var maDataBlocs = {
  , "c1" : "00209"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method smetana.core.Macro.AGOUT2IN@POLYN384651 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method smetana.core.Macro.AGOUT2IN@POLYN385083 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3105,7 +3105,7 @@ var maDataBlocs = {
  , "c1" : "00236"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#236"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00236] For method M_agtail list of called methods Object monObjet|h.ST_Agedge_s AGMKINN385958"
+ , "c3" : "QC-JAV000007[00236] For method M_agtail list of called methods Object monObjet|h.ST_Agedge_s AGMKINN386390"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3133,7 +3133,7 @@ var maDataBlocs = {
  , "c1" : "00249"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00249] For method M_aghead list of called methods Object monObjet|h.ST_Agedge_s AGMKOUTN386460"
+ , "c3" : "QC-JAV000007[00249] For method M_aghead list of called methods Object monObjet|h.ST_Agedge_s AGMKOUTN386892"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3168,7 +3168,7 @@ var maDataBlocs = {
  , "c1" : "00308"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method smetana.core.Macro.TREE_EDGE@POLYN387380 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method smetana.core.Macro.TREE_EDGE@POLYN387812 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3364,14 +3364,14 @@ var maDataBlocs = {
  , "c1" : "00437"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#437"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00437] In method smetana.core.Macro.GD_has_flat_edges@POLYN393160 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00437] In method smetana.core.Macro.GD_has_flat_edges@POLYN393592 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00437"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#437"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00437] In method smetana.core.Macro.GD_has_flat_edges@POLYN393160 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00437] In method smetana.core.Macro.GD_has_flat_edges@POLYN393592 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3469,7 +3469,7 @@ var maDataBlocs = {
  , "c1" : "00499"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#499"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00499] In method smetana.core.Macro.GD_rankdir@POLYN396053 the MagicNumber/String  0x3 should be converted to const"
+ , "c3" : "QC-JAV000010[00499] In method smetana.core.Macro.GD_rankdir@POLYN396485 the MagicNumber/String  0x3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3483,14 +3483,14 @@ var maDataBlocs = {
  , "c1" : "00504"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#504"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00504] In method smetana.core.Macro.GD_flip@POLYN396274 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00504] In method smetana.core.Macro.GD_flip@POLYN396706 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00504"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#504"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00504] In method smetana.core.Macro.GD_flip@POLYN396274 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00504] In method smetana.core.Macro.GD_flip@POLYN396706 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3504,7 +3504,7 @@ var maDataBlocs = {
  , "c1" : "00509"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#509"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00509] In method smetana.core.Macro.GD_realrankdir@POLYN396488 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00509] In method smetana.core.Macro.GD_realrankdir@POLYN396920 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3518,7 +3518,7 @@ var maDataBlocs = {
  , "c1" : "00514"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#514"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00514] In method smetana.core.Macro.GD_realflip@POLYN396709 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00514] In method smetana.core.Macro.GD_realflip@POLYN397141 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3980,14 +3980,14 @@ var maDataBlocs = {
  , "c1" : "00835"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#835"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00835] In method smetana.core.Macro.ND_mark@POLYN410703 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00835] In method smetana.core.Macro.ND_mark@POLYN411135 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00835"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#835"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00835] In method smetana.core.Macro.ND_mark@POLYN410703 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00835] In method smetana.core.Macro.ND_mark@POLYN411135 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4043,7 +4043,7 @@ var maDataBlocs = {
  , "c1" : "00868"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#868"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00868] In method smetana.core.Macro.ND_onstack@POLYN412293 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00868] In method smetana.core.Macro.ND_onstack@POLYN412725 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4064,14 +4064,14 @@ var maDataBlocs = {
  , "c1" : "00876"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#876"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00876] In method smetana.core.Macro.ND_onstack@POLYN412737 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00876] In method smetana.core.Macro.ND_onstack@POLYN413169 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00876"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#876"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00876] In method smetana.core.Macro.ND_onstack@POLYN412737 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00876] In method smetana.core.Macro.ND_onstack@POLYN413169 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4610,14 +4610,14 @@ var maDataBlocs = {
  , "c1" : "01289"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01289] In method smetana.core.Macro.ALLOC_INT@POLYN429317 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01289] In method smetana.core.Macro.ALLOC_INT@POLYN429749 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01297"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01297] In method smetana.core.Macro.ALLOC_INT@POLYN429317 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01297] In method smetana.core.Macro.ALLOC_INT@POLYN429749 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4638,14 +4638,14 @@ var maDataBlocs = {
  , "c1" : "01313"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1313"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01313] In method smetana.core.Macro.elist_append@POLYN430227 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[01313] In method smetana.core.Macro.elist_append@POLYN430659 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01315"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1315"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01315] In method smetana.core.Macro.elist_append@POLYN430227 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01315] In method smetana.core.Macro.elist_append@POLYN430659 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4659,14 +4659,14 @@ var maDataBlocs = {
  , "c1" : "01321"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1321"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01321] In method smetana.core.Macro.alloc_elist@POLYN430765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01321] In method smetana.core.Macro.alloc_elist@POLYN431197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01322"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1322"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01322] In method smetana.core.Macro.alloc_elist@POLYN430765 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01322] In method smetana.core.Macro.alloc_elist@POLYN431197 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4680,7 +4680,7 @@ var maDataBlocs = {
  , "c1" : "01327"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1327"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01327] In method smetana.core.Macro.free_list@POLYN431104 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01327] In method smetana.core.Macro.free_list@POLYN431536 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4750,21 +4750,21 @@ var maDataBlocs = {
  , "c1" : "01366"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1366"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01366] In method smetana.core.Macro.ROUND@POLYN433191 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01366] In method smetana.core.Macro.ROUND@POLYN433623 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01366"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1366"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01366] In method smetana.core.Macro.ROUND@POLYN433191 the MagicNumber/String  .5 should be converted to const"
+ , "c3" : "QC-JAV000010[01366] In method smetana.core.Macro.ROUND@POLYN433623 the MagicNumber/String  .5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01366"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1366"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01366] In method smetana.core.Macro.ROUND@POLYN433191 the MagicNumber/String  .5 should be converted to const"
+ , "c3" : "QC-JAV000010[01366] In method smetana.core.Macro.ROUND@POLYN433623 the MagicNumber/String  .5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4785,7 +4785,7 @@ var maDataBlocs = {
  , "c1" : "01385"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1385"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01385] In method smetana.core.Macro.MAKEFWDEDGE@POLYN433538 the MagicNumber/String  'MAKEFWDEDGE' should be converted to const"
+ , "c3" : "QC-JAV000010[01385] In method smetana.core.Macro.MAKEFWDEDGE@POLYN433970 the MagicNumber/String  'MAKEFWDEDGE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4806,7 +4806,7 @@ var maDataBlocs = {
  , "c1" : "01441"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1441"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01441] In method smetana.core.Macro.hypot@POLYN435450 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01441] In method smetana.core.Macro.hypot@POLYN435882 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4897,7 +4897,7 @@ var maDataBlocs = {
  , "c1" : "01493"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1493"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01493] In method smetana.core.Macro.RADIANS@POLYN438859 the MagicNumber/String  180.0 should be converted to const"
+ , "c3" : "QC-JAV000010[01493] In method smetana.core.Macro.RADIANS@POLYN439291 the MagicNumber/String  180.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4932,49 +4932,49 @@ var maDataBlocs = {
  , "c1" : "01505"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1505"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01505] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN439750 the MagicNumber/String  '_dim_\\d+_\\d+_' should be converted to const"
+ , "c3" : "QC-JAV000010[01505] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN440182 the MagicNumber/String  '_dim_\\d+_\\d+_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01506"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1506"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01506] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN439750 the MagicNumber/String  '_dim_(\\d+)_(\\d+)_' should be converted to const"
+ , "c3" : "QC-JAV000010[01506] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN440182 the MagicNumber/String  '_dim_(\\d+)_(\\d+)_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01508"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1508"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01508] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN439750 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[01508] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN440182 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01511"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1511"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01511] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN439750 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01511] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN440182 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01512"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1512"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01512] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN439750 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[01512] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN440182 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01515"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1515"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01515] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN439750 the MagicNumber/String  'Hacking dimension to width=' should be converted to const"
+ , "c3" : "QC-JAV000010[01515] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN440182 the MagicNumber/String  'Hacking dimension to width=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01515"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1515"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01515] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN439750 the MagicNumber/String  ' height=' should be converted to const"
+ , "c3" : "QC-JAV000010[01515] In method smetana.core.Macro.hackInitDimensionFromLabel@POLYN440182 the MagicNumber/String  ' height=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4988,21 +4988,21 @@ var maDataBlocs = {
  , "c1" : "01522"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1522"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01522] In method smetana.core.Macro.createHackInitDimensionFromLabel@POLYN440817 the MagicNumber/String  '_dim_' should be converted to const"
+ , "c3" : "QC-JAV000010[01522] In method smetana.core.Macro.createHackInitDimensionFromLabel@POLYN441249 the MagicNumber/String  '_dim_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01522"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1522"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01522] In method smetana.core.Macro.createHackInitDimensionFromLabel@POLYN440817 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[01522] In method smetana.core.Macro.createHackInitDimensionFromLabel@POLYN441249 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01522"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1522"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01522] In method smetana.core.Macro.createHackInitDimensionFromLabel@POLYN440817 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[01522] In method smetana.core.Macro.createHackInitDimensionFromLabel@POLYN441249 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5016,7 +5016,7 @@ var maDataBlocs = {
  , "c1" : "01530"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1530"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01530] For method PF2P list of called methods Object monObjet|int ROUNDN441204|int ROUNDN441305"
+ , "c3" : "QC-JAV000007[01530] For method PF2P list of called methods Object monObjet|int ROUNDN441636|int ROUNDN441737"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5037,7 +5037,7 @@ var maDataBlocs = {
  , "c1" : "01535"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1535"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01535] For method PF2P list of called methods Object monObjet|int ROUNDN441499|int ROUNDN441600"
+ , "c3" : "QC-JAV000007[01535] For method PF2P list of called methods Object monObjet|int ROUNDN441931|int ROUNDN442032"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5072,7 +5072,7 @@ var maDataBlocs = {
  , "c1" : "01632"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1632"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01632] In method smetana.core.Macro.dtfirst@POLYN447112 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01632] In method smetana.core.Macro.dtfirst@POLYN447544 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5128,7 +5128,7 @@ var maDataBlocs = {
  , "c1" : "01756"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1756"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01756] In method smetana.core.Macro.agfindgraphattr@POLYN451902 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01756] In method smetana.core.Macro.agfindgraphattr@POLYN452334 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5142,7 +5142,7 @@ var maDataBlocs = {
  , "c1" : "01760"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1760"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01760] In method smetana.core.Macro.agfindnodeattr@POLYN452180 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01760] In method smetana.core.Macro.agfindnodeattr@POLYN452612 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5156,7 +5156,7 @@ var maDataBlocs = {
  , "c1" : "01764"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1764"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01764] In method smetana.core.Macro.agfindedgeattr@POLYN452458 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01764] In method smetana.core.Macro.agfindedgeattr@POLYN452890 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5198,7 +5198,7 @@ var maDataBlocs = {
  , "c1" : "01817"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1817"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01817] In method smetana.core.Macro.YPAD@POLYN455166 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[01817] In method smetana.core.Macro.YPAD@POLYN455598 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5212,7 +5212,7 @@ var maDataBlocs = {
  , "c1" : "01821"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1821"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01821] In method smetana.core.Macro.XPAD@POLYN455320 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[01821] In method smetana.core.Macro.XPAD@POLYN455752 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5233,14 +5233,14 @@ var maDataBlocs = {
  , "c1" : "01825"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1825"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01825] In method smetana.core.Macro.UNFLATTEN@POLYN455474 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01825] In method smetana.core.Macro.UNFLATTEN@POLYN455906 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01826"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1826"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01826] In method smetana.core.Macro.UNFLATTEN@POLYN455474 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01826] In method smetana.core.Macro.UNFLATTEN@POLYN455906 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5296,21 +5296,21 @@ var maDataBlocs = {
  , "c1" : "01887"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1887"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01887] In method smetana.core.Macro._DTCMP@POLYN459207 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01887] In method smetana.core.Macro._DTCMP@POLYN459639 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01888"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1888"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01888] In method smetana.core.Macro._DTCMP@POLYN459207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01888] In method smetana.core.Macro._DTCMP@POLYN459639 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01888"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1888"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01888] In method smetana.core.Macro._DTCMP@POLYN459207 the MagicNumber/String  'memcmp(ok,nk,sz)' should be converted to const"
+ , "c3" : "QC-JAV000010[01888] In method smetana.core.Macro._DTCMP@POLYN459639 the MagicNumber/String  'memcmp(ok,nk,sz)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5324,14 +5324,14 @@ var maDataBlocs = {
  , "c1" : "01894"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1894"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01894] In method smetana.core.Macro.agfindedge@POLYN459973 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01894] In method smetana.core.Macro.agfindedge@POLYN460405 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01894"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1894"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01894] In method smetana.core.Macro.agfindedge@POLYN459973 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[01894] In method smetana.core.Macro.agfindedge@POLYN460405 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5373,14 +5373,14 @@ var maDataBlocs = {
  , "c1" : "01923"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1923"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01923] In method smetana.core.Macro.streq@POLYN461014 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01923] In method smetana.core.Macro.streq@POLYN461446 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01923"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1923"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01923] In method smetana.core.Macro.streq@POLYN461014 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01923] In method smetana.core.Macro.streq@POLYN461446 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5394,749 +5394,749 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_realrankdir@POLYN396488"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_realrankdir@POLYN396920"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.APPROXEQPT@POLYN436497"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.APPROXEQPT@POLYN436929"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_adjacent@POLYN421690"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_adjacent@POLYN422122"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_conc_opp_flag@POLYN420406"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_conc_opp_flag@POLYN420838"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_count@POLYN420834"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_count@POLYN421266"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_cutvalue@POLYN421262"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_cutvalue@POLYN421694"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_dist@POLYN428027"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_dist@POLYN428459"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_edge_type@POLYN428883"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_edge_type@POLYN429315"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_label@POLYN422118"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_label@POLYN422550"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_port@POLYN422565"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_port@POLYN422997"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_label@POLYN423029"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_label@POLYN423461"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_label_ontop@POLYN423692"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_label_ontop@POLYN424124"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_minlen@POLYN424120"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_minlen@POLYN424552"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_showboxes@POLYN424548"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_showboxes@POLYN424980"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_spl@POLYN424976"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_spl@POLYN425408"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tail_label@POLYN425404"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tail_label@POLYN425836"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tail_port@POLYN425851"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tail_port@POLYN426283"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_orig@POLYN426315"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_orig@POLYN426747"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_virt@POLYN426743"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_virt@POLYN427175"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tree_index@POLYN427171"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tree_index@POLYN427603"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_weight@POLYN428455"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_weight@POLYN428887"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_xlabel@POLYN423476"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_xlabel@POLYN423908"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_xpenalty@POLYN427599"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_xpenalty@POLYN428031"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_bb@POLYN388404"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_bb@POLYN388836"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_border@POLYN389501"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_border@POLYN389933"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_charset@POLYN392115"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_charset@POLYN392547"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_cleanup@POLYN389067"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_cleanup@POLYN389499"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_clust@POLYN389719"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_clust@POLYN390151"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_comp@POLYN390615"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_comp@POLYN391047"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_dotroot@POLYN390168"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_dotroot@POLYN390600"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_drawing@POLYN387976"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_drawing@POLYN388408"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_exact_ranksep@POLYN390831"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_exact_ranksep@POLYN391263"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_expanded@POLYN391259"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_expanded@POLYN391691"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_flags@POLYN391687"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_flags@POLYN392119"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_fontnames@POLYN403404"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_fontnames@POLYN403836"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_gvc@POLYN388620"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_gvc@POLYN389052"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_has_flat_edges@POLYN392971"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_has_flat_edges@POLYN393403"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_has_labels@POLYN392543"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_has_labels@POLYN392975"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ht1@POLYN393447"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ht1@POLYN393879"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ht2@POLYN393875"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ht2@POLYN394307"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_installed@POLYN394303"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_installed@POLYN394735"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_label@POLYN394731"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_label@POLYN395163"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_label_pos@POLYN402548"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_label_pos@POLYN402980"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_leader@POLYN395178"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_leader@POLYN395610"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ln@POLYN396877"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ln@POLYN397309"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_maxrank@POLYN397324"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_maxrank@POLYN397756"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_maxset@POLYN397752"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_maxset@POLYN398184"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_minrank@POLYN397949"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_minrank@POLYN398381"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_minset@POLYN398377"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_minset@POLYN398809"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_n_cluster@POLYN398574"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_n_cluster@POLYN399006"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_n_nodes@POLYN399002"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_n_nodes@POLYN399434"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_nlist@POLYN399430"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_nlist@POLYN399862"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_nodesep@POLYN399877"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_nodesep@POLYN400309"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_parent@POLYN387548"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_parent@POLYN387980"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rank@POLYN400326"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rank@POLYN400758"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankdir2@POLYN395625"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankdir2@POLYN396057"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankdir@POLYN396053"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankdir@POLYN396485"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankleader@POLYN400796"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankleader@POLYN401228"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ranksep@POLYN401245"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ranksep@POLYN401677"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rn@POLYN401673"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rn@POLYN402105"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_set_type@POLYN402120"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_set_type@POLYN402552"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_showboxes@POLYN402976"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_showboxes@POLYN403408"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.LEN@POLYN437076"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.LEN@POLYN437508"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_UF_parent@POLYN404457"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_UF_parent@POLYN404889"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_UF_size@POLYN404904"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_UF_size@POLYN405336"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_alg@POLYN404029"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_alg@POLYN404461"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_clust@POLYN405332"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_clust@POLYN405764"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_coord@POLYN405779"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_coord@POLYN406211"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_flat_in@POLYN405995"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_flat_in@POLYN406427"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_flat_out@POLYN406192"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_flat_out@POLYN406624"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_has_port@POLYN406389"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_has_port@POLYN406821"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_height@POLYN406817"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_height@POLYN407249"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_ht@POLYN407245"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_ht@POLYN407677"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_id@POLYN403832"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_id@POLYN404264"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_in@POLYN407673"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_in@POLYN408105"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_inleaf@POLYN408139"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_inleaf@POLYN408571"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_label@POLYN408336"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_label@POLYN408768"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lim@POLYN408999"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lim@POLYN409431"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_low@POLYN409427"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_low@POLYN409859"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lw@POLYN409855"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lw@POLYN410287"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_mark@POLYN410283"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_mark@POLYN410715"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_mval@POLYN410990"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_mval@POLYN411422"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_next@POLYN411418"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_next@POLYN411850"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_node_type@POLYN411865"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_node_type@POLYN412297"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_order@POLYN413024"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_order@POLYN413456"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_other@POLYN413452"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_other@POLYN413884"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_out@POLYN413649"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_out@POLYN414081"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_outleaf@POLYN414115"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_outleaf@POLYN414547"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_par@POLYN414312"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_par@POLYN414744"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_prev@POLYN414740"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_prev@POLYN415172"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_priority@POLYN415168"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_priority@POLYN415600"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_ranktype@POLYN416084"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_ranktype@POLYN416516"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_rw@POLYN416512"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_rw@POLYN416944"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_save_in@POLYN416940"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_save_in@POLYN417372"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_save_out@POLYN417406"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_save_out@POLYN417838"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_shape@POLYN417872"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_shape@POLYN418304"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_shape_info@POLYN418300"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_shape_info@POLYN418732"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_showboxes@POLYN418728"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_showboxes@POLYN419160"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_tree_in@POLYN419156"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_tree_in@POLYN419588"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_tree_out@POLYN419353"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_tree_out@POLYN419785"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_weight_class@POLYN419550"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_weight_class@POLYN419982"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_width@POLYN419978"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_width@POLYN420410"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_xlabel@POLYN408783"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_xlabel@POLYN409215"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro._DTKEY@POLYN458986"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro._DTKEY@POLYN459418"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.streq@POLYN461362"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.streq@POLYN461794"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00509"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#509"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00509] In the recursive method smetana.core.Macro.GD_realrankdir@POLYN396488 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00509] In the recursive method smetana.core.Macro.GD_realrankdir@POLYN396920 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00499"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#499"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00499] In the recursive method smetana.core.Macro.GD_rankdir@POLYN396053 the MagicNumber/String 0x3 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00499] In the recursive method smetana.core.Macro.GD_rankdir@POLYN396485 the MagicNumber/String 0x3 MUST BE CONVERTED to const"
 }} 
 ]
 , 

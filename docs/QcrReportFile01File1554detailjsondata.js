@@ -137,28 +137,28 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.SvgCommandNumber.SvgCommandNumber@POLYN147878 the MagicNumber/String  '[-.0-9e]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.SvgCommandNumber.SvgCommandNumber@POLYN148310 the MagicNumber/String  '[-.0-9e]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.SvgCommandNumber.SvgCommandNumber@POLYN147878 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.SvgCommandNumber.SvgCommandNumber@POLYN148310 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.openiconic.SvgCommandNumber.toString@POLYN148196 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.openiconic.SvgCommandNumber.toString@POLYN148628 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandNumber.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.openiconic.SvgCommandNumber.SvgCommandNumber@POLYN148295 the MagicNumber/String  '%1.4f' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.openiconic.SvgCommandNumber.SvgCommandNumber@POLYN148727 the MagicNumber/String  '%1.4f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

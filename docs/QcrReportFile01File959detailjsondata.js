@@ -112,7 +112,7 @@ var maDataBlocs = {
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.CommandSkinParamMultilines@POLYN149971 the MagicNumber/String  '^skinparam[%s]*(?:[%s]+([\\w.]*(?:\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?[\\w.]*))?[%s]*\\{$' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.CommandSkinParamMultilines@POLYN150403 the MagicNumber/String  '^skinparam[%s]*(?:[%s]+([\\w.]*(?:\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?[\\w.]*))?[%s]*\\{$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -126,7 +126,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.isLineConsistent@POLYN150097 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.isLineConsistent@POLYN150529 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -154,14 +154,14 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.execute@POLYN150685 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.execute@POLYN151117 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSkinParamMultilines.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.execute@POLYN150685 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.command.CommandSkinParamMultilines.execute@POLYN151117 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

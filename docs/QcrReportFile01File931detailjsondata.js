@@ -103,21 +103,21 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMinwidth.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandMinwidth.getRegexConcat@POLYN149533 the MagicNumber/String  'minwidth' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandMinwidth.getRegexConcat@POLYN149965 the MagicNumber/String  'minwidth' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMinwidth.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandMinwidth.getRegexConcat@POLYN149533 the MagicNumber/String  'VALUE' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandMinwidth.getRegexConcat@POLYN149965 the MagicNumber/String  'VALUE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMinwidth.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandMinwidth.getRegexConcat@POLYN149533 the MagicNumber/String  '(\\d+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandMinwidth.getRegexConcat@POLYN149965 the MagicNumber/String  '(\\d+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -145,14 +145,14 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMinwidth.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMinwidth.executeArg@POLYN149976 the MagicNumber/String  'VALUE' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMinwidth.executeArg@POLYN150408 the MagicNumber/String  'VALUE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMinwidth.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMinwidth.executeArg@POLYN149976 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMinwidth.executeArg@POLYN150408 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -249,7 +249,7 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1Abstract.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract.createNoteBox@POLYN157953 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract.createNoteBox@POLYN158385 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

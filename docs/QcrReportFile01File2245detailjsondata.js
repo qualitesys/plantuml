@@ -144,7 +144,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.svek.Ports.encodePortNameToId@POLYN154517 the MagicNumber/String  'p' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.svek.Ports.encodePortNameToId@POLYN154949 the MagicNumber/String  'p' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -165,7 +165,7 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.svek.Ports.add@POLYN155291 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.svek.Ports.add@POLYN155723 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -200,7 +200,7 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Ports.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.Ports.addThis@POLYN155977 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.Ports.addThis@POLYN156409 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

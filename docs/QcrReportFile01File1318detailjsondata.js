@@ -139,14 +139,14 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.golem.MinMaxDouble.getWidth@POLYN149779 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.golem.MinMaxDouble.getWidth@POLYN150211 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/MinMaxDouble.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.golem.MinMaxDouble.getHeight@POLYN149911 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.golem.MinMaxDouble.getHeight@POLYN150343 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

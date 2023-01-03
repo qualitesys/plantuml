@@ -344,42 +344,42 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172222 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172654 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172222 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172654 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172478 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172910 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172478 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172910 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172773 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN173205 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN172773 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.expression.TValue.TValue@POLYN173205 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -400,14 +400,14 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.expression.TValue.fromBoolean@POLYN173196 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.expression.TValue.fromBoolean@POLYN173628 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.expression.TValue.fromBoolean@POLYN173196 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.expression.TValue.fromBoolean@POLYN173628 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -421,28 +421,28 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173555 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173987 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173555 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173987 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173555 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173987 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173555 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.expression.TValue.toString@POLYN173987 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -526,7 +526,7 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.tim.expression.TValue.multiply@POLYN175760 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.tim.expression.TValue.multiply@POLYN176192 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -547,49 +547,49 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.tim.expression.TValue.dividedBy@POLYN176207 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.tim.expression.TValue.dividedBy@POLYN176639 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.tim.expression.TValue.isNumber@POLYN176654 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.tim.expression.TValue.isNumber@POLYN177086 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.tim.expression.TValue.isNumber@POLYN176654 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.tim.expression.TValue.isNumber@POLYN177086 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.tim.expression.TValue.isJson@POLYN176830 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.tim.expression.TValue.isJson@POLYN177262 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.tim.expression.TValue.isString@POLYN176950 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.tim.expression.TValue.isString@POLYN177382 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.tim.expression.TValue.toToken@POLYN177070 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.tim.expression.TValue.toToken@POLYN177502 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.tim.expression.TValue.toToken@POLYN177070 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.tim.expression.TValue.toToken@POLYN177502 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -610,7 +610,7 @@ var maDataBlocs = {
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.tim.expression.TValue.greaterThanOrEquals@POLYN177660 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.tim.expression.TValue.greaterThanOrEquals@POLYN178092 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -631,7 +631,7 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.tim.expression.TValue.greaterThan@POLYN178110 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.tim.expression.TValue.greaterThan@POLYN178542 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -652,7 +652,7 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.tim.expression.TValue.lessThanOrEquals@POLYN178560 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.tim.expression.TValue.lessThanOrEquals@POLYN178992 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -673,7 +673,7 @@ var maDataBlocs = {
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.tim.expression.TValue.lessThan@POLYN179010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.tim.expression.TValue.lessThan@POLYN179442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -694,7 +694,7 @@ var maDataBlocs = {
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.tim.expression.TValue.equalsOperation@POLYN179460 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.tim.expression.TValue.equalsOperation@POLYN179892 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -715,21 +715,21 @@ var maDataBlocs = {
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.tim.expression.TValue.notEquals@POLYN179910 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.tim.expression.TValue.notEquals@POLYN180342 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TValue.toBoolean@POLYN180360 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TValue.toBoolean@POLYN180792 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TValue.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.tim.expression.TValue.toBoolean@POLYN180360 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.tim.expression.TValue.toBoolean@POLYN180792 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

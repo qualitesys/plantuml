@@ -279,42 +279,42 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN163697 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN164129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN163697 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN164129 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN163697 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN164129 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN163697 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN164129 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN163697 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN164129 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN163697 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphic.SingleLine.withSomeHtmlTag@POLYN164129 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -335,21 +335,21 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.graphic.SingleLine.rawText@POLYN166002 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.graphic.SingleLine.rawText@POLYN166434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.graphic.SingleLine.rawText@POLYN166002 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.graphic.SingleLine.rawText@POLYN166434 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.graphic.SingleLine.rawText@POLYN166002 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.graphic.SingleLine.rawText@POLYN166434 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -370,14 +370,14 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.graphic.SingleLine.calculateDimension@POLYN166662 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.graphic.SingleLine.calculateDimension@POLYN167094 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.graphic.SingleLine.calculateDimension@POLYN166662 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.graphic.SingleLine.calculateDimension@POLYN167094 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -419,14 +419,14 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.graphic.SingleLine.maxDeltaY@POLYN167329 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.graphic.SingleLine.maxDeltaY@POLYN167761 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.graphic.SingleLine.maxDeltaY@POLYN167329 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.graphic.SingleLine.maxDeltaY@POLYN167761 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -454,7 +454,7 @@ var maDataBlocs = {
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SingleLine.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.graphic.SingleLine.drawU@POLYN168201 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.graphic.SingleLine.drawU@POLYN168633 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

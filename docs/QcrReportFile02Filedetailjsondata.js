@@ -405,6 +405,8 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemPath" }, 
   { "child"  : "(1) net.sourceforge.plantuml.jcckit.PSystemJcckit" }, 
   { "child"  : "(1) net.sourceforge.plantuml.logo.PSystemLogo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemLatex" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemMath" }, 
   { "child"  : "(1) net.sourceforge.plantuml.sudoku.PSystemSudoku" }, 
 ]
 }},
@@ -5015,6 +5017,7 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker" }, 
   { "child"  : "(1) net.sourceforge.plantuml.hcl.HclParser" }, 
   { "child"  : "(1) net.sourceforge.plantuml.hcl.HclTerm" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.html.CucaDiagramHtmlMaker" }, 
   { "child"  : "(1) net.sourceforge.plantuml.html.LinkHtmlPrinter" }, 
   { "child"  : "(1) net.sourceforge.plantuml.jasic.Jasic" }, 
   { "child"  : "(1) net.sourceforge.plantuml.json.Json" }, 
@@ -5036,6 +5039,7 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.math.ASCIIMathTeXImg" }, 
   { "child"  : "(1) net.sourceforge.plantuml.math.ConverterSvg" }, 
   { "child"  : "(1) net.sourceforge.plantuml.math.ScientificEquation" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.math.ScientificEquationSafe" }, 
   { "child"  : "(1) net.sourceforge.plantuml.math.TeXIconBuilder" }, 
   { "child"  : "(1) net.sourceforge.plantuml.mindmap.Idea" }, 
   { "child"  : "(1) net.sourceforge.plantuml.mindmap.StripeFrontier" }, 
@@ -12265,6 +12269,11 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(1) net.sourceforge.plantuml.html.CucaDiagramHtmlMaker" ,
+"children" : [
+]
+}},
+{"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.html.LinkHtmlPrinter" ,
 "children" : [
 ]
@@ -12460,7 +12469,17 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(1) net.sourceforge.plantuml.math.PSystemLatex" ,
+"children" : [
+]
+}},
+{"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.math.PSystemLatexFactory" ,
+"children" : [
+]
+}},
+{"ligne" : {
+   "classe"  : "(1) net.sourceforge.plantuml.math.PSystemMath" ,
 "children" : [
 ]
 }},
@@ -12471,6 +12490,11 @@ var maDataBlocs = {
 }},
 {"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.math.ScientificEquation" ,
+"children" : [
+]
+}},
+{"ligne" : {
+   "classe"  : "(1) net.sourceforge.plantuml.math.ScientificEquationSafe" ,
 "children" : [
 ]
 }},

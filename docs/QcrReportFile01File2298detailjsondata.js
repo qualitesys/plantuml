@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityOther.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.extremity.ExtremityOther.somePoint@POLYN147261 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.extremity.ExtremityOther.somePoint@POLYN147693 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

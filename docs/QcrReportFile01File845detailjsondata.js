@@ -227,56 +227,56 @@ var maDataBlocs = {
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176496 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176928 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176496 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176928 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176496 the MagicNumber/String  'No more input' should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176928 the MagicNumber/String  'No more input' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176496 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176928 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176496 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176928 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176496 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176928 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176496 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176928 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176496 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.doReadMoreInput@POLYN176928 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -290,42 +290,42 @@ var maDataBlocs = {
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN177979 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN178411 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN177979 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN178411 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN177979 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN178411 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN177979 the MagicNumber/String  'Read after end' should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN178411 the MagicNumber/String  'Read after end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN177979 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN178411 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN177979 the MagicNumber/String  'Unused bytes after end' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.checkHealth@POLYN178411 the MagicNumber/String  'Unused bytes after end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -339,7 +339,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.fillBitWindow@POLYN178838 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.fillBitWindow@POLYN179270 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -353,7 +353,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.doFillBitWindow@POLYN179643 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.doFillBitWindow@POLYN180075 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -367,7 +367,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.peekBits@POLYN180369 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.peekBits@POLYN180801 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -381,14 +381,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readFewBits@POLYN180722 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readFewBits@POLYN181154 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readFewBits@POLYN180722 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readFewBits@POLYN181154 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -402,14 +402,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readBits@POLYN181117 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readBits@POLYN181549 the MagicNumber/String  24 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readBits@POLYN181117 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readBits@POLYN181549 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -423,21 +423,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readManyBits@POLYN181632 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readManyBits@POLYN182064 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readManyBits@POLYN181632 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readManyBits@POLYN182064 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readManyBits@POLYN181632 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.readManyBits@POLYN182064 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -451,28 +451,28 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.initBitReader@POLYN182075 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.initBitReader@POLYN182507 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.initBitReader@POLYN182075 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.initBitReader@POLYN182507 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.initBitReader@POLYN182075 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.initBitReader@POLYN182507 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.initBitReader@POLYN182075 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.initBitReader@POLYN182507 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -486,7 +486,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.prepare@POLYN182911 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.prepare@POLYN183343 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -507,28 +507,28 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.jumpToByteBoundary@POLYN183458 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.jumpToByteBoundary@POLYN183890 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.jumpToByteBoundary@POLYN183458 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.jumpToByteBoundary@POLYN183890 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.jumpToByteBoundary@POLYN183458 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.jumpToByteBoundary@POLYN183890 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.jumpToByteBoundary@POLYN183458 the MagicNumber/String  'Corrupted padding bits' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.jumpToByteBoundary@POLYN183890 the MagicNumber/String  'Corrupted padding bits' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -542,14 +542,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.halfAvailable@POLYN183993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.halfAvailable@POLYN184425 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.halfAvailable@POLYN183993 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.halfAvailable@POLYN184425 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -563,105 +563,105 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  'Unaligned copyBytes' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  'Unaligned copyBytes' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184436 the MagicNumber/String  'Unexpected end of input' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.copyBytes@POLYN184868 the MagicNumber/String  'Unexpected end of input' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -675,161 +675,161 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  24 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/BitReader.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187264 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.brotli.BitReader.bytesToNibbles@POLYN187696 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
 , 

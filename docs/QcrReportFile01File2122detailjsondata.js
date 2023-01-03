@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sprite.SpriteImage.asTextBlock@POLYN156677 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sprite.SpriteImage.asTextBlock@POLYN157109 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -140,35 +140,35 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN157793 the MagicNumber/String  '.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN158225 the MagicNumber/String  '.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN157793 the MagicNumber/String  '.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN158225 the MagicNumber/String  '.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN157793 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN158225 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN157793 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN158225 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN157793 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sprite.SpriteImage.fromInternal@POLYN158225 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -182,7 +182,7 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteImage.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sprite.SpriteImage.getInternalSprite@POLYN158492 the MagicNumber/String  '/sprites/' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sprite.SpriteImage.getInternalSprite@POLYN158924 the MagicNumber/String  '/sprites/' should be converted to const"
 }} 
 ]
 , 

@@ -130,7 +130,7 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.startingChars@POLYN153173 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.startingChars@POLYN153605 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -144,21 +144,21 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN154030 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN154462 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN154030 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN154462 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN154030 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.matchingSize@POLYN154462 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -186,28 +186,28 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154429 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154861 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154429 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154861 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154429 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154861 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleFontFamilyChange.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154429 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange.executeAndGetRemaining@POLYN154861 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

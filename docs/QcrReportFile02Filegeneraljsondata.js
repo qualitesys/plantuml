@@ -1273,6 +1273,7 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml.help" , "classe":"CommandHelpType" , "nbMethodes":"3" , "nbComplexite":"1.34"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.help" , "classe":"Help" , "nbMethodes":"6" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.help" , "classe":"HelpFactory" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
+' { "namespace":"net.sourceforge.plantuml.html" , "classe":"CucaDiagramHtmlMaker" , "nbMethodes":"8" , "nbComplexite":"4.38"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.html" , "classe":"LinkHtmlPrinter" , "nbMethodes":"6" , "nbComplexite":"6.50"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.jasic" , "classe":"Jasic" , "nbMethodes":"3" , "nbComplexite":"9.34"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.jcckit" , "classe":"PSystemJcckit" , "nbMethodes":"3" , "nbComplexite":"1.00"} ,' + 
@@ -1311,9 +1312,12 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml.math" , "classe":"AsciiMath" , "nbMethodes":"5" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.math" , "classe":"ConverterSvg" , "nbMethodes":"3" , "nbComplexite":"1.34"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.math" , "classe":"LatexBuilder" , "nbMethodes":"6" , "nbComplexite":"1.00"} ,' + 
+' { "namespace":"net.sourceforge.plantuml.math" , "classe":"PSystemLatex" , "nbMethodes":"5" , "nbComplexite":"3.41"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.math" , "classe":"PSystemLatexFactory" , "nbMethodes":"3" , "nbComplexite":"1.34"} ,' + 
+' { "namespace":"net.sourceforge.plantuml.math" , "classe":"PSystemMath" , "nbMethodes":"5" , "nbComplexite":"3.41"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.math" , "classe":"PSystemMathFactory" , "nbMethodes":"3" , "nbComplexite":"1.34"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.math" , "classe":"ScientificEquation" , "nbMethodes":"4" , "nbComplexite":"1.00"} ,' + 
+' { "namespace":"net.sourceforge.plantuml.math" , "classe":"ScientificEquationSafe" , "nbMethodes":"9" , "nbComplexite":"1.67"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.math" , "classe":"TeXIconBuilder" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.mda" , "classe":"MDADiagramImpl" , "nbMethodes":"3" , "nbComplexite":"2.34"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.mda" , "classe":"MDAEntityImpl" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 

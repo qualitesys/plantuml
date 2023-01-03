@@ -110,14 +110,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/SpiralOnRectangle.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.code.SpiralOnRectangle.SpiralOnRectangle@POLYN148411 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.code.SpiralOnRectangle.SpiralOnRectangle@POLYN148843 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/SpiralOnRectangle.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.code.SpiralOnRectangle.SpiralOnRectangle@POLYN148411 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.code.SpiralOnRectangle.SpiralOnRectangle@POLYN148843 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -138,14 +138,14 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/SpiralOnRectangle.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.SpiralOnRectangle.inside@POLYN148807 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.SpiralOnRectangle.inside@POLYN149239 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/SpiralOnRectangle.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.SpiralOnRectangle.inside@POLYN148807 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.SpiralOnRectangle.inside@POLYN149239 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -159,7 +159,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/SpiralOnRectangle.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.code.SpiralOnRectangle.nextPoint@POLYN149233 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.code.SpiralOnRectangle.nextPoint@POLYN149665 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

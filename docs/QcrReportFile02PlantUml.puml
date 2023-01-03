@@ -4922,6 +4922,10 @@ Complexity :1.00
 }
 }
 package net.sourceforge.plantuml.html {
+class "net.sourceforge.plantuml.html.CucaDiagramHtmlMaker" {
+Nb methods :8
+Complexity :4.38
+}
 class "net.sourceforge.plantuml.html.LinkHtmlPrinter" {
 Nb methods :6
 Complexity :6.50
@@ -5088,9 +5092,17 @@ class "net.sourceforge.plantuml.math.LatexBuilder" {
 Nb methods :6
 Complexity :1.00
 }
+class "net.sourceforge.plantuml.math.PSystemLatex" {
+Nb methods :5
+Complexity :3.41
+}
 class "net.sourceforge.plantuml.math.PSystemLatexFactory" {
 Nb methods :3
 Complexity :1.34
+}
+class "net.sourceforge.plantuml.math.PSystemMath" {
+Nb methods :5
+Complexity :3.41
 }
 class "net.sourceforge.plantuml.math.PSystemMathFactory" {
 Nb methods :3
@@ -5099,6 +5111,10 @@ Complexity :1.34
 class "net.sourceforge.plantuml.math.ScientificEquation" {
 Nb methods :4
 Complexity :1.00
+}
+class "net.sourceforge.plantuml.math.ScientificEquationSafe" {
+Nb methods :9
+Complexity :1.67
 }
 class "net.sourceforge.plantuml.math.TeXIconBuilder" {
 Nb methods :2

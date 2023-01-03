@@ -259,28 +259,28 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.addInGroupable@POLYN169731 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.addInGroupable@POLYN170163 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.addInGroupable@POLYN169731 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.addInGroupable@POLYN170163 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170115 the MagicNumber/String  'GS ' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170547 the MagicNumber/String  'GS ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170115 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170547 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -294,21 +294,21 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170291 the MagicNumber/String  'GS ' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170723 the MagicNumber/String  'GS ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170291 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170723 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170291 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.toString@POLYN170723 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,14 +329,14 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinSlow@POLYN170825 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinSlow@POLYN171257 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinSlow@POLYN170825 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinSlow@POLYN171257 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -350,14 +350,14 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxSlow@POLYN171365 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxSlow@POLYN171797 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxSlow@POLYN171365 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxSlow@POLYN171797 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -371,7 +371,7 @@ var maDataBlocs = {
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMin@POLYN171959 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMin@POLYN172391 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -385,7 +385,7 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMax@POLYN172210 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMax@POLYN172642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -420,14 +420,14 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getFirstParticipantBox@POLYN172674 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getFirstParticipantBox@POLYN173106 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getFirstParticipantBox@POLYN172674 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getFirstParticipantBox@POLYN173106 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -455,14 +455,14 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getLastParticipantBox@POLYN173261 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getLastParticipantBox@POLYN173693 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getLastParticipantBox@POLYN173261 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getLastParticipantBox@POLYN173693 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -476,28 +476,28 @@ var maDataBlocs = {
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinX@POLYN173848 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinX@POLYN174280 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinX@POLYN173848 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinX@POLYN174280 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinX@POLYN173848 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinX@POLYN174280 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinX@POLYN173848 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMinX@POLYN174280 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -511,7 +511,7 @@ var maDataBlocs = {
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxX@POLYN174898 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxX@POLYN175330 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -525,14 +525,14 @@ var maDataBlocs = {
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxXInternal@POLYN175449 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxXInternal@POLYN175881 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxXInternal@POLYN175449 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.sequencediagram.InGroupableList.getMaxXInternal@POLYN175881 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

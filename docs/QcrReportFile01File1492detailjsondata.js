@@ -103,7 +103,7 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mda/MDAPackageImpl.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.mda.MDAPackageImpl.getName@POLYN150055 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.mda.MDAPackageImpl.getName@POLYN150487 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

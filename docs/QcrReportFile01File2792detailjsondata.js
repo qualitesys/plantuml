@@ -301,112 +301,112 @@ var maDataBlocs = {
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'uml:Model' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'uml:Model' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'xmlns:uml' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'xmlns:uml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'http://www.omg.org/spec/UML/20110701' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'http://www.omg.org/spec/UML/20110701' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'xmlns:xmi' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'xmlns:xmi' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'http://schema.omg.org/spec/XMI/2.1' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'http://schema.omg.org/spec/XMI/2.1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'xmi:version' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'xmi:version' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  '2.1' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  '2.1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'xmi:id' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'xmi:id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'uml:Model' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'uml:Model' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'packagedElement' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'packagedElement' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'Interaction' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'Interaction' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'nestedClassifier' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'nestedClassifier' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'Collaboration' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'Collaboration' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN186842 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.build@POLYN187274 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -434,42 +434,42 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN188939 the MagicNumber/String  'fragment' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN189371 the MagicNumber/String  'fragment' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN188939 the MagicNumber/String  'BehaviorExecutionSpecification' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN189371 the MagicNumber/String  'BehaviorExecutionSpecification' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN188939 the MagicNumber/String  'covered' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN189371 the MagicNumber/String  'covered' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN188939 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN189371 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN188939 the MagicNumber/String  'start' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN189371 the MagicNumber/String  'start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN188939 the MagicNumber/String  'finish' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildLifeEvent@POLYN189371 the MagicNumber/String  'finish' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -490,14 +490,14 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getReceiver@POLYN190223 the MagicNumber/String  'FROM_' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getReceiver@POLYN190655 the MagicNumber/String  'FROM_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getReceiver@POLYN190223 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getReceiver@POLYN190655 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -518,14 +518,14 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getLifeEventOccurrenceId@POLYN190779 the MagicNumber/String  'receiveEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getLifeEventOccurrenceId@POLYN191211 the MagicNumber/String  'receiveEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getLifeEventOccurrenceId@POLYN190779 the MagicNumber/String  'sendEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getLifeEventOccurrenceId@POLYN191211 the MagicNumber/String  'sendEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -546,28 +546,28 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN191226 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN191658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN191226 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN191658 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN191226 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN191658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN191226 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN191658 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -588,28 +588,28 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNoteEvent@POLYN192248 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNoteEvent@POLYN192680 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNoteEvent@POLYN192248 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNoteEvent@POLYN192680 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNoteEvent@POLYN192248 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNoteEvent@POLYN192680 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNoteEvent@POLYN192248 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNoteEvent@POLYN192680 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -637,28 +637,28 @@ var maDataBlocs = {
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getAnnotatedElements@POLYN193070 the MagicNumber/String  'sendEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getAnnotatedElements@POLYN193502 the MagicNumber/String  'sendEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getAnnotatedElements@POLYN193070 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getAnnotatedElements@POLYN193502 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getAnnotatedElements@POLYN193070 the MagicNumber/String  'receiveEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getAnnotatedElements@POLYN193502 the MagicNumber/String  'receiveEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getAnnotatedElements@POLYN193070 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.getAnnotatedElements@POLYN193502 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -693,35 +693,35 @@ var maDataBlocs = {
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194315 the MagicNumber/String  'ownedComment' should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194747 the MagicNumber/String  'ownedComment' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194315 the MagicNumber/String  'Comment' should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194747 the MagicNumber/String  'Comment' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194315 the MagicNumber/String  'annotatedElement' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194747 the MagicNumber/String  'annotatedElement' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194315 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194747 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194315 the MagicNumber/String  'body' should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildNote@POLYN194747 the MagicNumber/String  'body' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -763,49 +763,49 @@ var maDataBlocs = {
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195360 the MagicNumber/String  'TO_' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195792 the MagicNumber/String  'TO_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195360 the MagicNumber/String  'sendEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195792 the MagicNumber/String  'sendEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195360 the MagicNumber/String  'receiveEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195792 the MagicNumber/String  'receiveEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195360 the MagicNumber/String  'message' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195792 the MagicNumber/String  'message' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195360 the MagicNumber/String  'Message' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195792 the MagicNumber/String  'Message' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195360 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195792 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195360 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessageExo@POLYN195792 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -840,63 +840,63 @@ var maDataBlocs = {
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'sendEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'sendEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'receiveEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'receiveEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'message' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'message' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'Message' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'Message' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'receiveEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'receiveEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'receiveEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'receiveEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'sendEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'sendEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN196956 the MagicNumber/String  'sendEvent' should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildMessage@POLYN197388 the MagicNumber/String  'sendEvent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -924,49 +924,49 @@ var maDataBlocs = {
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198260 the MagicNumber/String  'fragment' should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198692 the MagicNumber/String  'fragment' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198260 the MagicNumber/String  'CombinedFragment' should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198692 the MagicNumber/String  'CombinedFragment' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198260 the MagicNumber/String  'interactionOperator' should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198692 the MagicNumber/String  'interactionOperator' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198260 the MagicNumber/String  'operand' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198692 the MagicNumber/String  'operand' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198260 the MagicNumber/String  'operand' should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198692 the MagicNumber/String  'operand' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198260 the MagicNumber/String  'covered' should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198692 the MagicNumber/String  'covered' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198260 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.buildGrouping@POLYN198692 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -987,28 +987,28 @@ var maDataBlocs = {
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createGuardElement@POLYN200264 the MagicNumber/String  'guard' should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createGuardElement@POLYN200696 the MagicNumber/String  'guard' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createGuardElement@POLYN200264 the MagicNumber/String  'specification' should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createGuardElement@POLYN200696 the MagicNumber/String  'specification' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createGuardElement@POLYN200264 the MagicNumber/String  'LiteralString' should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createGuardElement@POLYN200696 the MagicNumber/String  'LiteralString' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createGuardElement@POLYN200264 the MagicNumber/String  'value' should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createGuardElement@POLYN200696 the MagicNumber/String  'value' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1022,7 +1022,7 @@ var maDataBlocs = {
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createElement@POLYN200729 the MagicNumber/String  'xmi:id' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createElement@POLYN201161 the MagicNumber/String  'xmi:id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1036,7 +1036,7 @@ var maDataBlocs = {
  , "c1" : "00234"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createElement@POLYN201062 the MagicNumber/String  'xmi:id' should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createElement@POLYN201494 the MagicNumber/String  'xmi:id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1050,21 +1050,21 @@ var maDataBlocs = {
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createUmlElement@POLYN201485 the MagicNumber/String  'xmi:type' should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createUmlElement@POLYN201917 the MagicNumber/String  'xmi:type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createUmlElement@POLYN201485 the MagicNumber/String  'uml:' should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createUmlElement@POLYN201917 the MagicNumber/String  'uml:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createUmlElement@POLYN201485 the MagicNumber/String  'xmi:id' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createUmlElement@POLYN201917 the MagicNumber/String  'xmi:id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1078,49 +1078,49 @@ var maDataBlocs = {
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN201933 the MagicNumber/String  'fragment' should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN202365 the MagicNumber/String  'fragment' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN201933 the MagicNumber/String  'MessageOccurrenceSpecification' should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN202365 the MagicNumber/String  'MessageOccurrenceSpecification' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN201933 the MagicNumber/String  'xmi:id' should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN202365 the MagicNumber/String  'xmi:id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#249"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN201933 the MagicNumber/String  'covered' should be converted to const"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN202365 the MagicNumber/String  'covered' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#249"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN201933 the MagicNumber/String  'lifeline' should be converted to const"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN202365 the MagicNumber/String  'lifeline' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN201933 the MagicNumber/String  'message' should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN202365 the MagicNumber/String  'message' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN201933 the MagicNumber/String  'Message' should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard.createMessageOccurrence@POLYN202365 the MagicNumber/String  'Message' should be converted to const"
 }} 
 ]
 , 

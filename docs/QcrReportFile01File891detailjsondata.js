@@ -103,56 +103,56 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN152980 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN153412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN152980 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN153412 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN152980 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN153412 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN152980 the MagicNumber/String  1000 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN153412 the MagicNumber/String  1000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN152980 the MagicNumber/String  1000 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN153412 the MagicNumber/String  1000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN152980 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN153412 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN152980 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN153412 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN152980 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.code.CompressionZlib.compress@POLYN153412 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -166,21 +166,21 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.code.CompressionZlib.decompress@POLYN154205 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.code.CompressionZlib.decompress@POLYN154637 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.code.CompressionZlib.decompress@POLYN154205 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.code.CompressionZlib.decompress@POLYN154637 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.code.CompressionZlib.decompress@POLYN154205 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.code.CompressionZlib.decompress@POLYN154637 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -194,14 +194,14 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.CompressionZlib.copyArray@POLYN154995 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.CompressionZlib.copyArray@POLYN155427 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionZlib.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.CompressionZlib.copyArray@POLYN154995 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.CompressionZlib.copyArray@POLYN155427 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

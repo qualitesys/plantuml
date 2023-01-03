@@ -126,14 +126,14 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method jcckit.plot.BarFactory.BarFactory@POLYN166472 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method jcckit.plot.BarFactory.BarFactory@POLYN166904 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.plot.BarFactory.BarFactory@POLYN166472 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.plot.BarFactory.BarFactory@POLYN166904 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00083] For method createSymbol list of called methods Object monObjet|double position_getXN167697|double position_getYN167772|double point_getXN167847|double point_getYN167964"
+ , "c3" : "QC-JAV000007[00083] For method createSymbol list of called methods Object monObjet|double position_getXN168129|double position_getYN168204|double point_getXN168279|double point_getYN168396"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -161,49 +161,49 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method jcckit.plot.BarFactory.createSymbol@POLYN167077 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method jcckit.plot.BarFactory.createSymbol@POLYN167509 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method jcckit.plot.BarFactory.createSymbol@POLYN167077 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method jcckit.plot.BarFactory.createSymbol@POLYN167509 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method jcckit.plot.BarFactory.createSymbol@POLYN167077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method jcckit.plot.BarFactory.createSymbol@POLYN167509 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method jcckit.plot.BarFactory.createSymbol@POLYN167077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method jcckit.plot.BarFactory.createSymbol@POLYN167509 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method jcckit.plot.BarFactory.createSymbol@POLYN167077 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method jcckit.plot.BarFactory.createSymbol@POLYN167509 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method jcckit.plot.BarFactory.createSymbol@POLYN167077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method jcckit.plot.BarFactory.createSymbol@POLYN167509 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method jcckit.plot.BarFactory.createSymbol@POLYN167077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method jcckit.plot.BarFactory.createSymbol@POLYN167509 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -224,7 +224,7 @@ var maDataBlocs = {
  , "c1" : "00129"
  , "c1link" : "./qc/src/jcckit/plot/BarFactory.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method jcckit.plot.BarFactory.createPlainSymbol@POLYN169959 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method jcckit.plot.BarFactory.createPlainSymbol@POLYN170391 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

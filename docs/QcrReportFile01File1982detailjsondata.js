@@ -279,7 +279,7 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.Variation.toString@POLYN179682 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.Variation.toString@POLYN180114 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -300,14 +300,14 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.addSegmentVariation@POLYN180525 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.addSegmentVariation@POLYN180957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.addSegmentVariation@POLYN180525 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.addSegmentVariation@POLYN180957 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -321,21 +321,21 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.finish@POLYN181937 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.finish@POLYN182369 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.finish@POLYN181937 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.finish@POLYN182369 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getMissingClose@POLYN182356 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getMissingClose@POLYN182788 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -370,21 +370,21 @@ var maDataBlocs = {
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183585 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN184017 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183585 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN184017 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN183585 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getRightShiftAtLevel@POLYN184017 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -398,21 +398,21 @@ var maDataBlocs = {
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183872 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN184304 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183872 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN184304 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN183872 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getLeftShiftAtLevel@POLYN184304 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -426,7 +426,7 @@ var maDataBlocs = {
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getStartingX@POLYN184115 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getStartingX@POLYN184547 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -440,35 +440,35 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184800 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184800 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184800 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184800 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184368 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegment@POLYN184800 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -482,7 +482,7 @@ var maDataBlocs = {
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegmentsCutted@POLYN185943 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getSegmentsCutted@POLYN186375 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -608,42 +608,42 @@ var maDataBlocs = {
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186798 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186798 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186798 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186798 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186798 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186366 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.drawU@POLYN186798 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -657,28 +657,28 @@ var maDataBlocs = {
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getDestroy@POLYN189298 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getDestroy@POLYN189730 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00262"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#262"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189477 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189909 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00263"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#263"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189477 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189909 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189477 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.getColors@POLYN189909 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

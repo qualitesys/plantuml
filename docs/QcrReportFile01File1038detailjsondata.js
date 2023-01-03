@@ -133,14 +133,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.calculateDimension@POLYN150819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.calculateDimension@POLYN151251 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.calculateDimension@POLYN150819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.calculateDimension@POLYN151251 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -154,7 +154,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.getStartingAltitude@POLYN151486 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.getStartingAltitude@POLYN151918 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -182,7 +182,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomVerticalTexts.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.drawU@POLYN151666 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.creole.atom.AtomVerticalTexts.drawU@POLYN152098 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

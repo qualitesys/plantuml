@@ -229,56 +229,56 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN160431 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN160431 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN160431 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN160431 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN160431 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  99999 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN160431 the MagicNumber/String  99999 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  'Inifinite Loop?' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN160431 the MagicNumber/String  'Inifinite Loop?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN159999 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.real.RealLine.compile@POLYN160431 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -299,21 +299,21 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161569 the MagicNumber/String  'force=' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN162001 the MagicNumber/String  'force=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161569 the MagicNumber/String  'count=' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN162001 the MagicNumber/String  'count=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN161569 the MagicNumber/String  ' for ' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.real.RealLine.printCounter@POLYN162001 the MagicNumber/String  ' for ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -334,21 +334,21 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162149 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162581 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162149 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162581 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162149 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.real.RealLine.incCounter@POLYN162581 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -198,42 +198,42 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.bpm.BpmDiagram.cleanGrid@POLYN169907 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.bpm.BpmDiagram.cleanGrid@POLYN170339 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.BpmDiagram.cleanGrid@POLYN169907 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.BpmDiagram.cleanGrid@POLYN170339 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.BpmDiagram.cleanGrid@POLYN169907 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.BpmDiagram.cleanGrid@POLYN170339 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.BpmDiagram.cleanGrid@POLYN169907 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.BpmDiagram.cleanGrid@POLYN170339 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.bpm.BpmDiagram.getDescription@POLYN170941 the MagicNumber/String  '(Bpm Diagram)' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.bpm.BpmDiagram.getDescription@POLYN171373 the MagicNumber/String  '(Bpm Diagram)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.bpm.BpmDiagram.BpmDiagram@POLYN171056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.bpm.BpmDiagram.BpmDiagram@POLYN171488 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -247,7 +247,7 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.bpm.BpmDiagram.createImageBuilder@POLYN171256 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.bpm.BpmDiagram.createImageBuilder@POLYN171688 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -387,14 +387,14 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.bpm.BpmDiagram.createGrid@POLYN172419 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.bpm.BpmDiagram.createGrid@POLYN172851 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.bpm.BpmDiagram.createGrid@POLYN172419 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.bpm.BpmDiagram.createGrid@POLYN172851 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -415,7 +415,7 @@ var maDataBlocs = {
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmDiagram.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.bpm.BpmDiagram.elseBranch@POLYN176629 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.bpm.BpmDiagram.elseBranch@POLYN177061 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

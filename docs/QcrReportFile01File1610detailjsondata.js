@@ -189,14 +189,14 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.posimo.SimpleDrawer.draw@POLYN155483 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.posimo.SimpleDrawer.draw@POLYN155915 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.posimo.SimpleDrawer.draw@POLYN155483 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.posimo.SimpleDrawer.draw@POLYN155915 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -231,14 +231,14 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.posimo.SimpleDrawer.drawRectCentered@POLYN157132 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.posimo.SimpleDrawer.drawRectCentered@POLYN157564 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.posimo.SimpleDrawer.drawRectCentered@POLYN157132 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.posimo.SimpleDrawer.drawRectCentered@POLYN157564 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

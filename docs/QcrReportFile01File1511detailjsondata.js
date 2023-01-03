@@ -176,105 +176,105 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  'd' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  'd' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218097 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.addImage@POLYN218529 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN219611 the MagicNumber/String  'rw' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN220043 the MagicNumber/String  'rw' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN219611 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN220043 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN219611 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN220043 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN219611 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN220043 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN219611 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.finishAVI@POLYN220043 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -288,42 +288,42 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN220739 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN221171 the MagicNumber/String  24 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN220739 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN221171 the MagicNumber/String  24 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN220739 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN221171 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN220739 the MagicNumber/String  0x00FF0000 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN221171 the MagicNumber/String  0x00FF0000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN220739 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN221171 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN220739 the MagicNumber/String  0x0000FF00 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapInt@POLYN221171 the MagicNumber/String  0x0000FF00 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -337,14 +337,14 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapShort@POLYN221194 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapShort@POLYN221626 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapShort@POLYN221194 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.swapShort@POLYN221626 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -358,77 +358,77 @@ var maDataBlocs = {
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  24 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  0x000000FF should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  0x000000FF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  0x000000FF should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  0x000000FF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221468 the MagicNumber/String  0x000000FF should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.intBytes@POLYN221900 the MagicNumber/String  0x000000FF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -442,35 +442,35 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222378 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222810 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222378 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222810 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222378 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222810 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222378 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222810 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222378 the MagicNumber/String  0x000000FF should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.shortBytes@POLYN222810 the MagicNumber/String  0x000000FF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -610,42 +610,42 @@ var maDataBlocs = {
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.AVIMainHeader@POLYN225970 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.AVIMainHeader@POLYN226402 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.AVIMainHeader@POLYN225970 the MagicNumber/String  1000000.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.AVIMainHeader@POLYN226402 the MagicNumber/String  1000000.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.toBytes@POLYN226352 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.toBytes@POLYN226784 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.toBytes@POLYN226352 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.toBytes@POLYN226784 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.toBytes@POLYN226352 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.toBytes@POLYN226784 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.toBytes@POLYN226352 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIMainHeader.toBytes@POLYN226784 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -806,14 +806,14 @@ var maDataBlocs = {
  , "c1" : "00276"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIStreamHeader.AVIStreamHeader@POLYN231842 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIStreamHeader.AVIStreamHeader@POLYN232274 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00276"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIStreamHeader.AVIStreamHeader@POLYN231842 the MagicNumber/String  1000000.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIStreamHeader.AVIStreamHeader@POLYN232274 the MagicNumber/String  1000000.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -981,14 +981,14 @@ var maDataBlocs = {
  , "c1" : "00394"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#394"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00394] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIIndexList.toBytes@POLYN239988 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00394] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIIndexList.toBytes@POLYN240420 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00399"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#399"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00399] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIIndexList.toBytes@POLYN239988 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00399] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIIndexList.toBytes@POLYN240420 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1044,7 +1044,7 @@ var maDataBlocs = {
  , "c1" : "00439"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#439"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00439] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIJunk.AVIJunk@POLYN242706 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00439] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.AVIJunk.AVIJunk@POLYN243138 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1058,42 +1058,42 @@ var maDataBlocs = {
  , "c1" : "00457"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#457"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243403 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243835 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00457"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#457"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243403 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243835 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00457"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#457"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243403 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243835 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00458"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#458"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243403 the MagicNumber/String  'jpg' should be converted to const"
+ , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243835 the MagicNumber/String  'jpg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00460"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#460"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243403 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243835 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00461"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mjpeg/MJPEGGenerator.java.html#461"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00461] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243403 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00461] In method net.sourceforge.plantuml.mjpeg.MJPEGGenerator.writeImageToBytes@POLYN243835 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

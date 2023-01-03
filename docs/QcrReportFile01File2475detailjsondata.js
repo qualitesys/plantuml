@@ -103,14 +103,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LogicalNot.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.LogicalNot.getSignature@POLYN149585 the MagicNumber/String  '%not' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.LogicalNot.getSignature@POLYN150017 the MagicNumber/String  '%not' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LogicalNot.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.LogicalNot.getSignature@POLYN149585 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.LogicalNot.getSignature@POLYN150017 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LogicalNot.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.LogicalNot.canCover@POLYN149735 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.LogicalNot.canCover@POLYN150167 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -145,7 +145,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LogicalNot.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.stdlib.LogicalNot.executeReturnFunction@POLYN149913 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.stdlib.LogicalNot.executeReturnFunction@POLYN150345 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

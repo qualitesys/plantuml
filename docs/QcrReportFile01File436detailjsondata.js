@@ -760,7 +760,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamDelegator.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.SkinParamDelegator.getFont@POLYN186494 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.SkinParamDelegator.getFont@POLYN186926 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

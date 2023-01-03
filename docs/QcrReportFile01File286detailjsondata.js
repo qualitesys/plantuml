@@ -176,7 +176,7 @@ var maDataBlocs = {
  , "c1" : "00044"
  , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#44"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00044] For method isInside list of called methods Object monObjet|double point_getXN148713|double point_getYN148788"
+ , "c3" : "QC-JAV000007[00044] For method isInside list of called methods Object monObjet|double point_getXN149145|double point_getYN149220"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -190,21 +190,21 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149456 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149888 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149456 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149888 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149456 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method jcckit.graphic.ClippingRectangle.getGraphicalElement@POLYN149888 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -175,84 +175,84 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.cucadiagram.Magma.putInSquare@POLYN157143 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.cucadiagram.Magma.putInSquare@POLYN157575 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.cucadiagram.Magma.putInSquare@POLYN157143 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.cucadiagram.Magma.putInSquare@POLYN157575 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.cucadiagram.Magma.getContainer@POLYN158184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.cucadiagram.Magma.getContainer@POLYN158616 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.Magma.getContainer@POLYN158184 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.Magma.getContainer@POLYN158616 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.cucadiagram.Magma.getContainer@POLYN158184 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.cucadiagram.Magma.getContainer@POLYN158616 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.Magma.isComplete@POLYN158522 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.Magma.isComplete@POLYN158954 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.cucadiagram.Magma.isComplete@POLYN158522 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.cucadiagram.Magma.isComplete@POLYN158954 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.Magma.getTopLeft@POLYN158998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.Magma.getTopLeft@POLYN159430 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.cucadiagram.Magma.getTopRight@POLYN159364 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.cucadiagram.Magma.getTopRight@POLYN159796 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.cucadiagram.Magma.toString@POLYN159599 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.cucadiagram.Magma.toString@POLYN160031 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.cucadiagram.Magma.toString@POLYN159599 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.cucadiagram.Magma.toString@POLYN160031 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.cucadiagram.Magma.toString@POLYN159599 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.cucadiagram.Magma.toString@POLYN160031 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -273,7 +273,7 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.cucadiagram.Magma.linkToDown@POLYN159862 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.cucadiagram.Magma.linkToDown@POLYN160294 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -294,7 +294,7 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.Magma.linkToRight@POLYN160241 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.Magma.linkToRight@POLYN160673 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

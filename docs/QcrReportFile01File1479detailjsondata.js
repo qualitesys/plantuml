@@ -267,7 +267,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.Tupple.Tupple@POLYN371781 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.Tupple.Tupple@POLYN372213 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -295,56 +295,56 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN414798 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN415230 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN414798 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN415230 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN414798 the MagicNumber/String  'notexcopy' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN415230 the MagicNumber/String  'notexcopy' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN414798 the MagicNumber/String  'acc' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN415230 the MagicNumber/String  'acc' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN414798 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN415230 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN414798 the MagicNumber/String  'acc' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN415230 the MagicNumber/String  'acc' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN414798 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMinitSymbols@POLYN415230 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.refreshSymbols@POLYN416325 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.refreshSymbols@POLYN416757 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -372,63 +372,63 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMremoveCharsAndBlanks@POLYN417545 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -449,49 +449,49 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418275 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418707 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418275 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418707 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418275 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418707 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418275 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418707 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418275 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418707 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418275 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418707 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418275 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMposition@POLYN418707 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -512,399 +512,399 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '9' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '9' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '9' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'mn' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'mn' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'Z' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'Z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'a' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'z' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'mo' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'mo' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'mi' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'mi' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'func' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'func' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'val' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'val' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419521 the MagicNumber/String  'val' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMgetSymbol@POLYN419953 the MagicNumber/String  'val' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -925,259 +925,259 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '\\left' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '\\left' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '\\lbrace' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '\\lbrace' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '\\right)}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '\\right)}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '\\right]}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '\\right]}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '\\right.}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '\\right.}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '\\rbrace}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '\\rbrace}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425322 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTremoveBrackets@POLYN425754 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1198,28 +1198,28 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTgetTeXsymbol@POLYN428159 the MagicNumber/String  'val' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTgetTeXsymbol@POLYN428591 the MagicNumber/String  'val' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTgetTeXsymbol@POLYN428159 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTgetTeXsymbol@POLYN428591 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTgetTeXsymbol@POLYN428159 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTgetTeXsymbol@POLYN428591 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTgetTeXsymbol@POLYN428159 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTgetTeXsymbol@POLYN428591 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1240,1211 +1240,1211 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'mo' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'mo' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\right' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\right' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\rbrace' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\rbrace' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'invisible' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'invisible' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'invisible' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'invisible' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{\\left.' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{\\left.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{\\left' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{\\left' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\ ' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\ ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\text{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\text{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\ ' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\ ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'func' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'func' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '^' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '^' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\w' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\w' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'sqrt' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'sqrt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\sqrt{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\sqrt{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'cancel' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'cancel' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\cancel{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\cancel{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{\\left' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{\\left' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '\\right' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '\\right' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'acc' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'acc' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'color' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'color' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{\\color{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{\\color{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '[\\{\\}]' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '[\\{\\}]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  'root' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  'root' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{\\sqrt[' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{\\sqrt[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  ']{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  ']{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{\\quad\\text{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{\\quad\\text{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}\\quad}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}\\quad}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{\\left|' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{\\left|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{\\mid}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{\\mid}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN428766 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseSexpr@POLYN429198 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2458,245 +2458,245 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '{}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '{}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '^' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '^' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '_{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '_{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '^{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '^{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '_{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '_{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '^{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '^{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  'func' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  'func' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN443615 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseIexpr@POLYN444047 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2773,819 +2773,819 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '{}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '{}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '\\frac' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '\\frac' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '\\begin{matrix}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '\\begin{matrix}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '\\\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '\\\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '&amp;' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '&amp;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '\\end{matrix}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '\\end{matrix}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  'invisible' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  'invisible' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '\\right' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '\\right' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '\\right.' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '\\right.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447354 the MagicNumber/String  '\\right.' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.AMTparseExpr@POLYN447786 the MagicNumber/String  '\\right.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3606,14 +3606,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.patchColor@POLYN461294 the MagicNumber/String  '\\color{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.patchColor@POLYN461726 the MagicNumber/String  '\\color{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.patchColor@POLYN461294 the MagicNumber/String  '\\textcolor{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.patchColor@POLYN461726 the MagicNumber/String  '\\textcolor{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3627,35 +3627,35 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461467 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461899 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461467 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461899 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461467 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461899 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461899 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ASCIIMathTeXImg.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461467 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.math.ASCIIMathTeXImg.getTeX@POLYN461899 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

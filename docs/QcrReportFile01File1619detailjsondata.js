@@ -205,7 +205,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.preproc.ImportedFiles.withCurrentDir@POLYN162258 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.preproc.ImportedFiles.withCurrentDir@POLYN162690 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -219,14 +219,14 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN162758 the MagicNumber/String  'ImportedFiles=' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN163190 the MagicNumber/String  'ImportedFiles=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN162758 the MagicNumber/String  ' currentDir=' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.ImportedFiles.toString@POLYN163190 the MagicNumber/String  ' currentDir=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -254,21 +254,21 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162914 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN163346 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162914 the MagicNumber/String  'ImportedFiles::getAFile filecurrent = ' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN163346 the MagicNumber/String  'ImportedFiles::getAFile filecurrent = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN162914 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.preproc.ImportedFiles.getAFile@POLYN163346 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -303,42 +303,42 @@ var maDataBlocs = {
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  '~' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165893 the MagicNumber/String  '~' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165893 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165893 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165893 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165893 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165461 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.preproc.ImportedFiles.getFile@POLYN165893 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -352,28 +352,28 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166549 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166981 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166549 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166981 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166549 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166981 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ImportedFiles.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166549 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.preproc.ImportedFiles.isAllowed@POLYN166981 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

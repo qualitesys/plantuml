@@ -135,14 +135,14 @@ var maDataBlocs = {
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealMiddle2.RealMiddle2@POLYN148266 the MagicNumber/String  'middle' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealMiddle2.RealMiddle2@POLYN148698 the MagicNumber/String  'middle' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.real.RealMiddle2.getCurrentValueInternal@POLYN148699 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.real.RealMiddle2.getCurrentValueInternal@POLYN149131 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -163,7 +163,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.real.RealMiddle2.ensureBiggerThan@POLYN149012 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.real.RealMiddle2.ensureBiggerThan@POLYN149444 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -177,14 +177,14 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149249 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149681 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle2.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149249 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.real.RealMiddle2.move@POLYN149681 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

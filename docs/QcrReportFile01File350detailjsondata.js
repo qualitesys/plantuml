@@ -150,14 +150,14 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AFileRegular.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.AFileRegular.toString@POLYN149679 the MagicNumber/String  'AFileRegular::' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.AFileRegular.toString@POLYN150111 the MagicNumber/String  'AFileRegular::' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AFileRegular.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.AFileRegular.isOk@POLYN150039 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.AFileRegular.isOk@POLYN150471 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -171,14 +171,14 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AFileRegular.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.AFileRegular.equals@POLYN150345 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.AFileRegular.equals@POLYN150777 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AFileRegular.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.AFileRegular.equals@POLYN150345 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.AFileRegular.equals@POLYN150777 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

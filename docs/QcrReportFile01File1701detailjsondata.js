@@ -216,14 +216,14 @@ var maDataBlocs = {
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getShapeHeight@POLYN175972 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getShapeHeight@POLYN176404 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getShapeHeight@POLYN175972 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getShapeHeight@POLYN176404 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -251,14 +251,14 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawTitle@POLYN176336 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawTitle@POLYN176768 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawTitle@POLYN176336 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawTitle@POLYN176768 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -279,21 +279,21 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawU@POLYN178845 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawU@POLYN179277 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawU@POLYN178845 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawU@POLYN179277 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawU@POLYN178845 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.drawU@POLYN179277 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -314,7 +314,7 @@ var maDataBlocs = {
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.applyColors@POLYN180090 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.applyColors@POLYN180522 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -342,7 +342,7 @@ var maDataBlocs = {
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getFingerPrintNote@POLYN180787 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getFingerPrintNote@POLYN181219 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -363,42 +363,42 @@ var maDataBlocs = {
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181459 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181891 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181459 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181891 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181459 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181891 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181459 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181891 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181459 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181891 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181459 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getDiamond@POLYN181891 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -412,7 +412,7 @@ var maDataBlocs = {
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getX1@POLYN182223 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getX1@POLYN182655 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -426,7 +426,7 @@ var maDataBlocs = {
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawDiamond.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getX2@POLYN182762 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.project.draw.TaskDrawDiamond.getX2@POLYN183194 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

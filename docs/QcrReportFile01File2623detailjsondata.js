@@ -306,21 +306,21 @@ var maDataBlocs = {
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HSLColor@POLYN197386 the MagicNumber/String  255.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HSLColor@POLYN197818 the MagicNumber/String  255.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HSLColor@POLYN197893 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HSLColor@POLYN198325 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HSLColor@POLYN198913 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HSLColor@POLYN199345 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -334,14 +334,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustHue@POLYN199698 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustHue@POLYN200130 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustHue@POLYN199698 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustHue@POLYN200130 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -355,14 +355,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustLuminance@POLYN200129 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustLuminance@POLYN200561 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustLuminance@POLYN200129 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustLuminance@POLYN200561 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -376,14 +376,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustSaturation@POLYN200560 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustSaturation@POLYN200992 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustSaturation@POLYN200560 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustSaturation@POLYN200992 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -397,42 +397,42 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201018 the MagicNumber/String  100.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201450 the MagicNumber/String  100.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201018 the MagicNumber/String  100.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201450 the MagicNumber/String  100.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201018 the MagicNumber/String  0.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201450 the MagicNumber/String  0.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201018 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201450 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201018 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201450 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201018 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustShade@POLYN201450 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -446,154 +446,154 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN201772 the MagicNumber/String  100.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN202204 the MagicNumber/String  100.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN201772 the MagicNumber/String  100.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN202204 the MagicNumber/String  100.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN201772 the MagicNumber/String  100.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN202204 the MagicNumber/String  100.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN201772 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN202204 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN201772 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN202204 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN201772 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.adjustTone@POLYN202204 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN202650 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN203082 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN202650 the MagicNumber/String  180.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN203082 the MagicNumber/String  180.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN202650 the MagicNumber/String  360.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN203082 the MagicNumber/String  360.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN202650 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN203082 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN202650 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getComplementary@POLYN203082 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getHue@POLYN203094 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getHue@POLYN203526 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getLuminance@POLYN203433 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getLuminance@POLYN203865 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getSaturation@POLYN203784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.getSaturation@POLYN204216 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN203901 the MagicNumber/String  'HSLColor[h=' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN204333 the MagicNumber/String  'HSLColor[h=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN203901 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN204333 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN203901 the MagicNumber/String  ',s=' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN204333 the MagicNumber/String  ',s=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN203901 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN204333 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN203901 the MagicNumber/String  ',l=' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN204333 the MagicNumber/String  ',l=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN203901 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN204333 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN203901 the MagicNumber/String  ',alpha=' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN204333 the MagicNumber/String  ',alpha=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN203901 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toString@POLYN204333 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -614,140 +614,140 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  360 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  360 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  360 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  360 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  120 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  120 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  240 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  240 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  .5f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  .5f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204424 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.fromRGB@POLYN204856 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -761,7 +761,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN207459 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN207891 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -775,21 +775,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN207929 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN208361 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN207929 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN208361 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN207929 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN208361 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -803,7 +803,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN208511 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN208943 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -817,210 +817,210 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  360.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  360.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  360f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  360f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  100f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  100f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  100f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  100f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  3.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  3.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  3.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  3.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209039 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.toRGB@POLYN209471 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1034,98 +1034,98 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  2.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  2.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HSLColor.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN211834 the MagicNumber/String  3.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.ugraphic.color.HSLColor.HueToRGB@POLYN212266 the MagicNumber/String  3.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

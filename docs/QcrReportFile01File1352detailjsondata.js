@@ -218,7 +218,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.graphic.Rainbow.none@POLYN160077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.graphic.Rainbow.none@POLYN160509 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -232,7 +232,7 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphic.Rainbow.fromColor@POLYN160208 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphic.Rainbow.fromColor@POLYN160640 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -260,7 +260,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.graphic.Rainbow.build@POLYN160702 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.graphic.Rainbow.build@POLYN161134 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -274,7 +274,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.Rainbow.withDefault@POLYN161500 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.Rainbow.withDefault@POLYN161932 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -288,7 +288,7 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.graphic.Rainbow.build@POLYN161720 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.graphic.Rainbow.build@POLYN162152 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,42 +302,42 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.graphic.Rainbow.build@POLYN162051 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.graphic.Rainbow.build@POLYN162483 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.graphic.Rainbow.build@POLYN162051 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.graphic.Rainbow.build@POLYN162483 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.graphic.Rainbow.isInvisible@POLYN162670 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.graphic.Rainbow.isInvisible@POLYN163102 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.graphic.Rainbow.isInvisible@POLYN162670 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.graphic.Rainbow.isInvisible@POLYN163102 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.graphic.Rainbow.getColor@POLYN163072 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.graphic.Rainbow.getColor@POLYN163504 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.graphic.Rainbow.getArrowHeadColor@POLYN163219 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.graphic.Rainbow.getArrowHeadColor@POLYN163651 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

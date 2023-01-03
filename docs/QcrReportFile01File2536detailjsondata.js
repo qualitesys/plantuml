@@ -405,49 +405,49 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222113 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222545 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222113 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222545 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222545 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222113 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222545 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222113 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222545 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222113 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222545 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getTimeProjection@POLYN222545 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -461,91 +461,91 @@ var maDataBlocs = {
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN223765 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesAt@POLYN224197 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -566,7 +566,7 @@ var maDataBlocs = {
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.addChange@POLYN225754 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.addChange@POLYN226186 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -580,28 +580,28 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPoints@POLYN226298 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPoints@POLYN226730 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPoints@POLYN226298 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPoints@POLYN226730 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPoints@POLYN226298 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPoints@POLYN226730 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPoints@POLYN226298 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPoints@POLYN226730 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -622,28 +622,28 @@ var maDataBlocs = {
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMinY@POLYN227620 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMinY@POLYN228052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMinY@POLYN227620 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMinY@POLYN228052 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMinY@POLYN227620 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMinY@POLYN228052 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMinY@POLYN227620 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMinY@POLYN228052 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -657,28 +657,28 @@ var maDataBlocs = {
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMaxY@POLYN228256 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMaxY@POLYN228688 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMaxY@POLYN228256 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMaxY@POLYN228688 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMaxY@POLYN228256 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMaxY@POLYN228688 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMaxY@POLYN228256 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getPointMaxY@POLYN228688 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -713,21 +713,21 @@ var maDataBlocs = {
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.calculateDimensionPart1@POLYN230342 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.calculateDimensionPart1@POLYN230774 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.calculateDimensionPart1@POLYN230342 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.calculateDimensionPart1@POLYN230774 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.calculateDimensionPart1@POLYN230342 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.calculateDimensionPart1@POLYN230774 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -762,42 +762,42 @@ var maDataBlocs = {
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231287 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231719 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231287 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231719 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00254"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231287 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231719 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231287 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231719 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231287 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231719 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231287 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart1@POLYN231719 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -825,7 +825,7 @@ var maDataBlocs = {
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesWidth@POLYN233265 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getStatesWidth@POLYN233697 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -846,7 +846,7 @@ var maDataBlocs = {
  , "c1" : "00276"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart2@POLYN233824 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawPart2@POLYN234256 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -881,84 +881,84 @@ var maDataBlocs = {
  , "c1" : "00288"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00296"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#296"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00296"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#296"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00299"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#299"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00300"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#300"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00300"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#300"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00308"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00308"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00309"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN234626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHlines@POLYN235058 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -993,14 +993,14 @@ var maDataBlocs = {
  , "c1" : "00322"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#322"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHBlock@POLYN237000 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHBlock@POLYN237432 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00322"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#322"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHBlock@POLYN237000 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawHBlock@POLYN237432 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1035,49 +1035,49 @@ var maDataBlocs = {
  , "c1" : "00332"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238565 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238997 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00334"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#334"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238997 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00334"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#334"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238997 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00337"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#337"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238565 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238997 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00338"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#338"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238565 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238997 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00341"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238565 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238997 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00342"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238565 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawVlines@POLYN238997 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1126,28 +1126,28 @@ var maDataBlocs = {
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawLabels@POLYN240221 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawLabels@POLYN240653 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00349"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#349"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00349] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawLabels@POLYN240221 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00349] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawLabels@POLYN240653 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00351"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#351"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawLabels@POLYN240221 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawLabels@POLYN240653 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00356"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#356"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawLabels@POLYN240221 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.drawLabels@POLYN240653 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1189,14 +1189,14 @@ var maDataBlocs = {
  , "c1" : "00380"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#380"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getFullHeight@POLYN242379 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getFullHeight@POLYN242811 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00384"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#384"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getBottomMargin@POLYN242674 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getBottomMargin@POLYN243106 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1210,7 +1210,7 @@ var maDataBlocs = {
  , "c1" : "00388"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.yOfState@POLYN242762 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.yOfState@POLYN243194 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1238,35 +1238,35 @@ var maDataBlocs = {
  , "c1" : "00397"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#397"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00397] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.last@POLYN243275 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00397] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.last@POLYN243707 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00401"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#401"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00401] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.stepHeight@POLYN243487 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00401] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.stepHeight@POLYN243919 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00401"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#401"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00401] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.stepHeight@POLYN243487 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00401] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.stepHeight@POLYN243919 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00402"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#402"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00402] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.stepHeight@POLYN243487 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00402] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.stepHeight@POLYN243919 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00404"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#404"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.stepHeight@POLYN243487 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.stepHeight@POLYN243919 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1287,21 +1287,21 @@ var maDataBlocs = {
  , "c1" : "00414"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#414"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.setInitialState@POLYN244122 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.setInitialState@POLYN244554 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00414"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#414"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.setInitialState@POLYN244122 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.setInitialState@POLYN244554 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00420"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#420"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getInitialWidth@POLYN244496 the MagicNumber/String  40 should be converted to const"
+ , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.timingdiagram.graphic.Histogram.getInitialWidth@POLYN244928 the MagicNumber/String  40 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

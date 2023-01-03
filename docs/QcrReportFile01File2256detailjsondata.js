@@ -203,35 +203,35 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159676 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN160108 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159676 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN160108 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159676 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN160108 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159676 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN160108 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN159676 the MagicNumber/String  ' MC' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.SvgResult.extractList@POLYN160108 the MagicNumber/String  ' MC' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -245,70 +245,70 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  'stroke=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  'stroke=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  ';stroke:' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  ';stroke:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  'fill=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  'fill=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160453 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.svek.SvgResult.getIndexFromColor@POLYN160885 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,7 +329,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvgResult.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.svek.SvgResult.getFirstPoint@POLYN162475 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.svek.SvgResult.getFirstPoint@POLYN162907 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

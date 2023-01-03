@@ -103,42 +103,42 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154486 the MagicNumber/String  'swimlane' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154918 the MagicNumber/String  'swimlane' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154486 the MagicNumber/String  'SWIMLANE' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154918 the MagicNumber/String  'SWIMLANE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154486 the MagicNumber/String  '([^|]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154918 the MagicNumber/String  '([^|]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154486 the MagicNumber/String  'as' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154918 the MagicNumber/String  'as' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154486 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154918 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154486 the MagicNumber/String  '([^|]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.getRegexConcat@POLYN154918 the MagicNumber/String  '([^|]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -166,56 +166,56 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155321 the MagicNumber/String  'COLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155753 the MagicNumber/String  'COLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155321 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155753 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155321 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155753 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155321 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155753 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155321 the MagicNumber/String  'SWIMLANE' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155753 the MagicNumber/String  'SWIMLANE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155321 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155753 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155321 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155753 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandSwimlane2.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155321 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2.executeArg@POLYN155753 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

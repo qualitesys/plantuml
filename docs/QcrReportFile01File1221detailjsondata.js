@@ -123,14 +123,14 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.PSystemEbnf@POLYN161192 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.PSystemEbnf@POLYN161624 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getDescription@POLYN161378 the MagicNumber/String  '(EBNF)' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getDescription@POLYN161810 the MagicNumber/String  '(EBNF)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -144,14 +144,14 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addBlocLines@POLYN161504 the MagicNumber/String  'compact' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addBlocLines@POLYN161936 the MagicNumber/String  'compact' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addBlocLines@POLYN161504 the MagicNumber/String  'Unparsable expression' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addBlocLines@POLYN161936 the MagicNumber/String  'Unparsable expression' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -165,28 +165,28 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addNote@POLYN162257 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addNote@POLYN162689 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addNote@POLYN162257 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addNote@POLYN162689 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addNote@POLYN162257 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addNote@POLYN162689 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addNote@POLYN162257 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.addNote@POLYN162689 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -200,35 +200,35 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163226 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163226 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163226 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163226 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnf.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163226 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ebnf.PSystemEbnf.getTextBlock@POLYN163658 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

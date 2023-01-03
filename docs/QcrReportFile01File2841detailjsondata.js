@@ -130,28 +130,28 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/smetana/core/CArray.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN154841 the MagicNumber/String  'Array ' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN155273 the MagicNumber/String  'Array ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/smetana/core/CArray.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN154841 the MagicNumber/String  ' offset=' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN155273 the MagicNumber/String  ' offset=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/smetana/core/CArray.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN154841 the MagicNumber/String  ' [' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN155273 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/smetana/core/CArray.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN154841 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method smetana.core.CArray.toString@POLYN155273 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -172,7 +172,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/smetana/core/CArray.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method smetana.core.CArray.CArray@POLYN156060 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.CArray.CArray@POLYN156492 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -214,14 +214,14 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/smetana/core/CArray.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method smetana.core.CArray.reallocWithStructure@POLYN157217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method smetana.core.CArray.reallocWithStructure@POLYN157649 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/smetana/core/CArray.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method smetana.core.CArray.reallocWithStructure@POLYN157217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method smetana.core.CArray.reallocWithStructure@POLYN157649 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

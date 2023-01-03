@@ -175,21 +175,21 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox.getLiveThicknessAt@POLYN155014 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox.getLiveThicknessAt@POLYN155446 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox.getLiveThicknessAt@POLYN155014 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox.getLiveThicknessAt@POLYN155446 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox.getLiveThicknessAt@POLYN155014 the MagicNumber/String  'right=' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox.getLiveThicknessAt@POLYN155446 the MagicNumber/String  'right=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -203,7 +203,7 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LivingParticipantBox.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox.drawLineU22@POLYN155884 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox.drawLineU22@POLYN156316 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

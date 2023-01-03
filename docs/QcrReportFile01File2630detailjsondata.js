@@ -130,35 +130,35 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ugraphic.comp.Expand.Expand@POLYN148814 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.ugraphic.comp.Expand.Expand@POLYN149246 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.comp.Expand.toString@POLYN149269 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.comp.Expand.toString@POLYN149701 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.comp.Expand.toString@POLYN149269 the MagicNumber/String  '==&amp;gt;+' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.comp.Expand.toString@POLYN149701 the MagicNumber/String  '==&amp;gt;+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.comp.Expand.toString@POLYN149269 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.comp.Expand.toString@POLYN149701 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.comp.Expand.toString@POLYN149269 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.comp.Expand.toString@POLYN149701 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -179,21 +179,21 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.comp.Expand.compareTo@POLYN149495 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.comp.Expand.compareTo@POLYN149927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.comp.Expand.compareTo@POLYN149495 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.comp.Expand.compareTo@POLYN149927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/Expand.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.comp.Expand.compareTo@POLYN149495 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.comp.Expand.compareTo@POLYN149927 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

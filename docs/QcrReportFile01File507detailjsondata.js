@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.activitydiagram3.WithNote.addNote@POLYN151413 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.activitydiagram3.WithNote.addNote@POLYN151845 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -140,14 +140,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.WithNote.eventuallyAddNote@POLYN151835 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.WithNote.eventuallyAddNote@POLYN152267 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.activitydiagram3.WithNote.hasNotes@POLYN152380 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.activitydiagram3.WithNote.hasNotes@POLYN152812 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

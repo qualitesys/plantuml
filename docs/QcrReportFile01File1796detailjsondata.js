@@ -103,14 +103,14 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandSalt.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.CommandSalt.CommandSalt@POLYN149350 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.salt.CommandSalt.CommandSalt@POLYN149782 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandSalt.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.CommandSalt.getRegexConcat@POLYN149496 the MagicNumber/String  'salt' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.CommandSalt.getRegexConcat@POLYN149928 the MagicNumber/String  'salt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -131,7 +131,7 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/CommandSalt.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.CommandSalt.executeArg@POLYN149895 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.CommandSalt.executeArg@POLYN150327 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

@@ -157,14 +157,14 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.board.BoardDiagram.getDescription@POLYN163781 the MagicNumber/String  'Board' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.board.BoardDiagram.getDescription@POLYN164213 the MagicNumber/String  'Board' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.board.BoardDiagram.BoardDiagram@POLYN163896 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.board.BoardDiagram.BoardDiagram@POLYN164328 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -178,28 +178,28 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.board.BoardDiagram.getTextBlock@POLYN164387 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.board.BoardDiagram.getTextBlock@POLYN164819 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.board.BoardDiagram.getTextBlock@POLYN164387 the MagicNumber/String  200 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.board.BoardDiagram.getTextBlock@POLYN164819 the MagicNumber/String  200 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.board.BoardDiagram.getTextBlock@POLYN164387 the MagicNumber/String  200 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.board.BoardDiagram.getTextBlock@POLYN164819 the MagicNumber/String  200 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.board.BoardDiagram.getTextBlock@POLYN164387 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.board.BoardDiagram.getTextBlock@POLYN164819 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -220,63 +220,63 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165287 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165719 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165287 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165719 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165287 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165719 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165287 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165719 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165287 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165719 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165287 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.board.BoardDiagram.drawMe@POLYN165719 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.board.BoardDiagram.getFullWidth@POLYN166498 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.board.BoardDiagram.getFullWidth@POLYN166930 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.board.BoardDiagram.getMaxStage@POLYN166792 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.board.BoardDiagram.getMaxStage@POLYN167224 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.board.BoardDiagram.getLastActivity@POLYN167147 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.board.BoardDiagram.getLastActivity@POLYN167579 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -297,7 +297,7 @@ var maDataBlocs = {
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/BoardDiagram.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.board.BoardDiagram.addLine@POLYN167336 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.board.BoardDiagram.addLine@POLYN167768 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -239,196 +239,196 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'nodesep=0.2;' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  'nodesep=0.2;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'ranksep=0.2;' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  'ranksep=0.2;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  'svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'Timeout2 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  'Timeout2 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '(?m)\\&amp;lt;svg\\s+width=\'(\\d+)pt\'\\s+height=\'(\\d+)pt\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '(?m)\\&amp;lt;svg\\s+width=\'(\\d+)pt\'\\s+height=\'(\\d+)pt\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'cluster' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  'cluster' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '&amp;lt;title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;#45;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '&amp;#45;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '&amp;lt;/title&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  ' d=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  ' d=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  ' d=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  ' d=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  ' d=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  ' d=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN178855 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.solve@POLYN179287 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -456,14 +456,14 @@ var maDataBlocs = {
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxX@POLYN185713 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxX@POLYN186145 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxX@POLYN185713 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxX@POLYN186145 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -484,14 +484,14 @@ var maDataBlocs = {
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinX@POLYN186369 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinX@POLYN186801 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinX@POLYN186369 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinX@POLYN186801 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -512,14 +512,14 @@ var maDataBlocs = {
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxY@POLYN187025 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxY@POLYN187457 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxY@POLYN187025 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMaxY@POLYN187457 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -540,14 +540,14 @@ var maDataBlocs = {
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinY@POLYN187681 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinY@POLYN188113 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinY@POLYN187681 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.getMinY@POLYN188113 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -561,21 +561,21 @@ var maDataBlocs = {
  , "c1" : "00225"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188324 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188756 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188324 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188756 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188324 the MagicNumber/String  'Timeout3 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.posimo.GraphvizSolverB.exportPng@POLYN188756 the MagicNumber/String  'Timeout3 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

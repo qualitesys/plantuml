@@ -157,7 +157,7 @@ var maDataBlocs = {
  , "c1" : "00030"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.MODouble@POLYN142464 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.MODouble@POLYN142896 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -171,28 +171,28 @@ var maDataBlocs = {
  , "c1" : "00038"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#38"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00038] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.set@POLYN142804 the MagicNumber/String  'Argument '' should be converted to const"
+ , "c3" : "QC-JAV000010[00038] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.set@POLYN143236 the MagicNumber/String  'Argument '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00039"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.set@POLYN142804 the MagicNumber/String  '' out of range [' should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.set@POLYN143236 the MagicNumber/String  '' out of range [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00039"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.set@POLYN142804 the MagicNumber/String  '; ' should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.set@POLYN143236 the MagicNumber/String  '; ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00039"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.set@POLYN142804 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.set@POLYN143236 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -206,14 +206,14 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.niceFormat@POLYN143343 the MagicNumber/String  'Infinity' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.niceFormat@POLYN143775 the MagicNumber/String  'Infinity' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.niceFormat@POLYN143343 the MagicNumber/String  '-Infinity' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.ctreber.aclib.gui.MODouble.niceFormat@POLYN143775 the MagicNumber/String  '-Infinity' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -227,7 +227,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MODouble.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.gui.MODouble.checkRange@POLYN144059"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.gui.MODouble.checkRange@POLYN144491"
 }} 
 ]
 , 

@@ -135,35 +135,35 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.graphic.USymbolStorage.drawStorage@POLYN158836 the MagicNumber/String  70 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.graphic.USymbolStorage.drawStorage@POLYN159268 the MagicNumber/String  70 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolStorage.getMargin@POLYN159285 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolStorage.getMargin@POLYN159717 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolStorage.getMargin@POLYN159285 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolStorage.getMargin@POLYN159717 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolStorage.getMargin@POLYN159285 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolStorage.getMargin@POLYN159717 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolStorage.getMargin@POLYN159285 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphic.USymbolStorage.getMargin@POLYN159717 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -226,28 +226,28 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN161182 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN161614 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN161182 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN161614 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN161182 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN161614 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolStorage.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN161182 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.graphic.USymbolStorage.asBig@POLYN161614 the MagicNumber/String  7 should be converted to const"
 }} 
 ]
 , 

@@ -168,42 +168,42 @@ var maDataBlocs = {
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150328 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150760 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150328 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150760 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150328 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.ugraphic.UStroke.toString@POLYN150760 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN150821 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN151253 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN150821 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN151253 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN150986 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.UStroke.UStroke@POLYN151418 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -217,70 +217,70 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.UStroke.applyThickness@POLYN151218 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.UStroke.applyThickness@POLYN151650 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN151763 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN152195 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN151763 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN152195 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN151763 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN152195 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN151763 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.UStroke.getDasharraySvg@POLYN152195 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152012 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152444 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152012 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152444 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152012 the MagicNumber/String  'on ' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152444 the MagicNumber/String  'on ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152012 the MagicNumber/String  'pt off ' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152444 the MagicNumber/String  'pt off ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UStroke.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152012 the MagicNumber/String  'pt' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.UStroke.getDashTikz@POLYN152444 the MagicNumber/String  'pt' should be converted to const"
 }} 
 ]
 , 

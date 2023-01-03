@@ -225,14 +225,14 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.containsBreak@POLYN167237 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.containsBreak@POLYN167669 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.containsBreak@POLYN167237 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.containsBreak@POLYN167669 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -246,14 +246,14 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.add@POLYN168031 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.add@POLYN168463 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.add@POLYN168031 the MagicNumber/String  'No 'case' in this switch' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.add@POLYN168463 the MagicNumber/String  'No 'case' in this switch' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -281,14 +281,14 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.getSwimlanes@POLYN170002 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.getSwimlanes@POLYN170434 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.getLast@POLYN170730 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.getLast@POLYN171162 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,21 +302,21 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170919 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN171351 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170919 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN171351 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN170919 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.switchCase@POLYN171351 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -337,7 +337,7 @@ var maDataBlocs = {
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.addNote@POLYN171809 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.addNote@POLYN172241 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

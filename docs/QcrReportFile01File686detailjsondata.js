@@ -181,56 +181,56 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163833 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163833 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163401 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163833 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163401 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163833 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163401 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163833 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163401 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163833 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163401 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163833 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.calculateDimension@POLYN163833 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -251,14 +251,14 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.drawUInternal@POLYN164226 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.drawUInternal@POLYN164658 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInside.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.drawUInternal@POLYN164226 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside.drawUInternal@POLYN164658 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 
