@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="651px" preserveAspectRatio="none" style="width:1047px;height:651px;background:#000000;" version="1.1" viewBox="0 0 1047 651" width="1047px" zoomAndPan="magnify"><defs/><g><rect fill="#1D0E16" height="1" style="stroke:#1D0E16;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 136 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="1035" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="6" y="83.875">[From string (line 34) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="487" x="5" y="185.6563">constructor Diagram(TextGridgrid,ConversionOptionsoptions,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="304" x="5" y="201.9531">ProcessingOptionsprocessingOptions)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="5" y="218.25">end note</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="456" x="5" y="234.5469">:this.cellWidth=options.renderingOptions.getCellWidth();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="468" x="5" y="250.8438">:this.cellHeight=options.renderingOptions.getCellHeight();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="272" x="5" y="267.1406">:width=grid.getWidth()*cellWidth;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="290" x="5" y="283.4375">:height=grid.getHeight()*cellHeight;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="261" x="5" y="299.7344">:workGrid.replaceTypeOnLine();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="326" x="5" y="316.0313">:workGrid.replacePointMarkersOnLine();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="166" x="5" y="332.3281">if (DEBUG) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="196" x="5" y="348.625">:workGrid.printDebug();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="364.9219">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="166" x="5" y="381.2188">if (DEBUG) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="646" x="5" y="397.5156">:System.out.println("******* Distinct shapes found using AbstractionGrid *******");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="413" x="5" y="413.8125">:while (dit.hasNext()){CellSetset=(CellSet)dit.next();</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="160" x="5" y="430.1094">:set.printAsGrid();};</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="705" x="5" y="446.4063">:System.out.println("******* Same set of shapes after processing them by filling *******");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="462.7031">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="991" x="5" y="479">:while (boundarySetIt.hasNext()){CellSetset=(CellSet)boundarySetIt.next();TextGridfillBuffer=new TextGrid(width*3,height ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="440" x="5" y="495.2969">+){for (intxi=0;xi&lt;width*3;xi++){if (fillBuffer.isBlank(xi,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="433" x="5" y="511.5938">yi)){TextGridcopyGrid=new AbstractionGrid(workGrid,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="893" x="5" y="527.8906">set).getCopyOfInternalBuffer();CellSetboundaries=copyGrid.findBoundariesExpandingFrom(copyGrid.new Cell(xi,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="1035" x="5" y="544.1875">yi));if (boundaries.size()==0)continue ;boundarySetsStep2.add(boundaries.makeScaledOneThirdEquivalent());copyGrid=new Ab ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="747" x="5" y="560.4844">set).getCopyOfInternalBuffer();CellSetfilled=copyGrid.fillContinuousArea(copyGrid.new Cell(xi,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="263" x="5" y="576.7813">yi),'*');fillBuffer.fillCellsWith(filled,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="166" x="5" y="593.0781">if (DEBUG) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="456" x="5" y="609.375">:System.out.println("******* Removed duplicates *******");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="40" x="5" y="625.6719">endif</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="641.9688">Cannot find if</text><!--MD5=[299f0956ecdf18010796b300c609ce36]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:1047px;height:586px;background:#000000;" version="1.1" viewBox="0 0 1047 586" width="1047px" zoomAndPan="magnify"><defs/><g><rect fill="#27271F" height="1" style="stroke:#27271F;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 137 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="1035" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="6" y="83.875">[From string (line 45) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="487" x="5" y="185.6563">constructor Diagram(TextGridgrid,ConversionOptionsoptions,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="175" x="5" y="218.25">... ( skipping 18 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="457" x="5" y="250.8438">:ArrayListboundarySetsStep1=temp.getDistinctShapes();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="166" x="5" y="267.1406">if (DEBUG) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="646" x="5" y="283.4375">:System.out.println("******* Distinct shapes found using AbstractionGrid *******");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="341" x="5" y="299.7344">:Iteratordit=boundarySetsStep1.iterator();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="413" x="5" y="316.0313">:while (dit.hasNext()){CellSetset=(CellSet)dit.next();</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="160" x="5" y="332.3281">:set.printAsGrid();};</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="705" x="5" y="348.625">:System.out.println("******* Same set of shapes after processing them by filling *******");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="364.9219">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="379" x="5" y="381.2188">:ArrayListboundarySetsStep2=new ArrayList();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="432" x="5" y="397.5156">:IteratorboundarySetIt=boundarySetsStep1.iterator();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="991" x="5" y="413.8125">:while (boundarySetIt.hasNext()){CellSetset=(CellSet)boundarySetIt.next();TextGridfillBuffer=new TextGrid(width*3,height ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="440" x="5" y="430.1094">+){for (intxi=0;xi&lt;width*3;xi++){if (fillBuffer.isBlank(xi,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="433" x="5" y="446.4063">yi)){TextGridcopyGrid=new AbstractionGrid(workGrid,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="893" x="5" y="462.7031">set).getCopyOfInternalBuffer();CellSetboundaries=copyGrid.findBoundariesExpandingFrom(copyGrid.new Cell(xi,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="1035" x="5" y="479">yi));if (boundaries.size()==0)continue ;boundarySetsStep2.add(boundaries.makeScaledOneThirdEquivalent());copyGrid=new Ab ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="747" x="5" y="495.2969">set).getCopyOfInternalBuffer();CellSetfilled=copyGrid.fillContinuousArea(copyGrid.new Cell(xi,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="263" x="5" y="511.5938">yi),'*');fillBuffer.fillCellsWith(filled,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="166" x="5" y="527.8906">if (DEBUG) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="456" x="5" y="544.1875">:System.out.println("******* Removed duplicates *******");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="40" x="5" y="560.4844">endif</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="576.7813">Cannot find if</text><!--MD5=[d661b9289bf646e1cd04ba619c7b506e]
 @startuml
 !pragma layout smetana
 start
@@ -8,19 +8,30 @@ ProcessingOptionsprocessingOptions)
 end note
 :this.cellWidth=options.renderingOptions.getCellWidth();;
 :this.cellHeight=options.renderingOptions.getCellHeight();;
+:FontMeasurerfontMeasurer=new FontMeasurer(options.renderingOptions.getFont(),
+options.renderingOptions.getForceFontSize());;
 :width=grid.getWidth()*cellWidth;;
 :height=grid.getHeight()*cellHeight;;
+:TextGridworkGrid=new TextGrid(grid);;
 :workGrid.replaceTypeOnLine();;
 :workGrid.replacePointMarkersOnLine();;
 if (DEBUG) then (yes) 
 :workGrid.printDebug();;
 endif 
+:intwidth=grid.getWidth();;
+:intheight=grid.getHeight();;
+:AbstractionGridtemp=new AbstractionGrid(workGrid,
+workGrid.getAllBoundaries());;
+:ArrayListboundarySetsStep1=temp.getDistinctShapes();;
 if (DEBUG) then (yes) 
 :System.out.println("******* Distinct shapes found using AbstractionGrid *******");;
+:Iteratordit=boundarySetsStep1.iterator();;
 :while (dit.hasNext()){CellSetset=(CellSet)dit.next();
 :set.printAsGrid();};
 :System.out.println("******* Same set of shapes after processing them by filling *******");;
 endif 
+:ArrayListboundarySetsStep2=new ArrayList();;
+:IteratorboundarySetIt=boundarySetsStep1.iterator();;
 :while (boundarySetIt.hasNext()){CellSetset=(CellSet)boundarySetIt.next();TextGridfillBuffer=new TextGrid(width*3,height*3);for (intyi=0;yi<height*3;yi+
 +){for (intxi=0;xi<width*3;xi++){if (fillBuffer.isBlank(xi,
 yi)){TextGridcopyGrid=new AbstractionGrid(workGrid,
@@ -35,9 +46,11 @@ if (DEBUG) then (yes)
 endif 
 :boundarySetsStep2=CellSet.removeDuplicateSets(boundarySetsStep2);;
 if (DEBUG) then (yes) 
+:Iteratordit=boundarySetsStep2.iterator();;
 :while (dit.hasNext()){CellSetset=(CellSet)dit.next();
 :set.printAsGrid();};
 endif 
+:intoriginalSize=boundarySetsStep2.size();;
 :boundarySetsStep2=CellSet.removeDuplicateSets(boundarySetsStep2);;
 if (DEBUG) then (yes) 
 :System.out.println("******* Removed duplicates: there were "+
@@ -47,6 +60,10 @@ endif
 if (DEBUG) then (yes) 
 :System.out.println("******* First evaluation of openess *******");;
 endif 
+:ArrayListopen=new ArrayList();;
+:ArrayListclosed=new ArrayList();;
+:ArrayListmixed=new ArrayList();;
+:Iteratorsets=boundarySetsStep2.iterator();;
 :while (sets.hasNext()){CellSetset=(CellSet)sets.next();
 :inttype=set.getType(workGrid);if (type==CellSet.TYPE_CLOSED)closed.add(set);
 :else if (type==CellSet.TYPE_OPEN)open.add(set);
@@ -55,6 +72,7 @@ endif
 :else if (type==CellSet.TYPE_OPEN)System.out.println("Open boundaries:");
 :else if (type==CellSet.TYPE_MIXED)System.out.println("Mixed boundaries:");
 :set.printAsGrid();}};
+:booleanhadToEliminateMixed=false;;
 if (mixed.size()>0&&closed.size()>0) then (yes) 
 if (DEBUG) then (yes) 
 :System.out.println("******* Eliminating mixed shapes (basic algorithm) *******");;
@@ -65,6 +83,14 @@ endif
 :IteratorclosedSets=closed.iterator();while (closedSets.hasNext()){CellSetclosedSet=(CellSet)closedSets.next();
 :set.subtractSet(closedSet);}if (set.getType(workGrid)==CellSet.TYPE_OPEN){boundarySetsStep2.remove(set);
 :boundarySetsStep2.addAll(set.breakIntoDistinctBoundaries(workGrid));}};
+else if (mixed.size()>0&&closed.size()==0) then (yes) 
+:hadToEliminateMixed=true;;
+if (DEBUG) then (yes) 
+:System.out.println("******* Eliminating mixed shapes (advanced algorithm for truly mixed shapes) *******");;
+endif 
+:sets=mixed.iterator();;
+:while (sets.hasNext()){CellSetset=(CellSet)sets.next();
+:boundarySetsStep2.remove(set);boundarySetsStep2.addAll(set.breakTrulyMixedBoundaries(workGrid));};
 else (no)
 if (DEBUG) then (yes) 
 :System.out.println("No mixed shapes found. Skipped mixed shape elimination step");;
@@ -87,9 +113,13 @@ endif
 :else if (type==CellSet.TYPE_MIXED)System.out.println("Mixed boundaries:");
 :set.printAsGrid();}};
 endif 
+:booleanremovedAnyObsolete=removeObsoleteShapes(workGrid,
+closed);;
+:booleanallCornersRound=false;;
 if (processingOptions.areAllCornersRound()) then (yes) 
 :allCornersRound=true;;
 endif 
+:ArrayListclosedShapes=new ArrayList();;
 :sets=closed.iterator();;
 :while (sets.hasNext()){CellSetset=(CellSet)sets.next();DiagramComponentshape=DiagramComponent.createClosedFromBoundaryCells(workGrid,
 set,cellWidth,cellHeight,allCornersRound);if (shape!=null ){if (shape instanceof DiagramShape){addToShapes((DiagramShape)shape);closedShapes.add(shape);}else if (shape instanceof CompositeDiagramShape)addToCompositeShapes((CompositeDiagramShape)shape);}};
@@ -102,12 +132,20 @@ endif
 cell,cellWidth,cellHeight);if (shape!=null ){addToShapes(shape);shape.connectEndsToAnchors(workGrid,
 this);}}}else {DiagramComponentshape=CompositeDiagramShape.createOpenFromBoundaryCells(workGrid,
 set,cellWidth,cellHeight,allCornersRound);if (shape!=null ){if (shape instanceof CompositeDiagramShape){addToCompositeShapes((CompositeDiagramShape)shape);((CompositeDiagramShape)shape).connectEndsToAnchors(workGrid,this);}else if (shape instanceof DiagramShape){addToShapes((DiagramShape)shape);((DiagramShape)shape).connectEndsToAnchors(workGrid,this);((DiagramShape)shape).moveEndsToCellEdges(grid,this);}}}};
+:IteratorcellColorPairs=grid.findColorCodes()
+.iterator();;
 :while (cellColorPairs.hasNext()){TextGrid.CellColorPairpair=(TextGrid.CellColorPair)cellColorPairs.next();ShapePointpoint=new ShapePoint(getCellMidX(pair.cell),
 getCellMidY(pair.cell));Iteratorshapes=getShapes().iterator();while (shapes.hasNext()){DiagramShapeshape=(DiagramShape)shapes.next();if (shape.contains(point))shape.setFillColor(pair.color);}};
+:IteratorcellTagPairs=grid.findMarkupTags()
+.iterator();;
 :while (cellTagPairs.hasNext()){TextGrid.CellTagPairpair=(TextGrid.CellTagPair)cellTagPairs.next();ShapePointpoint=new ShapePoint(getCellMidX(pair.cell),
 getCellMidY(pair.cell));DiagramShapecontainingShape=null ;Iteratorshapes=getShapes().iterator();while (shapes.hasNext()){DiagramShapeshape=(DiagramShape)shapes.next();if (shape.contains(point)){if (containingShape==null ){containingShape=shape;}else {if (shape.isSmallerThan(containingShape)){containingShape=shape;}}}}if (containingShape==null )continue ;if (pair.tag.equals("d")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("d");if (def==null )containingShape.setType(DiagramShape.TYPE_DOCUMENT);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("s")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("s");if (def==null )containingShape.setType(DiagramShape.TYPE_STORAGE);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("io")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("io");if (def==null )containingShape.setType(DiagramShape.TYPE_IO);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("c")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("c");if (def==null )containingShape.setType(DiagramShape.TYPE_DECISION);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("mo")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("mo");if (def==null )containingShape.setType(DiagramShape.TYPE_MANUAL_OPERATION);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("tr")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("tr");if (def==null )containingShape.setType(DiagramShape.TYPE_TRAPEZOID);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("o")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("o");if (def==null )containingShape.setType(DiagramShape.TYPE_ELLIPSE);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else {CustomShapeDefinitiondef=processingOptions.getFromCustomShapes(pair.tag);containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}};
+:IteratorarrowheadCells=workGrid.findArrowheads()
+.iterator();;
 :while (arrowheadCells.hasNext()){TextGrid.Cellcell=(TextGrid.Cell)arrowheadCells.next();DiagramShapearrowhead=DiagramShape.createArrowhead(workGrid,
 cell,cellWidth,cellHeight);if (arrowhead!=null )addToShapes(arrowhead);else System.err.println("Could not create arrowhead shape. Unexpected error.");};
+:IteratormarkersIt=grid.getPointMarkersOnLine()
+.iterator();;
 :while (markersIt.hasNext()){TextGrid.Cellcell=(TextGrid.Cell)markersIt.next();DiagramShapemark=new DiagramShape();mark.addToPoints(new ShapePoint(getCellMidX(cell),
 getCellMidY(cell)));mark.setType(DiagramShape.TYPE_POINT_MARKER);mark.setFillColor(Color.white);shapes.add(mark);};
 :removeDuplicateShapes();;
@@ -120,16 +158,24 @@ compositeShapes.size());;
 endif 
 :workGrid=new TextGrid(grid);;
 :workGrid.removeNonText();;
+:TextGridtextGroupGrid=new TextGrid(workGrid);;
+:CellSetgaps=textGroupGrid.getAllBlanksBetweenCharacters();;
 :textGroupGrid.fillCellsWith(gaps,'|');;
+:CellSetnonBlank=textGroupGrid.getAllNonBlank();;
+:ArrayListtextGroups=nonBlank.breakIntoDistinctBoundaries();;
 if (DEBUG) then (yes) 
 :System.out.println(textGroups.size()+" text groups found");;
 endif 
+:Fontfont=fontMeasurer.getFontFor(cellHeight);;
+:IteratortextGroupIt=textGroups.iterator();;
 :while (textGroupIt.hasNext()){CellSettextGroupCellSet=(CellSet)textGroupIt.next();TextGridisolationGrid=new TextGrid(width,
 height);workGrid.copyCellsTo(textGroupCellSet,
 isolationGrid);ArrayListstrings=isolationGrid.findStrings();Iteratorit=strings.iterator();while (it.hasNext()){TextGrid.CellStringPairpair=(TextGrid.CellStringPair)it.next();TextGrid.Cellcell=pair.cell;Stringstring=pair.string;if (DEBUG)System.out.println("Found string "+string);TextGrid.CelllastCell=isolationGrid.new Cell(cell.x+string.length()-1,cell.y);intminX=getCellMinX(cell);inty=getCellMaxY(cell);intmaxX=getCellMaxX(lastCell);DiagramTexttextObject;if (fontMeasurer.getWidthFor(string,font)>maxX-minX){FontlessWideFont=fontMeasurer.getFontFor(maxX-minX,string);textObject=new DiagramText(minX,y,string,lessWideFont,fontMeasurer);}else textObject=new DiagramText(minX,y,string,font,fontMeasurer);textObject.centerVerticallyBetween(getCellMinY(cell),getCellMaxY(cell));intotherStart=isolationGrid.otherStringsStartInTheSameColumn(cell);intotherEnd=isolationGrid.otherStringsEndInTheSameColumn(lastCell);if (0==otherStart&&0==otherEnd){textObject.centerHorizontallyBetween(minX,maxX);}else if (otherEnd>0&&otherStart==0){textObject.alignRightEdgeTo(maxX);}else if (otherEnd>0&&otherStart>0){if (otherEnd>otherStart){textObject.alignRightEdgeTo(maxX);}else if (otherEnd==otherStart){textObject.centerHorizontallyBetween(minX,maxX);}}addToTextObjects(textObject);}};
 if (DEBUG) then (yes) 
 :System.out.println("Positioned text");;
 endif 
+:Iteratorshapes=this.getAllDiagramShapes()
+.iterator();;
 :while (shapes.hasNext()){DiagramShapeshape=(DiagramShape)shapes.next();
 :ColorfillColor=shape.getFillColor();if (shape.isClosed()&&shape.getType()!=DiagramShape.TYPE_ARROWHEAD&&fillColor!=null &&BitmapRenderer.isColorDark(fillColor)){IteratortextObjects=getTextObjects()
 .iterator();while (textObjects.hasNext()){DiagramTexttextObject=(DiagramText)textObjects.next();if (shape.intersects(textObject.getBounds())){textObject.setColor(Color.white);}}}};
@@ -146,7 +192,10 @@ start
 note right
 ArrayListgetAllDiagramShapes()
 end note
+:ArrayListshapes=new ArrayList();;
 :shapes.addAll(this.getShapes());;
+:IteratorshapesIt=this.getCompositeShapes()
+.iterator();;
 :while (shapesIt.hasNext()){CompositeDiagramShapecompShape=(CompositeDiagramShape)shapesIt.next();
 :shapes.addAll(compShape.getShapes());};
 :return shapes;;
@@ -160,6 +209,9 @@ end note
 if (DEBUG) then (yes) 
 :System.out.println("******* Removing obsolete shapes *******");;
 endif 
+:booleanremovedAny=false;;
+:ArrayList<CellSet>filledSets=new ArrayList<CellSet>();;
+:Iteratorit;;
 if (VERBOSE_DEBUG) then (yes) 
 :System.out.println("******* Sets before *******");;
 :it=sets.iterator();;
@@ -170,6 +222,7 @@ endif
 :while (it.hasNext()){CellSetset=(CellSet)it.next();
 :set=set.getFilledEquivalent(grid);if (set==null ){return false;
 :}else filledSets.add(set);};
+:ArrayList<Integer>toBeRemovedIndices=new ArrayList<Integer>();;
 :it=filledSets.iterator();;
 :while (it.hasNext()){CellSetset=(CellSet)it.next();
 :if (VERBOSE_DEBUG){System.out.println("*** Deciding if the following should be removed:");
@@ -181,6 +234,7 @@ endif
 :it2=common.iterator();while (it2.hasNext()){CellSetset2=(CellSet)it2.next();
 :if (set2.size()>largest.size()){largest=set2;}}if (VERBOSE_DEBUG){System.out.println("Largest:");largest.printAsGrid();}common.remove(largest);TextGridgridOfSmalls=new TextGrid(largest.getMaxX()+
 2,largest.getMaxY()+2);CellSetsumOfSmall=new CellSet();it2=common.iterator();while (it2.hasNext()){CellSetset2=(CellSet)it2.next();if (VERBOSE_DEBUG){System.out.println("One of smalls:");set2.printAsGrid();}gridOfSmalls.fillCellsWith(set2,'*');}if (VERBOSE_DEBUG){System.out.println("Sum of smalls:");gridOfSmalls.printDebug();}TextGridgridLargest=new TextGrid(largest.getMaxX()+2,largest.getMaxY()+2);gridLargest.fillCellsWith(largest,'*');intindex=filledSets.indexOf(largest);if (gridLargest.equals(gridOfSmalls)&&!toBeRemovedIndices.contains(index)){toBeRemovedIndices.add(index);if (DEBUG){System.out.println("Decided to remove set:");largest.printAsGrid();}}else if (DEBUG){System.out.println("This set WILL NOT be removed:");largest.printAsGrid();}};
+:ArrayList<CellSet>setsToBeRemoved=new ArrayList<CellSet>();;
 :it=toBeRemovedIndices.iterator();;
 :while (it.hasNext()){inti=((Integer)it.next()).intValue();
 :setsToBeRemoved.add(sets.get(i));};
@@ -207,12 +261,19 @@ start
 note right
 void separateCommonEdges(ArrayListshapes)
 end note
+:floatoffset=getMinimumOfCellDimension()/5;;
+:ArrayList<ShapeEdge>edges=new ArrayList<ShapeEdge>();;
+:Iteratorit=shapes.iterator();;
 :while (it.hasNext()){DiagramShapeshape=(DiagramShape)it.next();
 :edges.addAll(shape.getEdges());};
+:ArrayList<Pair<ShapeEdge,ShapeEdge>>listOfPairs=new ArrayList<Pair<ShapeEdge,
+ShapeEdge>>();;
 :it=edges.iterator();;
+:intstartIndex=1;;
 :while (it.hasNext()){ShapeEdgeedge1=(ShapeEdge)it.next();for (intk=startIndex;k<edges.size();k+
 +){ShapeEdgeedge2=edges.get(k);if (edge1.touchesWith(edge2)){listOfPairs.add(new Pair<ShapeEdge,
 ShapeEdge>(edge1,edge2));}}startIndex++;};
+:ArrayList<ShapeEdge>movedEdges=new ArrayList<ShapeEdge>();;
 :it=listOfPairs.iterator();;
 :while (it.hasNext()){Pair<ShapeEdge,ShapeEdge>pair=(Pair<ShapeEdge,
 ShapeEdge>)it.next();if (!movedEdges.contains(pair.first)){pair.first.moveInwardsBy(offset);movedEdges.add(pair.first);}if (!movedEdges.contains(pair.second)){pair.second.moveInwardsBy(offset);movedEdges.add(pair.second);}};
@@ -221,6 +282,8 @@ start
 note right
 void removeDuplicateShapes()
 end note
+:ArrayListoriginalShapes=new ArrayList();;
+:IteratorshapesIt=getShapesIterator();;
 :while (shapesIt.hasNext()){DiagramShapeshape=(DiagramShape)shapesIt.next();
 :booleanisOriginal=true;Iteratororiginals=originalShapes.iterator();
 :while (originals.hasNext()){DiagramShapeoriginalShape=(DiagramShape)originals.next();
@@ -388,6 +451,7 @@ if (point==null ) then (yes)
 :throw new IllegalArgumentException("ShapePoint cannot be null");;
 stop
 endif 
+:TextGridg=new TextGrid();;
 :return g.new Cell((int)point.x/cellWidth,
 (int)point.y/cellHeight);;
 stop
@@ -410,19 +474,30 @@ ProcessingOptionsprocessingOptions)
 end note
 :this.cellWidth=options.renderingOptions.getCellWidth();;
 :this.cellHeight=options.renderingOptions.getCellHeight();;
+:FontMeasurerfontMeasurer=new FontMeasurer(options.renderingOptions.getFont(),
+options.renderingOptions.getForceFontSize());;
 :width=grid.getWidth()*cellWidth;;
 :height=grid.getHeight()*cellHeight;;
+:TextGridworkGrid=new TextGrid(grid);;
 :workGrid.replaceTypeOnLine();;
 :workGrid.replacePointMarkersOnLine();;
 if (DEBUG) then (yes) 
 :workGrid.printDebug();;
 endif 
+:intwidth=grid.getWidth();;
+:intheight=grid.getHeight();;
+:AbstractionGridtemp=new AbstractionGrid(workGrid,
+workGrid.getAllBoundaries());;
+:ArrayListboundarySetsStep1=temp.getDistinctShapes();;
 if (DEBUG) then (yes) 
 :System.out.println("******* Distinct shapes found using AbstractionGrid *******");;
+:Iteratordit=boundarySetsStep1.iterator();;
 :while (dit.hasNext()){CellSetset=(CellSet)dit.next();
 :set.printAsGrid();};
 :System.out.println("******* Same set of shapes after processing them by filling *******");;
 endif 
+:ArrayListboundarySetsStep2=new ArrayList();;
+:IteratorboundarySetIt=boundarySetsStep1.iterator();;
 :while (boundarySetIt.hasNext()){CellSetset=(CellSet)boundarySetIt.next();TextGridfillBuffer=new TextGrid(width*3,height*3);for (intyi=0;yi<height*3;yi+
 +){for (intxi=0;xi<width*3;xi++){if (fillBuffer.isBlank(xi,
 yi)){TextGridcopyGrid=new AbstractionGrid(workGrid,
@@ -435,9 +510,11 @@ if (DEBUG) then (yes)
 endif 
 :boundarySetsStep2=CellSet.removeDuplicateSets(boundarySetsStep2);;
 if (DEBUG) then (yes) 
+:Iteratordit=boundarySetsStep2.iterator();;
 :while (dit.hasNext()){CellSetset=(CellSet)dit.next();
 :set.printAsGrid();};
 endif 
+:intoriginalSize=boundarySetsStep2.size();;
 :boundarySetsStep2=CellSet.removeDuplicateSets(boundarySetsStep2);;
 if (DEBUG) then (yes) 
 :System.out.println("******* Removed duplicates: there were "+
@@ -447,6 +524,10 @@ endif
 if (DEBUG) then (yes) 
 :System.out.println("******* First evaluation of openess *******");;
 endif 
+:ArrayListopen=new ArrayList();;
+:ArrayListclosed=new ArrayList();;
+:ArrayListmixed=new ArrayList();;
+:Iteratorsets=boundarySetsStep2.iterator();;
 :while (sets.hasNext()){CellSetset=(CellSet)sets.next();
 :inttype=set.getType(workGrid);if (type==CellSet.TYPE_CLOSED)closed.add(set);
 :else if (type==CellSet.TYPE_OPEN)open.add(set);
@@ -455,6 +536,7 @@ endif
 :else if (type==CellSet.TYPE_OPEN)System.out.println("Open boundaries:");
 :else if (type==CellSet.TYPE_MIXED)System.out.println("Mixed boundaries:");
 :set.printAsGrid();}};
+:booleanhadToEliminateMixed=false;;
 if (mixed.size()>0&&closed.size()>0) then (yes) 
 if (DEBUG) then (yes) 
 :System.out.println("******* Eliminating mixed shapes (basic algorithm) *******");;
@@ -465,6 +547,14 @@ endif
 :IteratorclosedSets=closed.iterator();while (closedSets.hasNext()){CellSetclosedSet=(CellSet)closedSets.next();
 :set.subtractSet(closedSet);}if (set.getType(workGrid)==CellSet.TYPE_OPEN){boundarySetsStep2.remove(set);
 :boundarySetsStep2.addAll(set.breakIntoDistinctBoundaries(workGrid));}};
+else if (mixed.size()>0&&closed.size()==0) then (yes) 
+:hadToEliminateMixed=true;;
+if (DEBUG) then (yes) 
+:System.out.println("******* Eliminating mixed shapes (advanced algorithm for truly mixed shapes) *******");;
+endif 
+:sets=mixed.iterator();;
+:while (sets.hasNext()){CellSetset=(CellSet)sets.next();
+:boundarySetsStep2.remove(set);boundarySetsStep2.addAll(set.breakTrulyMixedBoundaries(workGrid));};
 else (no)
 if (DEBUG) then (yes) 
 :System.out.println("No mixed shapes found. Skipped mixed shape elimination step");;
@@ -487,9 +577,13 @@ endif
 :else if (type==CellSet.TYPE_MIXED)System.out.println("Mixed boundaries:");
 :set.printAsGrid();}};
 endif 
+:booleanremovedAnyObsolete=removeObsoleteShapes(workGrid,
+closed);;
+:booleanallCornersRound=false;;
 if (processingOptions.areAllCornersRound()) then (yes) 
 :allCornersRound=true;;
 endif 
+:ArrayListclosedShapes=new ArrayList();;
 :sets=closed.iterator();;
 :while (sets.hasNext()){CellSetset=(CellSet)sets.next();DiagramComponentshape=DiagramComponent.createClosedFromBoundaryCells(workGrid,
 set,cellWidth,cellHeight,allCornersRound);if (shape!=null ){if (shape instanceof DiagramShape){addToShapes((DiagramShape)shape);closedShapes.add(shape);}else if (shape instanceof CompositeDiagramShape)addToCompositeShapes((CompositeDiagramShape)shape);}};
@@ -502,12 +596,20 @@ endif
 cell,cellWidth,cellHeight);if (shape!=null ){addToShapes(shape);shape.connectEndsToAnchors(workGrid,
 this);}}}else {DiagramComponentshape=CompositeDiagramShape.createOpenFromBoundaryCells(workGrid,
 set,cellWidth,cellHeight,allCornersRound);if (shape!=null ){if (shape instanceof CompositeDiagramShape){addToCompositeShapes((CompositeDiagramShape)shape);((CompositeDiagramShape)shape).connectEndsToAnchors(workGrid,this);}else if (shape instanceof DiagramShape){addToShapes((DiagramShape)shape);((DiagramShape)shape).connectEndsToAnchors(workGrid,this);((DiagramShape)shape).moveEndsToCellEdges(grid,this);}}}};
+:IteratorcellColorPairs=grid.findColorCodes()
+.iterator();;
 :while (cellColorPairs.hasNext()){TextGrid.CellColorPairpair=(TextGrid.CellColorPair)cellColorPairs.next();ShapePointpoint=new ShapePoint(getCellMidX(pair.cell),
 getCellMidY(pair.cell));Iteratorshapes=getShapes().iterator();while (shapes.hasNext()){DiagramShapeshape=(DiagramShape)shapes.next();if (shape.contains(point))shape.setFillColor(pair.color);}};
+:IteratorcellTagPairs=grid.findMarkupTags()
+.iterator();;
 :while (cellTagPairs.hasNext()){TextGrid.CellTagPairpair=(TextGrid.CellTagPair)cellTagPairs.next();ShapePointpoint=new ShapePoint(getCellMidX(pair.cell),
 getCellMidY(pair.cell));DiagramShapecontainingShape=null ;Iteratorshapes=getShapes().iterator();while (shapes.hasNext()){DiagramShapeshape=(DiagramShape)shapes.next();if (shape.contains(point)){if (containingShape==null ){containingShape=shape;}else {if (shape.isSmallerThan(containingShape)){containingShape=shape;}}}}if (containingShape==null )continue ;if (pair.tag.equals("d")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("d");if (def==null )containingShape.setType(DiagramShape.TYPE_DOCUMENT);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("s")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("s");if (def==null )containingShape.setType(DiagramShape.TYPE_STORAGE);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("io")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("io");if (def==null )containingShape.setType(DiagramShape.TYPE_IO);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("c")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("c");if (def==null )containingShape.setType(DiagramShape.TYPE_DECISION);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("mo")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("mo");if (def==null )containingShape.setType(DiagramShape.TYPE_MANUAL_OPERATION);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("tr")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("tr");if (def==null )containingShape.setType(DiagramShape.TYPE_TRAPEZOID);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else if (pair.tag.equals("o")){CustomShapeDefinitiondef=processingOptions.getFromCustomShapes("o");if (def==null )containingShape.setType(DiagramShape.TYPE_ELLIPSE);else {containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}}else {CustomShapeDefinitiondef=processingOptions.getFromCustomShapes(pair.tag);containingShape.setType(DiagramShape.TYPE_CUSTOM);containingShape.setDefinition(def);}};
+:IteratorarrowheadCells=workGrid.findArrowheads()
+.iterator();;
 :while (arrowheadCells.hasNext()){TextGrid.Cellcell=(TextGrid.Cell)arrowheadCells.next();DiagramShapearrowhead=DiagramShape.createArrowhead(workGrid,
 cell,cellWidth,cellHeight);if (arrowhead!=null )addToShapes(arrowhead);else System.err.println("Could not create arrowhead shape. Unexpected error.");};
+:IteratormarkersIt=grid.getPointMarkersOnLine()
+.iterator();;
 :while (markersIt.hasNext()){TextGrid.Cellcell=(TextGrid.Cell)markersIt.next();DiagramShapemark=new DiagramShape();mark.addToPoints(new ShapePoint(getCellMidX(cell),
 getCellMidY(cell)));mark.setType(DiagramShape.TYPE_POINT_MARKER);mark.setFillColor(Color.white);shapes.add(mark);};
 :removeDuplicateShapes();;
@@ -520,16 +622,24 @@ compositeShapes.size());;
 endif 
 :workGrid=new TextGrid(grid);;
 :workGrid.removeNonText();;
+:TextGridtextGroupGrid=new TextGrid(workGrid);;
+:CellSetgaps=textGroupGrid.getAllBlanksBetweenCharacters();;
 :textGroupGrid.fillCellsWith(gaps,'|');;
+:CellSetnonBlank=textGroupGrid.getAllNonBlank();;
+:ArrayListtextGroups=nonBlank.breakIntoDistinctBoundaries();;
 if (DEBUG) then (yes) 
 :System.out.println(textGroups.size()+" text groups found");;
 endif 
+:Fontfont=fontMeasurer.getFontFor(cellHeight);;
+:IteratortextGroupIt=textGroups.iterator();;
 :while (textGroupIt.hasNext()){CellSettextGroupCellSet=(CellSet)textGroupIt.next();TextGridisolationGrid=new TextGrid(width,
 height);workGrid.copyCellsTo(textGroupCellSet,
 isolationGrid);ArrayListstrings=isolationGrid.findStrings();Iteratorit=strings.iterator();while (it.hasNext()){TextGrid.CellStringPairpair=(TextGrid.CellStringPair)it.next();TextGrid.Cellcell=pair.cell;Stringstring=pair.string;if (DEBUG)System.out.println("Found string "+string);TextGrid.CelllastCell=isolationGrid.new Cell(cell.x+string.length()-1,cell.y);intminX=getCellMinX(cell);inty=getCellMaxY(cell);intmaxX=getCellMaxX(lastCell);DiagramTexttextObject;if (fontMeasurer.getWidthFor(string,font)>maxX-minX){FontlessWideFont=fontMeasurer.getFontFor(maxX-minX,string);textObject=new DiagramText(minX,y,string,lessWideFont,fontMeasurer);}else textObject=new DiagramText(minX,y,string,font,fontMeasurer);textObject.centerVerticallyBetween(getCellMinY(cell),getCellMaxY(cell));intotherStart=isolationGrid.otherStringsStartInTheSameColumn(cell);intotherEnd=isolationGrid.otherStringsEndInTheSameColumn(lastCell);if (0==otherStart&&0==otherEnd){textObject.centerHorizontallyBetween(minX,maxX);}else if (otherEnd>0&&otherStart==0){textObject.alignRightEdgeTo(maxX);}else if (otherEnd>0&&otherStart>0){if (otherEnd>otherStart){textObject.alignRightEdgeTo(maxX);}else if (otherEnd==otherStart){textObject.centerHorizontallyBetween(minX,maxX);}}addToTextObjects(textObject);}};
 if (DEBUG) then (yes) 
 :System.out.println("Positioned text");;
 endif 
+:Iteratorshapes=this.getAllDiagramShapes()
+.iterator();;
 :while (shapes.hasNext()){DiagramShapeshape=(DiagramShape)shapes.next();
 :ColorfillColor=shape.getFillColor();if (shape.isClosed()&&shape.getType()!=DiagramShape.TYPE_ARROWHEAD&&fillColor!=null &&BitmapRenderer.isColorDark(fillColor)){IteratortextObjects=getTextObjects()
 .iterator();while (textObjects.hasNext()){DiagramTexttextObject=(DiagramText)textObjects.next();if (shape.intersects(textObject.getBounds())){textObject.setColor(Color.white);}}}};
@@ -546,7 +656,10 @@ start
 note right
 ArrayListgetAllDiagramShapes()
 end note
+:ArrayListshapes=new ArrayList();;
 :shapes.addAll(this.getShapes());;
+:IteratorshapesIt=this.getCompositeShapes()
+.iterator();;
 :while (shapesIt.hasNext()){CompositeDiagramShapecompShape=(CompositeDiagramShape)shapesIt.next();
 :shapes.addAll(compShape.getShapes());};
 :return shapes;;
@@ -560,6 +673,9 @@ end note
 if (DEBUG) then (yes) 
 :System.out.println("******* Removing obsolete shapes *******");;
 endif 
+:booleanremovedAny=false;;
+:ArrayList<CellSet>filledSets=new ArrayList<CellSet>();;
+:Iteratorit;;
 if (VERBOSE_DEBUG) then (yes) 
 :System.out.println("******* Sets before *******");;
 :it=sets.iterator();;
@@ -570,6 +686,7 @@ endif
 :while (it.hasNext()){CellSetset=(CellSet)it.next();
 :set=set.getFilledEquivalent(grid);if (set==null ){return false;
 :}else filledSets.add(set);};
+:ArrayList<Integer>toBeRemovedIndices=new ArrayList<Integer>();;
 :it=filledSets.iterator();;
 :while (it.hasNext()){CellSetset=(CellSet)it.next();
 :if (VERBOSE_DEBUG){System.out.println("*** Deciding if the following should be removed:");
@@ -581,6 +698,7 @@ endif
 :it2=common.iterator();while (it2.hasNext()){CellSetset2=(CellSet)it2.next();
 :if (set2.size()>largest.size()){largest=set2;}}if (VERBOSE_DEBUG){System.out.println("Largest:");largest.printAsGrid();}common.remove(largest);TextGridgridOfSmalls=new TextGrid(largest.getMaxX()+
 2,largest.getMaxY()+2);CellSetsumOfSmall=new CellSet();it2=common.iterator();while (it2.hasNext()){CellSetset2=(CellSet)it2.next();if (VERBOSE_DEBUG){System.out.println("One of smalls:");set2.printAsGrid();}gridOfSmalls.fillCellsWith(set2,'*');}if (VERBOSE_DEBUG){System.out.println("Sum of smalls:");gridOfSmalls.printDebug();}TextGridgridLargest=new TextGrid(largest.getMaxX()+2,largest.getMaxY()+2);gridLargest.fillCellsWith(largest,'*');intindex=filledSets.indexOf(largest);if (gridLargest.equals(gridOfSmalls)&&!toBeRemovedIndices.contains(index)){toBeRemovedIndices.add(index);if (DEBUG){System.out.println("Decided to remove set:");largest.printAsGrid();}}else if (DEBUG){System.out.println("This set WILL NOT be removed:");largest.printAsGrid();}};
+:ArrayList<CellSet>setsToBeRemoved=new ArrayList<CellSet>();;
 :it=toBeRemovedIndices.iterator();;
 :while (it.hasNext()){inti=((Integer)it.next()).intValue();
 :setsToBeRemoved.add(sets.get(i));};
@@ -607,12 +725,19 @@ start
 note right
 void separateCommonEdges(ArrayListshapes)
 end note
+:floatoffset=getMinimumOfCellDimension()/5;;
+:ArrayList<ShapeEdge>edges=new ArrayList<ShapeEdge>();;
+:Iteratorit=shapes.iterator();;
 :while (it.hasNext()){DiagramShapeshape=(DiagramShape)it.next();
 :edges.addAll(shape.getEdges());};
+:ArrayList<Pair<ShapeEdge,ShapeEdge>>listOfPairs=new ArrayList<Pair<ShapeEdge,
+ShapeEdge>>();;
 :it=edges.iterator();;
+:intstartIndex=1;;
 :while (it.hasNext()){ShapeEdgeedge1=(ShapeEdge)it.next();for (intk=startIndex;k<edges.size();k+
 +){ShapeEdgeedge2=edges.get(k);if (edge1.touchesWith(edge2)){listOfPairs.add(new Pair<ShapeEdge,
 ShapeEdge>(edge1,edge2));}}startIndex++;};
+:ArrayList<ShapeEdge>movedEdges=new ArrayList<ShapeEdge>();;
 :it=listOfPairs.iterator();;
 :while (it.hasNext()){Pair<ShapeEdge,ShapeEdge>pair=(Pair<ShapeEdge,
 ShapeEdge>)it.next();if (!movedEdges.contains(pair.first)){pair.first.moveInwardsBy(offset);movedEdges.add(pair.first);}if (!movedEdges.contains(pair.second)){pair.second.moveInwardsBy(offset);movedEdges.add(pair.second);}};
@@ -621,6 +746,8 @@ start
 note right
 void removeDuplicateShapes()
 end note
+:ArrayListoriginalShapes=new ArrayList();;
+:IteratorshapesIt=getShapesIterator();;
 :while (shapesIt.hasNext()){DiagramShapeshape=(DiagramShape)shapesIt.next();
 :booleanisOriginal=true;Iteratororiginals=originalShapes.iterator();
 :while (originals.hasNext()){DiagramShapeoriginalShape=(DiagramShape)originals.next();
@@ -788,6 +915,7 @@ if (point==null ) then (yes)
 :throw new IllegalArgumentException("ShapePoint cannot be null");;
 stop
 endif 
+:TextGridg=new TextGrid();;
 :return g.new Cell((int)point.x/cellWidth,
 (int)point.y/cellHeight);;
 stop

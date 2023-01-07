@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="781px" preserveAspectRatio="none" style="width:1155px;height:781px;background:#000000;" version="1.1" viewBox="0 0 1155 781" width="1155px" zoomAndPan="magnify"><defs/><g><rect fill="#09100A" height="1" style="stroke:#09100A;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 136 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="1143" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="6" y="83.875">[From string (line 40) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="338" x="5" y="185.6563">void SplitNode(ST_RTreertp,ST_Node_t___n,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="250" x="5" y="201.9531">ST_Branch_tb,ST_Node_t___[]nn)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="5" y="218.25">end note</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="446" x="5" y="234.5469">:ENTERING("6vl3snxd6k95gamfkwfsfdguc","SplitNode");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="312" x="5" y="250.8438">:try {ST_PartitionVarsp;intlevel;intarea;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="550" x="5" y="267.1406">:if (rtp.StatFlag!=0){UNSUPPORTED("akhni40ndam0u9c6i7raxw4mp");</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="1143" x="5" y="283.4375">:UNSUPPORTED("4g80zdlbvunm838x8g3ic9tex");UNSUPPORTED("9352ql3e58qs4fzapgjfrms2s");UNSUPPORTED("2cjo6wz1rmxfm5k7u7rw5dqp ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="678" x="5" y="299.7344">n,b);p=rtp.split.Partitions[0];MethodZero(rtp);area=RectArea((ST_Rect_t)p.cover[0])+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="1037" x="5" y="316.0313">RectArea((ST_Rect_t)p.cover[1]);if (rtp.StatFlag!=0&amp;&amp;N(rtp.Deleting)&amp;&amp;area!=0)UNSUPPORTED("z7xk6s3hzi3qcoiq2exj9hpv");nn ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="479" x="5" y="332.3281">n,nn[0],p);}finally {LEAVING("6vl3snxd6k95gamfkwfsfdguc",</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="117" x="5" y="348.625">"SplitNode");};</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="5" y="364.9219">end</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="381.2188">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="397.5156">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="365" x="5" y="413.8125">void GetBranches(ST_RTreertp,ST_Node_t___n,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="111" x="5" y="430.1094">ST_Branch_tb)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="5" y="446.4063">end note</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="466" x="5" y="462.7031">:ENTERING("al7lyin008m7kvrvuxhcuvn61","GetBranches");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="918" x="5" y="479">:try {inti;for (i=0;i&lt;64;i++){rtp.split.BranchBuf[i].___(n.branch[i]);}rtp.split.BranchBuf[64].___(b);rtp.split.CoverSpl ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="588" x="5" y="495.2969">1;i++){rtp.split.CoverSplit.___(CombineRect((ST_Rect_t)rtp.split.CoverSplit,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="942" x="5" y="511.5938">(ST_Rect_t)rtp.split.BranchBuf[i].rect));}rtp.split.CoverSplitArea=RectArea((ST_Rect_t)rtp.split.CoverSplit);InitNode(n) ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="144" x="5" y="527.8906">"GetBranches");};</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="5" y="544.1875">end</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="560.4844">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="576.7813">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="244" x="5" y="593.0781">void MethodZero(ST_RTreertp)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="5" y="609.375">end note</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="458" x="5" y="625.6719">:ENTERING("4woz5xy4gjlahoj7no3ljxmex","MethodZero");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="991" x="5" y="641.9688">:try {ST_Rect_tr;inti,growth0,growth1,diff,biggestDiff;intgroup,chosen=0,betterGroup=0;InitPVars(rtp);PickSeeds(rtp);whi ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="594" x="5" y="658.2656">rtp.split.Partitions[0].count[1]&lt;64+1&amp;&amp;rtp.split.Partitions[0].count[0]&lt;64+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="397" x="5" y="674.5625">1-rtp.MinFill&amp;&amp;rtp.split.Partitions[0].count[1]&lt;64+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="342" x="5" y="690.8594">1-rtp.MinFill){biggestDiff=-1;for (i=0;i&lt;64+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="931" x="5" y="707.1563">1;i++){if (N(rtp.split.Partitions[0].taken[i])){final ST_Rect_trect=new ST_Rect_t();r=(ST_Rect_t)rtp.split.BranchBuf[i]. ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="331" x="5" y="723.4531">rtp -&gt; split . Partitions [ 0 ] . cover [ 0 ] ))-</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="309" x="5" y="739.75">rtp -&gt; split . Partitions [ 0 ] . area [ 0 ] ;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="338" x="5" y="756.0469">*//*growth1 = RectArea ( CombineRect ( r ,</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="772.3438">Syntax Error?</text><!--MD5=[17ab55185d85b7e8d8615076035a0351]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:943px;height:586px;background:#000000;" version="1.1" viewBox="0 0 943 586" width="943px" zoomAndPan="magnify"><defs/><g><rect fill="#140F09" height="1" style="stroke:#140F09;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 137 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="931" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="6" y="83.875">[From string (line 66) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="338" x="5" y="185.6563">void SplitNode(ST_RTreertp,ST_Node_t___n,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="175" x="5" y="218.25">... ( skipping 41 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="5" y="250.8438">end</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="267.1406">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="283.4375">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="244" x="5" y="299.7344">void MethodZero(ST_RTreertp)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="5" y="316.0313">end note</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="458" x="5" y="332.3281">:ENTERING("4woz5xy4gjlahoj7no3ljxmex","MethodZero");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="39" x="5" y="348.625">:try ;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="100" x="5" y="364.9219">:ST_Rect_tr;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="308" x="5" y="381.2188">:inti,growth0,growth1,diff,biggestDiff;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="295" x="5" y="397.5156">:intgroup,chosen=0,betterGroup=0;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="123" x="5" y="413.8125">:InitPVars(rtp);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="134" x="5" y="430.1094">:PickSeeds(rtp);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="306" x="5" y="446.4063">:while (rtp.split.Partitions[0].count[0]+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="594" x="5" y="462.7031">rtp.split.Partitions[0].count[1]&lt;64+1&amp;&amp;rtp.split.Partitions[0].count[0]&lt;64+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="397" x="5" y="479">1-rtp.MinFill&amp;&amp;rtp.split.Partitions[0].count[1]&lt;64+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="342" x="5" y="495.2969">1-rtp.MinFill){biggestDiff=-1;for (i=0;i&lt;64+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="931" x="5" y="511.5938">1;i++){if (N(rtp.split.Partitions[0].taken[i])){final ST_Rect_trect=new ST_Rect_t();r=(ST_Rect_t)rtp.split.BranchBuf[i]. ...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="331" x="5" y="527.8906">rtp -&gt; split . Partitions [ 0 ] . cover [ 0 ] ))-</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="309" x="5" y="544.1875">rtp -&gt; split . Partitions [ 0 ] . area [ 0 ] ;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="338" x="5" y="560.4844">*//*growth1 = RectArea ( CombineRect ( r ,</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="576.7813">Syntax Error?</text><!--MD5=[af3afa7ae92fc99ee6c0d480a1338e22]
 @startuml
 !pragma layout smetana
 start
@@ -7,13 +7,28 @@ void SplitNode(ST_RTreertp,ST_Node_t___n,
 ST_Branch_tb,ST_Node_t___[]nn)
 end note
 :ENTERING("6vl3snxd6k95gamfkwfsfdguc","SplitNode");;
-:try {ST_PartitionVarsp;intlevel;intarea;
-:if (rtp.StatFlag!=0){UNSUPPORTED("akhni40ndam0u9c6i7raxw4mp");
-:UNSUPPORTED("4g80zdlbvunm838x8g3ic9tex");UNSUPPORTED("9352ql3e58qs4fzapgjfrms2s");UNSUPPORTED("2cjo6wz1rmxfm5k7u7rw5dqpj");}level=n.level;GetBranches(rtp,
-n,b);p=rtp.split.Partitions[0];MethodZero(rtp);area=RectArea((ST_Rect_t)p.cover[0])+
-RectArea((ST_Rect_t)p.cover[1]);if (rtp.StatFlag!=0&&N(rtp.Deleting)&&area!=0)UNSUPPORTED("z7xk6s3hzi3qcoiq2exj9hpv");nn[0]=RTreeNewNode(rtp);n.level=level;nn[0].level=level;LoadNodes(rtp,
-n,nn[0],p);}finally {LEAVING("6vl3snxd6k95gamfkwfsfdguc",
-"SplitNode");};
+:try ;
+:ST_PartitionVarsp;;
+:intlevel;;
+:intarea;;
+if (rtp.StatFlag!=0) then (yes) 
+:UNSUPPORTED("akhni40ndam0u9c6i7raxw4mp");;
+:UNSUPPORTED("4g80zdlbvunm838x8g3ic9tex");;
+:UNSUPPORTED("9352ql3e58qs4fzapgjfrms2s");;
+:UNSUPPORTED("2cjo6wz1rmxfm5k7u7rw5dqpj");;
+endif 
+:level=n.level;;
+:GetBranches(rtp,n,b);;
+:p=rtp.split.Partitions[0];;
+:MethodZero(rtp);;
+:area=RectArea((ST_Rect_t)p.cover[0])+RectArea((ST_Rect_t)p.cover[1]);;
+if (rtp.StatFlag!=0&&N(rtp.Deleting)&&area!=0) then (yes) 
+:UNSUPPORTED("z7xk6s3hzi3qcoiq2exj9hpv");;
+endif 
+:nn[0]=RTreeNewNode(rtp);;
+:n.level=level;;
+:nn[0].level=level;;
+:LoadNodes(rtp,n,nn[0],p);;
 end
 start
 note right
@@ -21,17 +36,28 @@ void GetBranches(ST_RTreertp,ST_Node_t___n,
 ST_Branch_tb)
 end note
 :ENTERING("al7lyin008m7kvrvuxhcuvn61","GetBranches");;
-:try {inti;for (i=0;i<64;i++){rtp.split.BranchBuf[i].___(n.branch[i]);}rtp.split.BranchBuf[64].___(b);rtp.split.CoverSplit.___(rtp.split.BranchBuf[0].rect);for (i=1;i<64+
-1;i++){rtp.split.CoverSplit.___(CombineRect((ST_Rect_t)rtp.split.CoverSplit,
-(ST_Rect_t)rtp.split.BranchBuf[i].rect));}rtp.split.CoverSplitArea=RectArea((ST_Rect_t)rtp.split.CoverSplit);InitNode(n);}finally {LEAVING("al7lyin008m7kvrvuxhcuvn61",
-"GetBranches");};
+:try ;
+:inti;;
+:rtp.split.BranchBuf[i].___(n.branch[i]);;
+:rtp.split.BranchBuf[64].___(b);;
+:rtp.split.CoverSplit.___(rtp.split.BranchBuf[0].rect);;
+:rtp.split.CoverSplit.___(CombineRect((ST_Rect_t)rtp.split.CoverSplit,
+(ST_Rect_t)rtp.split.BranchBuf[i].rect));;
+:rtp.split.CoverSplitArea=RectArea((ST_Rect_t)rtp.split.CoverSplit);;
+:InitNode(n);;
 end
 start
 note right
 void MethodZero(ST_RTreertp)
 end note
 :ENTERING("4woz5xy4gjlahoj7no3ljxmex","MethodZero");;
-:try {ST_Rect_tr;inti,growth0,growth1,diff,biggestDiff;intgroup,chosen=0,betterGroup=0;InitPVars(rtp);PickSeeds(rtp);while (rtp.split.Partitions[0].count[0]+
+:try ;
+:ST_Rect_tr;;
+:inti,growth0,growth1,diff,biggestDiff;;
+:intgroup,chosen=0,betterGroup=0;;
+:InitPVars(rtp);;
+:PickSeeds(rtp);;
+:while (rtp.split.Partitions[0].count[0]+
 rtp.split.Partitions[0].count[1]<64+1&&rtp.split.Partitions[0].count[0]<64+
 1-rtp.MinFill&&rtp.split.Partitions[0].count[1]<64+
 1-rtp.MinFill){biggestDiff=-1;for (i=0;i<64+
@@ -42,31 +68,59 @@ rtp -> split . Partitions [ 0 ] . area [ 0 ] ;
 rtp -> split . Partitions [ 0 ] . cover [ 1 ] ))- 
 rtp -> split . Partitions [ 0 ] . area [ 1 ] ; 
 */rect.___(CombineRect(r,(ST_Rect_t)rtp.split.Partitions[0].cover[0]));growth0=RectArea((ST_Rect_t)rect)-rtp.split.Partitions[0].area[0];rect.___(CombineRect(r,
-(ST_Rect_t)rtp.split.Partitions[0].cover[1]));growth1=RectArea((ST_Rect_t)rect)-rtp.split.Partitions[0].area[1];diff=growth1-growth0;if (diff>=0)group=0;else {group=1;diff=-diff;}if (diff>biggestDiff){biggestDiff=diff;chosen=i;betterGroup=group;}else if (diff==biggestDiff&&rtp.split.Partitions[0].count[group]<rtp.split.Partitions[0].count[betterGroup]){chosen=i;betterGroup=group;}}}Classify(rtp,chosen,betterGroup);}if (rtp.split.Partitions[0].count[0]+rtp.split.Partitions[0].count[1]<64+1){group=0;UNSUPPORTED("4edp65b21liyii0fj1ikco7o0");UNSUPPORTED("20lpsuiyepr2ujozaf6gp4cc");UNSUPPORTED("9qtt6i40h8vtjp2cvqyb8ycaz");UNSUPPORTED("2x1nx9nsne4x3ygmcywl1m3og");UNSUPPORTED("jdepsnmrs3ghh78ql301sfvu");UNSUPPORTED("gqfhorilvtlogp6f2ozx5akf");UNSUPPORTED("flupwh3kosf3fkhkxllllt1");}}finally {LEAVING("4woz5xy4gjlahoj7no3ljxmex","MethodZero");};
+(ST_Rect_t)rtp.split.Partitions[0].cover[1]));growth1=RectArea((ST_Rect_t)rect)-rtp.split.Partitions[0].area[1];diff=growth1-growth0;if (diff>=0)group=0;else {group=1;diff=-diff;}if (diff>biggestDiff){biggestDiff=diff;chosen=i;betterGroup=group;}else if (diff==biggestDiff&&rtp.split.Partitions[0].count[group]<rtp.split.Partitions[0].count[betterGroup]){chosen=i;betterGroup=group;}}}Classify(rtp,chosen,betterGroup);};
+if (rtp.split.Partitions[0].count[0]+rtp.split.Partitions[0].count[1]<64+
+1) then (yes) 
+:group=0;;
+:UNSUPPORTED("4edp65b21liyii0fj1ikco7o0");;
+:UNSUPPORTED("20lpsuiyepr2ujozaf6gp4cc");;
+:UNSUPPORTED("9qtt6i40h8vtjp2cvqyb8ycaz");;
+:UNSUPPORTED("2x1nx9nsne4x3ygmcywl1m3og");;
+:UNSUPPORTED("jdepsnmrs3ghh78ql301sfvu");;
+:UNSUPPORTED("gqfhorilvtlogp6f2ozx5akf");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+endif 
 end
 start
 note right
 void PickSeeds(ST_RTreertp)
 end note
 :ENTERING("8rui4cun4tvq5xy6ke6r3p55e","PickSeeds");;
-:try {inti,j;intwaste,worst;intseed0=0,seed1=0;intarea[]=new int[64+
-1];for (i=0;i<64+1;i++)area[i]=RectArea((ST_Rect_t)rtp.split.BranchBuf[i].rect);worst=0;for (i=0;i<64;i+
-+){for (j=i+1;j<64+1;j++){final ST_Rect_trect=new ST_Rect_t();/*waste = RectArea ( CombineRect ( rtp -> split . BranchBuf [ i ] . rect , 
-rtp -> split . BranchBuf [ j ] . rect ))- area [ i ] - area [ j ] ; 
-*/rect.___(CombineRect((ST_Rect_t)rtp.split.BranchBuf[i].rect,
-(ST_Rect_t)rtp.split.BranchBuf[j].rect));waste=RectArea((ST_Rect_t)rect)-area[i]-area[j];if (waste>worst){worst=waste;seed0=i;seed1=j;}}}Classify(rtp,
-seed0,0);Classify(rtp,seed1,1);}finally {LEAVING("8rui4cun4tvq5xy6ke6r3p55e",
-"PickSeeds");};
+:try ;
+:inti,j;;
+:intwaste,worst;;
+:intseed0=0,seed1=0;;
+:intarea[]=new int[64+1];;
+:area[i]=RectArea((ST_Rect_t)rtp.split.BranchBuf[i].rect);;
+:worst=0;;
+:final ST_Rect_trect=new ST_Rect_t();;
+:rect.___(CombineRect((ST_Rect_t)rtp.split.BranchBuf[i].rect,
+(ST_Rect_t)rtp.split.BranchBuf[j].rect));;
+:waste=RectArea((ST_Rect_t)rect)-area[i]-area[j];;
+if (waste>worst) then (yes) 
+:worst=waste;;
+:seed0=i;;
+:seed1=j;;
+endif 
+:Classify(rtp,seed0,0);;
+:Classify(rtp,seed1,1);;
 end
 start
 note right
 void Classify(ST_RTreertp,inti,intgroup)
 end note
 :ENTERING("4qyy2dpbkziuubssvfwb8u1sh","Classify");;
-:try {rtp.split.Partitions[0].partition[i]=group;
-:rtp.split.Partitions[0].taken[i]=1;if (rtp.split.Partitions[0].count[group]==0)rtp.split.Partitions[0].cover[group].___(rtp.split.BranchBuf[i].rect);
-:else rtp.split.Partitions[0].cover[group].___(CombineRect((ST_Rect_t)rtp.split.BranchBuf[i].rect,
-(ST_Rect_t)rtp.split.Partitions[0].cover[group]));rtp.split.Partitions[0].area[group]=RectArea((ST_Rect_t)rtp.split.Partitions[0].cover[group]);rtp.split.Partitions[0].count[group]=rtp.split.Partitions[0].count[group]+1;}finally {LEAVING("4qyy2dpbkziuubssvfwb8u1sh","Classify");};
+:try ;
+:rtp.split.Partitions[0].partition[i]=group;;
+:rtp.split.Partitions[0].taken[i]=1;;
+if (rtp.split.Partitions[0].count[group]==0) then (yes) 
+:rtp.split.Partitions[0].cover[group].___(rtp.split.BranchBuf[i].rect);;
+else (no)
+:rtp.split.Partitions[0].cover[group].___(CombineRect((ST_Rect_t)rtp.split.BranchBuf[i].rect,
+(ST_Rect_t)rtp.split.Partitions[0].cover[group]));;
+endif 
+:rtp.split.Partitions[0].area[group]=RectArea((ST_Rect_t)rtp.split.Partitions[0].cover[group]);;
+:rtp.split.Partitions[0].count[group]=rtp.split.Partitions[0].count[group]+1;;
 end
 start
 note right
@@ -74,17 +128,24 @@ void LoadNodes(ST_RTreertp,ST_Node_t___n,
 ST_Node_t___q,ST_PartitionVarsp)
 end note
 :ENTERING("ay7l4setwyl3hbx4o2jpa7vyz","LoadNodes");;
-:try {inti;assert (n!=null );assert (q!=null );assert (p!=null );for (i=0;i<NODECARD+
-1;i++){assert (rtp.split.Partitions[0].partition[i]==0||rtp.split.Partitions[0].partition[i]==1);if (rtp.split.Partitions[0].partition[i]==0)AddBranch(rtp,
-rtp.split.BranchBuf[i],n,null );else if (rtp.split.Partitions[0].partition[i]==1)AddBranch(rtp,
-rtp.split.BranchBuf[i],q,null );}}finally {LEAVING("ay7l4setwyl3hbx4o2jpa7vyz",
-"LoadNodes");};
+:try ;
+:inti;;
+:assert (n!=null );;
+:assert (q!=null );;
+:assert (p!=null );;
+:assert (rtp.split.Partitions[0].partition[i]==0||rtp.split.Partitions[0].partition[i]==1);;
+if (rtp.split.Partitions[0].partition[i]==0) then (yes) 
+:AddBranch(rtp,rtp.split.BranchBuf[i],n,null );;
+else if (rtp.split.Partitions[0].partition[i]==1) then (yes) 
+:AddBranch(rtp,rtp.split.BranchBuf[i],q,null );;
+endif 
 end
 start
 note right
 void InitPVars(ST_RTreertp)
 end note
 :ENTERING("dvgjc83sogjhzf5kxpir405rh","InitPVars");;
+:inti;;
 :rtp.split.Partitions[0].count[0]=0;;
 :rtp.split.Partitions[0].count[1]=0;;
 :rtp.split.Partitions[0].cover[0].___(NullRect());;
@@ -93,8 +154,7 @@ end note
 :rtp.split.Partitions[0].area[1]=0;;
 :rtp.split.Partitions[0].taken[i]=0;;
 :rtp.split.Partitions[0].partition[i]=-1;;
-:try {}finally {LEAVING("dvgjc83sogjhzf5kxpir405rh",
-"InitPVars");};
+:try ;
 end
 @enduml
 
