@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:542px;height:586px;background:#000000;" version="1.1" viewBox="0 0 542 586" width="542px" zoomAndPan="magnify"><defs/><g><rect fill="#241103" height="1" style="stroke:#241103;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 137 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="530" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="188" x="6" y="83.875">[From string (line 550) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="280" x="5" y="185.6563">void add_tree_edge(ST_Agedge_se)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="185" x="5" y="218.25">... ( skipping 525 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="250.8438">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="240" x="5" y="267.1406">if (search_size&gt;=0) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="259" x="5" y="283.4375">:Z.z().Search_size=search_size;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="70" x="5" y="299.7344">else (no)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="262" x="5" y="316.0313">:Z.z().Search_size=SEARCHSIZE;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="332.3281">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="236" x="5" y="348.625">if (setjmp(jbuf)!=0) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="83" x="5" y="364.9219">:return 2;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="381.2188">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="397.5156">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="255" x="5" y="413.8125">if (feasible_tree()!=0) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="138" x="5" y="430.1094">:freeTreeList(g);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="83" x="5" y="446.4063">:return 1;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="462.7031">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="479">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="530" x="5" y="495.2969">:while ((e=leave_edge())!=null ){f=enter_edge(e);update(e,f);iter+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="291" x="5" y="511.5938">+;/*if ( Verbose ( iter % 100 == 0 )){</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="192" x="5" y="527.8906">if ( iter % 1000 == 100 )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="157" x="5" y="544.1875">fputs ( ns , stderr );</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="231" x="5" y="560.4844">fprintf ( stderr , "%d " , iter );</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="576.7813">Syntax Error?</text><!--MD5=[1cf85cb7d1004a9e643e513c0e54b466]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:422px;height:586px;background:#000000;" version="1.1" viewBox="0 0 422 586" width="422px" zoomAndPan="magnify"><defs/><g><rect fill="#020001" height="1" style="stroke:#020001;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 138 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="280" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="188" x="6" y="83.875">[From string (line 617) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="280" x="5" y="185.6563">void add_tree_edge(ST_Agedge_se)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="185" x="5" y="218.25">... ( skipping 592 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="250.8438">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="236" x="5" y="267.1406">if (setjmp(jbuf)!=0) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="83" x="5" y="283.4375">:return 2;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="299.7344">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="316.0313">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="255" x="5" y="332.3281">if (feasible_tree()!=0) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="138" x="5" y="348.625">:freeTreeList(g);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="83" x="5" y="364.9219">:return 1;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="381.2188">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="397.5156">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="245" x="5" y="413.8125">while ((e=leave_edge())!=null )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="148" x="5" y="430.1094">:f=enter_edge(e);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="5" y="446.4063">:update(e,f);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="69" x="5" y="462.7031">:iter++;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="223" x="5" y="479">if (iter&gt;=maxiter) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="68" x="5" y="495.2969">:break ;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="511.5938">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="72" x="5" y="527.8906">endwhile</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="199" x="5" y="544.1875">switch (switch (balance))</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="73" x="5" y="560.4844">endswith</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="576.7813">Syntax Error?</text><!--MD5=[b884faee9d1cc4e1ce51cc5d38c7a435]
 @startuml
 !pragma layout smetana
 start
@@ -98,12 +98,16 @@ end note
 if (ND_priority(v)==0) then (yes) 
 :enqueue(Q,v);;
 endif 
-:while ((v=dequeue(Q))!=null ){ND_rank(v,0);ctr+
-+;for (i=0;(e=ND_in(v).list.get_(i))!=null ;i+
-+)ND_rank(v,MAX(ND_rank(v),ND_rank(agtail(e))+
-ED_minlen(e)));for (i=0;(e=ND_out(v).list.get_(i))!=null ;i+
-+){ND_priority(aghead(e),ND_priority(aghead(e))-1);if ((ND_priority(aghead(e)))<=0)enqueue(Q,
-aghead(e));}};
+while ((v=dequeue(Q))!=null )
+:ND_rank(v,0);;
+:ctr++;;
+:ND_rank(v,MAX(ND_rank(v),ND_rank(agtail(e))+
+ED_minlen(e)));;
+:ND_priority(aghead(e),ND_priority(aghead(e))-1);;
+if ((ND_priority(aghead(e)))<=0) then (yes) 
+:enqueue(Q,aghead(e));;
+endif 
+endwhile
 if (ctr!=Z.z().N_nodes) then (yes) 
 :UNSUPPORTED("7sgp99x1l3hzfks5wykxa87gf");;
 :UNSUPPORTED("bwwunxmw4kgz6qntbn6xp0cur");;
@@ -141,14 +145,42 @@ end note
 :ST_Agedge_sf,rv=null ;;
 :intj,cnt=0;;
 :j=Z.z().S_i;;
-:while (Z.z().S_i<Z.z().Tree_edge.size){if (ED_cutvalue(f=(ST_Agedge_s)Z.z().Tree_edge.list.get_(Z.z().S_i))<0){if (rv!=null ){if (ED_cutvalue(rv)>ED_cutvalue(f))rv=f;
-:}else rv=(ST_Agedge_s)Z.z().Tree_edge.list.get_(Z.z().S_i);if (+
-+cnt>=Z.z().Search_size)return rv;}Z.z().S_i++;};
+while (Z.z().S_i<Z.z().Tree_edge.size)
+if (ED_cutvalue(f=(ST_Agedge_s)Z.z().Tree_edge.list.get_(Z.z().S_i))<0) then (yes) 
+if (rv!=null ) then (yes) 
+if (ED_cutvalue(rv)>ED_cutvalue(f)) then (yes) 
+:rv=f;;
+endif 
+else (no)
+:rv=(ST_Agedge_s)Z.z().Tree_edge.list.get_(Z.z()
+.S_i);;
+endif 
+if (++cnt>=Z.z().Search_size) then (yes) 
+:return rv;;
+stop
+endif 
+endif 
+:Z.z().S_i++;;
+endwhile
 if (j>0) then (yes) 
 :Z.z().S_i=0;;
-:while (Z.z().S_i<j){if (ED_cutvalue(f=(ST_Agedge_s)Z.z().Tree_edge.list.get_(Z.z().S_i))<0){if (rv!=null ){if (ED_cutvalue(rv)>ED_cutvalue(f))rv=f;
-:}else rv=(ST_Agedge_s)Z.z().Tree_edge.list.get_(Z.z().S_i);if (+
-+cnt>=Z.z().Search_size)return rv;}Z.z().S_i++;};
+while (Z.z().S_i<j)
+if (ED_cutvalue(f=(ST_Agedge_s)Z.z().Tree_edge.list.get_(Z.z().S_i))<0) then (yes) 
+if (rv!=null ) then (yes) 
+if (ED_cutvalue(rv)>ED_cutvalue(f)) then (yes) 
+:rv=f;;
+endif 
+else (no)
+:rv=(ST_Agedge_s)Z.z().Tree_edge.list.get_(Z.z()
+.S_i);;
+endif 
+if (++cnt>=Z.z().Search_size) then (yes) 
+:return rv;;
+stop
+endif 
+endif 
+:Z.z().S_i++;;
+endwhile
 endif 
 :return rv;;
 stop
@@ -292,11 +324,25 @@ if (Z.z().N_nodes<=1) then (yes)
 :return 0;;
 stop
 endif 
-:while (tight_tree()<Z.z().N_nodes){e=null ;for (n=GD_nlist(Z.z().G_ns);n!=null ;n=ND_next(n)){for (i=0;(f=(ST_Agedge_s)ND_out(n).list.get_(i))!=null ;i+
-+){if ((TREE_EDGE(f)==false)&&incident(f)!=null &&((e==null )||(SLACK(f)<SLACK(e))))e=f;}}if (e!=null ){delta=SLACK(e);if (delta!=0){if (EQ(incident(e),
-aghead(e)))delta=-delta;for (i=0;i<Z.z().Tree_node.size;i+
-+)ND_rank(Z.z().Tree_node.list.get_(i),ND_rank(Z.z().Tree_node.list.get_(i))+
-delta);}}else {return 1;}};
+while (tight_tree()<Z.z().N_nodes)
+:e=null ;;
+if ((TREE_EDGE(f)==false)&&incident(f)!=null &&((e==null )||(SLACK(f)<SLACK(e)))) then (yes) 
+:e=f;;
+endif 
+if (e!=null ) then (yes) 
+:delta=SLACK(e);;
+if (delta!=0) then (yes) 
+if (EQ(incident(e),aghead(e))) then (yes) 
+:delta=-delta;;
+endif 
+:ND_rank(Z.z().Tree_node.list.get_(i),ND_rank(Z.z().Tree_node.list.get_(i))+
+delta);;
+endif 
+else (no)
+:return 1;;
+stop
+endif 
+endwhile
 :init_cutvalues();;
 :return 0;;
 stop
@@ -310,8 +356,24 @@ end note
 :try ;
 :ST_Agedge_se;;
 :booleand;;
-:while (N(SEQ(ND_low(v),ND_lim(w),ND_lim(v)))){e=(ST_Agedge_s)ND_par(v);if (EQ(v,agtail(e)))d=dir;else d=NOT(dir);if (d)ED_cutvalue(e,ED_cutvalue(e)+
-cutvalue);else ED_cutvalue(e,ED_cutvalue(e)-cutvalue);if (ND_lim(agtail(e))>ND_lim(aghead(e)))v=agtail(e);else v=aghead(e);};
+while (N(SEQ(ND_low(v),ND_lim(w),ND_lim(v))))
+:e=(ST_Agedge_s)ND_par(v);;
+if (EQ(v,agtail(e))) then (yes) 
+:d=dir;;
+else (no)
+:d=NOT(dir);;
+endif 
+if (d) then (yes) 
+:ED_cutvalue(e,ED_cutvalue(e)+cutvalue);;
+else (no)
+:ED_cutvalue(e,ED_cutvalue(e)-cutvalue);;
+endif 
+if (ND_lim(agtail(e))>ND_lim(aghead(e))) then (yes) 
+:v=agtail(e);;
+else (no)
+:v=aghead(e);;
+endif 
+endwhile
 :return v;;
 stop
 end
@@ -544,17 +606,16 @@ if (feasible_tree()!=0) then (yes)
 :return 1;;
 stop
 endif 
-:while ((e=leave_edge())!=null ){f=enter_edge(e);update(e,f);iter+
-+;/*if ( Verbose ( iter % 100 == 0 )){ 
-if ( iter % 1000 == 100 )
-fputs ( ns , stderr ); 
-fprintf ( stderr , "%d " , iter ); 
-if ( iter % 1000 == 0 )
-fputc ( n , stderr ); 
-} */if (iter>=maxiter)break ;};
-:switch (balance){case 1:TB_balance();break ;
-:case 2:LR_balance();break ;default :scan_and_normalize();
-:freeTreeList(Z.z().G_ns);break ;};
+while ((e=leave_edge())!=null )
+:f=enter_edge(e);;
+:update(e,f);;
+:iter++;;
+if (iter>=maxiter) then (yes) 
+:break ;;
+endif 
+endwhile
+switch (switch (balance))
+endswith
 :return 0;;
 stop
 end
