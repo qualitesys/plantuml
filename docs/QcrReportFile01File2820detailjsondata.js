@@ -264,7 +264,7 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/RenderingOptions.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.core.RenderingOptions.needsTransparency@POLYN153971 the MagicNumber/String  255 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.core.RenderingOptions.needsTransparency@POLYN154819 the MagicNumber/String  255 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

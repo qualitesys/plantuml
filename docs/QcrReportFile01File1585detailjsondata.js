@@ -177,14 +177,14 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Block.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.posimo.Block.toString@POLYN152797 the MagicNumber/String  'BLOCK ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.posimo.Block.toString@POLYN153645 the MagicNumber/String  'BLOCK ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Block.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.posimo.Block.toStringPosition@POLYN152907 the MagicNumber/String  'x=%9.2f y=%9.2f w=%9.2f h=%9.2f' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.posimo.Block.toStringPosition@POLYN153755 the MagicNumber/String  'x=%9.2f y=%9.2f w=%9.2f h=%9.2f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -198,7 +198,7 @@ var maDataBlocs = {
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Block.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.posimo.Block.setCenterX@POLYN153608 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.posimo.Block.setCenterX@POLYN154456 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -212,7 +212,7 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Block.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.posimo.Block.setCenterY@POLYN153781 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.posimo.Block.setCenterY@POLYN154629 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

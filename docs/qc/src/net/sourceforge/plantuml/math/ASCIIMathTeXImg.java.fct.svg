@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:455px;height:586px;background:#000000;" version="1.1" viewBox="0 0 455 586" width="455px" zoomAndPan="magnify"><defs/><g><rect fill="#14111A" height="1" style="stroke:#14111A;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 139 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="443" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="188" x="6" y="83.875">[From string (line 424) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="281" x="5" y="185.6563">Stringslice(Stringstr,intstart,intend)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="185" x="5" y="218.25">... ( skipping 396 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="341" x="5" y="250.8438">:result[0]=AMTremoveBrackets(result[0]);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="350" x="5" y="267.1406">:String[]result2=AMTparseSexpr(result[1]);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="248" x="5" y="283.4375">if (result2[0]==null ) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="425" x="5" y="299.7344">:return new String[]{'{'+AMTgetTeXsymbol(symbol)+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="316.0313">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="332.3281">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="361" x="5" y="348.625">:result2[0]=AMTremoveBrackets(result2[0]);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="337" x="5" y="364.9219">if (symbol.input.equals("color")) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="443" x="5" y="381.2188">:newFrag="{\\color{"+result[0].replaceAll("[\\{\\}]","")+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="162" x="5" y="397.5156">"}"+result2[0]+"}";;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="368" x="5" y="413.8125">else if (symbol.input.equals("root")) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="383" x="5" y="430.1094">:newFrag="{\\sqrt["+result[0]+"]{"+result2[0]+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="5" y="446.4063">"}}";;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="70" x="5" y="462.7031">else (no)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="385" x="5" y="479">:newFrag="{"+AMTgetTeXsymbol(symbol)+"{"+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="262" x="5" y="495.2969">result[0]+"}{"+result2[0]+"}}";;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="511.5938">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="343" x="5" y="527.8906">:return new String[]{newFrag,result2[1]};;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="544.1875">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="140" x="5" y="560.4844">case (case INFIX:)</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="148" x="10" y="576.7813">Cannot find switch</text><!--MD5=[3c46dc49f4a8005ab9e925e00e06395f]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:455px;height:586px;background:#000000;" version="1.1" viewBox="0 0 455 586" width="455px" zoomAndPan="magnify"><defs/><g><rect fill="#011024" height="1" style="stroke:#011024;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 140 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="443" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="188" x="6" y="83.875">[From string (line 425) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="301" x="5" y="185.6563">String slice(String str,int start,int end)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="185" x="5" y="218.25">... ( skipping 397 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="341" x="5" y="250.8438">:result[0]=AMTremoveBrackets(result[0]);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="355" x="5" y="267.1406">:String[] result2=AMTparseSexpr(result[1]);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="248" x="5" y="283.4375">if (result2[0]==null ) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="425" x="5" y="299.7344">:return new String[]{'{'+AMTgetTeXsymbol(symbol)+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="316.0313">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="332.3281">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="361" x="5" y="348.625">:result2[0]=AMTremoveBrackets(result2[0]);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="337" x="5" y="364.9219">if (symbol.input.equals("color")) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="443" x="5" y="381.2188">:newFrag="{\\color{"+result[0].replaceAll("[\\{\\}]","")+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="162" x="5" y="397.5156">"}"+result2[0]+"}";;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="368" x="5" y="413.8125">else if (symbol.input.equals("root")) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="383" x="5" y="430.1094">:newFrag="{\\sqrt["+result[0]+"]{"+result2[0]+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="46" x="5" y="446.4063">"}}";;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="70" x="5" y="462.7031">else (no)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="385" x="5" y="479">:newFrag="{"+AMTgetTeXsymbol(symbol)+"{"+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="262" x="5" y="495.2969">result[0]+"}{"+result2[0]+"}}";;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="511.5938">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="343" x="5" y="527.8906">:return new String[]{newFrag,result2[1]};;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="544.1875">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="140" x="5" y="560.4844">case (case INFIX:)</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="148" x="10" y="576.7813">Cannot find switch</text><!--MD5=[26048b1a468be306fa21ccd7f94240ea]
 @startuml
 !pragma layout smetana
 start
 note right
-Stringslice(Stringstr,intstart,intend)
+String slice(String str,int start,int end)
 end note
 if (end>str.length()) then (yes) 
 :return str.substring(start);;
@@ -14,14 +14,14 @@ stop
 end
 start
 note right
-Stringslice(Stringstr,intstart)
+String slice(String str,int start)
 end note
 :return str.substring(start);;
 stop
 end
 start
 note right
-Stringsubstr(Stringstr,intpos,intlen)
+String substr(String str,int pos,int len)
 end note
 if (pos+len>str.length()) then (yes) 
 :return str.substring(pos);;
@@ -32,9 +32,9 @@ stop
 end
 start
 note right
-constructor Tupple(String[]rewriteleftright,
-Stringinput,Stringtag,Stringoutput,Stringtex,
-intttype,String... flags)
+constructor Tupple(String[] rewriteleftright,
+String input,String tag,String output,String tex,
+int ttype,String ... flags)
 end note
 :this.input=input;;
 :this.tag=tag;;
@@ -46,8 +46,8 @@ end note
 end
 start
 note right
-constructor Tupple(Stringinput,Stringtag,
-Stringoutput,Stringtex,intttype,String... flags)
+constructor Tupple(String input,String tag,
+String output,String tex,int ttype,String ... flags)
 end note
 :this.input=input;;
 :this.tag=tag;;
@@ -59,7 +59,7 @@ end note
 end
 start
 note right
-booleanhasFlag(StringflagName)
+boolean hasFlag(String flagName)
 end note
 :return flags.contains(flagName);;
 stop
@@ -68,9 +68,9 @@ start
 note right
 void AMinitSymbols()
 end note
-:intsymlen=AMsymbols.size();;
+:int symlen=AMsymbols.size();;
 if (AMsymbols.get(i).tex!=null &&!(AMsymbols.get(i).hasFlag("notexcopy"))) then (yes) 
-:Tuppletmp=AMsymbols.get(i).hasFlag("acc")? new Tupple(AMsymbols.get(i).tex,
+:Tupple tmp=AMsymbols.get(i).hasFlag("acc")? new Tupple(AMsymbols.get(i).tex,
 AMsymbols.get(i).tag,AMsymbols.get(i).output,
 null ,AMsymbols.get(i).ttype,"acc"):new Tupple(AMsymbols.get(i).tex,
 AMsymbols.get(i).tag,AMsymbols.get(i).output,
@@ -83,34 +83,35 @@ start
 note right
 void refreshSymbols()
 end note
-:Collections.sort(AMsymbols,new Comparator<Tupple>(){public intcompare(Tuppleo1,
-Tuppleo2){return o1.input.compareTo(o2.input);}});;
+:Collections.sort(AMsymbols,new Comparator<Tupple >(){public int compare(Tupple o1,
+Tupple o2){return o1.input.compareTo(o2.input);}});;
 :AMnames=new String[AMsymbols.size()];;
 :AMnames[i]=AMsymbols.get(i).input;;
 end
 start
 note right
-StringAMremoveCharsAndBlanks(Stringstr,intn)
+String AMremoveCharsAndBlanks(String str,
+int n)
 end note
-:Stringst;;
+:String st;;
 if (str.length()>n&&str.charAt(n)=='\\'&&str.charAt(n+
 1)!='\\'&&str.charAt(n+1)!=' ') then (yes) 
 :st=slice(str,n+1);;
 else (no)
 :st=slice(str,n);;
 endif 
-:inti;;
+:int i;;
 :;;
 :return slice(st,i);;
 stop
 end
 start
 note right
-intAMposition(String[]arr,Stringstr,intn)
+int AMposition(String[] arr,String str,int n)
 end note
-:inti=0;;
+:int i=0;;
 if (n==0) then (yes) 
-:inth,m;;
+:int h,m;;
 :n=-1;;
 :h=arr.length;;
 while (n+1<h)
@@ -131,15 +132,15 @@ stop
 end
 start
 note right
-TuppleAMgetSymbol(Stringstr)
+Tupple AMgetSymbol(String str)
 end note
-:intk=0;;
-:intj=0;;
-:intmk=0;;
-:Stringst;;
-:Stringtagst;;
-:Stringmatch="";;
-:booleanmore=true;;
+:int k=0;;
+:int j=0;;
+:int mk=0;;
+:String st;;
+:String tagst;;
+:String match="";;
+:boolean more=true;;
 :st=str.substring(0,i);;
 :j=k;;
 :k=AMposition(AMnames,st,j);;
@@ -159,7 +160,7 @@ endif
 :AMcurrentSymbol=CONST;;
 :k=1;;
 :st=slice(str,0,1);;
-:booleaninteg=true;;
+:boolean integ=true;;
 while (String.valueOf("0").compareTo(st)<=0&&st.compareTo("9")<=0&&k<=str.length())
 :st=slice(str,k,k+1);;
 :k++;;
@@ -196,11 +197,11 @@ stop
 end
 start
 note right
-StringAMTremoveBrackets(Stringnode)
+String AMTremoveBrackets(String node)
 end note
-:Stringst;;
+:String st;;
 if (node.charAt(0)=='{'&&node.charAt(node.length()-1)=='}') then (yes) 
-:intleftchop=0;;
+:int leftchop=0;;
 :st=substr(node,1,5);;
 if (st.equals("\\left")) then (yes) 
 :st=""+node.charAt(6);;
@@ -235,9 +236,9 @@ stop
 end
 start
 note right
-StringAMTgetTeXsymbol(Tupplesymb)
+String AMTgetTeXsymbol(Tupple symb)
 end note
-:Stringpre;;
+:String pre;;
 if (symb.hasFlag("val")) then (yes) 
 :pre="";;
 else (no)
@@ -253,13 +254,13 @@ endif
 end
 start
 note right
-String[]AMTparseSexpr(Stringstr)
+String[] AMTparseSexpr(String str)
 end note
-:Tupplesymbol;;
-:inti;;
-:Stringnode,st;;
-:StringnewFrag="";;
-:String[]result;;
+:Tupple symbol;;
+:int i;;
+:String node,st;;
+:String newFrag="";;
+:String[] result;;
 :str=AMremoveCharsAndBlanks(str,0);;
 :symbol=AMgetSymbol(str);;
 if (symbol==null ||symbol.ttype==RIGHTBRACKET&&AMnestingDepth>0) then (yes) 
@@ -275,7 +276,7 @@ switch (switch symbol.ttype)
 case (case UNDEROVER:) 
 case (case CONST:) 
 :str=AMremoveCharsAndBlanks(str,symbol.input.length());;
-:Stringtexsymbol=AMTgetTeXsymbol(symbol);;
+:String texsymbol=AMTgetTeXsymbol(symbol);;
 if (texsymbol.charAt(0)=='\\'||symbol.tag.equals("mo")) then (yes) 
 :return new String[]{texsymbol,str};;
 stop
@@ -288,7 +289,7 @@ case (case LEFTBRACKET:)
 :str=AMremoveCharsAndBlanks(str,symbol.input.length());;
 :result=AMTparseExpr(str,true);;
 :AMnestingDepth- -;;
-:intleftchop=0;;
+:int leftchop=0;;
 if (substr(result[0],0,6).equals("\\right")) then (yes) 
 :st=""+result[0].charAt(6);;
 if (st.equals(")")||st.equals("]")||st.equals("}")) then (yes) 
@@ -403,7 +404,7 @@ if (result[0]==null ) then (yes)
 stop
 endif 
 :result[0]=AMTremoveBrackets(result[0]);;
-:String[]result2=AMTparseSexpr(result[1]);;
+:String[] result2=AMTparseSexpr(result[1]);;
 if (result2[0]==null ) then (yes) 
 :return new String[]{'{'+AMTgetTeXsymbol(symbol)+
 '}',str};;
@@ -455,11 +456,11 @@ endswitch
 end
 start
 note right
-String[]AMTparseIexpr(Stringstr)
+String[] AMTparseIexpr(String str)
 end note
-:Tupplesymbol,sym1,sym2;;
-:String[]result;;
-:Stringnode;;
+:Tupple symbol,sym1,sym2;;
+:String[] result;;
+:String node;;
 :str=AMremoveCharsAndBlanks(str,0);;
 :sym1=AMgetSymbol(str);;
 :result=AMTparseSexpr(str);;
@@ -479,7 +480,7 @@ if (symbol.input.equals("_")) then (yes)
 :sym2=AMgetSymbol(str);;
 if (sym2.input.equals("^")) then (yes) 
 :str=AMremoveCharsAndBlanks(str,sym2.input.length());;
-:String[]res2=AMTparseSexpr(str);;
+:String[] res2=AMTparseSexpr(str);;
 :res2[0]=AMTremoveBrackets(res2[0]);;
 :str=res2[1];;
 :node="{"+node;;
@@ -506,13 +507,13 @@ stop
 end
 start
 note right
-String[]AMTparseExpr(Stringstr,booleanrightbracket)
+String[] AMTparseExpr(String str,boolean rightbracket)
 end note
-:String[]result;;
-:Tupplesymbol;;
-:Stringnode;;
-:StringnewFrag="";;
-:booleanaddedright=false;;
+:String[] result;;
+:Tupple symbol;;
+:String node;;
+:String newFrag="";;
+:boolean addedright=false;;
 repeat
 :str=AMremoveCharsAndBlanks(str,0);;
 :result=AMTparseIexpr(str);;
@@ -538,22 +539,22 @@ else if (node!=null ) then (yes)
 endif 
 repeat while ((((symbol.ttype!=RIGHTBRACKET)&&(symbol.ttype!=LEFTRIGHT||rightbracket))||AMnestingDepth==0)&&(symbol.output==null ||symbol.output.equals("")==false))
 if (symbol.ttype==RIGHTBRACKET||symbol.ttype==LEFTRIGHT) then (yes) 
-:intlen=newFrag.length();;
+:int len=newFrag.length();;
 if (len>2&&newFrag.charAt(0)=='{'&&newFrag.indexOf(',
 ')>0) then (yes) 
-:charright=newFrag.charAt(len-2);;
+:char right=newFrag.charAt(len-2);;
 if (right==')'||right==']') then (yes) 
-:charleft=newFrag.charAt(6);;
+:char left=newFrag.charAt(6);;
 if ((left=='('&&right==')'&&!symbol.output.equals("}"))||(left=='['&&right==']')) then (yes) 
-:Stringmxout="\\begin{matrix}";;
-:List<Integer>pos=new ArrayList<>();;
+:String mxout="\\begin{matrix}";;
+:List<Integer> pos=new ArrayList<>();;
 :pos.add(0);;
-:booleanmatrix=true;;
-:intmxnestingd=0;;
-:List<List<Integer>>subpos=new ArrayList<>();;
+:boolean matrix=true;;
+:int mxnestingd=0;;
+:List<List<Integer>> subpos=new ArrayList<>();;
 :subpos.add(new ArrayList<>(Arrays.asList(0)));;
-:intlastsubposstart=0;;
-:intmxanynestingd=0;;
+:int lastsubposstart=0;;
+:int mxanynestingd=0;;
 if (newFrag.charAt(i)==left) then (yes) 
 :mxnestingd++;;
 endif 
@@ -587,18 +588,18 @@ else (no)
 endif 
 endif 
 :pos.add(len);;
-:intlastmxsubcnt=-1;;
+:int lastmxsubcnt=-1;;
 if (mxnestingd==0&&pos.size()>0&&matrix) then (yes) 
-:List<String>subarr=null ;;
+:List<String> subarr=null ;;
 if (i>0) then (yes) 
 :mxout+="\\\\";;
 endif 
 if (i==0) then (yes) 
 if (subpos.get(pos.get(i)).size()==1) then (yes) 
-:subarr=new ArrayList<String>(Arrays.asList(substr(newFrag,pos.get(i)+
+:subarr=new ArrayList<String >(Arrays.asList(substr(newFrag,pos.get(i)+
 7,pos.get(i+1)-pos.get(i)-15)));;
 else (no)
-:subarr=new ArrayList<String>(Arrays.asList(newFrag.substring(pos.get(i)+
+:subarr=new ArrayList<String >(Arrays.asList(newFrag.substring(pos.get(i)+
 7,subpos.get(pos.get(i)).get(1))));;
 :subarr.add(newFrag.substring(subpos.get(pos.get(i)).get(j-1)+
 1,subpos.get(pos.get(i)).get(j)));;
@@ -607,10 +608,10 @@ else (no)
 endif 
 else (no)
 if (subpos.get(pos.get(i)).size()==1) then (yes) 
-:subarr=new ArrayList<String>(Arrays.asList(substr(newFrag,pos.get(i)+
+:subarr=new ArrayList<String >(Arrays.asList(substr(newFrag,pos.get(i)+
 8,pos.get(i+1)-pos.get(i)-16)));;
 else (no)
-:subarr=new ArrayList<String>(Arrays.asList(newFrag.substring(pos.get(i)+
+:subarr=new ArrayList<String >(Arrays.asList(newFrag.substring(pos.get(i)+
 8,subpos.get(pos.get(i)).get(1))));;
 :subarr.add(newFrag.substring(subpos.get(i).get(j-1)+
 1,subpos.get(i).get(j)));;
@@ -653,19 +654,19 @@ stop
 end
 start
 note right
-StringpatchColor(Stringlatex)
+String patchColor(String latex)
 end note
 :return latex.replace("\\color{","\\textcolor{");;
 stop
 end
 start
 note right
-StringgetTeX(StringasciiMathInput)
+String getTeX(String asciiMathInput)
 end note
 :AMnestingDepth=0;;
 :AMpreviousSymbol=0;;
 :AMcurrentSymbol=0;;
-:final Stringresult=AMTparseExpr(asciiMathInput,
+:final String result=AMTparseExpr(asciiMathInput,
 false)[0];;
 :return patchColor(result);;
 stop
@@ -677,7 +678,7 @@ end
 !pragma layout smetana
 start
 note right
-Stringslice(Stringstr,intstart,intend)
+String slice(String str,int start,int end)
 end note
 if (end>str.length()) then (yes) 
 :return str.substring(start);;
@@ -688,14 +689,14 @@ stop
 end
 start
 note right
-Stringslice(Stringstr,intstart)
+String slice(String str,int start)
 end note
 :return str.substring(start);;
 stop
 end
 start
 note right
-Stringsubstr(Stringstr,intpos,intlen)
+String substr(String str,int pos,int len)
 end note
 if (pos+len>str.length()) then (yes) 
 :return str.substring(pos);;
@@ -706,9 +707,9 @@ stop
 end
 start
 note right
-constructor Tupple(String[]rewriteleftright,
-Stringinput,Stringtag,Stringoutput,Stringtex,
-intttype,String... flags)
+constructor Tupple(String[] rewriteleftright,
+String input,String tag,String output,String tex,
+int ttype,String ... flags)
 end note
 :this.input=input;;
 :this.tag=tag;;
@@ -720,8 +721,8 @@ end note
 end
 start
 note right
-constructor Tupple(Stringinput,Stringtag,
-Stringoutput,Stringtex,intttype,String... flags)
+constructor Tupple(String input,String tag,
+String output,String tex,int ttype,String ... flags)
 end note
 :this.input=input;;
 :this.tag=tag;;
@@ -733,7 +734,7 @@ end note
 end
 start
 note right
-booleanhasFlag(StringflagName)
+boolean hasFlag(String flagName)
 end note
 :return flags.contains(flagName);;
 stop
@@ -742,9 +743,9 @@ start
 note right
 void AMinitSymbols()
 end note
-:intsymlen=AMsymbols.size();;
+:int symlen=AMsymbols.size();;
 if (AMsymbols.get(i).tex!=null &&!(AMsymbols.get(i).hasFlag("notexcopy"))) then (yes) 
-:Tuppletmp=AMsymbols.get(i).hasFlag("acc")? new Tupple(AMsymbols.get(i).tex,
+:Tupple tmp=AMsymbols.get(i).hasFlag("acc")? new Tupple(AMsymbols.get(i).tex,
 AMsymbols.get(i).tag,AMsymbols.get(i).output,
 null ,AMsymbols.get(i).ttype,"acc"):new Tupple(AMsymbols.get(i).tex,
 AMsymbols.get(i).tag,AMsymbols.get(i).output,
@@ -757,34 +758,35 @@ start
 note right
 void refreshSymbols()
 end note
-:Collections.sort(AMsymbols,new Comparator<Tupple>(){public intcompare(Tuppleo1,
-Tuppleo2){return o1.input.compareTo(o2.input);}});;
+:Collections.sort(AMsymbols,new Comparator<Tupple >(){public int compare(Tupple o1,
+Tupple o2){return o1.input.compareTo(o2.input);}});;
 :AMnames=new String[AMsymbols.size()];;
 :AMnames[i]=AMsymbols.get(i).input;;
 end
 start
 note right
-StringAMremoveCharsAndBlanks(Stringstr,intn)
+String AMremoveCharsAndBlanks(String str,
+int n)
 end note
-:Stringst;;
+:String st;;
 if (str.length()>n&&str.charAt(n)=='\\'&&str.charAt(n+
 1)!='\\'&&str.charAt(n+1)!=' ') then (yes) 
 :st=slice(str,n+1);;
 else (no)
 :st=slice(str,n);;
 endif 
-:inti;;
+:int i;;
 :;;
 :return slice(st,i);;
 stop
 end
 start
 note right
-intAMposition(String[]arr,Stringstr,intn)
+int AMposition(String[] arr,String str,int n)
 end note
-:inti=0;;
+:int i=0;;
 if (n==0) then (yes) 
-:inth,m;;
+:int h,m;;
 :n=-1;;
 :h=arr.length;;
 while (n+1<h)
@@ -805,15 +807,15 @@ stop
 end
 start
 note right
-TuppleAMgetSymbol(Stringstr)
+Tupple AMgetSymbol(String str)
 end note
-:intk=0;;
-:intj=0;;
-:intmk=0;;
-:Stringst;;
-:Stringtagst;;
-:Stringmatch="";;
-:booleanmore=true;;
+:int k=0;;
+:int j=0;;
+:int mk=0;;
+:String st;;
+:String tagst;;
+:String match="";;
+:boolean more=true;;
 :st=str.substring(0,i);;
 :j=k;;
 :k=AMposition(AMnames,st,j);;
@@ -833,7 +835,7 @@ endif
 :AMcurrentSymbol=CONST;;
 :k=1;;
 :st=slice(str,0,1);;
-:booleaninteg=true;;
+:boolean integ=true;;
 while (String.valueOf("0").compareTo(st)<=0&&st.compareTo("9")<=0&&k<=str.length())
 :st=slice(str,k,k+1);;
 :k++;;
@@ -870,11 +872,11 @@ stop
 end
 start
 note right
-StringAMTremoveBrackets(Stringnode)
+String AMTremoveBrackets(String node)
 end note
-:Stringst;;
+:String st;;
 if (node.charAt(0)=='{'&&node.charAt(node.length()-1)=='}') then (yes) 
-:intleftchop=0;;
+:int leftchop=0;;
 :st=substr(node,1,5);;
 if (st.equals("\\left")) then (yes) 
 :st=""+node.charAt(6);;
@@ -909,9 +911,9 @@ stop
 end
 start
 note right
-StringAMTgetTeXsymbol(Tupplesymb)
+String AMTgetTeXsymbol(Tupple symb)
 end note
-:Stringpre;;
+:String pre;;
 if (symb.hasFlag("val")) then (yes) 
 :pre="";;
 else (no)
@@ -927,13 +929,13 @@ endif
 end
 start
 note right
-String[]AMTparseSexpr(Stringstr)
+String[] AMTparseSexpr(String str)
 end note
-:Tupplesymbol;;
-:inti;;
-:Stringnode,st;;
-:StringnewFrag="";;
-:String[]result;;
+:Tupple symbol;;
+:int i;;
+:String node,st;;
+:String newFrag="";;
+:String[] result;;
 :str=AMremoveCharsAndBlanks(str,0);;
 :symbol=AMgetSymbol(str);;
 if (symbol==null ||symbol.ttype==RIGHTBRACKET&&AMnestingDepth>0) then (yes) 
@@ -949,7 +951,7 @@ switch (switch symbol.ttype)
 case (case UNDEROVER:) 
 case (case CONST:) 
 :str=AMremoveCharsAndBlanks(str,symbol.input.length());;
-:Stringtexsymbol=AMTgetTeXsymbol(symbol);;
+:String texsymbol=AMTgetTeXsymbol(symbol);;
 if (texsymbol.charAt(0)=='\\'||symbol.tag.equals("mo")) then (yes) 
 :return new String[]{texsymbol,str};;
 stop
@@ -962,7 +964,7 @@ case (case LEFTBRACKET:)
 :str=AMremoveCharsAndBlanks(str,symbol.input.length());;
 :result=AMTparseExpr(str,true);;
 :AMnestingDepth- -;;
-:intleftchop=0;;
+:int leftchop=0;;
 if (substr(result[0],0,6).equals("\\right")) then (yes) 
 :st=""+result[0].charAt(6);;
 if (st.equals(")")||st.equals("]")||st.equals("}")) then (yes) 
@@ -1075,7 +1077,7 @@ if (result[0]==null ) then (yes)
 stop
 endif 
 :result[0]=AMTremoveBrackets(result[0]);;
-:String[]result2=AMTparseSexpr(result[1]);;
+:String[] result2=AMTparseSexpr(result[1]);;
 if (result2[0]==null ) then (yes) 
 :return new String[]{'{'+AMTgetTeXsymbol(symbol)+
 stop
@@ -1126,11 +1128,11 @@ endswitch
 end
 start
 note right
-String[]AMTparseIexpr(Stringstr)
+String[] AMTparseIexpr(String str)
 end note
-:Tupplesymbol,sym1,sym2;;
-:String[]result;;
-:Stringnode;;
+:Tupple symbol,sym1,sym2;;
+:String[] result;;
+:String node;;
 :str=AMremoveCharsAndBlanks(str,0);;
 :sym1=AMgetSymbol(str);;
 :result=AMTparseSexpr(str);;
@@ -1150,7 +1152,7 @@ if (symbol.input.equals("_")) then (yes)
 :sym2=AMgetSymbol(str);;
 if (sym2.input.equals("^")) then (yes) 
 :str=AMremoveCharsAndBlanks(str,sym2.input.length());;
-:String[]res2=AMTparseSexpr(str);;
+:String[] res2=AMTparseSexpr(str);;
 :res2[0]=AMTremoveBrackets(res2[0]);;
 :str=res2[1];;
 :node="{"+node;;
@@ -1177,13 +1179,13 @@ stop
 end
 start
 note right
-String[]AMTparseExpr(Stringstr,booleanrightbracket)
+String[] AMTparseExpr(String str,boolean rightbracket)
 end note
-:String[]result;;
-:Tupplesymbol;;
-:Stringnode;;
-:StringnewFrag="";;
-:booleanaddedright=false;;
+:String[] result;;
+:Tupple symbol;;
+:String node;;
+:String newFrag="";;
+:boolean addedright=false;;
 repeat
 :str=AMremoveCharsAndBlanks(str,0);;
 :result=AMTparseIexpr(str);;
@@ -1209,21 +1211,21 @@ else if (node!=null ) then (yes)
 endif 
 repeat while ((((symbol.ttype!=RIGHTBRACKET)&&(symbol.ttype!=LEFTRIGHT||rightbracket))||AMnestingDepth==0)&&(symbol.output==null ||symbol.output.equals("")==false))
 if (symbol.ttype==RIGHTBRACKET||symbol.ttype==LEFTRIGHT) then (yes) 
-:intlen=newFrag.length();;
+:int len=newFrag.length();;
 if (len>2&&newFrag.charAt(0)=='{'&&newFrag.indexOf(',
-:charright=newFrag.charAt(len-2);;
+:char right=newFrag.charAt(len-2);;
 if (right==')'||right==']') then (yes) 
-:charleft=newFrag.charAt(6);;
+:char left=newFrag.charAt(6);;
 if ((left=='('&&right==')'&&!symbol.output.equals("}"))||(left=='['&&right==']')) then (yes) 
-:Stringmxout="\\begin{matrix}";;
-:List<Integer>pos=new ArrayList<>();;
+:String mxout="\\begin{matrix}";;
+:List<Integer> pos=new ArrayList<>();;
 :pos.add(0);;
-:booleanmatrix=true;;
-:intmxnestingd=0;;
-:List<List<Integer>>subpos=new ArrayList<>();;
+:boolean matrix=true;;
+:int mxnestingd=0;;
+:List<List<Integer>> subpos=new ArrayList<>();;
 :subpos.add(new ArrayList<>(Arrays.asList(0)));;
-:intlastsubposstart=0;;
-:intmxanynestingd=0;;
+:int lastsubposstart=0;;
+:int mxanynestingd=0;;
 if (newFrag.charAt(i)==left) then (yes) 
 :mxnestingd++;;
 endif 
@@ -1257,18 +1259,18 @@ else (no)
 endif 
 endif 
 :pos.add(len);;
-:intlastmxsubcnt=-1;;
+:int lastmxsubcnt=-1;;
 if (mxnestingd==0&&pos.size()>0&&matrix) then (yes) 
-:List<String>subarr=null ;;
+:List<String> subarr=null ;;
 if (i>0) then (yes) 
 :mxout+="\\\\";;
 endif 
 if (i==0) then (yes) 
 if (subpos.get(pos.get(i)).size()==1) then (yes) 
-:subarr=new ArrayList<String>(Arrays.asList(substr(newFrag,pos.get(i)+
+:subarr=new ArrayList<String >(Arrays.asList(substr(newFrag,pos.get(i)+
 7,pos.get(i+1)-pos.get(i)-15)));;
 else (no)
-:subarr=new ArrayList<String>(Arrays.asList(newFrag.substring(pos.get(i)+
+:subarr=new ArrayList<String >(Arrays.asList(newFrag.substring(pos.get(i)+
 7,subpos.get(pos.get(i)).get(1))));;
 :subarr.add(newFrag.substring(subpos.get(pos.get(i)).get(j-1)+
 1,subpos.get(pos.get(i)).get(j)));;
@@ -1277,10 +1279,10 @@ else (no)
 endif 
 else (no)
 if (subpos.get(pos.get(i)).size()==1) then (yes) 
-:subarr=new ArrayList<String>(Arrays.asList(substr(newFrag,pos.get(i)+
+:subarr=new ArrayList<String >(Arrays.asList(substr(newFrag,pos.get(i)+
 8,pos.get(i+1)-pos.get(i)-16)));;
 else (no)
-:subarr=new ArrayList<String>(Arrays.asList(newFrag.substring(pos.get(i)+
+:subarr=new ArrayList<String >(Arrays.asList(newFrag.substring(pos.get(i)+
 8,subpos.get(pos.get(i)).get(1))));;
 :subarr.add(newFrag.substring(subpos.get(i).get(j-1)+
 1,subpos.get(i).get(j)));;
@@ -1323,19 +1325,19 @@ stop
 end
 start
 note right
-StringpatchColor(Stringlatex)
+String patchColor(String latex)
 end note
 :return latex.replace("\\color{","\\textcolor{");;
 stop
 end
 start
 note right
-StringgetTeX(StringasciiMathInput)
+String getTeX(String asciiMathInput)
 end note
 :AMnestingDepth=0;;
 :AMpreviousSymbol=0;;
 :AMcurrentSymbol=0;;
-:final Stringresult=AMTparseExpr(asciiMathInput,
+:final String result=AMTparseExpr(asciiMathInput,
 false)[0];;
 :return patchColor(result);;
 stop

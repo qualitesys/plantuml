@@ -155,7 +155,7 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.merge@POLYN155530 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.merge@POLYN156378 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -169,14 +169,14 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.burn@POLYN155723 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.burn@POLYN156571 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.burn@POLYN155723 the MagicNumber/String  'Already present' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.burn@POLYN156571 the MagicNumber/String  'Already present' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -204,14 +204,14 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isBurnRect@POLYN156967 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isBurnRect@POLYN157815 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isBurnRect@POLYN156967 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isBurnRect@POLYN157815 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -225,28 +225,28 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157683 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN158531 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157683 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN158531 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157683 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN158531 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN157683 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.check@POLYN158531 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -267,21 +267,21 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN158347 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN159195 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN158347 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN159195 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN158347 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.isSpaceAvailable@POLYN159195 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,7 +302,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/BooleanGrid.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.useSpace@POLYN158786 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.nwdiag.next.BooleanGrid.useSpace@POLYN159634 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

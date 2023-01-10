@@ -301,63 +301,63 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.PlayerAnalog@POLYN196895 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.PlayerAnalog@POLYN197743 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMin@POLYN197281 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMin@POLYN198129 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMin@POLYN197281 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMin@POLYN198129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMin@POLYN197281 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMin@POLYN198129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMin@POLYN197281 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMin@POLYN198129 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMax@POLYN197802 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMax@POLYN198650 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMax@POLYN197802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMax@POLYN198650 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMax@POLYN197802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMax@POLYN198650 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMax@POLYN197802 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMax@POLYN198650 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -392,28 +392,28 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getValueAt@POLYN199115 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getValueAt@POLYN199963 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getValueAt@POLYN199115 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getValueAt@POLYN199963 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getValueAt@POLYN199115 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getValueAt@POLYN199963 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getValueAt@POLYN199115 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getValueAt@POLYN199963 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -441,21 +441,21 @@ var maDataBlocs = {
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.setState@POLYN200994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.setState@POLYN201842 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.setState@POLYN200994 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.setState@POLYN201842 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.setState@POLYN200994 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.setState@POLYN201842 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -469,7 +469,7 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getState@POLYN201623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getState@POLYN202471 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -490,7 +490,7 @@ var maDataBlocs = {
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getYpos@POLYN202303 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getYpos@POLYN203151 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -504,14 +504,14 @@ var maDataBlocs = {
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart1@POLYN202829 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart1@POLYN203677 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart1@POLYN202829 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart1@POLYN203677 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -525,21 +525,21 @@ var maDataBlocs = {
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMaxWidthForTicks@POLYN203526 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMaxWidthForTicks@POLYN204374 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMaxWidthForTicks@POLYN203526 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMaxWidthForTicks@POLYN204374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMaxWidthForTicks@POLYN203526 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getMaxWidthForTicks@POLYN204374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -560,21 +560,21 @@ var maDataBlocs = {
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawPart1@POLYN204617 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawPart1@POLYN205465 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawPart1@POLYN204617 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawPart1@POLYN205465 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawPart1@POLYN204617 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawPart1@POLYN205465 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -602,14 +602,14 @@ var maDataBlocs = {
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawScaleLabel@POLYN206810 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawScaleLabel@POLYN207658 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawScaleLabel@POLYN206810 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawScaleLabel@POLYN207658 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -623,7 +623,7 @@ var maDataBlocs = {
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getTextBlock@POLYN207627 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getTextBlock@POLYN208475 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -644,35 +644,35 @@ var maDataBlocs = {
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawTickHlines@POLYN207953 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.drawTickHlines@POLYN208801 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart2@POLYN208998 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart2@POLYN209846 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00269"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#269"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart2@POLYN208998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart2@POLYN209846 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart2@POLYN208998 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart2@POLYN209846 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerAnalog.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart2@POLYN208998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.timingdiagram.PlayerAnalog.getPart2@POLYN209846 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

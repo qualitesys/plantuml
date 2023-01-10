@@ -121,7 +121,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/AbstractElementFactoryComplex.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex.getNextElement@POLYN150782 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.AbstractElementFactoryComplex.getNextElement@POLYN151630 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

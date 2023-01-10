@@ -130,28 +130,28 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/Coords.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.braille.Coords.hashCode@POLYN148643 the MagicNumber/String  8192 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.braille.Coords.hashCode@POLYN149491 the MagicNumber/String  8192 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/Coords.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.braille.Coords.toString@POLYN148789 the MagicNumber/String  '( ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.braille.Coords.toString@POLYN149637 the MagicNumber/String  '( ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/Coords.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.braille.Coords.toString@POLYN148789 the MagicNumber/String  ' ; ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.braille.Coords.toString@POLYN149637 the MagicNumber/String  ' ; ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/Coords.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.braille.Coords.toString@POLYN148789 the MagicNumber/String  ' )' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.braille.Coords.toString@POLYN149637 the MagicNumber/String  ' )' should be converted to const"
 }} 
 ]
 , 

@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00033"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.reset@POLYN143197 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.reset@POLYN144045 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -140,28 +140,28 @@ var maDataBlocs = {
  , "c1" : "00033"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN143294 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN144142 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN143294 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN144142 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN143294 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN144142 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/LzStore.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN143294 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.zopfli.LzStore.copy@POLYN144142 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

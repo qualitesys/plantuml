@@ -96,14 +96,14 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.CommandAffineTransformMultiline@POLYN146366 the MagicNumber/String  '^!transformation[%s]+\\{[%s]*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.CommandAffineTransformMultiline@POLYN147214 the MagicNumber/String  '^!transformation[%s]+\\{[%s]*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.getPatternEnd@POLYN146492 the MagicNumber/String  '^[%s]*!\\}[%s]*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.getPatternEnd@POLYN147340 the MagicNumber/String  '^[%s]*!\\}[%s]*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.execute@POLYN146580 the MagicNumber/String  'Not yet implemented' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandAffineTransformMultiline.execute@POLYN147428 the MagicNumber/String  'Not yet implemented' should be converted to const"
 }} 
 ]
 , 

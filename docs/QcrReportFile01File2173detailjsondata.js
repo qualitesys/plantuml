@@ -187,14 +187,14 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.style.StyleBuilder.createStyle@POLYN164932 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.style.StyleBuilder.createStyle@POLYN165780 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.style.StyleBuilder.createStyle@POLYN164932 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.style.StyleBuilder.createStyle@POLYN165780 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -215,7 +215,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.style.StyleBuilder.muteStyle@POLYN165668 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.style.StyleBuilder.muteStyle@POLYN166516 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -236,7 +236,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.style.StyleBuilder.loadInternal@POLYN166804 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.style.StyleBuilder.loadInternal@POLYN167652 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -257,28 +257,28 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyle@POLYN167640 the MagicNumber/String  'Using style ' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyle@POLYN168488 the MagicNumber/String  'Using style ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyle@POLYN167640 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyle@POLYN168488 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyle@POLYN167640 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyle@POLYN168488 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyle@POLYN167640 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyle@POLYN168488 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -306,28 +306,28 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyleSpecial@POLYN168639 the MagicNumber/String  'Using style ' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyleSpecial@POLYN169487 the MagicNumber/String  'Using style ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyleSpecial@POLYN168639 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyleSpecial@POLYN169487 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyleSpecial@POLYN168639 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyleSpecial@POLYN169487 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyleSpecial@POLYN168639 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.style.StyleBuilder.getMergedStyleSpecial@POLYN169487 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

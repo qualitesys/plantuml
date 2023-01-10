@@ -121,7 +121,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getPatternEnd@POLYN157712 the MagicNumber/String  '^end[%s]?note$' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getPatternEnd@POLYN158560 the MagicNumber/String  '^end[%s]?note$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -149,70 +149,70 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN157814 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN158662 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN157814 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN158662 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN157814 the MagicNumber/String  'POSITION' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN158662 the MagicNumber/String  'POSITION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN157814 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN158662 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN157814 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN158662 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN157814 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.executeNow@POLYN158662 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getRegexConcat@POLYN159012 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getRegexConcat@POLYN159860 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getRegexConcat@POLYN159012 the MagicNumber/String  '(note|floating note)' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getRegexConcat@POLYN159860 the MagicNumber/String  '(note|floating note)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getRegexConcat@POLYN159012 the MagicNumber/String  'POSITION' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getRegexConcat@POLYN159860 the MagicNumber/String  'POSITION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandNoteLong3.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getRegexConcat@POLYN159012 the MagicNumber/String  '(left|right)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3.getRegexConcat@POLYN159860 the MagicNumber/String  '(left|right)?' should be converted to const"
 }} 
 ]
 , 

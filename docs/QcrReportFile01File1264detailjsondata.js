@@ -130,7 +130,7 @@ var maDataBlocs = {
  , "c1" : "00012"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.setText@POLYN139242 the MagicNumber/String  'setText' should be converted to const"
+ , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.setText@POLYN140090 the MagicNumber/String  'setText' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -144,28 +144,28 @@ var maDataBlocs = {
  , "c1" : "00016"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.setDimensions@POLYN139422 the MagicNumber/String  'setDimensions' should be converted to const"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.setDimensions@POLYN140270 the MagicNumber/String  'setDimensions' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00020"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.html#20"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.getText@POLYN139657 the MagicNumber/String  'getText' should be converted to const"
+ , "c3" : "QC-JAV000010[00020] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.getText@POLYN140505 the MagicNumber/String  'getText' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.getX@POLYN139825 the MagicNumber/String  'getX' should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.getX@POLYN140673 the MagicNumber/String  'getX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00028"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.getY@POLYN139993 the MagicNumber/String  'getY' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.elk.proxy.graph.ElkLabel.getY@POLYN140841 the MagicNumber/String  'getY' should be converted to const"
 }} 
 ]
 , 

@@ -126,21 +126,21 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152650 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN153498 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152650 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN153498 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN152650 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.drawU@POLYN153498 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -154,7 +154,7 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.getPreferredHeight@POLYN153622 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.getPreferredHeight@POLYN154470 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -168,7 +168,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.getPreferredWidth@POLYN153793 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.asciiart.ComponentTextDelay.getPreferredWidth@POLYN154641 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

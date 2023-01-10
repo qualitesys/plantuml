@@ -216,7 +216,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.bpm.ChainImpl.remove@POLYN173340 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.bpm.ChainImpl.remove@POLYN174188 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -230,70 +230,70 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN174222 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN175070 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN174222 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN175070 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN174222 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN175070 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN174222 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN175070 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN174222 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN175070 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN174222 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN175070 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN174222 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.bpm.ChainImpl.compare@POLYN175070 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN175406 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN176254 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN175406 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN176254 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN175406 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.bpm.ChainImpl.toList@POLYN176254 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -307,28 +307,28 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN176454 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN177302 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN176454 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN177302 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN176454 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN177302 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN176454 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.bpm.ChainImpl.contains@POLYN177302 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -356,14 +356,14 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.bpm.ChainImpl.navigator@POLYN177345 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.bpm.ChainImpl.navigator@POLYN178193 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.bpm.ChainImpl.navigator@POLYN177345 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.bpm.ChainImpl.navigator@POLYN178193 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -377,14 +377,14 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.bpm.ChainImpl.getInternal@POLYN178651 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.bpm.ChainImpl.getInternal@POLYN179499 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.bpm.ChainImpl.getInternal@POLYN178651 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.bpm.ChainImpl.getInternal@POLYN179499 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -398,14 +398,14 @@ var maDataBlocs = {
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.bpm.ChainImpl.setInternal@POLYN179053 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.bpm.ChainImpl.setInternal@POLYN179901 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.bpm.ChainImpl.setInternal@POLYN179053 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.bpm.ChainImpl.setInternal@POLYN179901 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -419,14 +419,14 @@ var maDataBlocs = {
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.bpm.ChainImpl.insertInternal@POLYN179589 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.bpm.ChainImpl.insertInternal@POLYN180437 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.bpm.ChainImpl.insertInternal@POLYN179589 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.bpm.ChainImpl.insertInternal@POLYN180437 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -440,14 +440,14 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.bpm.ChainImpl.ensure@POLYN180125 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.bpm.ChainImpl.ensure@POLYN180973 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.bpm.ChainImpl.ensure@POLYN180125 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.bpm.ChainImpl.ensure@POLYN180973 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -468,21 +468,21 @@ var maDataBlocs = {
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN180486 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN181334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN180486 the MagicNumber/String  'position=' should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN181334 the MagicNumber/String  'position=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN180486 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.bpm.ChainImpl.ensureInternal@POLYN181334 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -510,7 +510,7 @@ var maDataBlocs = {
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.bpm.ChainImpl.InternalNavigator.insertAfter@POLYN182546 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.bpm.ChainImpl.InternalNavigator.insertAfter@POLYN183394 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

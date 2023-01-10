@@ -212,7 +212,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getSumWidth@POLYN156701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getSumWidth@POLYN157549 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -233,7 +233,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getSumHeight@POLYN157053 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getSumHeight@POLYN157901 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -254,7 +254,7 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getMaxWidth@POLYN157405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getMaxWidth@POLYN158253 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -275,7 +275,7 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getMaxHeight@POLYN157818 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy.getMaxHeight@POLYN158666 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.asTextBlock@POLYN157472 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.asTextBlock@POLYN158320 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -140,35 +140,35 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN158606 the MagicNumber/String  '.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN159454 the MagicNumber/String  '.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN158606 the MagicNumber/String  '.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN159454 the MagicNumber/String  '.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN158606 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN159454 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN158606 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN159454 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN158606 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.fromInternal@POLYN159454 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -182,7 +182,7 @@ var maDataBlocs = {
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/emoji/SpriteSvgNanoParser.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.getInternalSprite@POLYN159305 the MagicNumber/String  '/sprites/' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.emoji.SpriteSvgNanoParser.getInternalSprite@POLYN160153 the MagicNumber/String  '/sprites/' should be converted to const"
 }} 
 ]
 , 

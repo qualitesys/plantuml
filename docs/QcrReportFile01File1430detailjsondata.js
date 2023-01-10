@@ -189,7 +189,7 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.hcl.HclParser.parseMe@POLYN184207 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.hcl.HclParser.parseMe@POLYN185055 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -217,28 +217,28 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.hcl.HclParser.getModuleOrSomething@POLYN185212 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.hcl.HclParser.getModuleOrSomething@POLYN186060 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.hcl.HclParser.getModuleOrSomething@POLYN185212 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.hcl.HclParser.getModuleOrSomething@POLYN186060 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.hcl.HclParser.getModuleOrSomething@POLYN185212 the MagicNumber/String  '\' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.hcl.HclParser.getModuleOrSomething@POLYN186060 the MagicNumber/String  '\' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.hcl.HclParser.getModuleOrSomething@POLYN185212 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.hcl.HclParser.getModuleOrSomething@POLYN186060 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -357,35 +357,35 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN186287 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN187135 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN186287 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN187135 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN186287 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN187135 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN186287 the MagicNumber/String  '()' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN187135 the MagicNumber/String  '()' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN186287 the MagicNumber/String  '()' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.hcl.HclParser.getFunctionData@POLYN187135 the MagicNumber/String  '()' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -490,14 +490,14 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.hcl.HclParser.getBracketData@POLYN188168 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.hcl.HclParser.getBracketData@POLYN189016 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.hcl.HclParser.getBracketData@POLYN188168 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.hcl.HclParser.getBracketData@POLYN189016 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -539,7 +539,7 @@ var maDataBlocs = {
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.hcl.HclParser.getArray@POLYN191176 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.hcl.HclParser.getArray@POLYN192024 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -574,49 +574,49 @@ var maDataBlocs = {
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN192161 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN193009 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN192161 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN193009 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN192161 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN193009 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN192161 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN193009 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN192161 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN193009 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN192161 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN193009 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN192161 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.hcl.HclParser.parse@POLYN193009 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -637,14 +637,14 @@ var maDataBlocs = {
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.hcl.HclParser.eatUntilDoubleQuote@POLYN194058 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.hcl.HclParser.eatUntilDoubleQuote@POLYN194906 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.hcl.HclParser.eatUntilDoubleQuote@POLYN194058 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.hcl.HclParser.eatUntilDoubleQuote@POLYN194906 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -658,70 +658,70 @@ var maDataBlocs = {
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00252"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN194801 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.hcl.HclParser.getType@POLYN195649 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

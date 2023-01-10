@@ -178,14 +178,14 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.getPosition@POLYN158370 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.getPosition@POLYN159218 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.getPosition@POLYN158370 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.getPosition@POLYN159218 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -199,14 +199,14 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.setMargin@POLYN159002 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.setMargin@POLYN159850 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.setMargin@POLYN159002 the MagicNumber/String  'margin=' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.setMargin@POLYN159850 the MagicNumber/String  'margin=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -220,14 +220,14 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.toString@POLYN159436 the MagicNumber/String  'GtileIfSimple ' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.toString@POLYN160284 the MagicNumber/String  'GtileIfSimple ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.first@POLYN159546 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.first@POLYN160394 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -241,14 +241,14 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.GtileColumns@POLYN159662 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.GtileColumns@POLYN160510 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.GtileColumns@POLYN159662 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.GtileColumns@POLYN160510 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -283,7 +283,7 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.drawUInternal@POLYN160165 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.drawUInternal@POLYN161013 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -318,21 +318,21 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.calculateDimension@POLYN160734 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.calculateDimension@POLYN161582 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.calculateDimension@POLYN160734 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.calculateDimension@POLYN161582 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.calculateDimension@POLYN160734 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns.calculateDimension@POLYN161582 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -175,35 +175,35 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeHeaderHeight@POLYN165332 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeHeaderHeight@POLYN166180 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeHeaderHeight@POLYN165332 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeHeaderHeight@POLYN166180 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeFooterHeight@POLYN165444 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeFooterHeight@POLYN166292 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeFooterHeight@POLYN165444 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeFooterHeight@POLYN166292 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeFooterHeight@POLYN165444 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.getTimeFooterHeight@POLYN166292 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -231,21 +231,21 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeHeader@POLYN165829 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeHeader@POLYN166677 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeHeader@POLYN165829 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeHeader@POLYN166677 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeHeader@POLYN165829 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeHeader@POLYN166677 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -266,28 +266,28 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeFooter@POLYN166496 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeFooter@POLYN167344 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeFooter@POLYN166496 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeFooter@POLYN167344 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeFooter@POLYN166496 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeFooter@POLYN167344 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeFooter@POLYN166496 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawTimeFooter@POLYN167344 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -301,77 +301,77 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN167170 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawYears@POLYN168018 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -385,77 +385,77 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN168922 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.drawMonths@POLYN169770 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -476,28 +476,28 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printYear@POLYN170626 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printYear@POLYN171474 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printYear@POLYN170626 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printYear@POLYN171474 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printYear@POLYN170626 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printYear@POLYN171474 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printYear@POLYN170626 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printYear@POLYN171474 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -518,35 +518,35 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171134 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171982 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171134 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171982 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171134 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171982 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171134 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171982 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderMonthly.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171134 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.draw.TimeHeaderMonthly.printMonth@POLYN171982 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

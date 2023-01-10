@@ -237,21 +237,21 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.SignatureUtils.salting@POLYN170372 the MagicNumber/String  500 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.SignatureUtils.salting@POLYN171220 the MagicNumber/String  500 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.SignatureUtils.salting@POLYN170372 the MagicNumber/String  512 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.SignatureUtils.salting@POLYN171220 the MagicNumber/String  512 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.SignatureUtils.salting@POLYN170372 the MagicNumber/String  'PBKDF2WithHmacSHA1' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.SignatureUtils.salting@POLYN171220 the MagicNumber/String  'PBKDF2WithHmacSHA1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -279,14 +279,14 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.SignatureUtils.toHexString@POLYN172005 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.SignatureUtils.toHexString@POLYN172853 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.SignatureUtils.toHexString@POLYN172005 the MagicNumber/String  '%02x' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.SignatureUtils.toHexString@POLYN172853 the MagicNumber/String  '%02x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -300,7 +300,7 @@ var maDataBlocs = {
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.SignatureUtils.getMD5Hex@POLYN172485 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.SignatureUtils.getMD5Hex@POLYN173333 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -314,7 +314,7 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.SignatureUtils.getSHA512Hex@POLYN173186 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.SignatureUtils.getSHA512Hex@POLYN174034 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -335,7 +335,7 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.SignatureUtils.getMD5raw@POLYN173898 the MagicNumber/String  'MD5' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.SignatureUtils.getMD5raw@POLYN174746 the MagicNumber/String  'MD5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -363,7 +363,7 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.SignatureUtils.getSHA512raw@POLYN174486 the MagicNumber/String  'SHA-512' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.SignatureUtils.getSHA512raw@POLYN175334 the MagicNumber/String  'SHA-512' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -405,21 +405,21 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.SignatureUtils.getSignatureSha512@POLYN175077 the MagicNumber/String  'SHA-512' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.SignatureUtils.getSignatureSha512@POLYN175925 the MagicNumber/String  'SHA-512' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.SignatureUtils.getSignatureSha512@POLYN175077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.SignatureUtils.getSignatureSha512@POLYN175925 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.SignatureUtils.getSignatureSha512@POLYN175077 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.SignatureUtils.getSignatureSha512@POLYN175925 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -440,28 +440,28 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.SignatureUtils.purge@POLYN176340 the MagicNumber/String  '(?i)\\&amp;lt;img\\s+src=\'(?:[^\']+[/\\\\])?([^/\\\\\\d.]+)\\d*(\\.\\w+)\'/\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.SignatureUtils.purge@POLYN177188 the MagicNumber/String  '(?i)\\&amp;lt;img\\s+src=\'(?:[^\']+[/\\\\])?([^/\\\\\\d.]+)\\d*(\\.\\w+)\'/\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.SignatureUtils.purge@POLYN176340 the MagicNumber/String  '&amp;lt;img src=\'$1$2\'/&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.SignatureUtils.purge@POLYN177188 the MagicNumber/String  '&amp;lt;img src=\'$1$2\'/&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.SignatureUtils.purge@POLYN176340 the MagicNumber/String  '(?i)image=\'(?:[^\']+[/\\\\])?([^/\\\\\\d.]+)\\d*(\\.\\w+)\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.SignatureUtils.purge@POLYN177188 the MagicNumber/String  '(?i)image=\'(?:[^\']+[/\\\\])?([^/\\\\\\d.]+)\\d*(\\.\\w+)\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.SignatureUtils.purge@POLYN176340 the MagicNumber/String  'image=\'$1$2\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.SignatureUtils.purge@POLYN177188 the MagicNumber/String  'image=\'$1$2\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -489,28 +489,28 @@ var maDataBlocs = {
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.SignatureUtils.getSignature@POLYN176816 the MagicNumber/String  'MD5' should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.SignatureUtils.getSignature@POLYN177664 the MagicNumber/String  'MD5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.SignatureUtils.getSignature@POLYN176816 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.SignatureUtils.getSignature@POLYN177664 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.SignatureUtils.getSignature@POLYN176816 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.SignatureUtils.getSignature@POLYN177664 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SignatureUtils.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.SignatureUtils.getSignature@POLYN176816 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.SignatureUtils.getSignature@POLYN177664 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

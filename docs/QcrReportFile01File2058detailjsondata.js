@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.create@POLYN151565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.create@POLYN152413 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -140,14 +140,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.draw@POLYN152209 the MagicNumber/String  'UGraphicNewpages ' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.draw@POLYN153057 the MagicNumber/String  'UGraphicNewpages ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/UGraphicNewpages.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.draw@POLYN152209 the MagicNumber/String  'Removing ' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages.draw@POLYN153057 the MagicNumber/String  'Removing ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

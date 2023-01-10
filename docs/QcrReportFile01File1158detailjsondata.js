@@ -87,7 +87,7 @@ var maDataBlocs = {
  , "c1" : "00014"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#14"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.dedication.BlumBlumShub.BlumBlumShub@POLYN139184 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00014] In method net.sourceforge.plantuml.dedication.BlumBlumShub.BlumBlumShub@POLYN140032 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -101,42 +101,42 @@ var maDataBlocs = {
  , "c1" : "00018"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN139515 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN140363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00019"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN139515 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN140363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00021"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN139515 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN140363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00021"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN139515 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN140363 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00021"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN139515 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN140363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00022"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/BlumBlumShub.java.html#22"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN139515 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00022] In method net.sourceforge.plantuml.dedication.BlumBlumShub.nextRnd@POLYN140363 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

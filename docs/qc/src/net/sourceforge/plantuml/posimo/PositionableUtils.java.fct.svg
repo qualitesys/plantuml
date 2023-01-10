@@ -1,73 +1,73 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:493px;height:586px;background:#000000;" version="1.1" viewBox="0 0 493 586" width="493px" zoomAndPan="magnify"><defs/><g><rect fill="#260E0E" height="1" style="stroke:#260E0E;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 139 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="481" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="6" y="83.875">[From string (line 70) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="374" x="5" y="185.6563">XRectangle2Dconvert(Positionablepositionable)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="175" x="5" y="218.25">... ( skipping 45 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="100" x="5" y="250.8438">deltaY,dim);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="267.1406">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="5" y="283.4375">end</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="299.7344">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="316.0313">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="358" x="5" y="332.3281">PositionablemoveAwayFrom(Positionablefixe,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="160" x="5" y="348.625">PositionabletoMove)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="5" y="364.9219">end note</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="344" x="5" y="381.2188">:final XPoint2DcenterFixe=getCenter(fixe);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="403" x="5" y="397.5156">:final XPoint2DcenterToMove=getCenter(toMove);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="481" x="5" y="413.8125">:final doubledeltaX=centerToMove.getX()-centerFixe.getX();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="481" x="5" y="430.1094">:final doubledeltaY=centerToMove.getY()-centerFixe.getY();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="137" x="5" y="446.4063">:doublemin=0.0;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="339" x="5" y="462.7031">if (doesIntersectWithThisCoef(fixe,toMove,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="296" x="5" y="479">deltaX,deltaY,min)==false) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="321" x="5" y="495.2969">:throw new IllegalArgumentException();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="511.5938">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="527.8906">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="141" x="5" y="544.1875">:doublemax=0.1;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="371" x="5" y="560.4844">while (doesIntersectWithThisCoef(fixe,toMove,</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="576.7813">Syntax Error?</text><!--MD5=[40d9ccb995894b69d081fea6e0e80aa7]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:498px;height:586px;background:#000000;" version="1.1" viewBox="0 0 498 586" width="498px" zoomAndPan="magnify"><defs/><g><rect fill="#0C1817" height="1" style="stroke:#0C1817;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 140 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="486" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="178" x="6" y="83.875">[From string (line 70) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="384" x="5" y="185.6563">XRectangle2D convert(Positionable positionable)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="175" x="5" y="218.25">... ( skipping 45 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="100" x="5" y="250.8438">deltaY,dim);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="267.1406">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="5" y="283.4375">end</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="299.7344">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="316.0313">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="368" x="5" y="332.3281">Positionable moveAwayFrom(Positionable fixe,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="165" x="5" y="348.625">Positionable toMove)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="5" y="364.9219">end note</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="349" x="5" y="381.2188">:final XPoint2D centerFixe=getCenter(fixe);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="397.5156">:final XPoint2D centerToMove=getCenter(toMove);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="486" x="5" y="413.8125">:final double deltaX=centerToMove.getX()-centerFixe.getX();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="486" x="5" y="430.1094">:final double deltaY=centerToMove.getY()-centerFixe.getY();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="142" x="5" y="446.4063">:double min=0.0;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="339" x="5" y="462.7031">if (doesIntersectWithThisCoef(fixe,toMove,</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="296" x="5" y="479">deltaX,deltaY,min)==false) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="321" x="5" y="495.2969">:throw new IllegalArgumentException();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="511.5938">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="527.8906">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="146" x="5" y="544.1875">:double max=0.1;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="371" x="5" y="560.4844">while (doesIntersectWithThisCoef(fixe,toMove,</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="576.7813">Syntax Error?</text><!--MD5=[49463d9192488551cb1e1240003b1169]
 @startuml
 !pragma layout smetana
 start
 note right
-XRectangle2Dconvert(Positionablepositionable)
+XRectangle2D convert(Positionable positionable)
 end note
-:final XPoint2Dposition=positionable.getPosition();;
-:final XDimension2Dsize=positionable.getSize();;
+:final XPoint2D position=positionable.getPosition();;
+:final XDimension2D size=positionable.getSize();;
 :return new XRectangle2D(position.getX(),
 position.getY(),size.getWidth(),size.getHeight());;
 stop
 end
 start
 note right
-booleanintersect(Positionablebig,Positionablesmall)
+boolean intersect(Positionable big,Positionable small)
 end note
-:final XRectangle2DbigR=convert(big);;
-:final XRectangle2DsmallR=convert(small);;
+:final XRectangle2D bigR=convert(big);;
+:final XRectangle2D smallR=convert(small);;
 :return bigR.intersects(smallR);;
 stop
 end
 start
 note right
-PositionableaddMargin(final Positionablepos,
-final doublewidthMargin,final doubleheightMargin)
+Positionable addMargin(final Positionable pos,
+final double widthMargin,final double heightMargin)
 end note
-:return new Positionable(){public XPoint2DgetPosition(){final XPoint2Dp=pos.getPosition();return new XPoint2D(p.getX()-widthMargin,
-p.getY()-heightMargin);}public XDimension2DgetSize(){return XDimension2D.delta(pos.getSize(),
-2*widthMargin,2*heightMargin);}public void moveSvek(doubledeltaX,
-doubledeltaY){pos.moveSvek(deltaX,deltaY);}};;
+:return new Positionable(){public XPoint2D getPosition(){final XPoint2D p=pos.getPosition();return new XPoint2D(p.getX()-widthMargin,
+p.getY()-heightMargin);}public XDimension2D getSize(){return XDimension2D.delta(pos.getSize(),
+2*widthMargin,2*heightMargin);}public void moveSvek(double deltaX,
+double deltaY){pos.moveSvek(deltaX,deltaY);}};;
 stop
 end
 start
 note right
-XPoint2DgetCenter(Positionablep)
+XPoint2D getCenter(Positionable p)
 end note
-:final XPoint2Dpt=p.getPosition();;
-:final XDimension2Ddim=p.getSize();;
+:final XPoint2D pt=p.getPosition();;
+:final XDimension2D dim=p.getSize();;
 :return new XPoint2D(pt.getX()+dim.getWidth()/2,pt.getY()+
 dim.getHeight()/2);;
 stop
 end
 start
 note right
-Positionablemove(Positionablep,doubledeltaX,
-doubledeltaY)
+Positionable move(Positionable p,double deltaX,
+double deltaY)
 end note
-:final XPoint2Dpt=p.getPosition();;
-:final XDimension2Ddim=p.getSize();;
+:final XPoint2D pt=p.getPosition();;
+:final XDimension2D dim=p.getSize();;
 :return new PositionableImpl(pt.getX()+deltaX,pt.getY()+
 deltaY,dim);;
 stop
 end
 start
 note right
-PositionablemoveAwayFrom(Positionablefixe,
-PositionabletoMove)
+Positionable moveAwayFrom(Positionable fixe,
+Positionable toMove)
 end note
-:final XPoint2DcenterFixe=getCenter(fixe);;
-:final XPoint2DcenterToMove=getCenter(toMove);;
-:final doubledeltaX=centerToMove.getX()-centerFixe.getX();;
-:final doubledeltaY=centerToMove.getY()-centerFixe.getY();;
-:doublemin=0.0;;
+:final XPoint2D centerFixe=getCenter(fixe);;
+:final XPoint2D centerToMove=getCenter(toMove);;
+:final double deltaX=centerToMove.getX()-centerFixe.getX();;
+:final double deltaY=centerToMove.getY()-centerFixe.getY();;
+:double min=0.0;;
 if (doesIntersectWithThisCoef(fixe,toMove,
 deltaX,deltaY,min)==false) then (yes) 
 :throw new IllegalArgumentException();;
 stop
 endif 
-:doublemax=0.1;;
+:double max=0.1;;
 while (doesIntersectWithThisCoef(fixe,toMove,
 deltaX,deltaY,max))
 :max=max*2;;
@@ -76,24 +76,24 @@ endwhile
 deltaX,deltaY,min);;
 :assert doesIntersectWithThisCoef(fixe,toMove,
 deltaX,deltaY,max)==false;;
-:final doublecandidat=(min+max)/2.0;;
+:final double candidat=(min+max)/2.0;;
 if (doesIntersectWithThisCoef(fixe,toMove,
 deltaX,deltaY,candidat)) then (yes) 
 :min=candidat;;
 else (no)
 :max=candidat;;
 endif 
-:final doublecandidat=(min+max)/2.0;;
+:final double candidat=(min+max)/2.0;;
 :return move(toMove,deltaX*candidat,deltaY*candidat);;
 stop
 end
 start
 note right
-booleandoesIntersectWithThisCoef(Positionablefixe,
-PositionabletoMove,doubledeltaX,doubledeltaY,
-doublec)
+boolean doesIntersectWithThisCoef(Positionable fixe,
+Positionable toMove,double deltaX,double deltaY,
+double c)
 end note
-:final Positionableresult=move(toMove,deltaX*c,
+:final Positionable result=move(toMove,deltaX*c,
 deltaY*c);;
 :return intersect(fixe,result);;
 stop

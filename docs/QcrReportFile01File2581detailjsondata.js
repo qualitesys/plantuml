@@ -317,7 +317,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ugraphic.UFont.toStringDebug@POLYN166501 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ugraphic.UFont.toStringDebug@POLYN167349 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -338,14 +338,14 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.UFont.buildFont@POLYN167202 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.UFont.buildFont@POLYN168050 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.UFont.buildFont@POLYN167202 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.UFont.buildFont@POLYN168050 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -373,7 +373,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.UFont.serif@POLYN168141 the MagicNumber/String  'Serif' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.UFont.serif@POLYN168989 the MagicNumber/String  'Serif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -387,7 +387,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.UFont.sansSerif@POLYN168346 the MagicNumber/String  'SansSerif' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.UFont.sansSerif@POLYN169194 the MagicNumber/String  'SansSerif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,7 +401,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ugraphic.UFont.courier@POLYN168551 the MagicNumber/String  'Courier' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ugraphic.UFont.courier@POLYN169399 the MagicNumber/String  'Courier' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -415,7 +415,7 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ugraphic.UFont.byDefault@POLYN168756 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ugraphic.UFont.byDefault@POLYN169604 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -429,14 +429,14 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ugraphic.UFont.goTikz@POLYN168897 the MagicNumber/String  'Serif' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ugraphic.UFont.goTikz@POLYN169745 the MagicNumber/String  'Serif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ugraphic.UFont.goTikz@POLYN168897 the MagicNumber/String  'Serif' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ugraphic.UFont.goTikz@POLYN169745 the MagicNumber/String  'Serif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -450,7 +450,7 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.ugraphic.UFont.monospaced@POLYN169202 the MagicNumber/String  'Monospaced' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.ugraphic.UFont.monospaced@POLYN170050 the MagicNumber/String  'Monospaced' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -478,84 +478,84 @@ var maDataBlocs = {
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ugraphic.UFont.getFamily@POLYN170900 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.ugraphic.UFont.getFamily@POLYN171748 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.UFont.getFamily@POLYN170900 the MagicNumber/String  'Times-Roman' should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.UFont.getFamily@POLYN171748 the MagicNumber/String  'Times-Roman' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.ugraphic.UFont.getFamily@POLYN170900 the MagicNumber/String  'sansserif' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.ugraphic.UFont.getFamily@POLYN171748 the MagicNumber/String  'sansserif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.ugraphic.UFont.getFamily@POLYN170900 the MagicNumber/String  'sans-serif' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.ugraphic.UFont.getFamily@POLYN171748 the MagicNumber/String  'sans-serif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN171497 the MagicNumber/String  '.bolditalic' should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN172345 the MagicNumber/String  '.bolditalic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN171497 the MagicNumber/String  '.bolditalic' should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN172345 the MagicNumber/String  '.bolditalic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN171497 the MagicNumber/String  '.bold' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN172345 the MagicNumber/String  '.bold' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN171497 the MagicNumber/String  '.bold' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN172345 the MagicNumber/String  '.bold' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN171497 the MagicNumber/String  '.italic' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN172345 the MagicNumber/String  '.italic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN171497 the MagicNumber/String  '.italic' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN172345 the MagicNumber/String  '.italic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN171497 the MagicNumber/String  '.plain' should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN172345 the MagicNumber/String  '.plain' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN171497 the MagicNumber/String  '.plain' should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.ugraphic.UFont.getPortableFontName@POLYN172345 the MagicNumber/String  '.plain' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -569,14 +569,14 @@ var maDataBlocs = {
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.ugraphic.UFont.equals@POLYN172651 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.ugraphic.UFont.equals@POLYN173499 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.ugraphic.UFont.equals@POLYN172651 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.ugraphic.UFont.equals@POLYN173499 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

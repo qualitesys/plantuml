@@ -103,7 +103,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandEndState.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.statediagram.command.CommandEndState.getRegexConcat@POLYN150866 the MagicNumber/String  '(end[%s]?state|\\})' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.statediagram.command.CommandEndState.getRegexConcat@POLYN151714 the MagicNumber/String  '(end[%s]?state|\\})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -124,14 +124,14 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandEndState.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.statediagram.command.CommandEndState.executeArg@POLYN151181 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.statediagram.command.CommandEndState.executeArg@POLYN152029 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandEndState.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.statediagram.command.CommandEndState.executeArg@POLYN151181 the MagicNumber/String  'No inner state defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.statediagram.command.CommandEndState.executeArg@POLYN152029 the MagicNumber/String  'No inner state defined' should be converted to const"
 }} 
 ]
 , 

@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00041"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#41"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00041] For method toBufferedImage list of called methods Object monObjet|int matrix_getWidthN146079|int matrix_getHeightN146154"
+ , "c3" : "QC-JAV000007[00041] For method toBufferedImage list of called methods Object monObjet|int matrix_getWidthN146927|int matrix_getHeightN147002"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -122,14 +122,14 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.client.j2se.MatrixToImageWriter.toBufferedImage@POLYN145932 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.google.zxing.client.j2se.MatrixToImageWriter.toBufferedImage@POLYN146780 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/client/j2se/MatrixToImageWriter.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.google.zxing.client.j2se.MatrixToImageWriter.toBufferedImage@POLYN145932 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.google.zxing.client.j2se.MatrixToImageWriter.toBufferedImage@POLYN146780 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

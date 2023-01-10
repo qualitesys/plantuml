@@ -103,14 +103,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesCaption.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.CommandMultilinesCaption@POLYN149815 the MagicNumber/String  '^caption$' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.CommandMultilinesCaption@POLYN150663 the MagicNumber/String  '^caption$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesCaption.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.getPatternEnd@POLYN149941 the MagicNumber/String  '^end[%s]?caption$' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.getPatternEnd@POLYN150789 the MagicNumber/String  '^end[%s]?caption$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -138,28 +138,28 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesCaption.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.execute@POLYN150029 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.execute@POLYN150877 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesCaption.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.execute@POLYN150029 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.execute@POLYN150877 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesCaption.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.execute@POLYN150029 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.execute@POLYN150877 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesCaption.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.execute@POLYN150029 the MagicNumber/String  'No caption defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.command.CommandMultilinesCaption.execute@POLYN150877 the MagicNumber/String  'No caption defined' should be converted to const"
 }} 
 ]
 , 

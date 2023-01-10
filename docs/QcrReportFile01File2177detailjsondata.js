@@ -344,35 +344,35 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180749 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN181597 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180749 the MagicNumber/String  '&amp;' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN181597 the MagicNumber/String  '&amp;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180749 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN181597 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN180749 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.style.StyleSignatureBasic.StyleSignatureBasic@POLYN181597 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.style.StyleSignatureBasic.empty@POLYN181295 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.style.StyleSignatureBasic.empty@POLYN182143 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -386,7 +386,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.StyleSignatureBasic.addClickable@POLYN181796 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.StyleSignatureBasic.addClickable@POLYN182644 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -400,21 +400,21 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182281 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN183129 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182281 the MagicNumber/String  '&amp;' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN183129 the MagicNumber/String  '&amp;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182281 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN183129 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -435,28 +435,28 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182959 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN183807 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN182959 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.style.StyleSignatureBasic.add@POLYN183807 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.style.StyleSignatureBasic.addStar@POLYN183203 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.style.StyleSignatureBasic.addStar@POLYN184051 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.style.StyleSignatureBasic.isStarred@POLYN183551 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.style.StyleSignatureBasic.isStarred@POLYN184399 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -470,21 +470,21 @@ var maDataBlocs = {
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN184070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN184918 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN184070 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN184918 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN184070 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.StyleSignatureBasic.toString@POLYN184918 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -505,70 +505,70 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN184600 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.style.StyleSignatureBasic.matchAll@POLYN185448 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -589,28 +589,28 @@ var maDataBlocs = {
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185690 the MagicNumber/String  'depth(' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN186538 the MagicNumber/String  'depth(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185690 the MagicNumber/String  'depth(' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN186538 the MagicNumber/String  'depth(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185690 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN186538 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN185690 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromToken@POLYN186538 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -624,14 +624,14 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromTokens@POLYN186127 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromTokens@POLYN186975 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromTokens@POLYN186127 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.style.StyleSignatureBasic.depthFromTokens@POLYN186975 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -645,21 +645,21 @@ var maDataBlocs = {
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186691 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN187539 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186691 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN187539 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN186691 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.style.StyleSignatureBasic.of@POLYN187539 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -680,35 +680,35 @@ var maDataBlocs = {
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN187209 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN188057 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN187209 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN188057 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN187209 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN188057 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN187209 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN188057 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN187209 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.style.StyleSignatureBasic.forStereotypeItself@POLYN188057 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -729,21 +729,21 @@ var maDataBlocs = {
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN188230 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN189078 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN188230 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN189078 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN188230 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.style.StyleSignatureBasic.withTOBECHANGED@POLYN189078 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -764,7 +764,7 @@ var maDataBlocs = {
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.style.StyleSignatureBasic.with@POLYN189067 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.style.StyleSignatureBasic.with@POLYN189915 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -785,28 +785,28 @@ var maDataBlocs = {
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN189632 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN190480 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN189632 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN190480 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN189632 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN190480 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN189632 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.style.StyleSignatureBasic.clean@POLYN190480 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -848,14 +848,14 @@ var maDataBlocs = {
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.style.StyleSignatureBasic.getMergedStyle@POLYN190857 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.style.StyleSignatureBasic.getMergedStyle@POLYN191705 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.style.StyleSignatureBasic.getMergedStyle@POLYN190857 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.style.StyleSignatureBasic.getMergedStyle@POLYN191705 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -876,14 +876,14 @@ var maDataBlocs = {
  , "c1" : "00256"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.style.StyleSignatureBasic.match@POLYN191095 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.style.StyleSignatureBasic.match@POLYN191943 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.style.StyleSignatureBasic.match@POLYN191095 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.style.StyleSignatureBasic.match@POLYN191943 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

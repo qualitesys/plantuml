@@ -175,7 +175,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.getSwimlanes@POLYN167382 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.getSwimlanes@POLYN168230 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -189,14 +189,14 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.FtileNoteAlone@POLYN167797 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.FtileNoteAlone@POLYN168645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.FtileNoteAlone@POLYN167797 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.FtileNoteAlone@POLYN168645 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -217,28 +217,28 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.calculateDimensionFtile@POLYN169897 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.calculateDimensionFtile@POLYN170745 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.calculateDimensionFtile@POLYN169897 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.calculateDimensionFtile@POLYN170745 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.calculateDimensionFtile@POLYN169897 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.calculateDimensionFtile@POLYN170745 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileNoteAlone.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.calculateDimensionFtile@POLYN169897 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone.calculateDimensionFtile@POLYN170745 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

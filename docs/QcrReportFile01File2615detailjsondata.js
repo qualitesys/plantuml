@@ -225,28 +225,28 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.color.HColor.toSvg@POLYN154086 the MagicNumber/String  '#00000000' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.color.HColor.toSvg@POLYN154934 the MagicNumber/String  '#00000000' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColor.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.color.HColor.toSvg@POLYN154086 the MagicNumber/String  255 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.color.HColor.toSvg@POLYN154934 the MagicNumber/String  255 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColor.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.color.HColor.toSvg@POLYN154086 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.color.HColor.toSvg@POLYN154934 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColor.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.color.HColor.toSvg@POLYN154086 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.color.HColor.toSvg@POLYN154934 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -267,14 +267,14 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColor.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ugraphic.color.HColor.isDark@POLYN155282 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ugraphic.color.HColor.isDark@POLYN156130 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColor.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ugraphic.color.HColor.asString@POLYN155370 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ugraphic.color.HColor.asString@POLYN156218 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -295,7 +295,7 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColor.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.color.HColor.isTransparent@POLYN155934 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.color.HColor.isTransparent@POLYN156782 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

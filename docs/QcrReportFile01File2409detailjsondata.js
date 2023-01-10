@@ -248,49 +248,49 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174576 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN175424 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174576 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN175424 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174576 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN175424 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174576 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN175424 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174576 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN175424 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174576 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN175424 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN174576 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.TFunctionImpl.canCover@POLYN175424 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -332,28 +332,28 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.tim.TFunctionImpl.getNewMemory@POLYN175739 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.tim.TFunctionImpl.getNewMemory@POLYN176587 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.tim.TFunctionImpl.getNewMemory@POLYN175739 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.tim.TFunctionImpl.getNewMemory@POLYN176587 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.TFunctionImpl.toString@POLYN177102 the MagicNumber/String  'FUNCTION ' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.TFunctionImpl.toString@POLYN177950 the MagicNumber/String  'FUNCTION ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.TFunctionImpl.toString@POLYN177102 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.TFunctionImpl.toString@POLYN177950 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -367,14 +367,14 @@ var maDataBlocs = {
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.TFunctionImpl.addBody@POLYN177250 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.TFunctionImpl.addBody@POLYN178098 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.tim.TFunctionImpl.addBody@POLYN177250 the MagicNumber/String  'A procedure cannot have !return directive. Declare it as a function instead ?' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.tim.TFunctionImpl.addBody@POLYN178098 the MagicNumber/String  'A procedure cannot have !return directive. Declare it as a function instead ?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -409,7 +409,7 @@ var maDataBlocs = {
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeProcedureInternal@POLYN178754 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeProcedureInternal@POLYN179602 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -430,28 +430,28 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN179448 the MagicNumber/String  'Illegal call here. Is there a return directive in your function?' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN180296 the MagicNumber/String  'Illegal call here. Is there a return directive in your function?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN179448 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN180296 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN179448 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN180296 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN179448 the MagicNumber/String  'No return directive found in your function' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnFunction@POLYN180296 the MagicNumber/String  'No return directive found in your function' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -472,21 +472,21 @@ var maDataBlocs = {
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN180564 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN181412 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN180564 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN181412 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN180564 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.tim.TFunctionImpl.executeReturnLegacyDefine@POLYN181412 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -500,21 +500,21 @@ var maDataBlocs = {
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.tim.TFunctionImpl.hasBody@POLYN181837 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.tim.TFunctionImpl.hasBody@POLYN182685 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN181959 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN182807 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN181959 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.tim.TFunctionImpl.finalizeEnddefinelong@POLYN182807 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

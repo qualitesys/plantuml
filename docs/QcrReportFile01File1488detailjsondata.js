@@ -164,14 +164,14 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.math.ScientificEquationSafe.fromAsciiMath@POLYN168161 the MagicNumber/String  'Error parsing ' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.math.ScientificEquationSafe.fromAsciiMath@POLYN169009 the MagicNumber/String  'Error parsing ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.math.ScientificEquationSafe.fromAsciiMath@POLYN168161 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.math.ScientificEquationSafe.fromAsciiMath@POLYN169009 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -185,14 +185,14 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.math.ScientificEquationSafe.fromLatex@POLYN168701 the MagicNumber/String  'Error parsing ' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.math.ScientificEquationSafe.fromLatex@POLYN169549 the MagicNumber/String  'Error parsing ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.math.ScientificEquationSafe.fromLatex@POLYN168701 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.math.ScientificEquationSafe.fromLatex@POLYN169549 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -206,14 +206,14 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.math.ScientificEquationSafe.getSvg@POLYN169276 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.math.ScientificEquationSafe.getSvg@POLYN170124 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.math.ScientificEquationSafe.getSvg@POLYN169276 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.math.ScientificEquationSafe.getSvg@POLYN170124 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -227,14 +227,14 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.math.ScientificEquationSafe.getImage@POLYN170415 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.math.ScientificEquationSafe.getImage@POLYN171263 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.math.ScientificEquationSafe.getImage@POLYN170415 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.math.ScientificEquationSafe.getImage@POLYN171263 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -248,21 +248,21 @@ var maDataBlocs = {
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.math.ScientificEquationSafe.printTrace@POLYN171162 the MagicNumber/String  'formula=' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.math.ScientificEquationSafe.printTrace@POLYN172010 the MagicNumber/String  'formula=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.math.ScientificEquationSafe.printTrace@POLYN171162 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.math.ScientificEquationSafe.printTrace@POLYN172010 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.math.ScientificEquationSafe.printTrace@POLYN171162 the MagicNumber/String  'Latex=' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.math.ScientificEquationSafe.printTrace@POLYN172010 the MagicNumber/String  'Latex=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -290,35 +290,35 @@ var maDataBlocs = {
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN171770 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN172618 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN171770 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN172618 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN171770 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN172618 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN171770 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN172618 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN171770 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.math.ScientificEquationSafe.export@POLYN172618 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

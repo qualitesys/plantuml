@@ -114,7 +114,7 @@ var maDataBlocs = {
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.PSegment@POLYN148373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.PSegment@POLYN149221 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -128,14 +128,14 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getDebugPosition@POLYN148915 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getDebugPosition@POLYN149763 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getDebugPosition@POLYN148915 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getDebugPosition@POLYN149763 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -149,14 +149,14 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getPosition@POLYN149141 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getPosition@POLYN149989 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/puma/PSegment.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getPosition@POLYN149141 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.puma.PSegment.getPosition@POLYN149989 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

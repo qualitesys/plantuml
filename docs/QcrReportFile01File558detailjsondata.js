@@ -238,7 +238,7 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.drawDebug@POLYN172225 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.drawDebug@POLYN173073 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -273,14 +273,14 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.collision@POLYN173555 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.collision@POLYN174403 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.collision@POLYN173555 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.collision@POLYN174403 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -301,14 +301,14 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.collision@POLYN173846 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.collision@POLYN174694 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.collision@POLYN173846 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.Context.collision@POLYN174694 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -343,35 +343,35 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN174278 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN175126 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN174278 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN175126 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN174278 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN175126 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN174278 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN175126 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CollisionDetector.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN174278 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector.collisionCheck@POLYN175126 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

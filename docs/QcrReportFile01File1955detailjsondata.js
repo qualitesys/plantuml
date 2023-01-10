@@ -234,7 +234,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.ArrowAndParticipant@POLYN162498 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.ArrowAndParticipant@POLYN163346 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -255,7 +255,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.getArrowOnlyWidth@POLYN163435 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.getArrowOnlyWidth@POLYN164283 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -311,21 +311,21 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.drawInternalU@POLYN164364 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.drawInternalU@POLYN165212 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.drawInternalU@POLYN164364 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.drawInternalU@POLYN165212 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.drawInternalU@POLYN164364 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.drawInternalU@POLYN165212 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -360,7 +360,7 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.getPreferredWidth@POLYN166701 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.getPreferredWidth@POLYN167549 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -374,7 +374,7 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndParticipant.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.getActualWidth@POLYN166947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant.getActualWidth@POLYN167795 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

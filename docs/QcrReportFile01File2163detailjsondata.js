@@ -112,14 +112,14 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.getPatternEnd@POLYN152641 the MagicNumber/String  '^[%s]*\\&amp;lt;/style\\&amp;gt;[%s]*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.getPatternEnd@POLYN153489 the MagicNumber/String  '^[%s]*\\&amp;lt;/style\\&amp;gt;[%s]*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.getRegexConcat@POLYN152734 the MagicNumber/String  '\\&amp;lt;style\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.getRegexConcat@POLYN153582 the MagicNumber/String  '\\&amp;lt;style\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -147,21 +147,21 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN153035 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN153883 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN153035 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN153883 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleMultilinesCSS.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN153035 the MagicNumber/String  'General failure: no style available.' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.style.CommandStyleMultilinesCSS.executeNow@POLYN153883 the MagicNumber/String  'General failure: no style available.' should be converted to const"
 }} 
 ]
 , 

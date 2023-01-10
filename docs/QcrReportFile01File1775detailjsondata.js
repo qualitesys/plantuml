@@ -223,7 +223,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.project.time.MonthYear.shortNameYYYY@POLYN153582 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.project.time.MonthYear.shortNameYYYY@POLYN154430 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -244,42 +244,42 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.time.MonthYear.longNameYYYY@POLYN153922 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.time.MonthYear.longNameYYYY@POLYN154770 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.time.MonthYear.next@POLYN154414 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.time.MonthYear.next@POLYN155262 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.time.MonthYear.internalNumber@POLYN154884 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.time.MonthYear.internalNumber@POLYN155732 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.project.time.MonthYear.toString@POLYN155050 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.project.time.MonthYear.toString@POLYN155898 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.project.time.MonthYear.toString@POLYN155050 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.project.time.MonthYear.toString@POLYN155898 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.project.time.MonthYear.hashCode@POLYN155220 the MagicNumber/String  113 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.project.time.MonthYear.hashCode@POLYN156068 the MagicNumber/String  113 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -293,14 +293,14 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.project.time.MonthYear.equals@POLYN155386 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.project.time.MonthYear.equals@POLYN156234 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/time/MonthYear.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.time.MonthYear.equals@POLYN155386 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.time.MonthYear.equals@POLYN156234 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

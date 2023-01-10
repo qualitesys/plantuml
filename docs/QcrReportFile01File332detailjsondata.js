@@ -208,7 +208,7 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00096] For method startRendering list of called methods Object monObjet|jcckit.graphic.ClippingShape composite_getClippingShapeN196677|jcckit.graphic.ClippingRectangle shape_getBoundingBoxN196825"
+ , "c3" : "QC-JAV000007[00096] For method startRendering list of called methods Object monObjet|jcckit.graphic.ClippingShape composite_getClippingShapeN197525|jcckit.graphic.ClippingRectangle shape_getBoundingBoxN197673"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -222,7 +222,7 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method jcckit.renderer.Graphics2DRenderer.startRendering@POLYN196584 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method jcckit.renderer.Graphics2DRenderer.startRendering@POLYN197432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -236,7 +236,7 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method jcckit.renderer.Graphics2DRenderer.finishRendering@POLYN197393 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method jcckit.renderer.Graphics2DRenderer.finishRendering@POLYN198241 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -250,7 +250,7 @@ var maDataBlocs = {
  , "c1" : "00116"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#116"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00116] For method render list of called methods Object monObjet|int polygon_getNumberOfPointsN197622"
+ , "c3" : "QC-JAV000007[00116] For method render list of called methods Object monObjet|int polygon_getNumberOfPointsN198470"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -264,28 +264,28 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method jcckit.renderer.Graphics2DRenderer.render@POLYN197529 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method jcckit.renderer.Graphics2DRenderer.render@POLYN198377 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method jcckit.renderer.Graphics2DRenderer.render@POLYN197529 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method jcckit.renderer.Graphics2DRenderer.render@POLYN198377 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method jcckit.renderer.Graphics2DRenderer.render@POLYN197529 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method jcckit.renderer.Graphics2DRenderer.render@POLYN198377 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method jcckit.renderer.Graphics2DRenderer.render@POLYN197529 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method jcckit.renderer.Graphics2DRenderer.render@POLYN198377 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -299,7 +299,7 @@ var maDataBlocs = {
  , "c1" : "00136"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00136] For method render list of called methods Object monObjet|jcckit.graphic.GraphPoint rectangle_getCenterN199083|double rectangle_getWidthN199158|double rectangle_getHeightN199233"
+ , "c3" : "QC-JAV000007[00136] For method render list of called methods Object monObjet|jcckit.graphic.GraphPoint rectangle_getCenterN199931|double rectangle_getWidthN200006|double rectangle_getHeightN200081"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -313,14 +313,14 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method jcckit.renderer.Graphics2DRenderer.render@POLYN198915 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method jcckit.renderer.Graphics2DRenderer.render@POLYN199763 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method jcckit.renderer.Graphics2DRenderer.render@POLYN198915 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method jcckit.renderer.Graphics2DRenderer.render@POLYN199763 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -334,7 +334,7 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00149] For method render list of called methods Object monObjet|jcckit.graphic.GraphPoint oval_getCenterN199923|double oval_getWidthN199998|double oval_getHeightN200073"
+ , "c3" : "QC-JAV000007[00149] For method render list of called methods Object monObjet|jcckit.graphic.GraphPoint oval_getCenterN200771|double oval_getWidthN200846|double oval_getHeightN200921"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -348,14 +348,14 @@ var maDataBlocs = {
  , "c1" : "00154"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method jcckit.renderer.Graphics2DRenderer.render@POLYN199755 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method jcckit.renderer.Graphics2DRenderer.render@POLYN200603 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method jcckit.renderer.Graphics2DRenderer.render@POLYN199755 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method jcckit.renderer.Graphics2DRenderer.render@POLYN200603 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -369,7 +369,7 @@ var maDataBlocs = {
  , "c1" : "00159"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00159] For method drawShape list of called methods Object monObjet|jcckit.graphic.GraphicAttributes element_getGraphicAttributesN200667|double[] la_getLinePatternN201574|java.awt.Color la_getLineColorN202604"
+ , "c3" : "QC-JAV000007[00159] For method drawShape list of called methods Object monObjet|jcckit.graphic.GraphicAttributes element_getGraphicAttributesN201515|double[] la_getLinePatternN202422|java.awt.Color la_getLineColorN203452"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -383,63 +383,63 @@ var maDataBlocs = {
  , "c1" : "00161"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  10f should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  10f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  0f should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -453,7 +453,7 @@ var maDataBlocs = {
  , "c1" : "00205"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#205"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00205] For method render list of called methods Object monObjet|jcckit.graphic.GraphicAttributes text_getGraphicAttributesN203428|java.awt.Color ta_getTextColorN203727|java.lang.String text_getTextN204108|double ta_getFontSizeN204348|java.awt.Font createFontN204591"
+ , "c3" : "QC-JAV000007[00205] For method render list of called methods Object monObjet|jcckit.graphic.GraphicAttributes text_getGraphicAttributesN204276|java.awt.Color ta_getTextColorN204575|java.lang.String text_getTextN204956|double ta_getFontSizeN205196|java.awt.Font createFontN205439"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -467,91 +467,91 @@ var maDataBlocs = {
  , "c1" : "00211"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  180 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  180 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  180 should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  180 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00243"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#249"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00249] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -565,7 +565,7 @@ var maDataBlocs = {
  , "c1" : "00287"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#287"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00287] For method createFont list of called methods Object monObjet|java.lang.String attributes_getFontNameN207757|jcckit.graphic.FontStyle attributes_getFontStyleN207962"
+ , "c3" : "QC-JAV000007[00287] For method createFont list of called methods Object monObjet|java.lang.String attributes_getFontNameN208605|jcckit.graphic.FontStyle attributes_getFontStyleN208810"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -579,189 +579,189 @@ var maDataBlocs = {
  , "c1" : "00289"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method jcckit.renderer.Graphics2DRenderer.createFont@POLYN207635 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method jcckit.renderer.Graphics2DRenderer.createFont@POLYN208483 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method jcckit.renderer.Graphics2DRenderer.createFont@POLYN207635 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method jcckit.renderer.Graphics2DRenderer.createFont@POLYN208483 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00306"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method jcckit.renderer.Graphics2DRenderer.createFont@POLYN207635 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method jcckit.renderer.Graphics2DRenderer.createFont@POLYN208483 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.render@POLYN203330"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.render@POLYN204178"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00211"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#211"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00211] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00211] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#223"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00223] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00223] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#223"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00223] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00223] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#225"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00225] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00225] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#229"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00229] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 180 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00229] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 180 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#234"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00234] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 180 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00234] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 180 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#241"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00241] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00241] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#242"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00242] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00242] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00243"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#243"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00243] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00243] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#244"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00244] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00244] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#245"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00245] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00245] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#249"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00249] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00249] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#250"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00250] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN203330 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00250] In the recursive method jcckit.renderer.Graphics2DRenderer.render@POLYN204178 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#161"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00161] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00161] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#165"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00165] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00165] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#174"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00174] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00174] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#176"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00176] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00176] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#179"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00179] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String 10f MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00179] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String 10f MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#180"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00180] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String 0f MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00180] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String 0f MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#183"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00183] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00183] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#183"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00183] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00183] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#187"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00187] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN200524 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00187] In the recursive method jcckit.renderer.Graphics2DRenderer.drawShape@POLYN201372 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

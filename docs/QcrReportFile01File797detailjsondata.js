@@ -135,7 +135,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.bpm.AbstractConnectorPuzzle.remove@POLYN148966 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.bpm.AbstractConnectorPuzzle.remove@POLYN149814 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

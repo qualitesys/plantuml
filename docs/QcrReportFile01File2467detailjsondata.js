@@ -103,14 +103,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.IntVal.getSignature@POLYN151050 the MagicNumber/String  '%intval' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.IntVal.getSignature@POLYN151898 the MagicNumber/String  '%intval' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.IntVal.getSignature@POLYN151050 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.IntVal.getSignature@POLYN151898 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.stdlib.IntVal.canCover@POLYN151200 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.stdlib.IntVal.canCover@POLYN152048 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -145,21 +145,21 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.IntVal.executeReturnFunction@POLYN151378 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.IntVal.executeReturnFunction@POLYN152226 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.stdlib.IntVal.executeReturnFunction@POLYN151378 the MagicNumber/String  'Cannot convert ' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.stdlib.IntVal.executeReturnFunction@POLYN152226 the MagicNumber/String  'Cannot convert ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.stdlib.IntVal.executeReturnFunction@POLYN151378 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.stdlib.IntVal.executeReturnFunction@POLYN152226 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

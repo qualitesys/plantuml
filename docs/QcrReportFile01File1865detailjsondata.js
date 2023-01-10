@@ -322,7 +322,7 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityProfile@POLYN211112 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityProfile@POLYN211960 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -336,21 +336,21 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN211335 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN212183 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN211335 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN212183 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN211335 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.security.SecurityUtils.ignoreThisLink@POLYN212183 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -371,35 +371,35 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN211608 the MagicNumber/String  '[^a-z]' should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN212456 the MagicNumber/String  '[^a-z]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN211608 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN212456 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN211608 the MagicNumber/String  'javascript' should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SecurityUtils.isJavascriptLink@POLYN212456 the MagicNumber/String  'javascript' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.security.SecurityUtils.allowJavascriptInLink@POLYN211847 the MagicNumber/String  'PLANTUML_ALLOW_JAVASCRIPT_IN_LINK' should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.security.SecurityUtils.allowJavascriptInLink@POLYN212695 the MagicNumber/String  'PLANTUML_ALLOW_JAVASCRIPT_IN_LINK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.security.SecurityUtils.allowJavascriptInLink@POLYN211847 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.security.SecurityUtils.allowJavascriptInLink@POLYN212695 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -420,14 +420,14 @@ var maDataBlocs = {
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.security.SecurityUtils.isSecurityEnv@POLYN212650 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.security.SecurityUtils.isSecurityEnv@POLYN213498 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.security.SecurityUtils.isSecurityEnv@POLYN212650 the MagicNumber/String  'plantuml.security.' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.security.SecurityUtils.isSecurityEnv@POLYN213498 the MagicNumber/String  'plantuml.security.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -462,35 +462,35 @@ var maDataBlocs = {
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN213180 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN214028 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN213180 the MagicNumber/String  'path.separator' should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN214028 the MagicNumber/String  'path.separator' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN213180 the MagicNumber/String  'Cannot access to ' should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN214028 the MagicNumber/String  'Cannot access to ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN213180 the MagicNumber/String  '. ' should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.security.SecurityUtils.getPath@POLYN214028 the MagicNumber/String  '. ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.security.SecurityUtils.allowSvgText@POLYN214534 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.security.SecurityUtils.allowSvgText@POLYN215382 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -560,35 +560,35 @@ var maDataBlocs = {
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215698 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN216546 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215698 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN216546 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215698 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN216546 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215698 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN216546 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN215698 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SecurityUtils.readRasterImage@POLYN216546 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -630,42 +630,42 @@ var maDataBlocs = {
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217027 the MagicNumber/String  'tokenauth' should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217875 the MagicNumber/String  'tokenauth' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217027 the MagicNumber/String  'basicauth' should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217875 the MagicNumber/String  'basicauth' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00306"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217027 the MagicNumber/String  'oauth2' should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217875 the MagicNumber/String  'oauth2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217027 the MagicNumber/String  'grantType' should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217875 the MagicNumber/String  'grantType' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00308"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217027 the MagicNumber/String  'client_credentials' should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217875 the MagicNumber/String  'client_credentials' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217027 the MagicNumber/String  'password' should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.security.SecurityUtils.getAuthenticationManager@POLYN217875 the MagicNumber/String  'password' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -679,35 +679,35 @@ var maDataBlocs = {
  , "c1" : "00324"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#324"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN218298 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN219146 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00326"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#326"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00326] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN218298 the MagicNumber/String  'public' should be converted to const"
+ , "c3" : "QC-JAV000010[00326] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN219146 the MagicNumber/String  'public' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00328"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#328"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00328] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN218298 the MagicNumber/String  'tokenauth' should be converted to const"
+ , "c3" : "QC-JAV000010[00328] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN219146 the MagicNumber/String  'tokenauth' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00330"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#330"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN218298 the MagicNumber/String  'basicauth' should be converted to const"
+ , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN219146 the MagicNumber/String  'basicauth' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00332"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN218298 the MagicNumber/String  'oauth2' should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.security.SecurityUtils.getAccessInterceptor@POLYN219146 the MagicNumber/String  'oauth2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -721,28 +721,28 @@ var maDataBlocs = {
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN219311 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN220159 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00352"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#352"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN219311 the MagicNumber/String  '.credential' should be converted to const"
+ , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN220159 the MagicNumber/String  '.credential' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00354"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#354"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN219311 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN220159 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00357"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#357"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN219311 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.security.SecurityUtils.existsSecurityCredentials@POLYN220159 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -756,21 +756,21 @@ var maDataBlocs = {
  , "c1" : "00367"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#367"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00367] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN220102 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00367] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN220950 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#369"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN220102 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN220950 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00373"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#373"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00373] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN220102 the MagicNumber/String  '.credential' should be converted to const"
+ , "c3" : "QC-JAV000010[00373] In method net.sourceforge.plantuml.security.SecurityUtils.loadSecurityCredentials@POLYN220950 the MagicNumber/String  '.credential' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -791,21 +791,21 @@ var maDataBlocs = {
  , "c1" : "00393"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#393"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.security.SecurityUtils.checkFileSystemSaveCharactersStrict@POLYN221235 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.security.SecurityUtils.checkFileSystemSaveCharactersStrict@POLYN222083 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00408"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#408"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityPath@POLYN221749 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityPath@POLYN222597 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00414"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#414"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityPath@POLYN221749 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.security.SecurityUtils.getSecurityPath@POLYN222597 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -826,7 +826,7 @@ var maDataBlocs = {
  , "c1" : "00425"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#425"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00425] In method net.sourceforge.plantuml.security.SecurityUtils.loadJson@POLYN222521 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00425] In method net.sourceforge.plantuml.security.SecurityUtils.loadJson@POLYN223369 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

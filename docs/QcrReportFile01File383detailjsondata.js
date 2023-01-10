@@ -312,105 +312,105 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165932 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166780 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165932 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166780 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165932 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166780 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165932 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166780 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165932 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166780 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165932 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166780 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165932 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166780 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN165932 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166780 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166327 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN167175 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166327 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN167175 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166327 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN167175 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166327 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN167175 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166327 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN167175 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166327 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN167175 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN166327 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.FileFormatOption.FileFormatOption@POLYN167175 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -424,7 +424,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.FileFormatOption.withUseRedForError@POLYN168232 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.FileFormatOption.withUseRedForError@POLYN169080 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -438,7 +438,7 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.FileFormatOption.withTikzFontDistortion@POLYN168578 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.FileFormatOption.withTikzFontDistortion@POLYN169426 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -487,7 +487,7 @@ var maDataBlocs = {
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.FileFormatOption.getAffineTransform@POLYN171367 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.FileFormatOption.getAffineTransform@POLYN172215 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -501,7 +501,7 @@ var maDataBlocs = {
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileFormatOption.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.FileFormatOption.hideMetadata@POLYN171910 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.FileFormatOption.hideMetadata@POLYN172758 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

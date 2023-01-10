@@ -216,7 +216,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.FileUtils.resetCounter@POLYN168296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.FileUtils.resetCounter@POLYN169144 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -237,35 +237,35 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN168444 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN169292 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN168444 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN169292 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN168444 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN169292 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN168444 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN169292 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN168444 the MagicNumber/String  'Creating temporary file: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.FileUtils.createTempFileLegacy@POLYN169292 the MagicNumber/String  'Creating temporary file: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -286,35 +286,35 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN169462 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN170310 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN169462 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN170310 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN169462 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN170310 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN169462 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN170310 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN169462 the MagicNumber/String  'Creating temporary file: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.FileUtils.createTempFile@POLYN170310 the MagicNumber/String  'Creating temporary file: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -349,21 +349,21 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.FileUtils.copyInternal@POLYN170472 the MagicNumber/String  10240 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.FileUtils.copyInternal@POLYN171320 the MagicNumber/String  10240 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.FileUtils.copyInternal@POLYN170472 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.FileUtils.copyInternal@POLYN171320 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.FileUtils.copyInternal@POLYN170472 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.FileUtils.copyInternal@POLYN171320 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -391,14 +391,14 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.FileUtils.copyToFile@POLYN171173 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.FileUtils.copyToFile@POLYN172021 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.FileUtils.copyToFile@POLYN171173 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.FileUtils.copyToFile@POLYN172021 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -419,14 +419,14 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.FileUtils.copyToStream@POLYN171860 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.FileUtils.copyToStream@POLYN172708 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.FileUtils.copyToStream@POLYN171860 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.FileUtils.copyToStream@POLYN172708 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -440,7 +440,7 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.FileUtils.copyToStream@POLYN172380 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.FileUtils.copyToStream@POLYN173228 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -454,7 +454,7 @@ var maDataBlocs = {
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.FileUtils.copyToStream@POLYN172828 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.FileUtils.copyToStream@POLYN173676 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -489,28 +489,28 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN173525 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN174373 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN173525 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN174373 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN173525 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN174373 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN173525 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN174373 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -524,14 +524,14 @@ var maDataBlocs = {
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN173920 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN174768 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN173920 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN174768 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -545,14 +545,14 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.FileUtils.readText@POLYN174260 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.FileUtils.readText@POLYN175108 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.FileUtils.readText@POLYN174260 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.FileUtils.readText@POLYN175108 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -573,28 +573,28 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.FileUtils.readFile@POLYN174600 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.FileUtils.readFile@POLYN175448 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.FileUtils.readFile@POLYN174600 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.FileUtils.readFile@POLYN175448 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.FileUtils.readFile@POLYN174600 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.FileUtils.readFile@POLYN175448 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.FileUtils.readFile@POLYN174600 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.FileUtils.readFile@POLYN175448 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -622,14 +622,14 @@ var maDataBlocs = {
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN174995 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN175843 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/FileUtils.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN174995 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.FileUtils.readSvg@POLYN175843 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

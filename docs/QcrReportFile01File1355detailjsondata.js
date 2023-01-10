@@ -110,14 +110,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.graphic.SimpleTextBlockBordered.calculateDimension@POLYN150214 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.graphic.SimpleTextBlockBordered.calculateDimension@POLYN151062 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.graphic.SimpleTextBlockBordered.calculateDimension@POLYN150214 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.graphic.SimpleTextBlockBordered.calculateDimension@POLYN151062 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -138,14 +138,14 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.graphic.SimpleTextBlockBordered.drawU@POLYN150500 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.graphic.SimpleTextBlockBordered.drawU@POLYN151348 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SimpleTextBlockBordered.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.graphic.SimpleTextBlockBordered.drawU@POLYN150500 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.graphic.SimpleTextBlockBordered.drawU@POLYN151348 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

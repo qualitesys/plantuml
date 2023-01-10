@@ -205,14 +205,14 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.FontMeasurer.FontMeasurer@POLYN158469 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.FontMeasurer.FontMeasurer@POLYN159317 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.FontMeasurer.FontMeasurer@POLYN158469 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.FontMeasurer.FontMeasurer@POLYN159317 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -226,7 +226,7 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#51"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00051] For method getWidthFor list of called methods Object monObjet|java.awt.Font getFontForN159112|int font_getStringBoundsN159198"
+ , "c3" : "QC-JAV000007[00051] For method getWidthFor list of called methods Object monObjet|java.awt.Font getFontForN159960|int font_getStringBoundsN160046"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -240,7 +240,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00057] For method getHeightFor list of called methods Object monObjet|java.awt.Font getFontForN159486|int font_getStringBoundsN159572"
+ , "c3" : "QC-JAV000007[00057] For method getHeightFor list of called methods Object monObjet|java.awt.Font getFontForN160334|int font_getStringBoundsN160420"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -254,7 +254,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#63"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00063] For method getWidthFor list of called methods Object monObjet|int font_getStringBoundsN159860"
+ , "c3" : "QC-JAV000007[00063] For method getWidthFor list of called methods Object monObjet|int font_getStringBoundsN160708"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -275,7 +275,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00068] For method getHeightFor list of called methods Object monObjet|int font_getStringBoundsN160148"
+ , "c3" : "QC-JAV000007[00068] For method getHeightFor list of called methods Object monObjet|int font_getStringBoundsN160996"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -324,7 +324,7 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN160782 the MagicNumber/String  'Z' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN161630 the MagicNumber/String  'Z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -338,14 +338,14 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00087] For method getFontFor list of called methods Object monObjet|int getWidthForN161425"
+ , "c3" : "QC-JAV000007[00087] For method getFontFor list of called methods Object monObjet|int getWidthForN162273"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method org.stathissideris.ascii2image.graphics.FontMeasurer.getFontFor@POLYN161032 the MagicNumber/String  1.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method org.stathissideris.ascii2image.graphics.FontMeasurer.getFontFor@POLYN161880 the MagicNumber/String  1.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -359,14 +359,14 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00106] For method getFontFor list of called methods Object monObjet|int getAscentN162031"
+ , "c3" : "QC-JAV000007[00106] For method getFontFor list of called methods Object monObjet|int getAscentN162879"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method org.stathissideris.ascii2image.graphics.FontMeasurer.getFontFor@POLYN161666 the MagicNumber/String  0.5f should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method org.stathissideris.ascii2image.graphics.FontMeasurer.getFontFor@POLYN162514 the MagicNumber/String  0.5f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -387,154 +387,154 @@ var maDataBlocs = {
  , "c1" : "00133"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String  1f should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String  1f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String  1f should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String  1f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getHeightFor@POLYN159364"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getHeightFor@POLYN160212"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN158990"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN159838"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getBoundsFor@POLYN160314"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getBoundsFor@POLYN161162"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getHeightFor@POLYN160026"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getHeightFor@POLYN160874"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN159738"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN160586"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN160782"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN161630"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#133"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00133] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String 1f MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00133] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String 1f MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#135"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00135] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00135] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#137"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00137] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String 1f MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00137] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String 1f MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#139"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00139] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00139] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#142"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00142] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00142] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#145"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00145] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00145] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#160"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00160] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN162250 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00160] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN163098 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/FontMeasurer.java.html#84"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00084] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN160782 the MagicNumber/String 'Z' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00084] In the recursive method org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN161630 the MagicNumber/String 'Z' MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -242,14 +242,14 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method jcckit.data.DataContainer.notifyListeners@POLYN174037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method jcckit.data.DataContainer.notifyListeners@POLYN174885 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method jcckit.data.DataContainer.notifyListeners@POLYN174037 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method jcckit.data.DataContainer.notifyListeners@POLYN174885 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -305,7 +305,7 @@ var maDataBlocs = {
  , "c1" : "00144"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method jcckit.data.DataContainer.removeElementAt@POLYN177224 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method jcckit.data.DataContainer.removeElementAt@POLYN178072 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -326,7 +326,7 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method jcckit.data.DataContainer.replaceElementAt@POLYN178038 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method jcckit.data.DataContainer.replaceElementAt@POLYN178886 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -347,56 +347,56 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.addElement@POLYN175565"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.addElement@POLYN176413"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.notifyListeners@POLYN174037"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.notifyListeners@POLYN174885"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.insertElementAt@POLYN176438"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.insertElementAt@POLYN177286"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.removeElementAt@POLYN177224"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.removeElementAt@POLYN178072"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.getElement@POLYN174914"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.getElement@POLYN175762"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#67"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00067] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN174037 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00067] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN174885 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#73"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00073] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN174037 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00073] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN174885 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#144"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00144] In the recursive method jcckit.data.DataContainer.removeElementAt@POLYN177224 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00144] In the recursive method jcckit.data.DataContainer.removeElementAt@POLYN178072 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

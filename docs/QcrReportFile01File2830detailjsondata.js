@@ -94,7 +94,7 @@ var maDataBlocs = {
  , "c1" : "00039"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ImageHandler.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method org.stathissideris.ascii2image.graphics.ImageHandler.loadImage@POLYN142095 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method org.stathissideris.ascii2image.graphics.ImageHandler.loadImage@POLYN142943 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -138,42 +138,42 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN153532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN154380 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN153532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN154380 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN153532 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN154380 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN153532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN154380 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN153532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN154380 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN153532 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.drawU@POLYN154380 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -194,21 +194,21 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN154574 the MagicNumber/String  180.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN155422 the MagicNumber/String  180.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN154574 the MagicNumber/String  'pt1=' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN155422 the MagicNumber/String  'pt1=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/ConnectedCircle.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN154574 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.image.ConnectedCircle.addSecondaryConnection@POLYN155422 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
 , 

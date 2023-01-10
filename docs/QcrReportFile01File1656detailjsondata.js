@@ -145,7 +145,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/PlanUtils.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.PlanUtils.multiply@POLYN148347 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.PlanUtils.multiply@POLYN149195 the MagicNumber/String  100 should be converted to const"
 }} 
 ]
 , 

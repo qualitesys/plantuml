@@ -168,28 +168,28 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUsedStyles@POLYN154694 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUsedStyles@POLYN155542 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUsedStyles@POLYN154694 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUsedStyles@POLYN155542 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUsedStyles@POLYN154694 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUsedStyles@POLYN155542 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUsedStyles@POLYN154694 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUsedStyles@POLYN155542 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -203,21 +203,21 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getLevel@POLYN155431 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getLevel@POLYN156279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getLevel@POLYN155431 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getLevel@POLYN156279 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getLevel@POLYN155431 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getLevel@POLYN156279 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -231,35 +231,35 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.dealWith@POLYN155772 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.dealWith@POLYN156620 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUrl@POLYN155882 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.getUrl@POLYN156730 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.hasUrl@POLYN155970 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.hasUrl@POLYN156818 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.isParallel@POLYN156072 the MagicNumber/String  'par2' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.isParallel@POLYN156920 the MagicNumber/String  'par2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.goParallel@POLYN156225 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.GroupingStart.goParallel@POLYN157073 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 
