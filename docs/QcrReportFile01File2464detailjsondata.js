@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00057"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Getenv.java.html#57"
  , "c1" : "boolean"
- , "c2" : "canCover(int;Set<String>)"
+ , "c2" : "canCover(int;Set&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/Getenv.java.html#61"
  , "c1" : "TValue"
- , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
+ , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List&lt;TValue&gt;;Map&lt;String,TValue&gt;)"
  , "c3" : "3"
  , "c4" : "5"
 }} 

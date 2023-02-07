@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00063"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithDiamonds.java.html#63"
- , "c1" : "Collection<Ftile>"
+ , "c1" : "Collection&lt;Ftile&gt;"
  , "c2" : "getMyChildren()"
  , "c3" : "1"
  , "c4" : "1"

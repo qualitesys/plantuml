@@ -219,7 +219,7 @@ var maDataBlocs = {
  , "c5" : "00647"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#647"
  , "c1" : "void"
- , "c2" : "drawU(UGraphic;Set<String>;UStroke;Rainbow)"
+ , "c2" : "drawU(UGraphic;Set&lt;String&gt;;UStroke;Rainbow)"
  , "c3" : "28"
  , "c4" : "67"
 }} 
@@ -236,7 +236,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00804"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#804"
- , "c1" : "List<XPoint2D>"
+ , "c1" : "List&lt;XPoint2D&gt;"
  , "c2" : "getSquare(double;double)"
  , "c3" : "1"
  , "c4" : "10"
@@ -246,7 +246,7 @@ var maDataBlocs = {
  , "c5" : "00817"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#817"
  , "c1" : "String"
- , "c2" : "uniq(Set<String>;String)"
+ , "c2" : "uniq(Set&lt;String&gt;;String)"
  , "c3" : "4"
  , "c4" : "7"
 }} 
@@ -255,7 +255,7 @@ var maDataBlocs = {
  , "c5" : "00833"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#833"
  , "c1" : "void"
- , "c2" : "drawRainbow(UGraphic;HColor;HColor;DotPath;List<Colors>;UStroke)"
+ , "c2" : "drawRainbow(UGraphic;HColor;HColor;DotPath;List&lt;Colors&gt;;UStroke)"
  , "c3" : "14"
  , "c4" : "17"
 }} 
@@ -309,7 +309,7 @@ var maDataBlocs = {
  , "c5" : "00930"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#930"
  , "c1" : "void"
- , "c2" : "manageCollision(Collection<SvekNode>)"
+ , "c2" : "manageCollision(Collection&lt;SvekNode&gt;)"
  , "c3" : "4"
  , "c4" : "3"
 }} 

@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00062"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#62"
  , "c1" : "AbstractUGraphic"
- , "c2" : "AbstractUGraphic(AbstractUGraphic<O>)"
+ , "c2" : "AbstractUGraphic(AbstractUGraphic&lt;O&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

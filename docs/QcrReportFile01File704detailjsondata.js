@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/Animation.java.html#50"
  , "c1" : "Animation"
- , "c2" : "Animation(List<AffineTransformation>)"
+ , "c2" : "Animation(List&lt;AffineTransformation&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00064"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/Animation.java.html#64"
  , "c1" : "Animation"
- , "c2" : "create(List<String>)"
+ , "c2" : "create(List&lt;String&gt;)"
  , "c3" : "3"
  , "c4" : "4"
 }} 
@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00075"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/Animation.java.html#75"
- , "c1" : "Collection<AffineTransformation>"
+ , "c1" : "Collection&lt;AffineTransformation&gt;"
  , "c2" : "getAll()"
  , "c3" : "1"
  , "c4" : "1"

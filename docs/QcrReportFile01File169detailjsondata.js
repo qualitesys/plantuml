@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00092"
  , "c5link" : "././qc/src/gen/lib/pathplan/shortest__c.java.html#92"
  , "c1" : "int"
- , "c2" : "Pshortestpath(ST_Ppoly_t;CArray<ST_pointf>;ST_Ppoly_t)"
+ , "c2" : "Pshortestpath(ST_Ppoly_t;CArray&lt;ST_pointf&gt;;ST_Ppoly_t)"
  , "c3" : "39"
  , "c4" : "114"
 }} 

@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c5" : "00211"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#211"
  , "c1" : "int"
- , "c2" : "addDotStatus(List<String>;boolean)"
+ , "c2" : "addDotStatus(List&lt;String&gt;;boolean)"
  , "c3" : "16"
  , "c4" : "38"
 }} 

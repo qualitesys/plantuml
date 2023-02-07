@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00075"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#75"
- , "c1" : "List<Colors>"
+ , "c1" : "List&lt;Colors&gt;"
  , "c2" : "getSupplementaryColors()"
  , "c3" : "1"
  , "c4" : "1"

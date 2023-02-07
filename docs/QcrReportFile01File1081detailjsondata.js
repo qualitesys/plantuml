@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#54"
  , "c1" : "Bodier"
- , "c2" : "createLeaf(LeafType;Set<VisibilityModifier>)"
+ , "c2" : "createLeaf(LeafType;Set&lt;VisibilityModifier&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#61"
  , "c1" : "Bodier"
- , "c2" : "createGroup(Set<VisibilityModifier>)"
+ , "c2" : "createGroup(Set&lt;VisibilityModifier&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#65"
  , "c1" : "TextBlock"
- , "c2" : "create1(HorizontalAlignment;List<CharSequence>;ISkinParam;Stereotype;ILeaf;Style)"
+ , "c2" : "create1(HorizontalAlignment;List&lt;CharSequence&gt;;ISkinParam;Stereotype;ILeaf;Style)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

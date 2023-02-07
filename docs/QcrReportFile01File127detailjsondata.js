@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00108"
  , "c5link" : "././qc/src/gen/lib/common/emit__c.java.html#108"
  , "c1" : "boolean"
- , "c2" : "check_control_points(CArray<ST_pointf>)"
+ , "c2" : "check_control_points(CArray&lt;ST_pointf&gt;)"
  , "c3" : "3"
  , "c4" : "6"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00130"
  , "c5link" : "././qc/src/gen/lib/common/emit__c.java.html#130"
  , "c1" : "void"
- , "c2" : "update_bb_bz(ST_boxf;CArray<ST_pointf>)"
+ , "c2" : "update_bb_bz(ST_boxf;CArray&lt;ST_pointf&gt;)"
  , "c3" : "11"
  , "c4" : "14"
 }} 

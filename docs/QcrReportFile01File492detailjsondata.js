@@ -128,7 +128,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00227"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionIf.java.html#227"
- , "c1" : "Set<Swimlane>"
+ , "c1" : "Set&lt;Swimlane&gt;"
  , "c2" : "getSwimlanes()"
  , "c3" : "4"
  , "c4" : "5"

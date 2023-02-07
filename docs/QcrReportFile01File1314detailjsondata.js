@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00051"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitTextArea.java.html#51"
- , "c1" : "List<Commit>"
+ , "c1" : "List&lt;Commit&gt;"
  , "c2" : "getAllCommits()"
  , "c3" : "4"
  , "c4" : "9"

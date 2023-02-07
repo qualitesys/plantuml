@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00053"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#53"
  , "c1" : "JsonValue"
- , "c2" : "parse(List<String>)"
+ , "c2" : "parse(List&lt;String&gt;)"
  , "c3" : "2"
  , "c4" : "6"
 }} 

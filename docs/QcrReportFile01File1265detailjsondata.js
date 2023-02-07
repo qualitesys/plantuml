@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00030"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#30"
- , "c1" : "Collection<ElkLabel>"
+ , "c1" : "Collection&lt;ElkLabel&gt;"
  , "c2" : "getLabels()"
  , "c3" : "2"
  , "c4" : "4"

@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00070"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#70"
- , "c1" : "Collection<String>"
+ , "c1" : "Collection&lt;String&gt;"
  , "c2" : "getStyleNames()"
  , "c3" : "1"
  , "c4" : "1"

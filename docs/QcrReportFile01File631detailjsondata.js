@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00067"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderMerge.java.html#67"
  , "c1" : "ParallelBuilderMerge"
- , "c2" : "ParallelBuilderMerge(ISkinParam;StringBounder;List<Ftile>)"
+ , "c2" : "ParallelBuilderMerge(ISkinParam;StringBounder;List&lt;Ftile&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

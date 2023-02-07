@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00108"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#108"
  , "c1" : "void"
- , "c2" : "complex(Random;List<XPoint2D>;double;XPoint2D;XPoint2D;XPoint2D;XPoint2D)"
+ , "c2" : "complex(Random;List&lt;XPoint2D&gt;;double;XPoint2D;XPoint2D;XPoint2D;XPoint2D)"
  , "c3" : "1"
  , "c4" : "9"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00121"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#121"
  , "c1" : "void"
- , "c2" : "simple(Random;List<XPoint2D>;double;XPoint2D;XPoint2D;XPoint2D;XPoint2D)"
+ , "c2" : "simple(Random;List&lt;XPoint2D&gt;;double;XPoint2D;XPoint2D;XPoint2D;XPoint2D)"
  , "c3" : "1"
  , "c4" : "4"
 }} 
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00137"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#137"
  , "c1" : "void"
- , "c2" : "specialLine(double;Random;List<XPoint2D>;XPoint2D;XPoint2D)"
+ , "c2" : "specialLine(double;Random;List&lt;XPoint2D&gt;;XPoint2D;XPoint2D)"
  , "c3" : "3"
  , "c4" : "7"
 }} 
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00151"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#151"
  , "c1" : "void"
- , "c2" : "bubbleLine(Random;List<XPoint2D>;XPoint2D;XPoint2D;double)"
+ , "c2" : "bubbleLine(Random;List&lt;XPoint2D&gt;;XPoint2D;XPoint2D;double)"
  , "c3" : "3"
  , "c4" : "8"
 }} 

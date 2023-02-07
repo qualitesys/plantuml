@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommandDecoratorMultine.java.html#50"
  , "c1" : "CommandDecoratorMultine"
- , "c2" : "CommandDecoratorMultine(SingleLineCommand2<D>;boolean;int)"
+ , "c2" : "CommandDecoratorMultine(SingleLineCommand2&lt;D&gt;;boolean;int)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

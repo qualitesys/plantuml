@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#49"
  , "c1" : "RealMax"
- , "c2" : "RealMax(Collection<Real>)"
+ , "c2" : "RealMax(Collection&lt;Real&gt;)"
  , "c3" : "1"
  , "c4" : "4"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMax.java.html#56"
  , "c1" : "RealLine"
- , "c2" : "line(Collection<Real>)"
+ , "c2" : "line(Collection&lt;Real&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

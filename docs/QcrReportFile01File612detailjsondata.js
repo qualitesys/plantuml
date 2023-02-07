@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00067"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorIf.java.html#67"
  , "c1" : "Ftile"
- , "c2" : "createIf(Swimlane;List<Branch>;Branch;LinkRendering;LinkRendering;Url)"
+ , "c2" : "createIf(Swimlane;List&lt;Branch&gt;;Branch;LinkRendering;LinkRendering;Url)"
  , "c3" : "3"
  , "c4" : "13"
 }} 

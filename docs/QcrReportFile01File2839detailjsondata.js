@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 903 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 898 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.xml" 
  , "fic3"  : "" 
 }
@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00091"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#91"
  , "c1" : "void"
- , "c2" : "addToMarkupTags(Collection<String>)"
+ , "c2" : "addToMarkupTags(Collection&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -398,7 +398,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00471"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#471"
- , "c1" : "ArrayList<CellStringPair>"
+ , "c1" : "ArrayList&lt;CellStringPair&gt;"
  , "c2" : "findStrings()"
  , "c3" : "6"
  , "c4" : "17"
@@ -470,7 +470,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00621"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#621"
- , "c1" : "ArrayList<CellColorPair>"
+ , "c1" : "ArrayList&lt;CellColorPair&gt;"
  , "c2" : "findColorCodes()"
  , "c3" : "5"
  , "c4" : "20"
@@ -479,7 +479,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00646"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#646"
- , "c1" : "ArrayList<CellTagPair>"
+ , "c1" : "ArrayList&lt;CellTagPair&gt;"
  , "c2" : "findMarkupTags()"
  , "c3" : "7"
  , "c4" : "16"
@@ -1389,7 +1389,7 @@ var maDataBlocs = {
  , "c5" : "01507"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1507"
  , "c1" : "boolean"
- , "c2" : "initialiseWithLines(ArrayList<StringBuffer>;ProcessingOptions)"
+ , "c2" : "initialiseWithLines(ArrayList&lt;StringBuffer&gt;;ProcessingOptions)"
  , "c3" : "11"
  , "c4" : "35"
 }} 
@@ -1406,7 +1406,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "01614"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1614"
- , "c1" : "ArrayList<StringBuffer>"
+ , "c1" : "ArrayList&lt;StringBuffer&gt;"
  , "c2" : "getRows()"
  , "c3" : "1"
  , "c4" : "1"
@@ -1485,7 +1485,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "21"
+ , "c4" : "16"
 }}
 ,
 { "ligne" : { "" : ""
@@ -7374,13 +7374,6 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.matchesAny@POLYN499711"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN527977"
 }} 
 ,
@@ -7396,34 +7389,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.clear@POLYN433522"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getEastOf@POLYN438412"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getNorthOf@POLYN438058"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getSouthOf@POLYN438235"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getWestOf@POLYN438589"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ArrowAndNoteBox.java.html#52"
  , "c1" : "ArrowAndNoteBox"
- , "c2" : "ArrowAndNoteBox(StringBounder;Arrow;List<NoteBox>)"
+ , "c2" : "ArrowAndNoteBox(StringBounder;Arrow;List&lt;NoteBox&gt;)"
  , "c3" : "4"
  , "c4" : "10"
 }} 

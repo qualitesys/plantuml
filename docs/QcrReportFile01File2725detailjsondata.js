@@ -65,7 +65,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.html#54"
- , "c1" : "List<StringLocated>"
+ , "c1" : "List&lt;StringLocated&gt;"
  , "c2" : "getTrace()"
  , "c3" : "1"
  , "c4" : "1"

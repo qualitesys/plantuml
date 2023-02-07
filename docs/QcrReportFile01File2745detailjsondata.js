@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00062"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#62"
  , "c1" : "ITFComposed"
- , "c2" : "ITFComposed(ISkinParam;WElement;List<ITF>;List<ITF>)"
+ , "c2" : "ITFComposed(ISkinParam;WElement;List&lt;ITF&gt;;List&lt;ITF&gt;)"
  , "c3" : "1"
  , "c4" : "6"
 }} 
@@ -102,7 +102,7 @@ var maDataBlocs = {
  , "c5" : "00160"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#160"
  , "c1" : "double"
- , "c2" : "getCollWidth(StringBounder;Collection<?extendsTextBlock>)"
+ , "c2" : "getCollWidth(StringBounder;Collection&lt;?extendsTextBlock&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c5" : "00168"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#168"
  , "c1" : "double"
- , "c2" : "getCollHeight(StringBounder;Collection<?extendsTextBlock>;double)"
+ , "c2" : "getCollHeight(StringBounder;Collection&lt;?extendsTextBlock&gt;;double)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

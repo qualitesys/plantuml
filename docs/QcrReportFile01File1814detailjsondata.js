@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#50"
  , "c1" : "ElementImage"
- , "c2" : "ElementImage(List<String>)"
+ , "c2" : "ElementImage(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

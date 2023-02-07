@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.html#49"
  , "c1" : "SourceFileReaderHardFile"
- , "c2" : "SourceFileReaderHardFile(Defines;File;File;List<String>;String;FileFormatOption)"
+ , "c2" : "SourceFileReaderHardFile(Defines;File;File;List&lt;String&gt;;String;FileFormatOption)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

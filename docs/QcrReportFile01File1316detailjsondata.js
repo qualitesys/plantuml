@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00099"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#99"
  , "c1" : "void"
- , "c2" : "drawMe(Collection<GNode>)"
+ , "c2" : "drawMe(Collection&lt;GNode&gt;)"
  , "c3" : "3"
  , "c4" : "7"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00132"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#132"
  , "c1" : "void"
- , "c2" : "initGraph(Collection<GNode>)"
+ , "c2" : "initGraph(Collection&lt;GNode&gt;)"
  , "c3" : "7"
  , "c4" : "17"
 }} 

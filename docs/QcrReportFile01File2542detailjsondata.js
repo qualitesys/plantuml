@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00081"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#81"
  , "c1" : "Ribbon"
- , "c2" : "Ribbon(TimingRuler;ISkinParam;List<TimingNote>;boolean;TextBlock;int;Style)"
+ , "c2" : "Ribbon(TimingRuler;ISkinParam;List&lt;TimingNote&gt;;boolean;TextBlock;int;Style)"
  , "c3" : "1"
  , "c4" : "7"
 }} 

@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00069"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockSimple.java.html#69"
- , "c1" : "List<Line>"
+ , "c1" : "List&lt;Line&gt;"
  , "c2" : "getLines(StringBounder)"
  , "c3" : "6"
  , "c4" : "5"

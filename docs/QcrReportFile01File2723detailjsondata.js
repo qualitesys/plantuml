@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00005"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/utils/ObjectUtils.java.html#5"
  , "c1" : "boolean"
- , "c2" : "instanceOfAny(Object;Class<?>...)"
+ , "c2" : "instanceOfAny(Object;Class&lt;?&gt;...)"
  , "c3" : "3"
  , "c4" : "2"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder4096.java.html#48"
  , "c1" : "Sprite"
- , "c2" : "buildSprite(List<String>)"
+ , "c2" : "buildSprite(List&lt;String&gt;)"
  , "c3" : "4"
  , "c4" : "10"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00063"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder4096.java.html#63"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "encodeColor(BufferedImage)"
  , "c3" : "3"
  , "c4" : "13"

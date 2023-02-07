@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00087"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/debug/UGraphicDebug.java.html#87"
  , "c1" : "UGraphicDebug"
- , "c2" : "UGraphicDebug(UGraphicDebug;List<String>;double;XDimension2D;String;String;long;String)"
+ , "c2" : "UGraphicDebug(UGraphicDebug;List&lt;String&gt;;double;XDimension2D;String;String;long;String)"
  , "c3" : "1"
  , "c4" : "8"
 }} 

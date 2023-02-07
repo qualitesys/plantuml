@@ -65,8 +65,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00133"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#133"
- , "c1" : "List<String>"
- , "c2" : "skip(List<String>)"
+ , "c1" : "List&lt;String&gt;"
+ , "c2" : "skip(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00137"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#137"
  , "c1" : "JComponent"
- , "c2" : "getJComponent(List<String>)"
+ , "c2" : "getJComponent(List&lt;String&gt;)"
  , "c3" : "2"
  , "c4" : "10"
 }} 

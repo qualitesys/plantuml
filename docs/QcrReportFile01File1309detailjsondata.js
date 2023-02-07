@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00083"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#83"
- , "c1" : "Collection<GNode>"
+ , "c1" : "Collection&lt;GNode&gt;"
  , "c2" : "getDowns()"
  , "c3" : "1"
  , "c4" : "1"

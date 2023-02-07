@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00068"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#68"
  , "c1" : "XPoint2D"
- , "c2" : "getMinXY(List<XPoint2D>)"
+ , "c2" : "getMinXY(List&lt;XPoint2D&gt;)"
  , "c3" : "4"
  , "c4" : "7"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00080"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#80"
  , "c1" : "XPoint2D"
- , "c2" : "getMaxXY(List<XPoint2D>)"
+ , "c2" : "getMaxXY(List&lt;XPoint2D&gt;)"
  , "c3" : "4"
  , "c4" : "7"
 }} 

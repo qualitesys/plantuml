@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00070"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#70"
  , "c1" : "TextBlockBackcolored"
- , "c2" : "getGraphicStrings(List<String>)"
+ , "c2" : "getGraphicStrings(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

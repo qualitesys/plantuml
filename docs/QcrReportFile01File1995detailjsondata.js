@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Pushable.java.html#50"
- , "c1" : "Collection<Segment>"
+ , "c1" : "Collection&lt;Segment&gt;"
  , "c2" : "getDelays(StringBounder)"
  , "c3" : "1"
  , "c4" : "1"

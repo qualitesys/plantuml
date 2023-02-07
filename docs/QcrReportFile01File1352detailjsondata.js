@@ -110,7 +110,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00129"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/Rainbow.java.html#129"
- , "c1" : "List<HtmlColorAndStyle>"
+ , "c1" : "List&lt;HtmlColorAndStyle&gt;"
  , "c2" : "getColors()"
  , "c3" : "1"
  , "c4" : "1"

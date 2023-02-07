@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00057"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#57"
  , "c1" : "Real"
- , "c2" : "max(Collection<Real>)"
+ , "c2" : "max(Collection&lt;Real&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#65"
  , "c1" : "Real"
- , "c2" : "min(Collection<Real>)"
+ , "c2" : "min(Collection&lt;Real&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

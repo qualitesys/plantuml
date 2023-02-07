@@ -102,7 +102,7 @@ var maDataBlocs = {
  , "c5" : "00084"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#84"
  , "c1" : "void"
- , "c2" : "copyAllFrom(Map<String,String>)"
+ , "c2" : "copyAllFrom(Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -110,7 +110,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00088"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#88"
- , "c1" : "Map<String,String>"
+ , "c1" : "Map&lt;String,String&gt;"
  , "c2" : "values()"
  , "c3" : "1"
  , "c4" : "1"

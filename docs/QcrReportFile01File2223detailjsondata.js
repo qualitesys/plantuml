@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#49"
  , "c1" : "FrontierCalculator"
- , "c2" : "FrontierCalculator(ClusterPosition;Collection<ClusterPosition>;Collection<XPoint2D>)"
+ , "c2" : "FrontierCalculator(ClusterPosition;Collection&lt;ClusterPosition&gt;;Collection&lt;XPoint2D&gt;)"
  , "c3" : "29"
  , "c4" : "32"
 }} 

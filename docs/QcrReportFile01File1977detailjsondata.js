@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00113"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#113"
  , "c1" : "void"
- , "c2" : "addNotes(StringBounder;Collection<Component>)"
+ , "c2" : "addNotes(StringBounder;Collection&lt;Component&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/VerticalLine.java.html#50"
  , "c1" : "VerticalLine"
- , "c2" : "VerticalLine(double;double;Set<Double>)"
+ , "c2" : "VerticalLine(double;double;Set&lt;Double&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

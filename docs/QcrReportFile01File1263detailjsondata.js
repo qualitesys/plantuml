@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00044"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#44"
- , "c1" : "Collection<ElkBendPoint>"
+ , "c1" : "Collection&lt;ElkBendPoint&gt;"
  , "c2" : "getBendPoints()"
  , "c3" : "2"
  , "c4" : "4"

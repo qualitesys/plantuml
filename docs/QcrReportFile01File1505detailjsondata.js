@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagramFactory.java.html#56"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "9"
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagramFactory.java.html#72"
  , "c1" : "MindMapDiagram"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

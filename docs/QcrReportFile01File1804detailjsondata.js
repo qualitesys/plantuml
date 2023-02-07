@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#56"
  , "c1" : "void"
- , "c2" : "add(Terminated<Element>)"
+ , "c2" : "add(Terminated&lt;Element&gt;)"
  , "c3" : "3"
  , "c4" : "4"
 }} 
@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00101"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#101"
- , "c1" : "Map<Element,Cell>"
+ , "c1" : "Map&lt;Element,Cell&gt;"
  , "c2" : "getAll()"
  , "c3" : "1"
  , "c4" : "1"

@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00073"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReader.java.html#73"
  , "c1" : "SourceFileReader"
- , "c2" : "SourceFileReader(Defines;File;File;List<String>;String;FileFormatOption)"
+ , "c2" : "SourceFileReader(Defines;File;File;List&lt;String&gt;;String;FileFormatOption)"
  , "c3" : "5"
  , "c4" : "6"
 }} 

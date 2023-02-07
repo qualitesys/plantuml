@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00001"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1"
- , "c1" : "List<Token>"
+ , "c1" : "List&lt;Token&gt;"
  , "c2" : "tokenize(String)"
  , "c3" : "25"
  , "c4" : "39"

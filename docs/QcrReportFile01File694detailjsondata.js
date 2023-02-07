@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00128"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileTopDown3.java.html#128"
- , "c1" : "Set<Swimlane>"
+ , "c1" : "Set&lt;Swimlane&gt;"
  , "c2" : "getSwimlanes()"
  , "c3" : "1"
  , "c4" : "5"

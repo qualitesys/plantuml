@@ -146,8 +146,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00188"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#188"
- , "c1" : "Set<File>"
- , "c2" : "convert(Set<FileWithSuffix>)"
+ , "c1" : "Set&lt;File&gt;"
+ , "c2" : "convert(Set&lt;FileWithSuffix&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

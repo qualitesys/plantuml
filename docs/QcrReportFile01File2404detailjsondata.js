@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#72"
- , "c1" : "Map<TFunctionSignature,TFunction>"
+ , "c1" : "Map&lt;TFunctionSignature,TFunction&gt;"
  , "c2" : "functions()"
  , "c3" : "1"
  , "c4" : "1"

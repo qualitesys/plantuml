@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00064"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/AbstractConnectorPuzzle.java.html#64"
- , "c1" : "Set<Where>"
+ , "c1" : "Set&lt;Where&gt;"
  , "c2" : "connections()"
  , "c3" : "1"
  , "c4" : "1"

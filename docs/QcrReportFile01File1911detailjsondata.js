@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00089"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Participant.java.html#89"
  , "c1" : "Participant"
- , "c2" : "Participant(ParticipantType;String;Display;Set<EntityPortion>;int;StyleBuilder)"
+ , "c2" : "Participant(ParticipantType;String;Display;Set&lt;EntityPortion&gt;;int;StyleBuilder)"
  , "c3" : "3"
  , "c4" : "8"
 }} 

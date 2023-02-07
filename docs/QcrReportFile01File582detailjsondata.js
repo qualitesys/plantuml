@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00046"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileUtils.java.html#46"
  , "c1" : "Ftile"
- , "c2" : "addConnection(Ftile;Collection<Connection>)"
+ , "c2" : "addConnection(Ftile;Collection&lt;Connection&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 

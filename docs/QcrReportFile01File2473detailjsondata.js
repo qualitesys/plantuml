@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00105"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#105"
  , "c1" : "boolean"
- , "c2" : "canCover(int;Set<String>)"
+ , "c2" : "canCover(int;Set&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00109"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#109"
  , "c1" : "TValue"
- , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
+ , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List&lt;TValue&gt;;Map&lt;String,TValue&gt;)"
  , "c3" : "2"
  , "c4" : "9"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00134"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#134"
  , "c1" : "String"
- , "c2" : "getDefaultJson(List<TValue>)"
+ , "c2" : "getDefaultJson(List&lt;TValue&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00147"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#147"
  , "c1" : "String"
- , "c2" : "getCharset(List<TValue>)"
+ , "c2" : "getCharset(List&lt;TValue&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 

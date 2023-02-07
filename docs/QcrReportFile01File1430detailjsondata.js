@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#56"
  , "c1" : "HclParser"
- , "c2" : "HclParser(Iterable<Character>)"
+ , "c2" : "HclParser(Iterable&lt;Character&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -38,8 +38,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00076"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#76"
- , "c1" : "Map<String,JsonObject>"
- , "c2" : "getModuleOrSomething(Iterator<HclTerm>)"
+ , "c1" : "Map&lt;String,JsonObject&gt;"
+ , "c2" : "getModuleOrSomething(Iterator&lt;HclTerm&gt;)"
  , "c3" : "8"
  , "c4" : "6"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00091"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#91"
  , "c1" : "JsonValue"
- , "c2" : "getFunctionData(String;Iterator<HclTerm>)"
+ , "c2" : "getFunctionData(String;Iterator&lt;HclTerm&gt;)"
  , "c3" : "14"
  , "c4" : "13"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00122"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#122"
  , "c1" : "JsonObject"
- , "c2" : "getBracketData(Iterator<HclTerm>)"
+ , "c2" : "getBracketData(Iterator&lt;HclTerm&gt;)"
  , "c3" : "14"
  , "c4" : "13"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00150"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#150"
  , "c1" : "Object"
- , "c2" : "getValue(Iterator<HclTerm>)"
+ , "c2" : "getValue(Iterator&lt;HclTerm&gt;)"
  , "c3" : "7"
  , "c4" : "8"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00167"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#167"
  , "c1" : "Object"
- , "c2" : "getArray(Iterator<HclTerm>)"
+ , "c2" : "getArray(Iterator&lt;HclTerm&gt;)"
  , "c3" : "6"
  , "c4" : "6"
 }} 
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00187"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#187"
  , "c1" : "void"
- , "c2" : "parse(Iterator<Character>)"
+ , "c2" : "parse(Iterator&lt;Character&gt;)"
  , "c3" : "9"
  , "c4" : "15"
 }} 
@@ -102,7 +102,7 @@ var maDataBlocs = {
  , "c5" : "00218"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#218"
  , "c1" : "String"
- , "c2" : "eatUntilDoubleQuote(Iterator<Character>)"
+ , "c2" : "eatUntilDoubleQuote(Iterator&lt;Character&gt;)"
  , "c3" : "4"
  , "c4" : "7"
 }} 

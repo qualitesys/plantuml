@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#48"
  , "c1" : "SourceFileReaderCopyCat"
- , "c2" : "SourceFileReaderCopyCat(Defines;File;File;List<String>;String;FileFormatOption)"
+ , "c2" : "SourceFileReaderCopyCat(Defines;File;File;List&lt;String&gt;;String;FileFormatOption)"
  , "c3" : "2"
  , "c4" : "4"
 }} 

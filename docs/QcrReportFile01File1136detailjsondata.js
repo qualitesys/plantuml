@@ -155,7 +155,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00204"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/AbstractGraphviz.java.html#204"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getType()"
  , "c3" : "1"
  , "c4" : "1"

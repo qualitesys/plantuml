@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00066"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#66"
- , "c1" : "List<GPoint>"
+ , "c1" : "List&lt;GPoint&gt;"
  , "c2" : "getHooks()"
  , "c3" : "1"
  , "c4" : "1"

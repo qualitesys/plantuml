@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00076"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#76"
  , "c1" : "AbstractParallelFtilesBuilder"
- , "c2" : "AbstractParallelFtilesBuilder(ISkinParam;StringBounder;List<Ftile>)"
+ , "c2" : "AbstractParallelFtilesBuilder(ISkinParam;StringBounder;List&lt;Ftile&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -47,8 +47,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00082"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#82"
- , "c1" : "List<Ftile>"
- , "c2" : "getFoo2(List<Ftile>)"
+ , "c1" : "List&lt;Ftile&gt;"
+ , "c2" : "getFoo2(List&lt;Ftile&gt;)"
  , "c3" : "2"
  , "c4" : "5"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00101"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#101"
  , "c1" : "double"
- , "c2" : "computeMaxHeight(List<Ftile>)"
+ , "c2" : "computeMaxHeight(List&lt;Ftile&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

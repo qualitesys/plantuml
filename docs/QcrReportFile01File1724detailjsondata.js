@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementInColorsFromTo.java.html#52"
- , "c1" : "Failable<CenterBorderColor[]>"
+ , "c1" : "Failable&lt;CenterBorderColor[]&gt;"
  , "c2" : "getMe(GanttDiagram;RegexResult;String)"
  , "c3" : "1"
  , "c4" : "10"

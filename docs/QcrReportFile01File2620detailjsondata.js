@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00062"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorSet.java.html#62"
- , "c1" : "Collection<String>"
+ , "c1" : "Collection&lt;String&gt;"
  , "c2" : "names()"
  , "c3" : "1"
  , "c4" : "1"

@@ -101,7 +101,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00143"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Idea.java.html#143"
- , "c1" : "Collection<Idea>"
+ , "c1" : "Collection&lt;Idea&gt;"
  , "c2" : "getChildren()"
  , "c3" : "1"
  , "c4" : "1"

@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00105"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/wire/Block.java.html#105"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getPins(Position)"
  , "c3" : "5"
  , "c4" : "5"

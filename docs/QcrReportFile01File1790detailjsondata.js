@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00046"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealMin.java.html#46"
  , "c1" : "RealMin"
- , "c2" : "RealMin(Collection<Real>)"
+ , "c2" : "RealMin(Collection&lt;Real&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

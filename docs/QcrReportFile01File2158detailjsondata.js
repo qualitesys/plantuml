@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00042"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/api/StatsLine.java.html#42"
- , "c1" : "Collection<StatsColumn>"
+ , "c1" : "Collection&lt;StatsColumn&gt;"
  , "c2" : "getColumnHeaders()"
  , "c3" : "1"
  , "c4" : "1"

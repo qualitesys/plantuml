@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00079"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/CMapData.java.html#79"
  , "c1" : "CMapData"
- , "c2" : "cmapString(Set<Url>;double)"
+ , "c2" : "cmapString(Set&lt;Url&gt;;double)"
  , "c3" : "3"
  , "c4" : "8"
 }} 

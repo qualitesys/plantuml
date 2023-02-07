@@ -65,7 +65,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00086"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/Ports.java.html#86"
- , "c1" : "Collection<PortGeometry>"
+ , "c1" : "Collection&lt;PortGeometry&gt;"
  , "c2" : "getAllPortGeometry()"
  , "c3" : "1"
  , "c4" : "3"

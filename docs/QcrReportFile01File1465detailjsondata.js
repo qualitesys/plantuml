@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00069"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#69"
  , "c1" : "JsonDiagram"
- , "c2" : "JsonDiagram(UmlSource;UmlDiagramType;JsonValue;List<String>)"
+ , "c2" : "JsonDiagram(UmlSource;UmlDiagramType;JsonValue;List&lt;String&gt;)"
  , "c3" : "3"
  , "c4" : "5"
 }} 

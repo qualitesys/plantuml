@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00071"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/GroupingStart.java.html#71"
- , "c1" : "List<GroupingLeaf>"
+ , "c1" : "List&lt;GroupingLeaf&gt;"
  , "c2" : "getChildren()"
  , "c3" : "1"
  , "c4" : "1"

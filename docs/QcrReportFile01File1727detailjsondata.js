@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/lang/ComplementSeveralDays.java.html#55"
- , "c1" : "Failable<Load>"
+ , "c1" : "Failable&lt;Load&gt;"
  , "c2" : "getMe(GanttDiagram;RegexResult;String)"
  , "c3" : "2"
  , "c4" : "8"

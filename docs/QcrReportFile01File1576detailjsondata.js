@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#49"
  , "c1" : "PngFlashcoder"
- , "c2" : "PngFlashcoder(List<BufferedImage>)"
+ , "c2" : "PngFlashcoder(List&lt;BufferedImage&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00083"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#83"
  , "c1" : "int"
- , "c2" : "getHeight(List<BufferedImage>)"
+ , "c2" : "getHeight(List&lt;BufferedImage&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00091"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#91"
  , "c1" : "int"
- , "c2" : "getWidth(List<BufferedImage>)"
+ , "c2" : "getWidth(List&lt;BufferedImage&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

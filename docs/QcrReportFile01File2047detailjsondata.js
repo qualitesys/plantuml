@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Stairs.java.html#72"
- , "c1" : "Collection<Step>"
+ , "c1" : "Collection&lt;Step&gt;"
  , "c2" : "getSteps()"
  , "c3" : "1"
  , "c4" : "1"

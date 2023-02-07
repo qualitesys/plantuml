@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorLongComment.java.html#48"
  , "c1" : "CodeIteratorLongComment"
- , "c2" : "CodeIteratorLongComment(CodeIterator;List<StringLocated>)"
+ , "c2" : "CodeIteratorLongComment(CodeIterator;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

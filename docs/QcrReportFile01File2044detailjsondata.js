@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00127"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpaceWithParticipants.java.html#127"
- , "c1" : "List<Double>"
+ , "c1" : "List&lt;Double&gt;"
  , "c2" : "yNewPages()"
  , "c3" : "1"
  , "c4" : "1"

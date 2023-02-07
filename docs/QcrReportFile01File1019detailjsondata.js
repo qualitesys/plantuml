@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/SheetBlock2.java.html#56"
- , "c1" : "List<Atom>"
+ , "c1" : "List&lt;Atom&gt;"
  , "c2" : "splitInTwo(StringBounder;double)"
  , "c3" : "1"
  , "c4" : "1"

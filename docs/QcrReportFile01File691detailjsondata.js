@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00110"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileRepeat.java.html#110"
- , "c1" : "Collection<GConnection>"
+ , "c1" : "Collection&lt;GConnection&gt;"
  , "c2" : "getInnerConnections()"
  , "c3" : "2"
  , "c4" : "9"

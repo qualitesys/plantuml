@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00067"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#67"
  , "c1" : "Gtile"
- , "c2" : "build(Swimlane;List<Gtile>;List<Branch>)"
+ , "c2" : "build(Swimlane;List&lt;Gtile&gt;;List&lt;Branch&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00076"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#76"
  , "c1" : "GtileIfHexagon"
- , "c2" : "GtileIfHexagon(Swimlane;List<Gtile>;List<Branch>)"
+ , "c2" : "GtileIfHexagon(Swimlane;List&lt;Gtile&gt;;List&lt;Branch&gt;)"
  , "c3" : "4"
  , "c4" : "38"
 }} 
@@ -119,7 +119,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00215"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#215"
- , "c1" : "Collection<GConnection>"
+ , "c1" : "Collection&lt;GConnection&gt;"
  , "c2" : "getInnerConnections()"
  , "c3" : "4"
  , "c4" : "9"

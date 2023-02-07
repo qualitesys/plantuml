@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#55"
  , "c1" : "SyntaxResult"
- , "c2" : "checkSyntax(List<String>)"
+ , "c2" : "checkSyntax(List&lt;String&gt;)"
  , "c3" : "2"
  , "c4" : "4"
 }} 

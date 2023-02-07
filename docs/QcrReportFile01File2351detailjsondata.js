@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00062"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#62"
  , "c1" : "Circle"
- , "c2" : "findSec(int;List<XPoint2D>;int;List<XPoint2D>)"
+ , "c2" : "findSec(int;List&lt;XPoint2D&gt;;int;List&lt;XPoint2D&gt;)"
  , "c3" : "8"
  , "c4" : "9"
 }} 

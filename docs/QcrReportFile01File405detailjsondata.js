@@ -119,7 +119,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00166"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/NewpagedDiagram.java.html#166"
- , "c1" : "List<Diagram>"
+ , "c1" : "List&lt;Diagram&gt;"
  , "c2" : "getDiagrams()"
  , "c3" : "1"
  , "c4" : "1"

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00064"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#64"
  , "c1" : "ActivityDiagram"
- , "c2" : "ActivityDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "ActivityDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -128,7 +128,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00146"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#146"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getDotStrings()"
  , "c3" : "1"
  , "c4" : "1"

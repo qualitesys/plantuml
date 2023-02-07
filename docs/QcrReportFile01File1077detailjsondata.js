@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Body3.java.html#61"
  , "c1" : "Body3"
- , "c2" : "Body3(List<CharSequence>;ISkinParam;Stereotype;Style)"
+ , "c2" : "Body3(List&lt;CharSequence&gt;;ISkinParam;Stereotype;Style)"
  , "c3" : "2"
  , "c4" : "4"
 }} 

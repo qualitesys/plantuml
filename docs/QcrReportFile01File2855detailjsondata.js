@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00041"
  , "c5link" : "././qc/src/smetana/core/__struct__.java.html#41"
- , "c1" : "__struct__<C>"
+ , "c1" : "__struct__&lt;C&gt;"
  , "c2" : "copy()"
  , "c3" : "1"
  , "c4" : "1"
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00043"
  , "c5link" : "././qc/src/smetana/core/__struct__.java.html#43"
  , "c1" : "void"
- , "c2" : "___(__struct__<C>)"
+ , "c2" : "___(__struct__&lt;C&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

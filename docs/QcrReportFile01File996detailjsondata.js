@@ -56,8 +56,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00078"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexOr.java.html#78"
- , "c1" : "Map<String,RegexPartialMatch>"
- , "c2" : "createPartialMatch(Iterator<String>)"
+ , "c1" : "Map&lt;String,RegexPartialMatch&gt;"
+ , "c2" : "createPartialMatch(Iterator&lt;String&gt;)"
  , "c3" : "2"
  , "c4" : "7"
 }} 

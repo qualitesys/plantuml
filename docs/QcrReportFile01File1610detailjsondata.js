@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/SimpleDrawer.java.html#52"
  , "c1" : "SimpleDrawer"
- , "c2" : "SimpleDrawer(Cluster;Collection<Path>)"
+ , "c2" : "SimpleDrawer(Cluster;Collection&lt;Path&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

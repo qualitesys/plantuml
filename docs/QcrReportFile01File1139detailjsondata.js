@@ -65,7 +65,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00161"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#161"
- , "c1" : "List<SFile>"
+ , "c1" : "List&lt;SFile&gt;"
  , "c2" : "createFiles(SFile)"
  , "c3" : "3"
  , "c4" : "3"

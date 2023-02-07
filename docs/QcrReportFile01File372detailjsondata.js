@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00044"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/DefinitionsContainer.java.html#44"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getDefinition(String)"
  , "c3" : "1"
  , "c4" : "1"

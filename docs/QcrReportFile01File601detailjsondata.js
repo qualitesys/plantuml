@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/WormTexted.java.html#65"
- , "c1" : "Iterator<XPoint2D>"
+ , "c1" : "Iterator&lt;XPoint2D&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00078"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#78"
  , "c1" : "ActivityDiagram3"
- , "c2" : "ActivityDiagram3(UmlSource;Map<String,String>)"
+ , "c2" : "ActivityDiagram3(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

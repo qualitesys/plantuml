@@ -551,7 +551,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00182"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ISkinParam.java.html#182"
- , "c1" : "Collection<String>"
+ , "c1" : "Collection&lt;String&gt;"
  , "c2" : "getAllSpriteNames()"
  , "c3" : "1"
  , "c4" : "1"

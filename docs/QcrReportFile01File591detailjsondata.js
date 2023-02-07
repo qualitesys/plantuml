@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c5" : "00168"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#168"
  , "c1" : "Snake"
- , "c2" : "Snake(ISkinParam;UPolygon;Rainbow;UPolygon;Worm;MergeStrategy;Direction;List<Text>)"
+ , "c2" : "Snake(ISkinParam;UPolygon;Rainbow;UPolygon;Worm;MergeStrategy;Direction;List&lt;Text&gt;)"
  , "c3" : "2"
  , "c4" : "9"
 }} 
@@ -218,7 +218,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00287"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html#287"
- , "c1" : "List<XLine2D>"
+ , "c1" : "List&lt;XLine2D&gt;"
  , "c2" : "getHorizontalLines()"
  , "c3" : "3"
  , "c4" : "8"

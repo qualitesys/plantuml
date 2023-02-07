@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00263"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#263"
  , "c1" : "void"
- , "c2" : "printEntities(Collection<ILeaf>)"
+ , "c2" : "printEntities(Collection&lt;ILeaf&gt;)"
  , "c3" : "3"
  , "c4" : "2"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00272"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#272"
  , "c1" : "void"
- , "c2" : "exportEntities(ST_Agraph_s;Collection<ILeaf>)"
+ , "c2" : "exportEntities(ST_Agraph_s;Collection&lt;ILeaf&gt;)"
  , "c3" : "3"
  , "c4" : "2"
 }} 
@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00307"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#307"
- , "c1" : "Collection<ILeaf>"
+ , "c1" : "Collection&lt;ILeaf&gt;"
  , "c2" : "getUnpackagedEntities()"
  , "c3" : "3"
  , "c4" : "3"
@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c5" : "00332"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#332"
  , "c1" : "ImageData"
- , "c2" : "createFile(OutputStream;List<String>;FileFormatOption)"
+ , "c2" : "createFile(OutputStream;List&lt;String&gt;;FileFormatOption)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -120,7 +120,7 @@ var maDataBlocs = {
  , "c5" : "00342"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#342"
  , "c1" : "ImageData"
- , "c2" : "createFileLocked(OutputStream;List<String>;FileFormatOption)"
+ , "c2" : "createFileLocked(OutputStream;List&lt;String&gt;;FileFormatOption)"
  , "c3" : "4"
  , "c4" : "18"
 }} 
@@ -182,7 +182,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00537"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#537"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getFailureText3(Throwable)"
  , "c3" : "1"
  , "c4" : "14"

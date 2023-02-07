@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagramFactory.java.html#50"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "5"
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00060"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagramFactory.java.html#60"
  , "c1" : "ListSpriteDiagram"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00110"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/NServer.java.html#110"
  , "c1" : "LinkedElement"
- , "c2" : "getLinkedElement(double;Map<Network,String>;List<Network>;ISkinParam)"
+ , "c2" : "getLinkedElement(double;Map&lt;Network,String&gt;;List&lt;Network&gt;;ISkinParam)"
  , "c3" : "2"
  , "c4" : "7"
 }} 
@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c5" : "00144"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/NServer.java.html#144"
  , "c1" : "void"
- , "c2" : "updateProperties(Map<String,String>)"
+ , "c2" : "updateProperties(Map&lt;String,String&gt;)"
  , "c3" : "3"
  , "c4" : "4"
 }} 

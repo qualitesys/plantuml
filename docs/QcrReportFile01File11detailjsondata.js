@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00023"
  , "c5link" : "././qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/PluginMarkers.java.html#23"
  , "c1" : "PluginMarkers"
- , "c2" : "PluginMarkers(List<Marker>)"
+ , "c2" : "PluginMarkers(List&lt;Marker&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

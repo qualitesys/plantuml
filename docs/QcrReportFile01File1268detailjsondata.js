@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00037"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/emoji/Emoji.java.html#37"
- , "c1" : "Map<String,Emoji>"
+ , "c1" : "Map&lt;String,Emoji&gt;"
  , "c2" : "getAll()"
  , "c3" : "1"
  , "c4" : "1"

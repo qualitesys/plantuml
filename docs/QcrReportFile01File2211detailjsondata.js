@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00047"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMaker.java.html#47"
  , "c1" : "ImageData"
- , "c2" : "createFile(OutputStream;List<String>;FileFormatOption)"
+ , "c2" : "createFile(OutputStream;List&lt;String&gt;;FileFormatOption)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00076"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#76"
  , "c1" : "StdlibDiagram"
- , "c2" : "StdlibDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "StdlibDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

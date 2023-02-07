@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Define.java.html#56"
  , "c1" : "Define"
- , "c2" : "Define(String;List<String>;boolean;AParentFolder)"
+ , "c2" : "Define(String;List&lt;String&gt;;boolean;AParentFolder)"
  , "c3" : "5"
  , "c4" : "12"
 }} 

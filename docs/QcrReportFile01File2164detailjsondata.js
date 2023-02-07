@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00073"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Context.java.html#73"
- , "c1" : "Collection<StyleSignatureBasic>"
+ , "c1" : "Collection&lt;StyleSignatureBasic&gt;"
  , "c2" : "toSignatures()"
  , "c3" : "7"
  , "c4" : "16"

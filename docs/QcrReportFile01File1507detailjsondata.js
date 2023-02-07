@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00138"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#138"
- , "c1" : "SortedSet<Stripe>"
+ , "c1" : "SortedSet&lt;Stripe&gt;"
  , "c2" : "collisionning(double;double)"
  , "c3" : "4"
  , "c4" : "8"

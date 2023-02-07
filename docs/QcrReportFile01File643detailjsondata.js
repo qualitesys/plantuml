@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00066"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#66"
  , "c1" : "FtileSwitchWithManyLinks"
- , "c2" : "FtileSwitchWithManyLinks(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder;Rainbow)"
+ , "c2" : "FtileSwitchWithManyLinks(List&lt;Ftile&gt;;List&lt;Branch&gt;;Swimlane;Ftile;Ftile;StringBounder;Rainbow)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00317"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#317"
  , "c1" : "void"
- , "c2" : "addIngoingArrows(List<Connection>)"
+ , "c2" : "addIngoingArrows(List&lt;Connection&gt;)"
  , "c3" : "2"
  , "c4" : "6"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00326"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#326"
  , "c1" : "void"
- , "c2" : "addOutgoingArrows(StringBounder;List<Connection>)"
+ , "c2" : "addOutgoingArrows(StringBounder;List&lt;Connection&gt;)"
  , "c3" : "5"
  , "c4" : "8"
 }} 

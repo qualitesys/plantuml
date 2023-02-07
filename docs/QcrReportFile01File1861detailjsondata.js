@@ -209,7 +209,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00181"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SFile.java.html#181"
- , "c1" : "Collection<SFile>"
+ , "c1" : "Collection&lt;SFile&gt;"
  , "c2" : "listFiles()"
  , "c3" : "3"
  , "c4" : "5"
@@ -345,7 +345,7 @@ var maDataBlocs = {
  , "c5" : "00297"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SFile.java.html#297"
  , "c1" : "boolean"
- , "c2" : "isInAllowList(List<SFile>)"
+ , "c2" : "isInAllowList(List&lt;SFile&gt;)"
  , "c3" : "3"
  , "c4" : "3"
 }} 

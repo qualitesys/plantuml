@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#59"
  , "c1" : "FtileSwitchWithOneLink"
- , "c2" : "FtileSwitchWithOneLink(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder;Rainbow)"
+ , "c2" : "FtileSwitchWithOneLink(List&lt;Ftile&gt;;List&lt;Branch&gt;;Swimlane;Ftile;Ftile;StringBounder;Rainbow)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

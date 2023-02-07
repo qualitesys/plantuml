@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00067"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#67"
- , "c1" : "Map<S,Integer>"
+ , "c1" : "Map&lt;S,Integer&gt;"
  , "c2" : "getPositions()"
  , "c3" : "1"
  , "c4" : "1"

@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00092"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#92"
  , "c1" : "TitledDiagram"
- , "c2" : "TitledDiagram(UmlSource;UmlDiagramType;Map<String,String>)"
+ , "c2" : "TitledDiagram(UmlSource;UmlDiagramType;Map&lt;String,String&gt;)"
  , "c3" : "2"
  , "c4" : "4"
 }} 
@@ -237,7 +237,7 @@ var maDataBlocs = {
  , "c5" : "00255"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#255"
  , "c1" : "void"
- , "c2" : "setAnimation(Iterable<CharSequence>)"
+ , "c2" : "setAnimation(Iterable&lt;CharSequence&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

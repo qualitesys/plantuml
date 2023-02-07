@@ -254,7 +254,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00260"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#260"
- , "c1" : "Collection<Day>"
+ , "c1" : "Collection&lt;Day&gt;"
  , "c2" : "getAllPaused()"
  , "c3" : "2"
  , "c4" : "3"
@@ -264,7 +264,7 @@ var maDataBlocs = {
  , "c5" : "00268"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#268"
  , "c1" : "void"
- , "c2" : "addAll(SortedSet<Day>;DayOfWeek)"
+ , "c2" : "addAll(SortedSet&lt;Day&gt;;DayOfWeek)"
  , "c3" : "3"
  , "c4" : "5"
 }} 

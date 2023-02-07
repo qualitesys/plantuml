@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00143"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#143"
  , "c1" : "ST_Agnode_s"
- , "c2" : "manageOneNode(JsonValue;List<String>)"
+ , "c2" : "manageOneNode(JsonValue;List&lt;String&gt;)"
  , "c3" : "3"
  , "c4" : "12"
 }} 
@@ -92,8 +92,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00163"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#163"
- , "c1" : "List<String>"
- , "c2" : "removeOneLevel(String;List<String>)"
+ , "c1" : "List&lt;String&gt;"
+ , "c2" : "removeOneLevel(String;List&lt;String&gt;)"
  , "c3" : "4"
  , "c4" : "6"
 }} 
@@ -102,7 +102,7 @@ var maDataBlocs = {
  , "c5" : "00178"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#178"
  , "c1" : "void"
- , "c2" : "drawMe(JsonValue;List<String>)"
+ , "c2" : "drawMe(JsonValue;List&lt;String&gt;)"
  , "c3" : "4"
  , "c4" : "9"
 }} 
@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c5" : "00202"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#202"
  , "c1" : "void"
- , "c2" : "initGraph(JsonValue;List<String>)"
+ , "c2" : "initGraph(JsonValue;List&lt;String&gt;)"
  , "c3" : "3"
  , "c4" : "12"
 }} 

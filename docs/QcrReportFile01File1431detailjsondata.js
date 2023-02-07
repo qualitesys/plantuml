@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/hcl/HclSource.java.html#55"
- , "c1" : "Iterator<Character>"
+ , "c1" : "Iterator&lt;Character&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

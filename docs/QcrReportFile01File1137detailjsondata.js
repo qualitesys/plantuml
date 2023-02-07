@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#55"
  , "c1" : "CucaDiagramSimplifierActivity"
- , "c2" : "CucaDiagramSimplifierActivity(CucaDiagram;List<String>;StringBounder)"
+ , "c2" : "CucaDiagramSimplifierActivity(CucaDiagram;List&lt;String&gt;;StringBounder)"
  , "c3" : "5"
  , "c4" : "9"
 }} 

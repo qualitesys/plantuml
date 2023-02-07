@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemAbstractFactory.java.html#59"
  , "c1" : "PSystemError"
- , "c2" : "buildEmptyError(UmlSource;LineLocation;List<StringLocated>)"
+ , "c2" : "buildEmptyError(UmlSource;LineLocation;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00066"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemAbstractFactory.java.html#66"
  , "c1" : "PSystemError"
- , "c2" : "buildExecutionError(UmlSource;String;LineLocation;List<StringLocated>)"
+ , "c2" : "buildExecutionError(UmlSource;String;LineLocation;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

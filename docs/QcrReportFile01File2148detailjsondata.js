@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00062"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#62"
  , "c1" : "StatsImpl"
- , "c2" : "StatsImpl(Map<String,ParsedGenerated>;Map<String,ParsedGenerated>;FormatCounter;FormatCounter;HistoricalData;ParsedGenerated)"
+ , "c2" : "StatsImpl(Map&lt;String,ParsedGenerated&gt;;Map&lt;String,ParsedGenerated&gt;;FormatCounter;FormatCounter;HistoricalData;ParsedGenerated)"
  , "c3" : "1"
  , "c4" : "6"
 }} 
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00139"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#139"
  , "c1" : "StatsTable"
- , "c2" : "getByDiagramType(String;Map<String,ParsedGenerated>)"
+ , "c2" : "getByDiagramType(String;Map&lt;String,ParsedGenerated&gt;)"
  , "c3" : "2"
  , "c4" : "11"
 }} 

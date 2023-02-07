@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00180"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/EbnfExpression.java.html#180"
  , "c1" : "TextBlock"
- , "c2" : "getMainDrawing(ISkinParam;Iterator<Token>)"
+ , "c2" : "getMainDrawing(ISkinParam;Iterator&lt;Token&gt;)"
  , "c3" : "20"
  , "c4" : "13"
 }} 

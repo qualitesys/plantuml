@@ -236,7 +236,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00226"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.html#226"
- , "c1" : "HashMap<String,CustomShapeDefinition>"
+ , "c1" : "HashMap&lt;String,CustomShapeDefinition&gt;"
  , "c2" : "getCustomShapes()"
  , "c3" : "1"
  , "c4" : "1"
@@ -246,7 +246,7 @@ var maDataBlocs = {
  , "c5" : "00230"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.html#230"
  , "c1" : "void"
- , "c2" : "setCustomShapes(HashMap<String,CustomShapeDefinition>)"
+ , "c2" : "setCustomShapes(HashMap&lt;String,CustomShapeDefinition&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -255,7 +255,7 @@ var maDataBlocs = {
  , "c5" : "00234"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.html#234"
  , "c1" : "void"
- , "c2" : "putAllInCustomShapes(HashMap<String,CustomShapeDefinition>)"
+ , "c2" : "putAllInCustomShapes(HashMap&lt;String,CustomShapeDefinition&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorReturnFunction.java.html#56"
  , "c1" : "CodeIteratorReturnFunction"
- , "c2" : "CodeIteratorReturnFunction(CodeIterator;TContext;TMemory;FunctionsSet;List<StringLocated>)"
+ , "c2" : "CodeIteratorReturnFunction(CodeIterator;TContext;TMemory;FunctionsSet;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "5"
 }} 

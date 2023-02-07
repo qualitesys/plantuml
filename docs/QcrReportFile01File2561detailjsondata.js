@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyVisibility.java.html#56"
- , "c1" : "Map<TextBlock,XPoint2D>"
+ , "c1" : "Map&lt;TextBlock,XPoint2D&gt;"
  , "c2" : "getPositions(double;double)"
  , "c3" : "2"
  , "c4" : "13"

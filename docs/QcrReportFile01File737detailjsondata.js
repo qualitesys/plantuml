@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00080"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c1" : "void"
- , "c2" : "joinThreads(Instance;List<Future<?>>)"
+ , "c2" : "joinThreads(Instance;List&lt;Future&lt;?&gt;&gt;)"
  , "c3" : "2"
  , "c4" : "5"
 }} 

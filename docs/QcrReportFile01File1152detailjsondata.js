@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00115"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#115"
  , "c1" : "File"
- , "c2" : "higherVersion(List<File>)"
+ , "c2" : "higherVersion(List&lt;File&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#55"
  , "c1" : "StyleExtractor"
- , "c2" : "StyleExtractor(Iterator<StringLocated>)"
+ , "c2" : "StyleExtractor(Iterator&lt;StringLocated&gt;)"
  , "c3" : "19"
  , "c4" : "8"
 }} 
@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00105"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#105"
- , "c1" : "Iterator<String>"
+ , "c1" : "Iterator&lt;String&gt;"
  , "c2" : "getIterator()"
  , "c3" : "1"
  , "c4" : "1"

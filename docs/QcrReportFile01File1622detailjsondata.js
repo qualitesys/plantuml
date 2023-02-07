@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#49"
  , "c1" : "ReadLineList"
- , "c2" : "ReadLineList(List<String>;LineLocation)"
+ , "c2" : "ReadLineList(List&lt;String&gt;;LineLocation)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

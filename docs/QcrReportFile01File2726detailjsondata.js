@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#56"
  , "c1" : "IteratorCounter2Impl"
- , "c2" : "IteratorCounter2Impl(List<StringLocated>)"
+ , "c2" : "IteratorCounter2Impl(List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00060"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#60"
  , "c1" : "IteratorCounter2Impl"
- , "c2" : "IteratorCounter2Impl(List<StringLocated>;int;List<StringLocated>)"
+ , "c2" : "IteratorCounter2Impl(List&lt;StringLocated&gt;;int;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -110,7 +110,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00100"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#100"
- , "c1" : "List<StringLocated>"
+ , "c1" : "List&lt;StringLocated&gt;"
  , "c2" : "getTrace()"
  , "c3" : "1"
  , "c4" : "1"

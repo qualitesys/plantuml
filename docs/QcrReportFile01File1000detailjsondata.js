@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#61"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "7"
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00073"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#73"
  , "c1" : "CompositeDiagram"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c5" : "00332"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSetInitializer.java.html#332"
  , "c1" : "void"
- , "c2" : "prepareDelay(StringBounder;Delay;List<ParticipantBox>;ParticipantRange)"
+ , "c2" : "prepareDelay(StringBounder;Delay;List&lt;ParticipantBox&gt;;ParticipantRange)"
  , "c3" : "2"
  , "c4" : "7"
 }} 

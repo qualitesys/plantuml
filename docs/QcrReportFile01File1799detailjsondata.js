@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c5" : "00109"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#109"
  , "c1" : "void"
- , "c2" : "copyAllFrom(Map<String,String>)"
+ , "c2" : "copyAllFrom(Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -137,7 +137,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00113"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#113"
- , "c1" : "Map<String,String>"
+ , "c1" : "Map&lt;String,String&gt;"
  , "c2" : "values()"
  , "c3" : "1"
  , "c4" : "1"

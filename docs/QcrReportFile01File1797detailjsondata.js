@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00042"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/DataSource.java.html#42"
- , "c1" : "Terminated<String>"
+ , "c1" : "Terminated&lt;String&gt;"
  , "c2" : "peek(int)"
  , "c3" : "1"
  , "c4" : "1"

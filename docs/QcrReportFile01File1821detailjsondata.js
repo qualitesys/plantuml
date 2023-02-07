@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00067"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.html#67"
  , "c1" : "ElementRadioCheckbox"
- , "c2" : "ElementRadioCheckbox(List<String>;UFont;boolean;boolean;ISkinSimple)"
+ , "c2" : "ElementRadioCheckbox(List&lt;String&gt;;UFont;boolean;boolean;ISkinSimple)"
  , "c3" : "1"
  , "c4" : "4"
 }} 

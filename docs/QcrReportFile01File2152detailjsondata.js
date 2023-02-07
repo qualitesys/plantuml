@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00064"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#64"
  , "c1" : "void"
- , "c2" : "onceMoreParse(long;Class<?extendsDiagram>)"
+ , "c2" : "onceMoreParse(long;Class&lt;?extendsDiagram&gt;)"
  , "c3" : "2"
  , "c4" : "10"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00080"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#80"
  , "c1" : "void"
- , "c2" : "onceMoreGenerate(long;Class<?extendsDiagram>;FileFormat)"
+ , "c2" : "onceMoreGenerate(long;Class&lt;?extendsDiagram&gt;;FileFormat)"
  , "c3" : "3"
  , "c4" : "14"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00102"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#102"
  , "c1" : "ParsedGenerated"
- , "c2" : "getByTypeCurrent(Class<?extendsDiagram>)"
+ , "c2" : "getByTypeCurrent(Class&lt;?extendsDiagram&gt;)"
  , "c3" : "2"
  , "c4" : "5"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00112"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#112"
  , "c1" : "ParsedGenerated"
- , "c2" : "getByTypeEver(Class<?extendsDiagram>)"
+ , "c2" : "getByTypeEver(Class&lt;?extendsDiagram&gt;)"
  , "c3" : "2"
  , "c4" : "5"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00122"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#122"
  , "c1" : "String"
- , "c2" : "name(Class<?extendsDiagram>)"
+ , "c2" : "name(Class&lt;?extendsDiagram&gt;)"
  , "c3" : "11"
  , "c4" : "12"
 }} 

@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#56"
  , "c1" : "NwDiagram"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#61"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "12"

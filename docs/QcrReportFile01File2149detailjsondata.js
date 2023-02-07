@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#48"
  , "c1" : "StatsLineImpl"
- , "c2" : "StatsLineImpl(Map<StatsColumn,Object>)"
+ , "c2" : "StatsLineImpl(Map&lt;StatsColumn,Object&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/StatsLineImpl.java.html#56"
- , "c1" : "Collection<StatsColumn>"
+ , "c1" : "Collection&lt;StatsColumn&gt;"
  , "c2" : "getColumnHeaders()"
  , "c3" : "1"
  , "c4" : "1"

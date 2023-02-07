@@ -65,7 +65,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00144"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/EmptyImageBuilder.java.html#144"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "withBreaks(String;Font;FontMetrics;int)"
  , "c3" : "5"
  , "c4" : "9"

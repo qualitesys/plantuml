@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00112"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#112"
  , "c1" : "SecurityCredentials"
- , "c2" : "SecurityCredentials(String;String;String;char[];Map<String,Object>;Proxy)"
+ , "c2" : "SecurityCredentials(String;String;String;char[];Map&lt;String,Object&gt;;Proxy)"
  , "c3" : "2"
  , "c4" : "7"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00266"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#266"
  , "c1" : "void"
- , "c2" : "buildProperties(String;JsonValue;Map<String,Object>)"
+ , "c2" : "buildProperties(String;JsonValue;Map&lt;String,Object&gt;)"
  , "c3" : "11"
  , "c4" : "9"
 }} 
@@ -128,7 +128,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00318"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#318"
- , "c1" : "Map<String,Object>"
+ , "c1" : "Map&lt;String,Object&gt;"
  , "c2" : "getProperties()"
  , "c3" : "1"
  , "c4" : "1"

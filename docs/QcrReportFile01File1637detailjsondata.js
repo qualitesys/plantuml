@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc2/ReadFilterAddConfig.java.html#50"
  , "c1" : "ReadFilterAddConfig"
- , "c2" : "ReadFilterAddConfig(List<String>)"
+ , "c2" : "ReadFilterAddConfig(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00095"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#95"
  , "c1" : "void"
- , "c2" : "addVisibilities(String;EntityPortion;Set<VisibilityModifier>)"
+ , "c2" : "addVisibilities(String;EntityPortion;Set&lt;VisibilityModifier&gt;)"
  , "c3" : "9"
  , "c4" : "8"
 }} 

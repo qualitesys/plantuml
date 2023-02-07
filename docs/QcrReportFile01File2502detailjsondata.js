@@ -156,7 +156,7 @@ var maDataBlocs = {
  , "c5" : "00165"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimeConstraint.java.html#165"
  , "c1" : "double"
- , "c2" : "getHeightForConstraints(StringBounder;List<TimeConstraint>)"
+ , "c2" : "getHeightForConstraints(StringBounder;List&lt;TimeConstraint&gt;)"
  , "c3" : "3"
  , "c4" : "4"
 }} 

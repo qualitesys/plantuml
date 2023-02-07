@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/cgraph/refstr__c.java.html" 
- , "texte" : "File src/gen/lib/cgraph/refstr__c.java 63 rule violations " 
+ , "texte" : "File src/gen/lib/cgraph/refstr__c.java 77 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/cgraph/refstr__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -125,14 +125,14 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "6"
+ , "c4" : "19"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -547,7 +547,105 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.refstr__c.agstrfree@POLYN185622"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.refstr__c.aghtmlstr@POLYN187326"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#197"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00197] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 'agstrfree' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#197"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00197] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 'enhn1ajfo86a19dgm4b8lduz7' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#201"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00201] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00202"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#202"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00202] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00205"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#205"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00205] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#207"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00207] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#207"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00207] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00207"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#207"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00207] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String false MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#215"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00215] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00216"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#216"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00216] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#217"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00217] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#219"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00219] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 'agstrfree' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00219"
+ , "c1link" : "./qc/src/gen/lib/cgraph/refstr__c.java.html#219"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00219] In the recursive method gen.lib.cgraph.refstr__c.agstrfree@POLYN185622 the MagicNumber/String 'enhn1ajfo86a19dgm4b8lduz7' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""

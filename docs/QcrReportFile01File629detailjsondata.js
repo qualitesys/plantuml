@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00087"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#87"
- , "c1" : "Set<Swimlane>"
+ , "c1" : "Set&lt;Swimlane&gt;"
  , "c2" : "getSwimlanes()"
  , "c3" : "1"
  , "c4" : "1"
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00099"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNotes.java.html#99"
  , "c1" : "FtileWithNotes"
- , "c2" : "FtileWithNotes(Ftile;Collection<PositionedNote>;ISkinParam;VerticalAlignment)"
+ , "c2" : "FtileWithNotes(Ftile;Collection&lt;PositionedNote&gt;;ISkinParam;VerticalAlignment)"
  , "c3" : "11"
  , "c4" : "25"
 }} 

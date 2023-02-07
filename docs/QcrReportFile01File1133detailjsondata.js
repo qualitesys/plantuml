@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#72"
  , "c1" : "TextBlockMap"
- , "c2" : "TextBlockMap(FontConfiguration;ISkinParam;Map<String,String>;LineBreakStrategy)"
+ , "c2" : "TextBlockMap(FontConfiguration;ISkinParam;Map&lt;String,String&gt;;LineBreakStrategy)"
  , "c3" : "3"
  , "c4" : "9"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00117"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#117"
  , "c1" : "double"
- , "c2" : "getMaxWidth(StringBounder;Collection<TextBlock>)"
+ , "c2" : "getMaxWidth(StringBounder;Collection&lt;TextBlock&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

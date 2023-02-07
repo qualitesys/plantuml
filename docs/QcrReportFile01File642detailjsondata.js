@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00066"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#66"
  , "c1" : "FtileSwitchWithDiamonds"
- , "c2" : "FtileSwitchWithDiamonds(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder)"
+ , "c2" : "FtileSwitchWithDiamonds(List&lt;Ftile&gt;;List&lt;Branch&gt;;Swimlane;Ftile;Ftile;StringBounder)"
  , "c3" : "3"
  , "c4" : "8"
 }} 
@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00093"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithDiamonds.java.html#93"
- , "c1" : "Collection<Ftile>"
+ , "c1" : "Collection&lt;Ftile&gt;"
  , "c2" : "getMyChildren()"
  , "c3" : "1"
  , "c4" : "4"

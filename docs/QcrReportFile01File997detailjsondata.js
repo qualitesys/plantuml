@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00063"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexPartialMatch.java.html#63"
- , "c1" : "Iterator<String>"
+ , "c1" : "Iterator&lt;String&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00082"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/DefineSignature.java.html#82"
- , "c1" : "List<Variables>"
+ , "c1" : "List&lt;Variables&gt;"
  , "c2" : "getVariationVariables()"
  , "c3" : "1"
  , "c4" : "1"

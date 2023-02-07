@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c5" : "00287"
  , "c5link" : "././qc/src/gen/lib/cgraph/graph__c.java.html#287"
  , "c1" : "int"
- , "c2" : "cnt(ST_dt_s;CStarStar<ST_dtlink_s>)"
+ , "c2" : "cnt(ST_dt_s;CStarStar&lt;ST_dtlink_s&gt;)"
  , "c3" : "1"
  , "c4" : "7"
 }} 

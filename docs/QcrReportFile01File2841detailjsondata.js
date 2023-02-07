@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00069"
  , "c5link" : "././qc/src/smetana/core/CArray.java.html#69"
  , "c1" : "CArray"
- , "c2" : "CArray(List<O>;int;Class<O>)"
+ , "c2" : "CArray(List&lt;O&gt;;int;Class&lt;O&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00078"
  , "c5link" : "././qc/src/smetana/core/CArray.java.html#78"
- , "c1" : "CArray<O>"
+ , "c1" : "CArray&lt;O&gt;"
  , "c2" : "plus_(int)"
  , "c3" : "1"
  , "c4" : "1"
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00082"
  , "c5link" : "././qc/src/smetana/core/CArray.java.html#82"
  , "c1" : "int"
- , "c2" : "minus_(CArray<O>)"
+ , "c2" : "minus_(CArray&lt;O&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 

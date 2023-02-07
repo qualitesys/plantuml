@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html#52"
  , "c1" : "CompositeDiagram"
- , "c2" : "CompositeDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "CompositeDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

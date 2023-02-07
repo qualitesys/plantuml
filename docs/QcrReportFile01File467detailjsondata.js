@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00074"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/acearth/PSystemXearth.java.html#74"
  , "c1" : "PSystemXearth"
- , "c2" : "PSystemXearth(UmlSource;int;int;Map<String,String>;List<Marker>)"
+ , "c2" : "PSystemXearth(UmlSource;int;int;Map&lt;String,String&gt;;List&lt;Marker&gt;)"
  , "c3" : "1"
  , "c4" : "5"
 }} 

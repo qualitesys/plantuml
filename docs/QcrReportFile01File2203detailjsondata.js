@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00068"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#68"
  , "c1" : "void"
- , "c2" : "printInternal(StringBuilder;Collection<SvekLine>;StringBounder;DotMode;GraphvizVersion;UmlDiagramType)"
+ , "c2" : "printInternal(StringBuilder;Collection&lt;SvekLine&gt;;StringBounder;DotMode;GraphvizVersion;UmlDiagramType)"
  , "c3" : "27"
  , "c4" : "61"
 }} 
@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00216"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#216"
- , "c1" : "Set<EntityPosition>"
+ , "c1" : "Set&lt;EntityPosition&gt;"
  , "c2" : "entityPositionsExceptNormal()"
  , "c3" : "3"
  , "c4" : "3"
@@ -102,7 +102,7 @@ var maDataBlocs = {
  , "c5" : "00234"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#234"
  , "c1" : "void"
- , "c2" : "printRanks(String;List<?extendsSvekNode>;StringBuilder;StringBounder)"
+ , "c2" : "printRanks(String;List&lt;?extendsSvekNode&gt;;StringBuilder;StringBounder)"
  , "c3" : "8"
  , "c4" : "17"
 }} 
@@ -110,8 +110,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00269"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#269"
- , "c1" : "List<SvekNode>"
- , "c2" : "withPosition(Set<EntityPosition>)"
+ , "c1" : "List&lt;SvekNode&gt;"
+ , "c2" : "withPosition(Set&lt;EntityPosition&gt;)"
  , "c3" : "3"
  , "c4" : "6"
 }} 
@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c5" : "00297"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/ClusterDotString.java.html#297"
  , "c1" : "boolean"
- , "c2" : "isThereALinkFromOrToGroup(Collection<SvekLine>)"
+ , "c2" : "isThereALinkFromOrToGroup(Collection&lt;SvekLine&gt;)"
  , "c3" : "3"
  , "c4" : "2"
 }} 

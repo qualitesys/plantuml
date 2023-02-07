@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00133"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#133"
  , "c1" : "IEntityImage"
- , "c2" : "createEntityImageBlock(ILeaf;ISkinParam;boolean;PortionShower;Bibliotekon;GraphvizVersion;UmlDiagramType;Collection<Link>)"
+ , "c2" : "createEntityImageBlock(ILeaf;ISkinParam;boolean;PortionShower;Bibliotekon;GraphvizVersion;UmlDiagramType;Collection&lt;Link&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00142"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#142"
  , "c1" : "IEntityImage"
- , "c2" : "createEntityImageBlockInternal(ILeaf;ISkinParam;boolean;PortionShower;Bibliotekon;GraphvizVersion;UmlDiagramType;Collection<Link>)"
+ , "c2" : "createEntityImageBlockInternal(ILeaf;ISkinParam;boolean;PortionShower;Bibliotekon;GraphvizVersion;UmlDiagramType;Collection&lt;Link&gt;)"
  , "c3" : "50"
  , "c4" : "45"
 }} 
@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c5" : "00520"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#520"
  , "c1" : "void"
- , "c2" : "printEntities(DotStringFactory;Collection<ILeaf>)"
+ , "c2" : "printEntities(DotStringFactory;Collection&lt;ILeaf&gt;)"
  , "c3" : "3"
  , "c4" : "2"
 }} 
@@ -173,7 +173,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00572"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#572"
- , "c1" : "Collection<ILeaf>"
+ , "c1" : "Collection&lt;ILeaf&gt;"
  , "c2" : "getUnpackagedEntities()"
  , "c3" : "3"
  , "c4" : "3"

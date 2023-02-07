@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00057"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#57"
  , "c1" : "boolean"
- , "c2" : "canCover(int;Set<String>)"
+ , "c2" : "canCover(int;Set&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00070"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#70"
  , "c1" : "void"
- , "c2" : "executeProcedureInternal(TContext;TMemory;List<TValue>;Map<String,TValue>)"
+ , "c2" : "executeProcedureInternal(TContext;TMemory;List&lt;TValue&gt;;Map&lt;String,TValue&gt;)"
  , "c3" : "2"
  , "c4" : "6"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00082"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#82"
  , "c1" : "TValue"
- , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
+ , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List&lt;TValue&gt;;Map&lt;String,TValue&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/PointListIteratorImpl.java.html#72"
- , "c1" : "List<XPoint2D>"
+ , "c1" : "List&lt;XPoint2D&gt;"
  , "c2" : "next()"
  , "c3" : "2"
  , "c4" : "6"

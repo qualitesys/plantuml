@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00060"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/TextBlockInterceptorUDrawable.java.html#60"
- , "c1" : "HashMap<String,UTranslate>"
+ , "c1" : "HashMap&lt;String,UTranslate&gt;"
  , "c2" : "emptyHashMap()"
  , "c3" : "1"
  , "c4" : "1"

@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#59"
- , "c1" : "Map<TextBlock,XDimension2D>"
+ , "c1" : "Map&lt;TextBlock,XDimension2D&gt;"
  , "c2" : "getDimensions()"
  , "c3" : "1"
  , "c4" : "1"
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00079"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#79"
  , "c1" : "double"
- , "c2" : "getSumWidth(Iterator<XDimension2D>)"
+ , "c2" : "getSumWidth(Iterator&lt;XDimension2D&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00087"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#87"
  , "c1" : "double"
- , "c2" : "getSumHeight(Iterator<XDimension2D>)"
+ , "c2" : "getSumHeight(Iterator&lt;XDimension2D&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -102,7 +102,7 @@ var maDataBlocs = {
  , "c5" : "00095"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#95"
  , "c1" : "double"
- , "c2" : "getMaxWidth(Iterator<XDimension2D>)"
+ , "c2" : "getMaxWidth(Iterator&lt;XDimension2D&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c5" : "00103"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#103"
  , "c1" : "double"
- , "c2" : "getMaxHeight(Iterator<XDimension2D>)"
+ , "c2" : "getMaxHeight(Iterator&lt;XDimension2D&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

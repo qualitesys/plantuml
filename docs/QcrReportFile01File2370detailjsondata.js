@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00068"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/text/StyledString.java.html#68"
- , "c1" : "List<StyledString>"
+ , "c1" : "List&lt;StyledString&gt;"
  , "c2" : "build(String)"
  , "c3" : "6"
  , "c4" : "12"

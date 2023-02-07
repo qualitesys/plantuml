@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00063"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphic.java.html#63"
  , "c1" : "void"
- , "c2" : "startGroup(Map<UGroupType,String>)"
+ , "c2" : "startGroup(Map&lt;UGroupType,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

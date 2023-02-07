@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#52"
  , "c1" : "void"
- , "c2" : "addCommonCommands1(List<Command>)"
+ , "c2" : "addCommonCommands1(List&lt;Command&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00058"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#58"
  , "c1" : "void"
- , "c2" : "addCommonCommands2(List<Command>)"
+ , "c2" : "addCommonCommands2(List&lt;Command&gt;)"
  , "c3" : "1"
  , "c4" : "25"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00089"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#89"
  , "c1" : "void"
- , "c2" : "addCommonHides(List<Command>)"
+ , "c2" : "addCommonHides(List&lt;Command&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00095"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#95"
  , "c1" : "void"
- , "c2" : "addTitleCommands(List<Command>)"
+ , "c2" : "addTitleCommands(List&lt;Command&gt;)"
  , "c3" : "1"
  , "c4" : "11"
 }} 

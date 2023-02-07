@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00062"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#62"
  , "c1" : "AbstractClassOrObjectDiagram"
- , "c2" : "AbstractClassOrObjectDiagram(UmlSource;UmlDiagramType;Map<String,String>)"
+ , "c2" : "AbstractClassOrObjectDiagram(UmlSource;UmlDiagramType;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00225"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#225"
- , "c1" : "List<Association>"
+ , "c1" : "List&lt;Association&gt;"
  , "c2" : "getExistingAssociatedPoints(IEntity;IEntity)"
  , "c3" : "3"
  , "c4" : "3"

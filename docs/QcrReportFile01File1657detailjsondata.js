@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00062"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#62"
  , "c1" : "TimeHeaderParameters"
- , "c2" : "TimeHeaderParameters(Map<Day,HColor>;double;Day;Day;HColorSet;Style;Style;Locale;OpenClose;Map<DayOfWeek,HColor>;Set<Day>)"
+ , "c2" : "TimeHeaderParameters(Map&lt;Day,HColor&gt;;double;Day;Day;HColorSet;Style;Style;Locale;OpenClose;Map&lt;DayOfWeek,HColor&gt;;Set&lt;Day&gt;)"
  , "c3" : "1"
  , "c4" : "11"
 }} 
@@ -128,7 +128,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00122"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/TimeHeaderParameters.java.html#122"
- , "c1" : "Set<Day>"
+ , "c1" : "Set&lt;Day&gt;"
  , "c2" : "getVerticalSeparatorBefore()"
  , "c3" : "1"
  , "c4" : "1"

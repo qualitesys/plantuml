@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00110"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#110"
  , "c1" : "Diagram"
- , "c2" : "createPSystem(List<StringLocated>;List<StringLocated>;Map<String,String>)"
+ , "c2" : "createPSystem(List&lt;StringLocated&gt;;List&lt;StringLocated&gt;;Map&lt;String,String&gt;)"
  , "c3" : "7"
  , "c4" : "20"
 }} 

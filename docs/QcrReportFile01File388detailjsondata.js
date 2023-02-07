@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00047"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#47"
  , "c1" : "FileWatcher"
- , "c2" : "FileWatcher(Set<File>)"
+ , "c2" : "FileWatcher(Set&lt;File&gt;)"
  , "c3" : "3"
  , "c4" : "2"
 }} 

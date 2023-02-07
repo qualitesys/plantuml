@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00057"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#57"
  , "c1" : "PageSplitter"
- , "c2" : "PageSplitter(double;double;Map<Newpage,Double>;double;double;double;Display)"
+ , "c2" : "PageSplitter(double;double;Map&lt;Newpage,Double&gt;;double;double;double;Display)"
  , "c3" : "2"
  , "c4" : "10"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00075"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/PageSplitter.java.html#75"
- , "c1" : "List<Page>"
+ , "c1" : "List&lt;Page&gt;"
  , "c2" : "getPages()"
  , "c3" : "3"
  , "c4" : "8"

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#48"
  , "c1" : "PSystemError"
- , "c2" : "buildV2(UmlSource;ErrorUml;List<String>;List<StringLocated>)"
+ , "c2" : "buildV2(UmlSource;ErrorUml;List&lt;String&gt;;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#56"
  , "c1" : "PSystemError"
- , "c2" : "merge(Collection<PSystemError>)"
+ , "c2" : "merge(Collection&lt;PSystemError&gt;)"
  , "c3" : "8"
  , "c4" : "11"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00084"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#84"
  , "c1" : "PSystemErrorV2"
- , "c2" : "mergeV2(List<PSystemErrorV2>)"
+ , "c2" : "mergeV2(List&lt;PSystemErrorV2&gt;)"
  , "c3" : "3"
  , "c4" : "3"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00093"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#93"
  , "c1" : "boolean"
- , "c2" : "isDiagramError(Class<?extendsDiagram>)"
+ , "c2" : "isDiagramError(Class&lt;?extendsDiagram&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

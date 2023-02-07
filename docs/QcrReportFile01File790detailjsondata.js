@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00068"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/board/BArray.java.html#68"
- , "c1" : "Iterator<BNode>"
+ , "c1" : "Iterator&lt;BNode&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

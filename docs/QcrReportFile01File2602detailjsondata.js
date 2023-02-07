@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#56"
  , "c1" : "UPolygon"
- , "c2" : "UPolygon(List<XPoint2D>)"
+ , "c2" : "UPolygon(List&lt;XPoint2D&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00098"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#98"
- , "c1" : "List<XPoint2D>"
+ , "c1" : "List&lt;XPoint2D&gt;"
  , "c2" : "getPoints()"
  , "c3" : "1"
  , "c4" : "1"

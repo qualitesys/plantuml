@@ -227,7 +227,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00173"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#173"
- , "c1" : "Iterator<USegment>"
+ , "c1" : "Iterator&lt;USegment&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/Neighborhood.java.html#61"
  , "c1" : "Neighborhood"
- , "c2" : "Neighborhood(ILeaf;List<Link>;List<Link>)"
+ , "c2" : "Neighborhood(ILeaf;List&lt;Link&gt;;List&lt;Link&gt;)"
  , "c3" : "1"
  , "c4" : "4"
 }} 

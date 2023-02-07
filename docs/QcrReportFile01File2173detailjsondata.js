@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleBuilder.java.html#61"
  , "c1" : "StyleBuilder"
- , "c2" : "StyleBuilder(SkinParam;Set<StyleSignatureBasic>)"
+ , "c2" : "StyleBuilder(SkinParam;Set&lt;StyleSignatureBasic&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

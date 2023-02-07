@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00058"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/UGraphicInterceptorUDrawable2.java.html#58"
  , "c1" : "UGraphicInterceptorUDrawable2"
- , "c2" : "UGraphicInterceptorUDrawable2(UGraphic;Map<String,UTranslate>)"
+ , "c2" : "UGraphicInterceptorUDrawable2(UGraphic;Map&lt;String,UTranslate&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

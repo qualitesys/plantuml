@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00045"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorEmpty.java.html#45"
  , "c1" : "PSystemErrorEmpty"
- , "c2" : "PSystemErrorEmpty(UmlSource;List<StringLocated>;ErrorUml)"
+ , "c2" : "PSystemErrorEmpty(UmlSource;List&lt;StringLocated&gt;;ErrorUml)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GitDiagramFactory.java.html#54"
  , "c1" : "Diagram"
- , "c2" : "createSystem(UmlSource;Map<String,String>)"
+ , "c2" : "createSystem(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "3"
  , "c4" : "7"
 }} 

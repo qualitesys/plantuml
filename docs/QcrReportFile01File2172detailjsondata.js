@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/Style.java.html#65"
  , "c1" : "Style"
- , "c2" : "Style(StyleSignatureBasic;Map<PName,Value>)"
+ , "c2" : "Style(StyleSignatureBasic;Map&lt;PName,Value&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

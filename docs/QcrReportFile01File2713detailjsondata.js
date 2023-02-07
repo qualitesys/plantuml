@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00115"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioGraphics.java.html#115"
  , "c1" : "void"
- , "c2" : "text(String;double;double;String;int;double;double;Map<String,String>)"
+ , "c2" : "text(String;double;double;String;int;double;double;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

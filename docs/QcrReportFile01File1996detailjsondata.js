@@ -110,8 +110,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00097"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#97"
- , "c1" : "Collection<Segment>"
- , "c2" : "cutSegmentIfNeed(Collection<Segment>)"
+ , "c1" : "Collection&lt;Segment&gt;"
+ , "c2" : "cutSegmentIfNeed(Collection&lt;Segment&gt;)"
  , "c3" : "8"
  , "c4" : "14"
 }} 

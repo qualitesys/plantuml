@@ -25,7 +25,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00067"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#67"
- , "c1" : "List<Atom>"
+ , "c1" : "List&lt;Atom&gt;"
  , "c2" : "splitInTwo(StringBounder;double)"
  , "c3" : "1"
  , "c4" : "1"
@@ -35,7 +35,7 @@ var maDataBlocs = {
  , "c5" : "00071"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#71"
  , "c1" : "EmbeddedDiagramDraw"
- , "c2" : "EmbeddedDiagramDraw(ISkinSimple;List<StringLocated>)"
+ , "c2" : "EmbeddedDiagramDraw(ISkinSimple;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

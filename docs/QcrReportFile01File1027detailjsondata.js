@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00053"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/Atom.java.html#53"
- , "c1" : "List<Atom>"
+ , "c1" : "List&lt;Atom&gt;"
  , "c2" : "splitInTwo(StringBounder;double)"
  , "c3" : "1"
  , "c4" : "1"

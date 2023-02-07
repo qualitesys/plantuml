@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00076"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#76"
  , "c1" : "NBox"
- , "c2" : "getNbox(Map<String,?extendsNServer>)"
+ , "c2" : "getNbox(Map&lt;String,?extendsNServer&gt;)"
  , "c3" : "4"
  , "c4" : "3"
 }} 
@@ -110,7 +110,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00122"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#122"
- , "c1" : "Set<String>"
+ , "c1" : "Set&lt;String&gt;"
  , "c2" : "names()"
  , "c3" : "1"
  , "c4" : "1"

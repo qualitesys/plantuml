@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00393"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html#393"
- , "c1" : "List<double[]>"
+ , "c1" : "List&lt;double[]&gt;"
  , "c2" : "getBounds(double)"
  , "c3" : "3"
  , "c4" : "15"

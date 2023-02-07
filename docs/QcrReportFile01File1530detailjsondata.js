@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/LinkedElement.java.html#65"
  , "c1" : "LinkedElement"
- , "c2" : "LinkedElement(double;NServer;TextBlock;Map<Network,TextBlock>;List<Network>)"
+ , "c2" : "LinkedElement(double;NServer;TextBlock;Map&lt;Network,TextBlock&gt;;List&lt;Network&gt;)"
  , "c3" : "1"
  , "c4" : "6"
 }} 

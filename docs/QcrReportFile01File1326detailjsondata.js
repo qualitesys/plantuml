@@ -155,7 +155,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00232"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#232"
- , "c1" : "List<Path>"
+ , "c1" : "List&lt;Path&gt;"
  , "c2" : "getPaths()"
  , "c3" : "1"
  , "c4" : "1"

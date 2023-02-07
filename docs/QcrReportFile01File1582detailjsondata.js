@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00118"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/png/PngSplitter.java.html#118"
- , "c1" : "List<SFile>"
+ , "c1" : "List&lt;SFile&gt;"
  , "c2" : "getFiles()"
  , "c3" : "1"
  , "c4" : "1"

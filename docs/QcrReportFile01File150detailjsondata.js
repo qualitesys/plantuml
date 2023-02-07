@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html" 
- , "texte" : "File src/gen/lib/dotgen/dotsplines__c.java 1285 rule violations " 
+ , "texte" : "File src/gen/lib/dotgen/dotsplines__c.java 1325 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/dotgen/dotsplines__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00296"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#296"
  , "c1" : "void"
- , "c2" : "swap_bezier(CArray<ST_bezier>;CArray<ST_bezier>)"
+ , "c2" : "swap_bezier(CArray&lt;ST_bezier&gt;;CArray&lt;ST_bezier&gt;)"
  , "c3" : "2"
  , "c4" : "21"
 }} 
@@ -156,7 +156,7 @@ var maDataBlocs = {
  , "c5" : "00788"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#788"
  , "c1" : "int"
- , "c2" : "edgecmp(CArrayOfStar<ST_Agedge_s>;CArrayOfStar<ST_Agedge_s>)"
+ , "c2" : "edgecmp(CArrayOfStar&lt;ST_Agedge_s&gt;;CArrayOfStar&lt;ST_Agedge_s&gt;)"
  , "c3" : "11"
  , "c4" : "40"
 }} 
@@ -165,7 +165,7 @@ var maDataBlocs = {
  , "c5" : "00857"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#857"
  , "c1" : "int"
- , "c2" : "edgelblcmpfn(CArrayOfStar<ST_Agedge_s>;CArrayOfStar<ST_Agedge_s>)"
+ , "c2" : "edgelblcmpfn(CArrayOfStar&lt;ST_Agedge_s&gt;;CArrayOfStar&lt;ST_Agedge_s&gt;)"
  , "c3" : "15"
  , "c4" : "16"
 }} 
@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c5" : "00899"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#899"
  , "c1" : "void"
- , "c2" : "makeSimpleFlatLabels(ST_Agnode_s;ST_Agnode_s;CArrayOfStar<ST_Agedge_s>;int;int;int;int)"
+ , "c2" : "makeSimpleFlatLabels(ST_Agnode_s;ST_Agnode_s;CArrayOfStar&lt;ST_Agedge_s&gt;;int;int;int;int)"
  , "c3" : "12"
  , "c4" : "124"
 }} 
@@ -183,7 +183,7 @@ var maDataBlocs = {
  , "c5" : "01063"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#1063"
  , "c1" : "void"
- , "c2" : "makeSimpleFlat(ST_Agnode_s;ST_Agnode_s;CArrayOfStar<ST_Agedge_s>;int;int;int)"
+ , "c2" : "makeSimpleFlat(ST_Agnode_s;ST_Agnode_s;CArrayOfStar&lt;ST_Agedge_s&gt;;int;int;int)"
  , "c3" : "4"
  , "c4" : "31"
 }} 
@@ -192,7 +192,7 @@ var maDataBlocs = {
  , "c5" : "01115"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#1115"
  , "c1" : "void"
- , "c2" : "make_flat_adj_edges(ST_Agraph_s;ST_path;CArrayOfStar<ST_Agedge_s>;int;int;ST_Agedge_s;int)"
+ , "c2" : "make_flat_adj_edges(ST_Agraph_s;ST_path;CArrayOfStar&lt;ST_Agedge_s&gt;;int;int;ST_Agedge_s;int)"
  , "c3" : "7"
  , "c4" : "124"
 }} 
@@ -228,7 +228,7 @@ var maDataBlocs = {
  , "c5" : "00001"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
  , "c1" : "void"
- , "c2" : "make_flat_edge(ST_Agraph_s;ST_spline_info_t;ST_path;CArrayOfStar<ST_Agedge_s>;int;int;int)"
+ , "c2" : "make_flat_edge(ST_Agraph_s;ST_spline_info_t;ST_path;CArrayOfStar&lt;ST_Agedge_s&gt;;int;int;int)"
  , "c3" : "19"
  , "c4" : "80"
 }} 
@@ -246,7 +246,7 @@ var maDataBlocs = {
  , "c5" : "00001"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
  , "c1" : "void"
- , "c2" : "make_regular_edge(ST_Agraph_s;ST_spline_info_t;ST_path;CArrayOfStar<ST_Agedge_s>;int;int;int)"
+ , "c2" : "make_regular_edge(ST_Agraph_s;ST_spline_info_t;ST_path;CArrayOfStar&lt;ST_Agedge_s&gt;;int;int;int)"
  , "c3" : "33"
  , "c4" : "157"
 }} 
@@ -318,7 +318,7 @@ var maDataBlocs = {
  , "c5" : "00001"
  , "c5link" : "././qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
  , "c1" : "ST_Agedge_s"
- , "c2" : "straight_path(ST_Agedge_s;int;CArray<ST_pointf>;int[])"
+ , "c2" : "straight_path(ST_Agedge_s;int;CArray&lt;ST_pointf&gt;;int[])"
  , "c3" : "2"
  , "c4" : "9"
 }} 
@@ -458,7 +458,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "25"
+ , "c4" : "61"
 }}
 ,
 { "ligne" : { "" : ""
@@ -472,7 +472,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -9336,6 +9336,27 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.boxfof_w_@POLYN623418"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.portcmp_w_@POLYN628474"
 }} 
 ,
@@ -9343,7 +9364,210 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.cl_bound@POLYN780304"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#178"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00178] In the recursive method gen.lib.dotgen.dotsplines__c.boxfof_w_@POLYN623418 the MagicNumber/String '1vvsta5i8of59frav6uymguav' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#178"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00178] In the recursive method gen.lib.dotgen.dotsplines__c.boxfof_w_@POLYN623418 the MagicNumber/String 'boxfof' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#187"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00187] In the recursive method gen.lib.dotgen.dotsplines__c.boxfof_w_@POLYN623418 the MagicNumber/String '1vvsta5i8of59frav6uymguav' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00187"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#187"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00187] In the recursive method gen.lib.dotgen.dotsplines__c.boxfof_w_@POLYN623418 the MagicNumber/String 'boxfof' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597 the MagicNumber/String '3wwhczhpkcnflwr1l9wcga7tq' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597 the MagicNumber/String '3wwhczhpkcnflwr1l9wcga7tq' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597 the MagicNumber/String 'makeregularend' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597 the MagicNumber/String 'makeregularend' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN760597 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String '6qwgl36ugfnduc5x59ohuewv1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String '6qwgl36ugfnduc5x59ohuewv1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String 'maximal_bbox' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String 'maximal_bbox' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String 10 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN784183 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -9414,6 +9638,62 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#283"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00283] In the recursive method gen.lib.dotgen.dotsplines__c.portcmp_w_@POLYN628474 the MagicNumber/String 'portcmp' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158 the MagicNumber/String 'bajn5vx0isu427n6dh131b985' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158 the MagicNumber/String 'bajn5vx0isu427n6dh131b985' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158 the MagicNumber/String 'rank_box' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158 the MagicNumber/String 'rank_box' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN766158 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""

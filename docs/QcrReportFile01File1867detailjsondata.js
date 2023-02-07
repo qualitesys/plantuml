@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00070"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#70"
  , "c1" : "SecurityAuthentication"
- , "c2" : "SecurityAuthentication(String;Map<String,Object>)"
+ , "c2" : "SecurityAuthentication(String;Map&lt;String,Object&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00074"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#74"
  , "c1" : "SecurityAuthentication"
- , "c2" : "SecurityAuthentication(String;String;String;Map<String,Object>)"
+ , "c2" : "SecurityAuthentication(String;String;String;Map&lt;String,Object&gt;)"
  , "c3" : "1"
  , "c4" : "4"
 }} 
@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00102"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html#102"
- , "c1" : "Map<String,Object>"
+ , "c1" : "Map&lt;String,Object&gt;"
  , "c2" : "getTokens()"
  , "c3" : "1"
  , "c4" : "1"

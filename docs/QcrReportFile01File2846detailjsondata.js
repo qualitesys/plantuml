@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00097"
  , "c5link" : "././qc/src/smetana/core/CString.java.html#97"
  , "c1" : "CString"
- , "c2" : "CString(List<Character>;int)"
+ , "c2" : "CString(List&lt;Character&gt;;int)"
  , "c3" : "3"
  , "c4" : "6"
 }} 
@@ -137,7 +137,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00158"
  , "c5link" : "././qc/src/smetana/core/CString.java.html#158"
- , "c1" : "List<Character>"
+ , "c1" : "List&lt;Character&gt;"
  , "c2" : "getData()"
  , "c3" : "1"
  , "c4" : "1"

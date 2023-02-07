@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00066"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#66"
  , "c1" : "MutingLine"
- , "c2" : "MutingLine(Rose;ISkinParam;List<Event>;Participant)"
+ , "c2" : "MutingLine(Rose;ISkinParam;List&lt;Event&gt;;Participant)"
  , "c3" : "1"
  , "c4" : "5"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00074"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#74"
  , "c1" : "boolean"
- , "c2" : "useContinueLineBecauseOfDelay(List<Event>)"
+ , "c2" : "useContinueLineBecauseOfDelay(List&lt;Event&gt;)"
  , "c3" : "4"
  , "c4" : "4"
 }} 

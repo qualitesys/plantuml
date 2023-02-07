@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00098"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#98"
  , "c1" : "String"
- , "c2" : "getCreoleLine(Collection<StatsColumn>;StatsLine;boolean)"
+ , "c2" : "getCreoleLine(Collection&lt;StatsColumn&gt;;StatsLine;boolean)"
  , "c3" : "14"
  , "c4" : "15"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00133"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#133"
  , "c1" : "String"
- , "c2" : "getHtmlHeader(Collection<StatsColumn>)"
+ , "c2" : "getHtmlHeader(Collection&lt;StatsColumn&gt;)"
  , "c3" : "2"
  , "c4" : "7"
 }} 

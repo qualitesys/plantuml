@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00096"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#96"
  , "c1" : "GroupingTile"
- , "c2" : "GroupingTile(Iterator<Event>;GroupingStart;TileArguments;TileArguments;YGauge)"
+ , "c2" : "GroupingTile(Iterator&lt;Event&gt;;GroupingStart;TileArguments;TileArguments;YGauge)"
  , "c3" : "9"
  , "c4" : "32"
 }} 
@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c5" : "00249"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#249"
  , "c1" : "TimeHook"
- , "c2" : "fillPositionelTiles(StringBounder;TimeHook;List<Tile>;List<CommonTile>;List<CommonTile>)"
+ , "c2" : "fillPositionelTiles(StringBounder;TimeHook;List&lt;Tile&gt;;List&lt;CommonTile&gt;;List&lt;CommonTile&gt;)"
  , "c3" : "3"
  , "c4" : "9"
 }} 
@@ -155,8 +155,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00272"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#272"
- , "c1" : "List<Tile>"
- , "c2" : "mergeParallel(StringBounder;List<Tile>)"
+ , "c1" : "List&lt;Tile&gt;"
+ , "c2" : "mergeParallel(StringBounder;List&lt;Tile&gt;)"
  , "c3" : "8"
  , "c4" : "16"
 }} 
@@ -164,8 +164,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00304"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#304"
- , "c1" : "List<Tile>"
- , "c2" : "removeEmptyCloseToParallel(List<Tile>)"
+ , "c1" : "List&lt;Tile&gt;"
+ , "c2" : "removeEmptyCloseToParallel(List&lt;Tile&gt;)"
  , "c3" : "3"
  , "c4" : "4"
 }} 
@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c5" : "00316"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#316"
  , "c1" : "void"
- , "c2" : "removeHeadEmpty(List<Tile>)"
+ , "c2" : "removeHeadEmpty(List&lt;Tile&gt;)"
  , "c3" : "2"
  , "c4" : "1"
 }} 
@@ -192,7 +192,7 @@ var maDataBlocs = {
  , "c5" : "00326"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#326"
  , "c1" : "void"
- , "c2" : "addYNewPages(Collection<Double>)"
+ , "c2" : "addYNewPages(Collection&lt;Double&gt;)"
  , "c3" : "4"
  , "c4" : "3"
 }} 

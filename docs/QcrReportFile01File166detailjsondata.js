@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00363"
  , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#363"
  , "c1" : "ST_XLabels_t"
- , "c2" : "xlnew(CArray<ST_object_t>;int;CArray<ST_xlabel_t>;int;ST_label_params_t)"
+ , "c2" : "xlnew(CArray&lt;ST_object_t&gt;;int;CArray&lt;ST_xlabel_t&gt;;int;ST_label_params_t)"
  , "c3" : "3"
  , "c4" : "16"
 }} 
@@ -228,7 +228,7 @@ var maDataBlocs = {
  , "c5" : "00001"
  , "c5link" : "././qc/src/gen/lib/label/xlabels__c.java.html#1"
  , "c1" : "int"
- , "c2" : "placeLabels(CArray<ST_object_t>;int;CArray<ST_xlabel_t>;int;ST_label_params_t)"
+ , "c2" : "placeLabels(CArray&lt;ST_object_t&gt;;int;CArray&lt;ST_xlabel_t&gt;;int;ST_label_params_t)"
  , "c3" : "10"
  , "c4" : "21"
 }} 

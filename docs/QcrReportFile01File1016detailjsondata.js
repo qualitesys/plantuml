@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00088"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sea.java.html#88"
  , "c1" : "void"
- , "c2" : "exportAllPositions(Map<Atom,Position>)"
+ , "c2" : "exportAllPositions(Map&lt;Atom,Position&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

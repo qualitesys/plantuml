@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/theme/ThemeUtils.java.html#61"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getAllThemeNames()"
  , "c3" : "3"
  , "c4" : "5"

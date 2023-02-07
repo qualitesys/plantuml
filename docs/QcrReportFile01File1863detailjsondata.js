@@ -110,7 +110,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00275"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#275"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getUrlAllowList()"
  , "c3" : "2"
  , "c4" : "3"
@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c5" : "00351"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#351"
  , "c1" : "byte[]"
- , "c2" : "getBytes(Proxy;SecurityAuthentication;Map<String,Object>)"
+ , "c2" : "getBytes(Proxy;SecurityAuthentication;Map&lt;String,Object&gt;)"
  , "c3" : "2"
  , "c4" : "5"
 }} 
@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c5" : "00385"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#385"
  , "c1" : "byte[]"
- , "c2" : "getBytesOnPost(Proxy;SecurityAuthentication;String;Map<String,Object>)"
+ , "c2" : "getBytesOnPost(Proxy;SecurityAuthentication;String;Map&lt;String,Object&gt;)"
  , "c3" : "2"
  , "c4" : "5"
 }} 
@@ -146,8 +146,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00410"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#410"
- , "c1" : "Callable<byte[]>"
- , "c2" : "requestWithGetAndResponse(URL;Proxy;SecurityAuthentication;Map<String,Object>)"
+ , "c1" : "Callable&lt;byte[]&gt;"
+ , "c2" : "requestWithGetAndResponse(URL;Proxy;SecurityAuthentication;Map&lt;String,Object&gt;)"
  , "c3" : "3"
  , "c4" : "12"
 }} 
@@ -155,8 +155,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00454"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#454"
- , "c1" : "Callable<byte[]>"
- , "c2" : "requestWithPostAndResponse(URL;Proxy;SecurityAuthentication;String;Map<String,Object>)"
+ , "c1" : "Callable&lt;byte[]&gt;"
+ , "c2" : "requestWithPostAndResponse(URL;Proxy;SecurityAuthentication;String;Map&lt;String,Object&gt;)"
  , "c3" : "4"
  , "c4" : "12"
 }} 
@@ -237,7 +237,7 @@ var maDataBlocs = {
  , "c5" : "00616"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SURL.java.html#616"
  , "c1" : "void"
- , "c2" : "applyAdditionalHeaders(URLConnection;Map<String,Object>)"
+ , "c2" : "applyAdditionalHeaders(URLConnection;Map&lt;String,Object&gt;)"
  , "c3" : "8"
  , "c4" : "4"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00047"
  , "c5link" : "././qc/src/smetana/core/CStarStar.java.html#47"
  , "c1" : "CStarStar"
- , "c2" : "CStarStar(ACCESS<O>)"
+ , "c2" : "CStarStar(ACCESS&lt;O&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00057"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSplit1.java.html#57"
  , "c1" : "FtileSplit1"
- , "c2" : "FtileSplit1(List<Ftile>)"
+ , "c2" : "FtileSplit1(List&lt;Ftile&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 
@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00073"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSplit1.java.html#73"
- , "c1" : "Set<Swimlane>"
+ , "c1" : "Set&lt;Swimlane&gt;"
  , "c2" : "getSwimlanes()"
  , "c3" : "1"
  , "c4" : "1"
@@ -56,8 +56,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00077"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSplit1.java.html#77"
- , "c1" : "Set<Swimlane>"
- , "c2" : "mergeSwimlanes(List<Ftile>)"
+ , "c1" : "Set&lt;Swimlane&gt;"
+ , "c2" : "mergeSwimlanes(List&lt;Ftile&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

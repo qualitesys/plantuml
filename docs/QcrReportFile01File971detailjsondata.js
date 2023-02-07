@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/ProtectedCommand.java.html#49"
  , "c1" : "ProtectedCommand"
- , "c2" : "ProtectedCommand(Command<S>)"
+ , "c2" : "ProtectedCommand(Command&lt;S&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

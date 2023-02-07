@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00081"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/mda/MDADiagramImpl.java.html#81"
- , "c1" : "Collection<MDAPackage>"
+ , "c1" : "Collection&lt;MDAPackage&gt;"
  , "c2" : "getPackages()"
  , "c3" : "1"
  , "c4" : "1"

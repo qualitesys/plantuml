@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00133"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#133"
- , "c1" : "HashSet<String>"
+ , "c1" : "HashSet&lt;String&gt;"
  , "c2" : "getAnnotatedElements(Note;Message)"
  , "c3" : "3"
  , "c4" : "9"
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00149"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#149"
  , "c1" : "void"
- , "c2" : "buildNote(Node;Note;HashSet<String>)"
+ , "c2" : "buildNote(Node;Note;HashSet&lt;String&gt;)"
  , "c3" : "2"
  , "c4" : "4"
 }} 

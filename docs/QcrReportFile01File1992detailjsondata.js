@@ -182,7 +182,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00207"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#207"
- , "c1" : "Collection<Segment>"
+ , "c1" : "Collection&lt;Segment&gt;"
  , "c2" : "getDelays(StringBounder)"
  , "c3" : "1"
  , "c4" : "8"

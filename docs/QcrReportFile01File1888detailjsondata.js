@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/DottedNumber.java.html#48"
  , "c1" : "DottedNumber"
- , "c2" : "DottedNumber(List<Integer>;List<String>)"
+ , "c2" : "DottedNumber(List&lt;Integer&gt;;List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

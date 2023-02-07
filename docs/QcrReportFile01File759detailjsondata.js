@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingBody.java.html#55"
  , "c1" : "ComponentTextGroupingBody"
- , "c2" : "ComponentTextGroupingBody(ComponentType;List<?extendsCharSequence>;FileFormat)"
+ , "c2" : "ComponentTextGroupingBody(ComponentType;List&lt;?extendsCharSequence&gt;;FileFormat)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

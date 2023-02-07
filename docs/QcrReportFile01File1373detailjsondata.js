@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockHorizontal.java.html#56"
  , "c1" : "TextBlockHorizontal"
- , "c2" : "TextBlockHorizontal(List<TextBlock>;VerticalAlignment)"
+ , "c2" : "TextBlockHorizontal(List&lt;TextBlock&gt;;VerticalAlignment)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

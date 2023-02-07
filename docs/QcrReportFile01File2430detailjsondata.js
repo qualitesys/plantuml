@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00087"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#87"
  , "c1" : "TokenStack"
- , "c2" : "TokenStack(List<Token>)"
+ , "c2" : "TokenStack(List&lt;Token&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

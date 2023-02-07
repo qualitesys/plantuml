@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagramFactory.java.html#54"
  , "c1" : "FlowDiagram"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagramFactory.java.html#59"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "4"

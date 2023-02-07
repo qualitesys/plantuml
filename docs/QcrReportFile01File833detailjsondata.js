@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00044"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleCharFactory.java.html#44"
- , "c1" : "List<BrailleChar>"
+ , "c1" : "List&lt;BrailleChar&gt;"
  , "c2" : "build(String)"
  , "c3" : "2"
  , "c4" : "5"

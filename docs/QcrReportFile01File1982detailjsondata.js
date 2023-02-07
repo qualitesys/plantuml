@@ -146,7 +146,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00195"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeLine.java.html#195"
- , "c1" : "Collection<SegmentColored>"
+ , "c1" : "Collection&lt;SegmentColored&gt;"
  , "c2" : "getSegmentsCutted(StringBounder;int)"
  , "c3" : "2"
  , "c4" : "3"

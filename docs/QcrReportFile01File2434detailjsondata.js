@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorAffectation.java.html#54"
  , "c1" : "CodeIteratorAffectation"
- , "c2" : "CodeIteratorAffectation(CodeIterator;TContext;TMemory;List<StringLocated>)"
+ , "c2" : "CodeIteratorAffectation(CodeIterator;TContext;TMemory;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "4"
 }} 

@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00066"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#66"
  , "c1" : "ImageData"
- , "c2" : "createFile(OutputStream;List<String>;FileFormatOption)"
+ , "c2" : "createFile(OutputStream;List&lt;String&gt;;FileFormatOption)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00087"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#87"
  , "c1" : "ImageData"
- , "c2" : "createFileInternal(OutputStream;List<String>;FileFormatOption)"
+ , "c2" : "createFileInternal(OutputStream;List&lt;String&gt;;FileFormatOption)"
  , "c3" : "7"
  , "c4" : "16"
 }} 
@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00128"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#128"
- , "c1" : "List<Link>"
+ , "c1" : "List&lt;Link&gt;"
  , "c2" : "getOrderedLinks()"
  , "c3" : "2"
  , "c4" : "3"
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00136"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#136"
  , "c1" : "void"
- , "c2" : "addLinkNew(List<Link>;Link)"
+ , "c2" : "addLinkNew(List&lt;Link&gt;;Link)"
  , "c3" : "6"
  , "c4" : "8"
 }} 

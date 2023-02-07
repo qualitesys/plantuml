@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithConnection.java.html#52"
  , "c1" : "FtileWithConnection"
- , "c2" : "FtileWithConnection(Ftile;Collection<Connection>)"
+ , "c2" : "FtileWithConnection(Ftile;Collection&lt;Connection&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00076"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithConnection.java.html#76"
- , "c1" : "Collection<Connection>"
+ , "c1" : "Collection&lt;Connection&gt;"
  , "c2" : "getInnerConnections()"
  , "c3" : "1"
  , "c4" : "3"

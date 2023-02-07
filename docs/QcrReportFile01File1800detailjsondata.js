@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00100"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#100"
  , "c1" : "PSystemSalt"
- , "c2" : "PSystemSalt(UmlSource;List<String>)"
+ , "c2" : "PSystemSalt(UmlSource;List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00164"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#164"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "manageSprite()"
  , "c3" : "12"
  , "c4" : "14"
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00196"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#196"
  , "c1" : "Element"
- , "c2" : "createElement(List<String>)"
+ , "c2" : "createElement(List&lt;String&gt;)"
  , "c3" : "6"
  , "c4" : "11"
 }} 

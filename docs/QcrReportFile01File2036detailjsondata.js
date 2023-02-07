@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00071"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxesDrawer.java.html#71"
  , "c1" : "LiveBoxesDrawer"
- , "c2" : "LiveBoxesDrawer(Context2D;Rose;ISkinParam;Map<Double,Double>)"
+ , "c2" : "LiveBoxesDrawer(Context2D;Rose;ISkinParam;Map&lt;Double,Double&gt;)"
  , "c3" : "2"
  , "c4" : "7"
 }} 

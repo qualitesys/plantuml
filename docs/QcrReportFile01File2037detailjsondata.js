@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00105"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#105"
  , "c1" : "LivingSpace"
- , "c2" : "LivingSpace(Participant;ParticipantEnglober;Rose;ISkinParam;Real;List<Event>)"
+ , "c2" : "LivingSpace(Participant;ParticipantEnglober;Rose;ISkinParam;Real;List&lt;Event&gt;)"
  , "c3" : "17"
  , "c4" : "23"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00146"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#146"
  , "c1" : "boolean"
- , "c2" : "useContinueLineBecauseOfDelay(List<Event>)"
+ , "c2" : "useContinueLineBecauseOfDelay(List&lt;Event&gt;)"
  , "c3" : "4"
  , "c4" : "4"
 }} 

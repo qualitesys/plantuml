@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#59"
  , "c1" : "void"
- , "c2" : "executeProcedureInternal(TContext;TMemory;List<TValue>;Map<String,TValue>)"
+ , "c2" : "executeProcedureInternal(TContext;TMemory;List&lt;TValue&gt;;Map&lt;String,TValue&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

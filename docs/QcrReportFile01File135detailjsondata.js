@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/routespl__c.java.html" 
- , "texte" : "File src/gen/lib/common/routespl__c.java 493 rule violations " 
+ , "texte" : "File src/gen/lib/common/routespl__c.java 528 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/common/routespl__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00086"
  , "c5link" : "././qc/src/gen/lib/common/routespl__c.java.html#86"
- , "c1" : "CArray<ST_pointf>"
+ , "c1" : "CArray&lt;ST_pointf&gt;"
  , "c2" : "simpleSplineRoute(ST_pointf;ST_pointf;ST_Ppoly_t;int[];boolean)"
  , "c3" : "1"
  , "c4" : "1"
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00090"
  , "c5link" : "././qc/src/gen/lib/common/routespl__c.java.html#90"
- , "c1" : "CArray<ST_pointf>"
+ , "c1" : "CArray&lt;ST_pointf&gt;"
  , "c2" : "simpleSplineRoute_w_(ST_pointf;ST_pointf;ST_Ppoly_t;int[];boolean)"
  , "c3" : "9"
  , "c4" : "29"
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00191"
  , "c5link" : "././qc/src/gen/lib/common/routespl__c.java.html#191"
  , "c1" : "void"
- , "c2" : "limitBoxes(ST_boxf[];int;CArray<ST_pointf>;int;int)"
+ , "c2" : "limitBoxes(ST_boxf[];int;CArray&lt;ST_pointf&gt;;int;int)"
  , "c3" : "7"
  , "c4" : "31"
 }} 
@@ -65,7 +65,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00241"
  , "c5link" : "././qc/src/gen/lib/common/routespl__c.java.html#241"
- , "c1" : "CArray<ST_pointf>"
+ , "c1" : "CArray&lt;ST_pointf&gt;"
  , "c2" : "_routesplines(ST_path;int[];int)"
  , "c3" : "53"
  , "c4" : "144"
@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00491"
  , "c5link" : "././qc/src/gen/lib/common/routespl__c.java.html#491"
- , "c1" : "CArray<ST_pointf>"
+ , "c1" : "CArray&lt;ST_pointf&gt;"
  , "c2" : "routesplines(ST_path;int[])"
  , "c3" : "1"
  , "c4" : "3"
@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00507"
  , "c5link" : "././qc/src/gen/lib/common/routespl__c.java.html#507"
- , "c1" : "CArray<ST_pointf>"
+ , "c1" : "CArray&lt;ST_pointf&gt;"
  , "c2" : "routepolylines(ST_path;int[])"
  , "c3" : "1"
  , "c4" : "3"
@@ -179,7 +179,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "81"
+ , "c4" : "114"
 }}
 ,
 { "ligne" : { "" : ""
@@ -193,7 +193,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -3118,6 +3118,20 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.overlap@POLYN359370"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00552"
  , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#552"
  , "c2" : "BLOCKER"
@@ -3682,6 +3696,237 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#703"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00703] In the recursive method gen.lib.common.routespl__c.checkpath@POLYN360714 the MagicNumber/String 'dxqjhiid5f58b9gjxp0v3j97b' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00527"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#527"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00527] In the recursive method gen.lib.common.routespl__c.overlap@POLYN359370 the MagicNumber/String '65qv6x7ghwyt6hey5qd8cgizn' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00527"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#527"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00527] In the recursive method gen.lib.common.routespl__c.overlap@POLYN359370 the MagicNumber/String 'overlap' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00531"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#531"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00531] In the recursive method gen.lib.common.routespl__c.overlap@POLYN359370 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00533"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#533"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00533] In the recursive method gen.lib.common.routespl__c.overlap@POLYN359370 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00540"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#540"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00540] In the recursive method gen.lib.common.routespl__c.overlap@POLYN359370 the MagicNumber/String '65qv6x7ghwyt6hey5qd8cgizn' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00540"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#540"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00540] In the recursive method gen.lib.common.routespl__c.overlap@POLYN359370 the MagicNumber/String 'overlap' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#91"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00091] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String '7ebl6qohcfpf1b9ucih5r9qgp' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#91"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00091] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 'simpleSplineRoute' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#94"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00094] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#95"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00095] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00097"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#97"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00097] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#98"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00098] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#99"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00099] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#100"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00100] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#101"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00101] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#102"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00102] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00110"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#110"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00110] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00112"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#112"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00112] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#114"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00114] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#114"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00114] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#115"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00115] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#115"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00115] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#116"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00116] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00116"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#116"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00116] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#117"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00117] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#117"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00117] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#118"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00118] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#119"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00119] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00122"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#122"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00122] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#123"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00123] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#126"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00126] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#129"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00129] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String '7ebl6qohcfpf1b9ucih5r9qgp' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00129"
+ , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#129"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00129] In the recursive method gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN321400 the MagicNumber/String 'simpleSplineRoute' MUST BE CONVERTED to const"
 }} 
 ]
 , 

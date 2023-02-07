@@ -110,7 +110,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00157"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/wbs/WElement.java.html#157"
- , "c1" : "Collection<WElement>"
+ , "c1" : "Collection&lt;WElement&gt;"
  , "c2" : "getChildren(Direction)"
  , "c3" : "2"
  , "c4" : "2"

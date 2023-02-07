@@ -246,7 +246,7 @@ var maDataBlocs = {
  , "c5" : "00508"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#508"
  , "c1" : "void"
- , "c2" : "text(String;double;double;String;int;String;String;String;double;Map<String,String>;String)"
+ , "c2" : "text(String;double;double;String;int;String;String;String;double;Map&lt;String,String&gt;;String)"
  , "c3" : "13"
  , "c4" : "22"
 }} 
@@ -579,7 +579,7 @@ var maDataBlocs = {
  , "c5" : "01060"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1060"
  , "c1" : "void"
- , "c2" : "startGroup(Map<UGroupType,String>)"
+ , "c2" : "startGroup(Map&lt;UGroupType,String&gt;)"
  , "c3" : "5"
  , "c4" : "4"
 }} 

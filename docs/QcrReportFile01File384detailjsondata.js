@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#56"
  , "c1" : "FileGroup"
- , "c2" : "FileGroup(String;List<String>;Option)"
+ , "c2" : "FileGroup(String;List&lt;String&gt;;Option)"
  , "c3" : "5"
  , "c4" : "7"
 }} 
@@ -101,7 +101,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00161"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/FileGroup.java.html#161"
- , "c1" : "List<File>"
+ , "c1" : "List&lt;File&gt;"
  , "c2" : "getFiles()"
  , "c3" : "1"
  , "c4" : "1"

@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00101"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJs.java.html#101"
- , "c1" : "Future<String>"
+ , "c1" : "Future&lt;String&gt;"
  , "c2" : "submitJob()"
  , "c3" : "1"
  , "c4" : "4"

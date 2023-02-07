@@ -309,7 +309,7 @@ var maDataBlocs = {
  , "c5" : "00393"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#393"
  , "c1" : "void"
- , "c2" : "setPolygon(double;double;List<XPoint2D>)"
+ , "c2" : "setPolygon(double;double;List&lt;XPoint2D&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -381,7 +381,7 @@ var maDataBlocs = {
  , "c5" : "00447"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#447"
  , "c1" : "void"
- , "c2" : "fixHoverlap(List<Kal>)"
+ , "c2" : "fixHoverlap(List&lt;Kal&gt;)"
  , "c3" : "3"
  , "c4" : "8"
 }} 
@@ -390,7 +390,7 @@ var maDataBlocs = {
  , "c5" : "00460"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#460"
  , "c1" : "void"
- , "c2" : "drawList(UGraphic;List<Kal>)"
+ , "c2" : "drawList(UGraphic;List&lt;Kal&gt;)"
  , "c3" : "2"
  , "c4" : "1"
 }} 

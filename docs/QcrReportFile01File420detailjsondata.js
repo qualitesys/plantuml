@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00265"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#265"
  , "c1" : "void"
- , "c2" : "encodeSprite(List<String>)"
+ , "c2" : "encodeSprite(List&lt;String&gt;)"
  , "c3" : "8"
  , "c4" : "23"
 }} 
@@ -201,7 +201,7 @@ var maDataBlocs = {
  , "c5" : "00561"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/Run.java.html#561"
  , "c1" : "void"
- , "c2" : "hasErrors(File;List<GeneratedImage>;ErrorStatus;Stdrpt)"
+ , "c2" : "hasErrors(File;List&lt;GeneratedImage&gt;;ErrorStatus;Stdrpt)"
  , "c3" : "4"
  , "c4" : "6"
 }} 

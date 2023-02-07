@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00081"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ftp/FtpConnexion.java.html#81"
- , "c1" : "Collection<String>"
+ , "c1" : "Collection&lt;String&gt;"
  , "c2" : "getFiles()"
  , "c3" : "1"
  , "c4" : "4"

@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c5" : "00166"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#166"
  , "c1" : "void"
- , "c2" : "drawPolygon(List<XPoint2D>)"
+ , "c2" : "drawPolygon(List&lt;XPoint2D&gt;)"
  , "c3" : "2"
  , "c4" : "4"
 }} 

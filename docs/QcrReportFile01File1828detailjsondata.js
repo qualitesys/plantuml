@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/Grid2.java.html#50"
  , "c1" : "Grid2"
- , "c2" : "Grid2(List<Double>;List<Double>;TableStrategy)"
+ , "c2" : "Grid2(List&lt;Double&gt;;List&lt;Double&gt;;TableStrategy)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00051"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#51"
  , "c1" : "TFunctionSignature"
- , "c2" : "TFunctionSignature(String;int;Set<String>)"
+ , "c2" : "TFunctionSignature(String;int;Set&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00089"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionSignature.java.html#89"
- , "c1" : "Set<String>"
+ , "c1" : "Set&lt;String&gt;"
  , "c2" : "getNamedArguments()"
  , "c3" : "1"
  , "c4" : "1"

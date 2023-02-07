@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00045"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexResult.java.html#45"
  , "c1" : "RegexResult"
- , "c2" : "RegexResult(Map<String,RegexPartialMatch>)"
+ , "c2" : "RegexResult(Map&lt;String,RegexPartialMatch&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

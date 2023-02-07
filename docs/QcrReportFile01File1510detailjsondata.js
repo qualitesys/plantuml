@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00135"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/mindmap/Tetris.java.html#135"
- , "c1" : "List<SymetricalTeePositioned>"
+ , "c1" : "List&lt;SymetricalTeePositioned&gt;"
  , "c2" : "getElements()"
  , "c3" : "1"
  , "c4" : "1"

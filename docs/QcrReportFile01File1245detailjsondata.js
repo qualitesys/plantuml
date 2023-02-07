@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/eggs/PSystemWelcomeFactory.java.html#49"
  , "c1" : "Diagram"
- , "c2" : "createSystem(UmlSource;Map<String,String>)"
+ , "c2" : "createSystem(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 

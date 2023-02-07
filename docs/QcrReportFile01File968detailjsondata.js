@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#59"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "1"
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#61"
  , "c1" : "AbstractPSystem"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00073"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#73"
  , "c1" : "Diagram"
- , "c2" : "createSystem(UmlSource;Map<String,String>)"
+ , "c2" : "createSystem(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "11"
  , "c4" : "18"
 }} 

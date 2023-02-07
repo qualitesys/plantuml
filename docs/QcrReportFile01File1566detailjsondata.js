@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00057"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/Screen.java.html#57"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getLines()"
  , "c3" : "1"
  , "c4" : "1"

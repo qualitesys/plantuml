@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/data/DataContainer.java.html" 
- , "texte" : "File src/jcckit/data/DataContainer.java 27 rule violations " 
+ , "texte" : "File src/jcckit/data/DataContainer.java 26 rule violations " 
  , "fic2"  : "./qc/src/jcckit/data/DataContainer.java.xml" 
  , "fic3"  : "" 
 }
@@ -184,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "5"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
@@ -347,7 +347,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.addElement@POLYN176413"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.removeElementAt@POLYN178072"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -361,14 +361,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.insertElementAt@POLYN177286"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.removeElementAt@POLYN178072"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.addElement@POLYN176413"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -376,6 +369,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.getElement@POLYN175762"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#144"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00144] In the recursive method jcckit.data.DataContainer.removeElementAt@POLYN178072 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -390,13 +390,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#73"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00073] In the recursive method jcckit.data.DataContainer.notifyListeners@POLYN174885 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/jcckit/data/DataContainer.java.html#144"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00144] In the recursive method jcckit.data.DataContainer.removeElementAt@POLYN178072 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

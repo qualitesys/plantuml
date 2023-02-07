@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00097"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNotes.java.html#97"
- , "c1" : "Set<Swimlane>"
+ , "c1" : "Set&lt;Swimlane&gt;"
  , "c2" : "getSwimlanes()"
  , "c3" : "1"
  , "c4" : "1"
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00101"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithNotes.java.html#101"
  , "c1" : "GtileWithNotes"
- , "c2" : "GtileWithNotes(Gtile;Collection<PositionedNote>;ISkinParam)"
+ , "c2" : "GtileWithNotes(Gtile;Collection&lt;PositionedNote&gt;;ISkinParam)"
  , "c3" : "11"
  , "c4" : "24"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/Movement.java.html#49"
  , "c1" : "Movement"
- , "c2" : "Movement(Iterator<SvgCommand>)"
+ , "c2" : "Movement(Iterator&lt;SvgCommand&gt;)"
  , "c3" : "2"
  , "c4" : "7"
 }} 

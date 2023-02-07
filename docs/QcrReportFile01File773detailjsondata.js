@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#52"
  , "c1" : "void"
- , "c2" : "drawStringsLRSimple(Collection<?extendsCharSequence>;int;int)"
+ , "c2" : "drawStringsLRSimple(Collection&lt;?extendsCharSequence&gt;;int;int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/UmlCharArea.java.html#54"
  , "c1" : "void"
- , "c2" : "drawStringsLRUnicode(Collection<?extendsCharSequence>;int;int)"
+ , "c2" : "drawStringsLRUnicode(Collection&lt;?extendsCharSequence&gt;;int;int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

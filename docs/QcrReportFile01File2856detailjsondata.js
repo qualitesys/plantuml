@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/debug/Purify.java.html" 
- , "texte" : "File src/smetana/core/debug/Purify.java 68 rule violations " 
+ , "texte" : "File src/smetana/core/debug/Purify.java 71 rule violations " 
  , "fic2"  : "./qc/src/smetana/core/debug/Purify.java.xml" 
  , "fic3"  : "" 
 }
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00146"
  , "c5link" : "././qc/src/smetana/core/debug/Purify.java.html#146"
  , "c1" : "Method"
- , "c2" : "getTheMethod(Class<?>;String)"
+ , "c2" : "getTheMethod(Class&lt;?&gt;;String)"
  , "c3" : "3"
  , "c4" : "6"
 }} 
@@ -189,6 +189,12 @@ var maDataBlocs = {
 { "ligne" :  "R1:smetana.core.debug.Purify.entering@POLYN174687.signature" }
 ,
 { "ligne" :  "R2:smetana.core.debug.Purify.entering@POLYN174687.methodNameDeclared" }
+,
+{ "ligne" :  "R3:smetana.core.debug.Purify.logline@POLYN174345.s" }
+,
+{ "ligne" :  "R4:smetana.core.debug.Purify.leaving@POLYN175759.signature" }
+,
+{ "ligne" :  "R5:smetana.core.debug.Purify.leaving@POLYN175759.methodName" }
 ]
 ,
 "data12b" : [
@@ -198,6 +204,22 @@ var maDataBlocs = {
 { "ligne" : "S0:smetana.core.debug.Purify.recordMe@POLYN176645 (R0 in line [00111])" }
 ,
 { "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN178737 (R0 in line [00146])" }
+,
+{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN178737.dummymethode_00149" }
+ ]
+ } }
+,
+{ "sequence" : { "noseq" : "1" , "pas" : [
+{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN174345 (R0 in line [00069],R3 in line [00069])" }
+,
+{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN174345.dummymethode_00070" }
+ ]
+ } }
+,
+{ "sequence" : { "noseq" : "2" , "pas" : [
+{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN175759 (R0 in line [00095],R4 in line [00095],R5 in line [00095])" }
+,
+{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN175759.dummymethode_00096" }
  ]
  } }
 ]
@@ -210,7 +232,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAVCWE833"
  , "c3" : "Potential deadlock between at least two ressources"
- , "c4" : "3"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -738,6 +760,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R2 : smetana.core.debug.Purify.entering@POLYN174687.methodNameDeclared"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R3 : smetana.core.debug.Purify.logline@POLYN174345.s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R4 : smetana.core.debug.Purify.leaving@POLYN175759.signature"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R5 : smetana.core.debug.Purify.leaving@POLYN175759.methodName"
 }} 
 ]
 , 

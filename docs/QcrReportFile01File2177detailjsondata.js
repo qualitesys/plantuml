@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00070"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#70"
  , "c1" : "StyleSignatureBasic"
- , "c2" : "StyleSignatureBasic(boolean;Collection<String>)"
+ , "c2" : "StyleSignatureBasic(boolean;Collection&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c5" : "00164"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#164"
  , "c1" : "int"
- , "c2" : "depthFromTokens(Collection<String>)"
+ , "c2" : "depthFromTokens(Collection&lt;String&gt;)"
  , "c3" : "3"
  , "c4" : "3"
 }} 
@@ -155,7 +155,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00174"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#174"
- , "c1" : "Set<String>"
+ , "c1" : "Set&lt;String&gt;"
  , "c2" : "getNames()"
  , "c3" : "1"
  , "c4" : "1"
@@ -210,7 +210,7 @@ var maDataBlocs = {
  , "c5" : "00230"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#230"
  , "c1" : "StyleSignatureBasic"
- , "c2" : "mergeWith(List<Style>)"
+ , "c2" : "mergeWith(List&lt;Style&gt;)"
  , "c3" : "3"
  , "c4" : "3"
 }} 

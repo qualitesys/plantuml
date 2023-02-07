@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/DirWatcher.java.html#65"
- , "c1" : "List<GeneratedImage>"
+ , "c1" : "List&lt;GeneratedImage&gt;"
  , "c2" : "buildCreatedFiles()"
  , "c3" : "9"
  , "c4" : "14"

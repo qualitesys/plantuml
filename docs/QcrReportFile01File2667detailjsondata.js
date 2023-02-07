@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00091"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/g2d/UGraphicG2d.java.html#91"
- , "c1" : "Set<Url>"
+ , "c1" : "Set&lt;Url&gt;"
  , "c2" : "getAllUrlsEncountered()"
  , "c3" : "1"
  , "c4" : "1"

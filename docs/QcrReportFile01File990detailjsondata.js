@@ -35,7 +35,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#50"
  , "c1" : "boolean"
- , "c2" : "removeEldestEntry(Map.Entry<K,V>)"
+ , "c2" : "removeEldestEntry(Map.Entry&lt;K,V&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

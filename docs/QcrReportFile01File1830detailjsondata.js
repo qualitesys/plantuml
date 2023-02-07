@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00078"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ListWidth.java.html#78"
- , "c1" : "Iterator<Double>"
+ , "c1" : "Iterator&lt;Double&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

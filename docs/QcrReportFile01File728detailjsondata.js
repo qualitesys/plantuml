@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00044"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/api/mda/option2/MDAPackage.java.html#44"
- , "c1" : "Collection<MDAEntity>"
+ , "c1" : "Collection&lt;MDAEntity&gt;"
  , "c2" : "getEntities()"
  , "c3" : "1"
  , "c4" : "1"

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00089"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagramFactory.java.html#89"
  , "c1" : "ClassDiagram"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00094"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagramFactory.java.html#94"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "52"

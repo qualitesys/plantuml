@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockRaw.java.html#52"
  , "c1" : "TextBlockRaw"
- , "c2" : "TextBlockRaw(List<String>;FontConfiguration)"
+ , "c2" : "TextBlockRaw(List&lt;String&gt;;FontConfiguration)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00057"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/TextBlockRaw.java.html#57"
- , "c1" : "List<Line>"
+ , "c1" : "List&lt;Line&gt;"
  , "c2" : "getLines(StringBounder)"
  , "c3" : "4"
  , "c4" : "4"

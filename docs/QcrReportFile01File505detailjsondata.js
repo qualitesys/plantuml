@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00052"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/MonoSwimable.java.html#52"
- , "c1" : "Set<Swimlane>"
+ , "c1" : "Set&lt;Swimlane&gt;"
  , "c2" : "getSwimlanes()"
  , "c3" : "2"
  , "c4" : "2"

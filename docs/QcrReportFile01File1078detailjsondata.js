@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00077"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#77"
  , "c1" : "BodyEnhanced1"
- , "c2" : "BodyEnhanced1(HorizontalAlignment;List<CharSequence>;ISkinParam;ILeaf;Style)"
+ , "c2" : "BodyEnhanced1(HorizontalAlignment;List&lt;CharSequence&gt;;ISkinParam;ILeaf;Style)"
  , "c3" : "1"
  , "c4" : "7"
 }} 
@@ -74,8 +74,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00209"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#209"
- , "c1" : "List<CharSequence>"
- , "c2" : "buildTreeOrTable(String;ListIterator<CharSequence>)"
+ , "c1" : "List&lt;CharSequence&gt;"
+ , "c2" : "buildTreeOrTable(String;ListIterator&lt;CharSequence&gt;)"
  , "c3" : "5"
  , "c4" : "11"
 }} 
@@ -101,7 +101,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00247"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#247"
- , "c1" : "List<Url>"
+ , "c1" : "List&lt;Url&gt;"
  , "c2" : "getUrls()"
  , "c3" : "1"
  , "c4" : "1"

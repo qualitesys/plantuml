@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00058"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorSub.java.html#58"
  , "c1" : "CodeIteratorSub"
- , "c2" : "CodeIteratorSub(CodeIterator;Map<String,Sub>;TContext;TMemory)"
+ , "c2" : "CodeIteratorSub(CodeIterator;Map&lt;String,Sub&gt;;TContext;TMemory)"
  , "c3" : "1"
  , "c4" : "4"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorSub.java.html#65"
- , "c1" : "Map<String,Sub>"
+ , "c1" : "Map&lt;String,Sub&gt;"
  , "c2" : "getSubs()"
  , "c3" : "1"
  , "c4" : "1"

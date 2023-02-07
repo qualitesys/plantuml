@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00047"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/error/PSystemErrorPreprocessor.java.html#47"
  , "c1" : "PSystemErrorPreprocessor"
- , "c2" : "PSystemErrorPreprocessor(List<StringLocated>;List<StringLocated>)"
+ , "c2" : "PSystemErrorPreprocessor(List&lt;StringLocated&gt;;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00651"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
  , "c1" : "boolean"
- , "c2" : "removeObsoleteShapes(TextGrid;ArrayList<CellSet>)"
+ , "c2" : "removeObsoleteShapes(TextGrid;ArrayList&lt;CellSet&gt;)"
  , "c3" : "26"
  , "c4" : "61"
 }} 

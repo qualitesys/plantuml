@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#48"
  , "c1" : "AtomHorizontalTexts"
- , "c2" : "AtomHorizontalTexts(List<Atom>)"
+ , "c2" : "AtomHorizontalTexts(List&lt;Atom&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

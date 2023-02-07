@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00062"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Sheet.java.html#62"
- , "c1" : "Iterator<Stripe>"
+ , "c1" : "Iterator&lt;Stripe&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

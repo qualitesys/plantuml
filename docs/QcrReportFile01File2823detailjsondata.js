@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java 123 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java 122 rule violations " 
  , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.xml" 
  , "fic3"  : "" 
 }
@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00105"
  , "c5link" : "././qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#105"
- , "c1" : "List<DiagramShape>"
+ , "c1" : "List&lt;DiagramShape&gt;"
  , "c2" : "growEdgesFromCell(TextGrid;int;int;boolean;TextGrid.Cell;TextGrid.Cell;CellSet)"
  , "c3" : "15"
  , "c4" : "24"
@@ -203,7 +203,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "4"
+ , "c4" : "3"
 }}
  ] 
 ,
@@ -493,13 +493,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#150"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00150] In method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.growEdgesFromCell@POLYN189618 the MagicNumber/String  'finished shape' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#167"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00167] For method connectLines list of called methods Object monObjet|java.lang.Object lines_iteratorN194072"
 }} 
 ,
 { "ligne" : {"" : ""

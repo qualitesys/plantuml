@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00089"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/ParticipantEnglober.java.html#89"
- , "c1" : "List<ParticipantEnglober>"
+ , "c1" : "List&lt;ParticipantEnglober&gt;"
  , "c2" : "getGenealogy()"
  , "c3" : "2"
  , "c4" : "5"

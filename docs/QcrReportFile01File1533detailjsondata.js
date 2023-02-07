@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00083"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#83"
- , "c1" : "Map<NBar,Integer>"
+ , "c1" : "Map&lt;NBar,Integer&gt;"
  , "c2" : "doLayout()"
  , "c3" : "4"
  , "c4" : "9"
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00103"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#103"
  , "c1" : "void"
- , "c2" : "fixGroups(List<NwGroup>;Collection<NServer>)"
+ , "c2" : "fixGroups(List&lt;NwGroup&gt;;Collection&lt;NServer&gt;)"
  , "c3" : "4"
  , "c4" : "1"
 }} 

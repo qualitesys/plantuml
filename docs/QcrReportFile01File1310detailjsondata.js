@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#50"
  , "c1" : "GNodeBuilder"
- , "c2" : "GNodeBuilder(List<Commit>)"
+ , "c2" : "GNodeBuilder(List&lt;Commit&gt;)"
  , "c3" : "4"
  , "c4" : "8"
 }} 
@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00090"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#90"
- , "c1" : "Collection<GNode>"
+ , "c1" : "Collection&lt;GNode&gt;"
  , "c2" : "getAllNodes()"
  , "c3" : "1"
  , "c4" : "1"

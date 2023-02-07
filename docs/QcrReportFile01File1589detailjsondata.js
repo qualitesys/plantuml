@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/DotxMaker.java.html#49"
  , "c1" : "DotxMaker"
- , "c2" : "DotxMaker(Cluster;Collection<Path>)"
+ , "c2" : "DotxMaker(Cluster;Collection&lt;Path&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

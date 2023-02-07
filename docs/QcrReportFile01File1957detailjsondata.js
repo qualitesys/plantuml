@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00057"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ConstraintSet.java.html#57"
  , "c1" : "ConstraintSet"
- , "c2" : "ConstraintSet(Collection<?extendsPushable>;double)"
+ , "c2" : "ConstraintSet(Collection&lt;?extendsPushable&gt;;double)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

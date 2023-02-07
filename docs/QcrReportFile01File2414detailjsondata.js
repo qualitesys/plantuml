@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00089"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.html#89"
- , "c1" : "Set<String>"
+ , "c1" : "Set&lt;String&gt;"
  , "c2" : "variablesNames()"
  , "c3" : "1"
  , "c4" : "1"
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00097"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.html#97"
  , "c1" : "TMemory"
- , "c2" : "forkFromGlobal(Map<String,TValue>)"
+ , "c2" : "forkFromGlobal(Map&lt;String,TValue&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

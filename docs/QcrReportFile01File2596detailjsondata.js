@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00070"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UMotif.java.html#70"
- , "c1" : "List<XPoint2D>"
+ , "c1" : "List&lt;XPoint2D&gt;"
  , "c2" : "getPoints()"
  , "c3" : "1"
  , "c4" : "1"

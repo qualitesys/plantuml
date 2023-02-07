@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00071"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#71"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getHistory()"
  , "c3" : "1"
  , "c4" : "1"

@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00119"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#119"
  , "c1" : "void"
- , "c2" : "printCounter(Map<PositiveForce,Integer>)"
+ , "c2" : "printCounter(Map&lt;PositiveForce,Integer&gt;)"
  , "c3" : "3"
  , "c4" : "2"
 }} 
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00128"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/real/RealLine.java.html#128"
  , "c1" : "void"
- , "c2" : "incCounter(Map<PositiveForce,Integer>;PositiveForce)"
+ , "c2" : "incCounter(Map&lt;PositiveForce,Integer&gt;;PositiveForce)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

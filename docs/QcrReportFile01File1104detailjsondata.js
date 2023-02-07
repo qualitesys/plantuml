@@ -128,7 +128,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/ILeaf.java.html#72"
- , "c1" : "Collection<String>"
+ , "c1" : "Collection&lt;String&gt;"
  , "c2" : "getPortShortNames()"
  , "c3" : "1"
  , "c4" : "1"

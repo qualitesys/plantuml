@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00078"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#78"
  , "c1" : "XRectangle2D"
- , "c2" : "tryOne(Set<Entry<TextBlock,XPoint2D>>;String;StringBounder;InnerStrategy)"
+ , "c2" : "tryOne(Set&lt;Entry&lt;TextBlock,XPoint2D&gt;&gt;;String;StringBounder;InnerStrategy)"
  , "c3" : "3"
  , "c4" : "5"
 }} 

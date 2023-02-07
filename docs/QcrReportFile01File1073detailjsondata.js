@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00089"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#89"
- , "c1" : "List<CharSequence>"
+ , "c1" : "List&lt;CharSequence&gt;"
  , "c2" : "getRawBody()"
  , "c3" : "1"
  , "c4" : "1"

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00443"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#443"
  , "c1" : "JsonParser"
- , "c2" : "JsonParser(JsonHandler<?,?>)"
+ , "c2" : "JsonParser(JsonHandler&lt;?,?&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

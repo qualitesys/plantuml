@@ -110,8 +110,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00104"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#104"
- , "c1" : "Map<String,RegexPartialMatch>"
- , "c2" : "createPartialMatch(Iterator<String>)"
+ , "c1" : "Map&lt;String,RegexPartialMatch&gt;"
+ , "c2" : "createPartialMatch(Iterator&lt;String&gt;)"
  , "c3" : "3"
  , "c4" : "7"
 }} 

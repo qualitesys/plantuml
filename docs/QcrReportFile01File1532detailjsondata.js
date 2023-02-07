@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00077"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/NBox.java.html#77"
- , "c1" : "Map<NBar,Integer>"
+ , "c1" : "Map&lt;NBar,Integer&gt;"
  , "c2" : "getPositions()"
  , "c3" : "1"
  , "c4" : "1"

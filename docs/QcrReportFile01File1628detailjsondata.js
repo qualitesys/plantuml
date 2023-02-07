@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/preproc/Sub.java.html#72"
- , "c1" : "List<StringLocated>"
+ , "c1" : "List&lt;StringLocated&gt;"
  , "c2" : "lines()"
  , "c3" : "1"
  , "c4" : "1"

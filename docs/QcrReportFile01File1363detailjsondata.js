@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00066"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#66"
- , "c1" : "Map<String,String>"
+ , "c1" : "Map&lt;String,String&gt;"
  , "c2" : "attributes()"
  , "c3" : "1"
  , "c4" : "1"

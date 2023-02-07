@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00087"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#87"
  , "c1" : "void"
- , "c2" : "setMulticast(List<Participant>)"
+ , "c2" : "setMulticast(List&lt;Participant&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00091"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#91"
- , "c1" : "List<Participant>"
+ , "c1" : "List&lt;Participant&gt;"
  , "c2" : "getMulticast()"
  , "c3" : "1"
  , "c4" : "1"

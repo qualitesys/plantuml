@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00103"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek2InternalImage.java.html#103"
  , "c1" : "CucaDiagramFileMakerSvek2InternalImage"
- , "c2" : "CucaDiagramFileMakerSvek2InternalImage(List<IEntityImage>;char;ISkinParam;Stereotype)"
+ , "c2" : "CucaDiagramFileMakerSvek2InternalImage(List&lt;IEntityImage&gt;;char;ISkinParam;Stereotype)"
  , "c3" : "1"
  , "c4" : "4"
 }} 

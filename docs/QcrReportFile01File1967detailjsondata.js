@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#72"
  , "c1" : "FrontierStackImpl"
- , "c2" : "FrontierStackImpl(List<Stack>)"
+ , "c2" : "FrontierStackImpl(List&lt;Stack&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

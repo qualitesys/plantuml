@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#50"
  , "c1" : "SimpleLine"
- , "c2" : "fromFuture(File;Future<List<GeneratedImage>>)"
+ , "c2" : "fromFuture(File;Future&lt;List&lt;GeneratedImage&gt;&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00058"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#58"
  , "c1" : "SimpleLine"
- , "c2" : "SimpleLine(File;GeneratedImage;Future<List<GeneratedImage>>)"
+ , "c2" : "SimpleLine(File;GeneratedImage;Future&lt;List&lt;GeneratedImage&gt;&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00083"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#83"
- , "c1" : "Future<List<GeneratedImage>>"
+ , "c1" : "Future&lt;List&lt;GeneratedImage&gt;&gt;"
  , "c2" : "getFuture()"
  , "c3" : "1"
  , "c4" : "1"

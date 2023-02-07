@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00060"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/atom/AtomWithMargin.java.html#60"
- , "c1" : "List<Atom>"
+ , "c1" : "List&lt;Atom&gt;"
  , "c2" : "splitInTwo(StringBounder;double)"
  , "c3" : "4"
  , "c4" : "8"

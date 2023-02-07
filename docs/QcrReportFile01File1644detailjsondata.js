@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00088"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/DaysAsDates.java.html#88"
- , "c1" : "Iterator<Day>"
+ , "c1" : "Iterator&lt;Day&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

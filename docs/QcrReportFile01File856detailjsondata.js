@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00051"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/AbstractEntityDiagram.java.html#51"
  , "c1" : "AbstractEntityDiagram"
- , "c2" : "AbstractEntityDiagram(UmlSource;UmlDiagramType;Map<String,String>)"
+ , "c2" : "AbstractEntityDiagram(UmlSource;UmlDiagramType;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/AbstractEntityDiagram.java.html#55"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getDotStrings()"
  , "c3" : "2"
  , "c4" : "6"

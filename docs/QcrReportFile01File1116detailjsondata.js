@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00046"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Magma.java.html#46"
  , "c1" : "Magma"
- , "c2" : "Magma(CucaDiagram;List<ILeaf>)"
+ , "c2" : "Magma(CucaDiagram;List&lt;ILeaf&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

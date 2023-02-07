@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00088"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#88"
  , "c1" : "XDimension2D"
- , "c2" : "solve(Cluster;Collection<Path>)"
+ , "c2" : "solve(Cluster;Collection&lt;Path&gt;)"
  , "c3" : "10"
  , "c4" : "50"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00180"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#180"
- , "c1" : "List<XPoint2D>"
+ , "c1" : "List&lt;XPoint2D&gt;"
  , "c2" : "extractPointsList(String;int;YDelta)"
  , "c3" : "1"
  , "c4" : "1"
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00184"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#184"
  , "c1" : "double"
- , "c2" : "getMaxX(List<XPoint2D>)"
+ , "c2" : "getMaxX(List&lt;XPoint2D&gt;)"
  , "c3" : "3"
  , "c4" : "5"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00194"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#194"
  , "c1" : "double"
- , "c2" : "getMinX(List<XPoint2D>)"
+ , "c2" : "getMinX(List&lt;XPoint2D&gt;)"
  , "c3" : "3"
  , "c4" : "5"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00204"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#204"
  , "c1" : "double"
- , "c2" : "getMaxY(List<XPoint2D>)"
+ , "c2" : "getMaxY(List&lt;XPoint2D&gt;)"
  , "c3" : "3"
  , "c4" : "5"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00214"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#214"
  , "c1" : "double"
- , "c2" : "getMinY(List<XPoint2D>)"
+ , "c2" : "getMinY(List&lt;XPoint2D&gt;)"
  , "c3" : "3"
  , "c4" : "5"
 }} 
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00234"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#234"
  , "c1" : "Path"
- , "c2" : "getPath(Collection<Path>;int;int)"
+ , "c2" : "getPath(Collection&lt;Path&gt;;int;int)"
  , "c3" : "3"
  , "c4" : "2"
 }} 

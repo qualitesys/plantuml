@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00112"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#112"
  , "c1" : "JComponent"
- , "c2" : "getJComponent(List<String>)"
+ , "c2" : "getJComponent(List&lt;String&gt;)"
  , "c3" : "2"
  , "c4" : "13"
 }} 

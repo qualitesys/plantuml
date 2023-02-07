@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00054"
  , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#54"
  , "c1" : "CArrayOfStar"
- , "c2" : "CArrayOfStar(List<O>;int)"
+ , "c2" : "CArrayOfStar(List&lt;O&gt;;int)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00074"
  , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#74"
  , "c1" : "int"
- , "c2" : "comparePointer_(CArrayOfStar<O>)"
+ , "c2" : "comparePointer_(CArrayOfStar&lt;O&gt;)"
  , "c3" : "2"
  , "c4" : "2"
 }} 
@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00098"
  , "c5link" : "././qc/src/smetana/core/CArrayOfStar.java.html#98"
- , "c1" : "CArrayOfStar<O>"
+ , "c1" : "CArrayOfStar&lt;O&gt;"
  , "c2" : "plus_(int)"
  , "c3" : "1"
  , "c4" : "1"

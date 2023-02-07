@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c5" : "00182"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#182"
  , "c1" : "Method"
- , "c2" : "getStaticMethod(Class<?>;String;int)"
+ , "c2" : "getStaticMethod(Class&lt;?&gt;;String;int)"
  , "c3" : "3"
  , "c4" : "2"
 }} 

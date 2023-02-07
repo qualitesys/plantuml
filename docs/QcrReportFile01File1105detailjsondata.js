@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00049"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/Ident.java.html#49"
  , "c1" : "Ident"
- , "c2" : "Ident(List<String>)"
+ , "c2" : "Ident(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

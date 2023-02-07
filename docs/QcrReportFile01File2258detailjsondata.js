@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00117"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#117"
  , "c1" : "UGraphicForSnake"
- , "c2" : "UGraphicForSnake(UGraphic;double;double;List<PendingSnake>)"
+ , "c2" : "UGraphicForSnake(UGraphic;double;double;List&lt;PendingSnake&gt;)"
  , "c3" : "1"
  , "c4" : "4"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#59"
  , "c1" : "TFunctionImpl"
- , "c2" : "TFunctionImpl(String;List<TFunctionArgument>;boolean;TFunctionType)"
+ , "c2" : "TFunctionImpl(String;List&lt;TFunctionArgument&gt;;boolean;TFunctionType)"
  , "c3" : "2"
  , "c4" : "6"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00071"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#71"
  , "c1" : "boolean"
- , "c2" : "canCover(int;Set<String>)"
+ , "c2" : "canCover(int;Set&lt;String&gt;)"
  , "c3" : "8"
  , "c4" : "9"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00097"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#97"
  , "c1" : "TMemory"
- , "c2" : "getNewMemory(TMemory;List<TValue>;Map<String,TValue>)"
+ , "c2" : "getNewMemory(TMemory;List&lt;TValue&gt;;Map&lt;String,TValue&gt;)"
  , "c3" : "7"
  , "c4" : "10"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00147"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#147"
  , "c1" : "void"
- , "c2" : "executeProcedureInternal(TContext;TMemory;List<TValue>;Map<String,TValue>)"
+ , "c2" : "executeProcedureInternal(TContext;TMemory;List&lt;TValue&gt;;Map&lt;String,TValue&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00156"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#156"
  , "c1" : "TValue"
- , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>)"
+ , "c2" : "executeReturnFunction(TContext;TMemory;LineLocation;List&lt;TValue&gt;;Map&lt;String,TValue&gt;)"
  , "c3" : "4"
  , "c4" : "6"
 }} 
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00172"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#172"
  , "c1" : "TValue"
- , "c2" : "executeReturnLegacyDefine(LineLocation;TContext;TMemory;List<TValue>)"
+ , "c2" : "executeReturnLegacyDefine(LineLocation;TContext;TMemory;List&lt;TValue&gt;)"
  , "c3" : "3"
  , "c4" : "5"
 }} 

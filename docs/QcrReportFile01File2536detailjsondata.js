@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00084"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#84"
  , "c1" : "Histogram"
- , "c2" : "Histogram(TimingRuler;ISkinParam;Collection<String>;boolean;TextBlock;int;Style;Style)"
+ , "c2" : "Histogram(TimingRuler;ISkinParam;Collection&lt;String&gt;;boolean;TextBlock;int;Style;Style)"
  , "c3" : "1"
  , "c4" : "9"
 }} 
@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00115"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#115"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getStatesAt(TimeTick)"
  , "c3" : "9"
  , "c4" : "12"
@@ -282,7 +282,7 @@ var maDataBlocs = {
  , "c5" : "00396"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#396"
  , "c1" : "String"
- , "c2" : "last(List<String>)"
+ , "c2" : "last(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

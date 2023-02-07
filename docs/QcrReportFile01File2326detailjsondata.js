@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00107"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#107"
  , "c1" : "EntityImageDescription"
- , "c2" : "EntityImageDescription(ILeaf;ISkinParam;PortionShower;Collection<Link>;SName;Bibliotekon)"
+ , "c2" : "EntityImageDescription(ILeaf;ISkinParam;PortionShower;Collection&lt;Link&gt;;SName;Bibliotekon)"
  , "c3" : "15"
  , "c4" : "39"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00235"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#235"
  , "c1" : "boolean"
- , "c2" : "hasSomeHorizontalLinkVisible(ILeaf;Collection<Link>)"
+ , "c2" : "hasSomeHorizontalLinkVisible(ILeaf;Collection&lt;Link&gt;)"
  , "c3" : "3"
  , "c4" : "2"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00243"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#243"
  , "c1" : "boolean"
- , "c2" : "isThereADoubleLink(ILeaf;Collection<Link>)"
+ , "c2" : "isThereADoubleLink(ILeaf;Collection&lt;Link&gt;)"
  , "c3" : "4"
  , "c4" : "5"
 }} 
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00257"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#257"
  , "c1" : "boolean"
- , "c2" : "hasSomeHorizontalLinkDoubleDecorated(ILeaf;Collection<Link>)"
+ , "c2" : "hasSomeHorizontalLinkDoubleDecorated(ILeaf;Collection&lt;Link&gt;)"
  , "c3" : "3"
  , "c4" : "2"
 }} 

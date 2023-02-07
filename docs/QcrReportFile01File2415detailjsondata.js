@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#54"
  , "c1" : "TMemoryLocal"
- , "c2" : "TMemoryLocal(TMemoryGlobal;Map<String,TValue>)"
+ , "c2" : "TMemoryLocal(TMemoryGlobal;Map&lt;String,TValue&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00169"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#169"
- , "c1" : "Set<String>"
+ , "c1" : "Set&lt;String&gt;"
  , "c2" : "variablesNames()"
  , "c3" : "1"
  , "c4" : "1"
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00173"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/TMemoryLocal.java.html#173"
  , "c1" : "TMemory"
- , "c2" : "forkFromGlobal(Map<String,TValue>)"
+ , "c2" : "forkFromGlobal(Map&lt;String,TValue&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

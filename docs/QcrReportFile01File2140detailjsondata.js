@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#59"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "toCreole()"
  , "c3" : "1"
  , "c4" : "14"
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00076"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#76"
  , "c1" : "void"
- , "c2" : "printTableCreole(List<String>;StatsTable)"
+ , "c2" : "printTableCreole(List&lt;String&gt;;StatsTable)"
  , "c3" : "2"
  , "c4" : "8"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00088"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#88"
  , "c1" : "String"
- , "c2" : "getCreoleLine(Collection<StatsColumn>;StatsLine;boolean)"
+ , "c2" : "getCreoleLine(Collection&lt;StatsColumn&gt;;StatsLine;boolean)"
  , "c3" : "12"
  , "c4" : "14"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00119"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#119"
  , "c1" : "String"
- , "c2" : "getCreoleHeader(Collection<StatsColumn>)"
+ , "c2" : "getCreoleHeader(Collection&lt;StatsColumn&gt;)"
  , "c3" : "2"
  , "c4" : "6"
 }} 

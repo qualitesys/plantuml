@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileSplit.java.html#55"
  , "c1" : "GtileSplit"
- , "c2" : "GtileSplit(List<Gtile>;Swimlane;HColor)"
+ , "c2" : "GtileSplit(List&lt;Gtile&gt;;Swimlane;HColor)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

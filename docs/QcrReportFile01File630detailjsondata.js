@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00071"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#71"
  , "c1" : "ParallelBuilderFork"
- , "c2" : "ParallelBuilderFork(ISkinParam;StringBounder;String;Swimlane;Swimlane;List<Ftile>)"
+ , "c2" : "ParallelBuilderFork(ISkinParam;StringBounder;String;Swimlane;Swimlane;List&lt;Ftile&gt;)"
  , "c3" : "1"
  , "c4" : "4"
 }} 
@@ -29,8 +29,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00079"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#79"
- , "c1" : "List<Ftile>"
- , "c2" : "getFoo2(List<Ftile>)"
+ , "c1" : "List&lt;Ftile&gt;"
+ , "c2" : "getFoo2(List&lt;Ftile&gt;)"
  , "c3" : "2"
  , "c4" : "7"
 }} 
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00149"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#149"
  , "c1" : "double"
- , "c2" : "getSuppSpace1(List<Ftile>;StringBounder)"
+ , "c2" : "getSuppSpace1(List&lt;Ftile&gt;;StringBounder)"
  , "c3" : "3"
  , "c4" : "6"
 }} 
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00163"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#163"
  , "c1" : "double"
- , "c2" : "getSuppSpace2(List<Ftile>;StringBounder)"
+ , "c2" : "getSuppSpace2(List&lt;Ftile&gt;;StringBounder)"
  , "c3" : "3"
  , "c4" : "6"
 }} 

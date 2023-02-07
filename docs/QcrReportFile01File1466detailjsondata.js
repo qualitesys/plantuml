@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00060"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagramFactory.java.html#60"
  , "c1" : "Diagram"
- , "c2" : "createSystem(UmlSource;Map<String,String>)"
+ , "c2" : "createSystem(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "7"
  , "c4" : "18"
 }} 

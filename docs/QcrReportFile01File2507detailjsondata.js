@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00072"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingDiagramFactory.java.html#72"
  , "c1" : "TimingDiagram"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00077"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/timingdiagram/TimingDiagramFactory.java.html#77"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "25"

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00058"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#58"
  , "c1" : "RectangleTask"
- , "c2" : "RectangleTask(double;double;double;int;Collection<Segment>)"
+ , "c2" : "RectangleTask(double;double;double;int;Collection&lt;Segment&gt;)"
  , "c3" : "3"
  , "c4" : "4"
 }} 

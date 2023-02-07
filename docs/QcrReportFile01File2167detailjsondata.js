@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00317"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#317"
  , "c1" : "void"
- , "c2" : "readValue(String;List<Data>;AutomaticCounter)"
+ , "c2" : "readValue(String;List&lt;Data&gt;;AutomaticCounter)"
  , "c3" : "12"
  , "c4" : "5"
 }} 
@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00366"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#366"
- , "c1" : "List<Style>"
+ , "c1" : "List&lt;Style&gt;"
  , "c2" : "getStyles()"
  , "c3" : "1"
  , "c4" : "1"

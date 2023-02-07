@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00123"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#123"
  , "c1" : "PageSplitter"
- , "c2" : "create(DrawableSet;Map<Newpage,Double>;boolean;Display)"
+ , "c2" : "create(DrawableSet;Map&lt;Newpage,Double&gt;;boolean;Display)"
  , "c3" : "1"
  , "c4" : "5"
 }} 

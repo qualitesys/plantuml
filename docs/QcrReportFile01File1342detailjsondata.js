@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00078"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#78"
  , "c1" : "IEntityImage"
- , "c2" : "createForError(List<String>;boolean)"
+ , "c2" : "createForError(List&lt;String&gt;;boolean)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00097"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#97"
  , "c1" : "TextBlockBackcolored"
- , "c2" : "createGreenOnBlackMonospaced(List<String>)"
+ , "c2" : "createGreenOnBlackMonospaced(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00102"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#102"
  , "c1" : "TextBlockBackcolored"
- , "c2" : "createBlackOnWhite(List<String>)"
+ , "c2" : "createBlackOnWhite(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00106"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#106"
  , "c1" : "TextBlockBackcolored"
- , "c2" : "createBlackOnWhiteMonospaced(List<String>)"
+ , "c2" : "createBlackOnWhiteMonospaced(List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00110"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#110"
  , "c1" : "TextBlockBackcolored"
- , "c2" : "createBlackOnWhite(List<String>;BufferedImage;GraphicPosition)"
+ , "c2" : "createBlackOnWhite(List&lt;String&gt;;BufferedImage;GraphicPosition)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c5" : "00130"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#130"
  , "c1" : "GraphicStrings"
- , "c2" : "GraphicStrings(List<String>;FontConfiguration;HColor;BufferedImage;GraphicPosition;CreoleMode)"
+ , "c2" : "GraphicStrings(List&lt;String&gt;;FontConfiguration;HColor;BufferedImage;GraphicPosition;CreoleMode)"
  , "c3" : "1"
  , "c4" : "6"
 }} 

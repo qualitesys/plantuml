@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00077"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#77"
  , "c1" : "Reference"
- , "c2" : "Reference(List<Participant>;Url;Display;HColor;HColor;StyleBuilder)"
+ , "c2" : "Reference(List&lt;Participant&gt;;Url;Display;HColor;HColor;StyleBuilder)"
  , "c3" : "1"
  , "c4" : "7"
 }} 
@@ -56,8 +56,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00088"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#88"
- , "c1" : "List<Participant>"
- , "c2" : "uniq(List<Participant>)"
+ , "c1" : "List&lt;Participant&gt;"
+ , "c2" : "uniq(List&lt;Participant&gt;)"
  , "c3" : "3"
  , "c4" : "3"
 }} 
@@ -65,7 +65,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00096"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#96"
- , "c1" : "List<Participant>"
+ , "c1" : "List&lt;Participant&gt;"
  , "c2" : "getParticipant()"
  , "c3" : "1"
  , "c4" : "1"

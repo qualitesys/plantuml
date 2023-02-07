@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00105"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#105"
- , "c1" : "List<Link>"
+ , "c1" : "List&lt;Link&gt;"
  , "c2" : "getPureInnerLinks()"
  , "c3" : "3"
  , "c4" : "5"

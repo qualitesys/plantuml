@@ -155,7 +155,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00111"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#111"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getLines()"
  , "c3" : "1"
  , "c4" : "1"
@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c5" : "00119"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#119"
  , "c1" : "void"
- , "c2" : "drawStringsLRSimple(Collection<?extendsCharSequence>;int;int)"
+ , "c2" : "drawStringsLRSimple(Collection&lt;?extendsCharSequence&gt;;int;int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -183,7 +183,7 @@ var maDataBlocs = {
  , "c5" : "00123"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#123"
  , "c1" : "void"
- , "c2" : "drawStringsLRUnicode(Collection<?extendsCharSequence>;int;int)"
+ , "c2" : "drawStringsLRUnicode(Collection&lt;?extendsCharSequence&gt;;int;int)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

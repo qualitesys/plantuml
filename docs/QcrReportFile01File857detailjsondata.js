@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00064"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/classdiagram/ClassDiagram.java.html#64"
  , "c1" : "ClassDiagram"
- , "c2" : "ClassDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "ClassDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00060"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/UGraphicInterceptorOneSwimlane.java.html#60"
  , "c1" : "UGraphicInterceptorOneSwimlane"
- , "c2" : "UGraphicInterceptorOneSwimlane(UGraphic;Swimlane;List<Swimlane>)"
+ , "c2" : "UGraphicInterceptorOneSwimlane(UGraphic;Swimlane;List&lt;Swimlane&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -65,7 +65,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00124"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/UGraphicInterceptorOneSwimlane.java.html#124"
- , "c1" : "List<Swimlane>"
+ , "c1" : "List&lt;Swimlane&gt;"
  , "c2" : "getOrderedListOfAllSwimlanes()"
  , "c3" : "1"
  , "c4" : "1"

@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00096"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagramFactory3.java.html#96"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "1"
  , "c4" : "51"
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00163"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagramFactory3.java.html#163"
  , "c1" : "ActivityDiagram3"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

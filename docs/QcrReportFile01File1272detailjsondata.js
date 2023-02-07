@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/emoji/SvgNanoParser.java.html#54"
  , "c1" : "SvgNanoParser"
- , "c2" : "SvgNanoParser(List<String>;boolean)"
+ , "c2" : "SvgNanoParser(List&lt;String&gt;;boolean)"
  , "c3" : "7"
  , "c4" : "7"
 }} 

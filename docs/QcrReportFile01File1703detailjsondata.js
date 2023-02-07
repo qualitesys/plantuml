@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00086"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#86"
  , "c1" : "TaskDrawRegular"
- , "c2" : "TaskDrawRegular(TimeScale;Real;String;Day;Day;boolean;boolean;ISkinParam;Task;ToTaskDraw;Collection<GanttConstraint>;StyleBuilder)"
+ , "c2" : "TaskDrawRegular(TimeScale;Real;String;Day;Day;boolean;boolean;ISkinParam;Task;ToTaskDraw;Collection&lt;GanttConstraint&gt;;StyleBuilder)"
  , "c3" : "3"
  , "c4" : "11"
 }} 

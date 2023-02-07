@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00051"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ugraphic/UGraphicFilter.java.html#51"
  , "c1" : "UGraphicFilter"
- , "c2" : "UGraphicFilter(UGraphic;Class<?extendsUShape>...)"
+ , "c2" : "UGraphicFilter(UGraphic;Class&lt;?extendsUShape&gt;...)"
  , "c3" : "1"
  , "c4" : "2"
 }} 

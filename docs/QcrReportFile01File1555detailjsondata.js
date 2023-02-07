@@ -29,8 +29,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00099"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#99"
- , "c1" : "List<SvgCommand>"
- , "c2" : "insertMissingLetter(List<SvgCommand>)"
+ , "c1" : "List&lt;SvgCommand&gt;"
+ , "c2" : "insertMissingLetter(List&lt;SvgCommand&gt;)"
  , "c3" : "5"
  , "c4" : "16"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00125"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#125"
  , "c1" : "void"
- , "c2" : "checkArguments(List<SvgCommand>)"
+ , "c2" : "checkArguments(List&lt;SvgCommand&gt;)"
  , "c3" : "3"
  , "c4" : "6"
 }} 

@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00090"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Stairs.java.html#90"
- , "c1" : "List<Double>"
+ , "c1" : "List&lt;Double&gt;"
  , "c2" : "getYs()"
  , "c3" : "1"
  , "c4" : "1"

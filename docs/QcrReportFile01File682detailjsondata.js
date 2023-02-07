@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00085"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#85"
  , "c1" : "GtileColumns"
- , "c2" : "GtileColumns(List<Gtile>;Swimlane;double)"
+ , "c2" : "GtileColumns(List&lt;Gtile&gt;;Swimlane;double)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -92,7 +92,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00112"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileColumns.java.html#112"
- , "c1" : "Set<Swimlane>"
+ , "c1" : "Set&lt;Swimlane&gt;"
  , "c2" : "getSwimlanes()"
  , "c3" : "2"
  , "c4" : "3"

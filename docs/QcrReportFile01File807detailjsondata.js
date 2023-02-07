@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00071"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/bpm/Cell.java.html#71"
- , "c1" : "List<Placeable>"
+ , "c1" : "List&lt;Placeable&gt;"
  , "c2" : "getDestinations2()"
  , "c3" : "1"
  , "c4" : "1"

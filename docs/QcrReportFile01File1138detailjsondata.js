@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00058"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#58"
  , "c1" : "CucaDiagramSimplifierState"
- , "c2" : "CucaDiagramSimplifierState(CucaDiagram;List<String>;StringBounder)"
+ , "c2" : "CucaDiagramSimplifierState(CucaDiagram;List&lt;String&gt;;StringBounder)"
  , "c3" : "5"
  , "c4" : "9"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00078"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#78"
- , "c1" : "Collection<IGroup>"
+ , "c1" : "Collection&lt;IGroup&gt;"
  , "c2" : "getOrdered(IGroup)"
  , "c3" : "5"
  , "c4" : "9"
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00098"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#98"
  , "c1" : "void"
- , "c2" : "addOneLevel(Collection<IGroup>)"
+ , "c2" : "addOneLevel(Collection&lt;IGroup&gt;)"
  , "c3" : "3"
  , "c4" : "1"
 }} 
@@ -47,8 +47,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00106"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#106"
- , "c1" : "List<IGroup>"
- , "c2" : "reverse(Collection<IGroup>)"
+ , "c1" : "List&lt;IGroup&gt;"
+ , "c2" : "reverse(Collection&lt;IGroup&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

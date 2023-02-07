@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00071"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/syntax/SyntaxResult.java.html#71"
- , "c1" : "Collection<String>"
+ , "c1" : "Collection&lt;String&gt;"
  , "c2" : "getErrors()"
  , "c3" : "1"
  , "c4" : "1"

@@ -56,7 +56,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00128"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/version/PSystemKeygen.java.html#128"
- , "c1" : "ArrayList<String>"
+ , "c1" : "ArrayList&lt;String&gt;"
  , "c2" : "header()"
  , "c3" : "1"
  , "c4" : "5"

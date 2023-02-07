@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.html#48"
  , "c1" : "FtileDecorateWelding"
- , "c2" : "FtileDecorateWelding(Ftile;List<WeldingPoint>)"
+ , "c2" : "FtileDecorateWelding(Ftile;List&lt;WeldingPoint&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.html#54"
- , "c1" : "List<WeldingPoint>"
+ , "c1" : "List&lt;WeldingPoint&gt;"
  , "c2" : "getWeldingPoints()"
  , "c3" : "1"
  , "c4" : "1"

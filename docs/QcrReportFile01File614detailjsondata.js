@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00075"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorSwitch.java.html#75"
  , "c1" : "Ftile"
- , "c2" : "createSwitch(Swimlane;List<Branch>;LinkRendering;LinkRendering;Display)"
+ , "c2" : "createSwitch(Swimlane;List&lt;Branch&gt;;LinkRendering;LinkRendering;Display)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00082"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorSwitch.java.html#82"
  , "c1" : "Ftile"
- , "c2" : "createNude(Swimlane;List<Branch>)"
+ , "c2" : "createNude(Swimlane;List&lt;Branch&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00090"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorSwitch.java.html#90"
  , "c1" : "Ftile"
- , "c2" : "createWithDiamonds(Swimlane;List<Branch>;Display)"
+ , "c2" : "createWithDiamonds(Swimlane;List&lt;Branch&gt;;Display)"
  , "c3" : "2"
  , "c4" : "5"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00101"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorSwitch.java.html#101"
  , "c1" : "Ftile"
- , "c2" : "createWithLinks(Swimlane;List<Branch>;Display)"
+ , "c2" : "createWithLinks(Swimlane;List&lt;Branch&gt;;Display)"
  , "c3" : "3"
  , "c4" : "12"
 }} 

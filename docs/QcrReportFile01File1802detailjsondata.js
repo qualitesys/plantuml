@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00055"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#55"
- , "c1" : "List<Command>"
+ , "c1" : "List&lt;Command&gt;"
  , "c2" : "createCommands()"
  , "c3" : "2"
  , "c4" : "6"
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00069"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#69"
  , "c1" : "PSystemSalt"
- , "c2" : "createEmptyDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "createEmptyDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "2"
  , "c4" : "3"
 }} 

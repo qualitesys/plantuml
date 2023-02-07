@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00061"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#61"
  , "c1" : "GridTextBlockDecorated"
- , "c2" : "GridTextBlockDecorated(int;int;List<NwGroup>;List<Network>;ISkinParam)"
+ , "c2" : "GridTextBlockDecorated(int;int;List&lt;NwGroup&gt;;List&lt;Network&gt;;ISkinParam)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

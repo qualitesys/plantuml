@@ -65,8 +65,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00135"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#135"
- , "c1" : "Collection<String>"
- , "c2" : "sortBySize(Collection<String>)"
+ , "c1" : "Collection&lt;String&gt;"
+ , "c2" : "sortBySize(Collection&lt;String&gt;)"
  , "c3" : "2"
  , "c4" : "6"
 }} 
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00174"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#174"
  , "c1" : "Elected"
- , "c2" : "getElected(String;Collection<String>)"
+ , "c2" : "getElected(String;Collection&lt;String&gt;)"
  , "c3" : "3"
  , "c4" : "3"
 }} 

@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00134"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#134"
  , "c1" : "CommonTile"
- , "c2" : "getFromAnchor(List<CommonTile>;String)"
+ , "c2" : "getFromAnchor(List&lt;CommonTile&gt;;String)"
  , "c3" : "3"
  , "c4" : "2"
 }} 
@@ -137,7 +137,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00181"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#181"
- , "c1" : "List<Double>"
+ , "c1" : "List&lt;Double&gt;"
  , "c2" : "yNewPages()"
  , "c3" : "4"
  , "c4" : "7"

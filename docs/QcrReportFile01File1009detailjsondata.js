@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00088"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#88"
  , "c1" : "boolean"
- , "c2" : "hasInitialSkinparam(List<StringLocated>)"
+ , "c2" : "hasInitialSkinparam(List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00093"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#93"
  , "c1" : "UmlSource"
- , "c2" : "UmlSource(List<StringLocated>;List<StringLocated>)"
+ , "c2" : "UmlSource(List&lt;StringLocated&gt;;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "2"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00098"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#98"
  , "c1" : "UmlSource"
- , "c2" : "create(List<StringLocated>;boolean)"
+ , "c2" : "create(List&lt;StringLocated&gt;;boolean)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -66,7 +66,7 @@ var maDataBlocs = {
  , "c5" : "00110"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#110"
  , "c1" : "UmlSource"
- , "c2" : "createWithRaw(List<StringLocated>;boolean;List<StringLocated>)"
+ , "c2" : "createWithRaw(List&lt;StringLocated&gt;;boolean;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "3"
 }} 
@@ -74,7 +74,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00117"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#117"
- , "c1" : "ArrayList<StringLocated>"
+ , "c1" : "ArrayList&lt;StringLocated&gt;"
  , "c2" : "emptyArrayList()"
  , "c3" : "1"
  , "c4" : "1"
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00121"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#121"
  , "c1" : "void"
- , "c2" : "loadInternal(List<StringLocated>;boolean)"
+ , "c2" : "loadInternal(List&lt;StringLocated&gt;;boolean)"
  , "c3" : "6"
  , "c4" : "7"
 }} 

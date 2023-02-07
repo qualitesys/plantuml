@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00053"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTree.java.html#53"
- , "c1" : "Terminated<Element>"
+ , "c1" : "Terminated&lt;Element&gt;"
  , "c2" : "create()"
  , "c3" : "6"
  , "c4" : "16"

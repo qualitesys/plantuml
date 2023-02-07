@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/salt/element/ElementText.java.html#56"
  , "c1" : "ElementText"
- , "c2" : "ElementText(List<String>;UFont;ISkinSimple)"
+ , "c2" : "ElementText(List&lt;String&gt;;UFont;ISkinSimple)"
  , "c3" : "1"
  , "c4" : "4"
 }} 

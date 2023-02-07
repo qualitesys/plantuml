@@ -20,7 +20,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00059"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/InGroupableList.java.html#59"
- , "c1" : "List<InGroupableList>"
+ , "c1" : "List&lt;InGroupableList&gt;"
  , "c2" : "getInnerList()"
  , "c3" : "3"
  , "c4" : "3"

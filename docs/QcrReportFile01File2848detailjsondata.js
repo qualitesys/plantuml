@@ -443,7 +443,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00362"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#362"
- , "c1" : "CArrayOfStar<ST_Agraph_s>"
+ , "c1" : "CArrayOfStar&lt;ST_Agraph_s&gt;"
  , "c2" : "GD_clust(ST_Agraph_s)"
  , "c3" : "1"
  , "c4" : "1"
@@ -453,7 +453,7 @@ var maDataBlocs = {
  , "c5" : "00366"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#366"
  , "c1" : "void"
- , "c2" : "GD_clust(ST_Agraph_s;CArrayOfStar<ST_Agraph_s>)"
+ , "c2" : "GD_clust(ST_Agraph_s;CArrayOfStar&lt;ST_Agraph_s&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -884,7 +884,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00598"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#598"
- , "c1" : "CArray<ST_rank_t>"
+ , "c1" : "CArray&lt;ST_rank_t&gt;"
  , "c2" : "GD_rank(ST_Agraph_s)"
  , "c3" : "1"
  , "c4" : "1"
@@ -894,7 +894,7 @@ var maDataBlocs = {
  , "c5" : "00605"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#605"
  , "c1" : "void"
- , "c2" : "GD_rank(ST_Agraph_s;CArray<ST_rank_t>)"
+ , "c2" : "GD_rank(ST_Agraph_s;CArray&lt;ST_rank_t&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -902,7 +902,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00613"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#613"
- , "c1" : "CArrayOfStar<ST_Agnode_s>"
+ , "c1" : "CArrayOfStar&lt;ST_Agnode_s&gt;"
  , "c2" : "GD_rankleader(ST_Agraph_s)"
  , "c3" : "1"
  , "c4" : "1"
@@ -912,7 +912,7 @@ var maDataBlocs = {
  , "c5" : "00617"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#617"
  , "c1" : "void"
- , "c2" : "GD_rankleader(ST_Agraph_s;CArrayOfStar<ST_Agnode_s>)"
+ , "c2" : "GD_rankleader(ST_Agraph_s;CArrayOfStar&lt;ST_Agnode_s&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -1200,7 +1200,7 @@ var maDataBlocs = {
  , "c5" : "00775"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#775"
  , "c1" : "void"
- , "c2" : "ND_in(ST_Agnode_s;__struct__<ST_elist>)"
+ , "c2" : "ND_in(ST_Agnode_s;__struct__&lt;ST_elist&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -1443,7 +1443,7 @@ var maDataBlocs = {
  , "c5" : "00898"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#898"
  , "c1" : "void"
- , "c2" : "ND_out(ST_Agnode_s;__struct__<ST_elist>)"
+ , "c2" : "ND_out(ST_Agnode_s;__struct__&lt;ST_elist&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -1578,7 +1578,7 @@ var maDataBlocs = {
  , "c5" : "00969"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#969"
  , "c1" : "void"
- , "c2" : "ND_save_in(ST_Agnode_s;__struct__<ST_elist>)"
+ , "c2" : "ND_save_in(ST_Agnode_s;__struct__&lt;ST_elist&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -1596,7 +1596,7 @@ var maDataBlocs = {
  , "c5" : "00978"
  , "c5link" : "././qc/src/smetana/core/Macro.java.html#978"
  , "c1" : "void"
- , "c2" : "ND_save_out(ST_Agnode_s;__struct__<ST_elist>)"
+ , "c2" : "ND_save_out(ST_Agnode_s;__struct__&lt;ST_elist&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -5401,6 +5401,20 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tree_index@POLYN428451"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_low@POLYN410707"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.APPROXEQPT@POLYN437777"
 }} 
 ,
@@ -5521,13 +5535,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_virt@POLYN428023"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tree_index@POLYN428451"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5934,13 +5941,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lim@POLYN410279"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/Macro.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_low@POLYN410707"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -110,7 +110,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00158"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/asciiart/BasicCharAreaImpl.java.html#158"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "getLines()"
  , "c3" : "2"
  , "c4" : "5"

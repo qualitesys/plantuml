@@ -38,7 +38,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00068"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/WithNote.java.html#68"
- , "c1" : "Collection<PositionedNote>"
+ , "c1" : "Collection&lt;PositionedNote&gt;"
  , "c2" : "getPositionedNotes()"
  , "c3" : "1"
  , "c4" : "1"

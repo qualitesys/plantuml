@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00056"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#56"
  , "c1" : "CodeIteratorWhile"
- , "c2" : "CodeIteratorWhile(CodeIterator;TContext;TMemory;List<StringLocated>)"
+ , "c2" : "CodeIteratorWhile(CodeIterator;TContext;TMemory;List&lt;StringLocated&gt;)"
  , "c3" : "1"
  , "c4" : "4"
 }} 

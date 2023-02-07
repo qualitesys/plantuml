@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00064"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#64"
  , "c1" : "ListSpriteDiagram"
- , "c2" : "ListSpriteDiagram(UmlSource;Map<String,String>)"
+ , "c2" : "ListSpriteDiagram(UmlSource;Map&lt;String,String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00042"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#42"
  , "c1" : "void"
- , "c2" : "putInSquare(List<O>;SquareLinker<O>)"
+ , "c2" : "putInSquare(List&lt;O&gt;;SquareLinker&lt;O&gt;)"
  , "c3" : "4"
  , "c4" : "11"
 }} 

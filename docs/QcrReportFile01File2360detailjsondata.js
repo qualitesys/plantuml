@@ -155,7 +155,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00409"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/swing/MainWindow.java.html#409"
- , "c1" : "List<SimpleLine>"
+ , "c1" : "List&lt;SimpleLine&gt;"
  , "c2" : "getCurrentDirectoryListing2()"
  , "c3" : "1"
  , "c4" : "1"

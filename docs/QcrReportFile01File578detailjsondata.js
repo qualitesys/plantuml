@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileMargedRight.java.html#65"
- , "c1" : "Set<Swimlane>"
+ , "c1" : "Set&lt;Swimlane&gt;"
  , "c2" : "getSwimlanes()"
  , "c3" : "1"
  , "c4" : "1"

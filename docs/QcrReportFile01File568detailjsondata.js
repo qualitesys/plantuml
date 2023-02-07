@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00073"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#73"
  , "c1" : "Ftile"
- , "c2" : "addNote(Ftile;Swimlane;Collection<PositionedNote>;VerticalAlignment)"
+ , "c2" : "addNote(Ftile;Swimlane;Collection&lt;PositionedNote&gt;;VerticalAlignment)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c5" : "00091"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#91"
  , "c1" : "Ftile"
- , "c2" : "createIf(Swimlane;List<Branch>;Branch;LinkRendering;LinkRendering;Url)"
+ , "c2" : "createIf(Swimlane;List&lt;Branch&gt;;Branch;LinkRendering;LinkRendering;Url)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -156,7 +156,7 @@ var maDataBlocs = {
  , "c5" : "00094"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#94"
  , "c1" : "Ftile"
- , "c2" : "createSwitch(Swimlane;List<Branch>;LinkRendering;LinkRendering;Display)"
+ , "c2" : "createSwitch(Swimlane;List&lt;Branch&gt;;LinkRendering;LinkRendering;Display)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -165,7 +165,7 @@ var maDataBlocs = {
  , "c5" : "00097"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactory.java.html#97"
  , "c1" : "Ftile"
- , "c2" : "createParallel(List<Ftile>;ForkStyle;String;Swimlane;Swimlane)"
+ , "c2" : "createParallel(List&lt;Ftile&gt;;ForkStyle;String;Swimlane;Swimlane)"
  , "c3" : "1"
  , "c4" : "1"
 }} 

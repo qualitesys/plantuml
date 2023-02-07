@@ -47,7 +47,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00135"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandArrow.java.html#135"
- , "c1" : "List<Participant>"
+ , "c1" : "List&lt;Participant&gt;"
  , "c2" : "getMulticasts(SequenceDiagram;RegexResult)"
  , "c3" : "5"
  , "c4" : "8"

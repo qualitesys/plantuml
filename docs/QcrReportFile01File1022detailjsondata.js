@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00046"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/creole/Stripe.java.html#46"
- , "c1" : "List<Atom>"
+ , "c1" : "List&lt;Atom&gt;"
  , "c2" : "getAtoms()"
  , "c3" : "1"
  , "c4" : "1"

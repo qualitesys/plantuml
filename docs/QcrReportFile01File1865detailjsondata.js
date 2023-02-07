@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00221"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/security/SecurityUtils.java.html#221"
- , "c1" : "List<SFile>"
+ , "c1" : "List&lt;SFile&gt;"
  , "c2" : "getPath(String)"
  , "c3" : "4"
  , "c4" : "10"

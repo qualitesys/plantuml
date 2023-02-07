@@ -20,8 +20,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00065"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileBuilder.java.html#65"
- , "c1" : "List<Tile>"
- , "c2" : "buildSeveral(Iterator<Event>;TileArguments;Tile;YGauge)"
+ , "c1" : "List&lt;Tile&gt;"
+ , "c2" : "buildSeveral(Iterator&lt;Event&gt;;TileArguments;Tile;YGauge)"
  , "c3" : "4"
  , "c4" : "7"
 }} 
@@ -29,8 +29,8 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00082"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileBuilder.java.html#82"
- , "c1" : "List<Tile>"
- , "c2" : "buildOne(Iterator<Event>;TileArguments;Event;Tile;YGauge)"
+ , "c1" : "List&lt;Tile&gt;"
+ , "c2" : "buildOne(Iterator&lt;Event&gt;;TileArguments;Event;Tile;YGauge)"
  , "c3" : "44"
  , "c4" : "58"
 }} 

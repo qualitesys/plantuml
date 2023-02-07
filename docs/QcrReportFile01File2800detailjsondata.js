@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00051"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#51"
  , "c1" : "YamlLines"
- , "c2" : "YamlLines(List<String>)"
+ , "c2" : "YamlLines(List&lt;String&gt;)"
  , "c3" : "4"
  , "c4" : "9"
 }} 
@@ -128,7 +128,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00181"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/yaml/YamlLines.java.html#181"
- , "c1" : "Iterator<String>"
+ , "c1" : "Iterator&lt;String&gt;"
  , "c2" : "iterator()"
  , "c3" : "1"
  , "c4" : "1"

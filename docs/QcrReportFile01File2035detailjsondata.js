@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00069"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#69"
  , "c1" : "LiveBoxes"
- , "c2" : "LiveBoxes(Participant;List<Event>;Rose;ISkinParam)"
+ , "c2" : "LiveBoxes(Participant;List&lt;Event&gt;;Rose;ISkinParam)"
  , "c3" : "1"
  , "c4" : "4"
 }} 
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00182"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#182"
  , "c1" : "Event"
- , "c2" : "nextButSkippingNotes(Iterator<Event>)"
+ , "c2" : "nextButSkippingNotes(Iterator&lt;Event&gt;)"
  , "c3" : "4"
  , "c4" : "4"
 }} 

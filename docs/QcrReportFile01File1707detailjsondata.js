@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00064"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html#64"
  , "c1" : "TimeHeaderDaily"
- , "c2" : "TimeHeaderDaily(TimeHeaderParameters;Map<Day,String>;Day;Day)"
+ , "c2" : "TimeHeaderDaily(TimeHeaderParameters;Map&lt;Day,String&gt;;Day;Day)"
  , "c3" : "1"
  , "c4" : "3"
 }} 

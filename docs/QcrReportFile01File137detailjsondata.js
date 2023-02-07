@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/splines__c.java.html" 
- , "texte" : "File src/gen/lib/common/splines__c.java 928 rule violations " 
+ , "texte" : "File src/gen/lib/common/splines__c.java 934 rule violations " 
  , "fic2"  : "./qc/src/gen/lib/common/splines__c.java.xml" 
  , "fic3"  : "" 
 }
@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00249"
  , "c5link" : "././qc/src/gen/lib/common/splines__c.java.html#249"
  , "c1" : "void"
- , "c2" : "arrow_clip(ST_Agedge_s;ST_Agnode_s;CArray<ST_pointf>;int[];int[];ST_bezier;ST_splineInfo)"
+ , "c2" : "arrow_clip(ST_Agedge_s;ST_Agnode_s;CArray&lt;ST_pointf&gt;;int[];int[];ST_bezier;ST_splineInfo)"
  , "c3" : "11"
  , "c4" : "22"
 }} 
@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "01437"
  , "c5link" : "././qc/src/gen/lib/common/splines__c.java.html#1437"
  , "c1" : "void"
- , "c2" : "bezier_clip(__ptr__;__ptr__;CArray<ST_pointf>;boolean)"
+ , "c2" : "bezier_clip(__ptr__;__ptr__;CArray&lt;ST_pointf&gt;;boolean)"
  , "c3" : "12"
  , "c4" : "40"
 }} 
@@ -39,7 +39,7 @@ var maDataBlocs = {
  , "c5" : "00001"
  , "c5link" : "././qc/src/gen/lib/common/splines__c.java.html#1"
  , "c1" : "void"
- , "c2" : "shape_clip0(__ptr__;ST_Agnode_s;CArray<ST_pointf>;boolean)"
+ , "c2" : "shape_clip0(__ptr__;ST_Agnode_s;CArray&lt;ST_pointf&gt;;boolean)"
  , "c3" : "3"
  , "c4" : "16"
 }} 
@@ -57,7 +57,7 @@ var maDataBlocs = {
  , "c5" : "00001"
  , "c5link" : "././qc/src/gen/lib/common/splines__c.java.html#1"
  , "c1" : "void"
- , "c2" : "clip_and_install(ST_Agedge_s;ST_Agnode_s;CArray<ST_pointf>;int;ST_splineInfo)"
+ , "c2" : "clip_and_install(ST_Agedge_s;ST_Agnode_s;CArray&lt;ST_pointf&gt;;int;ST_splineInfo)"
  , "c3" : "19"
  , "c4" : "72"
 }} 
@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c5" : "00001"
  , "c5link" : "././qc/src/gen/lib/common/splines__c.java.html#1"
  , "c1" : "void"
- , "c2" : "selfRight(CArrayOfStar<ST_Agedge_s>;int;int;double;double;ST_splineInfo)"
+ , "c2" : "selfRight(CArrayOfStar&lt;ST_Agedge_s&gt;;int;int;double;double;ST_splineInfo)"
  , "c3" : "11"
  , "c4" : "56"
 }} 
@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c5" : "00001"
  , "c5link" : "././qc/src/gen/lib/common/splines__c.java.html#1"
  , "c1" : "void"
- , "c2" : "makeSelfEdge(ST_path;CArrayOfStar<ST_Agedge_s>;int;int;double;double;ST_splineInfo)"
+ , "c2" : "makeSelfEdge(ST_path;CArrayOfStar&lt;ST_Agedge_s&gt;;int;int;double;double;ST_splineInfo)"
  , "c3" : "11"
  , "c4" : "10"
 }} 
@@ -246,7 +246,23 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "5"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
@@ -258,6 +274,13 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE484"
  , "c3" : "Omitted Break Statement in Switch"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
  , "c4" : "1"
 }}
 ,
@@ -6792,6 +6815,48 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00001] In method gen.lib.common.splines__c.getsplinepoints@POLYN492842 the MagicNumber/String  'getsplinepoints' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.splines__c.add_box_w_@POLYN424897"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.splines__c.add_box_w_@POLYN424897 the MagicNumber/String 'add_box' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.splines__c.add_box_w_@POLYN424897 the MagicNumber/String 'add_box' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.splines__c.add_box_w_@POLYN424897 the MagicNumber/String 'egq4f4tmy1dhyj6jpj92r7xhu' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.splines__c.add_box_w_@POLYN424897 the MagicNumber/String 'egq4f4tmy1dhyj6jpj92r7xhu' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.splines__c.add_box_w_@POLYN424897 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
 , 

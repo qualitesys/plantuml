@@ -30,7 +30,7 @@ var maDataBlocs = {
  , "c5" : "00053"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.html#53"
  , "c1" : "Ftile"
- , "c2" : "createParallel(List<Ftile>;ForkStyle;String;Swimlane;Swimlane)"
+ , "c2" : "createParallel(List&lt;Ftile&gt;;ForkStyle;String;Swimlane;Swimlane)"
  , "c3" : "7"
  , "c4" : "7"
 }} 

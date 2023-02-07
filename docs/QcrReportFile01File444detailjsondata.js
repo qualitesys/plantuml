@@ -48,7 +48,7 @@ var maDataBlocs = {
  , "c5" : "00076"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#76"
  , "c1" : "SourceStringReader"
- , "c2" : "SourceStringReader(Defines;String;List<String>)"
+ , "c2" : "SourceStringReader(Defines;String;List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -75,7 +75,7 @@ var maDataBlocs = {
  , "c5" : "00088"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#88"
  , "c1" : "SourceStringReader"
- , "c2" : "SourceStringReader(Defines;String;String;List<String>)"
+ , "c2" : "SourceStringReader(Defines;String;String;List&lt;String&gt;)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -84,7 +84,7 @@ var maDataBlocs = {
  , "c5" : "00092"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#92"
  , "c1" : "SourceStringReader"
- , "c2" : "SourceStringReader(Defines;String;String;List<String>;SFile)"
+ , "c2" : "SourceStringReader(Defines;String;String;List&lt;String&gt;;SFile)"
  , "c3" : "1"
  , "c4" : "1"
 }} 
@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c5" : "00097"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#97"
  , "c1" : "SourceStringReader"
- , "c2" : "SourceStringReader(Defines;String;Charset;List<String>;SFile)"
+ , "c2" : "SourceStringReader(Defines;String;Charset;List&lt;String&gt;;SFile)"
  , "c3" : "1"
  , "c4" : "4"
 }} 
@@ -245,7 +245,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00238"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#238"
- , "c1" : "List<BlockUml>"
+ , "c1" : "List&lt;BlockUml&gt;"
  , "c2" : "getBlocks()"
  , "c3" : "1"
  , "c4" : "1"

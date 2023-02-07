@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00048"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AnimationDecoder.java.html#48"
  , "c1" : "AnimationDecoder"
- , "c2" : "AnimationDecoder(Iterable<CharSequence>)"
+ , "c2" : "AnimationDecoder(Iterable&lt;CharSequence&gt;)"
  , "c3" : "8"
  , "c4" : "14"
 }} 
@@ -29,7 +29,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00074"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/anim/AnimationDecoder.java.html#74"
- , "c1" : "List<String>"
+ , "c1" : "List&lt;String&gt;"
  , "c2" : "decode()"
  , "c3" : "1"
  , "c4" : "1"

@@ -21,7 +21,7 @@ var maDataBlocs = {
  , "c5" : "00050"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ShuntingYard.java.html#50"
  , "c1" : "ShuntingYard"
- , "c2" : "ShuntingYard(Iterator<Token>)"
+ , "c2" : "ShuntingYard(Iterator&lt;Token&gt;)"
  , "c3" : "39"
  , "c4" : "32"
 }} 
@@ -83,7 +83,7 @@ var maDataBlocs = {
 { "ligne" : { "" : ""
  , "c5" : "00174"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/ShuntingYard.java.html#174"
- , "c1" : "List<Token>"
+ , "c1" : "List&lt;Token&gt;"
  , "c2" : "getOuputQueue()"
  , "c3" : "1"
  , "c4" : "1"
