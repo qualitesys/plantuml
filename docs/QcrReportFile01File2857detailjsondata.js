@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/debug/SmetanaDebug.java.html" 
- , "texte" : "File src/smetana/core/debug/SmetanaDebug.java 12 rule violations " 
+ , "texte" : "File src/smetana/core/debug/SmetanaDebug.java 10 rule violations " 
  , "fic2"  : "./qc/src/smetana/core/debug/SmetanaDebug.java.xml" 
  , "fic3"  : "" 
 }
@@ -111,23 +111,7 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
@@ -226,20 +210,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#64"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00064] For method LEAVING arguments String  signature|String  methodName"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.debug.SmetanaDebug.printMe@POLYN151438"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/debug/SmetanaDebug.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.debug.SmetanaDebug.reset@POLYN151294"
 }} 
 ]
 , 
