@@ -389,9 +389,9 @@ function genererBloc09() {
          lsStr+='<td>'+monBloc.ligne.c3+'</td>';
          lsStr+='<td>'+monBloc.ligne.c4+'</td>';
          if (monBloc.ligne.c6.length>0) {
-            lsStr+='<td style="'+monBloc.ligne.c6+'">'+monBloc.ligne.c5+'</td>';
+            lsStr+='<td style="'+monBloc.ligne.c6+'">'+monBloc.ligne.c5[0]+', '+monBloc.ligne.c5[1]+'</td>';
          } else {
-            lsStr+='<td>'+monBloc.ligne.c5+'</td>';
+            lsStr+='<td>'+monBloc.ligne.c5[0]+', '+monBloc.ligne.c5[1]+'</td>';
          }
          var lsColor1;if (monBloc.ligne.secu1!='Ok') lsColor1 = ' style="color : red"'; else lsColor1='';
          var lsColor2;if (monBloc.ligne.secu2!='Ok') lsColor2 = ' style="color : red"'; else lsColor2='';
