@@ -370,7 +370,7 @@ function genererBloc09() {
       lsStr+='<table border="1" class="bodyTable">';
       lsStr+='<tr class="b">';
       lsStr+='<th>Seq</th>';
-      lsStr+='<th>Nb of steps</th>';
+      lsStr+='<th align="center">Nb of steps</th>';
       lsStr+='<th>Nb of risks</th>';
       lsStr+='<th>First and last step, or first and last method</th>';
       lsStr+='<th>Secu 1</th>';
@@ -422,6 +422,7 @@ function genererBloc10() {
       lsStr+='<th>Method</th>';
       lsStr+='<th>Risk</th>';
       lsStr+='<th>Message</th>';
+      lsStr+='<th>Called in sequences</th>';
       lsStr+='</tr>';
       maDataBlocs.data10.sort(function(a,b){
          var liInt;
@@ -440,6 +441,7 @@ function genererBloc10() {
             lsStr+='<td'+lsColor+'>'+monBloc.ligne.c1+'</td>';
             lsStr+='<td'+lsColor+'>'+monBloc.ligne.c2+'</td>';
             lsStr+='<td'+lsColor+'>'+monBloc.ligne.c3+'</td>';
+            lsStr+='<td'+lsColor+'>'+monBloc.ligne.c4+'</td>';
             lsStr+='</tr>';
          }
       }
