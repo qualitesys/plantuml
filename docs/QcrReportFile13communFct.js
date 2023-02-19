@@ -22,53 +22,55 @@ function lfRadioOnClickFct() {
    return true;
 }
 function doTraiterFct(aeVal) {
-	const resul = lesPkgFct.find(({datas}) => datas.valeur === aeVal);
-	//console.log("main02 resul "+resul);
-	if (resul===undefined) {
-	   //console.log("main03 pas trouve "+aeVal+" ajoute");
+	//console.log("doTraiterFct02 resul "+resul);
 	   var laVar = { "datas" : { "valeur" : aeVal , "rang" : "0" , "listeappelles" : [] , "listecouleurs" : [] , "listetitle" : [] , "dansuncycle" : "false"} } ;
 	   lesPkgFct.push(laVar);
-	} else {
-	   //console.log("main04 "+aeVal+" deja trouve");
-	}
 }
 function doAffecterFct(aeValStart, aeValEnd) {
    const resul1 = lesPkgFct.find(({datas}) => datas.valeur === aeValStart);
    const resul2 = lesPkgFct.find(({datas}) => datas.valeur === aeValEnd);
-   //console.log("main05 resul "+resul1.datas.valeur + " " + resul1.datas.rang);
-   //console.log("main06 resul "+resul2.datas.valeur + " " + resul2.datas.rang);
-   lesPkgFct[resul1.datas.rang].datas.listeappelles[resul2.datas.rang] = "X";
-   lesPkgFct[resul1.datas.rang].datas.listetitle   [resul2.datas.rang] = "<a title='"+resul1.datas.valeur+" -> "+resul2.datas.valeur+"'>";
+   if (null!=resul1 && null!=resul2) {
+      //console.log("main05 resul "+resul1.datas.valeur + " " + resul1.datas.rang);
+      //console.log("main06 resul "+resul2.datas.valeur + " " + resul2.datas.rang);
+      lesPkgFct[resul1.datas.rang].datas.listeappelles[resul2.datas.rang] = "X";
+      lesPkgFct[resul1.datas.rang].datas.listetitle   [resul2.datas.rang] = "<a title='"+resul1.datas.valeur+" -> "+resul2.datas.valeur+"'>";
+   }
 }
 function doInitFct() {
-   console.log("main01 Debut");
+   console.log("doInitFct01 Debut");
    // Init avec les packages
    var datadepend = datadependFct;
-   for (var liInd=0; liInd<datadepend.lesdatas.length; liInd++) {
-      //console.log("main01 "+liInd);
-      var leVal1 = datadepend.lesdatas[liInd].start; doTraiterFct(leVal1);
-      var leVal2 = datadepend.lesdatas[liInd].end  ; doTraiterFct(leVal2);
-      //console.log("main03 taille "+lesPkgFct.length);
+   var liInd=0;
+   for (var liInd=0; liInd<datadepend.lesnoeuds.length; liInd++) {
+      if (0==liInd%1000) console.log("doInitFct02 "+liInd);
+      var leVal1 = datadepend.lesnoeuds[liInd].noeud; doTraiterFct(leVal1);
+      liInd++;
    }
+   console.log("doInitFct04");
    lesPkgFct.sort((a, b) => a.datas.valeur > b.datas.valeur);
-   for (var liInd=0; liInd<lesPkgFct.length; liInd++) {
-	   lesPkgFct[liInd].datas.rang = liInd;
-	   for (var liCol=0; liCol<lesPkgFct.length; liCol++) {
-	      lesPkgFct[liInd].datas.listeappelles[liCol]="";
-	   }
-   }
+   console.log("doInitFct05");
+   //Modif D.C. 2023 02 18 en comm
+   //for (var liInd=0; liInd<lesPkgFct.length; liInd++) {
+	 //  lesPkgFct[liInd].datas.rang = liInd;
+	 //  for (var liCol=0; liCol<lesPkgFct.length; liCol++) {
+	 //     lesPkgFct[liInd].datas.listeappelles[liCol]="";
+	 //  }
+   //}
+   console.log("doInitFct06");
    for (var liInd=0; liInd<datadepend.lesdatas.length; liInd++) {
 	   var leVal1 = datadepend.lesdatas[liInd].start;
 	   var leVal2 = datadepend.lesdatas[liInd].end  ;
 	   doAffecterFct(leVal1, leVal2);
    }
+   console.log("doInitFct07");
    for (var liCol=0; liCol<lesPkgFct.length; liCol++) {
 	   lesPkgFct[liCol].datas.listecouleurs[liCol] = "skyblue";
    }
+   console.log("doInitFct08");
    for (var liInd1=0; liInd1<datadepend.lescycles.length; liInd1++) {
-      //console.log("main07 cycle "+liInd1);
+      //console.log("doInitFct09 cycle "+liInd1);
       //for (var liInd2=0; liInd2<datadepend.lescycles[liInd1].uncycle.length; liInd2++) {
-      //   console.log("main08    etape "+liInd2+"  "+datadepend.lescycles[liInd1].uncycle[liInd2].etape);
+      //   console.log("doInitFct10    etape "+liInd2+"  "+datadepend.lescycles[liInd1].uncycle[liInd2].etape);
       //}
       var leEtapeZero = datadepend.lescycles[liInd1].uncycle[0].etape;
       var leEtapePrec = leEtapeZero;
@@ -77,13 +79,13 @@ function doInitFct() {
       for (var liInd2=1; liInd2<=liTaille; liInd2++) {
 	       if (liInd2<liTaille) { var leEtapeCour = datadepend.lescycles[liInd1].uncycle[liInd2].etape; }
 	       else                 { var leEtapeCour = leEtapeZero; }
-         //console.log("main09    entre "+leEtapePrec+" et "+leEtapeCour);
+         //console.log("doInitFct11    entre "+leEtapePrec+" et "+leEtapeCour);
          const resul1 = lesPkgFct.find(({datas}) => datas.valeur === leEtapePrec);
          const resul2 = lesPkgFct.find(({datas}) => datas.valeur === leEtapeCour);
 	       const rangEtapePrec = resul1.datas.rang;
 	       const rangEtapeCour = resul2.datas.rang;
-         //console.log("main10 resul "+resul1.datas.valeur + " " + rangEtapePrec);
-         //console.log("main11 resul "+resul2.datas.valeur + " " + rangEtapeCour);
+         //console.log("doInitFct10 resul "+resul1.datas.valeur + " " + rangEtapePrec);
+         //console.log("doInitFct11 resul "+resul2.datas.valeur + " " + rangEtapeCour);
 	       var rangMin = rangEtapePrec;
 	       var rangMax = rangEtapeCour;
 	       if (rangMin>rangMax) {
@@ -104,7 +106,7 @@ function doInitFct() {
          leEtapePrec = leEtapeCour;
       }
    }
-   console.log("main99 fin");
+   console.log("doInitFct99 fin");
 }
 function doDessinerFct() {
   var lsStr = "";
