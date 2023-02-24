@@ -75,7 +75,7 @@ function doInitCallerCalleePkg() {
       lesPkgCallerCalleePkg[liCol].datas.listecouleurs[liCol] = "skyblue";
    }
    console.log("doInitCallerCalleePkg08");
-   for (var liInd1=0; liInd1<datadepend.lescycles.length; liInd1++) {
+   for (var liInd1=0; liInd1<0; liInd1++) {
       console.log("doInitCallerCalleePkg09 cycle "+liInd1+" taille "+datadepend.lescycles[liInd1].uncycle.length);
       //for (var liInd2=0; liInd2<datadepend.lescycles[liInd1].uncycle.length; liInd2++) {
       //   console.log("doInitCallerCalleePkg10    etape "+liInd2+"  "+datadepend.lescycles[liInd1].uncycle[liInd2].etape);
@@ -174,7 +174,6 @@ function doDessinerCallerCalleePkg() {
       lsStr+="<div>No cycles have been detected in the graph</div>";
       lsStr+="<br />";
    }
-   //console.log("main02 lsStr "+lsStr);
    var theDivBloc = document.getElementById("maDivCallerCalleePkg");  
    theDivBloc.innerHTML = lsStr;
 }
