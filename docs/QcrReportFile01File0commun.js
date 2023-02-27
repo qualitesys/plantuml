@@ -380,7 +380,9 @@ function genererBloc09() {
       lsStr+='<th>Sanitized ?</th></tr>';
       for (var liInd=0; liInd<maDataBlocs.data09a.length; liInd++) {
          var monBloc = maDataBlocs.data09a[liInd];
-         var lsColor;if (monBloc.ligne.secu4!='Ok') lsColor = ' style="color : red"'; else lsColor='';
+         var lsColor;
+         if (monBloc.ligne.secu4!='Ok') lsColor = ' style="color : red"'; else lsColor='';
+         if (monBloc.ligne.secu4=='Ok' && monBloc.ligne.c7!='') lsColor = ' style="color : green"';
          if (0==(liInd%2)) lsStr+='<tr class="b"'+lsColor+'>';
 
          if (1==(liInd%2)) lsStr+='<tr class="a"'+lsColor+'>';
@@ -397,11 +399,12 @@ function genererBloc09() {
          var lsColor2;if (monBloc.ligne.secu2!='Ok') lsColor2 = ' style="color : red"'; else lsColor2='';
          var lsColor3;if (monBloc.ligne.secu3!='Ok') lsColor3 = ' style="color : red"'; else lsColor3='';
          var lsColor4;if (monBloc.ligne.secu4!='Ok') lsColor4 = ' style="color : red"'; else lsColor4='';
+         var lsColor5;if (monBloc.ligne.c7   !=''  ) lsColor5 = ' style="color : green"'; else lsColor5='';
          lsStr+='<td'+lsColor1+'>'+monBloc.ligne.secu1+'</td>';
          lsStr+='<td'+lsColor2+'>'+monBloc.ligne.secu2+'</td>';
          lsStr+='<td'+lsColor3+'>'+monBloc.ligne.secu3+'</td>';
          lsStr+='<td'+lsColor4+'>'+monBloc.ligne.secu4+'</td>';
-         lsStr+='<td>'+monBloc.ligne.c7+'</td>';
+         lsStr+='<td'+lsColor5+'>'+monBloc.ligne.c7+'</td>';
          lsStr+='</tr>';
       }
       lsStr+='</table><br />';
