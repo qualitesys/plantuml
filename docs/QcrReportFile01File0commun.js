@@ -388,8 +388,8 @@ function genererBloc09() {
          if (1==(liInd%2)) lsStr+='<tr class="a"'+lsColor+'>';
 
          lsStr+='<td><a href="'+calculerUrl('link',monBloc.ligne.c1bis)+'">No '+monBloc.ligne.c2+'</a></td>';
-         lsStr+='<td>'+monBloc.ligne.c3+'</td>';
-         lsStr+='<td>'+monBloc.ligne.c4+'</td>';
+         lsStr+='<td align="right">'+monBloc.ligne.c3+'</td>';
+         lsStr+='<td align="right">'+monBloc.ligne.c4+'</td>';
          if (monBloc.ligne.c6.length>0) {
             lsStr+='<td style="'+monBloc.ligne.c6+'">'+monBloc.ligne.c5[0]+', '+monBloc.ligne.c5[1]+'</td>';
          } else {

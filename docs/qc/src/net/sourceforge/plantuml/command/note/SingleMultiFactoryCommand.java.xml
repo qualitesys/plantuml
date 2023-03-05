@@ -407,7 +407,7 @@
 <leniv><indtoken>397</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.677887070883E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.67797347108E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>15</profmax><indtoken>1</indtoken><temps>0.003</temps><nbappels>15</nbappels><token>/*</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>2</indtoken><temps>0.003</temps><nbappels>28</nbappels><token>===</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>3</indtoken><temps>0.003</temps><nbappels>29</nbappels><token>===</token></leniv>
@@ -564,7 +564,7 @@
 <leniv><noligne>15</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>154</indtoken><temps>0.003</temps><nbappels>28</nbappels><token>*</token></leniv>
 <leniv><noligne>16</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>155</indtoken><temps>0.003</temps><nbappels>21</nbappels><token>`</token></leniv>
 <leniv><noligne>16</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>156</indtoken><temps>0.003</temps><nbappels>28</nbappels><token>*</token></leniv>
-<leniv><noligne>16</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>157</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>PlantUML</token></leniv>
+<leniv><noligne>16</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>157</indtoken><temps>0.003</temps><nbappels>29</nbappels><token>PlantUML</token></leniv>
 <leniv><noligne>16</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>158</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>is</token></leniv>
 <leniv><noligne>16</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>159</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>free</token></leniv>
 <leniv><noligne>16</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>160</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>software</token></leniv>
@@ -741,10 +741,10 @@
 <leniv><noligne>34</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>331</indtoken><temps>0.004</temps><nbappels>28</nbappels><token>*</token></leniv>
 <leniv><noligne>35</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>332</indtoken><temps>0.004</temps><nbappels>21</nbappels><token>`</token></leniv>
 <leniv><noligne>35</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>18</profmax><indtoken>333</indtoken><temps>0.004</temps><nbappels>29</nbappels><token>*/</token></leniv>
-<leniv><noligne>36</noligne><profmin>0</profmin><proffinale>10</proffinale><profmax>15</profmax><indtoken>334</indtoken><temps>0.005</temps><nbappels>10</nbappels><token>package</token></leniv>
-<leniv><noligne>36</noligne><profmin>0</profmin><proffinale>17</proffinale><profmax>17</profmax><indtoken>335</indtoken><temps>0.005</temps><nbappels>40</nbappels><token>net</token></leniv>
-<leniv><noligne>36</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>17</profmax><indtoken>336</indtoken><temps>0.005</temps><nbappels>10</nbappels><token>.</token></leniv>
-<leniv><noligne>36</noligne><profmin>0</profmin><proffinale>20</proffinale><profmax>20</profmax><indtoken>337</indtoken><temps>0.005</temps><nbappels>38</nbappels><token>sourceforge</token></leniv>
+<leniv><noligne>36</noligne><profmin>0</profmin><proffinale>10</proffinale><profmax>15</profmax><indtoken>334</indtoken><temps>0.004</temps><nbappels>10</nbappels><token>package</token></leniv>
+<leniv><noligne>36</noligne><profmin>0</profmin><proffinale>17</proffinale><profmax>17</profmax><indtoken>335</indtoken><temps>0.004</temps><nbappels>40</nbappels><token>net</token></leniv>
+<leniv><noligne>36</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>17</profmax><indtoken>336</indtoken><temps>0.004</temps><nbappels>10</nbappels><token>.</token></leniv>
+<leniv><noligne>36</noligne><profmin>0</profmin><proffinale>20</proffinale><profmax>20</profmax><indtoken>337</indtoken><temps>0.004</temps><nbappels>38</nbappels><token>sourceforge</token></leniv>
 <leniv><noligne>36</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>20</profmax><indtoken>338</indtoken><temps>0.005</temps><nbappels>11</nbappels><token>.</token></leniv>
 <leniv><noligne>36</noligne><profmin>0</profmin><proffinale>20</proffinale><profmax>20</profmax><indtoken>339</indtoken><temps>0.005</temps><nbappels>38</nbappels><token>plantuml</token></leniv>
 <leniv><noligne>36</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>20</profmax><indtoken>340</indtoken><temps>0.005</temps><nbappels>11</nbappels><token>.</token></leniv>
