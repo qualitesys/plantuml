@@ -387,7 +387,7 @@ function genererBloc09() {
 
          if (1==(liInd%2)) lsStr+='<tr class="a"'+lsColor+'>';
 
-         lsStr+='<td><a href="'+calculerUrl('link',monBloc.ligne.c1bis)+'" name="sequence'+monBloc.ligne.c2+'>No '+monBloc.ligne.c2+'</a></td>';
+         lsStr+='<td><a href="'+calculerUrl('link',monBloc.ligne.c1bis)+'" name="sequence'+monBloc.ligne.c2+'">No '+monBloc.ligne.c2+'</a></td>';
          lsStr+='<td align="right">'+monBloc.ligne.c3+'</td>';
          lsStr+='<td align="right">'+monBloc.ligne.c4+'</td>';
          if (monBloc.ligne.c6.length>0) {
@@ -447,7 +447,7 @@ function genererBloc10() {
             var lsLigne = monBloc.ligne.c4;
             var lsTab   = lsLigne.split(' ');
             var lsRes   = '';
-            for (let lsStr in lsTab {
+            for (const lsStr of lsTab) {
                lsRes   += '<a href="#sequence'+lsStr+'">'+lsStr+'</a> ';
             }
             lsStr+='<td'+lsColor+'>'+lsRes+'</td>';
