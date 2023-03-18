@@ -608,7 +608,7 @@
 <leniv><indtoken>598</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.679010181936E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.67909658975E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>15</profmax><indtoken>1</indtoken><temps>0.006</temps><nbappels>15</nbappels><token>/*</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>2</indtoken><temps>0.006</temps><nbappels>28</nbappels><token>This</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>3</indtoken><temps>0.006</temps><nbappels>29</nbappels><token>file</token></leniv>
@@ -1142,8 +1142,8 @@
 <leniv><noligne>0</noligne><profmin>0</profmin><proffinale>100</proffinale><profmax>120</profmax><indtoken>531</indtoken><temps>0.011</temps><nbappels>68</nbappels><token>_</token></leniv>
 <leniv><noligne>0</noligne><profmin>0</profmin><proffinale>118</proffinale><profmax>130</profmax><indtoken>532</indtoken><temps>0.011</temps><nbappels>317</nbappels><token>MIN_SALT_LENGTH</token></leniv>
 <leniv><noligne>0</noligne><profmin>0</profmin><proffinale>85</proffinale><profmax>130</profmax><indtoken>533</indtoken><temps>0.011</temps><nbappels>185</nbappels><token>)</token></leniv>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>120</proffinale><profmax>132</profmax><indtoken>534</indtoken><temps>0.011</temps><nbappels>370</nbappels><token>message</token></leniv>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>105</proffinale><profmax>132</profmax><indtoken>535</indtoken><temps>0.011</temps><nbappels>179</nbappels><token>=</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>120</proffinale><profmax>132</profmax><indtoken>534</indtoken><temps>0.012</temps><nbappels>370</nbappels><token>message</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>105</proffinale><profmax>132</profmax><indtoken>535</indtoken><temps>0.012</temps><nbappels>179</nbappels><token>=</token></leniv>
 <leniv><noligne>0</noligne><profmin>0</profmin><proffinale>123</proffinale><profmax>135</profmax><indtoken>536</indtoken><temps>0.012</temps><nbappels>317</nbappels><token>SALT_MIN_MSG</token></leniv>
 <leniv><noligne>0</noligne><profmin>0</profmin><proffinale>90</proffinale><profmax>135</profmax><indtoken>537</indtoken><temps>0.012</temps><nbappels>184</nbappels><token>;</token></leniv>
 <leniv><noligne>0</noligne><profmin>0</profmin><proffinale>83</proffinale><profmax>90</profmax><indtoken>538</indtoken><temps>0.012</temps><nbappels>11</nbappels><token>else</token></leniv>

@@ -270,7 +270,7 @@
 <leniv><indtoken>260</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.679010121424E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.679096529579E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>15</profmax><indtoken>1</indtoken><temps>0.001</temps><nbappels>15</nbappels><token>/*</token></leniv>
 <leniv><noligne>2</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>2</indtoken><temps>0.001</temps><nbappels>20</nbappels><token>`</token></leniv>
 <leniv><noligne>2</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>3</indtoken><temps>0.001</temps><nbappels>28</nbappels><token>*</token></leniv>
@@ -383,7 +383,7 @@
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>110</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>or</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>111</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>FITNESS</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>112</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>FOR</token></leniv>
-<leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>113</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>A</token></leniv>
+<leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>113</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>A</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>114</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>PARTICULAR</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>115</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>PURPOSE</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>116</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>.</token></leniv>
