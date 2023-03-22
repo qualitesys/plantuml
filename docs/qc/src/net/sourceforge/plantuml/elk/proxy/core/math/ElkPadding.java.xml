@@ -112,7 +112,7 @@
 <leniv><indtoken>102</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.679355831407E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.679442212003E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>10</proffinale><profmax>14</profmax><indtoken>1</indtoken><temps>0.001</temps><nbappels>18</nbappels><token>package</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>17</proffinale><profmax>17</profmax><indtoken>2</indtoken><temps>0.001</temps><nbappels>40</nbappels><token>net</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>17</profmax><indtoken>3</indtoken><temps>0.001</temps><nbappels>10</nbappels><token>.</token></leniv>
@@ -190,7 +190,7 @@
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>111</proffinale><profmax>124</profmax><indtoken>75</indtoken><temps>0.001</temps><nbappels>205</nbappels><token>newInstance</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>115</proffinale><profmax>124</profmax><indtoken>76</indtoken><temps>0.001</temps><nbappels>148</nbappels><token>(</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>148</proffinale><profmax>148</profmax><indtoken>77</indtoken><temps>0.001</temps><nbappels>84</nbappels><token>"org.eclipse.elk.core.math.ElkPadding"</token></leniv>
-<leniv><noligne>11</noligne><profmin>0</profmin><proffinale>121</proffinale><profmax>148</profmax><indtoken>78</indtoken><temps>0.002</temps><nbappels>52</nbappels><token>,</token></leniv>
+<leniv><noligne>11</noligne><profmin>0</profmin><proffinale>121</proffinale><profmax>148</profmax><indtoken>78</indtoken><temps>0.001</temps><nbappels>52</nbappels><token>,</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>149</proffinale><profmax>161</profmax><indtoken>79</indtoken><temps>0.002</temps><nbappels>322</nbappels><token>top</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>121</proffinale><profmax>161</profmax><indtoken>80</indtoken><temps>0.002</temps><nbappels>182</nbappels><token>,</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>149</proffinale><profmax>161</profmax><indtoken>81</indtoken><temps>0.002</temps><nbappels>322</nbappels><token>right</token></leniv>
