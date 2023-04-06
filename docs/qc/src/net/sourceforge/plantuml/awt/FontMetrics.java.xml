@@ -60,7 +60,7 @@
 <leniv><indtoken>50</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.680651767752E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.680738174094E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>10</proffinale><profmax>14</profmax><indtoken>1</indtoken><temps>0.001</temps><nbappels>18</nbappels><token>package</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>17</proffinale><profmax>17</profmax><indtoken>2</indtoken><temps>0.001</temps><nbappels>40</nbappels><token>net</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>17</profmax><indtoken>3</indtoken><temps>0.001</temps><nbappels>10</nbappels><token>.</token></leniv>
@@ -108,9 +108,9 @@
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>87</proffinale><profmax>94</profmax><indtoken>45</indtoken><temps>0.001</temps><nbappels>165</nbappels><token>return</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>120</proffinale><profmax>130</profmax><indtoken>46</indtoken><temps>0.001</temps><nbappels>372</nbappels><token>null</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>87</proffinale><profmax>120</profmax><indtoken>47</indtoken><temps>0.001</temps><nbappels>50</nbappels><token>;</token></leniv>
-<leniv><noligne>12</noligne><profmin>0</profmin><proffinale>68</proffinale><profmax>129</profmax><indtoken>48</indtoken><temps>0.002</temps><nbappels>980</nbappels><token>}</token></leniv>
-<leniv><noligne>14</noligne><profmin>0</profmin><proffinale>33</proffinale><profmax>68</profmax><indtoken>49</indtoken><temps>0.002</temps><nbappels>305</nbappels><token>}</token></leniv>
-<leniv><noligne>14</noligne><profmin>0</profmin><proffinale>2</proffinale><profmax>33</profmax><indtoken>50</indtoken><temps>0.002</temps><nbappels>18</nbappels><token>TokenDeFin</token></leniv>
+<leniv><noligne>12</noligne><profmin>0</profmin><proffinale>68</proffinale><profmax>129</profmax><indtoken>48</indtoken><temps>0.001</temps><nbappels>980</nbappels><token>}</token></leniv>
+<leniv><noligne>14</noligne><profmin>0</profmin><proffinale>33</proffinale><profmax>68</profmax><indtoken>49</indtoken><temps>0.001</temps><nbappels>305</nbappels><token>}</token></leniv>
+<leniv><noligne>14</noligne><profmin>0</profmin><proffinale>2</proffinale><profmax>33</profmax><indtoken>50</indtoken><temps>0.001</temps><nbappels>18</nbappels><token>TokenDeFin</token></leniv>
 </nbappelspartoken>
 <nbappelsparligne>
 <leniv><noligne>0</noligne><nbappels>0</nbappels></leniv>
