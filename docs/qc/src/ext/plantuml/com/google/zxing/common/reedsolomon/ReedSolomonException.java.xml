@@ -226,7 +226,7 @@
 <leniv><indtoken>216</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.680824442506E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.680910848099E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>15</profmax><indtoken>1</indtoken><temps>0.001</temps><nbappels>15</nbappels><token>/*</token></leniv>
 <leniv><noligne>2</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>2</indtoken><temps>0.001</temps><nbappels>20</nbappels><token>`</token></leniv>
 <leniv><noligne>2</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>3</indtoken><temps>0.001</temps><nbappels>28</nbappels><token>*</token></leniv>
@@ -317,8 +317,8 @@
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>88</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>distributed</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>89</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>under</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>90</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>the</token></leniv>
-<leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>91</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>License</token></leniv>
-<leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>92</indtoken><temps>0.001</temps><nbappels>29</nbappels><token>is</token></leniv>
+<leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>91</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>License</token></leniv>
+<leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>92</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>is</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>93</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>distributed</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>94</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>on</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>18</proffinale><profmax>18</profmax><indtoken>95</indtoken><temps>0.002</temps><nbappels>29</nbappels><token>an</token></leniv>
@@ -442,7 +442,7 @@
 <leniv><noligne>28</noligne><profmin>0</profmin><proffinale>75</proffinale><profmax>109</profmax><indtoken>213</indtoken><temps>0.002</temps><nbappels>55</nbappels><token>;</token></leniv>
 <leniv><noligne>29</noligne><profmin>0</profmin><proffinale>56</proffinale><profmax>117</profmax><indtoken>214</indtoken><temps>0.002</temps><nbappels>980</nbappels><token>}</token></leniv>
 <leniv><noligne>31</noligne><profmin>0</profmin><proffinale>33</proffinale><profmax>64</profmax><indtoken>215</indtoken><temps>0.002</temps><nbappels>300</nbappels><token>}</token></leniv>
-<leniv><noligne>31</noligne><profmin>0</profmin><proffinale>2</proffinale><profmax>33</profmax><indtoken>216</indtoken><temps>0.003</temps><nbappels>18</nbappels><token>TokenDeFin</token></leniv>
+<leniv><noligne>31</noligne><profmin>0</profmin><proffinale>2</proffinale><profmax>33</profmax><indtoken>216</indtoken><temps>0.002</temps><nbappels>18</nbappels><token>TokenDeFin</token></leniv>
 </nbappelspartoken>
 <nbappelsparligne>
 <leniv><noligne>0</noligne><nbappels>0</nbappels></leniv>
