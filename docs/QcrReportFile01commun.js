@@ -65,12 +65,12 @@ function traiterLd(monObj) {
 function traiter(monObj) {
    if (null!=monObj.nature) {
      switch (monObj.nature) {
-       case "opcodecall"   : return(traiterCall(monObj));
-      case "opcodeoper"   : return(traiterCall(monObj));
+      case "opcodebr"     : return(traiterBr  (monObj));
+      case "opcodecall"   : return(traiterCall(monObj));
       case "opcodeisinst" : return(traiterCall(monObj));
       case "opcodenewobj" : return(traiterCall(monObj));
+      case "opcodeoper"   : return(traiterCall(monObj));
       case "opcodestloc"  : return(traiterCall(monObj));
-      case "opcodebr"     : return(traiterBr  (monObj));
      }
    }
    switch (monObj.inst) {
@@ -99,6 +99,58 @@ case "stloc.3":
 case "stloc.s": 
 case "stfld"  : 
 case "stsfld" : 
+// Cas du bytecode 
+case "getfield": 
+case "aaload": 
+case "aload": 
+case "aload_0": 
+case "aload_1": 
+case "aload_2": 
+case "aload_3": 
+case "baload": 
+case "caload": 
+case "daload": 
+case "dload": 
+case "dload_0": 
+case "dload_1": 
+case "dload_2": 
+case "dload_3": 
+case "faload": 
+case "fload": 
+case "fload_0": 
+case "fload_1": 
+case "fload_2": 
+case "fload_3": 
+case "iaload": 
+case "iload": 
+case "iload_0": 
+case "iload_1": 
+case "iload_2": 
+case "iload_3": 
+case "laload": 
+case "lload": 
+case "lload_0": 
+case "lload_1": 
+case "lload_2": 
+case "lload_3": 
+case "saload": 
+case "ldc": 
+case "aconst_null": 
+case "dconst_0": 
+case "dconst_1": 
+case "fconst_0": 
+case "fconst_1": 
+case "fconst_2": 
+case "iconst_m1": 
+case "iconst_0": 
+case "iconst_1": 
+case "iconst_2": 
+case "iconst_3": 
+case "iconst_4": 
+case "iconst_5": 
+case "lconst_0": 
+case "lconst_1": 
+case "bipush": 
                    return(traiterLd(monObj));
 default : 
         var lsStr = "<tr><td><a name='"+monObj.label+"'>"+monObj.label+"</a></td><td>"+monObj.inst+"</td><td>"+((monObj.detail!=null && typeof(monObj.detail)!='undefined') ? monObj.detail : "")+"</td><td></td></tr>";
