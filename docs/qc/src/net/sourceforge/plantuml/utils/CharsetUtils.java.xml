@@ -95,7 +95,7 @@
 <leniv><indtoken>85</indtoken><nbappels>18</nbappels></leniv>
 </nbappelsparniv>
 <nbappelspartoken>
-<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.681343332372E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
+<leniv><noligne>0</noligne><profmin>0</profmin><proffinale>0</proffinale><profmax>0</profmax><indtoken>0</indtoken><temps>-1.681429628921E9</temps><nbappels>0</nbappels><token>TokenDeDebut</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>10</proffinale><profmax>14</profmax><indtoken>1</indtoken><temps>0.001</temps><nbappels>18</nbappels><token>package</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>17</proffinale><profmax>17</profmax><indtoken>2</indtoken><temps>0.001</temps><nbappels>40</nbappels><token>net</token></leniv>
 <leniv><noligne>1</noligne><profmin>0</profmin><proffinale>15</proffinale><profmax>17</profmax><indtoken>3</indtoken><temps>0.001</temps><nbappels>10</nbappels><token>.</token></leniv>
@@ -143,8 +143,8 @@
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>124</proffinale><profmax>134</profmax><indtoken>45</indtoken><temps>0.001</temps><nbappels>363</nbappels><token>null</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>89</proffinale><profmax>124</profmax><indtoken>46</indtoken><temps>0.001</temps><nbappels>56</nbappels><token>)</token></leniv>
 <leniv><noligne>11</noligne><profmin>0</profmin><proffinale>96</proffinale><profmax>96</profmax><indtoken>47</indtoken><temps>0.001</temps><nbappels>14</nbappels><token>{</token></leniv>
-<leniv><noligne>12</noligne><profmin>0</profmin><proffinale>145</proffinale><profmax>157</profmax><indtoken>48</indtoken><temps>0.001</temps><nbappels>478</nbappels><token>Log</token></leniv>
-<leniv><noligne>12</noligne><profmin>0</profmin><proffinale>143</proffinale><profmax>157</profmax><indtoken>49</indtoken><temps>0.001</temps><nbappels>86</nbappels><token>.</token></leniv>
+<leniv><noligne>12</noligne><profmin>0</profmin><proffinale>145</proffinale><profmax>157</profmax><indtoken>48</indtoken><temps>0.002</temps><nbappels>478</nbappels><token>Log</token></leniv>
+<leniv><noligne>12</noligne><profmin>0</profmin><proffinale>143</proffinale><profmax>157</profmax><indtoken>49</indtoken><temps>0.002</temps><nbappels>86</nbappels><token>.</token></leniv>
 <leniv><noligne>12</noligne><profmin>0</profmin><proffinale>148</proffinale><profmax>161</profmax><indtoken>50</indtoken><temps>0.002</temps><nbappels>243</nbappels><token>info</token></leniv>
 <leniv><noligne>12</noligne><profmin>0</profmin><proffinale>152</proffinale><profmax>161</profmax><indtoken>51</indtoken><temps>0.002</temps><nbappels>212</nbappels><token>(</token></leniv>
 <leniv><noligne>12</noligne><profmin>0</profmin><proffinale>185</proffinale><profmax>185</profmax><indtoken>52</indtoken><temps>0.002</temps><nbappels>84</nbappels><token>"Using default charset"</token></leniv>
