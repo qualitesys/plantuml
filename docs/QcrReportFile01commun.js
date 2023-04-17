@@ -581,7 +581,7 @@ function getCalculerClasse(liIndi, lvMeth) {
           }
           lsRes+="</table>";
           lsRes+="</td></tr>";
-          lsRes+="<tr><td></td><td style='width: 1100px;'>";
+          lsRes+="<tr><td>Nb of steps "+leVar.contenu.length+"</td><td style='width: 1100px;'>";
           for (var liIndLigneA=0; liIndLigneA<leVar.contenu.length; liIndLigneA++) {
              lsChA   = leVar.contenu[liIndLigneA];
              var liInd = -1;
