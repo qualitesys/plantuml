@@ -196,7 +196,7 @@ function chargerTheDivClasse(avClasse) {
          lsStr += "<tr><td><h3><a name='methodsignature'>Method signature</a></h3></td></tr>";
          lsStr +=   "<tr><td><table border=\"1\">";
          lsStr +=           "<tr><td>Classe "+lvMethode.classe+"</td><td></td><td></td></tr>";
-         lsStr +=           "<tr><td></td><td>methode "+lvMethode.methode+"</td><td></td></tr>";
+         lsStr +=           "<tr><td></td><td>methode "+lvMethode.methode.replace('<','&lt;').replace('>','&gt;')+"</td><td></td></tr>";
          lsStr +=           "<tr><td></td><td></td><td>args "+lvMethode.args+"</td></tr>";
          lsStr +=           "</table></td></tr>";
          if (typeof(lvMethode.locals)!='undefined' && lvMethode.locals!=null){
