@@ -50,7 +50,7 @@ function traiterCall(monObj) {
         +"</tr>"
         +"<tr>"
         +"<td></td>"
-        +"<td></td>"+"<td><span "+lsColor+">"+lsInst+" "+monObj.detail+lsSup+"</<span></td>"+"<td></td>"
+        +"<td></td>"+"<td><span "+lsColor+">"+lsInst+" "+monObj.detail.replaceAll('<','&lt;').replaceAll('>','&gt;')+lsSup+"</<span></td>"+"<td></td>"
         +"</tr>"
         +"<tr>"
         +"<td></td>"
@@ -153,7 +153,7 @@ case "lconst_1":
 case "bipush": 
                    return(traiterLd(monObj));
 default : 
-        var lsStr = "<tr><td><a name='"+monObj.label+"'>"+monObj.label+"</a></td><td>"+monObj.inst+"</td><td>"+((monObj.detail!=null && typeof(monObj.detail)!='undefined') ? monObj.detail : "")+"</td><td></td></tr>";
+        var lsStr = "<tr><td><a name='"+monObj.label+"'>"+monObj.label+"</a></td><td>"+monObj.inst+"</td><td>"+((monObj.detail!=null && typeof(monObj.detail)!='undefined') ? monObj.detail.replaceAll('<','&lt;').replaceAll('>','&gt;') : "")+"</td><td></td></tr>";
    return (lsStr);
 }
 }
@@ -224,14 +224,14 @@ function chargerTheDivClasse(avClasse) {
          lsStr += "<tr><td></td></tr>";
          lsStr += "<tr><td><h3><a name='ancre02'>Sequential Dataflow for method</a></h3></td></tr>";
          lsStr += "<table border='1'>";
-         lsStr +=   "<tr><td>Dataflow for method "+lvMethode.methode+":</td></tr>";
+         lsStr +=   "<tr><td>Dataflow for method "+lvMethode.methode.replaceAll('<','&lt;').replaceAll('>','&gt;')+":</td></tr>";
          lsStr +=   "<tr><td><div id='sankey_multiple"+liIndi+"' style='width: 1300px;";
          lsStr +=   "'></div></td></tr>";
          lsStr += "</table>";
          lsStr += "<tr><td></td></tr>";
          lsStr += "<tr><td><h3><a name='ancre03'>Dataflow network for method</a></h3></td></tr>";
          lsStr += "<table border='1'>";
-         lsStr +=   "<tr><td>Dataflow network for method "+lvMethode.methode+":</td></tr>";
+         lsStr +=   "<tr><td>Dataflow network for method "+lvMethode.methode.replaceAll('<','&lt;').replaceAll('>','&gt;')+":</td></tr>";
          lsStr +=   "<tr><td><div id='mynetwork_dataflow"+liIndi+"' style='width: 1300px; height:500px;";
          lsStr +=   "'></div></td></tr>";
          lsStr += "</table>";
@@ -244,14 +244,14 @@ function chargerTheDivClasse(avClasse) {
          lsStr += "<tr><td></td></tr>";
          lsStr += "<tr><td><h3><a name='ancre05'>Controlflow for method</a></h3></td></tr>";
          lsStr += "<table border='1'>";
-         lsStr +=   "<tr><td>Controlflow for method "+lvMethode.methode+":</td></tr>";
+         lsStr +=   "<tr><td>Controlflow for method "+lvMethode.methode.replaceAll('<','&lt;').replaceAll('>','&gt;')+":</td></tr>";
          lsStr +=   "<tr><td><div id='mynetwork"+liIndi+"' style='width: 1300px;";
          lsStr +=   "'></div></td></tr>";
          lsStr += "<tr><td></td></tr>";
          lsStr += "</table>";
          lsStr += "<tr><td><h3><a name='ancre06'>Sequential controlflows</h3></a></td></tr>";
          lsStr += "<table border='1'>";
-         lsStr +=   "<tr><td>Sequential controlflows for method "+lvMethode.methode+":</td></tr>";
+         lsStr +=   "<tr><td>Sequential controlflows for method "+lvMethode.methode.replaceAll('<','&lt;').replaceAll('>','&gt;')+":</td></tr>";
          lsStr +=   "<tr><td>"+getCalculer(lvMethode.classe, lvMethode.methode)+"</td></tr>";
          lsStr += "</table>";
       }
