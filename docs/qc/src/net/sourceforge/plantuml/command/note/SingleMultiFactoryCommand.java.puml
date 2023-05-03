@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.command.note.SingleMultiFactoryCommand"
-class net.sourceforge.plantuml.command.note.SingleMultiFactoryCommand {
-+createSingleLine() : Command<D> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/SingleMultiFactoryCommand.java.html#43]]]
-+createMultiLine(boolean) : Command<D> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/command/note/SingleMultiFactoryCommand.java.html#45]]]
-} 
-@enduml

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"PixelCanvas" <|-- "ext.plantuml.com.ctreber.acearth.gui.CanvasACearth"
-class ext.plantuml.com.ctreber.acearth.gui.CanvasACearth {
-+CanvasACearth(ACearth;int;int) : CanvasACearth [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/gui/CanvasACearth.java.html#18]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PiecewiseAffineTransform" <|-- "net.sourceforge.plantuml.ugraphic.comp.CompressionTransform"
-class net.sourceforge.plantuml.ugraphic.comp.CompressionTransform {
-+CompressionTransform(SlotSet) : CompressionTransform [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#44]]]
-+transform(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#48]]]
--getCompressDelta(double) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/comp/CompressionTransform.java.html#52]]]
-} 
-@enduml

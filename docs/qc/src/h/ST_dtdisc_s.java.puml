@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_dtdisc_s"
-class h.ST_dtdisc_s {
-} 
-@enduml

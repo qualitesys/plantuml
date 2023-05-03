@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java 5 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/AbstractConnection.java.svg" }
 
 ] 
 , 

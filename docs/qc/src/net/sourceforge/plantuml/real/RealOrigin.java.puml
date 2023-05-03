@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"Real" <|-- "net.sourceforge.plantuml.real.RealOrigin"
-class net.sourceforge.plantuml.real.RealOrigin {
-+compileNow() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/real/RealOrigin.java.html#40]]]
-} 
-@enduml

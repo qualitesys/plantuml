@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.png.PngSizer"
-class net.sourceforge.plantuml.png.PngSizer {
-+process(BufferedImage;int) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSizer.java.html#46]]]
--resize(BufferedImage;int) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngSizer.java.html#55]]]
-} 
-@enduml

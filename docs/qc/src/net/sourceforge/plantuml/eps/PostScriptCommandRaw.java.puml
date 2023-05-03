@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PostScriptCommand" <|-- "net.sourceforge.plantuml.eps.PostScriptCommandRaw"
-class net.sourceforge.plantuml.eps.PostScriptCommandRaw {
-+PostScriptCommandRaw(String;boolean) : PostScriptCommandRaw [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandRaw.java.html#42]]]
-+toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandRaw.java.html#49]]]
-} 
-@enduml

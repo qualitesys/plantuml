@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.ebnf.TextBlockable"
-class net.sourceforge.plantuml.ebnf.TextBlockable {
-+getUDrawable(ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/TextBlockable.java.html#43]]]
-} 
-@enduml

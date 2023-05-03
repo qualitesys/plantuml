@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/command/regex/MatcherIterator.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.svg" }
 
 ] 
 , 

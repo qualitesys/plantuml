@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.util.StringParser"
-class ext.plantuml.com.ctreber.acearth.util.StringParser {
-+parse(String) : List [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#16]]]
-} 
-@enduml

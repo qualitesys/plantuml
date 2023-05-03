@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.math.TeXIconBuilder"
-class net.sourceforge.plantuml.math.TeXIconBuilder {
-+TeXIconBuilder(String;Color) : TeXIconBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#48]]]
-+getIcon() : Icon [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/TeXIconBuilder.java.html#69]]]
-} 
-@enduml

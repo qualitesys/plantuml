@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/util/StringParser.java 24 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -30,9 +29,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.svg" }
 
 ] 
 , 

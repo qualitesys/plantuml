@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SkinParamDelegator" <|-- "net.sourceforge.plantuml.SkinParamForecolored"
-class net.sourceforge.plantuml.SkinParamForecolored {
-+SkinParamForecolored(ISkinParam;HColor) : SkinParamForecolored [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamForecolored.java.html#45]]]
-+getHtmlColor(ColorParam;Stereotype;boolean) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamForecolored.java.html#51]]]
-} 
-@enduml

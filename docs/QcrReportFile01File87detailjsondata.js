@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java 0 rule violation " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java.svg" }
 
 ] 
 , 

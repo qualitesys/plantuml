@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.SquareMaker"
-class net.sourceforge.plantuml.cucadiagram.SquareMaker {
-+putInSquare(List<O>;SquareLinker<O>) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#42]]]
-computeBranch(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#60]]]
-getBottomLeft(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#69]]]
-} 
-@enduml

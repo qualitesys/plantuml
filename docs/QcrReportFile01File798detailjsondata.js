@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/bpm/BpmBranch.java 9 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.svg" }
 
 ] 
 , 

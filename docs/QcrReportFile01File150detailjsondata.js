@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html" 
  , "texte" : "File src/gen/lib/dotgen/dotsplines__c.java 1325 rule violations " 
- , "fic2"  : "./qc/src/gen/lib/dotgen/dotsplines__c.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -417,9 +416,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.svg" }
+ "ligneplantuml" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.svg" }
 
 ] 
 , 

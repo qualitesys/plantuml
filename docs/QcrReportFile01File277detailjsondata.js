@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/data/DataElement.java.html" 
  , "texte" : "File src/jcckit/data/DataElement.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/data/DataElement.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/data/DataElement.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/data/DataElement.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/data/DataElement.java.svg" }
 
 ] 
 , 

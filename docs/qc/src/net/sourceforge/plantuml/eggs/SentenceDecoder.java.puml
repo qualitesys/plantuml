@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.eggs.SentenceDecoder"
-class net.sourceforge.plantuml.eggs.SentenceDecoder {
-+SentenceDecoder(String;byte[]) : SentenceDecoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#46]]]
-+isOk() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#52]]]
-+getSecret() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#67]]]
-} 
-@enduml

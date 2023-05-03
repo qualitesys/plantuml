@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentencePausesDates"
-class net.sourceforge.plantuml.project.lang.SentencePausesDates {
-+SentencePausesDates() : SentencePausesDates [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.html#46]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentencePausesDates.java.html#51]]]
-} 
-@enduml

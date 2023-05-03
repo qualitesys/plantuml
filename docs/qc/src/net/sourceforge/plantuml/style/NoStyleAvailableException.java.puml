@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"RuntimeException" <|-- "net.sourceforge.plantuml.style.NoStyleAvailableException"
-class net.sourceforge.plantuml.style.NoStyleAvailableException {
-} 
-@enduml

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SkinParamDelegator" <|-- "net.sourceforge.plantuml.SkinParamBackcoloredReference"
-class net.sourceforge.plantuml.SkinParamBackcoloredReference {
-+SkinParamBackcoloredReference(ISkinParam;HColor;HColor) : SkinParamBackcoloredReference [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#46]]]
-+getHtmlColor(ColorParam;Stereotype;boolean) : HColor [[[./../../../../.././qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#54]]]
-} 
-@enduml

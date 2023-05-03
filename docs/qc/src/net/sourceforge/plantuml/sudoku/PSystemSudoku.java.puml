@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractPSystem" <|-- "net.sourceforge.plantuml.sudoku.PSystemSudoku"
-class net.sourceforge.plantuml.sudoku.PSystemSudoku {
-exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#53]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#69]]]
-+PSystemSudoku(UmlSource;Long) : PSystemSudoku [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#73]]]
-} 
-@enduml

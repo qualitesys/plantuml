@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<ActivityDiagram>" <|-- "net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition"
-class net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition {
-+CommandEndPartition() : CommandEndPartition [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#51]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#55]]]
-executeArg(ActivityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndPartition.java.html#67]]]
-} 
-@enduml

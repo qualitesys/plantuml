@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/AxisParameters.java.html" 
  , "texte" : "File src/jcckit/plot/AxisParameters.java 84 rule violations " 
- , "fic2"  : "./qc/src/jcckit/plot/AxisParameters.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -111,9 +110,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/plot/AxisParameters.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/plot/AxisParameters.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/plot/AxisParameters.java.svg" }
 
 ] 
 , 

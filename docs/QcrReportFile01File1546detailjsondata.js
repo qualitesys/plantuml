@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/openiconic/OpenIcon.java 38 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/openiconic/OpenIcon.java.svg" }
 
 ] 
 , 

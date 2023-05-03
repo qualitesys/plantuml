@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.graphic.GraphicAttributes"
-class jcckit.graphic.GraphicAttributes {
-} 
-@enduml

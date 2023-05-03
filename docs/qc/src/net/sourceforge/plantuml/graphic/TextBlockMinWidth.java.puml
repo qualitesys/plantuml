@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TextBlockMinWidth"
-class net.sourceforge.plantuml.graphic.TextBlockMinWidth {
-TextBlockMinWidth(TextBlock;double;HorizontalAlignment) : TextBlockMinWidth [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMinWidth.java.html#48]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMinWidth.java.html#54]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextBlockMinWidth.java.html#59]]]
-} 
-@enduml

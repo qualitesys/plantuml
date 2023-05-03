@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Component" <|-- "net.sourceforge.plantuml.asciiart.AbstractComponentText"
-class net.sourceforge.plantuml.asciiart.AbstractComponentText {
-+getPreferredDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#46]]]
-+getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#52]]]
-+getStyleSignature() : StyleSignatureBasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/AbstractComponentText.java.html#56]]]
-} 
-@enduml

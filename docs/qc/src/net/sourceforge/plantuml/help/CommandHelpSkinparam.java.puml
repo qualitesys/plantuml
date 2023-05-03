@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<Help>" <|-- "net.sourceforge.plantuml.help.CommandHelpSkinparam"
-class net.sourceforge.plantuml.help.CommandHelpSkinparam {
-+CommandHelpSkinparam() : CommandHelpSkinparam [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#53]]]
-executeArg(Help;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#61]]]
-} 
-@enduml

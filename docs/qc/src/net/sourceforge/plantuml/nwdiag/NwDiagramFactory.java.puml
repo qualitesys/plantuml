@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.nwdiag.NwDiagramFactory"
-class net.sourceforge.plantuml.nwdiag.NwDiagramFactory {
-+NwDiagramFactory(DiagramType) : NwDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#51]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : NwDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#56]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/NwDiagramFactory.java.html#61]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/graphics/ShapeEdge.java 43 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -210,9 +209,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.svg" }
+ "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.svg" }
 
 ] 
 , 

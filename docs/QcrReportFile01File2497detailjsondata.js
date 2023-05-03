@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerBinary.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/timingdiagram/PlayerBinary.java 37 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerBinary.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -192,9 +191,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerBinary.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerBinary.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/PlayerBinary.java.svg" }
 
 ] 
 , 

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDrawable" <|-- "net.sourceforge.plantuml.timingdiagram.graphic.HexaShape"
-class net.sourceforge.plantuml.timingdiagram.graphic.HexaShape {
--HexaShape(double;double;SymbolContext) : HexaShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/HexaShape.java.html#50]]]
-+create(double;double;SymbolContext) : HexaShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/HexaShape.java.html#56]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/HexaShape.java.html#60]]]
-} 
-@enduml

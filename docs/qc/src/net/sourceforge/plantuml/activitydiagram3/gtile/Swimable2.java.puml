@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.Swimable2"
-class net.sourceforge.plantuml.activitydiagram3.gtile.Swimable2 {
-+getSwimlanes() : Set<Swimlane> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Swimable2.java.html#44]]]
-+getSwimlane(String) : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/Swimable2.java.html#46]]]
-} 
-@enduml

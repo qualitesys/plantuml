@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"CommandLinkStateCommon" <|-- "net.sourceforge.plantuml.statediagram.command.CommandLinkState"
-class net.sourceforge.plantuml.statediagram.command.CommandLinkState {
-+CommandLinkState() : CommandLinkState [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkState.java.html#46]]]
-getRegex() : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkState.java.html#50]]]
-} 
-@enduml

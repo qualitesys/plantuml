@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkLabel.java.svg" }
 
 ] 
 , 

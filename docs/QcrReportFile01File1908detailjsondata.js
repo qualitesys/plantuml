@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/NoteStyle.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/NoteStyle.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/NoteStyle.java.xml" 
  , "fic3"  : "" 
 }
 , 

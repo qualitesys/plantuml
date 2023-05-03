@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"StringBounderRaw" <|-- "net.sourceforge.plantuml.asciiart.TextStringBounder"
-class net.sourceforge.plantuml.asciiart.TextStringBounder {
-calculateDimensionInternal(UFont;String) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/TextStringBounder.java.html#44]]]
-} 
-@enduml

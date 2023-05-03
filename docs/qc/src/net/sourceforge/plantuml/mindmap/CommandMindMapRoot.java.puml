@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<MindMapDiagram>" <|-- "net.sourceforge.plantuml.mindmap.CommandMindMapRoot"
-class net.sourceforge.plantuml.mindmap.CommandMindMapRoot {
-+CommandMindMapRoot() : CommandMindMapRoot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapRoot.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapRoot.java.html#53]]]
-executeArg(MindMapDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapRoot.java.html#61]]]
-} 
-@enduml

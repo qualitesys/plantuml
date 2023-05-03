@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html" 
  , "texte" : "File src/jcckit/util/PropertiesBasedConfigData.java 3 rule violations " 
- , "fic2"  : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.svg" }
 
 ] 
 , 

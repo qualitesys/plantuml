@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.salt.element.Skeleton"
-class net.sourceforge.plantuml.salt.element.Skeleton {
-+add(double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Skeleton.java.html#64]]]
-+draw(UGraphic;double;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Skeleton.java.html#68]]]
--drawChild(UGraphic;Entry;Entry) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/Skeleton.java.html#87]]]
-} 
-@enduml

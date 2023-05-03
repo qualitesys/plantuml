@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java 3 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryCircle.java.svg" }
 
 ] 
 , 

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.graphic.TileImageSvg"
-class net.sourceforge.plantuml.graphic.TileImageSvg {
-+TileImageSvg(String;double) : TileImageSvg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImageSvg.java.html#47]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImageSvg.java.html#52]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TileImageSvg.java.html#56]]]
-} 
-@enduml

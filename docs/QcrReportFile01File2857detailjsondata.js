@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/debug/SmetanaDebug.java.html" 
  , "texte" : "File src/smetana/core/debug/SmetanaDebug.java 10 rule violations " 
- , "fic2"  : "./qc/src/smetana/core/debug/SmetanaDebug.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/smetana/core/debug/SmetanaDebug.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/smetana/core/debug/SmetanaDebug.java.svg" }
+ "ligneplantuml" : "./qc/src/smetana/core/debug/SmetanaDebug.java.svg" }
 
 ] 
 , 

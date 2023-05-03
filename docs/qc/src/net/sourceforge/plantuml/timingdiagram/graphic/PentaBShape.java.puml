@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDrawable" <|-- "net.sourceforge.plantuml.timingdiagram.graphic.PentaBShape"
-class net.sourceforge.plantuml.timingdiagram.graphic.PentaBShape {
--PentaBShape(double;double;SymbolContext) : PentaBShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PentaBShape.java.html#51]]]
-+create(double;double;SymbolContext) : PentaBShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PentaBShape.java.html#57]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/graphic/PentaBShape.java.html#61]]]
-} 
-@enduml

@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"Exception" <|-- "net.sourceforge.plantuml.ugraphic.color.NoSuchColorException"
-class net.sourceforge.plantuml.ugraphic.color.NoSuchColorException {
-} 
-@enduml

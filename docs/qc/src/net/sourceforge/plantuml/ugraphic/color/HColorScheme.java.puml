@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"HColor" <|-- "net.sourceforge.plantuml.ugraphic.color.HColorScheme"
-class net.sourceforge.plantuml.ugraphic.color.HColorScheme {
-+HColorScheme(HColor;HColor;HColor) : HColorScheme [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorScheme.java.html#43]]]
-+getAppropriateColor(HColor) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorScheme.java.html#50]]]
-} 
-@enduml

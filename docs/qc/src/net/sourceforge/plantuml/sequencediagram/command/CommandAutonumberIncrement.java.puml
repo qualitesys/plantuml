@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberIncrement"
-class net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberIncrement {
-+CommandAutonumberIncrement() : CommandAutonumberIncrement [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberIncrement.java.html#50]]]
--getConcat() : RegexConcat [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberIncrement.java.html#54]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberIncrement.java.html#68]]]
-} 
-@enduml

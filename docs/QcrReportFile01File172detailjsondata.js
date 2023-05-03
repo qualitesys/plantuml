@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/plugin/dot_layout/gvlayout_dot_layout__c.java.html" 
  , "texte" : "File src/gen/plugin/dot_layout/gvlayout_dot_layout__c.java 0 rule violation " 
- , "fic2"  : "./qc/src/gen/plugin/dot_layout/gvlayout_dot_layout__c.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -22,9 +21,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/gen/plugin/dot_layout/gvlayout_dot_layout__c.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/gen/plugin/dot_layout/gvlayout_dot_layout__c.java.svg" }
+ "ligneplantuml" : "./qc/src/gen/plugin/dot_layout/gvlayout_dot_layout__c.java.svg" }
 
 ] 
 , 

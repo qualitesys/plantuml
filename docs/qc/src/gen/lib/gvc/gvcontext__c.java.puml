@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.gvc.gvcontext__c"
-class gen.lib.gvc.gvcontext__c {
-+gvNEWcontext(__ptr__;boolean) : ST_GVC_s [[[./../../../../.././qc/src/gen/lib/gvc/gvcontext__c.java.html#62]]]
-} 
-@enduml

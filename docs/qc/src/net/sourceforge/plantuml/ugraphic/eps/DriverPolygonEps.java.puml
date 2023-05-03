@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UPolygon,EpsGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.eps.DriverPolygonEps"
-class net.sourceforge.plantuml.ugraphic.eps.DriverPolygonEps {
-+DriverPolygonEps(ClipContainer) : DriverPolygonEps [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverPolygonEps.java.html#52]]]
-+draw(UPolygon;double;double;ColorMapper;UParam;EpsGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverPolygonEps.java.html#56]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.project.lang.TwoNames"
-class net.sourceforge.plantuml.project.lang.TwoNames {
-+TwoNames(String;String) : TwoNames [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/TwoNames.java.html#43]]]
-+getName1() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/TwoNames.java.html#48]]]
-+getName2() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/TwoNames.java.html#52]]]
-} 
-@enduml

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"ST_Agrec_s" <|-- "h.ST_Agedgeinfo_t"
-class h.ST_Agedgeinfo_t {
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_Agedgeinfo_t.java.html#76]]]
-} 
-@enduml

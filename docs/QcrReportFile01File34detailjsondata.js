@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java 7 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.svg" }
 
 ] 
 , 

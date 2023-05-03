@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/Rectangle.java.html" 
  , "texte" : "File src/jcckit/graphic/Rectangle.java 2 rule violations " 
- , "fic2"  : "./qc/src/jcckit/graphic/Rectangle.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/Rectangle.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/Rectangle.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/graphic/Rectangle.java.svg" }
 
 ] 
 , 

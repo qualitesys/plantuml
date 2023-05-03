@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandConstraint"
-class net.sourceforge.plantuml.timingdiagram.command.CommandConstraint {
-+CommandConstraint() : CommandConstraint [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandConstraint.java.html#55]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandConstraint.java.html#59]]]
-executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandConstraint.java.html#82]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/SimpleCurveFactory.java.html" 
  , "texte" : "File src/jcckit/plot/SimpleCurveFactory.java 5 rule violations " 
- , "fic2"  : "./qc/src/jcckit/plot/SimpleCurveFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/plot/SimpleCurveFactory.java.svg" }
 
 ] 
 , 

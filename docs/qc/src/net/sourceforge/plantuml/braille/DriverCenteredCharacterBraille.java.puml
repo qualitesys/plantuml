@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UCenteredCharacter,BrailleGrid>" <|-- "net.sourceforge.plantuml.braille.DriverCenteredCharacterBraille"
-class net.sourceforge.plantuml.braille.DriverCenteredCharacterBraille {
-+draw(UCenteredCharacter;double;double;ColorMapper;UParam;BrailleGrid) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/braille/DriverCenteredCharacterBraille.java.html#45]]]
-} 
-@enduml

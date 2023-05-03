@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractCodeIterator" <|-- "net.sourceforge.plantuml.tim.iterator.CodeIteratorShortComment"
-class net.sourceforge.plantuml.tim.iterator.CodeIteratorShortComment {
-+CodeIteratorShortComment(CodeIterator;List<StringLocated>) : CodeIteratorShortComment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorShortComment.java.html#48]]]
-+peek() : StringLocated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorShortComment.java.html#53]]]
-} 
-@enduml

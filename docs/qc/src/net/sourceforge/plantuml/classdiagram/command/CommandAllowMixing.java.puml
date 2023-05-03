@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<ClassDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing"
-class net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing {
-+CommandAllowMixing() : CommandAllowMixing [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAllowMixing.java.html#49]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAllowMixing.java.html#53]]]
-executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAllowMixing.java.html#64]]]
-} 
-@enduml

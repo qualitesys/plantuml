@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"ReaderException" <|-- "ext.plantuml.com.google.zxing.FormatException"
-class ext.plantuml.com.google.zxing.FormatException {
--FormatException() : FormatException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/FormatException.java.html#30]]]
-+getFormatInstance() : FormatException [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/FormatException.java.html#34]]]
-} 
-@enduml

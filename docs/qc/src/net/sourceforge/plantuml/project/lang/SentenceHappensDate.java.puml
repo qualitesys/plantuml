@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceHappensDate"
-class net.sourceforge.plantuml.project.lang.SentenceHappensDate {
-+SentenceHappensDate() : SentenceHappensDate [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceHappensDate.java.html#46]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceHappensDate.java.html#51]]]
-} 
-@enduml

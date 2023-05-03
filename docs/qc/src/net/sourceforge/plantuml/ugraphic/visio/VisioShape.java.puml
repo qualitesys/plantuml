@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.visio.VisioShape"
-class net.sourceforge.plantuml.ugraphic.visio.VisioShape {
-+print(OutputStream) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioShape.java.html#43]]]
-+yReverse(double) : VisioShape [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioShape.java.html#45]]]
-} 
-@enduml

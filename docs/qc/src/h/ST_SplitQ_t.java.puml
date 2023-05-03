@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_SplitQ_t"
-class h.ST_SplitQ_t {
-+castTo(Class) : ST_Rect_t [[[./../../.././qc/src/h/ST_SplitQ_t.java.html#77]]]
-} 
-@enduml

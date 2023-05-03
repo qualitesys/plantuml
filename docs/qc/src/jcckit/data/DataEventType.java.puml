@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.data.DataEventType"
-class jcckit.data.DataEventType {
--DataEventType() : DataEventType [[[./../../../.././qc/src/jcckit/data/DataEventType.java.html#27]]]
-} 
-@enduml

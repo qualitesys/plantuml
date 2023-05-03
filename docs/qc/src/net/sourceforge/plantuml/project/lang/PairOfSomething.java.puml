@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Something" <|-- "net.sourceforge.plantuml.project.lang.PairOfSomething"
-class net.sourceforge.plantuml.project.lang.PairOfSomething {
-+PairOfSomething(Something;Something) : PairOfSomething [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#50]]]
-+getMe(GanttDiagram;RegexResult;String) : Failable<?extendsObject> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#55]]]
-+toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/PairOfSomething.java.html#68]]]
-} 
-@enduml

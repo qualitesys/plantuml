@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/util/TicLabelFormat.java.html" 
  , "texte" : "File src/jcckit/util/TicLabelFormat.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/util/TicLabelFormat.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -30,9 +29,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/util/TicLabelFormat.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/util/TicLabelFormat.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/util/TicLabelFormat.java.svg" }
 
 ] 
 , 

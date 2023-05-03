@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"RuntimeException" <|-- "net.sourceforge.plantuml.vizjs.GraphvizJsRuntimeException"
-class net.sourceforge.plantuml.vizjs.GraphvizJsRuntimeException {
-+GraphvizJsRuntimeException(Exception) : GraphvizJsRuntimeException [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/GraphvizJsRuntimeException.java.html#40]]]
-} 
-@enduml

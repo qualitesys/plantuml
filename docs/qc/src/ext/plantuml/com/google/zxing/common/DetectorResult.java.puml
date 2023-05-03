@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.common.DetectorResult"
-class ext.plantuml.com.google.zxing.common.DetectorResult {
-+DetectorResult(BitMatrix;ResultPoint[]) : DetectorResult [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#33]]]
-+getBits() : BitMatrix [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#38]]]
-+getPoints() : ResultPoint[] [[[./../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/DetectorResult.java.html#42]]]
-} 
-@enduml

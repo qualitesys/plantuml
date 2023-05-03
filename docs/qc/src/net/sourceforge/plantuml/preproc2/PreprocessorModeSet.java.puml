@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.preproc2.PreprocessorModeSet"
-class net.sourceforge.plantuml.preproc2.PreprocessorModeSet {
-+getImportedFiles() : ImportedFiles [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.html#42]]]
-+getCharset() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc2/PreprocessorModeSet.java.html#44]]]
-} 
-@enduml

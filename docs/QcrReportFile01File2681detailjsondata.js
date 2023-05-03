@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java 7 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -30,9 +29,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverDotPathSvg.java.svg" }
 
 ] 
 , 

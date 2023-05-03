@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ComponentStyle.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/ComponentStyle.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ComponentStyle.java.xml" 
  , "fic3"  : "" 
 }
 , 

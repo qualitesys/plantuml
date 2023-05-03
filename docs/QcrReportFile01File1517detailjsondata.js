@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandNetwork.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/nwdiag/CommandNetwork.java 9 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandNetwork.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandNetwork.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandNetwork.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandNetwork.java.svg" }
 
 ] 
 , 

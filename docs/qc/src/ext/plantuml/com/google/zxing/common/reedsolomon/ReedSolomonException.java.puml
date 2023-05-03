@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"Exception" <|-- "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonException"
-class ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonException {
-+ReedSolomonException(String) : ReedSolomonException [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/common/reedsolomon/ReedSolomonException.java.html#27]]]
-} 
-@enduml

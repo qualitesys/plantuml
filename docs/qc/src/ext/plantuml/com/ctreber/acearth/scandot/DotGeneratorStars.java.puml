@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"ScanDotGenerator" <|-- "ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorStars"
-class ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorStars {
-+DotGeneratorStars(int;int;double;int;Random) : DotGeneratorStars [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java.html#20]]]
-+generateScanDots() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java.html#30]]]
-} 
-@enduml

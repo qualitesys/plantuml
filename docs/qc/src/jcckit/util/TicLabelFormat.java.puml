@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.util.TicLabelFormat"
-class jcckit.util.TicLabelFormat {
-+form(double) : String [[[./../../../.././qc/src/jcckit/util/TicLabelFormat.java.html#32]]]
-} 
-@enduml

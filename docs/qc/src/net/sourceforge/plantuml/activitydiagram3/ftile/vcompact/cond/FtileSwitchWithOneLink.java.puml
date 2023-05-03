@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileSwitchWithDiamonds" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithOneLink"
-class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithOneLink {
-+FtileSwitchWithOneLink(List<Ftile>;List<Branch>;Swimlane;Ftile;Ftile;StringBounder;Rainbow) : FtileSwitchWithOneLink [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#59]]]
-+addLinks(StringBounder) : Ftile [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithOneLink.java.html#137]]]
-} 
-@enduml

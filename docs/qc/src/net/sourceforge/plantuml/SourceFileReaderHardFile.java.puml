@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SourceFileReaderAbstractISourceFileReader" <|-- "net.sourceforge.plantuml.SourceFileReaderHardFile"
-class net.sourceforge.plantuml.SourceFileReaderHardFile {
-+SourceFileReaderHardFile(Defines;File;File;List<String>;String;FileFormatOption) : SourceFileReaderHardFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.html#49]]]
-getSuggestedFile(BlockUml) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderHardFile.java.html#57]]]
-} 
-@enduml

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.oregon.SecureCoder"
-class net.sourceforge.plantuml.oregon.SecureCoder {
-+encode(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#64]]]
-+decode(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/SecureCoder.java.html#68]]]
-} 
-@enduml

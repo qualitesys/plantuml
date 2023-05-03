@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.asciiart.Wcwidth"
-class net.sourceforge.plantuml.asciiart.Wcwidth {
-bisearch(int) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/Wcwidth.java.html#1]]]
-+of(int) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/Wcwidth.java.html#1]]]
-+length(CharSequence) : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/asciiart/Wcwidth.java.html#1]]]
-} 
-@enduml

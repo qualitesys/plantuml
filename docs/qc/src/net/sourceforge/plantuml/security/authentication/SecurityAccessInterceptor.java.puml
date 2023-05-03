@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.security.authentication.SecurityAccessInterceptor"
-class net.sourceforge.plantuml.security.authentication.SecurityAccessInterceptor {
-apply(SecurityAuthentication;URLConnection) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAccessInterceptor.java.html#53]]]
-} 
-@enduml

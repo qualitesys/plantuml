@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.emoji.data.Dummy"
-class net.sourceforge.plantuml.emoji.data.Dummy {
-} 
-@enduml

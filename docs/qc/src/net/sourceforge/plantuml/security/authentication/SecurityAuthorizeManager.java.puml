@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.security.authentication.SecurityAuthorizeManager"
-class net.sourceforge.plantuml.security.authentication.SecurityAuthorizeManager {
-create(SecurityCredentials) : SecurityAuthentication [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthorizeManager.java.html#53]]]
-} 
-@enduml

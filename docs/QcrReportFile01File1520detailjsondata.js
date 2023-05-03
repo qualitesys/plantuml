@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/nwdiag/NwDiagram.java 114 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -237,9 +236,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.svg" }
 
 ] 
 , 

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.command.Command"
-class net.sourceforge.plantuml.command.Command {
-execute(D;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/Command.java.html#43]]]
-isValid(BlocLines) : CommandControl [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/Command.java.html#45]]]
-getDescription() : String[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/Command.java.html#47]]]
-} 
-@enduml

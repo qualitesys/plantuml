@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_dtmethod_s"
-class h.ST_dtmethod_s {
-+copy() : ST_dtmethod_s [[[./../../.././qc/src/h/ST_dtmethod_s.java.html#58]]]
-} 
-@enduml

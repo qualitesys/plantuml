@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"Racorder" <|-- "net.sourceforge.plantuml.posimo.RacorderAbstract"
-class net.sourceforge.plantuml.posimo.RacorderAbstract {
-+getRacordOut(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/RacorderAbstract.java.html#43]]]
--symetric(XLine2D) : XLine2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/RacorderAbstract.java.html#48]]]
-} 
-@enduml

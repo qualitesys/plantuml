@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<AbstractPSystem>" <|-- "net.sourceforge.plantuml.command.CommandPage"
-class net.sourceforge.plantuml.command.CommandPage {
-+CommandPage() : CommandPage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPage.java.html#47]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPage.java.html#51]]]
-executeArg(AbstractPSystem;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandPage.java.html#63]]]
-} 
-@enduml

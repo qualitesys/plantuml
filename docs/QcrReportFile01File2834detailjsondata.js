@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractionGrid.java 48 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -120,9 +119,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.svg" }
+ "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.svg" }
 
 ] 
 , 

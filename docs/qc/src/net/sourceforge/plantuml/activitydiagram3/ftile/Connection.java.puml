@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDrawable" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.Connection"
-class net.sourceforge.plantuml.activitydiagram3.ftile.Connection {
-+getFtile1() : Ftile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.html#44]]]
-+getFtile2() : Ftile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Connection.java.html#46]]]
-} 
-@enduml

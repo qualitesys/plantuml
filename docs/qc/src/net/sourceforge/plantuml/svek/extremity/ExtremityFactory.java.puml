@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityFactory"
-class net.sourceforge.plantuml.svek.extremity.ExtremityFactory {
-+createUDrawable(XPoint2D;XPoint2D;XPoint2D;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactory.java.html#44]]]
-+createUDrawable(XPoint2D;double;Side) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactory.java.html#46]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java.xml" 
  , "fic3"  : "" 
 }
 , 

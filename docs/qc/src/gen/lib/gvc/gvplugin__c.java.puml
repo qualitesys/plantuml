@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.gvc.gvplugin__c"
-class gen.lib.gvc.gvplugin__c {
-+gvplugin_install(Object...) : Object [[[./../../../../.././qc/src/gen/lib/gvc/gvplugin__c.java.html#71]]]
-+gvplugin_load(ST_GVC_s;EN_api_t;CString) : ST_gvplugin_available_s [[[./../../../../.././qc/src/gen/lib/gvc/gvplugin__c.java.html#83]]]
-} 
-@enduml

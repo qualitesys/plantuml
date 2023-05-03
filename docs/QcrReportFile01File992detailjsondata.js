@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/command/regex/RegexComposed.java 10 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -129,9 +128,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.svg" }
 
 ] 
 , 

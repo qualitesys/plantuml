@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityNotNavigable"
-class net.sourceforge.plantuml.svek.extremity.ExtremityNotNavigable {
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityNotNavigable.java.html#48]]]
-+ExtremityNotNavigable(XPoint2D;double) : ExtremityNotNavigable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityNotNavigable.java.html#52]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityNotNavigable.java.html#67]]]
-} 
-@enduml

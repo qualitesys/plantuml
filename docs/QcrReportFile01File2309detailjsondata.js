@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactory.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/MiddleFactory.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactory.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -30,9 +29,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactory.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactory.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactory.java.svg" }
 
 ] 
 , 

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"FontChange" <|-- "net.sourceforge.plantuml.graphic.SizeChange"
-class net.sourceforge.plantuml.graphic.SizeChange {
-SizeChange(String) : SizeChange [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SizeChange.java.html#48]]]
-getSize() : Integer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SizeChange.java.html#56]]]
-+apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SizeChange.java.html#60]]]
-} 
-@enduml

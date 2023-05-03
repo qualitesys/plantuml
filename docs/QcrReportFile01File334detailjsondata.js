@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/transformation/CartesianTransformation.java.html" 
  , "texte" : "File src/jcckit/transformation/CartesianTransformation.java 21 rule violations " 
- , "fic2"  : "./qc/src/jcckit/transformation/CartesianTransformation.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/transformation/CartesianTransformation.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/transformation/CartesianTransformation.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/transformation/CartesianTransformation.java.svg" }
 
 ] 
 , 

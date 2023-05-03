@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java 105 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -282,9 +281,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Snake.java.svg" }
 
 ] 
 , 

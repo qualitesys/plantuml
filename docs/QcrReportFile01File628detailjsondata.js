@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java 36 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -156,9 +155,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileWithNoteOpale.java.svg" }
 
 ] 
 , 

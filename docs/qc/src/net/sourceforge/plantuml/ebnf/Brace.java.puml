@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDrawable" <|-- "net.sourceforge.plantuml.ebnf.Brace"
-class net.sourceforge.plantuml.ebnf.Brace {
-+Brace(double;double) : Brace [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Brace.java.html#49]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/Brace.java.html#55]]]
-} 
-@enduml

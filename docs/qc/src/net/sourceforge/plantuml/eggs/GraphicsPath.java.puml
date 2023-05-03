@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.eggs.GraphicsPath"
-class net.sourceforge.plantuml.eggs.GraphicsPath {
-+GraphicsPath(ColorMapper;String) : GraphicsPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#61]]]
-+writeImage(OutputStream) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#66]]]
--createImage() : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/GraphicsPath.java.html#72]]]
-} 
-@enduml

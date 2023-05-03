@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UPixel,SvgGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg"
-class net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg {
-+draw(UPixel;double;double;ColorMapper;UParam;SvgGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#47]]]
-} 
-@enduml

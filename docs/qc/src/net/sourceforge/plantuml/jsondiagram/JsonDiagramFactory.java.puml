@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemAbstractFactory" <|-- "net.sourceforge.plantuml.jsondiagram.JsonDiagramFactory"
-class net.sourceforge.plantuml.jsondiagram.JsonDiagramFactory {
-+JsonDiagramFactory() : JsonDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagramFactory.java.html#55]]]
-+createSystem(UmlSource;Map<String,String>) : Diagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagramFactory.java.html#60]]]
-} 
-@enduml

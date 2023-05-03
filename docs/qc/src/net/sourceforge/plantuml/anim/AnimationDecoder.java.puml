@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.anim.AnimationDecoder"
-class net.sourceforge.plantuml.anim.AnimationDecoder {
-+AnimationDecoder(Iterable<CharSequence>) : AnimationDecoder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AnimationDecoder.java.html#48]]]
-+decode() : List<String> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/anim/AnimationDecoder.java.html#74]]]
-} 
-@enduml

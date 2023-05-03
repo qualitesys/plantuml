@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UCenteredCharacter,SvgGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg"
-class net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg {
-+draw(UCenteredCharacter;double;double;ColorMapper;UParam;SvgGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#52]]]
-} 
-@enduml

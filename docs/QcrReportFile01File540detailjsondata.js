@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandRepeat3.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/command/CommandRepeat3.java 22 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandRepeat3.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandRepeat3.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandRepeat3.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandRepeat3.java.svg" }
 
 ] 
 , 

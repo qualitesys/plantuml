@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UCenteredCharacter,TikzGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.tikz.DriverCenteredCharacterTikz"
-class net.sourceforge.plantuml.ugraphic.tikz.DriverCenteredCharacterTikz {
-+draw(UCenteredCharacter;double;double;ColorMapper;UParam;TikzGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverCenteredCharacterTikz.java.html#51]]]
-} 
-@enduml

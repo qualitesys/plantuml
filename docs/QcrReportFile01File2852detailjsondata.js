@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/UnsupportedStarStruct.java.html" 
  , "texte" : "File src/smetana/core/UnsupportedStarStruct.java 9 rule violations " 
- , "fic2"  : "./qc/src/smetana/core/UnsupportedStarStruct.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -84,9 +83,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/smetana/core/UnsupportedStarStruct.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/smetana/core/UnsupportedStarStruct.java.svg" }
+ "ligneplantuml" : "./qc/src/smetana/core/UnsupportedStarStruct.java.svg" }
 
 ] 
 , 

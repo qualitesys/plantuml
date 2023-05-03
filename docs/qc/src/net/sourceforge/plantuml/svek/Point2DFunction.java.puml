@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.Point2DFunction"
-class net.sourceforge.plantuml.svek.Point2DFunction {
-apply(XPoint2D) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Point2DFunction.java.html#42]]]
-} 
-@enduml

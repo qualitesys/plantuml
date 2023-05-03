@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/json/JsonValue.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/json/JsonValue.java 34 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/json/JsonValue.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -309,9 +308,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/json/JsonValue.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/json/JsonValue.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/json/JsonValue.java.svg" }
 
 ] 
 , 

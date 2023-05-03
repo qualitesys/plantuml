@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/ClippingShape.java.html" 
  , "texte" : "File src/jcckit/graphic/ClippingShape.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/graphic/ClippingShape.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/ClippingShape.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/ClippingShape.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/graphic/ClippingShape.java.svg" }
 
 ] 
 , 

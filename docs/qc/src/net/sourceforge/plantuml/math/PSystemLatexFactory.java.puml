@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemBasicFactory<PSystemLatex>" <|-- "net.sourceforge.plantuml.math.PSystemLatexFactory"
-class net.sourceforge.plantuml.math.PSystemLatexFactory {
-+PSystemLatexFactory(DiagramType) : PSystemLatexFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#44]]]
-+initDiagram(UmlSource;String) : PSystemLatex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#49]]]
-+executeLine(UmlSource;PSystemLatex;String) : PSystemLatex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/math/PSystemLatexFactory.java.html#57]]]
-} 
-@enduml

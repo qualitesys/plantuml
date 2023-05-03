@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java 17 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.svg" }
 
 ] 
 , 

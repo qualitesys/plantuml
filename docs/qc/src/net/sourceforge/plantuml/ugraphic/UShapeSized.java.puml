@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UShape" <|-- "net.sourceforge.plantuml.ugraphic.UShapeSized"
-class net.sourceforge.plantuml.ugraphic.UShapeSized {
-+getWidth() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UShapeSized.java.html#40]]]
-+getHeight() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UShapeSized.java.html#42]]]
-} 
-@enduml

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.xmi.XmlDiagramTransformer"
-class net.sourceforge.plantuml.xmi.XmlDiagramTransformer {
-transformerXml(OutputStream) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmlDiagramTransformer.java.html#45]]]
-} 
-@enduml

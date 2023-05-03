@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PostScriptCommand" <|-- "net.sourceforge.plantuml.eps.PostScriptCommandMoveTo"
-class net.sourceforge.plantuml.eps.PostScriptCommandMoveTo {
-+PostScriptCommandMoveTo(double;double) : PostScriptCommandMoveTo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMoveTo.java.html#43]]]
-+toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommandMoveTo.java.html#48]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandLinkActivity.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/activitydiagram/command/CommandLinkActivity.java 151 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandLinkActivity.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandLinkActivity.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandLinkActivity.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandLinkActivity.java.svg" }
 
 ] 
 , 

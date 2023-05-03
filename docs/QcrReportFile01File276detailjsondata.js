@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/data/DataCurve.java.html" 
  , "texte" : "File src/jcckit/data/DataCurve.java 5 rule violations " 
- , "fic2"  : "./qc/src/jcckit/data/DataCurve.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/data/DataCurve.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/data/DataCurve.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/data/DataCurve.java.svg" }
 
 ] 
 , 

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileEmpty" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileGoto"
-class net.sourceforge.plantuml.activitydiagram3.ftile.FtileGoto {
-+FtileGoto(ISkinParam;Swimlane;String) : FtileGoto [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGoto.java.html#45]]]
-calculateDimensionFtile(StringBounder) : FtileGeometry [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGoto.java.html#51]]]
-+getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileGoto.java.html#55]]]
-} 
-@enduml

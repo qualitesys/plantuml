@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.cdt.dtclose__c"
-class gen.lib.cdt.dtclose__c {
-+dtclose(ST_dt_s) : int [[[./../../../../.././qc/src/gen/lib/cdt/dtclose__c.java.html#130]]]
-} 
-@enduml

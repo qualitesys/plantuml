@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java 39 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.svg" }
 
 ] 
 , 

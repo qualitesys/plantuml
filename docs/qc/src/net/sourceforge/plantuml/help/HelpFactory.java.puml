@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.help.HelpFactory"
-class net.sourceforge.plantuml.help.HelpFactory {
-+createEmptyDiagram(UmlSource;Map<String,String>) : Help [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/HelpFactory.java.html#49]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/HelpFactory.java.html#54]]]
-} 
-@enduml

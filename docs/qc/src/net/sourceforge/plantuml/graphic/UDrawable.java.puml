@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.UDrawable"
-class net.sourceforge.plantuml.graphic.UDrawable {
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/UDrawable.java.html#42]]]
-} 
-@enduml

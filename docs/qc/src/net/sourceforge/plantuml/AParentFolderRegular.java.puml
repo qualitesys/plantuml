@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AParentFolder" <|-- "net.sourceforge.plantuml.AParentFolderRegular"
-class net.sourceforge.plantuml.AParentFolderRegular {
-+AParentFolderRegular(SFile) : AParentFolderRegular [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderRegular.java.html#46]]]
-+toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderRegular.java.html#52]]]
-+getAFile(String) : AFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/AParentFolderRegular.java.html#56]]]
-} 
-@enduml

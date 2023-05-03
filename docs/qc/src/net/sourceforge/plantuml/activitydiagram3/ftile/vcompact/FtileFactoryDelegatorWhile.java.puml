@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileFactoryDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorWhile"
-class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorWhile {
-+FtileFactoryDelegatorWhile(FtileFactory) : FtileFactoryDelegatorWhile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorWhile.java.html#66]]]
-+createWhile(LinkRendering;Swimlane;Ftile;Display;Display;HColor;Instruction;Ftile;LinkRendering;LinkRendering) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorWhile.java.html#71]]]
--ensureColor(LinkRendering;Rainbow) : LinkRendering [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorWhile.java.html#125]]]
-} 
-@enduml

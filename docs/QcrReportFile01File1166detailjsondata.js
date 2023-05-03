@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/dedication/QBlock.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/dedication/QBlock.java 30 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/dedication/QBlock.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/dedication/QBlock.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/dedication/QBlock.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/dedication/QBlock.java.svg" }
 
 ] 
 , 

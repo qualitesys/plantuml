@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/common/BitArray.java 89 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -201,9 +200,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.svg" }
 
 ] 
 , 

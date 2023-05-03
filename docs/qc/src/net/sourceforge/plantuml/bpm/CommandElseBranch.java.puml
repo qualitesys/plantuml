@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<BpmDiagram>" <|-- "net.sourceforge.plantuml.bpm.CommandElseBranch"
-class net.sourceforge.plantuml.bpm.CommandElseBranch {
-+CommandElseBranch() : CommandElseBranch [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#48]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#52]]]
-executeArg(BpmDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandElseBranch.java.html#59]]]
-} 
-@enduml

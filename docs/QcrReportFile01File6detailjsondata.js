@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/MapDataReader.java 26 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.svg" }
 
 ] 
 , 

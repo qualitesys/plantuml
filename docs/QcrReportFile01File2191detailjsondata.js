@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/sudoku/SudokuDLX.java 18 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.svg" }
 
 ] 
 , 

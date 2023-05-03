@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"USymbolSimpleAbstract" <|-- "net.sourceforge.plantuml.graphic.USymbolInterface"
-class net.sourceforge.plantuml.graphic.USymbolInterface {
-+getSName() : SName [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolInterface.java.html#44]]]
-getDrawing(SymbolContext) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/USymbolInterface.java.html#49]]]
-} 
-@enduml

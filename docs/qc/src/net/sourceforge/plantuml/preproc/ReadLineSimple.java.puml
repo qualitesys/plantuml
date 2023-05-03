@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"ReadLine" <|-- "net.sourceforge.plantuml.preproc.ReadLineSimple"
-class net.sourceforge.plantuml.preproc.ReadLineSimple {
-+ReadLineSimple(StringLocated;String) : ReadLineSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#46]]]
-+close() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#51]]]
-+readLine() : StringLocated [[[./../../../../../.././qc/src/net/sourceforge/plantuml/preproc/ReadLineSimple.java.html#54]]]
-} 
-@enduml

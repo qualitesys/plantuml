@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/CMapData.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/CMapData.java 25 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/CMapData.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/CMapData.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/CMapData.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/CMapData.java.svg" }
 
 ] 
 , 

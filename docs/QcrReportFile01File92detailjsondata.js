@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/QRCode.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/QRCode.java 53 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/QRCode.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -246,9 +245,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/QRCode.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/QRCode.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/QRCode.java.svg" }
 
 ] 
 , 

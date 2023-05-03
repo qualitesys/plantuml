@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java 5 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorStars.java.svg" }
 
 ] 
 , 

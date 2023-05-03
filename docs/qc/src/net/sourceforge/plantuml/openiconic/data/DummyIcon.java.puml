@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.openiconic.data.DummyIcon"
-class net.sourceforge.plantuml.openiconic.data.DummyIcon {
-} 
-@enduml

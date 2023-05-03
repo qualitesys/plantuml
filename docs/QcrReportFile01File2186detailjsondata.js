@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/sudoku/DLXEngine.java 472 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -166,9 +165,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.svg" }
 
 ] 
 , 

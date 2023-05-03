@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemSingleLineFactory" <|-- "net.sourceforge.plantuml.eggs.PSystemColorsFactory"
-class net.sourceforge.plantuml.eggs.PSystemColorsFactory {
-executeLine(UmlSource;String) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#48]]]
-} 
-@enduml

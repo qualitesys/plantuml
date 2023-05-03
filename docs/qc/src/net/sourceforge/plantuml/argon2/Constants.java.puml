@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.Constants"
-class net.sourceforge.plantuml.argon2.Constants {
-} 
-@enduml

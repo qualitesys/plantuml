@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.text.RichText"
-class net.sourceforge.plantuml.text.RichText {
-+isRich(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/text/RichText.java.html#42]]]
-} 
-@enduml

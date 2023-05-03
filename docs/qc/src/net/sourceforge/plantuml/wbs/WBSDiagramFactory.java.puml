@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.wbs.WBSDiagramFactory"
-class net.sourceforge.plantuml.wbs.WBSDiagramFactory {
-+WBSDiagramFactory() : WBSDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagramFactory.java.html#50]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagramFactory.java.html#55]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : WBSDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wbs/WBSDiagramFactory.java.html#66]]]
-} 
-@enduml

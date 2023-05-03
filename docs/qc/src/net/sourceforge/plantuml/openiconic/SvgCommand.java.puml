@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.openiconic.SvgCommand"
-class net.sourceforge.plantuml.openiconic.SvgCommand {
-+toSvg() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/openiconic/SvgCommand.java.html#40]]]
-} 
-@enduml

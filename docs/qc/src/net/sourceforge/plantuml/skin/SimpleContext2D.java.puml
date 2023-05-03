@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"Context2D" <|-- "net.sourceforge.plantuml.skin.SimpleContext2D"
-class net.sourceforge.plantuml.skin.SimpleContext2D {
-+SimpleContext2D(boolean) : SimpleContext2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/SimpleContext2D.java.html#42]]]
-+isBackground() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/skin/SimpleContext2D.java.html#46]]]
-} 
-@enduml

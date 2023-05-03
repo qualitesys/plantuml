@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.data.DataListener"
-class jcckit.data.DataListener {
-+dataChanged(DataEvent) : void [[[./../../../.././qc/src/jcckit/data/DataListener.java.html#32]]]
-} 
-@enduml

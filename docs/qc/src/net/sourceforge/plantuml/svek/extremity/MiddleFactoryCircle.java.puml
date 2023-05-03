@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"MiddleFactory" <|-- "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircle"
-class net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircle {
-+MiddleFactoryCircle(HColor) : MiddleFactoryCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.html#45]]]
-+createUDrawable(double) : UDrawable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleFactoryCircle.java.html#49]]]
-} 
-@enduml

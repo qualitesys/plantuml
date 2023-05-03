@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Dedication" <|-- "net.sourceforge.plantuml.dedication.DedicationSimple"
-class net.sourceforge.plantuml.dedication.DedicationSimple {
-+DedicationSimple(byte[];String) : DedicationSimple [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#48]]]
-+getImage(TinyHashableString) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#53]]]
--same(String;String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#71]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityAuthentication.java.svg" }
 
 ] 
 , 

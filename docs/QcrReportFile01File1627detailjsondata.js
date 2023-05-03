@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc/Stdlib.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/preproc/Stdlib.java 151 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc/Stdlib.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -210,9 +209,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/preproc/Stdlib.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc/Stdlib.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc/Stdlib.java.svg" }
 
 ] 
 , 

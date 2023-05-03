@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java 48 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -147,9 +146,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.svg" }
 
 ] 
 , 

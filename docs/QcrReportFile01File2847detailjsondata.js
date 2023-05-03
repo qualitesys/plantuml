@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/JUtils.java.html" 
  , "texte" : "File src/smetana/core/JUtils.java 144 rule violations " 
- , "fic2"  : "./qc/src/smetana/core/JUtils.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -336,9 +335,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/smetana/core/JUtils.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/smetana/core/JUtils.java.svg" }
+ "ligneplantuml" : "./qc/src/smetana/core/JUtils.java.svg" }
 
 ] 
 , 

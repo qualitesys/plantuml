@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<BpmDiagram>" <|-- "net.sourceforge.plantuml.bpm.CommandMerge"
-class net.sourceforge.plantuml.bpm.CommandMerge {
-+CommandMerge() : CommandMerge [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#48]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#52]]]
-executeArg(BpmDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CommandMerge.java.html#61]]]
-} 
-@enduml

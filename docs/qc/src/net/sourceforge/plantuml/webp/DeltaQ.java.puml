@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.webp.DeltaQ"
-class net.sourceforge.plantuml.webp.DeltaQ {
-} 
-@enduml

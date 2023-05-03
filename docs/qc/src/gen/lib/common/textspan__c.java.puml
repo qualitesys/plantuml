@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.common.textspan__c"
-class gen.lib.common.textspan__c {
-+textspan_size(ST_GVC_s;ST_textspan_t) : ST_pointf [[[./../../../../.././qc/src/gen/lib/common/textspan__c.java.html#63]]]
--textspan_size_w_(ST_GVC_s;ST_textspan_t) : ST_pointf [[[./../../../../.././qc/src/gen/lib/common/textspan__c.java.html#67]]]
-+textfont_dict_open(ST_GVC_s) : ST_dt_s [[[./../../../../.././qc/src/gen/lib/common/textspan__c.java.html#85]]]
-} 
-@enduml

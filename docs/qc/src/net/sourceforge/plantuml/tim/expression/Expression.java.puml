@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.expression.Expression"
-class net.sourceforge.plantuml.tim.expression.Expression {
-} 
-@enduml

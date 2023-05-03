@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"TicLabelFormat" <|-- "jcckit.plot.TicLabelMap"
-class jcckit.plot.TicLabelMap {
-+TicLabelMap(ConfigParameters) : TicLabelMap [[[./../../../.././qc/src/jcckit/plot/TicLabelMap.java.html#107]]]
-+form(double) : String [[[./../../../.././qc/src/jcckit/plot/TicLabelMap.java.html#126]]]
-} 
-@enduml

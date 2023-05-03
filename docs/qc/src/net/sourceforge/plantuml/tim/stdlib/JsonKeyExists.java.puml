@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.JsonKeyExists"
-class net.sourceforge.plantuml.tim.stdlib.JsonKeyExists {
-+getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/JsonKeyExists.java.html#53]]]
-+canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/JsonKeyExists.java.html#57]]]
-+executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/JsonKeyExists.java.html#61]]]
-} 
-@enduml

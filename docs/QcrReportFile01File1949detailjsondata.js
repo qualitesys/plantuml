@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceOverSeveral.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceOverSeveral.java 28 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceOverSeveral.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceOverSeveral.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceOverSeveral.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceOverSeveral.java.svg" }
 
 ] 
 , 

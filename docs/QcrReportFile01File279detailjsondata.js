@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/data/DataEventType.java.html" 
  , "texte" : "File src/jcckit/data/DataEventType.java 0 rule violation " 
- , "fic2"  : "./qc/src/jcckit/data/DataEventType.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -30,9 +29,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/data/DataEventType.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/data/DataEventType.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/data/DataEventType.java.svg" }
 
 ] 
 , 

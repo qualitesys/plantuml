@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"XmiClassDiagramAbstractXmlDiagramTransformer" <|-- "net.sourceforge.plantuml.xmi.XmiClassDiagramStar"
-class net.sourceforge.plantuml.xmi.XmiClassDiagramStar {
-+XmiClassDiagramStar(ClassDiagram) : XmiClassDiagramStar [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStar.java.html#50]]]
--addLink(Link) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStar.java.html#67]]]
--addExtension(Link;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStar.java.html#125]]]
-} 
-@enduml

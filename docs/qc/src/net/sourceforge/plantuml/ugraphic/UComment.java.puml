@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UShape" <|-- "net.sourceforge.plantuml.ugraphic.UComment"
-class net.sourceforge.plantuml.ugraphic.UComment {
-+UComment(String) : UComment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.html#42]]]
-+getComment() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/UComment.java.html#46]]]
-} 
-@enduml

@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_adjmatrix_t"
-class h.ST_adjmatrix_t {
-} 
-@enduml

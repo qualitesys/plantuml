@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractElementFactoryComplex" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryTab"
-class net.sourceforge.plantuml.salt.factory.ElementFactoryTab {
-+ElementFactoryTab(DataSource;Dictionary) : ElementFactoryTab [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTab.java.html#48]]]
-+create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTab.java.html#52]]]
-+ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTab.java.html#73]]]
-} 
-@enduml

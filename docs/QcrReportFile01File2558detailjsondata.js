@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/ugraphic/MutableImage.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/MutableImage.java.svg" }
 
 ] 
 , 

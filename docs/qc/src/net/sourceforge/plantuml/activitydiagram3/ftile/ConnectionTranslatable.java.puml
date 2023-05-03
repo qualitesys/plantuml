@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"Connection" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionTranslatable"
-class net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionTranslatable {
-+drawTranslate(UGraphic;UTranslate;UTranslate) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/ConnectionTranslatable.java.html#43]]]
-} 
-@enduml

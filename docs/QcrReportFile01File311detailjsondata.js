@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html" 
  , "texte" : "File src/jcckit/plot/CartesianCoordinateSystem.java 49 rule violations " 
- , "fic2"  : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.svg" }
 
 ] 
 , 

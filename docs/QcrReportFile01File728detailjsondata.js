@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/api/mda/option2/MDAPackage.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/api/mda/option2/MDAPackage.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/api/mda/option2/MDAPackage.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/api/mda/option2/MDAPackage.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/api/mda/option2/MDAPackage.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/api/mda/option2/MDAPackage.java.svg" }
 
 ] 
 , 

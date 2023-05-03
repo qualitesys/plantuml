@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java 90 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.svg" }
 
 ] 
 , 

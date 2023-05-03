@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<UmlDiagram>" <|-- "net.sourceforge.plantuml.command.CommandFootboxIgnored"
-class net.sourceforge.plantuml.command.CommandFootboxIgnored {
-+CommandFootboxIgnored() : CommandFootboxIgnored [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#47]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#51]]]
-executeArg(UmlDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandFootboxIgnored.java.html#59]]]
-} 
-@enduml

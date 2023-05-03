@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractTextBlockTextBlock" <|-- "net.sourceforge.plantuml.svek.DirectionalTextBlock"
-class net.sourceforge.plantuml.svek.DirectionalTextBlock {
-+DirectionalTextBlock(GuideLine;TextBlock;TextBlock;TextBlock;TextBlock) : DirectionalTextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DirectionalTextBlock.java.html#52]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DirectionalTextBlock.java.html#60]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/DirectionalTextBlock.java.html#80]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<AbstractPSystem>" <|-- "net.sourceforge.plantuml.command.CommandScaleMaxHeight"
-class net.sourceforge.plantuml.command.CommandScaleMaxHeight {
-+CommandScaleMaxHeight() : CommandScaleMaxHeight [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#48]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#52]]]
-executeArg(AbstractPSystem;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleMaxHeight.java.html#64]]]
-} 
-@enduml

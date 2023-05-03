@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.sprite.StdlibDiagramFactory"
-class net.sourceforge.plantuml.sprite.StdlibDiagramFactory {
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagramFactory.java.html#49]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : StdlibDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/StdlibDiagramFactory.java.html#57]]]
-} 
-@enduml

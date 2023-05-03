@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.wire.Spot"
-class net.sourceforge.plantuml.wire.Spot {
-+Spot(WBlock;HColor;String;String) : Spot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Spot.java.html#52]]]
-+drawMe(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/Spot.java.html#59]]]
-} 
-@enduml

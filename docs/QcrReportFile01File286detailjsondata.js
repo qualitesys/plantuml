@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/ClippingRectangle.java.html" 
  , "texte" : "File src/jcckit/graphic/ClippingRectangle.java 8 rule violations " 
- , "fic2"  : "./qc/src/jcckit/graphic/ClippingRectangle.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/ClippingRectangle.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/ClippingRectangle.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/graphic/ClippingRectangle.java.svg" }
 
 ] 
 , 

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PlainDiagram" <|-- "net.sourceforge.plantuml.sprite.PSystemListInternalSprites"
-class net.sourceforge.plantuml.sprite.PSystemListInternalSprites {
-+PSystemListInternalSprites(UmlSource) : PSystemListInternalSprites [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/PSystemListInternalSprites.java.html#54]]]
-getRootDrawable(FileFormatOption) : UDrawable [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/PSystemListInternalSprites.java.html#59]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sprite/PSystemListInternalSprites.java.html#79]]]
-} 
-@enduml

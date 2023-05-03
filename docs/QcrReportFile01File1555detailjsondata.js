@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/openiconic/SvgPath.java 74 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.svg" }
 
 ] 
 , 

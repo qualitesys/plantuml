@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_shape_functions.java.html" 
  , "texte" : "File src/h/ST_shape_functions.java 6 rule violations " 
- , "fic2"  : "./qc/src/h/ST_shape_functions.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -22,9 +21,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_shape_functions.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/h/ST_shape_functions.java.svg" }
+ "ligneplantuml" : "./qc/src/h/ST_shape_functions.java.svg" }
 
 ] 
 , 

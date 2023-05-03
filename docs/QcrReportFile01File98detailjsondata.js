@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/annotation/Reviewed.java.html" 
  , "texte" : "File src/gen/annotation/Reviewed.java 0 rule violation " 
- , "fic2"  : "./qc/src/gen/annotation/Reviewed.java.xml" 
  , "fic3"  : "" 
 }
 , 

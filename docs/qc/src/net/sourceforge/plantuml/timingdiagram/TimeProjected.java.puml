@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.timingdiagram.TimeProjected"
-class net.sourceforge.plantuml.timingdiagram.TimeProjected {
-+getTimeProjection(StringBounder;TimeTick) : IntricatedPoint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/TimeProjected.java.html#42]]]
-} 
-@enduml

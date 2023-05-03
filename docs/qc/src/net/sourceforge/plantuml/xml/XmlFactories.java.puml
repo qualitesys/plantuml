@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.xml.XmlFactories"
-class net.sourceforge.plantuml.xml.XmlFactories {
--XmlFactories() : XmlFactories [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xml/XmlFactories.java.html#12]]]
-+newDocumentBuilder() : DocumentBuilder [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xml/XmlFactories.java.html#27]]]
-+newTransformer() : Transformer [[[./../../../../../.././qc/src/net/sourceforge/plantuml/xml/XmlFactories.java.html#31]]]
-} 
-@enduml

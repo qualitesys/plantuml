@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"Something" <|-- "net.sourceforge.plantuml.project.lang.ComplementDayOfWeek"
-class net.sourceforge.plantuml.project.lang.ComplementDayOfWeek {
-+toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#48]]]
-+getMe(GanttDiagram;RegexResult;String) : Failable<DayOfWeek> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementDayOfWeek.java.html#53]]]
-} 
-@enduml

@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"ST_Agrec_s" <|-- "h.ST_Agdatadict_s"
-class h.ST_Agdatadict_s {
-} 
-@enduml

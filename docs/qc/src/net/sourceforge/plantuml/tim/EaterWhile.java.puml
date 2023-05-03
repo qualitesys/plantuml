@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Eater" <|-- "net.sourceforge.plantuml.tim.EaterWhile"
-class net.sourceforge.plantuml.tim.EaterWhile {
-+EaterWhile(StringLocated) : EaterWhile [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterWhile.java.html#44]]]
-+analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterWhile.java.html#49]]]
-+getWhileExpression() : TokenStack [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterWhile.java.html#56]]]
-} 
-@enduml

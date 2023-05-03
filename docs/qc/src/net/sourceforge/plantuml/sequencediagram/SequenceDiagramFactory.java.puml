@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.sequencediagram.SequenceDiagramFactory"
-class net.sourceforge.plantuml.sequencediagram.SequenceDiagramFactory {
-+createEmptyDiagram(UmlSource;Map<String,String>) : SequenceDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagramFactory.java.html#87]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/SequenceDiagramFactory.java.html#92]]]
-} 
-@enduml

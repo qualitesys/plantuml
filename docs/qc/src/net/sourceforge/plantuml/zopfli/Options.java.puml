@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.zopfli.Options"
-class net.sourceforge.plantuml.zopfli.Options {
-+Options(OutputFormat;BlockSplitting;int) : Options [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#36]]]
-+Options() : Options [[[./../../../../../.././qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#36]]]
-} 
-@enduml

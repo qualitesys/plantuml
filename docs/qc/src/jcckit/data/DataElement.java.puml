@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.data.DataElement"
-class jcckit.data.DataElement {
-+getContainer() : DataContainer [[[./../../../.././qc/src/jcckit/data/DataElement.java.html#31]]]
-+setContainer(DataContainer) : void [[[./../../../.././qc/src/jcckit/data/DataElement.java.html#39]]]
-} 
-@enduml

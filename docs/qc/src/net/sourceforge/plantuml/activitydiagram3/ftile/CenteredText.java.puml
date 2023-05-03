@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"UShape" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.CenteredText"
-class net.sourceforge.plantuml.activitydiagram3.ftile.CenteredText {
-+CenteredText(TextBlock;double) : CenteredText [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CenteredText.java.html#46]]]
-+getText() : TextBlock [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CenteredText.java.html#51]]]
-+getTotalWidth() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/CenteredText.java.html#55]]]
-} 
-@enduml

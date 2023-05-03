@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.gvc.gvlayout__c"
-class gen.lib.gvc.gvlayout__c {
-+gvlayout_select(ST_GVC_s;CString) : int [[[./../../../../.././qc/src/gen/lib/gvc/gvlayout__c.java.html#90]]]
-+gvLayoutJobs(ST_GVC_s;ST_Agraph_s) : int [[[./../../../../.././qc/src/gen/lib/gvc/gvlayout__c.java.html#122]]]
-} 
-@enduml

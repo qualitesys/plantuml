@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/memory__c.java.html" 
  , "texte" : "File src/gen/lib/common/memory__c.java 31 rule violations " 
- , "fic2"  : "./qc/src/gen/lib/common/memory__c.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/gen/lib/common/memory__c.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/gen/lib/common/memory__c.java.svg" }
+ "ligneplantuml" : "./qc/src/gen/lib/common/memory__c.java.svg" }
 
 ] 
 , 

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.model.Position"
-class net.sourceforge.plantuml.argon2.model.Position {
-+Position(int;int;int;int) : Position [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/model/Position.java.html#22]]]
-} 
-@enduml

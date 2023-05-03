@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_HDict_t"
-class h.ST_HDict_t {
-+getTheField(OFFSET) : Object [[[./../../.././qc/src/h/ST_HDict_t.java.html#58]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ProgressBar.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/ProgressBar.java 31 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ProgressBar.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ProgressBar.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ProgressBar.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ProgressBar.java.svg" }
 
 ] 
 , 

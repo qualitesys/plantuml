@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.png.PngRotation"
-class net.sourceforge.plantuml.png.PngRotation {
-+process(BufferedImage) : BufferedImage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngRotation.java.html#46]]]
-} 
-@enduml

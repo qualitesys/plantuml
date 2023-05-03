@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.FileWatcher"
-class net.sourceforge.plantuml.FileWatcher {
-+FileWatcher(Set<File>) : FileWatcher [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#47]]]
-+toString() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#57]]]
-+hasChanged() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/FileWatcher.java.html#61]]]
-} 
-@enduml

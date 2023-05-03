@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.bpm.Placeable"
-class net.sourceforge.plantuml.bpm.Placeable {
-+getDimension(StringBounder;ISkinParam) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Placeable.java.html#45]]]
-+toTextBlock(ISkinParam) : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Placeable.java.html#47]]]
-+getId() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/Placeable.java.html#49]]]
-} 
-@enduml

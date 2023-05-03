@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/math/AsciiMath.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/math/AsciiMath.java.svg" }
 
 ] 
 , 

@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_textspan_t"
-class h.ST_textspan_t {
-} 
-@enduml

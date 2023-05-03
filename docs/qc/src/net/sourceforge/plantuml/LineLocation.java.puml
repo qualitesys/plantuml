@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Comparable<LineLocation>" <|-- "net.sourceforge.plantuml.LineLocation"
-class net.sourceforge.plantuml.LineLocation {
-+getPosition() : int [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineLocation.java.html#48]]]
-+getDescription() : String [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineLocation.java.html#54]]]
-+getParent() : LineLocation [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineLocation.java.html#61]]]
-} 
-@enduml

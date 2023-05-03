@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<ClassDiagram>" <|-- "net.sourceforge.plantuml.classdiagram.command.CommandAddMethod"
-class net.sourceforge.plantuml.classdiagram.command.CommandAddMethod {
-+CommandAddMethod() : CommandAddMethod [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAddMethod.java.html#54]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAddMethod.java.html#58]]]
-executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAddMethod.java.html#69]]]
-} 
-@enduml

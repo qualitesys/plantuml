@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.ctreber.aclib.gui.MOChangeListener"
-class ext.plantuml.com.ctreber.aclib.gui.MOChangeListener {
-+valueChanged(MonitoredObject) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/aclib/gui/MOChangeListener.java.html#12]]]
-} 
-@enduml

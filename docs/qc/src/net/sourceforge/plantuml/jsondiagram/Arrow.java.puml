@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.jsondiagram.Arrow"
-class net.sourceforge.plantuml.jsondiagram.Arrow {
-+Arrow(XPoint2D;XPoint2D) : Arrow [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#44]]]
-+drawArrow(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#49]]]
--getPoint(XPoint2D;double;double) : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jsondiagram/Arrow.java.html#77]]]
-} 
-@enduml

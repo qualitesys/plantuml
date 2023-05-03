@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"GraphicalElement" <|-- "jcckit.graphic.BasicGraphicalElement"
-class jcckit.graphic.BasicGraphicalElement {
-+BasicGraphicalElement(GraphicAttributes) : BasicGraphicalElement [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#37]]]
-+getGraphicAttributes() : GraphicAttributes [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#45]]]
-+isClosed() : boolean [[[./../../../.././qc/src/jcckit/graphic/BasicGraphicalElement.java.html#55]]]
-} 
-@enduml

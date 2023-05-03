@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.wire.WCursor"
-class net.sourceforge.plantuml.wire.WCursor {
-+getPosition() : XPoint2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WCursor.java.html#45]]]
-+move(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WCursor.java.html#49]]]
-} 
-@enduml

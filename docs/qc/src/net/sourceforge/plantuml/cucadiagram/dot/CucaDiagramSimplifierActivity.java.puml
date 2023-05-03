@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity"
-class net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity {
-+CucaDiagramSimplifierActivity(CucaDiagram;List<String>;StringBounder) : CucaDiagramSimplifierActivity [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#55]]]
--computeImage(IGroup) : IEntityImage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#89]]]
-} 
-@enduml

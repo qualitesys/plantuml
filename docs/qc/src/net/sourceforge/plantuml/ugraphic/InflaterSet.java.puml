@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.InflaterSet"
-class net.sourceforge.plantuml.ugraphic.InflaterSet {
-+addInflater(double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#55]]]
-+inflate(double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/InflaterSet.java.html#59]]]
-} 
-@enduml

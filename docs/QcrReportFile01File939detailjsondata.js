@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesHeader.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/command/CommandMultilinesHeader.java 13 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesHeader.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesHeader.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesHeader.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesHeader.java.svg" }
 
 ] 
 , 

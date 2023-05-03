@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceIsColored"
-class net.sourceforge.plantuml.project.lang.SentenceIsColored {
-+SentenceIsColored() : SentenceIsColored [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsColored.java.html#44]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceIsColored.java.html#49]]]
-} 
-@enduml

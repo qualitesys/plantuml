@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/ArrowDecoration.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/skin/ArrowDecoration.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/ArrowDecoration.java.xml" 
  , "fic3"  : "" 
 }
 , 

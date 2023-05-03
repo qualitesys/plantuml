@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.pathplan.solvers__c"
-class gen.lib.pathplan.solvers__c {
-+solve3(double[];double[]) : int [[[./../../../../.././qc/src/gen/lib/pathplan/solvers__c.java.html#64]]]
-+solve2(double[];double[]) : int [[[./../../../../.././qc/src/gen/lib/pathplan/solvers__c.java.html#113]]]
-+solve1(double[];double[]) : int [[[./../../../../.././qc/src/gen/lib/pathplan/solvers__c.java.html#146]]]
-} 
-@enduml

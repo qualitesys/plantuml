@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"Exception" <|-- "net.sourceforge.plantuml.oregon.NoInputException"
-class net.sourceforge.plantuml.oregon.NoInputException {
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/Boundary.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/svek/Boundary.java 20 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/Boundary.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/Boundary.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/Boundary.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/Boundary.java.svg" }
 
 ] 
 , 

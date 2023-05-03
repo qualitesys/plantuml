@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_elist"
-class h.ST_elist {
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_elist.java.html#65]]]
-+copy() : ST_elist [[[./../../.././qc/src/h/ST_elist.java.html#72]]]
-} 
-@enduml

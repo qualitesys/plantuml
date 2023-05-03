@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_splineInfo"
-class h.ST_splineInfo {
-} 
-@enduml

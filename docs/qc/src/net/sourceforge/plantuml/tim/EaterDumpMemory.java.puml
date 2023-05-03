@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"Eater" <|-- "net.sourceforge.plantuml.tim.EaterDumpMemory"
-class net.sourceforge.plantuml.tim.EaterDumpMemory {
-+EaterDumpMemory(StringLocated) : EaterDumpMemory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.html#41]]]
-+analyze(TContext;TMemory) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/tim/EaterDumpMemory.java.html#46]]]
-} 
-@enduml

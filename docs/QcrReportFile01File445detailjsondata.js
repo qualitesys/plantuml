@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/SpecificBackcolorable.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/SpecificBackcolorable.java.svg" }
 
 ] 
 , 

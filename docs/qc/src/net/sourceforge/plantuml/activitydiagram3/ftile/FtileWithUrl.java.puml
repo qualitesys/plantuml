@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileDecorate" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithUrl"
-class net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithUrl {
-+FtileWithUrl(Ftile;Url) : FtileWithUrl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithUrl.java.html#48]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithUrl.java.html#53]]]
-} 
-@enduml

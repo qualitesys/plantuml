@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<FlowDiagram>" <|-- "net.sourceforge.plantuml.flowdiagram.CommandLink"
-class net.sourceforge.plantuml.flowdiagram.CommandLink {
-+CommandLink() : CommandLink [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLink.java.html#50]]]
--getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLink.java.html#54]]]
-executeArg(FlowDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/flowdiagram/CommandLink.java.html#65]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_Agtag_s"
-class h.ST_Agtag_s {
-+toString() : String [[[./../../.././qc/src/h/ST_Agtag_s.java.html#59]]]
-+copy() : ST_Agtag_s [[[./../../.././qc/src/h/ST_Agtag_s.java.html#64]]]
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_Agtag_s.java.html#75]]]
-} 
-@enduml

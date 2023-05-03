@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.wire.WireDiagramFactory"
-class net.sourceforge.plantuml.wire.WireDiagramFactory {
-+WireDiagramFactory() : WireDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagramFactory.java.html#50]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagramFactory.java.html#55]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : WireDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/WireDiagramFactory.java.html#71]]]
-} 
-@enduml

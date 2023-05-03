@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"Renderer" <|-- "jcckit.graphic.GraphicalCompositeRenderer"
-class jcckit.graphic.GraphicalCompositeRenderer {
-+startRendering(GraphicalComposite) : void [[[./../../../.././qc/src/jcckit/graphic/GraphicalCompositeRenderer.java.html#36]]]
-+finishRendering(GraphicalComposite) : void [[[./../../../.././qc/src/jcckit/graphic/GraphicalCompositeRenderer.java.html#39]]]
-} 
-@enduml

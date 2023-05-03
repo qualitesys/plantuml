@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/ToTaskDraw.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/project/ToTaskDraw.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/ToTaskDraw.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/ToTaskDraw.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/ToTaskDraw.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/ToTaskDraw.java.svg" }
 
 ] 
 , 

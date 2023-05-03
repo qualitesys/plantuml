@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java 6 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/Plugin.java.svg" }
 
 ] 
 , 

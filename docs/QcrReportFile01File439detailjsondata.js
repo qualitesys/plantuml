@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/SkinParamUtils.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/SkinParamUtils.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/SkinParamUtils.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/SkinParamUtils.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/SkinParamUtils.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/SkinParamUtils.java.svg" }
 
 ] 
 , 

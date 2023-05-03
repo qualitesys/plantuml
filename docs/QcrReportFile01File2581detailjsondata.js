@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/ugraphic/UFont.java 46 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -255,9 +254,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/UFont.java.svg" }
 
 ] 
 , 

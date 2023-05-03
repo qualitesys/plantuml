@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileDecorate" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateOut"
-class net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateOut {
-+FtileDecorateOut(Ftile;LinkRendering) : FtileDecorateOut [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDecorateOut.java.html#47]]]
-+getOutLinkRendering() : LinkRendering [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDecorateOut.java.html#52]]]
-} 
-@enduml

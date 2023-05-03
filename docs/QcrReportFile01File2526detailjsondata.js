@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNote.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/timingdiagram/command/CommandNote.java 20 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNote.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNote.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNote.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandNote.java.svg" }
 
 ] 
 , 

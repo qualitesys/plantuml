@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/style/StyleSignature.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/style/StyleSignature.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/style/StyleSignature.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/style/StyleSignature.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/style/StyleSignature.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/style/StyleSignature.java.svg" }
 
 ] 
 , 

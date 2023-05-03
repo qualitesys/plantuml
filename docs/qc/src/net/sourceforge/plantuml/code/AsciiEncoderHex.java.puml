@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"URLEncoder" <|-- "net.sourceforge.plantuml.code.AsciiEncoderHex"
-class net.sourceforge.plantuml.code.AsciiEncoderHex {
-+encode(byte[]) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderHex.java.html#40]]]
-+decode(String) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/AsciiEncoderHex.java.html#55]]]
-} 
-@enduml

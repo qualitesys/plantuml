@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"CommunicationTileNoteBottomTopAbstract" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottom"
-class net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottom {
-+CommunicationTileNoteBottom(Tile;AbstractMessage;Rose;ISkinParam;Note;YGauge) : CommunicationTileNoteBottom [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottom.java.html#53]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileNoteBottom.java.html#59]]]
-} 
-@enduml

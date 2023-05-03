@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/project/LabelStrategy.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/LabelStrategy.java.svg" }
 
 ] 
 , 

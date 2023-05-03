@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java 4 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.svg" }
 
 ] 
 , 

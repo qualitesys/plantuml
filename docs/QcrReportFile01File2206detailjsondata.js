@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/ClusterPosition.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/svek/ClusterPosition.java 48 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/ClusterPosition.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -300,9 +299,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/svek/ClusterPosition.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/ClusterPosition.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/svek/ClusterPosition.java.svg" }
 
 ] 
 , 

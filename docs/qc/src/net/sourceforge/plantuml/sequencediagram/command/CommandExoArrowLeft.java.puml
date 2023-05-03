@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"CommandExoArrowAny" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowLeft"
-class net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowLeft {
-+CommandExoArrowLeft() : CommandExoArrowLeft [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandExoArrowLeft.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandExoArrowLeft.java.html#53]]]
-getMessageExoType(RegexResult) : MessageExoType [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandExoArrowLeft.java.html#89]]]
-} 
-@enduml

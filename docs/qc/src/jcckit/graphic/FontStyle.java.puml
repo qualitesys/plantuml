@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.graphic.FontStyle"
-class jcckit.graphic.FontStyle {
--FontStyle(String) : FontStyle [[[./../../../.././qc/src/jcckit/graphic/FontStyle.java.html#47]]]
-+getFontStyle(ConfigParameters;String;FontStyle) : FontStyle [[[./../../../.././qc/src/jcckit/graphic/FontStyle.java.html#65]]]
-+toString() : String [[[./../../../.././qc/src/jcckit/graphic/FontStyle.java.html#79]]]
-} 
-@enduml

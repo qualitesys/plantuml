@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_Rect_t"
-class h.ST_Rect_t {
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_Rect_t.java.html#57]]]
-} 
-@enduml

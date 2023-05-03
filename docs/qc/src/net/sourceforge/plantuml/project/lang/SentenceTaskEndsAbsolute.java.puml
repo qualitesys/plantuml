@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceTaskEndsAbsolute"
-class net.sourceforge.plantuml.project.lang.SentenceTaskEndsAbsolute {
-+SentenceTaskEndsAbsolute() : SentenceTaskEndsAbsolute [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskEndsAbsolute.java.html#45]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskEndsAbsolute.java.html#50]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<Help>" <|-- "net.sourceforge.plantuml.help.CommandHelpColor"
-class net.sourceforge.plantuml.help.CommandHelpColor {
-+CommandHelpColor() : CommandHelpColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpColor.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpColor.java.html#53]]]
-executeArg(Help;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/help/CommandHelpColor.java.html#61]]]
-} 
-@enduml

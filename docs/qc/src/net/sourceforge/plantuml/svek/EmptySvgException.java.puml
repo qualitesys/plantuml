@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"RuntimeException" <|-- "net.sourceforge.plantuml.svek.EmptySvgException"
-class net.sourceforge.plantuml.svek.EmptySvgException {
-} 
-@enduml

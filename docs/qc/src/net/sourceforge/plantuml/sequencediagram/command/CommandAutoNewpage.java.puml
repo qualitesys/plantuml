@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandAutoNewpage"
-class net.sourceforge.plantuml.sequencediagram.command.CommandAutoNewpage {
-+CommandAutoNewpage() : CommandAutoNewpage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoNewpage.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoNewpage.java.html#53]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoNewpage.java.html#61]]]
-} 
-@enduml

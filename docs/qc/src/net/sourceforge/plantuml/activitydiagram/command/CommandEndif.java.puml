@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<ActivityDiagram>" <|-- "net.sourceforge.plantuml.activitydiagram.command.CommandEndif"
-class net.sourceforge.plantuml.activitydiagram.command.CommandEndif {
-+CommandEndif() : CommandEndif [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#53]]]
-executeArg(ActivityDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#63]]]
-} 
-@enduml

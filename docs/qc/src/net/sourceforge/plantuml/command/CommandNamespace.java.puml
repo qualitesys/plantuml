@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<ClassDiagram>" <|-- "net.sourceforge.plantuml.command.CommandNamespace"
-class net.sourceforge.plantuml.command.CommandNamespace {
-+CommandNamespace() : CommandNamespace [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespace.java.html#61]]]
--getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespace.java.html#65]]]
-executeArg(ClassDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandNamespace.java.html#81]]]
-} 
-@enduml

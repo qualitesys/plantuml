@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java 142 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandCreateClassMultilines.java.svg" }
 
 ] 
 , 

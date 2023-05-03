@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/FormatException.java 0 rule violation " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/FormatException.java.svg" }
 
 ] 
 , 

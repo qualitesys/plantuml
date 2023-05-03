@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/version/IteratorCounter2.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2.java.svg" }
 
 ] 
 , 

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/dedication/RBlock.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/dedication/RBlock.java 9 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/dedication/RBlock.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/dedication/RBlock.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/dedication/RBlock.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/dedication/RBlock.java.svg" }
 
 ] 
 , 

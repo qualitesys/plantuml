@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"ElementFactory" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactoryImage"
-class net.sourceforge.plantuml.salt.factory.ElementFactoryImage {
-+ElementFactoryImage(DataSource;Dictionary) : ElementFactoryImage [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryImage.java.html#52]]]
-+create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryImage.java.html#57]]]
-+ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryImage.java.html#75]]]
-} 
-@enduml

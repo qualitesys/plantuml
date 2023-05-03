@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SourceFileReaderAbstractISourceFileReader" <|-- "net.sourceforge.plantuml.SourceFileReaderCopyCat"
-class net.sourceforge.plantuml.SourceFileReaderCopyCat {
-+SourceFileReaderCopyCat(Defines;File;File;List<String>;String;FileFormatOption) : SourceFileReaderCopyCat [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#48]]]
-getSuggestedFile(BlockUml) : SuggestedFile [[[./../../../../.././qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#58]]]
-} 
-@enduml

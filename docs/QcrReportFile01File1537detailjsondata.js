@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/nwdiag/next/Staged.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.svg" }
 
 ] 
 , 

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.scandot.ScanDotGenerator"
-class ext.plantuml.com.ctreber.acearth.scandot.ScanDotGenerator {
-+generateScanDots() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDotGenerator.java.html#21]]]
-+getScanDots() : List [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDotGenerator.java.html#23]]]
-} 
-@enduml

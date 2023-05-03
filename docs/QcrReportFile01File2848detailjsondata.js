@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/Macro.java.html" 
  , "texte" : "File src/smetana/core/Macro.java 485 rule violations " 
- , "fic2"  : "./qc/src/smetana/core/Macro.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -2649,9 +2648,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/smetana/core/Macro.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/smetana/core/Macro.java.svg" }
+ "ligneplantuml" : "./qc/src/smetana/core/Macro.java.svg" }
 
 ] 
 , 

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/tim/TMemoryGlobal.java 14 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.svg" }
 
 ] 
 , 

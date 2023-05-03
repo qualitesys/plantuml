@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramShape.java 1 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.xml" 
  , "fic3"  : "" 
 }
 , 

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.Zad"
-class net.sourceforge.plantuml.activitydiagram3.ftile.Zad {
-+add(MinMax) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Zad.java.html#49]]]
-+drawDebug(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Zad.java.html#55]]]
-+doesHorizontalCross(Snake) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Zad.java.html#64]]]
-} 
-@enduml

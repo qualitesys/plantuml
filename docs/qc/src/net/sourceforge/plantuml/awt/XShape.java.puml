@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.awt.XShape"
-class net.sourceforge.plantuml.awt.XShape {
-} 
-@enduml

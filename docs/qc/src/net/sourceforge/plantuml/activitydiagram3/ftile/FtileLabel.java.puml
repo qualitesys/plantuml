@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileEmpty" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileLabel"
-class net.sourceforge.plantuml.activitydiagram3.ftile.FtileLabel {
-+FtileLabel(ISkinParam;Swimlane;String) : FtileLabel [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileLabel.java.html#44]]]
-+getName() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileLabel.java.html#49]]]
-} 
-@enduml

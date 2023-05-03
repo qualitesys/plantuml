@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Moment" <|-- "net.sourceforge.plantuml.project.core.MomentImpl"
-class net.sourceforge.plantuml.project.core.MomentImpl {
-+MomentImpl(Day;Day) : MomentImpl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/MomentImpl.java.html#45]]]
-+getStart() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/MomentImpl.java.html#50]]]
-+getEnd() : Day [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core/MomentImpl.java.html#54]]]
-} 
-@enduml

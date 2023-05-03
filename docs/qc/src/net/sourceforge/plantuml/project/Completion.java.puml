@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.project.Completion"
-class net.sourceforge.plantuml.project.Completion {
-+Completion(int) : Completion [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Completion.java.html#42]]]
-+getCompletion() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/project/Completion.java.html#46]]]
-} 
-@enduml

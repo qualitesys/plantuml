@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.StringFunction"
-class net.sourceforge.plantuml.tim.stdlib.StringFunction {
-+getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/StringFunction.java.html#49]]]
-+canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/StringFunction.java.html#53]]]
-+executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/StringFunction.java.html#57]]]
-} 
-@enduml

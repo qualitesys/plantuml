@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer"
-class net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer {
-getGenericRegex(int) : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#46]]]
-} 
-@enduml

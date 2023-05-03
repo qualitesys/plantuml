@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.Stairs"
-class net.sourceforge.plantuml.sequencediagram.teoz.Stairs {
-+addStep(Step) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Stairs.java.html#47]]]
-+getMaxIndent() : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Stairs.java.html#61]]]
-+getSteps() : Collection<Step> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Stairs.java.html#72]]]
-} 
-@enduml

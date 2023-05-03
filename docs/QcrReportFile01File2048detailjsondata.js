@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Step.java.svg" }
 
 ] 
 , 

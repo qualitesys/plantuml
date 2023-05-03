@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"EntityImageStateCommon" <|-- "net.sourceforge.plantuml.svek.image.EntityImageStateEmptyDescription"
-class net.sourceforge.plantuml.svek.image.EntityImageStateEmptyDescription {
-+EntityImageStateEmptyDescription(IEntity;ISkinParam) : EntityImageStateEmptyDescription [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateEmptyDescription.java.html#51]]]
-+calculateDimension(StringBounder) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateEmptyDescription.java.html#56]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateEmptyDescription.java.html#62]]]
-} 
-@enduml

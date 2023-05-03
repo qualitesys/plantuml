@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java 6 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -84,9 +83,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/UGraphicVdx.java.svg" }
 
 ] 
 , 

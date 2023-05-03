@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.LineConfigurable"
-class net.sourceforge.plantuml.LineConfigurable {
-+getColors() : Colors [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineConfigurable.java.html#44]]]
-+setSpecificColorTOBEREMOVED(ColorType;HColor) : void [[[./../../../../.././qc/src/net/sourceforge/plantuml/LineConfigurable.java.html#46]]]
-} 
-@enduml

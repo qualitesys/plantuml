@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemBasicFactory<PSystemLogo>" <|-- "net.sourceforge.plantuml.logo.PSystemLogoFactory"
-class net.sourceforge.plantuml.logo.PSystemLogoFactory {
-+initDiagram(UmlSource;String) : PSystemLogo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/PSystemLogoFactory.java.html#44]]]
-+executeLine(UmlSource;PSystemLogo;String) : PSystemLogo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/logo/PSystemLogoFactory.java.html#49]]]
-} 
-@enduml

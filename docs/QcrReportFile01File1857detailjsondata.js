@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java 160 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -219,9 +218,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.svg" }
 
 ] 
 , 

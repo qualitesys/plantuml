@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"Shadowable" <|-- "net.sourceforge.plantuml.ugraphic.AbstractShadowable"
-class net.sourceforge.plantuml.ugraphic.AbstractShadowable {
-+getDeltaShadow() : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#42]]]
-+setDeltaShadow(double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/AbstractShadowable.java.html#46]]]
-} 
-@enduml

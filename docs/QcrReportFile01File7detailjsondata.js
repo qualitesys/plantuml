@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/CanvasACearth.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/gui/CanvasACearth.java 0 rule violation " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/CanvasACearth.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -30,9 +29,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/CanvasACearth.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/CanvasACearth.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/CanvasACearth.java.svg" }
 
 ] 
 , 

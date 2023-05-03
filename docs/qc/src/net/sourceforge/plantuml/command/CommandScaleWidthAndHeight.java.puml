@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<AbstractPSystem>" <|-- "net.sourceforge.plantuml.command.CommandScaleWidthAndHeight"
-class net.sourceforge.plantuml.command.CommandScaleWidthAndHeight {
-+CommandScaleWidthAndHeight() : CommandScaleWidthAndHeight [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#48]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#52]]]
-executeArg(AbstractPSystem;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#64]]]
-} 
-@enduml

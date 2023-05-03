@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Frontier" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.FrontierSimple"
-class net.sourceforge.plantuml.sequencediagram.graphic.FrontierSimple {
-+FrontierSimple(double) : FrontierSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#44]]]
-+getFreeY(ParticipantRange) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#48]]]
-+add(double;ParticipantRange) : FrontierSimple [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierSimple.java.html#53]]]
-} 
-@enduml

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.puma.FixedLink"
-class net.sourceforge.plantuml.sequencediagram.puma.FixedLink {
-+FixedLink(SegmentPosition;SegmentPosition) : FixedLink [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.html#43]]]
-+pushIfNeed() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/FixedLink.java.html#48]]]
-} 
-@enduml

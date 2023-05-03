@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java 235 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -111,9 +110,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.svg" }
 
 ] 
 , 

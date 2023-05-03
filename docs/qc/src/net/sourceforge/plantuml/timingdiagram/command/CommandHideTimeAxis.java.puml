@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis"
-class net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis {
-+CommandHideTimeAxis() : CommandHideTimeAxis [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#50]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#54]]]
-executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#65]]]
-} 
-@enduml

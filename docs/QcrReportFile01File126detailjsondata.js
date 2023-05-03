@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/arrows__c.java.html" 
  , "texte" : "File src/gen/lib/common/arrows__c.java 598 rule violations " 
- , "fic2"  : "./qc/src/gen/lib/common/arrows__c.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -210,9 +209,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/gen/lib/common/arrows__c.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/gen/lib/common/arrows__c.java.svg" }
+ "ligneplantuml" : "./qc/src/gen/lib/common/arrows__c.java.svg" }
 
 ] 
 , 

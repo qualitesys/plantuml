@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<TitledDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandSkin"
-class net.sourceforge.plantuml.sequencediagram.command.CommandSkin {
-+CommandSkin() : CommandSkin [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#51]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#55]]]
-executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandSkin.java.html#63]]]
-} 
-@enduml

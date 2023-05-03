@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java 47 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -165,9 +164,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawGroup.java.svg" }
 
 ] 
 , 

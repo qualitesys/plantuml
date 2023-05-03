@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<TitledDiagram>" <|-- "net.sourceforge.plantuml.style.CommandStyleImport"
-class net.sourceforge.plantuml.style.CommandStyleImport {
-+CommandStyleImport() : CommandStyleImport [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#55]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#59]]]
-executeArg(TitledDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#75]]]
-} 
-@enduml

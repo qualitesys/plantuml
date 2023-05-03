@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/EntityPort.java 13 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityPort.java.svg" }
 
 ] 
 , 

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.brotli.DictionaryData"
-class net.sourceforge.plantuml.brotli.DictionaryData {
--unpackDictionaryData(ByteBuffer;String;String;String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/brotli/DictionaryData.java.html#1]]]
-} 
-@enduml

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.graphic.GraphicalElement"
-class jcckit.graphic.GraphicalElement {
-+renderWith(Renderer) : void [[[./../../../.././qc/src/jcckit/graphic/GraphicalElement.java.html#40]]]
-} 
-@enduml

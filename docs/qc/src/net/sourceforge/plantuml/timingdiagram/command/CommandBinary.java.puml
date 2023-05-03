@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<TimingDiagram>" <|-- "net.sourceforge.plantuml.timingdiagram.command.CommandBinary"
-class net.sourceforge.plantuml.timingdiagram.command.CommandBinary {
-+CommandBinary() : CommandBinary [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandBinary.java.html#51]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandBinary.java.html#55]]]
-executeArg(TimingDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandBinary.java.html#77]]]
-} 
-@enduml

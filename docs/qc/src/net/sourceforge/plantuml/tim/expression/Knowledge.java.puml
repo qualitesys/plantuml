@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.tim.expression.Knowledge"
-class net.sourceforge.plantuml.tim.expression.Knowledge {
-+getVariable(String) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Knowledge.java.html#44]]]
-+getFunction(TFunctionSignature) : TFunction [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/expression/Knowledge.java.html#46]]]
-} 
-@enduml

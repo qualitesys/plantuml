@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"ScaleProtectedScale" <|-- "net.sourceforge.plantuml.ScaleWidth"
-class net.sourceforge.plantuml.ScaleWidth {
-+ScaleWidth(double) : ScaleWidth [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleWidth.java.html#42]]]
-+getScaleInternal(double;double) : double [[[./../../../../.././qc/src/net/sourceforge/plantuml/ScaleWidth.java.html#46]]]
-} 
-@enduml

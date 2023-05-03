@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<PSystemEbnf>" <|-- "net.sourceforge.plantuml.ebnf.CommandComment"
-class net.sourceforge.plantuml.ebnf.CommandComment {
-+CommandComment() : CommandComment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#53]]]
-executeArg(PSystemEbnf;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#65]]]
-} 
-@enduml

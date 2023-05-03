@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.cgraph.apply__c"
-class gen.lib.cgraph.apply__c {
-+subgraph_search(ST_Agraph_s;ST_Agobj_s) : ST_Agobj_s [[[./../../../../.././qc/src/gen/lib/cgraph/apply__c.java.html#79]]]
-+rec_apply(ST_Agraph_s;ST_Agobj_s;CFunction;__ptr__;CFunction;boolean) : void [[[./../../../../.././qc/src/gen/lib/cgraph/apply__c.java.html#156]]]
-+agapply(ST_Agraph_s;ST_Agobj_s;CFunction;__ptr__;boolean) : int [[[./../../../../.././qc/src/gen/lib/cgraph/apply__c.java.html#156]]]
-} 
-@enduml

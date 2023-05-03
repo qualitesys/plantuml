@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.dotgen.aspect__c"
-class gen.lib.dotgen.aspect__c {
-+rank3(Object...) : Object [[[./../../../../.././qc/src/gen/lib/dotgen/aspect__c.java.html#70]]]
-+setAspect(ST_Agraph_s;ST_aspect_t) : ST_aspect_t [[[./../../../../.././qc/src/gen/lib/dotgen/aspect__c.java.html#84]]]
-} 
-@enduml

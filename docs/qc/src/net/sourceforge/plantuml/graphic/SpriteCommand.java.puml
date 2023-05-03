@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"HtmlCommand" <|-- "net.sourceforge.plantuml.graphic.SpriteCommand"
-class net.sourceforge.plantuml.graphic.SpriteCommand {
-SpriteCommand(String) : SpriteCommand [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SpriteCommand.java.html#46]]]
-+getSprite() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/SpriteCommand.java.html#57]]]
-} 
-@enduml

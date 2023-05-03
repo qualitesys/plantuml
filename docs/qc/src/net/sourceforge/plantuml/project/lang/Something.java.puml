@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.project.lang.Something"
-class net.sourceforge.plantuml.project.lang.Something {
-+toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Something.java.html#45]]]
-+getMe(GanttDiagram;RegexResult;String) : Failable<?extendsObject> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Something.java.html#47]]]
-} 
-@enduml

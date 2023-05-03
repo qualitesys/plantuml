@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_Ppoly_t"
-class h.ST_Ppoly_t {
-+copy() : ST_Ppoly_t [[[./../../.././qc/src/h/ST_Ppoly_t.java.html#58]]]
-} 
-@enduml

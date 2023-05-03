@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedC" <|-- "smetana.core.CStarStar"
-class smetana.core.CStarStar {
--CStarStar(ACCESS<O>) : CStarStar [[[./../../../.././qc/src/smetana/core/CStarStar.java.html#47]]]
-+star() : O [[[./../../../.././qc/src/smetana/core/CStarStar.java.html#52]]]
-+star(O) : void [[[./../../../.././qc/src/smetana/core/CStarStar.java.html#56]]]
-} 
-@enduml

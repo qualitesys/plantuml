@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"StringCompressor" <|-- "net.sourceforge.plantuml.code.StringCompressorNone"
-class net.sourceforge.plantuml.code.StringCompressorNone {
-+compress(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#42]]]
-+decompress(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/StringCompressorNone.java.html#46]]]
-} 
-@enduml

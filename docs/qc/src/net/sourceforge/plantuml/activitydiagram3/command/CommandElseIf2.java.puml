@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<ActivityDiagram3>" <|-- "net.sourceforge.plantuml.activitydiagram3.command.CommandElseIf2"
-class net.sourceforge.plantuml.activitydiagram3.command.CommandElseIf2 {
-+CommandElseIf2() : CommandElseIf2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseIf2.java.html#57]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseIf2.java.html#61]]]
-executeArg(ActivityDiagram3;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseIf2.java.html#99]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/project/GanttConstraint.java 19 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -111,9 +110,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/GanttConstraint.java.svg" }
 
 ] 
 , 

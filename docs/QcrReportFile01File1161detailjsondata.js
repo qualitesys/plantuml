@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/dedication/DedicationSimple.java 15 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.svg" }
 
 ] 
 , 

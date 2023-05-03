@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.MapDataReader"
-class ext.plantuml.com.ctreber.acearth.MapDataReader {
-+readMapData() : Polygon[] [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#50]]]
--processCurve() : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#78]]]
--getValue(int) : int [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#104]]]
-} 
-@enduml

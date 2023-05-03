@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java 33 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.svg" }
 
 ] 
 , 

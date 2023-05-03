@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractCodeIterator" <|-- "net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile"
-class net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile {
-+CodeIteratorWhile(CodeIterator;TContext;TMemory;List<StringLocated>) : CodeIteratorWhile [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#56]]]
-+peek() : StringLocated [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#63]]]
--executeWhile(TMemory;StringLocated) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#110]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.core.DiagramDescription"
-class net.sourceforge.plantuml.core.DiagramDescription {
-+DiagramDescription(String) : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.html#42]]]
-+getDescription() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.html#46]]]
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/core/DiagramDescription.java.html#51]]]
-} 
-@enduml

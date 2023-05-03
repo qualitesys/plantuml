@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.Removeable"
-class net.sourceforge.plantuml.Removeable {
-+isRemoved() : boolean [[[./../../../../.././qc/src/net/sourceforge/plantuml/Removeable.java.html#40]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractElementTextElement" <|-- "net.sourceforge.plantuml.salt.element.ElementTextField"
-class net.sourceforge.plantuml.salt.element.ElementTextField {
-+ElementTextField(String;UFont;ISkinSimple) : ElementTextField [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTextField.java.html#48]]]
-+getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTextField.java.html#52]]]
-+drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/ElementTextField.java.html#57]]]
-} 
-@enduml

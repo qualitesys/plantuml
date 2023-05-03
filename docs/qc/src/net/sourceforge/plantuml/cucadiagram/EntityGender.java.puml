@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.cucadiagram.EntityGender"
-class net.sourceforge.plantuml.cucadiagram.EntityGender {
-+contains(IEntity) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/cucadiagram/EntityGender.java.html#39]]]
-} 
-@enduml

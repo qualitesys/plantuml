@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemSingleLineFactory" <|-- "net.sourceforge.plantuml.donors.PSystemSkinparameterListFactory"
-class net.sourceforge.plantuml.donors.PSystemSkinparameterListFactory {
-executeLine(UmlSource;String) : AbstractPSystem [[[./../../../../../.././qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterListFactory.java.html#45]]]
-} 
-@enduml

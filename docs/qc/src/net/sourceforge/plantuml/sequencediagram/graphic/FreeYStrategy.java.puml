@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategy"
-class net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategy {
-peekPosition(Event;ParticipantRange) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.html#42]]]
-addElement(Event;ParticipantRange;double) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategy.java.html#44]]]
-} 
-@enduml

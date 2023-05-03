@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/elk/proxy/Reflect.java 41 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -183,9 +182,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.svg" }
 
 ] 
 , 

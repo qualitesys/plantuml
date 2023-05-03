@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_pack_info"
-class h.ST_pack_info {
-} 
-@enduml

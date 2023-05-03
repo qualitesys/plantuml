@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"ElkObjectProxy" <|-- "net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding"
-class net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding {
-+ElkPadding(double;double;double;double) : ElkPadding [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.html#10]]]
-+getTrueObject() : Object [[[./../../../../../../../../.././qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.html#15]]]
-} 
-@enduml

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.hand.URectangleHand"
-class net.sourceforge.plantuml.ugraphic.hand.URectangleHand {
-+URectangleHand(URectangle;Random) : URectangleHand [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/URectangleHand.java.html#47]]]
-+getHanddrawn() : Shadowable [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/hand/URectangleHand.java.html#76]]]
-} 
-@enduml

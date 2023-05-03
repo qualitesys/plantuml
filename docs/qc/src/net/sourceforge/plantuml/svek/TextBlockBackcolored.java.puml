@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"TextBlock" <|-- "net.sourceforge.plantuml.svek.TextBlockBackcolored"
-class net.sourceforge.plantuml.svek.TextBlockBackcolored {
-getBackcolor() : HColor [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/TextBlockBackcolored.java.html#43]]]
-} 
-@enduml

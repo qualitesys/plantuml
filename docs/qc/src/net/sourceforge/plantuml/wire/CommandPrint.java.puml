@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<WireDiagram>" <|-- "net.sourceforge.plantuml.wire.CommandPrint"
-class net.sourceforge.plantuml.wire.CommandPrint {
-+CommandPrint() : CommandPrint [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#48]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#52]]]
-executeArg(WireDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/wire/CommandPrint.java.html#71]]]
-} 
-@enduml

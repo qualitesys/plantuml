@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_gvlayout_engine_s"
-class h.ST_gvlayout_engine_s {
-} 
-@enduml

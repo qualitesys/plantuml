@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2Tokens.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2Tokens.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2Tokens.java.xml" 
  , "fic3"  : "" 
 }
 , 

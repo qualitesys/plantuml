@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java 253 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -120,9 +119,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/Version.java.svg" }
 
 ] 
 , 

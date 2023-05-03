@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_RTree"
-class h.ST_RTree {
-} 
-@enduml

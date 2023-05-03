@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java 16 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -201,9 +200,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.svg" }
 
 ] 
 , 

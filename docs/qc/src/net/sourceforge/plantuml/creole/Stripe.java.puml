@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.creole.Stripe"
-class net.sourceforge.plantuml.creole.Stripe {
-+getLHeader() : Atom [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Stripe.java.html#44]]]
-+getAtoms() : List<Atom> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Stripe.java.html#46]]]
-} 
-@enduml

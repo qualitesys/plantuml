@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityOther"
-class net.sourceforge.plantuml.svek.extremity.ExtremityOther {
-+ExtremityOther(UPolygon) : ExtremityOther [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityOther.java.html#46]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityOther.java.html#50]]]
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityOther.java.html#56]]]
-} 
-@enduml

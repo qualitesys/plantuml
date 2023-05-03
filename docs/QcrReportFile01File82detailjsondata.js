@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java 39 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataMask.java.svg" }
 
 ] 
 , 

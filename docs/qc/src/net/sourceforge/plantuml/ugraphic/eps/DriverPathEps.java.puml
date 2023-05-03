@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UPath,EpsGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.eps.DriverPathEps"
-class net.sourceforge.plantuml.ugraphic.eps.DriverPathEps {
-+draw(UPath;double;double;ColorMapper;UParam;EpsGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/eps/DriverPathEps.java.html#45]]]
-} 
-@enduml

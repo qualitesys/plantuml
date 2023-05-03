@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.creole.Stencil"
-class net.sourceforge.plantuml.creole.Stencil {
-+getStartingX(StringBounder;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Stencil.java.html#42]]]
-+getEndingX(StringBounder;double) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/Stencil.java.html#44]]]
-} 
-@enduml

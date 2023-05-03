@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/code/deflate/Decompressor.java 127 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/code/deflate/Decompressor.java.svg" }
 
 ] 
 , 

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UImage,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d"
-class net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d {
-+DriverImageG2d(double;EnsureVisible) : DriverImageG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#53]]]
-+draw(UImage;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverImageG2d.java.html#58]]]
-} 
-@enduml

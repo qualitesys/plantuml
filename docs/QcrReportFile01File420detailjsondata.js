@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/Run.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/Run.java 176 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/Run.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -210,9 +209,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/Run.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/Run.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/Run.java.svg" }
 
 ] 
 , 

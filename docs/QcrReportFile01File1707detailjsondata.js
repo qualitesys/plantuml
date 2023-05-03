@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java 57 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -156,9 +155,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/draw/TimeHeaderDaily.java.svg" }
 
 ] 
 , 

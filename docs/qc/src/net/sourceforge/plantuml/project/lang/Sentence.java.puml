@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.project.lang.Sentence"
-class net.sourceforge.plantuml.project.lang.Sentence {
-+toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Sentence.java.html#45]]]
-+execute(GanttDiagram;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Sentence.java.html#47]]]
-} 
-@enduml

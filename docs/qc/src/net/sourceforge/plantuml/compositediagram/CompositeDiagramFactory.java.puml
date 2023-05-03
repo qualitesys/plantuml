@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.compositediagram.CompositeDiagramFactory"
-class net.sourceforge.plantuml.compositediagram.CompositeDiagramFactory {
-+CompositeDiagramFactory(ISkinSimple) : CompositeDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#56]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#61]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : CompositeDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagramFactory.java.html#73]]]
-} 
-@enduml

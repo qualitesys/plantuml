@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PlainStringsDiagram" <|-- "net.sourceforge.plantuml.eggs.PSystemAppleTwo"
-class net.sourceforge.plantuml.eggs.PSystemAppleTwo {
-+PSystemAppleTwo(UmlSource) : PSystemAppleTwo [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.html#48]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemAppleTwo.java.html#57]]]
-} 
-@enduml

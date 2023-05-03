@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/UnsupportedC.java.html" 
  , "texte" : "File src/smetana/core/UnsupportedC.java 3 rule violations " 
- , "fic2"  : "./qc/src/smetana/core/UnsupportedC.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/smetana/core/UnsupportedC.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/smetana/core/UnsupportedC.java.svg" }
+ "ligneplantuml" : "./qc/src/smetana/core/UnsupportedC.java.svg" }
 
 ] 
 , 

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked"
-class net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked {
-+CommandHideUnlinked() : CommandHideUnlinked [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#53]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#62]]]
-} 
-@enduml

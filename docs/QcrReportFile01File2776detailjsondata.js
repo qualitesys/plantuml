@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/wire/WLinkHorizontal.java 98 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -84,9 +83,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.svg" }
 
 ] 
 , 

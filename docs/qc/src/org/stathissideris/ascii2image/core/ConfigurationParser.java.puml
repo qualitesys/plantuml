@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "org.stathissideris.ascii2image.core.ConfigurationParser"
-class org.stathissideris.ascii2image.core.ConfigurationParser {
-+getShapeDefinitions() : Collection<CustomShapeDefinition> [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html#40]]]
-+getShapeDefinitionsHash() : HashMap<String,CustomShapeDefinition> [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html#44]]]
-} 
-@enduml

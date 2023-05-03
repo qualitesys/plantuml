@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis"
-class net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis {
-+ExtremityParenthesis(XPoint2D;double) : ExtremityParenthesis [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis.java.html#52]]]
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis.java.html#58]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis.java.html#63]]]
-} 
-@enduml

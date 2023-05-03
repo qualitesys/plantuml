@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"Renderer" <|-- "jcckit.graphic.TextRenderer"
-class jcckit.graphic.TextRenderer {
-+render(Text) : void [[[./../../../.././qc/src/jcckit/graphic/TextRenderer.java.html#29]]]
-} 
-@enduml

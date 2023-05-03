@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_xlabel_t"
-class h.ST_xlabel_t {
-} 
-@enduml

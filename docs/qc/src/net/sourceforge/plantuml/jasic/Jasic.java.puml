@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.jasic.Jasic"
-class net.sourceforge.plantuml.jasic.Jasic {
--tokenize(String) : List<Token> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1]]]
-+Jasic() : Jasic [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1]]]
-+interpret(String) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1]]]
-} 
-@enduml

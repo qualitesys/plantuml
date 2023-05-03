@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.png.PngTitler"
-class net.sourceforge.plantuml.png.PngTitler {
-+PngTitler(DisplaySection;Style;HColorSet;ISkinSimple) : PngTitler [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngTitler.java.html#55]]]
-+getTextDimension(StringBounder) : XDimension2D [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngTitler.java.html#63]]]
-+getRibbonBlock() : TextBlock [[[./../../../../../.././qc/src/net/sourceforge/plantuml/png/PngTitler.java.html#71]]]
-} 
-@enduml

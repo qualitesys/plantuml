@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/Writer.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/Writer.java 0 rule violation " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/Writer.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/Writer.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/Writer.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/Writer.java.svg" }
 
 ] 
 , 

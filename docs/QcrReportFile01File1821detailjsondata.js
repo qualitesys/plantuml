@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java 28 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -66,9 +65,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementRadioCheckbox.java.svg" }
 
 ] 
 , 

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkHat.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/LinkHat.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkHat.java.xml" 
  , "fic3"  : "" 
 }
 , 

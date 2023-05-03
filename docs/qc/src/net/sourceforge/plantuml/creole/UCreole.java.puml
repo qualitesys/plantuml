@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UShape" <|-- "net.sourceforge.plantuml.creole.UCreole"
-class net.sourceforge.plantuml.creole.UCreole {
-} 
-@enduml

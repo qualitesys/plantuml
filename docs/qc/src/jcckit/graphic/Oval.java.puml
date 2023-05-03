@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"Rectangle" <|-- "jcckit.graphic.Oval"
-class jcckit.graphic.Oval {
-+Oval(GraphPoint;double;double;GraphicAttributes) : Oval [[[./../../../.././qc/src/jcckit/graphic/Oval.java.html#34]]]
-+renderWith(Renderer) : void [[[./../../../.././qc/src/jcckit/graphic/Oval.java.html#45]]]
-} 
-@enduml

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"Styleable" <|-- "net.sourceforge.plantuml.style.WithStyle"
-class net.sourceforge.plantuml.style.WithStyle {
-+getUsedStyles() : Style[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/style/WithStyle.java.html#40]]]
-} 
-@enduml

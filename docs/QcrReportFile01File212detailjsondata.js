@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_PartitionVars.java.html" 
  , "texte" : "File src/h/ST_PartitionVars.java 0 rule violation " 
- , "fic2"  : "./qc/src/h/ST_PartitionVars.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -22,9 +21,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_PartitionVars.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/h/ST_PartitionVars.java.svg" }
+ "ligneplantuml" : "./qc/src/h/ST_PartitionVars.java.svg" }
 
 ] 
 , 

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/project/lang/ComplementDates.java 56 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDates.java.svg" }
 
 ] 
 , 

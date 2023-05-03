@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"RuntimeException" <|-- "net.sourceforge.plantuml.argon2.exception.Argon2Exception"
-class net.sourceforge.plantuml.argon2.exception.Argon2Exception {
-Argon2Exception(String) : Argon2Exception [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/argon2/exception/Argon2Exception.java.html#13]]]
-} 
-@enduml

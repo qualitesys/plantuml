@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "gen.lib.dotgen.sameport__c"
-class gen.lib.dotgen.sameport__c {
-+dot_sameports(ST_Agraph_s) : void [[[./../../../../.././qc/src/gen/lib/dotgen/sameport__c.java.html#71]]]
-} 
-@enduml

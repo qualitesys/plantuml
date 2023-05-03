@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Hideable" <|-- "net.sourceforge.plantuml.svek.IEntityImage"
-class net.sourceforge.plantuml.svek.IEntityImage {
-+getShapeType() : ShapeType [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/IEntityImage.java.html#47]]]
-+getShield(StringBounder) : Margins [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/IEntityImage.java.html#49]]]
-+getOverscanX(StringBounder) : double [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/IEntityImage.java.html#51]]]
-} 
-@enduml

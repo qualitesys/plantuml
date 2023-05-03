@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"CommandParticipant" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA2"
-class net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA2 {
-+CommandParticipantA2() : CommandParticipantA2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantA2.java.html#46]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandParticipantA2.java.html#50]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -120,9 +119,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Tile.java.svg" }
 
 ] 
 , 

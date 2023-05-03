@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -30,9 +29,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.svg" }
 
 ] 
 , 

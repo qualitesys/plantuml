@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UText,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverTextG2d"
-class net.sourceforge.plantuml.ugraphic.g2d.DriverTextG2d {
-+DriverTextG2d(EnsureVisible;StringBounder) : DriverTextG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextG2d.java.html#70]]]
-+draw(UText;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextG2d.java.html#75]]]
--printSingleText(Graphics2D;FontConfiguration;String;double;double;ColorMapper) : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverTextG2d.java.html#92]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2"
-class net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2 {
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#54]]]
-+ExtremityStateLine2(double;XPoint2D) : ExtremityStateLine2 [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#58]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#73]]]
-} 
-@enduml

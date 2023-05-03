@@ -44,7 +44,7 @@ function genererBloc00() {
       leEntry.push('Files')
       lsStr+='<h3><a name="files">Files</a></h3><br />';
       lsStr+='<a href="'+calculerUrl('link',maDataBlocs.data00.fic1)+'">'+maDataBlocs.data00.texte+'</a>';
-      lsStr+='<br /><a href="'+calculerUrl('link',maDataBlocs.data00.fic2)+'">'+'Link to XML File 0kb'+'</a>';
+      lsStr+='<br />';
       lsStr+='';
       var theDivBloc00 = document.getElementById("theDivBloc00");  
 
@@ -134,7 +134,7 @@ function genererBloc03() {
    if (typeof(maDataBlocs)!='undefined'&& typeof(maDataBlocs.data03)!='undefined' && maDataBlocs.data03.length>0) {
       if (paramProjectKey!=null) {
 
-         lsStr+='<img src="'+maDataBlocs.data03[0].ligneplantuml+'b64'+'" alt = "Hardcopy image">';
+         lsStr+='<img src="'+maDataBlocs.data03[0].ligne+'b64'+'" alt = "Hardcopy image">';
 
       } else {
 

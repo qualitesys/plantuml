@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.MapData"
-class ext.plantuml.com.ctreber.acearth.MapData {
-+MapData() : MapData [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/MapData.java.html#71]]]
--add(String) : void [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/MapData.java.html#6825]]]
-+getLines() : List [[[./../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/MapData.java.html#6829]]]
-} 
-@enduml

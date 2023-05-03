@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.api.PlantumlUtils"
-class net.sourceforge.plantuml.api.PlantumlUtils {
-+hasCMapData(String) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/api/PlantumlUtils.java.html#46]]]
-} 
-@enduml

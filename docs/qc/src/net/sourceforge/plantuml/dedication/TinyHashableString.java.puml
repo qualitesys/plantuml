@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.dedication.TinyHashableString"
-class net.sourceforge.plantuml.dedication.TinyHashableString {
-+TinyHashableString(String) : TinyHashableString [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#45]]]
-+getSentence() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#49]]]
-+tinyHash() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#53]]]
-} 
-@enduml

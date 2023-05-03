@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.vizjs.VizJsEngine"
-class net.sourceforge.plantuml.vizjs.VizJsEngine {
-+isOk() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#43]]]
-+VizJsEngine() : VizJsEngine [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#55]]]
-+execute(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#63]]]
-} 
-@enduml

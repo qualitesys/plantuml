@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "org.stathissideris.ascii2image.core.DocBookConverter"
-class org.stathissideris.ascii2image.core.DocBookConverter {
-+list() : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#59]]]
-+main(String[]) : void [[[./../../../../../.././qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html#67]]]
-} 
-@enduml

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"GtileWithMarginGtile" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithOutgoingArrow"
-class net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithOutgoingArrow {
-+GtileWithOutgoingArrow(AbstractGtileRoot;double) : GtileWithOutgoingArrow [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithOutgoingArrow.java.html#46]]]
-+getInnerConnections() : Collection<GConnection> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithOutgoingArrow.java.html#54]]]
-} 
-@enduml

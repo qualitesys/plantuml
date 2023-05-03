@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"FontChange" <|-- "net.sourceforge.plantuml.graphic.RemoveStyle"
-class net.sourceforge.plantuml.graphic.RemoveStyle {
-RemoveStyle(FontStyle) : RemoveStyle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#42]]]
-+apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/RemoveStyle.java.html#46]]]
-} 
-@enduml

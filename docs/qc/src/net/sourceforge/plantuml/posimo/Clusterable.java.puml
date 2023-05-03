@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"Positionable" <|-- "net.sourceforge.plantuml.posimo.Clusterable"
-class net.sourceforge.plantuml.posimo.Clusterable {
-+getParent() : Cluster [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/Clusterable.java.html#40]]]
-} 
-@enduml

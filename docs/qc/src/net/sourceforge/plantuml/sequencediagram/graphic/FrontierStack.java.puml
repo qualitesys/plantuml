@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Frontier" <|-- "net.sourceforge.plantuml.sequencediagram.graphic.FrontierStack"
-class net.sourceforge.plantuml.sequencediagram.graphic.FrontierStack {
-openBar() : FrontierStack [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStack.java.html#40]]]
-restore() : FrontierStack [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStack.java.html#42]]]
-closeBar() : FrontierStack [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStack.java.html#44]]]
-} 
-@enduml

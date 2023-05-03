@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/factory/ScrollStrategy.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/salt/factory/ScrollStrategy.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/factory/ScrollStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 

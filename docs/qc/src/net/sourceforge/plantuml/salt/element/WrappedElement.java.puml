@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Element" <|-- "net.sourceforge.plantuml.salt.element.WrappedElement"
-class net.sourceforge.plantuml.salt.element.WrappedElement {
-+WrappedElement(Element) : WrappedElement [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#46]]]
-+getPreferredDimension(StringBounder;double;double) : XDimension2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#50]]]
-+drawU(UGraphic;int;XDimension2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/element/WrappedElement.java.html#54]]]
-} 
-@enduml

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_textlabel_t"
-class h.ST_textlabel_t {
-+toString() : String [[[./../../.././qc/src/h/ST_textlabel_t.java.html#74]]]
-+isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_textlabel_t.java.html#79]]]
-} 
-@enduml

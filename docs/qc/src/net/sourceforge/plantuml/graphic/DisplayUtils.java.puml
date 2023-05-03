@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.graphic.DisplayUtils"
-class net.sourceforge.plantuml.graphic.DisplayUtils {
--breakLines(Display;FontConfiguration;SpriteContainer;double) : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/DisplayUtils.java.html#43]]]
-} 
-@enduml

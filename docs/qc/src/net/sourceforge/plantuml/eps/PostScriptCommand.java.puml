@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.eps.PostScriptCommand"
-class net.sourceforge.plantuml.eps.PostScriptCommand {
-toPostString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eps/PostScriptCommand.java.html#40]]]
-} 
-@enduml

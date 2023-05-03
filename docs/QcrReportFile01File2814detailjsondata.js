@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/core/ConfigurationParser.java 0 rule violation " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.svg" }
+ "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/core/ConfigurationParser.java.svg" }
 
 ] 
 , 

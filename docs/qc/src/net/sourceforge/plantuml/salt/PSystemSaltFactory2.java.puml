@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.salt.PSystemSaltFactory2"
-class net.sourceforge.plantuml.salt.PSystemSaltFactory2 {
-+PSystemSaltFactory2(DiagramType) : PSystemSaltFactory2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#50]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#55]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : PSystemSalt [[[./../../../../../.././qc/src/net/sourceforge/plantuml/salt/PSystemSaltFactory2.java.html#69]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.html" 
  , "texte" : "File src/ext/plantuml/com/google/zxing/common/BitSource.java 19 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -48,9 +47,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/google/zxing/common/BitSource.java.svg" }
 
 ] 
 , 

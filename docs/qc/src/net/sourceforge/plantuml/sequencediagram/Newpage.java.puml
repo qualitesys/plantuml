@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractEventEvent" <|-- "net.sourceforge.plantuml.sequencediagram.Newpage"
-class net.sourceforge.plantuml.sequencediagram.Newpage {
-+Newpage(Display) : Newpage [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#44]]]
-+getTitle() : Display [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#48]]]
-+dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/Newpage.java.html#52]]]
-} 
-@enduml

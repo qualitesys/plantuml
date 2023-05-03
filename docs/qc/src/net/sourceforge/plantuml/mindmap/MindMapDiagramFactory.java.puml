@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemCommandFactory" <|-- "net.sourceforge.plantuml.mindmap.MindMapDiagramFactory"
-class net.sourceforge.plantuml.mindmap.MindMapDiagramFactory {
-+MindMapDiagramFactory() : MindMapDiagramFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagramFactory.java.html#51]]]
-createCommands() : List<Command> [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagramFactory.java.html#56]]]
-+createEmptyDiagram(UmlSource;Map<String,String>) : MindMapDiagram [[[./../../../../../.././qc/src/net/sourceforge/plantuml/mindmap/MindMapDiagramFactory.java.html#72]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java 8 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -84,9 +83,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.svg" }
 
 ] 
 , 

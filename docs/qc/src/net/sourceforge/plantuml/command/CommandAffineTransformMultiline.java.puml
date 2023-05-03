@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"CommandMultilines<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandAffineTransformMultiline"
-class net.sourceforge.plantuml.command.CommandAffineTransformMultiline {
-+CommandAffineTransformMultiline() : CommandAffineTransformMultiline [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#42]]]
-+getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#47]]]
-+execute(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandAffineTransformMultiline.java.html#51]]]
-} 
-@enduml

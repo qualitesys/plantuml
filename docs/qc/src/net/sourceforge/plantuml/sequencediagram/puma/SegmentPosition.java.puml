@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.puma.SegmentPosition"
-class net.sourceforge.plantuml.sequencediagram.puma.SegmentPosition {
-+SegmentPosition(PSegment;double) : SegmentPosition [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/SegmentPosition.java.html#43]]]
-+getPosition() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/SegmentPosition.java.html#48]]]
-+getSegment() : PSegment [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/puma/SegmentPosition.java.html#52]]]
-} 
-@enduml

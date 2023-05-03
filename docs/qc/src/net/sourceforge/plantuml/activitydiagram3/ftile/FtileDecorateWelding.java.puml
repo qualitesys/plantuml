@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileDecorate" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileDecorateWelding"
-class net.sourceforge.plantuml.activitydiagram3.ftile.FtileDecorateWelding {
-+FtileDecorateWelding(Ftile;List<WeldingPoint>) : FtileDecorateWelding [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.html#48]]]
-+getWeldingPoints() : List<WeldingPoint> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileDecorateWelding.java.html#54]]]
-} 
-@enduml

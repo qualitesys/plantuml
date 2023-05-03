@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/OFFSET.java.html" 
  , "texte" : "File src/smetana/core/OFFSET.java 12 rule violations " 
- , "fic2"  : "./qc/src/smetana/core/OFFSET.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -93,9 +92,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/smetana/core/OFFSET.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/smetana/core/OFFSET.java.svg" }
+ "ligneplantuml" : "./qc/src/smetana/core/OFFSET.java.svg" }
 
 ] 
 , 

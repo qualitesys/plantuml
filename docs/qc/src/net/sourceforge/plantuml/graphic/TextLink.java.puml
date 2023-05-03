@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"HtmlCommand" <|-- "net.sourceforge.plantuml.graphic.TextLink"
-class net.sourceforge.plantuml.graphic.TextLink {
-TextLink(Url) : TextLink [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextLink.java.html#46]]]
-+getText() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextLink.java.html#50]]]
-+getUrl() : Url [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/TextLink.java.html#54]]]
-} 
-@enduml

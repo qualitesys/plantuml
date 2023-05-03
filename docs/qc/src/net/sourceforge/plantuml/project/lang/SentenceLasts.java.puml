@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SentenceSimple" <|-- "net.sourceforge.plantuml.project.lang.SentenceLasts"
-class net.sourceforge.plantuml.project.lang.SentenceLasts {
-+SentenceLasts() : SentenceLasts [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceLasts.java.html#45]]]
-+execute(GanttDiagram;Object;Object) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceLasts.java.html#50]]]
-} 
-@enduml

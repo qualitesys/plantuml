@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java 3 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/CTSort.java.svg" }
 
 ] 
 , 

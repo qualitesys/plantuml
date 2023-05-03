@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.utils.CharsetUtils"
-class net.sourceforge.plantuml.utils.CharsetUtils {
-+charsetOrDefault(String) : Charset [[[./../../../../../.././qc/src/net/sourceforge/plantuml/utils/CharsetUtils.java.html#9]]]
-} 
-@enduml

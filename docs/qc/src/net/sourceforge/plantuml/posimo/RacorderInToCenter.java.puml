@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"RacorderAbstractRacorder" <|-- "net.sourceforge.plantuml.posimo.RacorderInToCenter"
-class net.sourceforge.plantuml.posimo.RacorderInToCenter {
-+getRacordIn(XRectangle2D;XLine2D) : DotPath [[[./../../../../../.././qc/src/net/sourceforge/plantuml/posimo/RacorderInToCenter.java.html#46]]]
-} 
-@enduml

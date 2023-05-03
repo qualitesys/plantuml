@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.DecodeHintType"
-class ext.plantuml.com.google.zxing.DecodeHintType {
--DecodeHintType() : DecodeHintType [[[./../../../../../../.././qc/src/ext/plantuml/com/google/zxing/DecodeHintType.java.html#76]]]
-} 
-@enduml

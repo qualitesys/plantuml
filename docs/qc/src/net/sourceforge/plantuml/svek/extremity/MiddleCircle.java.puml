@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.MiddleCircle"
-class net.sourceforge.plantuml.svek.extremity.MiddleCircle {
-+MiddleCircle(HColor) : MiddleCircle [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircle.java.html#51]]]
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircle.java.html#57]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircle.java.html#62]]]
-} 
-@enduml

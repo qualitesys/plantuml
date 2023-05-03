@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 898 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -1416,9 +1415,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.svg" }
+ "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.svg" }
 
 ] 
 , 

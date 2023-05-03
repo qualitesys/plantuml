@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Extremity" <|-- "net.sourceforge.plantuml.svek.extremity.ExtremityCircleConnect"
-class net.sourceforge.plantuml.svek.extremity.ExtremityCircleConnect {
-+somePoint() : XPoint2D [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleConnect.java.html#56]]]
-+ExtremityCircleConnect(XPoint2D;double;HColor) : ExtremityCircleConnect [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleConnect.java.html#60]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityCircleConnect.java.html#68]]]
-} 
-@enduml

@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_PartitionVars"
-class h.ST_PartitionVars {
-} 
-@enduml

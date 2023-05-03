@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java 47 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseReference.java.svg" }
 
 ] 
 , 

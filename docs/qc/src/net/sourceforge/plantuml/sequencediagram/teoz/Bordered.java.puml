@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.Bordered"
-class net.sourceforge.plantuml.sequencediagram.teoz.Bordered {
-+getBorder1() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Bordered.java.html#40]]]
-+getBorder2() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Bordered.java.html#42]]]
-} 
-@enduml

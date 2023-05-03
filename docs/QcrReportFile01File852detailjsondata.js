@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/brotli/Huffman.java 42 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/brotli/Huffman.java.svg" }
 
 ] 
 , 

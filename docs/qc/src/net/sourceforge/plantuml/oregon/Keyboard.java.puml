@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.oregon.Keyboard"
-class net.sourceforge.plantuml.oregon.Keyboard {
-input() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/Keyboard.java.html#39]]]
-hasMore() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/oregon/Keyboard.java.html#40]]]
-} 
-@enduml

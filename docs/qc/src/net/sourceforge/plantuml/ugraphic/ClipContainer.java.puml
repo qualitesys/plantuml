@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.ugraphic.ClipContainer"
-class net.sourceforge.plantuml.ugraphic.ClipContainer {
-+getClip() : UClip [[[./../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/ClipContainer.java.html#38]]]
-} 
-@enduml

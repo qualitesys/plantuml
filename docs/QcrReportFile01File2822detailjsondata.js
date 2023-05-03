@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java 139 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.svg" }
+ "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.svg" }
 
 ] 
 , 

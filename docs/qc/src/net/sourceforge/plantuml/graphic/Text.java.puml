@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"HtmlCommand" <|-- "net.sourceforge.plantuml.graphic.Text"
-class net.sourceforge.plantuml.graphic.Text {
-Text(String) : Text [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Text.java.html#46]]]
-+getText() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Text.java.html#56]]]
-+isNewline() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/Text.java.html#61]]]
-} 
-@enduml

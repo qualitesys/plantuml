@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/Display.java 193 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -507,9 +506,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.svg" }
 
 ] 
 , 

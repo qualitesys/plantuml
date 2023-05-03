@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.svek.ClusterDecoration"
-class net.sourceforge.plantuml.svek.ClusterDecoration {
-+ClusterDecoration(PackageStyle;USymbol;TextBlock;TextBlock;ClusterPosition;UStroke) : ClusterDecoration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#56]]]
--guess(USymbol;PackageStyle) : USymbol [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#65]]]
-+drawU(UGraphic;HColor;HColor;double;double;HorizontalAlignment;HorizontalAlignment;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/ClusterDecoration.java.html#72]]]
-} 
-@enduml

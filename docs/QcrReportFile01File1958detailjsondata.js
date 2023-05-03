@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSet.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSet.java 118 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSet.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -390,9 +389,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSet.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSet.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSet.java.svg" }
 
 ] 
 , 

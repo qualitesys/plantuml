@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/graphic/UDrawableUtils.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/graphic/UDrawableUtils.java 2 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/graphic/UDrawableUtils.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -30,9 +29,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/graphic/UDrawableUtils.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/UDrawableUtils.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/graphic/UDrawableUtils.java.svg" }
 
 ] 
 , 

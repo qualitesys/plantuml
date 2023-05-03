@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html" 
  , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java 37 rule violations " 
- , "fic2"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.svg" }
+ "ligneplantuml" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.svg" }
 
 ] 
 , 

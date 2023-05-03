@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<DotPath,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverDotPathG2d"
-class net.sourceforge.plantuml.ugraphic.g2d.DriverDotPathG2d {
-+DriverDotPathG2d(EnsureVisible) : DriverDotPathG2d [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverDotPathG2d.java.html#50]]]
-+draw(DotPath;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverDotPathG2d.java.html#54]]]
-} 
-@enduml

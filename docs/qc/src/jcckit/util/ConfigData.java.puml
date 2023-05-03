@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.util.ConfigData"
-class jcckit.util.ConfigData {
-+getFullKey(String) : String [[[./../../../.././qc/src/jcckit/util/ConfigData.java.html#38]]]
-+get(String) : String [[[./../../../.././qc/src/jcckit/util/ConfigData.java.html#46]]]
-+getNode(String) : ConfigData [[[./../../../.././qc/src/jcckit/util/ConfigData.java.html#54]]]
-} 
-@enduml

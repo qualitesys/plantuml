@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"StringCompressor" <|-- "net.sourceforge.plantuml.code.ArobaseStringCompressor2"
-class net.sourceforge.plantuml.code.ArobaseStringCompressor2 {
-+compress(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor2.java.html#42]]]
-+decompress(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor2.java.html#46]]]
--clean2(String) : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor2.java.html#50]]]
-} 
-@enduml

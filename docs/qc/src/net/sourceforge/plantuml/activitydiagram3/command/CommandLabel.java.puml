@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<ActivityDiagram3>" <|-- "net.sourceforge.plantuml.activitydiagram3.command.CommandLabel"
-class net.sourceforge.plantuml.activitydiagram3.command.CommandLabel {
-+CommandLabel() : CommandLabel [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandLabel.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandLabel.java.html#53]]]
-executeArg(ActivityDiagram3;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandLabel.java.html#63]]]
-} 
-@enduml

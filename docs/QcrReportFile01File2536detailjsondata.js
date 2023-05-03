@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java 131 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -336,9 +335,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.svg" }
 
 ] 
 , 

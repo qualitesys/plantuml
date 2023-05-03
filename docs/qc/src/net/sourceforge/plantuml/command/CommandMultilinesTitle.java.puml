@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"CommandMultilines<TitledDiagram>" <|-- "net.sourceforge.plantuml.command.CommandMultilinesTitle"
-class net.sourceforge.plantuml.command.CommandMultilinesTitle {
-+CommandMultilinesTitle() : CommandMultilinesTitle [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#47]]]
-+getPatternEnd() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#52]]]
-+execute(TitledDiagram;BlocLines) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/command/CommandMultilinesTitle.java.html#56]]]
-} 
-@enduml

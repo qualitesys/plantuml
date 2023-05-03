@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.ctreber.acearth.renderer.RowTypeRenderer"
-class ext.plantuml.com.ctreber.acearth.renderer.RowTypeRenderer {
-+startNewRun() : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRenderer.java.html#15]]]
-+getPixelTypes(int;int[]) : void [[[./../../../../../../../.././qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRenderer.java.html#25]]]
-} 
-@enduml

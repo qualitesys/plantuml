@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java 71 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -120,9 +119,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/ColorUtils.java.svg" }
 
 ] 
 , 

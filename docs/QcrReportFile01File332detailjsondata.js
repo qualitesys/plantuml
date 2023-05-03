@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html" 
  , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 83 rule violations " 
- , "fic2"  : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.svg" }
 
 ] 
 , 

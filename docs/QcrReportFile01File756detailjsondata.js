@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java 9 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -57,9 +56,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextDelay.java.svg" }
 
 ] 
 , 

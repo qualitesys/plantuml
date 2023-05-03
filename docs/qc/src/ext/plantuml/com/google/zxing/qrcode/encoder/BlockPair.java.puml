@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "ext.plantuml.com.google.zxing.qrcode.encoder.BlockPair"
-class ext.plantuml.com.google.zxing.qrcode.encoder.BlockPair {
-BlockPair(byte[];byte[]) : BlockPair [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java.html#24]]]
-+getDataBytes() : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java.html#29]]]
-+getErrorCorrectionBytes() : byte[] [[[./../../../../../../../../.././qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/BlockPair.java.html#33]]]
-} 
-@enduml

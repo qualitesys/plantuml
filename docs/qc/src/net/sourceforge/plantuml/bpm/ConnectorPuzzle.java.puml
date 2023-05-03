@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Placeable" <|-- "net.sourceforge.plantuml.bpm.ConnectorPuzzle"
-class net.sourceforge.plantuml.bpm.ConnectorPuzzle {
-+append(Where) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzle.java.html#58]]]
-+remove(Where) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzle.java.html#60]]]
-+have(Where) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzle.java.html#62]]]
-} 
-@enduml

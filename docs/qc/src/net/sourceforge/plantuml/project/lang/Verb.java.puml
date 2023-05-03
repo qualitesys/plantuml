@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.project.lang.Verb"
-class net.sourceforge.plantuml.project.lang.Verb {
-+toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/Verb.java.html#42]]]
-} 
-@enduml

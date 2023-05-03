@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<NwDiagram>" <|-- "net.sourceforge.plantuml.nwdiag.CommandComment"
-class net.sourceforge.plantuml.nwdiag.CommandComment {
-+CommandComment() : CommandComment [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandComment.java.html#48]]]
-getRegexConcat() : IRegex [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandComment.java.html#52]]]
-executeArg(NwDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/nwdiag/CommandComment.java.html#62]]]
-} 
-@enduml

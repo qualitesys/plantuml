@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/project/core/TaskInstant.java 18 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -120,9 +119,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/project/core/TaskInstant.java.svg" }
 
 ] 
 , 

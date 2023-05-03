@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java 213 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -336,9 +335,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HUSLColorConverter.java.svg" }
 
 ] 
 , 

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.code.Compression"
-class net.sourceforge.plantuml.code.Compression {
-compress(byte[]) : byte[] [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Compression.java.html#45]]]
-decompress(byte[]) : ByteArray [[[./../../../../../.././qc/src/net/sourceforge/plantuml/code/Compression.java.html#53]]]
-} 
-@enduml

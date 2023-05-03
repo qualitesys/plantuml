@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractPSystem" <|-- "net.sourceforge.plantuml.directdot.PSystemDot"
-class net.sourceforge.plantuml.directdot.PSystemDot {
-+PSystemDot(UmlSource;String) : PSystemDot [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDot.java.html#63]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDot.java.html#68]]]
-exportDiagramNow(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/directdot/PSystemDot.java.html#73]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ForkStyle.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ForkStyle.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ForkStyle.java.xml" 
  , "fic3"  : "" 
 }
 , 

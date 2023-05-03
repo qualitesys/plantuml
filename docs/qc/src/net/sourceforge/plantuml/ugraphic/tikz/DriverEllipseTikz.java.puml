@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UEllipse,TikzGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz"
-class net.sourceforge.plantuml.ugraphic.tikz.DriverEllipseTikz {
-+draw(UEllipse;double;double;ColorMapper;UParam;TikzGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/tikz/DriverEllipseTikz.java.html#45]]]
-} 
-@enduml

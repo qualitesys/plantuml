@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java 25 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -138,9 +137,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.svg" }
+ "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/graphics/CustomShapeDefinition.java.svg" }
 
 ] 
 , 

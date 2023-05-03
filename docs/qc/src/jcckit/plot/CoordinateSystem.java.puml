@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.plot.CoordinateSystem"
-class jcckit.plot.CoordinateSystem {
-+getView() : GraphicalElement [[[./../../../.././qc/src/jcckit/plot/CoordinateSystem.java.html#40]]]
-+getClippingShape() : ClippingShape [[[./../../../.././qc/src/jcckit/plot/CoordinateSystem.java.html#47]]]
-+getTransformation() : Transformation [[[./../../../.././qc/src/jcckit/plot/CoordinateSystem.java.html#54]]]
-} 
-@enduml

@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDrawable" <|-- "net.sourceforge.plantuml.classdiagram.FullLayout"
-class net.sourceforge.plantuml.classdiagram.FullLayout {
-+addRowLayout(RowLayout) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/FullLayout.java.html#49]]]
-+drawU(UGraphic) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/classdiagram/FullLayout.java.html#53]]]
-} 
-@enduml

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/GraphicalComposite.java.html" 
  , "texte" : "File src/jcckit/graphic/GraphicalComposite.java 11 rule violations " 
- , "fic2"  : "./qc/src/jcckit/graphic/GraphicalComposite.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -84,9 +83,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/GraphicalComposite.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/GraphicalComposite.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/graphic/GraphicalComposite.java.svg" }
 
 ] 
 , 

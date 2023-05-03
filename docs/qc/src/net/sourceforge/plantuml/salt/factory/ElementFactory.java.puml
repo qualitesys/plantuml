@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.salt.factory.ElementFactory"
-class net.sourceforge.plantuml.salt.factory.ElementFactory {
-create() : Terminated<Element> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.html#43]]]
-ready() : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/salt/factory/ElementFactory.java.html#45]]]
-} 
-@enduml

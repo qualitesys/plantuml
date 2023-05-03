@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/SingleStrategy.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/svek/SingleStrategy.java 0 rule violation " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/svek/SingleStrategy.java.xml" 
  , "fic3"  : "" 
 }
 , 

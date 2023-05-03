@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<StateDiagram>" <|-- "net.sourceforge.plantuml.statediagram.command.CommandConcurrentState"
-class net.sourceforge.plantuml.statediagram.command.CommandConcurrentState {
-+CommandConcurrentState() : CommandConcurrentState [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#53]]]
-executeArg(StateDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#60]]]
-} 
-@enduml

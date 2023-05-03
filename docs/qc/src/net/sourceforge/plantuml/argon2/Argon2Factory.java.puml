@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.argon2.Argon2Factory"
-class net.sourceforge.plantuml.argon2.Argon2Factory {
-+create() : Argon2 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/argon2/Argon2Factory.java.html#12]]]
-} 
-@enduml

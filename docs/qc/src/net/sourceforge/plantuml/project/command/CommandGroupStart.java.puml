@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandGroupStart"
-class net.sourceforge.plantuml.project.command.CommandGroupStart {
-+CommandGroupStart() : CommandGroupStart [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGroupStart.java.html#49]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGroupStart.java.html#53]]]
-executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandGroupStart.java.html#65]]]
-} 
-@enduml

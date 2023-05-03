@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_elist.java.html" 
  , "texte" : "File src/h/ST_elist.java 3 rule violations " 
- , "fic2"  : "./qc/src/h/ST_elist.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/ST_elist.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/h/ST_elist.java.svg" }
+ "ligneplantuml" : "./qc/src/h/ST_elist.java.svg" }
 
 ] 
 , 

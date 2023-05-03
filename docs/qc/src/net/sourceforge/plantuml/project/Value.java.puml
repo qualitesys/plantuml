@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.project.Value"
-class net.sourceforge.plantuml.project.Value {
-} 
-@enduml

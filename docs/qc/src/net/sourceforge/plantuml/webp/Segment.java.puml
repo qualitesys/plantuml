@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.webp.Segment"
-class net.sourceforge.plantuml.webp.Segment {
-+toString() : String [[[./../../../../../.././qc/src/net/sourceforge/plantuml/webp/Segment.java.html#17]]]
-} 
-@enduml

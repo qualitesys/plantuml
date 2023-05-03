@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileDecorate" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithSwimlanes"
-class net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithSwimlanes {
-FtileWithSwimlanes(Ftile;Swimlane;Swimlane) : FtileWithSwimlanes [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithSwimlanes.java.html#45]]]
-+getSwimlaneIn() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithSwimlanes.java.html#52]]]
-+getSwimlaneOut() : Swimlane [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileWithSwimlanes.java.html#57]]]
-} 
-@enduml

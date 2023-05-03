@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_port"
-class h.ST_port {
-+___(__struct__) : void [[[./../../.././qc/src/h/ST_port.java.html#69]]]
-+copy() : ST_port [[[./../../.././qc/src/h/ST_port.java.html#84]]]
-} 
-@enduml

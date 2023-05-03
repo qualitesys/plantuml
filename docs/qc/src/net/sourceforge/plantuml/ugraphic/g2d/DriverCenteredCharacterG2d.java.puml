@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UDriver<UCenteredCharacter,Graphics2D>" <|-- "net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d"
-class net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d {
-+draw(UCenteredCharacter;double;double;ColorMapper;UParam;Graphics2D) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#49]]]
-} 
-@enduml

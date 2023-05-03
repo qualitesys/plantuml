@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemBasicFactory<PSystemCreole>" <|-- "net.sourceforge.plantuml.creole.legacy.PSystemCreoleFactory"
-class net.sourceforge.plantuml.creole.legacy.PSystemCreoleFactory {
-+PSystemCreoleFactory() : PSystemCreoleFactory [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/PSystemCreoleFactory.java.html#44]]]
-+initDiagram(UmlSource;String) : PSystemCreole [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/PSystemCreoleFactory.java.html#49]]]
-+executeLine(UmlSource;PSystemCreole;String) : PSystemCreole [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/creole/legacy/PSystemCreoleFactory.java.html#57]]]
-} 
-@enduml

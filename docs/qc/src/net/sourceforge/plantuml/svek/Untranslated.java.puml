@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"IEntityImage" <|-- "net.sourceforge.plantuml.svek.Untranslated"
-class net.sourceforge.plantuml.svek.Untranslated {
-+drawUntranslated(UGraphic;double;double) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/svek/Untranslated.java.html#42]]]
-} 
-@enduml

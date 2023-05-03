@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"PlainStringsDiagram" <|-- "net.sourceforge.plantuml.eggs.PSystemEgg"
-class net.sourceforge.plantuml.eggs.PSystemEgg {
-PSystemEgg(UmlSource;String) : PSystemEgg [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html#46]]]
-+getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html#54]]]
-} 
-@enduml

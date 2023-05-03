@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"HColor" <|-- "net.sourceforge.plantuml.ugraphic.color.HColorAutomagic"
-class net.sourceforge.plantuml.ugraphic.color.HColorAutomagic {
-+getAppropriateColor(HColor) : HColor [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/color/HColorAutomagic.java.html#40]]]
-} 
-@enduml

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.SingleLine"
-class net.sourceforge.plantuml.SingleLine {
-getSystemFromSingleLine(String) : Diagram [[[./../../../../.././qc/src/net/sourceforge/plantuml/SingleLine.java.html#42]]]
-} 
-@enduml

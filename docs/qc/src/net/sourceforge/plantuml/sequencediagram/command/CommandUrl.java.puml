@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<SequenceDiagram>" <|-- "net.sourceforge.plantuml.sequencediagram.command.CommandUrl"
-class net.sourceforge.plantuml.sequencediagram.command.CommandUrl {
-+CommandUrl() : CommandUrl [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandUrl.java.html#54]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandUrl.java.html#58]]]
-executeArg(SequenceDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandUrl.java.html#72]]]
-} 
-@enduml

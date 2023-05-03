@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"FontChange" <|-- "net.sourceforge.plantuml.graphic.ResetFont"
-class net.sourceforge.plantuml.graphic.ResetFont {
-+apply(FontConfiguration) : FontConfiguration [[[./../../../../../.././qc/src/net/sourceforge/plantuml/graphic/ResetFont.java.html#40]]]
-} 
-@enduml

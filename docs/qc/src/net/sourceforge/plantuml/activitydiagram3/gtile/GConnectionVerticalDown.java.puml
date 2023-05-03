@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"GAbstractConnection" <|-- "net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDown"
-class net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDown {
-+GConnectionVerticalDown(UTranslate;GPoint;UTranslate;GPoint;TextBlock) : GConnectionVerticalDown [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#52]]]
-+drawTranslate(UGraphic;UTranslate;UTranslate) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#62]]]
-+drawU(UGraphic) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionVerticalDown.java.html#79]]]
-} 
-@enduml

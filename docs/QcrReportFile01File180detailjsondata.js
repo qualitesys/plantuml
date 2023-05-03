@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/SHAPE_INFO.java.html" 
  , "texte" : "File src/h/SHAPE_INFO.java 0 rule violation " 
- , "fic2"  : "./qc/src/h/SHAPE_INFO.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -22,9 +21,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/h/SHAPE_INFO.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/h/SHAPE_INFO.java.svg" }
+ "ligneplantuml" : "./qc/src/h/SHAPE_INFO.java.svg" }
 
 ] 
 , 

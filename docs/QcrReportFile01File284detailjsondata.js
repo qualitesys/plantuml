@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html" 
  , "texte" : "File src/jcckit/graphic/BasicGraphicAttributes.java 5 rule violations " 
- , "fic2"  : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.svg" }
 
 ] 
 , 

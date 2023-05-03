@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"GridCleaner" <|-- "net.sourceforge.plantuml.bpm.CleanerEmptyLine"
-class net.sourceforge.plantuml.bpm.CleanerEmptyLine {
-+clean(Grid) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#40]]]
-} 
-@enduml

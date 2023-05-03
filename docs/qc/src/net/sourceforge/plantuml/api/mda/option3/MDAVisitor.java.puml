@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.api.mda.option3.MDAVisitor"
-class net.sourceforge.plantuml.api.mda.option3.MDAVisitor {
-} 
-@enduml

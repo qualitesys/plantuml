@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileFactoryDelegator" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateParallel"
-class net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateParallel {
-+FtileFactoryDelegatorCreateParallel(FtileFactory) : FtileFactoryDelegatorCreateParallel [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.html#48]]]
-+createParallel(List<Ftile>;ForkStyle;String;Swimlane;Swimlane) : Ftile [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.html#53]]]
-} 
-@enduml

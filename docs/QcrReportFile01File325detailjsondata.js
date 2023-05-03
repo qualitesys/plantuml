@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html" 
  , "texte" : "File src/jcckit/plot/ShapeAttributesHint.java 23 rule violations " 
- , "fic2"  : "./qc/src/jcckit/plot/ShapeAttributesHint.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -75,9 +74,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.svg" }
+ "ligneplantuml" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.svg" }
 
 ] 
 , 

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/core/DocBookConverter.java 14 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -39,9 +38,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.svg" }
+ "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/core/DocBookConverter.java.svg" }
 
 ] 
 , 

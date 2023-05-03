@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"Sentence" <|-- "net.sourceforge.plantuml.project.lang.SentenceAndAnd"
-class net.sourceforge.plantuml.project.lang.SentenceAndAnd {
-+SentenceAndAnd(SentenceSimple;SentenceSimple;SentenceSimple) : SentenceAndAnd [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceAndAnd.java.html#52]]]
-+toRegex() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceAndAnd.java.html#58]]]
-+execute(GanttDiagram;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/SentenceAndAnd.java.html#81]]]
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<AbstractClassOrObjectDiagram>" <|-- "net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObject"
-class net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObject {
-+CommandCreateEntityObject() : CommandCreateEntityObject [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObject.java.html#62]]]
--getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObject.java.html#66]]]
-executeArg(AbstractClassOrObjectDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateEntityObject.java.html#80]]]
-} 
-@enduml

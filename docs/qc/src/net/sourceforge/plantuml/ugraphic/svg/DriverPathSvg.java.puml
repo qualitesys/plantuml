@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"DriverShadowedG2dUDriver<UPath,SvgGraphics>" <|-- "net.sourceforge.plantuml.ugraphic.svg.DriverPathSvg"
-class net.sourceforge.plantuml.ugraphic.svg.DriverPathSvg {
-+DriverPathSvg(ClipContainer) : DriverPathSvg [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPathSvg.java.html#51]]]
-+draw(UPath;double;double;ColorMapper;UParam;SvgGraphics) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPathSvg.java.html#55]]]
-} 
-@enduml

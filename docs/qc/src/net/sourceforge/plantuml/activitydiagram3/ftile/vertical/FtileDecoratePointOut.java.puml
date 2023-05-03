@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"FtileDecorate" <|-- "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecoratePointOut"
-class net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecoratePointOut {
-+FtileDecoratePointOut(Ftile;double;double) : FtileDecoratePointOut [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDecoratePointOut.java.html#47]]]
-+calculateDimension(StringBounder) : FtileGeometry [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDecoratePointOut.java.html#57]]]
-} 
-@enduml

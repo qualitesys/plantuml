@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_dt_s"
-class h.ST_dt_s {
-+isSameThan(__ptr__) : boolean [[[./../../.././qc/src/h/ST_dt_s.java.html#70]]]
-} 
-@enduml

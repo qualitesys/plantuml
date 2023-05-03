@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SingleLineCommand2<GanttDiagram>" <|-- "net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy"
-class net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy {
-+CommandWeekNumberStrategy() : CommandWeekNumberStrategy [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#50]]]
-getRegexConcat() : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#54]]]
-executeArg(GanttDiagram;LineLocation;RegexResult) : CommandExecutionResult [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/command/CommandWeekNumberStrategy.java.html#70]]]
-} 
-@enduml

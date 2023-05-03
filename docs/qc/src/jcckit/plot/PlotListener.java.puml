@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "jcckit.plot.PlotListener"
-class jcckit.plot.PlotListener {
-+plotChanged(PlotEvent) : void [[[./../../../.././qc/src/jcckit/plot/PlotListener.java.html#28]]]
-} 
-@enduml

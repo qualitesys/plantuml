@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"AbstractEventEvent" <|-- "net.sourceforge.plantuml.sequencediagram.HSpace"
-class net.sourceforge.plantuml.sequencediagram.HSpace {
-+HSpace(int) : HSpace [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/HSpace.java.html#42]]]
-+getPixel() : int [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/HSpace.java.html#46]]]
-+dealWith(Participant) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/HSpace.java.html#50]]]
-} 
-@enduml

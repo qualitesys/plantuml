@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/argon2/algorithm/Functions.java 41 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -84,9 +83,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/Functions.java.svg" }
 
 ] 
 , 

@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.api.mda.option2.MDAEntity"
-class net.sourceforge.plantuml.api.mda.option2.MDAEntity {
-+getName() : String [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/api/mda/option2/MDAEntity.java.html#39]]]
-} 
-@enduml

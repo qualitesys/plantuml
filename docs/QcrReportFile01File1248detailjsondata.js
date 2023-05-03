@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/elk/CucaDiagramFileMakerElk.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/elk/CucaDiagramFileMakerElk.java 1 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/elk/CucaDiagramFileMakerElk.java.xml" 
  , "fic3"  : "" 
 }
 , 

@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/salt/PSystemSalt.java 37 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -147,9 +146,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.svg" }
 
 ] 
 , 

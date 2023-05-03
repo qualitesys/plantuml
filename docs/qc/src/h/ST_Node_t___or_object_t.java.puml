@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"__ptr__" <|-- "h.ST_Node_t___or_object_t"
-class h.ST_Node_t___or_object_t {
-} 
-@enduml

@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.sequencediagram.teoz.TimeHook"
-class net.sourceforge.plantuml.sequencediagram.teoz.TimeHook {
-+TimeHook(double) : TimeHook [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#42]]]
-+getValue() : double [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#46]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#51]]]
-} 
-@enduml

@@ -1,6 +1,0 @@
-@startuml
-!pragma layout smetana
-"UnsupportedStarStruct" <|-- "h.ST_Agdstate_s"
-class h.ST_Agdstate_s {
-} 
-@enduml

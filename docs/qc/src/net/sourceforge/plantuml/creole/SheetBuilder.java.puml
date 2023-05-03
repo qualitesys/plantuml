@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.creole.SheetBuilder"
-class net.sourceforge.plantuml.creole.SheetBuilder {
-+createSheet(Display) : Sheet [[[./../../../../../.././qc/src/net/sourceforge/plantuml/creole/SheetBuilder.java.html#42]]]
-} 
-@enduml

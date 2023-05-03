@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"Something" <|-- "net.sourceforge.plantuml.project.lang.ComplementUrl"
-class net.sourceforge.plantuml.project.lang.ComplementUrl {
-+toRegex(String) : IRegex [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementUrl.java.html#50]]]
-+getMe(GanttDiagram;RegexResult;String) : Failable<Url> [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/lang/ComplementUrl.java.html#55]]]
-} 
-@enduml

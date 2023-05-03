@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"SimpleReturnFunction" <|-- "net.sourceforge.plantuml.tim.stdlib.IntVal"
-class net.sourceforge.plantuml.tim.stdlib.IntVal {
-+getSignature() : TFunctionSignature [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#52]]]
-+canCover(int;Set<String>) : boolean [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#56]]]
-+executeReturnFunction(TContext;TMemory;LineLocation;List<TValue>;Map<String,TValue>) : TValue [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/tim/stdlib/IntVal.java.html#60]]]
-} 
-@enduml

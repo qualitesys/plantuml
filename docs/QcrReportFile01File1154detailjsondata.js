@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java 28 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -84,9 +83,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/ProcessRunner.java.svg" }
 
 ] 
 , 

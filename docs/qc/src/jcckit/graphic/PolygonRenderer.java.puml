@@ -1,7 +1,0 @@
-@startuml
-!pragma layout smetana
-"Renderer" <|-- "jcckit.graphic.PolygonRenderer"
-class jcckit.graphic.PolygonRenderer {
-+render(Polygon) : void [[[./../../../.././qc/src/jcckit/graphic/PolygonRenderer.java.html#29]]]
-} 
-@enduml

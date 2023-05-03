@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"TimeLine" <|-- "net.sourceforge.plantuml.project.core3.TimeLineSimple"
-class net.sourceforge.plantuml.project.core3.TimeLineSimple {
-+getNext(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TimeLineSimple.java.html#46]]]
-+getPrevious(long) : long [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TimeLineSimple.java.html#55]]]
-+add(long) : void [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/project/core3/TimeLineSimple.java.html#66]]]
-} 
-@enduml

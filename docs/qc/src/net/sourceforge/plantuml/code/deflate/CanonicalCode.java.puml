@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"java.lang.Object" <|-- "net.sourceforge.plantuml.code.deflate.CanonicalCode"
-class net.sourceforge.plantuml.code.deflate.CanonicalCode {
-+CanonicalCode(int[]) : CanonicalCode [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1]]]
-+decodeNextSymbol(BitInputStream) : int [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1]]]
-+toString() : String [[[./../../../../../../.././qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1]]]
-} 
-@enduml

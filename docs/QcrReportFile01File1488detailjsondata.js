@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/math/ScientificEquationSafe.java 24 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/math/ScientificEquationSafe.java.svg" }
 
 ] 
 , 

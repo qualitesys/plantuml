@@ -1,9 +1,0 @@
-@startuml
-!pragma layout smetana
-"PSystemBasicFactory<PSystemDefinition>" <|-- "net.sourceforge.plantuml.definition.PSystemDefinitionFactory"
-class net.sourceforge.plantuml.definition.PSystemDefinitionFactory {
-+PSystemDefinitionFactory() : PSystemDefinitionFactory [[[./../../../../../.././qc/src/net/sourceforge/plantuml/definition/PSystemDefinitionFactory.java.html#44]]]
-+initDiagram(UmlSource;String) : PSystemDefinition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/definition/PSystemDefinitionFactory.java.html#49]]]
-+executeLine(UmlSource;PSystemDefinition;String) : PSystemDefinition [[[./../../../../../.././qc/src/net/sourceforge/plantuml/definition/PSystemDefinitionFactory.java.html#57]]]
-} 
-@enduml

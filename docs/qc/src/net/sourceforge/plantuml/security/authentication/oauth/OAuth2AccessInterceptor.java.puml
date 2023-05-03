@@ -1,8 +1,0 @@
-@startuml
-!pragma layout smetana
-"SecurityAccessInterceptor" <|-- "net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor"
-class net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor {
-+apply(SecurityAuthentication;URLConnection) : void [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#51]]]
--getAuth(SecurityAuthentication) : String [[[./../../../../../../../.././qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#55]]]
-} 
-@enduml

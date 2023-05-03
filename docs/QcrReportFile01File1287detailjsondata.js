@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/error/PSystemError.java.html" 
  , "texte" : "File src/net/sourceforge/plantuml/error/PSystemError.java 148 rule violations " 
- , "fic2"  : "./qc/src/net/sourceforge/plantuml/error/PSystemError.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -327,9 +326,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/net/sourceforge/plantuml/error/PSystemError.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/error/PSystemError.java.svg" }
+ "ligneplantuml" : "./qc/src/net/sourceforge/plantuml/error/PSystemError.java.svg" }
 
 ] 
 , 

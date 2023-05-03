@@ -3,7 +3,6 @@ var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.html" 
  , "texte" : "File src/org/stathissideris/ascii2image/text/GridPattern.java 147 rule violations " 
- , "fic2"  : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.xml" 
  , "fic3"  : "" 
 }
 , 
@@ -102,9 +101,9 @@ var maDataBlocs = {
 ]
 , 
 "data03" : [
-   {"ligne" : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.png" 
+   {
 
- , "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.svg" }
+ "ligneplantuml" : "./qc/src/org/stathissideris/ascii2image/text/GridPattern.java.svg" }
 
 ] 
 , 
