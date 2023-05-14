@@ -146,63 +146,63 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method smetana.core.OFFSET.OFFSET@POLYN149539 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.OFFSET.OFFSET@POLYN150163 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method smetana.core.OFFSET.OFFSET@POLYN149729 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method smetana.core.OFFSET.OFFSET@POLYN150353 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method smetana.core.OFFSET.toString@POLYN149944 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method smetana.core.OFFSET.toString@POLYN150568 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method smetana.core.OFFSET.toString@POLYN149944 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method smetana.core.OFFSET.toString@POLYN150568 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method smetana.core.OFFSET.toString@POLYN149944 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method smetana.core.OFFSET.toString@POLYN150568 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method smetana.core.OFFSET.toString@POLYN149944 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method smetana.core.OFFSET.toString@POLYN150568 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method smetana.core.OFFSET.toString@POLYN149944 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method smetana.core.OFFSET.toString@POLYN150568 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method smetana.core.OFFSET.externalHolder@POLYN150222 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method smetana.core.OFFSET.externalHolder@POLYN150846 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/smetana/core/OFFSET.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method smetana.core.OFFSET.zero@POLYN150362 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.OFFSET.zero@POLYN150986 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

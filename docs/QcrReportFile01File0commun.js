@@ -468,6 +468,9 @@ function genererBloc11() {
       lsStr+='<table border="1" class="bodyTable">';
       lsStr+='<tr class="b">';
       lsStr+='<th>Class name</th>';
+      lsStr+='<th>Risks in Input</th>';
+      lsStr+='<th>Risks in Output</th>';
+      lsStr+='<th>Secured risks</th>';
       lsStr+='<th>Secu 1</th>';
       lsStr+='<th>Secu 2</th>';
       lsStr+='<th>Secu 3</th>';
@@ -493,6 +496,9 @@ function genererBloc11() {
          if (1==(liInd%2)) lsStr+='<tr class="a">';
 
          lsStr+='<td style="'+monBloc.ligne.c5color+'"><a href ="'+calculerUrl('link',monBloc.ligne.c1link)+'">'+monBloc.ligne.c1+'</a></td>';
+         lsStr+='<td style="'+monBloc.ligne.c6color+'">'+monBloc.ligne.c6input+'</td>';
+         lsStr+='<td style="'+monBloc.ligne.c7color+'">'+monBloc.ligne.c7output+'</td>';
+         lsStr+='<td style="'+monBloc.ligne.c8color+'">'+monBloc.ligne.c8secure+'</td>';
          lsStr+='<td style="'+monBloc.ligne.c2color+'">'+monBloc.ligne.c2+'</td>';
          lsStr+='<td style="'+monBloc.ligne.c3color+'">'+monBloc.ligne.c3+'</td>';
          lsStr+='<td style="'+monBloc.ligne.c4color+'">'+monBloc.ligne.c4+'</td>';
