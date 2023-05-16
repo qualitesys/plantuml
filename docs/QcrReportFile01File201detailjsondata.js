@@ -164,28 +164,28 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method h.ST_Agsym_s.getTheField@POLYN158042 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method h.ST_Agsym_s.getTheField@POLYN158954 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method h.ST_Agsym_s.getTheField@POLYN158042 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method h.ST_Agsym_s.getTheField@POLYN158954 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method h.ST_Agsym_s.getTheField@POLYN158042 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method h.ST_Agsym_s.getTheField@POLYN158954 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/h/ST_Agsym_s.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method h.ST_Agsym_s.getTheField@POLYN158042 the MagicNumber/String  'link' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method h.ST_Agsym_s.getTheField@POLYN158954 the MagicNumber/String  'link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

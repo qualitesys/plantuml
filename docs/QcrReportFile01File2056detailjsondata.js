@@ -94,7 +94,7 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TimeHook.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sequencediagram.teoz.TimeHook.toString@POLYN147773 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sequencediagram.teoz.TimeHook.toString@POLYN148685 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

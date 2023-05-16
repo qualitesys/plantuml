@@ -115,7 +115,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionSideThenVerticalThenSide.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionSideThenVerticalThenSide.drawTranslate@POLYN157126 the MagicNumber/String  'wip3' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionSideThenVerticalThenSide.drawTranslate@POLYN158038 the MagicNumber/String  'wip3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

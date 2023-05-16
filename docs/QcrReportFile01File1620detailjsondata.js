@@ -99,56 +99,56 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN150139 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN151051 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN150139 the MagicNumber/String  '&amp;lt;=' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN151051 the MagicNumber/String  '&amp;lt;=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN150139 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN151051 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN150139 the MagicNumber/String  '&amp;gt;=' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN151051 the MagicNumber/String  '&amp;gt;=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN150139 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN151051 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN150139 the MagicNumber/String  '==' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN151051 the MagicNumber/String  '==' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN150139 the MagicNumber/String  '!=' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN151051 the MagicNumber/String  '!=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/NumericCompare.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN150139 the MagicNumber/String  '&amp;lt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.preproc.NumericCompare.isCompareOk@POLYN151051 the MagicNumber/String  '&amp;lt;&amp;gt;' should be converted to const"
 }} 
 ]
 , 

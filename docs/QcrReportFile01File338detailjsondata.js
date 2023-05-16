@@ -307,14 +307,14 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00072] For method get list of called methods Object monObjet|java.lang.String _configData_getN211140"
+ , "c3" : "QC-JAV000007[00072] For method get list of called methods Object monObjet|java.lang.String _configData_getN212052"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method jcckit.util.ConfigParameters.get@POLYN211043 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method jcckit.util.ConfigParameters.get@POLYN211955 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -328,14 +328,14 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00087] For method get list of called methods Object monObjet|java.lang.String _configData_getN211814"
+ , "c3" : "QC-JAV000007[00087] For method get list of called methods Object monObjet|java.lang.String _configData_getN212726"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method jcckit.util.ConfigParameters.get@POLYN211692 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.util.ConfigParameters.get@POLYN212604 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -356,14 +356,14 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00114] For method getBoolean list of called methods Object monObjet|java.lang.String _configData_getN213018"
+ , "c3" : "QC-JAV000007[00114] For method getBoolean list of called methods Object monObjet|java.lang.String _configData_getN213930"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method jcckit.util.ConfigParameters.getBoolean@POLYN212896 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method jcckit.util.ConfigParameters.getBoolean@POLYN213808 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -384,35 +384,35 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method jcckit.util.ConfigParameters.parseBoolean@POLYN213244 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method jcckit.util.ConfigParameters.parseBoolean@POLYN214156 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method jcckit.util.ConfigParameters.parseBoolean@POLYN213244 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method jcckit.util.ConfigParameters.parseBoolean@POLYN214156 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method jcckit.util.ConfigParameters.parseBoolean@POLYN213244 the MagicNumber/String  'false' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method jcckit.util.ConfigParameters.parseBoolean@POLYN214156 the MagicNumber/String  'false' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method jcckit.util.ConfigParameters.parseBoolean@POLYN213244 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method jcckit.util.ConfigParameters.parseBoolean@POLYN214156 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method jcckit.util.ConfigParameters.parseBoolean@POLYN213244 the MagicNumber/String  'boolean' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method jcckit.util.ConfigParameters.parseBoolean@POLYN214156 the MagicNumber/String  'boolean' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -426,21 +426,21 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method jcckit.util.ConfigParameters.createNumberFormatException@POLYN213726 the MagicNumber/String  'Not a ' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method jcckit.util.ConfigParameters.createNumberFormatException@POLYN214638 the MagicNumber/String  'Not a ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method jcckit.util.ConfigParameters.createNumberFormatException@POLYN213726 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method jcckit.util.ConfigParameters.createNumberFormatException@POLYN214638 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method jcckit.util.ConfigParameters.createNumberFormatException@POLYN213726 the MagicNumber/String  ' = ' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method jcckit.util.ConfigParameters.createNumberFormatException@POLYN214638 the MagicNumber/String  ' = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -461,14 +461,14 @@ var maDataBlocs = {
  , "c1" : "00168"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#168"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00168] For method getInt list of called methods Object monObjet|java.lang.String _configData_getN215464"
+ , "c3" : "QC-JAV000007[00168] For method getInt list of called methods Object monObjet|java.lang.String _configData_getN216376"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method jcckit.util.ConfigParameters.getInt@POLYN215342 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method jcckit.util.ConfigParameters.getInt@POLYN216254 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -482,7 +482,7 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method jcckit.util.ConfigParameters.parseInt@POLYN215690 the MagicNumber/String  'number' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method jcckit.util.ConfigParameters.parseInt@POLYN216602 the MagicNumber/String  'number' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -503,14 +503,14 @@ var maDataBlocs = {
  , "c1" : "00204"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#204"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00204] For method getDouble list of called methods Object monObjet|java.lang.String _configData_getN217047"
+ , "c3" : "QC-JAV000007[00204] For method getDouble list of called methods Object monObjet|java.lang.String _configData_getN217959"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method jcckit.util.ConfigParameters.getDouble@POLYN216925 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method jcckit.util.ConfigParameters.getDouble@POLYN217837 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -524,7 +524,7 @@ var maDataBlocs = {
  , "c1" : "00213"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method jcckit.util.ConfigParameters.parseDouble@POLYN217273 the MagicNumber/String  'number' should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method jcckit.util.ConfigParameters.parseDouble@POLYN218185 the MagicNumber/String  'number' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -545,14 +545,14 @@ var maDataBlocs = {
  , "c1" : "00243"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#243"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00243] For method getDoubleArray list of called methods Object monObjet|java.lang.String _configData_getN218724"
+ , "c3" : "QC-JAV000007[00243] For method getDoubleArray list of called methods Object monObjet|java.lang.String _configData_getN219636"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method jcckit.util.ConfigParameters.getDoubleArray@POLYN218596 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method jcckit.util.ConfigParameters.getDoubleArray@POLYN219508 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -566,14 +566,14 @@ var maDataBlocs = {
  , "c1" : "00252"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method jcckit.util.ConfigParameters.parseDoubleArray@POLYN218956 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00252] In method jcckit.util.ConfigParameters.parseDoubleArray@POLYN219868 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method jcckit.util.ConfigParameters.parseDoubleArray@POLYN218956 the MagicNumber/String  'sequence of numbers' should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method jcckit.util.ConfigParameters.parseDoubleArray@POLYN219868 the MagicNumber/String  'sequence of numbers' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -594,14 +594,14 @@ var maDataBlocs = {
  , "c1" : "00291"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#291"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00291] For method getColor list of called methods Object monObjet|java.lang.String _configData_getN221135"
+ , "c3" : "QC-JAV000007[00291] For method getColor list of called methods Object monObjet|java.lang.String _configData_getN222047"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method jcckit.util.ConfigParameters.getColor@POLYN221013 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method jcckit.util.ConfigParameters.getColor@POLYN221925 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -622,21 +622,21 @@ var maDataBlocs = {
  , "c1" : "00298"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method jcckit.util.ConfigParameters.parseColor@POLYN221361 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method jcckit.util.ConfigParameters.parseColor@POLYN222273 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method jcckit.util.ConfigParameters.parseColor@POLYN221361 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method jcckit.util.ConfigParameters.parseColor@POLYN222273 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00300"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#300"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00300] In method jcckit.util.ConfigParameters.parseColor@POLYN221361 the MagicNumber/String  'number' should be converted to const"
+ , "c3" : "QC-JAV000010[00300] In method jcckit.util.ConfigParameters.parseColor@POLYN222273 the MagicNumber/String  'number' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -650,7 +650,7 @@ var maDataBlocs = {
  , "c1" : "00306"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method jcckit.util.ConfigParameters.decodeInternal@POLYN221884 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method jcckit.util.ConfigParameters.decodeInternal@POLYN222796 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

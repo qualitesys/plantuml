@@ -103,35 +103,35 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.specificDotExe@POLYN149947 the MagicNumber/String  '/usr/local/bin/dot' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.specificDotExe@POLYN150859 the MagicNumber/String  '/usr/local/bin/dot' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.specificDotExe@POLYN149947 the MagicNumber/String  '/usr/bin/dot' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.specificDotExe@POLYN150859 the MagicNumber/String  '/usr/bin/dot' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.specificDotExe@POLYN149947 the MagicNumber/String  '/opt/local/bin/dot' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.specificDotExe@POLYN150859 the MagicNumber/String  '/opt/local/bin/dot' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.getExeName@POLYN150557 the MagicNumber/String  'dot' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.getExeName@POLYN151469 the MagicNumber/String  'dot' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizLinux.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.graphviz244onWindows@POLYN150645 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux.graphviz244onWindows@POLYN151557 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

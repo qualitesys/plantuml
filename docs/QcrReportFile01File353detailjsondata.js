@@ -101,21 +101,21 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AParentFolderRegular.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.AParentFolderRegular.toString@POLYN150088 the MagicNumber/String  'AParentFolderRegular::' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.AParentFolderRegular.toString@POLYN151000 the MagicNumber/String  'AParentFolderRegular::' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AParentFolderRegular.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.AParentFolderRegular.toString@POLYN150088 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.AParentFolderRegular.toString@POLYN151000 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AParentFolderRegular.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.AParentFolderRegular.toString@POLYN150088 the MagicNumber/String  'NULL' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.AParentFolderRegular.toString@POLYN151000 the MagicNumber/String  'NULL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,14 +129,14 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AParentFolderRegular.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.AParentFolderRegular.getAFile@POLYN150349 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.AParentFolderRegular.getAFile@POLYN151261 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AParentFolderRegular.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.AParentFolderRegular.getAFile@POLYN150349 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.AParentFolderRegular.getAFile@POLYN151261 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

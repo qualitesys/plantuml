@@ -153,7 +153,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile.getContactPointRelative@POLYN150915 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile.getContactPointRelative@POLYN151827 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile.getPreferredHeight@POLYN151407 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile.getPreferredHeight@POLYN152319 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -253,7 +253,7 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.addStep@POLYN188114 the MagicNumber/String  5.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.addStep@POLYN189026 the MagicNumber/String  5.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -351,21 +351,21 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN188987 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN189899 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN188987 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN189899 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN188987 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getLevelAtInternal@POLYN189899 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -421,14 +421,14 @@ var maDataBlocs = {
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isNextEventADestroy@POLYN191045 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isNextEventADestroy@POLYN191957 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isNextEventADestroy@POLYN191045 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isNextEventADestroy@POLYN191957 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -491,21 +491,21 @@ var maDataBlocs = {
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN191909 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN192821 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN191909 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN192821 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN191909 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getActivateColor@POLYN192821 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -540,21 +540,21 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN193135 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN194047 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN193135 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN194047 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN193135 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.nextButSkippingNotes@POLYN194047 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -589,42 +589,42 @@ var maDataBlocs = {
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN193575 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN194487 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN193575 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN194487 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN193575 the MagicNumber/String  'position=' should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN194487 the MagicNumber/String  'position=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN193575 the MagicNumber/String  ' totalHeight=' should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN194487 the MagicNumber/String  ' totalHeight=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN193575 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN194487 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN193575 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getStairs@POLYN194487 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -638,7 +638,7 @@ var maDataBlocs = {
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isActivateAnDeactivate@POLYN194994 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.isActivateAnDeactivate@POLYN195906 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -666,14 +666,14 @@ var maDataBlocs = {
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxValue@POLYN195346 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxValue@POLYN196258 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxValue@POLYN195346 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxValue@POLYN196258 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -687,14 +687,14 @@ var maDataBlocs = {
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxPosition@POLYN196190 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxPosition@POLYN197102 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxPosition@POLYN196190 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.getMaxPosition@POLYN197102 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -708,14 +708,14 @@ var maDataBlocs = {
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawBoxes@POLYN196651 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawBoxes@POLYN197563 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00254"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawBoxes@POLYN196651 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawBoxes@POLYN197563 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -764,49 +764,49 @@ var maDataBlocs = {
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN197871 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN198783 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN197871 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN198783 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN197871 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN198783 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00276"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN197871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN198783 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN197871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN198783 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN197871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN198783 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00280"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN197871 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes.drawOneLevel@POLYN198783 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

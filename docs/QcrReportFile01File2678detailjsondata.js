@@ -160,14 +160,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.ensureVisible@POLYN160785 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.ensureVisible@POLYN161697 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.ensureVisible@POLYN160785 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.ensureVisible@POLYN161697 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -195,91 +195,91 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  '&amp;lt;html&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  '&amp;lt;html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  '&amp;lt;canvas id=\'demo\' width=\'700\' height=\'350\'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  '&amp;lt;canvas id=\'demo\' width=\'700\' height=\'350\'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  '&amp;lt;/canvas&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  '&amp;lt;/canvas&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  '&amp;lt;script&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  '&amp;lt;script&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  'window.addEventListener('load', function () {' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  'window.addEventListener('load', function () {' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  'var elem = document.getElementById('demo');' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  'var elem = document.getElementById('demo');' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  'if (!elem || !elem.getContext) { return;}' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  'if (!elem || !elem.getContext) { return;}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  'var ctx = elem.getContext('2d');' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  'var ctx = elem.getContext('2d');' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  'if (!ctx) { return;}' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  'if (!ctx) { return;}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  '}, false);' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  '}, false);' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  '&amp;lt;/script&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  '&amp;lt;/script&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN161683 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.generateHtmlCode@POLYN162595 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -300,7 +300,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.ap@POLYN163153 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.ap@POLYN164065 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -314,84 +314,84 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  '//RECT' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  '//RECT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  'ctx.strokeStyle='' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  'ctx.strokeStyle='' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  '';' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  '';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  'ctx.fillStyle='' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  'ctx.fillStyle='' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  '';' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  '';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  'ctx.rect(' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  'ctx.rect(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  ');' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  ');' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  'ctx.fill();' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  'ctx.fill();' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN163385 the MagicNumber/String  'ctx.stroke();' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlRectangle@POLYN164297 the MagicNumber/String  'ctx.stroke();' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -405,105 +405,105 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  'ctx.strokeStyle='' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  'ctx.strokeStyle='' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  '';' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  '';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  'ctx.beginPath();' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  'ctx.beginPath();' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  'ctx.moveTo(' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  'ctx.moveTo(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  ');' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  ');' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  'ctx.lineTo(' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  'ctx.lineTo(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  ');' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  ');' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  'ctx.stroke();' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  'ctx.stroke();' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/html5/Html5Drawer.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN164625 the MagicNumber/String  'ctx.closePath();' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.html5.Html5Drawer.htmlLine@POLYN165537 the MagicNumber/String  'ctx.closePath();' should be converted to const"
 }} 
 ]
 , 

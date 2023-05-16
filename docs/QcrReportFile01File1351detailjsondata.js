@@ -99,21 +99,21 @@ var maDataBlocs = {
  , "c1" : "00330"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#330"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN181640 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN182552 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00335"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#335"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN181640 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN182552 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/QuoteUtils.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN181640 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.graphic.QuoteUtils.getSomeQuote@POLYN182552 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

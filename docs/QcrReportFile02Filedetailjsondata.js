@@ -1670,12 +1670,6 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Formatter" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.log.SimpleFormatter" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) FreeYStrategy" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategyBasic" }, 
@@ -4739,7 +4733,6 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.PSystemUtils" }, 
   { "child"  : "(1) net.sourceforge.plantuml.Pipe" }, 
   { "child"  : "(1) net.sourceforge.plantuml.Pragma" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ProgressBar" }, 
   { "child"  : "(1) net.sourceforge.plantuml.Removeable" }, 
   { "child"  : "(1) net.sourceforge.plantuml.Run" }, 
   { "child"  : "(1) net.sourceforge.plantuml.Scale" }, 
@@ -5010,7 +5003,6 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.graphic.UDrawable" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.UDrawableUtils" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbol" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbols" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.UnusedSpace" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.color.ColorParser" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.color.Colors" }, 
@@ -5228,7 +5220,6 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.stats.HtmlConverter" }, 
   { "child"  : "(1) net.sourceforge.plantuml.stats.HumanDuration" }, 
   { "child"  : "(1) net.sourceforge.plantuml.stats.ParsedGenerated" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.stats.StatsUtils" }, 
   { "child"  : "(1) net.sourceforge.plantuml.stats.StatsUtilsIncrement" }, 
   { "child"  : "(1) net.sourceforge.plantuml.stats.TextConverter" }, 
   { "child"  : "(1) net.sourceforge.plantuml.stats.TextTable" }, 
@@ -7415,11 +7406,6 @@ var maDataBlocs = {
 }},
 {"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.Pragma" ,
-"children" : [
-]
-}},
-{"ligne" : {
-   "classe"  : "(1) net.sourceforge.plantuml.ProgressBar" ,
 "children" : [
 ]
 }},
@@ -12169,11 +12155,6 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(1) net.sourceforge.plantuml.graphic.USymbols" ,
-"children" : [
-]
-}},
-{"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.graphic.UnusedSpace" ,
 "children" : [
 ]
@@ -12410,11 +12391,6 @@ var maDataBlocs = {
 }},
 {"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.log.Logme" ,
-"children" : [
-]
-}},
-{"ligne" : {
-   "classe"  : "(1) net.sourceforge.plantuml.log.SimpleFormatter" ,
 "children" : [
 ]
 }},
@@ -15620,11 +15596,6 @@ var maDataBlocs = {
 }},
 {"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.stats.StatsTableImpl" ,
-"children" : [
-]
-}},
-{"ligne" : {
-   "classe"  : "(1) net.sourceforge.plantuml.stats.StatsUtils" ,
 "children" : [
 ]
 }},

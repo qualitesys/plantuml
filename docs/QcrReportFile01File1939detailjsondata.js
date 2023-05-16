@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandIgnoreNewpage.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandIgnoreNewpage.getRegexConcat@POLYN151669 the MagicNumber/String  'ignore' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandIgnoreNewpage.getRegexConcat@POLYN152581 the MagicNumber/String  'ignore' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandIgnoreNewpage.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandIgnoreNewpage.getRegexConcat@POLYN151669 the MagicNumber/String  'newpage' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandIgnoreNewpage.getRegexConcat@POLYN152581 the MagicNumber/String  'newpage' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

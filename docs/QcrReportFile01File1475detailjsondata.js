@@ -131,35 +131,35 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.logo.PSystemLogo.exportDiagramNow@POLYN158372 the MagicNumber/String  640 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.logo.PSystemLogo.exportDiagramNow@POLYN159284 the MagicNumber/String  640 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.logo.PSystemLogo.exportDiagramNow@POLYN158372 the MagicNumber/String  480 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.logo.PSystemLogo.exportDiagramNow@POLYN159284 the MagicNumber/String  480 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.logo.PSystemLogo.exportDiagramNow@POLYN158372 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.logo.PSystemLogo.exportDiagramNow@POLYN159284 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.logo.PSystemLogo.exportDiagramNow@POLYN158372 the MagicNumber/String  96 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.logo.PSystemLogo.exportDiagramNow@POLYN159284 the MagicNumber/String  96 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/PSystemLogo.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.logo.PSystemLogo.getDescription@POLYN160038 the MagicNumber/String  '(Logo)' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.logo.PSystemLogo.getDescription@POLYN160950 the MagicNumber/String  '(Logo)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

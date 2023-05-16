@@ -153,35 +153,35 @@ var maDataBlocs = {
  , "c1" : "00029"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getStartX@POLYN144255 the MagicNumber/String  'getStartX' should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getStartX@POLYN145167 the MagicNumber/String  'getStartX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00033"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getStartY@POLYN144423 the MagicNumber/String  'getStartY' should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getStartY@POLYN145335 the MagicNumber/String  'getStartY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getEndX@POLYN144591 the MagicNumber/String  'getEndX' should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getEndX@POLYN145503 the MagicNumber/String  'getEndX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getEndY@POLYN144759 the MagicNumber/String  'getEndY' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getEndY@POLYN145671 the MagicNumber/String  'getEndY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkEdgeSection.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getBendPoints@POLYN144948 the MagicNumber/String  'getBendPoints' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.elk.proxy.graph.ElkEdgeSection.getBendPoints@POLYN145860 the MagicNumber/String  'getBendPoints' should be converted to const"
 }} 
 ]
 , 

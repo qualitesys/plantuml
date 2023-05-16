@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandNewpage.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.descdiagram.command.CommandNewpage.getRegexConcat@POLYN154100 the MagicNumber/String  'newpage' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.descdiagram.command.CommandNewpage.getRegexConcat@POLYN155012 the MagicNumber/String  'newpage' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,21 +129,21 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandNewpage.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.descdiagram.command.CommandNewpage.executeArg@POLYN154415 the MagicNumber/String  96 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.descdiagram.command.CommandNewpage.executeArg@POLYN155327 the MagicNumber/String  96 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandNewpage.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.descdiagram.command.CommandNewpage.executeArg@POLYN154415 the MagicNumber/String  'dpi' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.descdiagram.command.CommandNewpage.executeArg@POLYN155327 the MagicNumber/String  'dpi' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandNewpage.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.descdiagram.command.CommandNewpage.executeArg@POLYN154415 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.descdiagram.command.CommandNewpage.executeArg@POLYN155327 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

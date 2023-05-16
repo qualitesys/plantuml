@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Position.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.salt.Position.hashCode@POLYN149384 the MagicNumber/String  49 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.salt.Position.hashCode@POLYN150296 the MagicNumber/String  49 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

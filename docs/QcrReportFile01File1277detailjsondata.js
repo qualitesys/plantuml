@@ -129,98 +129,98 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  ' moveto' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  ' moveto' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  ' findfont ' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  ' findfont ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  ' scalefont setfont' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  ' scalefont setfont' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  '100 -100 scale' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  '100 -100 scale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  ') show' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  ') show' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  '.01 -.01 scale' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  '.01 -.01 scale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN156881 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.drawText@POLYN157793 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -269,133 +269,133 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '\\\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '\\\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '\\(' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '\\(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '\\)' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '\\)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  'ISO-8859-1' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  'ISO-8859-1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eps/EpsGraphicsMacroAndText.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN158390 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText.getTextAsEps@POLYN159302 the MagicNumber/String  '?' should be converted to const"
 }} 
 ]
 , 

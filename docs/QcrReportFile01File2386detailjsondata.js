@@ -115,7 +115,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfdef.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.EaterIfdef.analyze@POLYN150796 the MagicNumber/String  '!ifdef' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.EaterIfdef.analyze@POLYN151708 the MagicNumber/String  '!ifdef' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,7 +143,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIfdef.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.EaterIfdef.isTrue@POLYN151123 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.EaterIfdef.isTrue@POLYN152035 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

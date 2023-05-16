@@ -318,28 +318,28 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method smetana.core.CString.CString@POLYN171967 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method smetana.core.CString.CString@POLYN172879 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method smetana.core.CString.CString@POLYN171967 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method smetana.core.CString.CString@POLYN172879 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method smetana.core.CString.CString@POLYN171967 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method smetana.core.CString.CString@POLYN172879 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method smetana.core.CString.CString@POLYN171967 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method smetana.core.CString.CString@POLYN172879 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -353,42 +353,42 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method smetana.core.CString.CString@POLYN172930 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method smetana.core.CString.CString@POLYN173842 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method smetana.core.CString.CString@POLYN172930 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method smetana.core.CString.CString@POLYN173842 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method smetana.core.CString.CString@POLYN172930 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method smetana.core.CString.CString@POLYN173842 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method smetana.core.CString.CString@POLYN172930 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method smetana.core.CString.CString@POLYN173842 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method smetana.core.CString.CString@POLYN173310 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method smetana.core.CString.CString@POLYN174222 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method smetana.core.CString.CString@POLYN173310 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method smetana.core.CString.CString@POLYN174222 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -402,21 +402,21 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method smetana.core.CString.getTheField@POLYN173879 the MagicNumber/String  'CString::addVirtualBytes ' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method smetana.core.CString.getTheField@POLYN174791 the MagicNumber/String  'CString::addVirtualBytes ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method smetana.core.CString.getTheField@POLYN173879 the MagicNumber/String  'AM ' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method smetana.core.CString.getTheField@POLYN174791 the MagicNumber/String  'AM ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method smetana.core.CString.getParent@POLYN174234 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method smetana.core.CString.getParent@POLYN175146 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -430,7 +430,7 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method smetana.core.CString.setParent@POLYN174440 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method smetana.core.CString.setParent@POLYN175352 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -451,28 +451,28 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method smetana.core.CString.toString@POLYN175278 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method smetana.core.CString.toString@POLYN176190 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method smetana.core.CString.toString@POLYN175278 the MagicNumber/String  '(0)' should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method smetana.core.CString.toString@POLYN176190 the MagicNumber/String  '(0)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method smetana.core.CString.toString@POLYN175278 the MagicNumber/String  'CString:' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method smetana.core.CString.toString@POLYN176190 the MagicNumber/String  'CString:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method smetana.core.CString.getContent@POLYN175983 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method smetana.core.CString.getContent@POLYN176895 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -493,14 +493,14 @@ var maDataBlocs = {
  , "c1" : "00190"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method smetana.core.CString.length@POLYN177040 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method smetana.core.CString.length@POLYN177952 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method smetana.core.CString.length@POLYN177040 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method smetana.core.CString.length@POLYN177952 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -521,21 +521,21 @@ var maDataBlocs = {
  , "c1" : "00201"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method smetana.core.CString.strcmp@POLYN177437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method smetana.core.CString.strcmp@POLYN178349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method smetana.core.CString.strcmp@POLYN177437 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method smetana.core.CString.strcmp@POLYN178349 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method smetana.core.CString.strcmp@POLYN177437 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method smetana.core.CString.strcmp@POLYN178349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -556,28 +556,28 @@ var maDataBlocs = {
  , "c1" : "00211"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method smetana.core.CString.strcmp@POLYN178120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method smetana.core.CString.strcmp@POLYN179032 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00213"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method smetana.core.CString.strcmp@POLYN178120 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method smetana.core.CString.strcmp@POLYN179032 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00213"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method smetana.core.CString.strcmp@POLYN178120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method smetana.core.CString.strcmp@POLYN179032 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method smetana.core.CString.strcmp@POLYN178120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method smetana.core.CString.strcmp@POLYN179032 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -598,14 +598,14 @@ var maDataBlocs = {
  , "c1" : "00221"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method smetana.core.CString.copyFrom@POLYN178847 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method smetana.core.CString.copyFrom@POLYN179759 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method smetana.core.CString.copyFrom@POLYN178847 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method smetana.core.CString.copyFrom@POLYN179759 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -619,7 +619,7 @@ var maDataBlocs = {
  , "c1" : "00232"
  , "c1link" : "./qc/src/smetana/core/CString.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method smetana.core.CString.strchr@POLYN179319 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method smetana.core.CString.strchr@POLYN180231 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

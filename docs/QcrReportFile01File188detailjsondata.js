@@ -175,28 +175,28 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/h/ST_Agedge_s.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method h.ST_Agedge_s.getTheField@POLYN161632 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method h.ST_Agedge_s.getTheField@POLYN162544 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/h/ST_Agedge_s.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method h.ST_Agedge_s.getTheField@POLYN161632 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method h.ST_Agedge_s.getTheField@POLYN162544 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/h/ST_Agedge_s.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method h.ST_Agedge_s.getTheField@POLYN161632 the MagicNumber/String  'seq_link' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method h.ST_Agedge_s.getTheField@POLYN162544 the MagicNumber/String  'seq_link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/h/ST_Agedge_s.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method h.ST_Agedge_s.getTheField@POLYN161632 the MagicNumber/String  'id_link' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method h.ST_Agedge_s.getTheField@POLYN162544 the MagicNumber/String  'id_link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -210,28 +210,28 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/h/ST_Agedge_s.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method h.ST_Agedge_s.plus_@POLYN162224 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method h.ST_Agedge_s.plus_@POLYN163136 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/h/ST_Agedge_s.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method h.ST_Agedge_s.plus_@POLYN162224 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method h.ST_Agedge_s.plus_@POLYN163136 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/h/ST_Agedge_s.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method h.ST_Agedge_s.plus_@POLYN162224 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method h.ST_Agedge_s.plus_@POLYN163136 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/h/ST_Agedge_s.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method h.ST_Agedge_s.plus_@POLYN162224 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method h.ST_Agedge_s.plus_@POLYN163136 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

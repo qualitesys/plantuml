@@ -250,7 +250,6 @@ var datadependUndefined = { "lesdatas" : [
    { "undefinedclass" : "javax.xml.parsers.ParserConfigurationException" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker"} ,
    {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
-   {"caller" : "net.sourceforge.plantuml.stats.StatsUtils"} ,
    {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
    {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
    {"caller" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker"} ,
@@ -315,7 +314,6 @@ var datadependUndefined = { "lesdatas" : [
    { "undefinedclass" : "javax.xml.transform.TransformerException" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker"} ,
    {"caller" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram"} ,
-   {"caller" : "net.sourceforge.plantuml.stats.StatsUtils"} ,
    {"caller" : "net.sourceforge.plantuml.stats.XmlConverter"} ,
    {"caller" : "net.sourceforge.plantuml.svg.SvgGraphics"} ,
    {"caller" : "net.sourceforge.plantuml.ugraphic.FontChecker"} ,

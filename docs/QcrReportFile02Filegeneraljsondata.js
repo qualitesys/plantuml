@@ -326,7 +326,6 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml" , "classe":"PlainDiagram" , "nbMethodes":"4" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml" , "classe":"PlainStringsDiagram" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml" , "classe":"Pragma" , "nbMethodes":"11" , "nbComplexite":"1.00"} ,' + 
-' { "namespace":"net.sourceforge.plantuml" , "classe":"ProgressBar" , "nbMethodes":"8" , "nbComplexite":"1.88"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml" , "classe":"Removeable" , "nbMethodes":"1" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml" , "classe":"Run" , "nbMethodes":"21" , "nbComplexite":"4.81"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml" , "classe":"Scale" , "nbMethodes":"1" , "nbComplexite":"1.00"} ,' + 
@@ -1253,7 +1252,6 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml.graphic" , "classe":"USymbolStack" , "nbMethodes":"5" , "nbComplexite":"1.40"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.graphic" , "classe":"USymbolStorage" , "nbMethodes":"5" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.graphic" , "classe":"USymbolTogether" , "nbMethodes":"3" , "nbComplexite":"1.00"} ,' + 
-' { "namespace":"net.sourceforge.plantuml.graphic" , "classe":"USymbols" , "nbMethodes":"4" , "nbComplexite":"15.25"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.graphic" , "classe":"UnusedSpace" , "nbMethodes":"6" , "nbComplexite":"3.34"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.graphic.color" , "classe":"ColorHSB" , "nbMethodes":"6" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.graphic.color" , "classe":"ColorParser" , "nbMethodes":"13" , "nbComplexite":"1.16"} ,' + 
@@ -1302,7 +1300,6 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml.jsondiagram" , "classe":"StyleExtractor" , "nbMethodes":"6" , "nbComplexite":"4.34"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.jsondiagram" , "classe":"TextBlockJson" , "nbMethodes":"16" , "nbComplexite":"3.63"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.log" , "classe":"Logme" , "nbMethodes":"1" , "nbComplexite":"1.00"} ,' + 
-' { "namespace":"net.sourceforge.plantuml.log" , "classe":"SimpleFormatter" , "nbMethodes":"1" , "nbComplexite":"5.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.logo" , "classe":"LogoScanner" , "nbMethodes":"8" , "nbComplexite":"3.88"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.logo" , "classe":"PSystemLogo" , "nbMethodes":"4" , "nbComplexite":"1.25"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.logo" , "classe":"PSystemLogoFactory" , "nbMethodes":"2" , "nbComplexite":"2.00"} ,' + 
@@ -1938,7 +1935,6 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml.stats" , "classe":"StatsImpl" , "nbMethodes":"9" , "nbComplexite":"1.45"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.stats" , "classe":"StatsLineImpl" , "nbMethodes":"3" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.stats" , "classe":"StatsTableImpl" , "nbMethodes":"5" , "nbComplexite":"1.00"} ,' + 
-' { "namespace":"net.sourceforge.plantuml.stats" , "classe":"StatsUtils" , "nbMethodes":"15" , "nbComplexite":"1.74"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.stats" , "classe":"StatsUtilsIncrement" , "nbMethodes":"6" , "nbComplexite":"4.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.stats" , "classe":"TextConverter" , "nbMethodes":"4" , "nbComplexite":"1.50"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.stats" , "classe":"TextTable" , "nbMethodes":"6" , "nbComplexite":"1.67"} ,' + 

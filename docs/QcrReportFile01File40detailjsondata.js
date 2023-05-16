@@ -104,154 +104,154 @@ var maDataBlocs = {
  , "c1" : "00021"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00025"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00029"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#29"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00029] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00029] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/StringParser.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN145767 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.ctreber.acearth.util.StringParser.parse@POLYN146679 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

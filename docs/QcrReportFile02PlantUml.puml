@@ -4846,10 +4846,6 @@ class "net.sourceforge.plantuml.graphic.USymbolTogether" {
 Nb methods :3
 Complexity :1.00
 }
-class "net.sourceforge.plantuml.graphic.USymbols" {
-Nb methods :4
-Complexity :15.25
-}
 class "net.sourceforge.plantuml.graphic.UnusedSpace" {
 Nb methods :6
 Complexity :3.34
@@ -5047,10 +5043,6 @@ package net.sourceforge.plantuml.log {
 class "net.sourceforge.plantuml.log.Logme" {
 Nb methods :1
 Complexity :1.00
-}
-class "net.sourceforge.plantuml.log.SimpleFormatter" {
-Nb methods :1
-Complexity :5.00
 }
 }
 package net.sourceforge.plantuml.logo {
@@ -7701,10 +7693,6 @@ Complexity :1.00
 class "net.sourceforge.plantuml.stats.StatsTableImpl" {
 Nb methods :5
 Complexity :1.00
-}
-class "net.sourceforge.plantuml.stats.StatsUtils" {
-Nb methods :15
-Complexity :1.74
 }
 class "net.sourceforge.plantuml.stats.StatsUtilsIncrement" {
 Nb methods :6
@@ -10452,10 +10440,6 @@ Complexity :1.00
 class "net.sourceforge.plantuml.Pragma" {
 Nb methods :11
 Complexity :1.00
-}
-class "net.sourceforge.plantuml.ProgressBar" {
-Nb methods :8
-Complexity :1.88
 }
 class "net.sourceforge.plantuml.Removeable" {
 Nb methods :1

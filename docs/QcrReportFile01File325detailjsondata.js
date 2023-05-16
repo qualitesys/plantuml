@@ -156,21 +156,21 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN167154 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN168066 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN167154 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN168066 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN167154 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method jcckit.plot.ShapeAttributesHint.extractHSB@POLYN168066 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -184,35 +184,35 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN167504 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN168416 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN167504 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN168416 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN167504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN168416 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN167504 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN168416 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN167504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method jcckit.plot.ShapeAttributesHint.createColor@POLYN168416 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -226,28 +226,28 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN167875 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN168787 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN167875 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN168787 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN167875 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN168787 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN167875 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method jcckit.plot.ShapeAttributesHint.incrementColor@POLYN168787 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -261,28 +261,28 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN170100 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN171012 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN170100 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN171012 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN170100 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN171012 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#120"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00120] For method getNextHint list of called methods Object monObjet|float[] incrementColorN171456|float[] incrementColorN171571"
+ , "c3" : "QC-JAV000007[00120] For method getNextHint list of called methods Object monObjet|float[] incrementColorN172368|float[] incrementColorN172483"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -296,14 +296,14 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method jcckit.plot.ShapeAttributesHint.getNextHint@POLYN171164 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method jcckit.plot.ShapeAttributesHint.getNextHint@POLYN172076 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method jcckit.plot.ShapeAttributesHint.getNextHint@POLYN171164 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method jcckit.plot.ShapeAttributesHint.getNextHint@POLYN172076 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 
