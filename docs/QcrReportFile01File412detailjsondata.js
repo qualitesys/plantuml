@@ -167,7 +167,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN178447 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN180079 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -202,35 +202,35 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN178742 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN180374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN178742 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN180374 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN178742 the MagicNumber/String  'Skipping ' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN180374 the MagicNumber/String  'Skipping ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN178742 the MagicNumber/String  ' because metadata has not changed.' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN180374 the MagicNumber/String  ' because metadata has not changed.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN178742 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.PSystemUtils.exportDiagrams@POLYN180374 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -279,28 +279,28 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsNewpaged@POLYN180482 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsNewpaged@POLYN182114 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsNewpaged@POLYN180482 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsNewpaged@POLYN182114 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsNewpaged@POLYN180482 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsNewpaged@POLYN182114 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsNewpaged@POLYN180482 the MagicNumber/String  'File size : ' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsNewpaged@POLYN182114 the MagicNumber/String  'File size : ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -314,56 +314,56 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN181836 the MagicNumber/String  'Creating file: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN183468 the MagicNumber/String  'Creating file: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN181836 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN183468 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN181836 the MagicNumber/String  'Overwrite ' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN183468 the MagicNumber/String  'Overwrite ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN181836 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN183468 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN181836 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN183468 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN181836 the MagicNumber/String  'Cannot write to file ' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN183468 the MagicNumber/String  'Cannot write to file ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN181836 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN183468 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN181836 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.PSystemUtils.canFileBeWritten@POLYN183468 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -412,35 +412,35 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN182725 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN184357 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN182725 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN184357 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN182725 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN184357 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN182725 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN184357 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN182725 the MagicNumber/String  'File size : ' should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsSequence@POLYN184357 the MagicNumber/String  'File size : ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -461,14 +461,14 @@ var maDataBlocs = {
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.PSystemUtils.createFilesHtml@POLYN184402 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.PSystemUtils.createFilesHtml@POLYN186034 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.PSystemUtils.createFilesHtml@POLYN184402 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.PSystemUtils.createFilesHtml@POLYN186034 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -496,21 +496,21 @@ var maDataBlocs = {
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.PSystemUtils.splitPng@POLYN185076 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.PSystemUtils.splitPng@POLYN186708 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.PSystemUtils.splitPng@POLYN185076 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.PSystemUtils.splitPng@POLYN186708 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.PSystemUtils.splitPng@POLYN185076 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.PSystemUtils.splitPng@POLYN186708 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -545,35 +545,35 @@ var maDataBlocs = {
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN186224 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN187856 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN186224 the MagicNumber/String  'File is a directory ' should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN187856 the MagicNumber/String  'File is a directory ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN186224 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN187856 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN186224 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN187856 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemUtils.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN186224 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.PSystemUtils.exportDiagramsDefault@POLYN187856 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

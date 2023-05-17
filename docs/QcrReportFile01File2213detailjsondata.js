@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockIEntityImage"
+ , "c1" : "IEntityImage"
  , "c2" : "net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage"
 }} 
 ]
@@ -206,14 +206,14 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek2InternalImage.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.drawU@POLYN170709 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.drawU@POLYN172343 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek2InternalImage.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.drawU@POLYN170709 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.drawU@POLYN172343 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -234,14 +234,14 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek2InternalImage.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.calculateDimension@POLYN171946 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.calculateDimension@POLYN173580 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek2InternalImage.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.calculateDimension@POLYN171946 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.calculateDimension@POLYN173580 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -255,14 +255,14 @@ var maDataBlocs = {
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek2InternalImage.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.getOverscanX@POLYN172570 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.getOverscanX@POLYN174204 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek2InternalImage.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.isHidden@POLYN172680 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage.isHidden@POLYN174314 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

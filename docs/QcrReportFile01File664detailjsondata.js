@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractFtile"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit"
 }} 
 ]
@@ -167,14 +167,14 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.calculateDimensionFtile@POLYN160001 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.calculateDimensionFtile@POLYN161635 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.calculateDimensionFtile@POLYN160001 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.calculateDimensionFtile@POLYN161635 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -195,14 +195,14 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.drawU@POLYN160253 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.drawU@POLYN161887 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileThinSplit.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.drawU@POLYN160253 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit.drawU@POLYN161887 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
 , 

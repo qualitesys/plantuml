@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<BpmDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.bpm.CommandGoto"
 }} 
 ]
@@ -108,21 +108,21 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN152552 the MagicNumber/String  'goto' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN154186 the MagicNumber/String  'goto' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN152552 the MagicNumber/String  'ID' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN154186 the MagicNumber/String  'ID' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN152552 the MagicNumber/String  '([%pLN_.@]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandGoto.getRegexConcat@POLYN154186 the MagicNumber/String  '([%pLN_.@]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -150,14 +150,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.CommandGoto.executeArg@POLYN152995 the MagicNumber/String  'ID' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.CommandGoto.executeArg@POLYN154629 the MagicNumber/String  'ID' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandGoto.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.CommandGoto.executeArg@POLYN152995 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.bpm.CommandGoto.executeArg@POLYN154629 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

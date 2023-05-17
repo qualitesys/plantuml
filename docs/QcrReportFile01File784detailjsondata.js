@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "XPath2D"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.awt.geom.XGeneralPath"
 }} 
 ]

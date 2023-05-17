@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockTextBlockBackcolored"
+ , "c1" : "TextBlockBackcolored"
  , "c2" : "net.sourceforge.plantuml.svek.DecorateEntityImage3"
 }} 
 ]

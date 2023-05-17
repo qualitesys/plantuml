@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<NwDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.nwdiag.CommandEndSomething"
 }} 
 ]
@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandEndSomething.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.nwdiag.CommandEndSomething.getRegexConcat@POLYN152060 the MagicNumber/String  '\\}' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.nwdiag.CommandEndSomething.getRegexConcat@POLYN153694 the MagicNumber/String  '\\}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

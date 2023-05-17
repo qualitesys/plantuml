@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockIEntityImage"
+ , "c1" : "IEntityImage"
  , "c2" : "net.sourceforge.plantuml.svek.EntityImageProtected"
 }} 
 ]
@@ -194,7 +194,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/EntityImageProtected.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.EntityImageProtected.calculateDimension@POLYN159934 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.EntityImageProtected.calculateDimension@POLYN161568 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

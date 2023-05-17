@@ -85,7 +85,7 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotMaker2.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.cucadiagram.dot.DotMaker2.goJunit@POLYN148174 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.cucadiagram.dot.DotMaker2.goJunit@POLYN149806 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Eater"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.tim.EaterIncludeDef"
 }} 
 ]
@@ -122,7 +122,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterIncludeDef.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterIncludeDef.analyze@POLYN149663 the MagicNumber/String  '!includedef' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterIncludeDef.analyze@POLYN151297 the MagicNumber/String  '!includedef' should be converted to const"
 }} 
 ]
 , 

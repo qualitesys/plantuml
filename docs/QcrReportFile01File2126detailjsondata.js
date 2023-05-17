@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UmlDiagram"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.sprite.StdlibDiagram"
 }} 
 ]
@@ -160,7 +160,7 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sprite.StdlibDiagram.getDescription@POLYN170019 the MagicNumber/String  '(Sprites)' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sprite.StdlibDiagram.getDescription@POLYN171653 the MagicNumber/String  '(Sprites)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sprite.StdlibDiagram.createImageBuilder@POLYN170159 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sprite.StdlibDiagram.createImageBuilder@POLYN171793 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -188,7 +188,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sprite.StdlibDiagram.getTable@POLYN170662 the MagicNumber/String  4096 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sprite.StdlibDiagram.getTable@POLYN172296 the MagicNumber/String  4096 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -258,91 +258,91 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  50 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  50 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/StdlibDiagram.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN171331 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.sprite.StdlibDiagram.drawInternal@POLYN172965 the MagicNumber/String  1024 should be converted to const"
 }} 
 ]
 , 

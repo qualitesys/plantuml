@@ -2,13 +2,13 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java 4 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java 3 rule violations " 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Shader"
+ , "c1" : ""
  , "c2" : "ext.plantuml.com.ctreber.acearth.shader.ShaderFlat"
 }} 
 ]
@@ -76,13 +76,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -94,24 +87,17 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00014"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#14"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00014] For method getShadedColors list of called methods Object monObjet|java.awt.Color getShadedColorForTypeN142289"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN141854 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN143488 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00019"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderFlat.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN141854 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method ext.plantuml.com.ctreber.acearth.shader.ShaderFlat.getShadedColors@POLYN143488 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ]
 , 

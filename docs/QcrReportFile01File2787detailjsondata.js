@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "XmiClassDiagramAbstractXmlDiagramTransformer"
+ , "c1" : "XmlDiagramTransformer"
  , "c2" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStandard"
 }} 
 ]
@@ -104,7 +104,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.xmi.XmiClassDiagramStandard.XmiClassDiagramStandard@POLYN150052 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.xmi.XmiClassDiagramStandard.XmiClassDiagramStandard@POLYN151686 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

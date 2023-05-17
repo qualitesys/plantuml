@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DriverShadowedG2dUDriver<ULine,Graphics2D>"
+ , "c1" : "UDriver<ULine,Graphics2D>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d"
 }} 
 ]
@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.draw@POLYN157361 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.draw@POLYN158995 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -180,21 +180,21 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.manageStroke@POLYN158633 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.manageStroke@POLYN160267 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.manageStroke@POLYN158633 the MagicNumber/String  10.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.manageStroke@POLYN160267 the MagicNumber/String  10.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverLineG2d.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.manageStroke@POLYN158633 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d.manageStroke@POLYN160267 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

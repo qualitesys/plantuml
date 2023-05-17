@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTileTile"
+ , "c1" : "Tile"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.NoteTile"
 }} 
 ]
@@ -212,7 +212,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sequencediagram.teoz.NoteTile.getContactPointRelative@POLYN174261 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sequencediagram.teoz.NoteTile.getContactPointRelative@POLYN175895 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -268,14 +268,14 @@ var maDataBlocs = {
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.teoz.NoteTile.getX@POLYN178145 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.teoz.NoteTile.getX@POLYN179779 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.sequencediagram.teoz.NoteTile.getX@POLYN178145 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.sequencediagram.teoz.NoteTile.getX@POLYN179779 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

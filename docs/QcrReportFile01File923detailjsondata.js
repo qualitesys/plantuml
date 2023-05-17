@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<AbstractEntityDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.command.CommandEndPackage"
 }} 
 ]
@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandEndPackage.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandEndPackage.getRegexConcat@POLYN152951 the MagicNumber/String  '\\}' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandEndPackage.getRegexConcat@POLYN154585 the MagicNumber/String  '\\}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandEndPackage.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandEndPackage.executeArg@POLYN153266 the MagicNumber/String  'No package or namespace defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandEndPackage.executeArg@POLYN154900 the MagicNumber/String  'No package or namespace defined' should be converted to const"
 }} 
 ]
 , 

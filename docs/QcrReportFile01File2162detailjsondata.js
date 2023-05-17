@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<TitledDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.style.CommandStyleImport"
 }} 
 ]
@@ -108,56 +108,56 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN158930 the MagicNumber/String  '\\&amp;lt;style' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN160564 the MagicNumber/String  '\\&amp;lt;style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN158930 the MagicNumber/String  '\\w+' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN160564 the MagicNumber/String  '\\w+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN158930 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN160564 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN158930 the MagicNumber/String  '[%q%g]?' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN160564 the MagicNumber/String  '[%q%g]?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN158930 the MagicNumber/String  'PATH' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN160564 the MagicNumber/String  'PATH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN158930 the MagicNumber/String  '([^%q%g]*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN160564 the MagicNumber/String  '([^%q%g]*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN158930 the MagicNumber/String  '[%q%g]?' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN160564 the MagicNumber/String  '[%q%g]?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN158930 the MagicNumber/String  '\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.style.CommandStyleImport.getRegexConcat@POLYN160564 the MagicNumber/String  '\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -185,56 +185,56 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN159767 the MagicNumber/String  'PATH' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN161401 the MagicNumber/String  'PATH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN159767 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN161401 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN159767 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN161401 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN159767 the MagicNumber/String  '/skin/' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN161401 the MagicNumber/String  '/skin/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN159767 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN161401 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN159767 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN161401 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN159767 the MagicNumber/String  'Cannot read: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN161401 the MagicNumber/String  'Cannot read: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/CommandStyleImport.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN159767 the MagicNumber/String  'Cannot read: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.style.CommandStyleImport.executeArg@POLYN161401 the MagicNumber/String  'Cannot read: ' should be converted to const"
 }} 
 ]
 , 

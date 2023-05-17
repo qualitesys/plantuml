@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ST_Agrec_s"
+ , "c1" : ""
  , "c2" : "h.ST_Agnodeinfo_t"
 }} 
 ]

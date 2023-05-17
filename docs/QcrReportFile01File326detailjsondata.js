@@ -147,133 +147,133 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  6f should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  6f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  1f should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  1f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  0.8f should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  0.8f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  'Either a SymbolFactory must exist or withLines == true.' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  'Either a SymbolFactory must exist or withLines == true.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN180312 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method jcckit.plot.SimpleCurve.SimpleCurve@POLYN181944 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -287,42 +287,42 @@ var maDataBlocs = {
  , "c1" : "00158"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#158"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00158] For method addPoint list of called methods Object monObjet|jcckit.plot.Symbol _symbolFactory_createSymbolN183528|jcckit.plot.Hint symbol_getHintForNextPointN183924|jcckit.plot.Hint symbol_getHintForNextCurveN183998"
+ , "c3" : "QC-JAV000007[00158] For method addPoint list of called methods Object monObjet|jcckit.plot.Symbol _symbolFactory_createSymbolN185160|jcckit.plot.Hint symbol_getHintForNextPointN185556|jcckit.plot.Hint symbol_getHintForNextCurveN185630"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method jcckit.plot.SimpleCurve.addPoint@POLYN183131 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method jcckit.plot.SimpleCurve.addPoint@POLYN184763 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method jcckit.plot.SimpleCurve.addPoint@POLYN183131 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method jcckit.plot.SimpleCurve.addPoint@POLYN184763 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method jcckit.plot.SimpleCurve.addPoint@POLYN183131 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method jcckit.plot.SimpleCurve.addPoint@POLYN184763 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method jcckit.plot.SimpleCurve.removeAllPoints@POLYN184079 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method jcckit.plot.SimpleCurve.removeAllPoints@POLYN185711 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/jcckit/plot/SimpleCurve.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method jcckit.plot.SimpleCurve.removeAllPoints@POLYN184079 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method jcckit.plot.SimpleCurve.removeAllPoints@POLYN185711 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

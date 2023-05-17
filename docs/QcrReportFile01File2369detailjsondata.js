@@ -104,35 +104,35 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN148775 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN150407 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN148775 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN150407 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN148775 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN150407 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN148775 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN150407 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/text/RichText.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN148775 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.text.RichText.isRich@POLYN150407 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockWithPorts"
+ , "c1" : "WithPorts"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon"
 }} 
 ]
@@ -169,14 +169,14 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getJsonTextBlock@POLYN180296 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getJsonTextBlock@POLYN181930 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getJsonTextBlock@POLYN180296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getJsonTextBlock@POLYN181930 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -232,7 +232,7 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getWidth1@POLYN181728 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getWidth1@POLYN183364 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,7 +253,7 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getWidth2@POLYN182263 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getWidth2@POLYN183899 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -295,7 +295,7 @@ var maDataBlocs = {
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getHeight@POLYN182820 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockJson.getHeight@POLYN184456 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -365,28 +365,28 @@ var maDataBlocs = {
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN186435 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN188071 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN186435 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN188071 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN186435 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN188071 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN186435 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.getTextBlock@POLYN188071 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -414,14 +414,14 @@ var maDataBlocs = {
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.calculateDimension@POLYN187397 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.calculateDimension@POLYN189035 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.calculateDimension@POLYN187397 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.calculateDimension@POLYN189035 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -449,14 +449,14 @@ var maDataBlocs = {
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.drawU@POLYN188034 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.drawU@POLYN189672 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00211"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockCucaJSon.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.drawU@POLYN188034 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon.TextBlockArray.drawU@POLYN189672 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

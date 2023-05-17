@@ -160,112 +160,112 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN166968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode@POLYN168600 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -279,49 +279,49 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN168146 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN169778 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN168146 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN169778 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN168146 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN169778 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN168146 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN169778 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN168146 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN169778 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN168146 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN169778 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN168146 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode@POLYN169778 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -335,63 +335,63 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  'length=' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  'length=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN169180 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.computeSize@POLYN170812 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -405,7 +405,7 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.scharAt@POLYN169786 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.scharAt@POLYN171418 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -426,119 +426,119 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  26 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  26 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  26 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  26 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  26 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  26 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  'a' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  'a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  26 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  26 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN170234 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.encode6bit@POLYN171866 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -559,84 +559,84 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  0x3 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  0x3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  0xF should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  0xF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN171386 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.append3bytes@POLYN173018 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -650,63 +650,63 @@ var maDataBlocs = {
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  0x0F should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  0x0F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  0x3 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  0x3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderBase64.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN172628 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.code.AsciiEncoderBase64.decode3bytes@POLYN174260 the MagicNumber/String  6 should be converted to const"
 }} 
 ]
 , 

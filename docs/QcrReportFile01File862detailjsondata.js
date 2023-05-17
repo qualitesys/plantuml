@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<ClassDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing"
 }} 
 ]
@@ -108,21 +108,21 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAllowMixing.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.getRegexConcat@POLYN152646 the MagicNumber/String  'allow' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.getRegexConcat@POLYN154280 the MagicNumber/String  'allow' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAllowMixing.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.getRegexConcat@POLYN152646 the MagicNumber/String  '_?' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.getRegexConcat@POLYN154280 the MagicNumber/String  '_?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAllowMixing.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.getRegexConcat@POLYN152646 the MagicNumber/String  'mixing' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.getRegexConcat@POLYN154280 the MagicNumber/String  'mixing' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,7 +143,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandAllowMixing.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.executeArg@POLYN153085 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing.executeArg@POLYN154719 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

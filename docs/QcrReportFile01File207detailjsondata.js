@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UnsupportedStarStruct"
+ , "c1" : ""
  , "c2" : "h.ST_HDict_t"
 }} 
 ]
@@ -104,21 +104,21 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/h/ST_HDict_t.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method h.ST_HDict_t.getTheField@POLYN156541 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method h.ST_HDict_t.getTheField@POLYN158175 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/h/ST_HDict_t.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method h.ST_HDict_t.getTheField@POLYN156541 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method h.ST_HDict_t.getTheField@POLYN158175 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/h/ST_HDict_t.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method h.ST_HDict_t.getTheField@POLYN156541 the MagicNumber/String  'key' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method h.ST_HDict_t.getTheField@POLYN158175 the MagicNumber/String  'key' should be converted to const"
 }} 
 ]
 , 

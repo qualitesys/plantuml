@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PlainStringsDiagram"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.stats.PSystemStats"
 }} 
 ]
@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStats.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.stats.PSystemStats.getDescription@POLYN150650 the MagicNumber/String  '(Stats)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.stats.PSystemStats.getDescription@POLYN152284 the MagicNumber/String  '(Stats)' should be converted to const"
 }} 
 ]
 , 

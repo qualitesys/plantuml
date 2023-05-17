@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DisplayPositionned"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.cucadiagram.DisplayPositioned"
 }} 
 ]

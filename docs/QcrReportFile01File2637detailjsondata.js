@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UGraphicNo"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.ugraphic.comp.SlotFinder"
 }} 
 ]
@@ -252,7 +252,7 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/SlotFinder.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.comp.SlotFinder.drawText@POLYN177698 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ugraphic.comp.SlotFinder.drawText@POLYN179332 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UnsupportedStarStruct"
+ , "c1" : ""
  , "c2" : "h.ST_rank_t"
 }} 
 ]
@@ -169,28 +169,28 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/h/ST_rank_t.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method h.ST_rank_t.toString@POLYN159775 the MagicNumber/String  'RANK n=' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method h.ST_rank_t.toString@POLYN161409 the MagicNumber/String  'RANK n=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/h/ST_rank_t.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method h.ST_rank_t.toString@POLYN159775 the MagicNumber/String  ' v=' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method h.ST_rank_t.toString@POLYN161409 the MagicNumber/String  ' v=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/h/ST_rank_t.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method h.ST_rank_t.toString@POLYN159775 the MagicNumber/String  ' an=' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method h.ST_rank_t.toString@POLYN161409 the MagicNumber/String  ' an=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/h/ST_rank_t.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method h.ST_rank_t.toString@POLYN159775 the MagicNumber/String  ' av=' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method h.ST_rank_t.toString@POLYN161409 the MagicNumber/String  ' av=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

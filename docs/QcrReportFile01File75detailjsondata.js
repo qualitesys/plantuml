@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Exception"
+ , "c1" : ""
  , "c2" : "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonException"
 }} 
 ]

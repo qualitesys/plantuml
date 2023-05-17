@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractConnectionConnectionTranslatable"
+ , "c1" : "ConnectionTranslatable"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ConnectionVerticalDown"
 }} 
 ]
@@ -133,7 +133,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ConnectionVerticalDown.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ConnectionVerticalDown.ConnectionVerticalDown@POLYN159531 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ConnectionVerticalDown.ConnectionVerticalDown@POLYN161165 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -189,7 +189,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ConnectionVerticalDown.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ConnectionVerticalDown.drawTranslate@POLYN161021 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ConnectionVerticalDown.drawTranslate@POLYN162655 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ]
 , 

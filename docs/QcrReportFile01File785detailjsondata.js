@@ -198,42 +198,42 @@ var maDataBlocs = {
  , "c1" : "00013"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.awt.geom.XLine2D.XLine2D@POLYN155216 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.awt.geom.XLine2D.XLine2D@POLYN156848 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00013"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.awt.geom.XLine2D.XLine2D@POLYN155216 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.awt.geom.XLine2D.XLine2D@POLYN156848 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00013"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.awt.geom.XLine2D.XLine2D@POLYN155216 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.awt.geom.XLine2D.XLine2D@POLYN156848 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00013"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#13"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.awt.geom.XLine2D.XLine2D@POLYN155216 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00013] In method net.sourceforge.plantuml.awt.geom.XLine2D.XLine2D@POLYN156848 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00025"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#25"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.awt.geom.XLine2D.getMiddle@POLYN155787 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00025] In method net.sourceforge.plantuml.awt.geom.XLine2D.getMiddle@POLYN157419 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00026"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.awt.geom.XLine2D.getMiddle@POLYN155787 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.awt.geom.XLine2D.getMiddle@POLYN157419 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -289,42 +289,42 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN158311 the MagicNumber/String  0.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN159943 the MagicNumber/String  0.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN158311 the MagicNumber/String  0.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN159943 the MagicNumber/String  0.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN158311 the MagicNumber/String  0.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN159943 the MagicNumber/String  0.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN158311 the MagicNumber/String  0.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN159943 the MagicNumber/String  0.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN158311 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN159943 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XLine2D.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN158311 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.awt.geom.XLine2D.ptSegDistSq@POLYN159943 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

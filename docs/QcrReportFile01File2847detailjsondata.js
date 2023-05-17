@@ -510,14 +510,14 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method smetana.core.JUtils.strstr@POLYN193008 the MagicNumber/String  's1=' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method smetana.core.JUtils.strstr@POLYN194640 the MagicNumber/String  's1=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method smetana.core.JUtils.strstr@POLYN193008 the MagicNumber/String  ' s2=' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method smetana.core.JUtils.strstr@POLYN194640 the MagicNumber/String  ' s2=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -559,28 +559,28 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#94"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00094] For method strtol list of called methods Object monObjet|smetana.core.CString end_plus_N194122"
+ , "c3" : "QC-JAV000007[00094] For method strtol list of called methods Object monObjet|smetana.core.CString end_plus_N195754"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method smetana.core.JUtils.strtol@POLYN193642 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method smetana.core.JUtils.strtol@POLYN195274 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method smetana.core.JUtils.strtol@POLYN193642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method smetana.core.JUtils.strtol@POLYN195274 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method smetana.core.JUtils.strtol@POLYN193642 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method smetana.core.JUtils.strtol@POLYN195274 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -622,21 +622,21 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method smetana.core.JUtils.memcmp@POLYN194733 the MagicNumber/String  's1=' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method smetana.core.JUtils.memcmp@POLYN196365 the MagicNumber/String  's1=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method smetana.core.JUtils.memcmp@POLYN194733 the MagicNumber/String  ' s2=' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method smetana.core.JUtils.memcmp@POLYN196365 the MagicNumber/String  ' s2=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method smetana.core.JUtils.memcmp@POLYN194733 the MagicNumber/String  ' sz=' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method smetana.core.JUtils.memcmp@POLYN196365 the MagicNumber/String  ' sz=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -650,7 +650,7 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method smetana.core.JUtils.memset@POLYN195042 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method smetana.core.JUtils.memset@POLYN196674 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -734,7 +734,7 @@ var maDataBlocs = {
  , "c1" : "00164"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method smetana.core.JUtils.getenv@POLYN196911 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method smetana.core.JUtils.getenv@POLYN198543 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -762,7 +762,7 @@ var maDataBlocs = {
  , "c1" : "00175"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#175"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00175] For method EQ list of called methods Object monObjet|boolean EQ_N197289"
+ , "c3" : "QC-JAV000007[00175] For method EQ list of called methods Object monObjet|boolean EQ_N198921"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -790,84 +790,84 @@ var maDataBlocs = {
  , "c1" : "00189"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  'o1=' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  'o1=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  'o2=' should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  'o2=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -881,7 +881,7 @@ var maDataBlocs = {
  , "c1" : "00213"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method smetana.core.JUtils.NEQ@POLYN199509 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method smetana.core.JUtils.NEQ@POLYN201141 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -895,7 +895,7 @@ var maDataBlocs = {
  , "c1" : "00216"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#216"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00216] For method qsort1 list of called methods Object monObjet|smetana.core.CArrayOfStar array_plus_N200246|smetana.core.CArrayOfStar array_plus_N200340"
+ , "c3" : "QC-JAV000007[00216] For method qsort1 list of called methods Object monObjet|smetana.core.CArrayOfStar array_plus_N201878|smetana.core.CArrayOfStar array_plus_N201972"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -972,63 +972,63 @@ var maDataBlocs = {
  , "c1" : "00217"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  'qsort1 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  'qsort1 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00220"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method smetana.core.JUtils.qsort1@POLYN199716 the MagicNumber/String  'qsort1 ok' should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method smetana.core.JUtils.qsort1@POLYN201348 the MagicNumber/String  'qsort1 ok' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1105,70 +1105,70 @@ var maDataBlocs = {
  , "c1" : "00236"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  'qsort2 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  'qsort2 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00248"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00252"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method smetana.core.JUtils.qsort2@POLYN200949 the MagicNumber/String  'qsort2 ok' should be converted to const"
+ , "c3" : "QC-JAV000010[00252] In method smetana.core.JUtils.qsort2@POLYN202581 the MagicNumber/String  'qsort2 ok' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1189,7 +1189,7 @@ var maDataBlocs = {
  , "c1" : "00261"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method smetana.core.JUtils.setjmp@POLYN202391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method smetana.core.JUtils.setjmp@POLYN204023 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1203,35 +1203,35 @@ var maDataBlocs = {
  , "c1" : "00266"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#266"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00266] For method printDebugEdge list of called methods Object monObjet|O splines_list_get__N202983"
+ , "c3" : "QC-JAV000007[00266] For method printDebugEdge list of called methods Object monObjet|O splines_list_get__N204615"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method smetana.core.JUtils.printDebugEdge@POLYN202550 the MagicNumber/String  '*********** PRINT EDGE ********** ' should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method smetana.core.JUtils.printDebugEdge@POLYN204182 the MagicNumber/String  '*********** PRINT EDGE ********** ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00271"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method smetana.core.JUtils.printDebugEdge@POLYN202550 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method smetana.core.JUtils.printDebugEdge@POLYN204182 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00272"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method smetana.core.JUtils.printDebugEdge@POLYN202550 the MagicNumber/String  'splines.size=' should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method smetana.core.JUtils.printDebugEdge@POLYN204182 the MagicNumber/String  'splines.size=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method smetana.core.JUtils.printDebugEdge@POLYN202550 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method smetana.core.JUtils.printDebugEdge@POLYN204182 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1252,21 +1252,21 @@ var maDataBlocs = {
  , "c1" : "00281"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#281"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method smetana.core.JUtils.pointftoString@POLYN203312 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00281] In method smetana.core.JUtils.pointftoString@POLYN204944 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00283"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#283"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method smetana.core.JUtils.pointftoString@POLYN203312 the MagicNumber/String  ' ; ' should be converted to const"
+ , "c3" : "QC-JAV000010[00283] In method smetana.core.JUtils.pointftoString@POLYN204944 the MagicNumber/String  ' ; ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00285"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#285"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00285] In method smetana.core.JUtils.pointftoString@POLYN203312 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00285] In method smetana.core.JUtils.pointftoString@POLYN204944 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1280,7 +1280,7 @@ var maDataBlocs = {
  , "c1" : "00289"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#289"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00289] For method printDebugBezier list of called methods Object monObjet|O bezier_list_get__N204777"
+ , "c3" : "QC-JAV000007[00289] For method printDebugBezier list of called methods Object monObjet|O bezier_list_get__N206409"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1301,49 +1301,49 @@ var maDataBlocs = {
  , "c1" : "00290"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method smetana.core.JUtils.printDebugBezier@POLYN203893 the MagicNumber/String  'bezier.size=' should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method smetana.core.JUtils.printDebugBezier@POLYN205525 the MagicNumber/String  'bezier.size=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method smetana.core.JUtils.printDebugBezier@POLYN203893 the MagicNumber/String  'bezier.sflag=' should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method smetana.core.JUtils.printDebugBezier@POLYN205525 the MagicNumber/String  'bezier.sflag=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method smetana.core.JUtils.printDebugBezier@POLYN203893 the MagicNumber/String  'splines.eflag=' should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method smetana.core.JUtils.printDebugBezier@POLYN205525 the MagicNumber/String  'splines.eflag=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method smetana.core.JUtils.printDebugBezier@POLYN203893 the MagicNumber/String  'bezier.sp=' should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method smetana.core.JUtils.printDebugBezier@POLYN205525 the MagicNumber/String  'bezier.sp=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method smetana.core.JUtils.printDebugBezier@POLYN203893 the MagicNumber/String  'bezier.ep=' should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method smetana.core.JUtils.printDebugBezier@POLYN205525 the MagicNumber/String  'bezier.ep=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method smetana.core.JUtils.printDebugBezier@POLYN203893 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method smetana.core.JUtils.printDebugBezier@POLYN205525 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00297"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00297] In method smetana.core.JUtils.printDebugBezier@POLYN203893 the MagicNumber/String  'pt=' should be converted to const"
+ , "c3" : "QC-JAV000010[00297] In method smetana.core.JUtils.printDebugBezier@POLYN205525 the MagicNumber/String  'pt=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1364,91 +1364,91 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.JUtils.EQ_@POLYN197853"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.JUtils.EQ_@POLYN199485"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#189"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00189] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String true MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00189] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String true MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#191"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00191] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00191] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#191"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00191] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00191] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#192"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00192] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00192] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#194"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00194] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00194] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#194"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00194] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00194] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#195"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00195] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00195] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#201"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00201] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00201] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#207"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00207] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00207] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#207"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00207] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String 'o1=' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00207] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String 'o1=' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#208"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00208] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00208] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String ' ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#208"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00208] In the recursive method smetana.core.JUtils.EQ_@POLYN197853 the MagicNumber/String 'o2=' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00208] In the recursive method smetana.core.JUtils.EQ_@POLYN199485 the MagicNumber/String 'o2=' MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GraphicalElement"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement"
 }} 
 ]
@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElement.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement.getActualWidth@POLYN151175 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement.getActualWidth@POLYN152809 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

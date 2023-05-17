@@ -103,7 +103,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Terminated.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.Terminated.toString@POLYN149951 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.Terminated.toString@POLYN151583 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
 , 

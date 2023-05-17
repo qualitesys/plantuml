@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "RuntimeException"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.json.ParseException"
 }} 
 ]
@@ -112,7 +112,7 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/ParseException.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.json.ParseException.ParseException@POLYN157467 the MagicNumber/String  ' at ' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.json.ParseException.ParseException@POLYN159101 the MagicNumber/String  ' at ' should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PSystemBasicFactory<PSystemCreole>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.creole.legacy.PSystemCreoleFactory"
 }} 
 ]
@@ -115,7 +115,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/PSystemCreoleFactory.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.creole.legacy.PSystemCreoleFactory.initDiagram@POLYN150368 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.creole.legacy.PSystemCreoleFactory.initDiagram@POLYN152002 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

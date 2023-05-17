@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "HColor"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.ugraphic.color.HColorScheme"
 }} 
 ]
@@ -113,7 +113,7 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorScheme.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.color.HColorScheme.getAppropriateColor@POLYN150201 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.color.HColorScheme.getAppropriateColor@POLYN151835 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

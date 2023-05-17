@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GtileWithMarginGtile"
+ , "c1" : "Gtile"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow"
 }} 
 ]
@@ -85,28 +85,28 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithIncomingArrow.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow.GtileWithIncomingArrow@POLYN150980 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow.GtileWithIncomingArrow@POLYN152614 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithIncomingArrow.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow.GtileWithIncomingArrow@POLYN150980 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow.GtileWithIncomingArrow@POLYN152614 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithIncomingArrow.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow.GtileWithIncomingArrow@POLYN150980 the MagicNumber/String  'Warning 1' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow.GtileWithIncomingArrow@POLYN152614 the MagicNumber/String  'Warning 1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileWithIncomingArrow.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow.getInnerConnections@POLYN151391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow.getInnerConnections@POLYN153025 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

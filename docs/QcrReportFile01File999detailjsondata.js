@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractEntityDiagram"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.compositediagram.CompositeDiagram"
 }} 
 ]
@@ -99,7 +99,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/compositediagram/CompositeDiagram.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.compositediagram.CompositeDiagram.getOrCreateLeaf@POLYN152974 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.compositediagram.CompositeDiagram.getOrCreateLeaf@POLYN154608 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

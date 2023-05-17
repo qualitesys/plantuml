@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DriverShadowedG2dUDriver<UEllipse,Graphics2D>"
+ , "c1" : "UDriver<UEllipse,Graphics2D>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d"
 }} 
 ]
@@ -136,49 +136,49 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN162988 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN164622 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN162988 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN164622 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN162988 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN164622 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN162988 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN164622 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN162988 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN164622 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN162988 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN164622 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverEllipseG2d.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN162988 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d.draw@POLYN164622 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

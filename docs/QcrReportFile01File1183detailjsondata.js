@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CommandMultilines2<AbstractEntityDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines"
 }} 
 ]
@@ -126,84 +126,84 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getPatternEnd@POLYN167508 the MagicNumber/String  '^(.*)\\]$' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getPatternEnd@POLYN169142 the MagicNumber/String  '^(.*)\\]$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  'archimate' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  'archimate' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  '([%pLN_.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  '([%pLN_.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  'STEREOTYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  'STEREOTYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  '(?:\\&amp;lt;\\&amp;lt;([-\\w]+)\\&amp;gt;\\&amp;gt;)' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  '(?:\\&amp;lt;\\&amp;lt;([-\\w]+)\\&amp;gt;\\&amp;gt;)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  ')?' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  ')?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  '\\[' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  '\\[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  'DESC' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  'DESC' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN167601 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.getRegexConcat@POLYN169235 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -231,77 +231,77 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  'STEREOTYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  'STEREOTYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  '&amp;lt;&amp;lt;$archimate/' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  '&amp;lt;&amp;lt;$archimate/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/command/CommandArchimateMultilines.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN168992 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines.executeNow@POLYN170626 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractExtremityFactoryExtremityFactory"
+ , "c1" : "ExtremityFactory"
  , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis"
 }} 
 ]
@@ -106,7 +106,7 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryParenthesis.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis.createUDrawable@POLYN152222 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis.createUDrawable@POLYN153856 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -134,14 +134,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryParenthesis.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis.createUDrawable@POLYN152508 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis.createUDrawable@POLYN154142 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryParenthesis.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis.createUDrawable@POLYN152508 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis.createUDrawable@POLYN154142 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

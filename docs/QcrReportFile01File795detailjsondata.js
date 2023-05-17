@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<BoardDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.board.CommandBoardPlus"
 }} 
 ]
@@ -108,35 +108,35 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.board.CommandBoardPlus.CommandBoardPlus@POLYN152790 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.board.CommandBoardPlus.CommandBoardPlus@POLYN154424 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN152936 the MagicNumber/String  'PLUS' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN154570 the MagicNumber/String  'PLUS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN152936 the MagicNumber/String  '([+]*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN154570 the MagicNumber/String  '([+]*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN152936 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN154570 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN152936 the MagicNumber/String  '([^%s].*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.board.CommandBoardPlus.getRegexConcat@POLYN154570 the MagicNumber/String  '([^%s].*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -164,28 +164,28 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN153403 the MagicNumber/String  'PLUS' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN155037 the MagicNumber/String  'PLUS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN153403 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN155037 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN153403 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN155037 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/CommandBoardPlus.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN153403 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.board.CommandBoardPlus.executeArg@POLYN155037 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<AbstractClassOrObjectDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop"
 }} 
 ]
@@ -169,147 +169,147 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  'HEADER' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  'HEADER' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '@([\\d.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '@([\\d.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  'ENT1' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  'ENT1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '(?:' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '(?:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '[%s]+)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '[%s]+)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '(\\.?[%pLN_]+(?:\\.[%pLN_]+)*|[%g][^%g]+[%g])[%s]*(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '(\\.?[%pLN_]+(?:\\.[%pLN_]+)*|[%g][^%g]+[%g])[%s]*(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  'FIRST_LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  'FIRST_LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '[%g]([^%g]+)[%g]' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '[%g]([^%g]+)[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '([()]\\))([-=.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '([()]\\))([-=.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '([-=.]+)(\\([()])' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '([-=.]+)(\\([()])' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  'SECOND_LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  'SECOND_LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '[%g]([^%g]+)[%g]' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '[%g]([^%g]+)[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  'ENT2' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  'ENT2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '(?:' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '(?:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '[%s]+)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '[%s]+)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '(\\.?[%pLN_]+(?:\\.[%pLN_]+)*|[%g][^%g]+[%g])[%s]*(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '(\\.?[%pLN_]+(?:\\.[%pLN_]+)*|[%g][^%g]+[%g])[%s]*(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  'LABEL_LINK' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  'LABEL_LINK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN185574 the MagicNumber/String  '(.+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getRegexConcat@POLYN187208 the MagicNumber/String  '(.+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -323,14 +323,14 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.optionalKeywords@POLYN187374 the MagicNumber/String  '(interface|enum|annotation|abstract[%s]+class|abstract|class|entity|protocol|struct|exception|metaclass|stereotype)' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.optionalKeywords@POLYN189008 the MagicNumber/String  '(interface|enum|annotation|abstract[%s]+class|abstract|class|entity|protocol|struct|exception|metaclass|stereotype)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.optionalKeywords@POLYN187374 the MagicNumber/String  '(object)' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.optionalKeywords@POLYN189008 the MagicNumber/String  '(object)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -351,14 +351,14 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getType@POLYN187699 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getType@POLYN189333 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getType@POLYN187699 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getType@POLYN189333 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -386,322 +386,322 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'ENT1' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'ENT1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'ENT2' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'ENT2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'lol' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'lol' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'FIRST_LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'FIRST_LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'SECOND_LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'SECOND_LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'LABEL_LINK' should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'LABEL_LINK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'LABEL_LINK' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'LABEL_LINK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  '^\'([^\']+)\'([^\']+)\'([^\']+)\'$' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  '^\'([^\']+)\'([^\']+)\'([^\']+)\'$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  '^\'([^\']+)\'([^\']+)$' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  '^\'([^\']+)\'([^\']+)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  '^([^\']+)\'([^\']+)\'$' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  '^([^\']+)\'([^\']+)\'$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  'HEADER' should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  'HEADER' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN188008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.executeArg@POLYN189642 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -729,28 +729,28 @@ var maDataBlocs = {
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getFoo1@POLYN194819 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getFoo1@POLYN196453 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getFoo1@POLYN194819 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getFoo1@POLYN196453 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getFoo1@POLYN194819 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getFoo1@POLYN196453 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getFoo1@POLYN194819 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getFoo1@POLYN196453 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -778,7 +778,7 @@ var maDataBlocs = {
  , "c1" : "00213"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.addLink@POLYN195473 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.addLink@POLYN197107 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -806,70 +806,70 @@ var maDataBlocs = {
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  'LOL_THEN_ENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  'ENT_THEN_LOL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkLollipop.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN196054 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop.getQueue@POLYN197688 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

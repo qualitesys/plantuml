@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractGtileRootGtile"
+ , "c1" : "Gtile"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithMargin"
 }} 
 ]

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Point"
+ , "c1" : ""
  , "c2" : "jcckit.graphic.GraphPoint"
 }} 
 ]

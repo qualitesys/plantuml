@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "BasicGraphicalElement"
+ , "c1" : ""
  , "c2" : "jcckit.graphic.Text"
 }} 
 ]
@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/jcckit/graphic/Text.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method jcckit.graphic.Text.renderWith@POLYN150306 the MagicNumber/String  ' does not implements TextRenderer.' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method jcckit.graphic.Text.renderWith@POLYN151940 the MagicNumber/String  ' does not implements TextRenderer.' should be converted to const"
 }} 
 ]
 , 

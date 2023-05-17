@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockTextBlock"
+ , "c1" : "TextBlock"
  , "c2" : "net.sourceforge.plantuml.svek.DirectionalTextBlock"
 }} 
 ]

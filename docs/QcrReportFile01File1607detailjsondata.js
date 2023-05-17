@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "RacorderAbstractRacorder"
+ , "c1" : "Racorder"
  , "c2" : "net.sourceforge.plantuml.posimo.RacorderFollowTangeanteOld"
 }} 
 ]

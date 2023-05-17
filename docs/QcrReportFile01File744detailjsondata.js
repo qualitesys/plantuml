@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Argon2Exception"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException"
 }} 
 ]

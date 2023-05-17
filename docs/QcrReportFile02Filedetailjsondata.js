@@ -4,95 +4,310 @@ console.log('main start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : [
 {"ligne" : {
-   "classe"  : "(2) AFile" ,
+   "classe"  : "(2) " ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.AFileRegular" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.AFileZipEntry" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AParentFolder" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.AParentFolderRegular" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.AParentFolderZip" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractAtomAtom" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.creole.CreoleHorizontalLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomEmoji" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomImg" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomImgSvg" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomMath" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomOpenIcon" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomSpace" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomSprite" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomTable" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomTree" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomVerticalTexts" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomWithMargin" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.Bullet" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.legacy.AtomText" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractClassOrObjectDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.ClassDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractCodeIterator" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorForeach" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorIf" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorInnerComment" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorLongComment" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorProcedure" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorShortComment" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorSub" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractCommonUGraphic" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.AbstractUGraphic" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractCommonUGraphicClipContainer" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.debug.UGraphicDebug" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractComponent" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.skin.AbstractTextualComponent" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseActiveLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDelayLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDestroy" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseNewpage" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractComponentRoseArrow" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseSelfArrow" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractComponentText" ,
-"children" : [
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.ConfigurationACearth" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.gui.CanvasACearth" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.projection.ProjectionCyl" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.projection.ProjectionMerc" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapDefault" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorStars" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.shader.ShaderDefault" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.shader.ShaderFlat" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MOBoolean" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MODouble" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MOEnum" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MOInteger" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MOString" }, 
+  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.sort.QuickSort" }, 
+  { "child"  : "(1) ext.plantuml.com.google.zxing.ChecksumException" }, 
+  { "child"  : "(1) ext.plantuml.com.google.zxing.FormatException" }, 
+  { "child"  : "(1) ext.plantuml.com.google.zxing.NotFoundException" }, 
+  { "child"  : "(1) ext.plantuml.com.google.zxing.ReaderException" }, 
+  { "child"  : "(1) ext.plantuml.com.google.zxing.WriterException" }, 
+  { "child"  : "(1) ext.plantuml.com.google.zxing.common.CharacterSetECI" }, 
+  { "child"  : "(1) ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonException" }, 
+  { "child"  : "(1) h.ST_Agattr_s" }, 
+  { "child"  : "(1) h.ST_Agcbstack_s" }, 
+  { "child"  : "(1) h.ST_Agclos_s" }, 
+  { "child"  : "(1) h.ST_Agdatadict_s" }, 
+  { "child"  : "(1) h.ST_Agdesc_s" }, 
+  { "child"  : "(1) h.ST_Agdisc_s" }, 
+  { "child"  : "(1) h.ST_Agdstate_s" }, 
+  { "child"  : "(1) h.ST_Agedge_s" }, 
+  { "child"  : "(1) h.ST_Agedgeinfo_t" }, 
+  { "child"  : "(1) h.ST_Agedgepair_s" }, 
+  { "child"  : "(1) h.ST_Agiddisc_s" }, 
+  { "child"  : "(1) h.ST_Agiodisc_s" }, 
+  { "child"  : "(1) h.ST_Agmemdisc_s" }, 
+  { "child"  : "(1) h.ST_Agnode_s" }, 
+  { "child"  : "(1) h.ST_Agnodeinfo_t" }, 
+  { "child"  : "(1) h.ST_Agobj_s" }, 
+  { "child"  : "(1) h.ST_Agraph_s" }, 
+  { "child"  : "(1) h.ST_Agraphinfo_t" }, 
+  { "child"  : "(1) h.ST_Agrec_s" }, 
+  { "child"  : "(1) h.ST_Agsubnode_s" }, 
+  { "child"  : "(1) h.ST_Agsym_s" }, 
+  { "child"  : "(1) h.ST_Agtag_s" }, 
+  { "child"  : "(1) h.ST_BestPos_t" }, 
+  { "child"  : "(1) h.ST_Branch_t" }, 
+  { "child"  : "(1) h.ST_GVCOMMON_t" }, 
+  { "child"  : "(1) h.ST_GVC_s" }, 
+  { "child"  : "(1) h.ST_HDict_t" }, 
+  { "child"  : "(1) h.ST_IMapEntry_t" }, 
+  { "child"  : "(1) h.ST_LeafList_t" }, 
+  { "child"  : "(1) h.ST_PartitionVars" }, 
+  { "child"  : "(1) h.ST_Pedge_t" }, 
+  { "child"  : "(1) h.ST_Ppoly_t" }, 
+  { "child"  : "(1) h.ST_RTree" }, 
+  { "child"  : "(1) h.ST_Rect_t" }, 
+  { "child"  : "(1) h.ST_STheap_t" }, 
+  { "child"  : "(1) h.ST_SplitQ_t" }, 
+  { "child"  : "(1) h.ST_XLabels_t" }, 
+  { "child"  : "(1) h.ST_adjmatrix_t" }, 
+  { "child"  : "(1) h.ST_arrowdir_t" }, 
+  { "child"  : "(1) h.ST_arrowname_t" }, 
+  { "child"  : "(1) h.ST_arrowtype_t" }, 
+  { "child"  : "(1) h.ST_aspect_t" }, 
+  { "child"  : "(1) h.ST_bezier" }, 
+  { "child"  : "(1) h.ST_blk_t" }, 
+  { "child"  : "(1) h.ST_boxf" }, 
+  { "child"  : "(1) h.ST_cinfo_t" }, 
+  { "child"  : "(1) h.ST_deque_t" }, 
+  { "child"  : "(1) h.ST_dt_s" }, 
+  { "child"  : "(1) h.ST_dtdata_s" }, 
+  { "child"  : "(1) h.ST_dtdisc_s" }, 
+  { "child"  : "(1) h.ST_dthold_s" }, 
+  { "child"  : "(1) h.ST_dtlink_s" }, 
+  { "child"  : "(1) h.ST_dtmethod_s" }, 
+  { "child"  : "(1) h.ST_elist" }, 
+  { "child"  : "(1) h.ST_fontinfo" }, 
+  { "child"  : "(1) h.ST_gvlayout_engine_s" }, 
+  { "child"  : "(1) h.ST_gvlayout_features_t" }, 
+  { "child"  : "(1) h.ST_gvplugin_active_layout_t" }, 
+  { "child"  : "(1) h.ST_gvplugin_available_s" }, 
+  { "child"  : "(1) h.ST_gvplugin_installed_t" }, 
+  { "child"  : "(1) h.ST_inside_t" }, 
+  { "child"  : "(1) h.ST_label_params_t" }, 
+  { "child"  : "(1) h.ST_layout_t" }, 
+  { "child"  : "(1) h.ST_nlist_t" }, 
+  { "child"  : "(1) h.ST_nodequeue" }, 
+  { "child"  : "(1) h.ST_pack_info" }, 
+  { "child"  : "(1) h.ST_path" }, 
+  { "child"  : "(1) h.ST_pathend_t" }, 
+  { "child"  : "(1) h.ST_point" }, 
+  { "child"  : "(1) h.ST_pointf" }, 
+  { "child"  : "(1) h.ST_pointnlink_t" }, 
+  { "child"  : "(1) h.ST_port" }, 
+  { "child"  : "(1) h.ST_rank_t" }, 
+  { "child"  : "(1) h.ST_refstr_t" }, 
+  { "child"  : "(1) h.ST_shape_desc" }, 
+  { "child"  : "(1) h.ST_shape_functions" }, 
+  { "child"  : "(1) h.ST_splineInfo" }, 
+  { "child"  : "(1) h.ST_spline_info_t" }, 
+  { "child"  : "(1) h.ST_splines" }, 
+  { "child"  : "(1) h.ST_stk_t" }, 
+  { "child"  : "(1) h.ST_subtree_t" }, 
+  { "child"  : "(1) h.ST_tedge_t" }, 
+  { "child"  : "(1) h.ST_textfont_t" }, 
+  { "child"  : "(1) h.ST_textlabel_t" }, 
+  { "child"  : "(1) h.ST_textspan_t" }, 
+  { "child"  : "(1) h.ST_tna_t" }, 
+  { "child"  : "(1) h.ST_triangle_t" }, 
+  { "child"  : "(1) h.ST_xlabel_t" }, 
+  { "child"  : "(1) jcckit.GraphicsPlotCanvas" }, 
+  { "child"  : "(1) jcckit.data.DataPlot" }, 
+  { "child"  : "(1) jcckit.graphic.GraphPoint" }, 
+  { "child"  : "(1) jcckit.graphic.Oval" }, 
+  { "child"  : "(1) jcckit.graphic.Polygon" }, 
+  { "child"  : "(1) jcckit.graphic.Rectangle" }, 
+  { "child"  : "(1) jcckit.graphic.Text" }, 
+  { "child"  : "(1) jcckit.plot.BarFactory" }, 
+  { "child"  : "(1) jcckit.plot.CircleSymbolFactory" }, 
+  { "child"  : "(1) jcckit.plot.SquareSymbolFactory" }, 
+  { "child"  : "(1) jcckit.util.AppletBasedConfigData" }, 
+  { "child"  : "(1) jcckit.util.FactoryException" }, 
+  { "child"  : "(1) jcckit.util.PropertiesBasedConfigData" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.CounterOutputStream" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.NamedOutputStream" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.NewpagedDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.NullOutputStream" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.PlainDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.PlainStringsDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.SkinParamBackcolored" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.SkinParamBackcoloredReference" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.SkinParamColors" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.SkinParamForceColor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.SkinParamForecolored" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.acearth.PSystemXearth" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.acearth.PSystemXearthFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.ActivityDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.ActivityDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandElse" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandEndif" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandIf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandInnerConcurrent" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandLinkActivity" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandLinkLongActivity" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandPartition" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ActivityDiagramFactory3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.WithNote" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandArrow3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandArrowLong3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandBackward3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandBackwardLong3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandBreak" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandCase" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandElse3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandElseIf2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandEnd3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandEndPartition3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandEndif3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandFork3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandForkAgain3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandForkEnd3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandGoto" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandGroupEnd3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandIf2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandIf4" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandKill3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandLabel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandLink3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandNolink" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandNote3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandRepeat3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandRepeatWhile3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandRepeatWhile3Multilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSplit3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSplitAgain3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandStart3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandStop3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSwitch" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandWhile3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandWhileEnd3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionCross" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileDecorateWelding" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileEmpty" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileGoto" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileHeightFixedCentered" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileHeightFixedMarged" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileKilled" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileLabel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMarged" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedRight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedVertically" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedWest" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMinWidthCentered" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithConnection" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithSwimlanes" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithUrl" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.LaneDivider" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.UGraphicInterceptorUDrawable2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.ZadBuilder" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddUrl" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAssembly" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateGroup" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateParallel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorIf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorRepeat" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorWhile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInnerOverlapped" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileGroup" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfAndStop" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfDown" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfLongHorizontal" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfLongVertical" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileSplit1" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileSwitch" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWhile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNotes" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderFork" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderMerge" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.UGraphicInterceptorGoto" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.UGraphicInterceptorOneSwimlane" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileDimensionMemoize" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfNude" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithDiamonds" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithLinks" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithOneLink" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBox2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBoxOld" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleEnd" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleSpot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStart" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateIn" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateInLabel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateOut" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateOutLabel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecoratePointOut" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamond" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondSquare" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionSideThenVerticalThenSide" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDown" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDownThenBack" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDownThenHorizontal" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileAssembly" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleStart" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileEmpty" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileGoto" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileGroup" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileIfAlone" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileIfHexagon" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileLabel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileRepeat" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileTopDown" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileTopDown3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithNotes" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ant.PlantUmlTask" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.api.ImageDataComplex" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.api.ImageDataSimple" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.api.NumberAnalyzedDated" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.argon2.exception.Argon2Exception" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException" }, 
   { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextActiveLine" }, 
   { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextActor" }, 
   { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextDelay" }, 
@@ -108,42 +323,320 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextParticipant" }, 
   { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextReference" }, 
   { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextShape" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractComponentTextArrowComponent" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextSelfArrow" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractConnection" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.ConnectionCross" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractConnectionConnectionTranslatable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ConnectionVerticalDown" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractConnectorPuzzleConnectorPuzzle" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.BpmElement" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractConnectorPuzzlePlaceable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractElement" ,
-"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.asciiart.TextSkin" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.asciiart.TextStringBounder" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.awt.geom.XGeneralPath" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.board.BoardDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.board.BoardDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.board.CardBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.board.CommandBoardPlus" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.BpmDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.BpmDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandDockedEvent" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandElseBranch" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandEndBranch" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandGoto" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandMerge" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandNewBranch" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandResume" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.brotli.BrotliInputStream" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.brotli.BrotliRuntimeException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.AbstractEntityDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.ClassDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.ClassDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandAddMethod" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandCreateClass" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandCreateClassMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandCreateElementFull2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandHideShow2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandHideShowByGender" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandStereotype" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandUrl" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.code.NoPlantumlCompressionException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandAffineTransform" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandAffineTransformMultiline" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandAssumeTransparent" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandCaption" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandEndPackage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandFootboxIgnored" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandFooter" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandHeader" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandLegend" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMainframe" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMinwidth" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesCaption" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesComment" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesFooter" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesHeader" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesLegend" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesTitle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandNamespace" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandNamespace2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandNamespaceEmpty" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandNope" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandPackage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandPackageEmpty" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandPage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandPragma" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandRankDir" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandRotate" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScale" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleMaxHeight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleMaxWidth" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleWidthAndHeight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleWidthOrHeight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSkinParam" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSkinParamMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSpriteFile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSpriteSvg" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSpriteSvgMultiline" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.CommandTitle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.PSystemBasicFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.PSystemCommandFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.PSystemSingleLineFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.note.CommandConstraintOnLinks" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.regex.MaxSizeHashMap" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.CompositeDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.CompositeDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.command.CommandCreateBlock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.command.CommandCreatePackageBlock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.command.CommandEndPackageBlock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.command.CommandLinkBlock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.legacy.PSystemCreole" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.legacy.PSystemCreoleFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.BodyEnhanced2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.DisplayPositioned" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.UnparsableGraphvizException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsOld" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.dedication.PSystemDedication" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.dedication.PSystemDedicationFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.definition.PSystemDefinitionFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.CommandCreateDomain" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.DescriptionDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.EntityImageDesignedDomain" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.EntityImageDomain" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.EntityImageMachine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.EntityImageRequirement" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandArchimate" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandCreateElementMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandCreateElementParenthesis" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandNewpage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandPackageWithUSymbol" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.directdot.PSystemDot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.directdot.PSystemDotFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ditaa.PSystemDitaa" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ditaa.PSystemDitaaFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.donors.PSystemDonors" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.donors.PSystemDonorsFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.donors.PSystemSkinparameterList" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.donors.PSystemSkinparameterListFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandComment" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandCommentMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandCommentMultilines2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandEBnfSingleLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandEbnfMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandNoteMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileAlternation" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileConcatenation" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileEmpty" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileOneOrMore" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileOptional" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileWithCircles" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileZeroOrMore" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.PSystemEbnf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.PSystemEbnfFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ebnf.TitleBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemAppleTwo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemAppleTwoFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemCharlie" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemCharlieFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemColorsFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemEgg" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemEggFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemLost" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemLostFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemPath" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemPathFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemRIP" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemRIPFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemWelcome" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.elk.proxy.graph.ElkEdge" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.elk.proxy.graph.ElkLabel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.elk.proxy.graph.ElkNode" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.emoji.PSystemListEmoji" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.emoji.PSystemListEmojiFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eps.EpsGraphicsMacro" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.error.PSystemError" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.error.PSystemErrorEmpty" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.error.PSystemErrorPreprocessor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.error.PSystemErrorV2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.ActivityBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.CommandLineSimple" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.CommandLink" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.FlowDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.font.PSystemListFonts" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.font.PSystemListFontsFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.gitlog.GitDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.gitlog.GitDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.BigFrame" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockEmpty" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockSprited" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.UGraphicInterceptorUDrawable" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolActor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolArtifact" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolBoundary" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolCard" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolCloud" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolCollections" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolComponent1" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolComponent2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolControl" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolDatabase" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolEntityDomain" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolFile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolFolder" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolFrame" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolHexagon" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolInterface" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolLabel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolNode" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolPerson" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolQueue" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolRectangle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolSimpleAbstract" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolStack" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolStorage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolTogether" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.color.ColorHSB" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.hcl.HclDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelp" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpColor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpFont" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpKeyword" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpSkinparam" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpTheme" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpType" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.Help" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.help.HelpFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.jcckit.PSystemJcckit" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.jcckit.PSystemJcckitFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.json.JsonLiteral" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.json.JsonNumber" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.json.JsonString" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.json.ParseException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.json.PrettyPrint" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.json.WritingBuffer" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.jsondiagram.JsonDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.jsondiagram.JsonDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.logo.PSystemLogo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.logo.PSystemLogoFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemLatex" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemLatexFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemMath" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemMathFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapDirection" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapOrgmode" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapPlus" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapRoot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.mindmap.MindMapDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.mindmap.MindMapDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandComment" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandElement" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandEndSomething" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandGroup" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandLink" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandNetwork" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandNwDiagInit" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandProperty" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.NwDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.NwDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandAddData" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObject" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObjectMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateJson" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateJsonSingleLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.openiconic.PSystemListOpenIconic" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.openiconic.PSystemListOpenIconicFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.openiconic.PSystemOpenIconic" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.oregon.NoInputException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.oregon.PSystemOregon" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.oregon.PSystemOregonFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.picoweb.BadRequest400" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.GanttConstraint" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.GanttDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandColorTask" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandFootbox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandGanttArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandGanttArrow2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandGroupEnd" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandGroupStart" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandHideResourceFootbox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandHideResourceName" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandLabelOnColumn" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandLanguage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandNoteBottom" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandPrintBetween" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandPrintScale" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandSeparator" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.command.NaturalCommand" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TaskDrawDiamond" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TaskDrawGroup" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TaskDrawRegular" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderCalendar" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderDaily" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderMonthly" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderSimple" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderWeekly" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderYearly" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceEnds" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceHappens" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceHappensDate" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceIsColored" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceIsColoredForCompletion" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceIsDeleted" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceIsForTask" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceLasts" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceLinksTo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceOccurs" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentencePausesDate" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentencePausesDates" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentencePausesDayOfWeek" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceTaskEndsAbsolute" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceTaskStarts" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceTaskStartsAbsolute" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.solver.Solver3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.real.RealDelta" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.real.RealMiddle2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.CommandAnything" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.CommandSalt" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.PSystemSaltFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.PSystemSaltFactory2" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.AbstractElementText" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementBorder" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementEmpty" }, 
@@ -153,47 +646,168 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementMenuEntry" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementMenuPopup" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementPyramid" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementPyramidScrolled" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementRadioCheckbox" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementTabBar" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementText" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementTree" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractElementFactoryComplex" ,
-"children" : [
   { "child"  : "(1) net.sourceforge.plantuml.salt.factory.ElementFactoryBorder" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.factory.ElementFactoryMenu" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.factory.ElementFactoryPyramid" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.factory.ElementFactoryScroll" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.factory.ElementFactoryTab" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.factory.ElementFactoryTree" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractElementTextElement" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementButton" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementDroplist" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementTextField" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractEntityDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.CompositeDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.DescriptionDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.security.authentication.oauth.OAuth2ClientAccessAuthorizeManager" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.GroupingStart" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Message" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.MessageExo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.SequenceDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.SequenceDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandActivate" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandActivate2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutoNewpage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutonumber" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberIncrement" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberResume" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberStop" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandBoxStart" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandDeactivateShort" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandDelay" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandDivider" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowAny" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowLeft" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowRight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandFootbox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandGrouping" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandHSpace" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandIgnoreNewpage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandLinkAnchor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandNewpage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipant" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA4" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantMultilines" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandReferenceOverSeveral" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandReturn" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandSkin" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandUrl" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDivider" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalHSpace" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalNewpage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementHeader" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.MessageExoArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.Step1Message" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationExoTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottom" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteLeft" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteRight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteTop" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelfNoteRight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.ElseTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.LifeEventTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.TileParallel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.AbstractTextualComponent" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseActiveLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseActor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseBoundary" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseControl" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDatabase" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDelayLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDestroy" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDivider" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseEnglober" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseEntity" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingElse" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingHeader" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseNewpage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseQueue" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseReference" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseSelfArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sprite.CommandListSprite" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sprite.CommandStdlib" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sprite.ListSpriteDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sprite.ListSpriteDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sprite.PSystemListInternalSprites" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sprite.PSystemListInternalSpritesFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sprite.StdlibDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sprite.StdlibDiagramFactory" }, 
   { "child"  : "(1) net.sourceforge.plantuml.statediagram.StateDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractEntityImage" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.EntityImageDesignedDomain" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.EntityImageDomain" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.EntityImageMachine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.EntityImageRequirement" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.StateDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandAddField" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandConcurrentState" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandCreatePackage2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandCreatePackageState" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandCreateState" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandEndState" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandHideEmptyDescription" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandLinkState" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.stats.PSystemStats" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.stats.PSystemStatsFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.style.CommandStyleImport" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.style.CommandStyleMultilinesCSS" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.style.NoStyleAvailableException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.style.ValueColor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sudoku.PSystemSudoku" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sudoku.PSystemSudokuFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.Boundary" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.EmptySvgException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.UGraphicForSnake" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircleConnect" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircleCross" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircleCrowfoot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircleLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCrowfoot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityDiamond" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityDoubleLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityExtends" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityExtendsLike" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityLineCrowfoot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityNotNavigable" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityOther" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityPlus" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremitySquare" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityStateLine1" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityTriangle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.MiddleCircle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.AbstractEntityImageBorder" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageActivity" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageArcCircle" }, 
@@ -203,230 +817,141 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageCircleEnd" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageCircleStart" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageClassHeader" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageDeepHistory" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageDescription" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageEmptyPackage" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageGroup" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageLollipopInterface" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye1" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImagePort" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImagePseudoState" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageState" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageState2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageStateBorder" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageStateCommon" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageStateEmptyDescription" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageSynchroBar" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageTips" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageUseCase" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractEntityImageBorder" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImagePort" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageStateBorder" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractEntityImageStencil" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageClass" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageJson" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageMap" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageNote" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageObject" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractEventEvent" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Delay" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Divider" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Grouping" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.HSpace" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.LifeEvent" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Newpage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Note" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Notes" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Reference" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractEventEventWithDeactivate" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.AbstractMessage" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractExtremityFactoryExtremityFactory" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryArrowAndCircle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleConnect" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleCross" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleCrowfoot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCrowfoot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDiamond" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDoubleLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtends" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtendsLike" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryHalfArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryLineCrowfoot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryNotNavigable" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryPlus" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactorySquare" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractFtile" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileEmpty" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileHeightFixedCentered" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileHeightFixedMarged" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileKilled" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMarged" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedRight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInnerOverlapped" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileGroup" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfAndStop" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfDown" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfLongHorizontal" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileIfLongVertical" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileSplit1" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileSwitch" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWhile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNotes" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileDimensionMemoize" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBox2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBoxOld" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleEnd" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleSpot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStart" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractFtileStencil" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNoteOpale" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractFtileStyleable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondWIP" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractGraphviz" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.dot.GraphvizLinux" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsOld" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractGtile" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleSpot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileCircleStart" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileColumns" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileEmpty" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInside" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileTopDown" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileTopDown3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithNotes" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractGtileRoot" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileGroup" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractGtileRootGtile" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.AbstractGtile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithMargin" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractGtileStencil" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithNoteOpale" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractInstruction" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.WithNote" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractInstructionInstruction" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionGroup" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionPartition" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionRepeat" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionSplit" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractMessage" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Message" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.MessageExo" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractOAuth2AccessAuthorizeManager" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.security.authentication.oauth.OAuth2ClientAccessAuthorizeManager" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.security.authentication.oauth.OAuth2ResourceOwnerAccessAuthorizeManager" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractPSystem" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.NewpagedDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.PlainDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.acearth.PSystemXearth" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.directdot.PSystemDot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ditaa.PSystemDitaa" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemPath" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.jcckit.PSystemJcckit" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.logo.PSystemLogo" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemLatex" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemMath" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sudoku.PSystemSudoku" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractPSystemDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.TitledDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractParallelFtilesBuilder" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderFork" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderMerge" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractPlacementStrategy" ,
-"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.swing.AboutWindow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.swing.ImageWindow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.swing.LicenseWindow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.swing.MainWindow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.swing.SpriteWindow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.telnet.AcceptTelnetClient" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterAffectation" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterAffectationDefine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterAssert" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterDeclareProcedure" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterDeclareReturnFunction" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterDumpMemory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterElseIf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterExceptionLocated" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterForeach" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterFunctionCall" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIfdef" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIfndef" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterImport" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterInclude" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIncludeDef" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIncludesub" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterLegacyDefine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterLegacyDefineLong" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterLog" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterReturn" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterStartsub" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterTheme" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterUndef" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterWhile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.StringEater" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorAffectation" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorForeach" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorIf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorInnerComment" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorLongComment" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorProcedure" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorReturnFunction" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorShortComment" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorSub" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.AlwaysFalse" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.AlwaysTrue" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.CallUserFunction" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Chr" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Darken" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.DateFunction" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Dec2hex" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Dirpath" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Eval" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Feature" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.FileExists" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Filename" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.FunctionExists" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.GetJsonKey" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.GetJsonType" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.GetVariableValue" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.GetVersion" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Getenv" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Hex2dec" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.HslColor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.IntVal" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.IsDark" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.IsLight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.JsonKeyExists" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Lighten" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.LoadJson" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.LoadJsonLegacy" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.LogicalNot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Lower" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Newline" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Now" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.RetrieveProcedure" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.ReverseColor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.ReverseHsluvColor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.SetVariableValue" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Size" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.SplitStr" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.StringFunction" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Strlen" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Strpos" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Substr" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Upper" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.VariableExists" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.PlayerAnalog" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.PlayerBinary" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.PlayerClock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.PlayerRobustConcise" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.TimeMessage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.TimingDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandAnalog" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandAtPlayer" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandAtTime" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandBinary" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandChangeState" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByPlayerCode" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByTime" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandClock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandConstraint" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateLong" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateShort" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandHighlight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandModeCompact" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandNote" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandNoteLong" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandPixelHeight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandRobustConcise" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandTicks" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandTimeMessage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.AbstractUGraphic" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.AbstractUGraphicHorizontalLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.LimitFinder" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.PlacementStrategyVisibility" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.PlacementStrategyX1X2" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3" }, 
@@ -434,322 +959,74 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Center" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Left" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractRealReal" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.real.RealMax" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.real.RealMiddle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.real.RealMin" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.real.RealMoveable" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractShadowable" ,
-"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.TextLimitFinder" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UGraphicFilter" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UGraphicStencil" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UPolygon" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractShadowableIterable&lt;USegment&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UPath" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractShadowableUShapeSized" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UEllipse" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.ULine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.URectangle" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractSolver" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.solver.Solver3" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractSolverSolver" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.solver.SolverImpl" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractSymbolFactory" ,
-"children" : [
-  { "child"  : "(1) jcckit.plot.BarFactory" }, 
-  { "child"  : "(1) jcckit.plot.CircleSymbolFactory" }, 
-  { "child"  : "(1) jcckit.plot.SquareSymbolFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTaskDraw" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TaskDrawDiamond" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TaskDrawGroup" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TaskDrawRegular" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTaskTask" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.core.TaskGroup" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.core.TaskImpl" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.core.TaskSeparator" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextBlock" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.LaneDivider" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.board.CardBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.TitleBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.ActivityBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.BigFrame" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockEmpty" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockSprited" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.Boundary" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorAutomagic" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorGradient" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorMiddle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorScheme" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorSimple" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.NoSuchColorException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.NoSuchColorRuntimeException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.comp.SlotFinder" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.comp.UGraphicCompressOnXorY" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.debug.StringBounderDebug" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.utils.MTRandom" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemKeycheck" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemKeygen" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemLicenseFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemVersion" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemVersionFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.vizjs.GraphvizJsRuntimeException" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wbs.CommandWBSItem" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wbs.CommandWBSItemMultiline" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wbs.Fork" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wbs.WBSDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wbs.WBSDiagramFactory" }, 
   { "child"  : "(1) net.sourceforge.plantuml.wbs.WBSTextBlock" }, 
   { "child"  : "(1) net.sourceforge.plantuml.wire.Block" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandComponent" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandGoto" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandMove" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandNewColumn" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandPrint" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandSpot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandWLink" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.WireDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wire.WireDiagramFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.yaml.YamlDiagramFactory" }, 
+  { "child"  : "(1) org.stathissideris.ascii2image.graphics.CompositeDiagramShape" }, 
+  { "child"  : "(1) org.stathissideris.ascii2image.graphics.DiagramText" }, 
+  { "child"  : "(1) org.stathissideris.ascii2image.graphics.ShapePoint" }, 
+  { "child"  : "(1) org.stathissideris.ascii2image.text.GridPattern" }, 
+  { "child"  : "(1) org.stathissideris.ascii2image.text.GridPatternGroup" }, 
+  { "child"  : "(1) smetana.core.CArray" }, 
+  { "child"  : "(1) smetana.core.CArrayOfStar" }, 
+  { "child"  : "(1) smetana.core.CStarStar" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) AbstractTextBlockFtile" ,
+   "classe"  : "(2) AFile" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.AbstractFtile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileAssemblySimple" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorate" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.AFileRegular" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.AFileZipEntry" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) AbstractTextBlockGtile" ,
+   "classe"  : "(2) AParentFolder" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.AbstractGtileRoot" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextBlockIEntityImage" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.GraphicStrings" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.AbstractEntityImage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.EntityImageProtected" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.GraphvizCrash" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.InnerActivity" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.InnerStateAutonom" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.SvekResult" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageNoteLink" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextBlockITF" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.wbs.ITFLeaf" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextBlockLine" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.EmbeddedDiagramDraw" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.SingleLine" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextBlockStencil" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextBlockTextBlock" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.GotoInterceptor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.TextBlockInterceptorUDrawable" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.SheetBlock1" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.SheetBlock2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.Body3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.BoxedCharacter" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.golem.Tile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.golem.TilesField" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.CircledCharacter" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.SimpleTextBlockBordered" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockArrow2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockBordered" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockGeneric" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockHorizontal" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockLineBefore" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockMarged" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockMinWidth" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockRaw" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockSimple" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockVertical2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TileImage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TileImageSvg" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TileText" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.ComponentAdapter" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpaceWithParticipants" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.ActorAwesome" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.ActorHollow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.ActorStickMan" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.CircleInterface2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.Control" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.DirectionalTextBlock" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.EntityDomain" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.Opale" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.TextBlockInEllipse" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextBlockTextBlockBackcolored" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockRecentred" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.jsondiagram.TextBlockJson" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.DecorateEntityImage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.DecorateEntityImage3" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextBlockWithPorts" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.TextBlockMap" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextualComponent" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseActor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseBoundary" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseControl" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDatabase" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseDivider" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseEnglober" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseEntity" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingElse" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingHeader" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseNoteBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseQueue" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseReference" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextualComponentArrowComponent" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.AbstractComponentRoseArrow" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTextualComponentStencil" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseNote" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTile" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationExoTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteLeft" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteRight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelfNoteRight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.ElseTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.LifeEventTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractTileTile" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.DelayTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.DividerTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.EmptyTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.HSpaceTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.NoteTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.NotesTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.ReferenceTile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.TileMarged" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphic&lt;BrailleGrid&gt;ClipContainer" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.braille.UGraphicBraille" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphic&lt;EpsGraphics&gt;ClipContainer" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.eps.UGraphicEps" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphic&lt;Graphics2D&gt;EnsureVisible" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphic&lt;Html5Drawer&gt;ClipContainer" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.html5.UGraphicHtml5" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphic&lt;String&gt;EnsureVisible" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UGraphicNull" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphic&lt;SvgGraphics&gt;ClipContainer" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphic&lt;TikzGraphics&gt;ClipContainer" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphic&lt;VisioGraphics&gt;ClipContainer" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) AbstractUGraphicHorizontalLine" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UGraphicStencil" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.AParentFolderRegular" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.AParentFolderZip" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) ActionListener" ,
 "children" : [
   { "child"  : "(1) ext.plantuml.com.ctreber.acearth.plugins.Plugin" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Argon2Exception" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException" }, 
 ]
 }},
 {"ligne" : {
@@ -760,30 +1037,32 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) ArrayList&lt;GridPattern&gt;" ,
+   "classe"  : "(2) ArrowComponent" ,
 "children" : [
-  { "child"  : "(1) org.stathissideris.ascii2image.text.GridPatternGroup" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Arrow" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.MessageExoArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ArrowInGroupable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndNoteBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.asciiart.ComponentTextSelfArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.AbstractComponentRoseArrow" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) Atom" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.creole.CreoleHorizontalLine" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AbstractAtom" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomEmoji" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomImg" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomImgSvg" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomMath" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomOpenIcon" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomSpace" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomSprite" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomTable" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomTree" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomVerticalTexts" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.AtomWithMargin" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.atom.Bullet" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.legacy.AtomText" }, 
 ]
 }},
 {"ligne" : {
@@ -806,30 +1085,9 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) BasicCharAreaImplUmlCharArea" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.asciiart.UmlCharAreaImpl" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) BasicGame" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.oregon.OregonBasicGame" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) BasicGraphicalElement" ,
-"children" : [
-  { "child"  : "(1) jcckit.graphic.Polygon" }, 
-  { "child"  : "(1) jcckit.graphic.Rectangle" }, 
-  { "child"  : "(1) jcckit.graphic.Text" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) BitGeneratorMap" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapDefault" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho" }, 
 ]
 }},
 {"ligne" : {
@@ -848,18 +1106,6 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) BodyEnhancedAbstract" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.BodyEnhanced2" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) BodyEnhancedAbstractTextBlock" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.BodyEnhanced1" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Bordered" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace" }, 
@@ -875,9 +1121,9 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) CTSort" ,
+   "classe"  : "(2) CFunction" ,
 "children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.sort.QuickSort" }, 
+  { "child"  : "(1) smetana.core.CFunctionAbstract" }, 
 ]
 }},
 {"ligne" : {
@@ -902,9 +1148,28 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(2) ClipContainer" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.braille.UGraphicBraille" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.debug.UGraphicDebug" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.eps.UGraphicEps" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.html5.UGraphicHtml5" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.visio.UGraphicVdx" }, 
+]
+}},
+{"ligne" : {
    "classe"  : "(2) ClippingShape" ,
 "children" : [
   { "child"  : "(1) jcckit.graphic.ClippingRectangle" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) Clocks" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.TimingDiagram" }, 
 ]
 }},
 {"ligne" : {
@@ -936,18 +1201,13 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Color" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.color.ColorHSB" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Command" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleCache" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleColorAndSizeChange" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleColorChange" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleEmoji" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleFontFamilyChange" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleImg" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleLatex" }, 
@@ -958,6 +1218,7 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleSizeChange" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleSpace" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleSprite" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleStyle" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange" }, 
   { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleUrl" }, 
 ]
@@ -977,179 +1238,6 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesBracket" }, 
   { "child"  : "(1) net.sourceforge.plantuml.command.ProtectedCommand" }, 
   { "child"  : "(1) net.sourceforge.plantuml.command.SingleLineCommand2" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandChangeState" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByPlayerCode" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByTime" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandCreoleCacheCommand" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleExposantChange" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.command.CommandCreoleStyle" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandExoArrowAny" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowLeft" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowRight" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandLinkStateCommon" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandLinkState" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;AbstractClassOrObjectDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObjectMultilines" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateJson" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;AbstractEntityDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandCreateElementMultilines" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;ActivityDiagram3&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandArrowLong3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandBackwardLong3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;ActivityDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandLinkLongActivity" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;ClassDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandCreateClassMultilines" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;MindMapDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;PSystemEbnf&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandCommentMultilines" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandCommentMultilines2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandEbnfMultilines" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandNoteMultilines" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;SequenceDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantMultilines" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;TimingDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandNoteLong" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;TitledDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesLegend" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSpriteSvgMultiline" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.style.CommandStyleMultilinesCSS" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines2&lt;WBSDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.wbs.CommandWBSItemMultiline" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines3&lt;ActivityDiagram3&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandRepeatWhile3Multilines" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines&lt;Diagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesComment" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines&lt;GanttDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandNoteBottom" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines&lt;SequenceDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilines&lt;TitledDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandAffineTransformMultiline" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesCaption" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesFooter" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesHeader" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMultilinesTitle" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandMultilinesBracket&lt;TitledDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSkinParamMultilines" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommandParticipant" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA4" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommonTile" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.TileParallel" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommonTileTile" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.AbstractTile" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CommunicationTileNoteBottomTopAbstract" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottom" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteTop" }, 
 ]
 }},
 {"ligne" : {
@@ -1290,12 +1378,6 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Configuration" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.ConfigurationACearth" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Connection" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.AbstractConnection" }, 
@@ -1303,14 +1385,22 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(2) ConnectionTranslatable" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ConnectionVerticalDown" }, 
+]
+}},
+{"ligne" : {
    "classe"  : "(2) ConnectorPuzzle" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.bpm.AbstractConnectorPuzzle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.BpmElement" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) Context2D" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.UGraphicInterceptorTile" }, 
   { "child"  : "(1) net.sourceforge.plantuml.skin.SimpleContext2D" }, 
 ]
 }},
@@ -1318,13 +1408,6 @@ var maDataBlocs = {
    "classe"  : "(2) CoordinateSystem" ,
 "children" : [
   { "child"  : "(1) jcckit.plot.CartesianCoordinateSystem" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) CucaDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.ActivityDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.AbstractEntityDiagram" }, 
 ]
 }},
 {"ligne" : {
@@ -1347,15 +1430,10 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) DataContainer" ,
-"children" : [
-  { "child"  : "(1) jcckit.data.DataPlot" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DataContainerDataElement" ,
+   "classe"  : "(2) DataElement" ,
 "children" : [
   { "child"  : "(1) jcckit.data.DataCurve" }, 
+  { "child"  : "(1) jcckit.data.DataPoint" }, 
 ]
 }},
 {"ligne" : {
@@ -1387,111 +1465,18 @@ var maDataBlocs = {
    "classe"  : "(2) Diagram" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.AbstractPSystem" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.TitledDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.UmlDiagram" }, 
   { "child"  : "(1) net.sourceforge.plantuml.WithSprite" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DiagramComponent" ,
-"children" : [
-  { "child"  : "(1) org.stathissideris.ascii2image.graphics.CompositeDiagramShape" }, 
-  { "child"  : "(1) org.stathissideris.ascii2image.graphics.DiagramText" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DisplayPositionned" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.DisplayPositioned" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DriverShadowedG2dUDriver&lt;UEllipse, Graphics2D&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DriverShadowedG2dUDriver&lt;ULine, Graphics2D&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DriverShadowedG2dUDriver&lt;UPath, Graphics2D&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverPathG2d" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DriverShadowedG2dUDriver&lt;UPath, SvgGraphics&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.svg.DriverPathSvg" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DriverShadowedG2dUDriver&lt;UPolygon, Graphics2D&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverPolygonG2d" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) DriverShadowedG2dUDriver&lt;URectangle, Graphics2D&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ECI" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.google.zxing.common.CharacterSetECI" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ETile" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileAlternation" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileConcatenation" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileEmpty" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileOneOrMore" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileOptional" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileWithCircles" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.ETileZeroOrMore" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Eater" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterAffectation" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterAffectationDefine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterAssert" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterDeclareProcedure" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterDeclareReturnFunction" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterDumpMemory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterElseIf" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterForeach" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterFunctionCall" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIf" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIfdef" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIfndef" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterImport" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterInclude" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIncludeDef" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterIncludesub" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterLegacyDefine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterLegacyDefineLong" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterLog" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterReturn" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterStartsub" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterTheme" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterUndef" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterWhile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.StringEater" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) Element" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.AbstractElement" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementButton" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementDroplist" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementTextField" }, 
   { "child"  : "(1) net.sourceforge.plantuml.salt.element.WrappedElement" }, 
 ]
 }},
@@ -1513,23 +1498,9 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) ElementPyramid" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.salt.element.ElementPyramidScrolled" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) ElkObjectProxy" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ElkWithProperty" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.elk.proxy.graph.ElkEdge" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.elk.proxy.graph.ElkLabel" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.elk.proxy.graph.ElkNode" }, 
 ]
 }},
 {"ligne" : {
@@ -1537,93 +1508,56 @@ var maDataBlocs = {
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.BasicEnsureVisible" }, 
   { "child"  : "(1) net.sourceforge.plantuml.Url" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) EntityImagePseudoState" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageDeepHistory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) EntityImageStateCommon" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageState" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageStateEmptyDescription" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) EpsGraphics" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.eps.EpsGraphicsMacro" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) EpsGraphicsMacro" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.eps.EpsGraphicsMacroAndText" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UGraphicNull" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.UGraphicG2d" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) Event" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.AbstractEvent" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Delay" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Divider" }, 
   { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.EventWithDeactivate" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Grouping" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.HSpace" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.LifeEvent" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Newpage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Note" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Notes" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.Reference" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Exception" ,
+   "classe"  : "(2) EventWithDeactivate" ,
 "children" : [
-  { "child"  : "(1) ext.plantuml.com.google.zxing.ReaderException" }, 
-  { "child"  : "(1) ext.plantuml.com.google.zxing.WriterException" }, 
-  { "child"  : "(1) ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.oregon.NoInputException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.EaterExceptionLocated" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.NoSuchColorException" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ExecutionContextsTMemory" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.tim.TMemoryGlobal" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.TMemoryLocal" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Extremity" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircleConnect" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircleCross" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircleCrowfoot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCircleLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityCrowfoot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityDiamond" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityDoubleLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityExtends" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityExtendsLike" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityLineCrowfoot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityNotNavigable" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityOther" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityPlus" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremitySquare" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityStateLine1" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityTriangle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.MiddleCircle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.AbstractMessage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.GroupingLeaf" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) ExtremityFactory" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.svek.AbstractExtremityFactory" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryArrowAndCircle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleConnect" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleCross" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleCrowfoot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCircleLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryCrowfoot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDiamond" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryDoubleLine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtends" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtendsLike" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryHalfArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryLineCrowfoot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryNotNavigable" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryParenthesis" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryPlus" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactorySquare" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.extremity.ExtremityFactoryTriangle" }, 
 ]
 }},
 {"ligne" : {
@@ -1646,13 +1580,6 @@ var maDataBlocs = {
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.flashcode.FlashCodeUtilsNone" }, 
   { "child"  : "(1) net.sourceforge.plantuml.flashcode.FlashCodeUtilsZxing" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FlatConfigData" ,
-"children" : [
-  { "child"  : "(1) jcckit.util.AppletBasedConfigData" }, 
-  { "child"  : "(1) jcckit.util.PropertiesBasedConfigData" }, 
 ]
 }},
 {"ligne" : {
@@ -1690,49 +1617,11 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) FtileDecorate" ,
+   "classe"  : "(2) Ftile" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileDecorateWelding" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedVertically" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMargedWest" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileMinWidthCentered" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithConnection" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithSwimlanes" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithUrl" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateIn" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateInLabel" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateOut" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateOutLabel" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecoratePointOut" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileDiamondWIP" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamond" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondSquare" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileDimensionMemoize" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfNude" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileEmpty" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileGoto" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileLabel" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileEmptyWeldingPoint" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.AbstractFtile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileAssemblySimple" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorate" }, 
 ]
 }},
 {"ligne" : {
@@ -1740,55 +1629,6 @@ var maDataBlocs = {
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator" }, 
   { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.VCompactFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileFactoryDelegator" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddNote" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAddUrl" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorAssembly" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateGroup" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorCreateParallel" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorIf" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorRepeat" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorWhile" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileIfNude" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithDiamonds" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileIfWithDiamonds" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfWithLinks" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileSwitchNude" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) FtileSwitchWithDiamonds" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithManyLinks" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithOneLink" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GAbstractConnection" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionSideThenVerticalThenSide" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDown" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDownThenBack" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionVerticalDownThenHorizontal" }, 
 ]
 }},
 {"ligne" : {
@@ -1822,22 +1662,6 @@ var maDataBlocs = {
 "children" : [
   { "child"  : "(1) jcckit.graphic.BasicGraphicalElement" }, 
   { "child"  : "(1) jcckit.graphic.GraphicalComposite" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDivider" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalHSpace" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalNewpage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GraphicalElementInGroupable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.Arrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalReference" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.NoteBox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.NotesBoxes" }, 
 ]
 }},
 {"ligne" : {
@@ -1856,96 +1680,25 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) GridTextBlockSimple" ,
+   "classe"  : "(2) GroupHierarchy" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.CucaDiagram" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Grouping" ,
+   "classe"  : "(2) Gtile" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.GroupingStart" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GroupingEventWithDeactivate" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.GroupingLeaf" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GroupingGraphicalElement" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementHeader" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GroupingGraphicalElementInGroupable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementElse" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GtileColumns" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileIfHexagon" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileSplit" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GtileEmpty" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileGoto" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileLabel" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GtileEmptyWeldingPoint" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileBreak" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GtileTopDown" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileAssembly" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GtileTopDown3" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileIfAlone" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileRepeat" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWhile" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GtileWithMargin" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) GtileWithMarginGtile" ,
-"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.AbstractGtile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.AbstractGtileRoot" }, 
   { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithIncomingArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithMargin" }, 
   { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithOutgoingArrow" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) HColor" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorAutomagic" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorGradient" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorMiddle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorScheme" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.HColorSimple" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) Hideable" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.Link" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.IEntityImage" }, 
 ]
 }},
@@ -1983,8 +1736,17 @@ var maDataBlocs = {
 {"ligne" : {
    "classe"  : "(2) IEntityImage" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.GraphicStrings" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.AbstractEntityImage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.EntityImageDegenerated" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.EntityImageProtected" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.GraphvizCrash" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.InnerActivity" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.InnerStateAutonom" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.SvekResult" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.Untranslated" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageNoteLink" }, 
 ]
 }},
 {"ligne" : {
@@ -2007,17 +1769,13 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) IOException" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.code.NoPlantumlCompressionException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.picoweb.BadRequest400" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) IRegex" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.command.regex.RegexComposed" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.regex.RegexConcat" }, 
   { "child"  : "(1) net.sourceforge.plantuml.command.regex.RegexLeaf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.regex.RegexOptional" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.command.regex.RegexOr" }, 
 ]
 }},
 {"ligne" : {
@@ -2036,7 +1794,10 @@ var maDataBlocs = {
 {"ligne" : {
    "classe"  : "(2) ISourceFileReader" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.SourceFileReader" }, 
   { "child"  : "(1) net.sourceforge.plantuml.SourceFileReaderAbstract" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.SourceFileReaderCopyCat" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.SourceFileReaderHardFile" }, 
 ]
 }},
 {"ligne" : {
@@ -2046,35 +1807,53 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(2) ITF" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.wbs.ITFComposed" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.wbs.ITFLeaf" }, 
+]
+}},
+{"ligne" : {
    "classe"  : "(2) ImageData" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.api.ImageDataAbstract" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) ImageDataAbstract" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.api.ImageDataComplex" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.api.ImageDataSimple" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) InGroupable" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.InGroupableList" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.Arrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndNoteBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GraphicalReference" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementElse" }, 
   { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) InputStream" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.brotli.BrotliInputStream" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.NoteBox" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.NotesBoxes" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) Instruction" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionBreak" }, 
   { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionCollection" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionEnd" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionFork" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionGoto" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionGroup" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionIf" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionLabel" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionList" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionPartition" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionRepeat" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionSimple" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionSplit" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionSpot" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionStart" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionStop" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionSwitch" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionWhile" }, 
 ]
 }},
 {"ligne" : {
@@ -2099,6 +1878,18 @@ var maDataBlocs = {
    "classe"  : "(2) Iterable&lt;Day&gt;" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.project.DaysAsDates" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) Iterable&lt;JsonValue&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.json.JsonArray" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) Iterable&lt;Member&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.json.JsonObject" }, 
 ]
 }},
 {"ligne" : {
@@ -2130,6 +1921,12 @@ var maDataBlocs = {
    "classe"  : "(2) Iterable&lt;TextGrid.Cell&gt;" ,
 "children" : [
   { "child"  : "(1) org.stathissideris.ascii2image.text.CellSet" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) Iterable&lt;USegment&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UPath" }, 
 ]
 }},
 {"ligne" : {
@@ -2170,45 +1967,16 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) JFrame" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.swing.AboutWindow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.swing.ImageWindow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.swing.LicenseWindow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.swing.MainWindow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.swing.SpriteWindow" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) JLabelScrollable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.swing.ScrollablePicture" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) JsonValue" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.json.JsonLiteral" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.json.JsonNumber" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.json.JsonString" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) JsonValueIterable&lt;JsonValue&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.json.JsonArray" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) JsonValueIterable&lt;Member&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.json.JsonObject" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Keyboard" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.oregon.KeyboardList" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) Line" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.EmbeddedDiagramDraw" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.SingleLine" }, 
 ]
 }},
 {"ligne" : {
@@ -2221,12 +1989,6 @@ var maDataBlocs = {
    "classe"  : "(2) LineLocation" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.LineLocationImpl" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) LinkedHashMap&lt;K, V&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.regex.MaxSizeHashMap" }, 
 ]
 }},
 {"ligne" : {
@@ -2268,26 +2030,9 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) MonitoredObject" ,
+   "classe"  : "(2) MouseListener" ,
 "children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MOBoolean" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MODouble" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MOEnum" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MOInteger" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.aclib.gui.MOString" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) MonoSwimableInstruction" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionBreak" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionEnd" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionGoto" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionLabel" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionSimple" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionSpot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionStart" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionStop" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.Splash" }, 
 ]
 }},
 {"ligne" : {
@@ -2313,20 +2058,6 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) NumberAnalyzed" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.api.NumberAnalyzedDated" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) OutputStream" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.CounterOutputStream" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.NamedOutputStream" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.NullOutputStream" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) PDrawing" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.graphic.Histogram" }, 
@@ -2334,146 +2065,10 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) PSystemAbstractFactory" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.PSystemBasicFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.PSystemCommandFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.PSystemSingleLineFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.gitlog.GitDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.hcl.HclDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.jsondiagram.JsonDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.yaml.YamlDiagramFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemCreole&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.creole.legacy.PSystemCreoleFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemDefinition&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.definition.PSystemDefinitionFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemDitaa&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ditaa.PSystemDitaaFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemDot&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.directdot.PSystemDotFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemJcckit&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.jcckit.PSystemJcckitFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemLatex&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemLatexFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemLogo&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.logo.PSystemLogoFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemMath&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.math.PSystemMathFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemOregon&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.oregon.PSystemOregonFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemSalt&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.salt.PSystemSaltFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemBasicFactory&lt;PSystemXearth&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.acearth.PSystemXearthFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemCommandFactory" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.ActivityDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ActivityDiagramFactory3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.board.BoardDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.BpmDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.ClassDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.CompositeDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.PSystemEbnfFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.FlowDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.help.HelpFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.mindmap.MindMapDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.NwDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.GanttDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.salt.PSystemSaltFactory2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.SequenceDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sprite.ListSpriteDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sprite.StdlibDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.StateDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.TimingDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wbs.WBSDiagramFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wire.WireDiagramFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemError" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.error.PSystemErrorEmpty" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.error.PSystemErrorPreprocessor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.error.PSystemErrorV2" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) PSystemFactory" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.command.PSystemAbstractFactory" }, 
   { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemWelcomeFactory" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PSystemSingleLineFactory" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.dedication.PSystemDedicationFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.donors.PSystemDonorsFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.donors.PSystemSkinparameterListFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemAppleTwoFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemCharlieFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemColorsFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemEggFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemLostFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemPathFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemRIPFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.emoji.PSystemListEmojiFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.font.PSystemListFontsFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.openiconic.PSystemListOpenIconicFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.openiconic.PSystemOpenIconicFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sprite.PSystemListInternalSpritesFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.stats.PSystemStatsFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sudoku.PSystemSudokuFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemLicenseFactory" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemVersionFactory" }, 
 ]
 }},
 {"ligne" : {
@@ -2491,15 +2086,10 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) PixelCanvas" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.gui.CanvasACearth" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Placeable" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.bpm.ConnectorPuzzle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty" }, 
 ]
 }},
 {"ligne" : {
@@ -2509,88 +2099,15 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) PlainDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.PlainStringsDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.creole.legacy.PSystemCreole" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.dedication.PSystemDedication" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.donors.PSystemDonors" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.donors.PSystemSkinparameterList" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemCharlie" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemWelcome" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.emoji.PSystemListEmoji" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.error.PSystemError" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.openiconic.PSystemListOpenIconic" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.openiconic.PSystemOpenIconic" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.oregon.PSystemOregon" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sprite.PSystemListInternalSprites" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemKeycheck" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemKeygen" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PlainDiagramUDrawable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.definition.PSystemDefinition" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemColors" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemLicense" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PlainStringsDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemAppleTwo" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemEgg" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemLost" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemRIP" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.font.PSystemListFonts" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.stats.PSystemStats" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemVersion" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Player" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.PlayerAnalog" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.PlayerBinary" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.PlayerClock" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.PlayerRobustConcise" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PlotCanvas" ,
-"children" : [
-  { "child"  : "(1) jcckit.GraphicsPlotCanvas" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) PlotListener" ,
 "children" : [
   { "child"  : "(1) jcckit.plot.PlotCanvas" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Plugin" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Point" ,
-"children" : [
-  { "child"  : "(1) jcckit.graphic.GraphPoint" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Point2DFunction" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.svek.YDelta" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) PointDataElement" ,
-"children" : [
-  { "child"  : "(1) jcckit.data.DataPoint" }, 
 ]
 }},
 {"ligne" : {
@@ -2632,14 +2149,6 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Projection" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.projection.ProjectionCyl" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.projection.ProjectionMerc" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Pushable" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox" }, 
@@ -2650,21 +2159,10 @@ var maDataBlocs = {
    "classe"  : "(2) Racorder" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.posimo.RacorderAbstract" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) RacorderAbstractRacorder" ,
-"children" : [
   { "child"  : "(1) net.sourceforge.plantuml.posimo.RacorderFollowTangeante" }, 
   { "child"  : "(1) net.sourceforge.plantuml.posimo.RacorderFollowTangeanteOld" }, 
   { "child"  : "(1) net.sourceforge.plantuml.posimo.RacorderInToCenter" }, 
   { "child"  : "(1) net.sourceforge.plantuml.posimo.RacorderOrthogonal" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Random" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.utils.MTRandom" }, 
 ]
 }},
 {"ligne" : {
@@ -2694,45 +2192,20 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) ReaderException" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.google.zxing.ChecksumException" }, 
-  { "child"  : "(1) ext.plantuml.com.google.zxing.FormatException" }, 
-  { "child"  : "(1) ext.plantuml.com.google.zxing.NotFoundException" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Real" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.real.AbstractReal" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.real.RealMax" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.real.RealMiddle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.real.RealMin" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.real.RealMoveable" }, 
   { "child"  : "(1) net.sourceforge.plantuml.real.RealOrigin" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) RealMoveable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.real.RealDelta" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.real.RealMiddle2" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) RealMoveableRealOrigin" ,
+   "classe"  : "(2) RealOrigin" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.real.RealImpl" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Rectangle" ,
-"children" : [
-  { "child"  : "(1) jcckit.graphic.Oval" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) RegexComposedIRegex" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.regex.RegexConcat" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.regex.RegexOptional" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.regex.RegexOr" }, 
 ]
 }},
 {"ligne" : {
@@ -2752,12 +2225,6 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Rose" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.asciiart.TextSkin" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) RowTypeRenderer" ,
 "children" : [
   { "child"  : "(1) ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit" }, 
@@ -2772,73 +2239,30 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) RuntimeException" ,
+   "classe"  : "(2) SHAPE_INFO" ,
 "children" : [
-  { "child"  : "(1) jcckit.util.FactoryException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.argon2.exception.Argon2Exception" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.brotli.BrotliRuntimeException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.UnparsableGraphvizException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.json.ParseException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.style.NoStyleAvailableException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.EmptySvgException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.color.NoSuchColorRuntimeException" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.vizjs.GraphvizJsRuntimeException" }, 
+  { "child"  : "(1) h.ST_field_t" }, 
+  { "child"  : "(1) h.ST_polygon_t" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) ST_Agobj_s" ,
+   "classe"  : "(2) ST_Node_t___or_object_t" ,
 "children" : [
-  { "child"  : "(1) h.ST_Agedge_s" }, 
-  { "child"  : "(1) h.ST_Agnode_s" }, 
-  { "child"  : "(1) h.ST_Agraph_s" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ST_Agrec_s" ,
-"children" : [
-  { "child"  : "(1) h.ST_Agattr_s" }, 
-  { "child"  : "(1) h.ST_Agdatadict_s" }, 
-  { "child"  : "(1) h.ST_Agedgeinfo_t" }, 
-  { "child"  : "(1) h.ST_Agnodeinfo_t" }, 
-  { "child"  : "(1) h.ST_Agraphinfo_t" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ST_dtlink_s" ,
-"children" : [
-  { "child"  : "(1) h.ST_dthold_s" }, 
-  { "child"  : "(1) h.ST_refstr_t" }, 
+  { "child"  : "(1) h.ST_Node_t___" }, 
+  { "child"  : "(1) h.ST_object_t" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) Scale" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ScaleProtected" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ScaleProtectedScale" ,
-"children" : [
   { "child"  : "(1) net.sourceforge.plantuml.ScaleHeight" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ScaleMaxHeight" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ScaleMaxWidth" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ScaleMaxWidthAndHeight" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ScaleProtected" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ScaleSimple" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ScaleWidth" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ScaleWidthAndHeight" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ScanBitGenerator" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ScanDotGenerator" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorStars" }, 
 ]
 }},
 {"ligne" : {
@@ -2846,6 +2270,12 @@ var maDataBlocs = {
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.math.AsciiMath" }, 
   { "child"  : "(1) net.sourceforge.plantuml.math.LatexBuilder" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) Scrollable" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.swing.ScrollablePicture" }, 
 ]
 }},
 {"ligne" : {
@@ -2882,41 +2312,10 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) SentenceSimple" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceEnds" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceHappens" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceHappensDate" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceIsColored" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceIsColoredForCompletion" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceIsDeleted" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceIsForTask" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceLasts" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceLinksTo" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceOccurs" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentencePausesDate" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentencePausesDates" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentencePausesDayOfWeek" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceTaskEndsAbsolute" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceTaskStarts" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceTaskStartsAbsolute" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Serializable" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.FileFormatOption" }, 
   { "child"  : "(1) net.sourceforge.plantuml.json.JsonValue" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Shader" ,
-"children" : [
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.shader.ShaderDefault" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.shader.ShaderFlat" }, 
-  { "child"  : "(1) ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho" }, 
 ]
 }},
 {"ligne" : {
@@ -2932,418 +2331,9 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) ShapeAttributesTextAttributes" ,
-"children" : [
-  { "child"  : "(1) jcckit.graphic.BasicGraphicAttributes" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) SheetBuilder" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.creole.legacy.CreoleParser" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SimpleReturnFunction" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.AlwaysFalse" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.AlwaysTrue" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.CallUserFunction" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Chr" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Darken" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.DateFunction" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Dec2hex" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Dirpath" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Eval" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Feature" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.FileExists" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Filename" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.FunctionExists" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.GetJsonKey" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.GetJsonType" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.GetVariableValue" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.GetVersion" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Getenv" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Hex2dec" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.HslColor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.IntVal" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.IsDark" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.IsLight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.JsonKeyExists" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Lighten" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.LoadJson" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.LoadJsonLegacy" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.LogicalNot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Lower" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Newline" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Now" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.RetrieveProcedure" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.ReverseColor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.ReverseHsluvColor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.SetVariableValue" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Size" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.SplitStr" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.StringFunction" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Strlen" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Strpos" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Substr" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.Upper" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.tim.stdlib.VariableExists" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;AbstractClassOrObjectDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandAddData" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObject" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.objectdiagram.command.CommandCreateJsonSingleLine" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;AbstractEntityDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandUrl" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandEndPackage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandPackage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandPackageEmpty" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandPackageWithUSymbol" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;AbstractPSystem&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandPage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScale" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleMaxHeight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleMaxWidth" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleWidthAndHeight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandScaleWidthOrHeight" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;ActivityDiagram3&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandArrow3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandBackward3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandBreak" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandCase" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandElse3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandElseIf2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandEnd3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandEndPartition3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandEndif3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandFork3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandForkAgain3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandForkEnd3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandGoto" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandGroupEnd3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandIf2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandIf4" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandKill3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandLabel" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandLink3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandNolink" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandNote3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandRepeat3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandRepeatWhile3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSplit3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSplitAgain3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandStart3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandStop3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandSwitch" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandWhile3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.command.CommandWhileEnd3" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;ActivityDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandElse" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandEndif" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandIf" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandInnerConcurrent" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandLinkActivity" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram.command.CommandPartition" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;BoardDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.board.CommandBoardPlus" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;BpmDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandDockedEvent" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandElseBranch" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandEndBranch" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandGoto" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandMerge" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandNewBranch" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.CommandResume" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;ClassDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandAddMethod" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandCreateClass" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandCreateElementFull2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandStereotype" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandNamespace" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandNamespace2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandNamespaceEmpty" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandCreateElementParenthesis" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;CompositeDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.command.CommandCreateBlock" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.command.CommandCreatePackageBlock" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.command.CommandEndPackageBlock" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.compositediagram.command.CommandLinkBlock" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;CucaDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandHideShow2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.note.CommandConstraintOnLinks" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;DescriptionDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.CommandCreateDomain" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandArchimate" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;Diagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandNope" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;FlowDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.CommandLineSimple" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.CommandLink" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;GanttDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandColorTask" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandFootbox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandGanttArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandGanttArrow2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandGroupEnd" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandGroupStart" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandHideResourceFootbox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandHideResourceName" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandLabelOnColumn" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandLanguage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandPrintBetween" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandPrintScale" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandSeparator" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.command.NaturalCommand" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;Help&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelp" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpColor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpFont" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpKeyword" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpSkinparam" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpTheme" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.help.CommandHelpType" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;MindMapDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapDirection" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapOrgmode" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapPlus" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.mindmap.CommandMindMapRoot" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;NwDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandComment" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandElement" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandEndSomething" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandGroup" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandLink" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandNetwork" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandNwDiagInit" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.CommandProperty" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;PSystemEbnf&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandComment" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.CommandEBnfSingleLine" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;PSystemSalt&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.salt.CommandAnything" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.salt.CommandSalt" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;SequenceDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandActivate" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandActivate2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandArrow" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutoNewpage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutonumber" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberIncrement" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberResume" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberStop" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandBoxStart" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandDeactivateShort" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandDelay" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandDivider" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowAny" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandFootbox" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandGrouping" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandHSpace" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandIgnoreNewpage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandLinkAnchor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandNewpage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandParticipant" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandReferenceOverSeveral" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandReturn" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandUrl" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;StateDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandAddField" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandConcurrentState" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandCreatePackage2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandCreatePackageState" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandCreateState" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandEndState" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;StdlibDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sprite.CommandStdlib" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;TimingDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandAnalog" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandAtPlayer" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandAtTime" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandBinary" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandChangeState" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandClock" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandConstraint" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateLong" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateShort" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandHighlight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandModeCompact" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandNote" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandPixelHeight" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandRobustConcise" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandTicks" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandTimeMessage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;TitledDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandAssumeTransparent" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandCaption" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandFooter" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandHeader" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandLegend" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMainframe" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandPragma" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandRankDir" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSkinParam" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSpriteFile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandSpriteSvg" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandTitle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.command.CommandSkin" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.style.CommandStyleImport" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;UmlDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandHideShowByGender" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandAffineTransform" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandFootboxIgnored" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandMinwidth" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.command.CommandRotate" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.command.CommandNewpage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sprite.CommandListSprite" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.statediagram.command.CommandHideEmptyDescription" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;WBSDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.wbs.CommandWBSItem" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SingleLineCommand2&lt;WireDiagram&gt;" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandComponent" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandGoto" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandMove" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandNewColumn" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandPrint" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandSpot" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wire.CommandWLink" }, 
 ]
 }},
 {"ligne" : {
@@ -3382,19 +2372,10 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) SkinParamDelegator" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.SkinParamBackcolored" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.SkinParamBackcoloredReference" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.SkinParamColors" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.SkinParamForceColor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.SkinParamForecolored" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) Solver" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.project.solver.AbstractSolver" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.solver.SolverImpl" }, 
 ]
 }},
 {"ligne" : {
@@ -3417,14 +2398,6 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.project.lang.ComplementUrl" }, 
   { "child"  : "(1) net.sourceforge.plantuml.project.lang.ComplementWithColorLink" }, 
   { "child"  : "(1) net.sourceforge.plantuml.project.lang.PairOfSomething" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) SourceFileReaderAbstractISourceFileReader" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.SourceFileReader" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.SourceFileReaderCopyCat" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.SourceFileReaderHardFile" }, 
 ]
 }},
 {"ligne" : {
@@ -3489,23 +2462,24 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) Step1Abstract" ,
+   "classe"  : "(2) Stencil" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.Step1Message" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNoteOpale" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithNoteOpale" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.rose.ComponentRoseNote" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageClass" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageJson" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageMap" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageNote" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.EntityImageObject" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) StringBounder" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.graphic.StringBounderRaw" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) StringBounderRaw" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.asciiart.TextStringBounder" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.debug.StringBounderDebug" }, 
 ]
 }},
 {"ligne" : {
@@ -3542,6 +2516,7 @@ var maDataBlocs = {
 {"ligne" : {
    "classe"  : "(2) Styleable" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondWIP" }, 
   { "child"  : "(1) net.sourceforge.plantuml.style.WithStyle" }, 
 ]
 }},
@@ -3576,6 +2551,7 @@ var maDataBlocs = {
    "classe"  : "(2) Swimable" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.Instruction" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.MonoSwimable" }, 
   { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.Ftile" }, 
 ]
 }},
@@ -3601,10 +2577,19 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(2) TMemory" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.tim.TMemoryGlobal" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.tim.TMemoryLocal" }, 
+]
+}},
+{"ligne" : {
    "classe"  : "(2) Task" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ant.PlantUmlTask" }, 
   { "child"  : "(1) net.sourceforge.plantuml.project.core.AbstractTask" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.core.TaskGroup" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.core.TaskImpl" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.project.core.TaskSeparator" }, 
 ]
 }},
 {"ligne" : {
@@ -3621,33 +2606,78 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(2) TextAttributes" ,
+"children" : [
+  { "child"  : "(1) jcckit.graphic.BasicGraphicAttributes" }, 
+]
+}},
+{"ligne" : {
    "classe"  : "(2) TextBlock" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.GotoInterceptor" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.TextBlockInterceptorUDrawable" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.SheetBlock1" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.creole.SheetBlock2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.Body3" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.BodyEnhanced1" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.descdiagram.BoxedCharacter" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.FlowDiagram" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.golem.Tile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.golem.TilesField" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.AbstractTextBlock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.CircledCharacter" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.Line" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.SimpleTextBlockBordered" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockArrow2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockBordered" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockGeneric" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockHorizontal" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockLineBefore" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockMarged" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockMinWidth" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockRaw" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockSimple" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockTitle" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockVertical2" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockWithUrl" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TileImage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TileImageSvg" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TileText" }, 
   { "child"  : "(1) net.sourceforge.plantuml.nwdiag.next.GridTextBlockSimple" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.ComponentAdapter" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpaceWithParticipants" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.ActorAwesome" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.ActorHollow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.skin.ActorStickMan" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.CircleInterface2" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.Control" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.DirectionalTextBlock" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.EntityDomain" }, 
   { "child"  : "(1) net.sourceforge.plantuml.svek.TextBlockBackcolored" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.image.Opale" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.TextBlockInEllipse" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder" }, 
   { "child"  : "(1) net.sourceforge.plantuml.wbs.ITF" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) TextBlockBackcolored" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlockRecentred" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.jsondiagram.TextBlockJson" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.DecorateEntityImage" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.svek.DecorateEntityImage3" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) TextBlockable" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.ebnf.EbnfExpression" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) TextGrid" ,
-"children" : [
-  { "child"  : "(1) org.stathissideris.ascii2image.text.GridPattern" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) Thread" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.telnet.AcceptTelnetClient" }, 
 ]
 }},
 {"ligne" : {
@@ -3660,24 +2690,16 @@ var maDataBlocs = {
 {"ligne" : {
    "classe"  : "(2) Tile" ,
 "children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.AbstractTile" }, 
   { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.CommonTile" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) TimeHeader" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderCalendar" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderSimple" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) TimeHeaderCalendar" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderDaily" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderMonthly" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderQuarterly" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderWeekly" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.project.draw.TimeHeaderYearly" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.DelayTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.DividerTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.EmptyTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.HSpaceTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.NoteTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.NotesTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.ReferenceTile" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.TileMarged" }, 
 ]
 }},
 {"ligne" : {
@@ -3703,28 +2725,9 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) TitledDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.ebnf.PSystemEbnf" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.jsondiagram.JsonDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) TitledDiagramDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.UmlDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) TitledDiagramToTaskDraw" ,
+   "classe"  : "(2) ToTaskDraw" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.project.GanttDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) TitledDiagramWithSprite" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.salt.PSystemSalt" }, 
 ]
 }},
 {"ligne" : {
@@ -3779,8 +2782,10 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.braille.BrailleDrawer" }, 
   { "child"  : "(1) net.sourceforge.plantuml.classdiagram.FullLayout" }, 
   { "child"  : "(1) net.sourceforge.plantuml.classdiagram.RowLayout" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.definition.PSystemDefinition" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ebnf.Brace" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ebnf.CornerCurved" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.eggs.PSystemColors" }, 
   { "child"  : "(1) net.sourceforge.plantuml.graphic.TextBlock" }, 
   { "child"  : "(1) net.sourceforge.plantuml.mindmap.Branch" }, 
   { "child"  : "(1) net.sourceforge.plantuml.mindmap.Finger" }, 
@@ -3801,6 +2806,7 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.graphic.PentaAShape" }, 
   { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.graphic.PentaBShape" }, 
   { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.version.PSystemLicense" }, 
 ]
 }},
 {"ligne" : {
@@ -3883,6 +2889,12 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(2) UDriver&lt;UEllipse, Graphics2D&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverEllipseG2d" }, 
+]
+}},
+{"ligne" : {
    "classe"  : "(2) UDriver&lt;UEllipse, SvgGraphics&gt;" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.svg.DriverEllipseSvg" }, 
@@ -3937,6 +2949,12 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(2) UDriver&lt;ULine, Graphics2D&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverLineG2d" }, 
+]
+}},
+{"ligne" : {
    "classe"  : "(2) UDriver&lt;ULine, Html5Drawer&gt;" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.html5.DriverLineHtml5" }, 
@@ -3964,6 +2982,18 @@ var maDataBlocs = {
    "classe"  : "(2) UDriver&lt;UPath, EpsGraphics&gt;" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.eps.DriverPathEps" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) UDriver&lt;UPath, Graphics2D&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverPathG2d" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) UDriver&lt;UPath, SvgGraphics&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.svg.DriverPathSvg" }, 
 ]
 }},
 {"ligne" : {
@@ -4003,6 +3033,12 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(2) UDriver&lt;UPolygon, Graphics2D&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverPolygonG2d" }, 
+]
+}},
+{"ligne" : {
    "classe"  : "(2) UDriver&lt;UPolygon, SvgGraphics&gt;" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.svg.DriverPolygonSvg" }, 
@@ -4030,6 +3066,12 @@ var maDataBlocs = {
    "classe"  : "(2) UDriver&lt;URectangle, EpsGraphics&gt;" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.eps.DriverRectangleEps" }, 
+]
+}},
+{"ligne" : {
+   "classe"  : "(2) UDriver&lt;URectangle, Graphics2D&gt;" ,
+"children" : [
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.g2d.DriverRectangleG2d" }, 
 ]
 }},
 {"ligne" : {
@@ -4100,42 +3142,7 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.graphic.UGraphicDelegator" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UGraphicNo" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UGraphicDelegator" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.UGraphicInterceptorUDrawable2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.UGraphicInterceptorGoto" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.UGraphicInterceptorOneSwimlane" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.UGraphicInterceptorUDrawable" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.UGraphicNewpages" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.svek.UGraphicForSnake" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.AbstractUGraphicHorizontalLine" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UGraphicFilter" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.comp.UGraphicCompressOnXorY" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UGraphicDelegatorContext2D" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.teoz.UGraphicInterceptorTile" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UGraphicDelegatorUGraphic" ,
-"children" : [
   { "child"  : "(1) net.sourceforge.plantuml.ugraphic.hand.UGraphicHandwritten" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UGraphicNo" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.CollisionDetector" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.ZadBuilder" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.LimitFinder" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.TextLimitFinder" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.comp.SlotFinder" }, 
 ]
 }},
 {"ligne" : {
@@ -4180,196 +3187,18 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) USymbol" ,
+   "classe"  : "(2) UShapeSized" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolArtifact" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolCard" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolCloud" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolCollections" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolComponent1" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolComponent2" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolDatabase" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolFile" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolFolder" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolFrame" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolHexagon" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolLabel" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolNode" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolPerson" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolQueue" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolRectangle" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolSimpleAbstract" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolStack" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolStorage" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolTogether" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) USymbolSimpleAbstract" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolActor" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolBoundary" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolControl" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolEntityDomain" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.graphic.USymbolInterface" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.UEllipse" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.ULine" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ugraphic.URectangle" }, 
 ]
 }},
 {"ligne" : {
    "classe"  : "(2) UmlCharArea" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.asciiart.TranslatedCharArea" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UmlDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.board.BoardDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.bpm.BpmDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.gitlog.GitDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.help.Help" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.mindmap.MindMapDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.nwdiag.NwDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sequencediagram.SequenceDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sprite.ListSpriteDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.sprite.StdlibDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wbs.WBSDiagram" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.wire.WireDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UmlDiagramClocks" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.TimingDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UmlDiagramGroupHierarchy" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.CucaDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UmlDiagramTextBlock" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.flowdiagram.FlowDiagram" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UnsupportedC" ,
-"children" : [
-  { "child"  : "(1) smetana.core.CArray" }, 
-  { "child"  : "(1) smetana.core.CArrayOfStar" }, 
-  { "child"  : "(1) smetana.core.CStarStar" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UnsupportedCCFunction" ,
-"children" : [
-  { "child"  : "(1) smetana.core.CFunctionAbstract" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UnsupportedC__ptr__" ,
-"children" : [
-  { "child"  : "(1) smetana.core.CString" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UnsupportedStarStruct" ,
-"children" : [
-  { "child"  : "(1) h.ST_Agcbstack_s" }, 
-  { "child"  : "(1) h.ST_Agclos_s" }, 
-  { "child"  : "(1) h.ST_Agdesc_s" }, 
-  { "child"  : "(1) h.ST_Agdisc_s" }, 
-  { "child"  : "(1) h.ST_Agdstate_s" }, 
-  { "child"  : "(1) h.ST_Agedgepair_s" }, 
-  { "child"  : "(1) h.ST_Agiddisc_s" }, 
-  { "child"  : "(1) h.ST_Agiodisc_s" }, 
-  { "child"  : "(1) h.ST_Agmemdisc_s" }, 
-  { "child"  : "(1) h.ST_Agobj_s" }, 
-  { "child"  : "(1) h.ST_Agrec_s" }, 
-  { "child"  : "(1) h.ST_Agsubnode_s" }, 
-  { "child"  : "(1) h.ST_Agsym_s" }, 
-  { "child"  : "(1) h.ST_Agtag_s" }, 
-  { "child"  : "(1) h.ST_BestPos_t" }, 
-  { "child"  : "(1) h.ST_Branch_t" }, 
-  { "child"  : "(1) h.ST_GVCOMMON_t" }, 
-  { "child"  : "(1) h.ST_GVC_s" }, 
-  { "child"  : "(1) h.ST_HDict_t" }, 
-  { "child"  : "(1) h.ST_IMapEntry_t" }, 
-  { "child"  : "(1) h.ST_LeafList_t" }, 
-  { "child"  : "(1) h.ST_PartitionVars" }, 
-  { "child"  : "(1) h.ST_Pedge_t" }, 
-  { "child"  : "(1) h.ST_Ppoly_t" }, 
-  { "child"  : "(1) h.ST_RTree" }, 
-  { "child"  : "(1) h.ST_Rect_t" }, 
-  { "child"  : "(1) h.ST_STheap_t" }, 
-  { "child"  : "(1) h.ST_SplitQ_t" }, 
-  { "child"  : "(1) h.ST_XLabels_t" }, 
-  { "child"  : "(1) h.ST_adjmatrix_t" }, 
-  { "child"  : "(1) h.ST_arrowdir_t" }, 
-  { "child"  : "(1) h.ST_arrowname_t" }, 
-  { "child"  : "(1) h.ST_arrowtype_t" }, 
-  { "child"  : "(1) h.ST_aspect_t" }, 
-  { "child"  : "(1) h.ST_bezier" }, 
-  { "child"  : "(1) h.ST_blk_t" }, 
-  { "child"  : "(1) h.ST_boxf" }, 
-  { "child"  : "(1) h.ST_cinfo_t" }, 
-  { "child"  : "(1) h.ST_deque_t" }, 
-  { "child"  : "(1) h.ST_dt_s" }, 
-  { "child"  : "(1) h.ST_dtdata_s" }, 
-  { "child"  : "(1) h.ST_dtdisc_s" }, 
-  { "child"  : "(1) h.ST_dtlink_s" }, 
-  { "child"  : "(1) h.ST_dtmethod_s" }, 
-  { "child"  : "(1) h.ST_elist" }, 
-  { "child"  : "(1) h.ST_fontinfo" }, 
-  { "child"  : "(1) h.ST_gvlayout_engine_s" }, 
-  { "child"  : "(1) h.ST_gvlayout_features_t" }, 
-  { "child"  : "(1) h.ST_gvplugin_active_layout_t" }, 
-  { "child"  : "(1) h.ST_gvplugin_available_s" }, 
-  { "child"  : "(1) h.ST_gvplugin_installed_t" }, 
-  { "child"  : "(1) h.ST_inside_t" }, 
-  { "child"  : "(1) h.ST_label_params_t" }, 
-  { "child"  : "(1) h.ST_layout_t" }, 
-  { "child"  : "(1) h.ST_nlist_t" }, 
-  { "child"  : "(1) h.ST_nodequeue" }, 
-  { "child"  : "(1) h.ST_pack_info" }, 
-  { "child"  : "(1) h.ST_path" }, 
-  { "child"  : "(1) h.ST_pathend_t" }, 
-  { "child"  : "(1) h.ST_point" }, 
-  { "child"  : "(1) h.ST_pointf" }, 
-  { "child"  : "(1) h.ST_pointnlink_t" }, 
-  { "child"  : "(1) h.ST_port" }, 
-  { "child"  : "(1) h.ST_rank_t" }, 
-  { "child"  : "(1) h.ST_shape_desc" }, 
-  { "child"  : "(1) h.ST_shape_functions" }, 
-  { "child"  : "(1) h.ST_splineInfo" }, 
-  { "child"  : "(1) h.ST_spline_info_t" }, 
-  { "child"  : "(1) h.ST_splines" }, 
-  { "child"  : "(1) h.ST_stk_t" }, 
-  { "child"  : "(1) h.ST_subtree_t" }, 
-  { "child"  : "(1) h.ST_tedge_t" }, 
-  { "child"  : "(1) h.ST_textfont_t" }, 
-  { "child"  : "(1) h.ST_textlabel_t" }, 
-  { "child"  : "(1) h.ST_textspan_t" }, 
-  { "child"  : "(1) h.ST_tna_t" }, 
-  { "child"  : "(1) h.ST_triangle_t" }, 
-  { "child"  : "(1) h.ST_xlabel_t" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UnsupportedStarStructSHAPE_INFO" ,
-"children" : [
-  { "child"  : "(1) h.ST_field_t" }, 
-  { "child"  : "(1) h.ST_polygon_t" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) UnsupportedStarStructST_Node_t___or_object_t" ,
-"children" : [
-  { "child"  : "(1) h.ST_Node_t___" }, 
-  { "child"  : "(1) h.ST_object_t" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.asciiart.UmlCharAreaImpl" }, 
 ]
 }},
 {"ligne" : {
@@ -4378,17 +3207,6 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.project.Load" }, 
   { "child"  : "(1) net.sourceforge.plantuml.style.ValueAbstract" }, 
   { "child"  : "(1) net.sourceforge.plantuml.style.ValueImpl" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ValueAbstract" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.style.ValueColor" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) ValueAbstractValue" ,
-"children" : [
   { "child"  : "(1) net.sourceforge.plantuml.style.ValueNull" }, 
 ]
 }},
@@ -4401,50 +3219,23 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) WBSTextBlock" ,
+   "classe"  : "(2) WeldingPoint" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.wbs.Fork" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.gtile.GtileBreak" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) WBSTextBlockITF" ,
+   "classe"  : "(2) WithPorts" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.wbs.ITFComposed" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.TextBlockMap" }, 
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) WindowMouseListener" ,
+   "classe"  : "(2) WithSprite" ,
 "children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.Splash" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) WithLinkType" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.project.GanttConstraint" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.timingdiagram.TimeMessage" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) WithLinkTypeHideable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.cucadiagram.Link" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) WithNoteInstruction" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionFork" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionIf" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionList" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionSwitch" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.InstructionWhile" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) WithNoteSwimable" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.MonoSwimable" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.salt.PSystemSalt" }, 
 ]
 }},
 {"ligne" : {
@@ -4458,25 +3249,6 @@ var maDataBlocs = {
    "classe"  : "(2) Writer" ,
 "children" : [
   { "child"  : "(1) ext.plantuml.com.google.zxing.qrcode.QRCodeWriter" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.json.WritingBuffer" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) WriterConfig" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.json.PrettyPrint" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) XDimension2D" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.activitydiagram3.ftile.FtileGeometry" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) XPath2D" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.awt.geom.XGeneralPath" }, 
 ]
 }},
 {"ligne" : {
@@ -4490,25 +3262,13 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
-   "classe"  : "(2) XmiClassDiagramAbstractXmlDiagramTransformer" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiClassDiagramArgo" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiClassDiagramStandard" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiClassDiagramStar" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) XmiSequenceDiagram" ,
-"children" : [
-  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo" }, 
-  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard" }, 
-]
-}},
-{"ligne" : {
    "classe"  : "(2) XmlDiagramTransformer" ,
 "children" : [
   { "child"  : "(1) net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram" }, 
   { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiClassDiagramArgo" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiClassDiagramStandard" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiClassDiagramStar" }, 
   { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiDescriptionDiagram" }, 
   { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiStateDiagram" }, 
 ]
@@ -4518,6 +3278,7 @@ var maDataBlocs = {
 "children" : [
   { "child"  : "(1) h.ST_Node_t___or_object_t" }, 
   { "child"  : "(1) smetana.core.CFunction" }, 
+  { "child"  : "(1) smetana.core.CString" }, 
   { "child"  : "(1) smetana.core.UnsupportedC" }, 
 ]
 }},
@@ -4525,12 +3286,6 @@ var maDataBlocs = {
    "classe"  : "(2) __struct__" ,
 "children" : [
   { "child"  : "(1) smetana.core.UnsupportedStarStruct" }, 
-]
-}},
-{"ligne" : {
-   "classe"  : "(2) java.awt.geom.Point2D.Float" ,
-"children" : [
-  { "child"  : "(1) org.stathissideris.ascii2image.graphics.ShapePoint" }, 
 ]
 }},
 {"ligne" : {

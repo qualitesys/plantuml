@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractUGraphic<TikzGraphics>ClipContainer"
+ , "c1" : "ClipContainer"
  , "c2" : "net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz"
 }} 
 ]
@@ -181,21 +181,21 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN164418 the MagicNumber/String  'SPECIALTXT' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN166052 the MagicNumber/String  'SPECIALTXT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN164418 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN166052 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/tikz/UGraphicTikz.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN164418 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ugraphic.tikz.UGraphicTikz.matchesProperty@POLYN166052 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

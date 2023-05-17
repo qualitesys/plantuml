@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PlainStringsDiagram"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.eggs.PSystemLost"
 }} 
 ]
@@ -85,14 +85,14 @@ var maDataBlocs = {
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemLost.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.eggs.PSystemLost.PSystemLost@POLYN149029 the MagicNumber/String  'Thank you for choosing Oceanic Airlines.' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.eggs.PSystemLost.PSystemLost@POLYN150663 the MagicNumber/String  'Thank you for choosing Oceanic Airlines.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemLost.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.eggs.PSystemLost.getDescription@POLYN149234 the MagicNumber/String  '(Lost)' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.eggs.PSystemLost.getDescription@POLYN150868 the MagicNumber/String  '(Lost)' should be converted to const"
 }} 
 ]
 , 

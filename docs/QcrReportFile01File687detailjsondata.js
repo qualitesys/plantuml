@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GtileWithMargin"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled"
 }} 
 ]
@@ -153,7 +153,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled.GtileHexagonInsideLabelled@POLYN162157 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled.GtileHexagonInsideLabelled@POLYN163791 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -209,7 +209,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileHexagonInsideLabelled.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled.getNorthMargin@POLYN163450 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.activitydiagram3.gtile.GtileHexagonInsideLabelled.getNorthMargin@POLYN165084 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

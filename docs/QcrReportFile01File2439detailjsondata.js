@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractCodeIterator"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine"
 }} 
 ]
@@ -99,21 +99,21 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorLegacyDefine.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine.peek@POLYN155164 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine.peek@POLYN156798 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorLegacyDefine.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine.peek@POLYN155164 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine.peek@POLYN156798 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorLegacyDefine.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine.peek@POLYN155164 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorLegacyDefine.peek@POLYN156798 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

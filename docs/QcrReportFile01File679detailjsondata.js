@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GtileEmptyWeldingPoint"
+ , "c1" : "WeldingPoint"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileBreak"
 }} 
 ]

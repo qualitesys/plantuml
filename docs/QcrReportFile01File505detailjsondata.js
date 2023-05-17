@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "WithNoteSwimable"
+ , "c1" : "Swimable"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.MonoSwimable"
 }} 
 ]
@@ -103,7 +103,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/MonoSwimable.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.activitydiagram3.MonoSwimable.getSwimlanes@POLYN150612 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.activitydiagram3.MonoSwimable.getSwimlanes@POLYN152246 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

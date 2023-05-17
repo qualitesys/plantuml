@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractSymbolFactory"
+ , "c1" : ""
  , "c2" : "jcckit.plot.CircleSymbolFactory"
 }} 
 ]

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTaskTask"
+ , "c1" : "Task"
  , "c2" : "net.sourceforge.plantuml.project.core.TaskSeparator"
 }} 
 ]
@@ -241,7 +241,7 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskSeparator.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.core.TaskSeparator.TaskSeparator@POLYN156386 the MagicNumber/String  '##' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.core.TaskSeparator.TaskSeparator@POLYN158020 the MagicNumber/String  '##' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

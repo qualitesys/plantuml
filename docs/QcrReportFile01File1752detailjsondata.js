@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SentenceSimple"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor"
 }} 
 ]
@@ -113,14 +113,14 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor.execute@POLYN154758 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor.execute@POLYN156392 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceTaskStartsWithColor.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor.execute@POLYN154758 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.lang.SentenceTaskStartsWithColor.execute@POLYN156392 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

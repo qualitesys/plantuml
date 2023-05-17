@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractUGraphic<Html5Drawer>ClipContainer"
+ , "c1" : "ClipContainer"
  , "c2" : "net.sourceforge.plantuml.ugraphic.html5.UGraphicHtml5"
 }} 
 ]

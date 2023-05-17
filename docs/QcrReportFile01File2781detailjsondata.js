@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UmlDiagram"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.wire.WireDiagram"
 }} 
 ]
@@ -207,14 +207,14 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.wire.WireDiagram.getDescription@POLYN176542 the MagicNumber/String  'Wire Diagram' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.wire.WireDiagram.getDescription@POLYN178176 the MagicNumber/String  'Wire Diagram' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.wire.WireDiagram.WireDiagram@POLYN176657 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.wire.WireDiagram.WireDiagram@POLYN178291 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -228,14 +228,14 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.wire.WireDiagram.getTextBlock@POLYN177148 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.wire.WireDiagram.getTextBlock@POLYN178782 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.wire.WireDiagram.getTextBlock@POLYN177148 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.wire.WireDiagram.getTextBlock@POLYN178782 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -270,14 +270,14 @@ var maDataBlocs = {
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wire.WireDiagram.spot@POLYN179099 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wire.WireDiagram.spot@POLYN180733 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.wire.WireDiagram.spot@POLYN179099 the MagicNumber/String  'No such element ' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.wire.WireDiagram.spot@POLYN180733 the MagicNumber/String  'No such element ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -319,14 +319,14 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WireDiagram.computeIndentationLevel@POLYN180933 the MagicNumber/String  '    ' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WireDiagram.computeIndentationLevel@POLYN182567 the MagicNumber/String  '    ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WireDiagram.computeIndentationLevel@POLYN180933 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WireDiagram.computeIndentationLevel@POLYN182567 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -340,42 +340,42 @@ var maDataBlocs = {
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN181186 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN182820 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN181186 the MagicNumber/String  'No such element ' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN182820 the MagicNumber/String  'No such element ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN181186 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN182820 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN181186 the MagicNumber/String  'No such element ' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN182820 the MagicNumber/String  'No such element ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN181186 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN182820 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN181186 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.wire.WireDiagram.vlink@POLYN182820 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -389,42 +389,42 @@ var maDataBlocs = {
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN182566 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN184200 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN182566 the MagicNumber/String  'No such element ' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN184200 the MagicNumber/String  'No such element ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN182566 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN184200 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN182566 the MagicNumber/String  'No such element ' should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN184200 the MagicNumber/String  'No such element ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN182566 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN184200 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WireDiagram.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN182566 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.wire.WireDiagram.hlink@POLYN184200 the MagicNumber/String  '0' should be converted to const"
 }} 
 ]
 , 

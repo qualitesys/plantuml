@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Eater"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.tim.EaterLegacyDefine"
 }} 
 ]
@@ -108,21 +108,21 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefine.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterLegacyDefine.analyze@POLYN150181 the MagicNumber/String  '!define' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterLegacyDefine.analyze@POLYN151815 the MagicNumber/String  '!define' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefine.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefine.analyze@POLYN150181 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefine.analyze@POLYN151815 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefine.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefine.analyze@POLYN150181 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefine.analyze@POLYN151815 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

@@ -94,91 +94,91 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.PositiveForce.toString@POLYN155661 the MagicNumber/String  'PositiveForce fixed=' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.PositiveForce.toString@POLYN157293 the MagicNumber/String  'PositiveForce fixed=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.PositiveForce.toString@POLYN155661 the MagicNumber/String  ' moving=' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.PositiveForce.toString@POLYN157293 the MagicNumber/String  ' moving=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.PositiveForce.toString@POLYN155661 the MagicNumber/String  ' min=' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.PositiveForce.toString@POLYN157293 the MagicNumber/String  ' min=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  'apply ' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  'apply ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  'Pb with force ' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  'Pb with force ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  'This force has been created here:' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  'This force has been created here:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  'The fixed point has been created here: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  'The fixed point has been created here: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  'Not using ' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  'Not using ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  'moving ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  'moving ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/PositiveForce.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN155863 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.real.PositiveForce.apply@POLYN157495 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

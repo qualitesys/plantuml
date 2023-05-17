@@ -94,49 +94,49 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.create@POLYN153749 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.create@POLYN155381 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.create@POLYN153749 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.create@POLYN155381 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.create@POLYN153749 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.create@POLYN155381 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.create@POLYN153749 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.create@POLYN155381 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.ready@POLYN154545 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.ready@POLYN156177 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.ready@POLYN154545 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.ready@POLYN156177 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryTextField.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.ready@POLYN154545 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryTextField.ready@POLYN156177 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ]
 , 

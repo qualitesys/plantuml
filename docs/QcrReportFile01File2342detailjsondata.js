@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractEntityImage"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.svek.image.EntityImageStateCommon"
 }} 
 ]
@@ -290,14 +290,14 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.svek.image.EntityImageStateCommon.applyColor@POLYN171259 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.svek.image.EntityImageStateCommon.applyColor@POLYN172893 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageStateCommon.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.svek.image.EntityImageStateCommon.applyColor@POLYN171259 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.svek.image.EntityImageStateCommon.applyColor@POLYN172893 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractEntityImage"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2"
 }} 
 ]
@@ -147,63 +147,63 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN168188 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.EntityImageLollipopInterfaceEye2@POLYN169822 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -245,56 +245,56 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN170418 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN172052 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN170418 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN172052 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN170418 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN172052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN170418 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN172052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN170418 the MagicNumber/String  1.4 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN172052 the MagicNumber/String  1.4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN170418 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN172052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN170418 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN172052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageLollipopInterfaceEye2.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN170418 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2.drawU@POLYN172052 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

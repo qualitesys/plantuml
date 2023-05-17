@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<TitledDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.command.CommandSpriteSvg"
 }} 
 ]
@@ -108,42 +108,42 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN153581 the MagicNumber/String  'sprite' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN155215 the MagicNumber/String  'sprite' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN153581 the MagicNumber/String  '\\$?' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN155215 the MagicNumber/String  '\\$?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN153581 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN155215 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN153581 the MagicNumber/String  '([-%pLN_]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN155215 the MagicNumber/String  '([-%pLN_]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN153581 the MagicNumber/String  'SVG' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN155215 the MagicNumber/String  'SVG' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN153581 the MagicNumber/String  '(\\&amp;lt;svg\\b.*\\&amp;lt;/svg\\&amp;gt;)' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.command.CommandSpriteSvg.getRegexConcat@POLYN155215 the MagicNumber/String  '(\\&amp;lt;svg\\b.*\\&amp;lt;/svg\\&amp;gt;)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -171,35 +171,35 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN154214 the MagicNumber/String  'SVG' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN155848 the MagicNumber/String  'SVG' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN154214 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN155848 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN154214 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN155848 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN154214 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN155848 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandSpriteSvg.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN154214 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.command.CommandSpriteSvg.executeArg@POLYN155848 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

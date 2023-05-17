@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CommandMultilines2<TitledDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.command.CommandMultilinesLegend"
 }} 
 ]
@@ -117,42 +117,42 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN158849 the MagicNumber/String  'legend' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN160483 the MagicNumber/String  'legend' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN158849 the MagicNumber/String  'VALIGN' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN160483 the MagicNumber/String  'VALIGN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN158849 the MagicNumber/String  '(top|bottom)' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN160483 the MagicNumber/String  '(top|bottom)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN158849 the MagicNumber/String  'ALIGN' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN160483 the MagicNumber/String  'ALIGN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN158849 the MagicNumber/String  '(left|right|center)' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getRegexConcat@POLYN160483 the MagicNumber/String  '(left|right|center)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getPatternEnd@POLYN159572 the MagicNumber/String  '^end[%s]?legend$' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.getPatternEnd@POLYN161206 the MagicNumber/String  '^end[%s]?legend$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -180,70 +180,70 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  'ALIGN' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  'ALIGN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  'VALIGN' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  'VALIGN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilinesLegend.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN159674 the MagicNumber/String  'No legend defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.command.CommandMultilinesLegend.executeNow@POLYN161308 the MagicNumber/String  'No legend defined' should be converted to const"
 }} 
 ]
 , 

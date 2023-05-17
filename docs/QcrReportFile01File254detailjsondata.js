@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UnsupportedStarStruct"
+ , "c1" : ""
  , "c2" : "h.ST_pointf"
 }} 
 ]
@@ -170,21 +170,21 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/h/ST_pointf.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN160740 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN162374 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/h/ST_pointf.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN160740 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN162374 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/h/ST_pointf.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN160740 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method h.ST_pointf.toString@POLYN162374 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

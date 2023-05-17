@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractFtile"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat"
 }} 
 ]
@@ -253,7 +253,7 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getSwimlanes@POLYN274414 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getSwimlanes@POLYN276048 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -309,133 +309,133 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN275024 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.create@POLYN276658 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -470,7 +470,7 @@ var maDataBlocs = {
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionIn.drawU@POLYN282758 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionIn.drawU@POLYN284394 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -505,7 +505,7 @@ var maDataBlocs = {
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionOut.drawU@POLYN285074 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionOut.drawU@POLYN286712 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -540,14 +540,14 @@ var maDataBlocs = {
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionOut.drawTranslate@POLYN285897 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionOut.drawTranslate@POLYN287535 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionOut.drawTranslate@POLYN285897 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionOut.drawTranslate@POLYN287535 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -561,14 +561,14 @@ var maDataBlocs = {
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.getP1@POLYN287981 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.getP1@POLYN289621 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.getP1@POLYN287981 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.getP1@POLYN289621 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -582,14 +582,14 @@ var maDataBlocs = {
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.getP2@POLYN288226 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.getP2@POLYN289866 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.getP2@POLYN288226 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.getP2@POLYN289866 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -631,63 +631,63 @@ var maDataBlocs = {
  , "c1" : "00325"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#325"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00327"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#327"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00327] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00327] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00330"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#330"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00330"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#330"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00330] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00341"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00342"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN288540 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackComplex1.drawTranslate@POLYN290180 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -715,14 +715,14 @@ var maDataBlocs = {
  , "c1" : "00369"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#369"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward1.getP1@POLYN292447 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward1.getP1@POLYN294089 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#369"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward1.getP1@POLYN292447 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward1.getP1@POLYN294089 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -750,7 +750,7 @@ var maDataBlocs = {
  , "c1" : "00384"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#384"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward1.drawU@POLYN293064 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward1.drawU@POLYN294706 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -785,7 +785,7 @@ var maDataBlocs = {
  , "c1" : "00409"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#409"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward1.drawTranslate@POLYN294528 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward1.drawTranslate@POLYN296170 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -806,14 +806,14 @@ var maDataBlocs = {
  , "c1" : "00441"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#441"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00441] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.getP2@POLYN297034 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00441] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.getP2@POLYN298678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00441"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#441"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00441] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.getP2@POLYN297034 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00441] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.getP2@POLYN298678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -848,14 +848,14 @@ var maDataBlocs = {
  , "c1" : "00460"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#460"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.drawTranslate@POLYN297285 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.drawTranslate@POLYN298929 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00463"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#463"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00463] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.drawTranslate@POLYN297285 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00463] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.drawTranslate@POLYN298929 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -876,14 +876,14 @@ var maDataBlocs = {
  , "c1" : "00479"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#479"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00479] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.drawU@POLYN299255 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00479] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.drawU@POLYN300899 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00488"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#488"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00488] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.drawU@POLYN299255 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00488] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackBackward2.drawU@POLYN300899 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -897,14 +897,14 @@ var maDataBlocs = {
  , "c1" : "00510"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#510"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00510] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.getP1@POLYN301280 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00510] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.getP1@POLYN302926 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00510"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#510"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00510] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.getP1@POLYN301280 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00510] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.getP1@POLYN302926 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -918,14 +918,14 @@ var maDataBlocs = {
  , "c1" : "00514"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#514"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.getP2@POLYN301525 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.getP2@POLYN303171 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00514"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#514"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.getP2@POLYN301525 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.getP2@POLYN303171 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -946,14 +946,14 @@ var maDataBlocs = {
  , "c1" : "00528"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#528"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00528] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawU@POLYN301762 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00528] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawU@POLYN303408 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00530"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#530"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00530] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawU@POLYN301762 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00530] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawU@POLYN303408 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -988,28 +988,28 @@ var maDataBlocs = {
  , "c1" : "00555"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#555"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00555] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawTranslate@POLYN303774 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00555] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawTranslate@POLYN305420 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00557"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#557"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00557] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawTranslate@POLYN303774 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00557] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawTranslate@POLYN305420 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00560"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#560"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawTranslate@POLYN303774 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawTranslate@POLYN305420 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00560"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#560"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawTranslate@POLYN303774 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00560] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.ConnectionBackSimple.drawTranslate@POLYN305420 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1030,7 +1030,7 @@ var maDataBlocs = {
  , "c1" : "00576"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#576"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00576] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.drawU@POLYN306141 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00576] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.drawU@POLYN307787 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1044,7 +1044,7 @@ var maDataBlocs = {
  , "c1" : "00584"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#584"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00584] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionFtile@POLYN306928 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00584] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionFtile@POLYN308574 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1058,28 +1058,28 @@ var maDataBlocs = {
  , "c1" : "00595"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#595"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00595] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionInternal@POLYN307284 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00595] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionInternal@POLYN308930 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00596"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#596"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00596] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionInternal@POLYN307284 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00596] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionInternal@POLYN308930 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00600"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#600"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionInternal@POLYN307284 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionInternal@POLYN308930 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00601"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#601"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00601] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionInternal@POLYN307284 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00601] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.calculateDimensionInternal@POLYN308930 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1100,7 +1100,7 @@ var maDataBlocs = {
  , "c1" : "00624"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#624"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00624] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getTranslateForRepeat@POLYN309025 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00624] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getTranslateForRepeat@POLYN310671 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1114,7 +1114,7 @@ var maDataBlocs = {
  , "c1" : "00633"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#633"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00633] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getTranslateDiamond1@POLYN310085 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00633] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getTranslateDiamond1@POLYN311731 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1128,7 +1128,7 @@ var maDataBlocs = {
  , "c1" : "00640"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#640"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00640] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getTranslateBackward@POLYN310488 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00640] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getTranslateBackward@POLYN312134 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1142,7 +1142,7 @@ var maDataBlocs = {
  , "c1" : "00650"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#650"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00650] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getTranslateDiamond2@POLYN311136 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00650] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getTranslateDiamond2@POLYN312782 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1156,14 +1156,14 @@ var maDataBlocs = {
  , "c1" : "00657"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#657"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00657] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getLeft@POLYN311773 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00657] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getLeft@POLYN313419 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00659"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#659"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00659] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getLeft@POLYN311773 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00659] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getLeft@POLYN313419 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1177,14 +1177,14 @@ var maDataBlocs = {
  , "c1" : "00668"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#668"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00668] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getRight@POLYN312686 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00668] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getRight@POLYN314332 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00670"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#670"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00670] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getRight@POLYN312686 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00670] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileRepeat.getRight@POLYN314332 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

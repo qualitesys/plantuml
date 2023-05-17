@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<GanttDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.project.command.CommandGroupEnd"
 }} 
 ]
@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGroupEnd.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.command.CommandGroupEnd.getRegexConcat@POLYN152737 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.command.CommandGroupEnd.getRegexConcat@POLYN154371 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGroupEnd.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.command.CommandGroupEnd.getRegexConcat@POLYN152737 the MagicNumber/String  'group' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.command.CommandGroupEnd.getRegexConcat@POLYN154371 the MagicNumber/String  'group' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PixelCanvas"
+ , "c1" : ""
  , "c2" : "ext.plantuml.com.ctreber.acearth.gui.CanvasACearth"
 }} 
 ]

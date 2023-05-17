@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractPlacementStrategy"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right"
 }} 
 ]
@@ -99,7 +99,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right.getPositions@POLYN153039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right.getPositions@POLYN154673 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

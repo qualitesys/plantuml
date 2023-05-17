@@ -194,7 +194,7 @@ var maDataBlocs = {
  , "c1" : "00039"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method org.stathissideris.ascii2image.text.StringUtils.contains@POLYN169247 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method org.stathissideris.ascii2image.text.StringUtils.contains@POLYN170879 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -208,28 +208,28 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method org.stathissideris.ascii2image.text.StringUtils.repeatString@POLYN169479 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method org.stathissideris.ascii2image.text.StringUtils.repeatString@POLYN171111 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method org.stathissideris.ascii2image.text.StringUtils.repeatString@POLYN169479 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method org.stathissideris.ascii2image.text.StringUtils.repeatString@POLYN171111 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method org.stathissideris.ascii2image.text.StringUtils.repeatString@POLYN169479 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method org.stathissideris.ascii2image.text.StringUtils.repeatString@POLYN171111 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.text.StringUtils.repeatString@POLYN169479 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.text.StringUtils.repeatString@POLYN171111 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -243,14 +243,14 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method org.stathissideris.ascii2image.text.StringUtils.isBlank@POLYN170197 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method org.stathissideris.ascii2image.text.StringUtils.isBlank@POLYN171829 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method org.stathissideris.ascii2image.text.StringUtils.isBlank@POLYN170197 the MagicNumber/String  '^\\s*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method org.stathissideris.ascii2image.text.StringUtils.isBlank@POLYN171829 the MagicNumber/String  '^\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -271,21 +271,21 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.text.StringUtils.firstToUpper@POLYN170549 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.text.StringUtils.firstToUpper@POLYN172181 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.text.StringUtils.firstToUpper@POLYN170549 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.text.StringUtils.firstToUpper@POLYN172181 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.text.StringUtils.firstToUpper@POLYN170549 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.text.StringUtils.firstToUpper@POLYN172181 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -306,91 +306,91 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN170810 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method org.stathissideris.ascii2image.text.StringUtils.insertSpaceAtCaps@POLYN172442 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -404,21 +404,21 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN173082 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN174714 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN173082 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN174714 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN173082 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN174714 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -446,21 +446,21 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN173502 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN175134 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN173502 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN175134 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN173502 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method org.stathissideris.ascii2image.text.StringUtils.isOneOf@POLYN175134 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -481,35 +481,35 @@ var maDataBlocs = {
  , "c1" : "00126"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN173939 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN175571 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN173939 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN175571 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN173939 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN175571 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN173939 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN175571 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN173939 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method org.stathissideris.ascii2image.text.StringUtils.getPath@POLYN175571 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -530,49 +530,49 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN174300 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN175932 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN174300 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN175932 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN174300 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN175932 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN174300 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN175932 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN174300 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN175932 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN174300 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN175932 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN174300 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method org.stathissideris.ascii2image.text.StringUtils.getBaseFilename@POLYN175932 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -593,35 +593,35 @@ var maDataBlocs = {
  , "c1" : "00138"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN174818 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN176450 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN174818 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN176450 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN174818 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN176450 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN174818 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN176450 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN174818 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method org.stathissideris.ascii2image.text.StringUtils.getExtension@POLYN176450 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -635,112 +635,112 @@ var maDataBlocs = {
  , "c1" : "00145"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  '1 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  '1 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  'testing' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  'testing' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  '2 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  '2 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  ' testing' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  ' testing' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  '3 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  '3 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  '_testing' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  '_testing' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  '4 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  '4 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  'Testing' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  'Testing' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  '5 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  '5 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  'ttesting' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  'ttesting' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  'C:\\Files\\test.txt' should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  'C:\\Files\\test.txt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  'test.txt' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  'test.txt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  'test' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  'test' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  'path: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  'path: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  'base: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  'base: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/StringUtils.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN175171 the MagicNumber/String  ' ext: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method org.stathissideris.ascii2image.text.StringUtils.main@POLYN176803 the MagicNumber/String  ' ext: ' should be converted to const"
 }} 
 ]
 , 

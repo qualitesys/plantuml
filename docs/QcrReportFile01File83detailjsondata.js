@@ -135,7 +135,7 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/ErrorCorrectionLevel.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel.forBits@POLYN152311 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel.forBits@POLYN153943 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockIEntityImage"
+ , "c1" : "IEntityImage"
  , "c2" : "net.sourceforge.plantuml.svek.InnerActivity"
 }} 
 ]
@@ -188,7 +188,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.InnerActivity.getOverscanX@POLYN158583 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.InnerActivity.getOverscanX@POLYN160217 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Eater"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.tim.EaterLog"
 }} 
 ]
@@ -113,14 +113,14 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLog.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.EaterLog.analyze@POLYN149720 the MagicNumber/String  '!log' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.tim.EaterLog.analyze@POLYN151354 the MagicNumber/String  '!log' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLog.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLog.analyze@POLYN149720 the MagicNumber/String  '[Log] ' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLog.analyze@POLYN151354 the MagicNumber/String  '[Log] ' should be converted to const"
 }} 
 ]
 , 

@@ -104,14 +104,14 @@ var maDataBlocs = {
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.bpm.CleanerEmptyLine.clean@POLYN148795 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.bpm.CleanerEmptyLine.clean@POLYN150427 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CleanerEmptyLine.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.bpm.CleanerEmptyLine.clean@POLYN148795 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.bpm.CleanerEmptyLine.clean@POLYN150427 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

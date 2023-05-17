@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Extremity"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityOther"
 }} 
 ]
@@ -122,7 +122,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityOther.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.extremity.ExtremityOther.somePoint@POLYN150077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.extremity.ExtremityOther.somePoint@POLYN151711 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<ActivityDiagram3>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandKill3"
 }} 
 ]
@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandKill3.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.command.CommandKill3.getRegexConcat@POLYN152287 the MagicNumber/String  'kill|detach' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.command.CommandKill3.getRegexConcat@POLYN153921 the MagicNumber/String  'kill|detach' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandKill3.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.activitydiagram3.command.CommandKill3.getRegexConcat@POLYN152287 the MagicNumber/String  ';?' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.activitydiagram3.command.CommandKill3.getRegexConcat@POLYN153921 the MagicNumber/String  ';?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ScaleProtectedScale"
+ , "c1" : "Scale"
  , "c2" : "net.sourceforge.plantuml.ScaleHeight"
 }} 
 ]

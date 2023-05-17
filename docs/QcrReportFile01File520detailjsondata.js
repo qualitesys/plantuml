@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<ActivityDiagram3>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1"
 }} 
 ]
@@ -108,35 +108,35 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseLegacy1.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN154249 the MagicNumber/String  'else' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN155883 the MagicNumber/String  'else' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseLegacy1.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN154249 the MagicNumber/String  'when' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN155883 the MagicNumber/String  'when' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseLegacy1.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN154249 the MagicNumber/String  'WHEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN155883 the MagicNumber/String  'WHEN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseLegacy1.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN154249 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN155883 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseLegacy1.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN154249 the MagicNumber/String  ';?' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.getRegexConcat@POLYN155883 the MagicNumber/String  ';?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -164,14 +164,14 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseLegacy1.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.executeArg@POLYN154858 the MagicNumber/String  'WHEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.executeArg@POLYN156492 the MagicNumber/String  'WHEN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandElseLegacy1.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.executeArg@POLYN154858 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1.executeArg@POLYN156492 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

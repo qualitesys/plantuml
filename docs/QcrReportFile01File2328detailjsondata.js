@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractEntityImage"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.svek.image.EntityImageGroup"
 }} 
 ]
@@ -117,14 +117,14 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.image.EntityImageGroup.calculateDimension@POLYN151180 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.image.EntityImageGroup.calculateDimension@POLYN152814 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageGroup.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.image.EntityImageGroup.calculateDimension@POLYN151180 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.image.EntityImageGroup.calculateDimension@POLYN152814 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

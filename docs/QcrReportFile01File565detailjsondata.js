@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FtileEmptyWeldingPoint"
+ , "c1" : "WeldingPoint"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak"
 }} 
 ]
@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileBreak.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak.toString@POLYN151239 the MagicNumber/String  'FtileBreak' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak.toString@POLYN152873 the MagicNumber/String  'FtileBreak' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

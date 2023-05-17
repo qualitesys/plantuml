@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractUGraphic<BrailleGrid>ClipContainer"
+ , "c1" : "ClipContainer"
  , "c2" : "net.sourceforge.plantuml.braille.UGraphicBraille"
 }} 
 ]

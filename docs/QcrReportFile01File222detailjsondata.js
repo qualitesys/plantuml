@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UnsupportedStarStruct"
+ , "c1" : ""
  , "c2" : "h.ST_arrowname_t"
 }} 
 ]
@@ -111,14 +111,14 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/h/ST_arrowname_t.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method h.ST_arrowname_t.___@POLYN155973 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method h.ST_arrowname_t.___@POLYN157607 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/h/ST_arrowname_t.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method h.ST_arrowname_t.___@POLYN155973 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method h.ST_arrowname_t.___@POLYN157607 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UmlDiagram"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.nwdiag.NwDiagram"
 }} 
 ]
@@ -304,42 +304,42 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getDescription@POLYN214380 the MagicNumber/String  '(Nwdiag)' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getDescription@POLYN216014 the MagicNumber/String  '(Nwdiag)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.nwdiag.NwDiagram.NwDiagram@POLYN214495 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.nwdiag.NwDiagram.NwDiagram@POLYN216129 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.nwdiag.NwDiagram.init@POLYN214673 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.nwdiag.NwDiagram.init@POLYN216307 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.nwdiag.NwDiagram.lastNetwork@POLYN214778 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.nwdiag.NwDiagram.lastNetwork@POLYN216412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.nwdiag.NwDiagram.lastNetwork@POLYN214778 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.nwdiag.NwDiagram.lastNetwork@POLYN216412 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.nwdiag.NwDiagram.lastNetwork@POLYN214778 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.nwdiag.NwDiagram.lastNetwork@POLYN216412 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -360,21 +360,21 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openGroup@POLYN215190 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openGroup@POLYN216824 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openGroup@POLYN215190 the MagicNumber/String  'Cannot nest group' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openGroup@POLYN216824 the MagicNumber/String  'Cannot nest group' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openGroup@POLYN215190 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openGroup@POLYN216824 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -395,49 +395,49 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openNetwork@POLYN215922 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openNetwork@POLYN217556 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openNetwork@POLYN215922 the MagicNumber/String  'Cannot nest network' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openNetwork@POLYN217556 the MagicNumber/String  'Cannot nest network' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openNetwork@POLYN215922 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.nwdiag.NwDiagram.openNetwork@POLYN217556 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.nwdiag.NwDiagram.closeSomething@POLYN216522 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.nwdiag.NwDiagram.closeSomething@POLYN218156 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.nwdiag.NwDiagram.closeSomething@POLYN216522 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.nwdiag.NwDiagram.closeSomething@POLYN218156 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.nwdiag.NwDiagram.closeSomething@POLYN216522 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.nwdiag.NwDiagram.closeSomething@POLYN218156 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.nwdiag.NwDiagram.closeSomething@POLYN216522 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.nwdiag.NwDiagram.closeSomething@POLYN218156 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -458,28 +458,28 @@ var maDataBlocs = {
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.nwdiag.NwDiagram.link@POLYN217309 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.nwdiag.NwDiagram.link@POLYN218943 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.nwdiag.NwDiagram.link@POLYN217309 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.nwdiag.NwDiagram.link@POLYN218943 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.nwdiag.NwDiagram.link@POLYN217309 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.nwdiag.NwDiagram.link@POLYN218943 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.nwdiag.NwDiagram.link@POLYN217309 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.nwdiag.NwDiagram.link@POLYN218943 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -493,70 +493,70 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  'Element already in another group.' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  'Element already in another group.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN218648 the MagicNumber/String  'address' should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.nwdiag.NwDiagram.addElement@POLYN220282 the MagicNumber/String  'address' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -570,21 +570,21 @@ var maDataBlocs = {
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.nwdiag.NwDiagram.alreadyInSomeGroup@POLYN220696 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.nwdiag.NwDiagram.alreadyInSomeGroup@POLYN222330 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.nwdiag.NwDiagram.alreadyInSomeGroup@POLYN220696 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.nwdiag.NwDiagram.alreadyInSomeGroup@POLYN222330 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.nwdiag.NwDiagram.errorNoInit@POLYN220993 the MagicNumber/String  'Maybe you forget 'nwdiag {' in your diagram ?' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.nwdiag.NwDiagram.errorNoInit@POLYN222627 the MagicNumber/String  'Maybe you forget 'nwdiag {' in your diagram ?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -612,49 +612,49 @@ var maDataBlocs = {
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN221157 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN222791 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00235"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#235"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN221157 the MagicNumber/String  '\\s*(\\w+)\\s*=\\s*(\'([^\']*)\'|[^\\s,]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN222791 the MagicNumber/String  '\\s*(\\w+)\\s*=\\s*(\'([^\']*)\'|[^\\s,]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN221157 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN222791 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN221157 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN222791 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN221157 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN222791 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN221157 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN222791 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN221157 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toSet@POLYN222791 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -668,14 +668,14 @@ var maDataBlocs = {
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getTextBlock@POLYN222525 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getTextBlock@POLYN224159 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getTextBlock@POLYN222525 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getTextBlock@POLYN224159 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -696,14 +696,14 @@ var maDataBlocs = {
  , "c1" : "00283"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#283"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toTextBlockForNetworkName@POLYN223517 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toTextBlockForNetworkName@POLYN225151 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00284"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#284"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toTextBlockForNetworkName@POLYN223517 the MagicNumber/String  '\\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.nwdiag.NwDiagram.toTextBlockForNetworkName@POLYN225151 the MagicNumber/String  '\\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -717,7 +717,7 @@ var maDataBlocs = {
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getTotalDimension@POLYN224296 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getTotalDimension@POLYN225930 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -794,70 +794,70 @@ var maDataBlocs = {
  , "c1" : "00308"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00309"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00313"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#313"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00318"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00319"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#319"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00323"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#323"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00324"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#324"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00324] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00333"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#333"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN224729 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.nwdiag.NwDiagram.drawMe@POLYN226363 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -885,7 +885,7 @@ var maDataBlocs = {
  , "c1" : "00347"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#347"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getLinks@POLYN227879 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getLinks@POLYN229513 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -969,21 +969,21 @@ var maDataBlocs = {
  , "c1" : "00362"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#362"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00362] In method net.sourceforge.plantuml.nwdiag.NwDiagram.buildGrid@POLYN228440 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00362] In method net.sourceforge.plantuml.nwdiag.NwDiagram.buildGrid@POLYN230074 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#369"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.nwdiag.NwDiagram.buildGrid@POLYN228440 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.nwdiag.NwDiagram.buildGrid@POLYN230074 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00373"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#373"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00373] In method net.sourceforge.plantuml.nwdiag.NwDiagram.buildGrid@POLYN228440 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00373] In method net.sourceforge.plantuml.nwdiag.NwDiagram.buildGrid@POLYN230074 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -997,7 +997,7 @@ var maDataBlocs = {
  , "c1" : "00388"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getGroupOf@POLYN230500 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.nwdiag.NwDiagram.getGroupOf@POLYN232134 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1011,91 +1011,91 @@ var maDataBlocs = {
  , "c1" : "00392"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#392"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00392] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00392] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00395"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#395"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  'address' should be converted to const"
+ , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  'address' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00395"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#395"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00398"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#398"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00398] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00398] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00398"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#398"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00398] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00398] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00399"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#399"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00399] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  'full' should be converted to const"
+ , "c3" : "QC-JAV000010[00399] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  'full' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00401"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#401"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00401] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  'color' should be converted to const"
+ , "c3" : "QC-JAV000010[00401] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  'color' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00402"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#402"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00402] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00402] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00402"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#402"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00402] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00402] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00404"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#404"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00406"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00410"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#410"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00410] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  'description' should be converted to const"
+ , "c3" : "QC-JAV000010[00410] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  'description' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00411"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/NwDiagram.java.html#411"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN230775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.nwdiag.NwDiagram.setProperty@POLYN232409 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

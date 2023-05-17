@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UGraphicDelegatorUGraphic"
+ , "c1" : "UGraphic"
  , "c2" : "net.sourceforge.plantuml.ugraphic.hand.UGraphicHandwritten"
 }} 
 ]

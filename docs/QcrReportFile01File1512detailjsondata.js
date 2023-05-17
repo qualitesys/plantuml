@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<NwDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.nwdiag.CommandComment"
 }} 
 ]
@@ -101,14 +101,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandComment.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.nwdiag.CommandComment.getRegexConcat@POLYN152072 the MagicNumber/String  '//' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.nwdiag.CommandComment.getRegexConcat@POLYN153706 the MagicNumber/String  '//' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandComment.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.nwdiag.CommandComment.getRegexConcat@POLYN152072 the MagicNumber/String  '.*' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.nwdiag.CommandComment.getRegexConcat@POLYN153706 the MagicNumber/String  '.*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -120,77 +120,77 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  1.000001d should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  1.000001d should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  0.999999d should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  0.999999d should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN172616 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method jcckit.plot.TicLabelMap.MapItem.MapItem@POLYN174248 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -232,35 +232,35 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN174918 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN176550 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN174918 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN176550 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN174918 the MagicNumber/String  'Item '' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN176550 the MagicNumber/String  'Item '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN174918 the MagicNumber/String  '' of ' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN176550 the MagicNumber/String  '' of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN174918 the MagicNumber/String  ' has an invalid number.' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method jcckit.plot.TicLabelMap.TicLabelMap@POLYN176550 the MagicNumber/String  ' has an invalid number.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -274,14 +274,14 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method jcckit.plot.TicLabelMap.form@POLYN175989 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method jcckit.plot.TicLabelMap.form@POLYN177621 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/jcckit/plot/TicLabelMap.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method jcckit.plot.TicLabelMap.form@POLYN175989 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method jcckit.plot.TicLabelMap.form@POLYN177621 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

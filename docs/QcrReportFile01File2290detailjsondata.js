@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractExtremityFactoryExtremityFactory"
+ , "c1" : "ExtremityFactory"
  , "c2" : "net.sourceforge.plantuml.svek.extremity.ExtremityFactoryNotNavigable"
 }} 
 ]
@@ -99,7 +99,7 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryNotNavigable.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryNotNavigable.createUDrawable@POLYN150523 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryNotNavigable.createUDrawable@POLYN152157 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

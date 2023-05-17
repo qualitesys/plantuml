@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "RealMoveableRealOrigin"
+ , "c1" : "RealOrigin"
  , "c2" : "net.sourceforge.plantuml.real.RealImpl"
 }} 
 ]
@@ -142,7 +142,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealImpl.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.real.RealImpl.addAtLeast@POLYN151626 the MagicNumber/String  '.addAtLeast' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.real.RealImpl.addAtLeast@POLYN153260 the MagicNumber/String  '.addAtLeast' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -156,7 +156,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealImpl.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.real.RealImpl.ensureBiggerThan@POLYN152133 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.real.RealImpl.ensureBiggerThan@POLYN153767 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

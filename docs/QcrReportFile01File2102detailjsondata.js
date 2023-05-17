@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextualComponent"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal"
 }} 
 ]
@@ -149,28 +149,28 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.ComponentRoseNoteHexagonal@POLYN161387 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.ComponentRoseNoteHexagonal@POLYN163021 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.ComponentRoseNoteHexagonal@POLYN161387 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.ComponentRoseNoteHexagonal@POLYN163021 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.ComponentRoseNoteHexagonal@POLYN161387 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.ComponentRoseNoteHexagonal@POLYN163021 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.ComponentRoseNoteHexagonal@POLYN161387 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.ComponentRoseNoteHexagonal@POLYN163021 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -184,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.getPreferredWidth@POLYN161932 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.getPreferredWidth@POLYN163566 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -198,21 +198,21 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.getPreferredHeight@POLYN162208 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.getPreferredHeight@POLYN163842 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.getPaddingX@POLYN162419 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.getPaddingX@POLYN164053 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.getPaddingY@POLYN162521 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.getPaddingY@POLYN164155 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -240,63 +240,63 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseNoteHexagonal.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN162615 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.skin.rose.ComponentRoseNoteHexagonal.drawInternalU@POLYN164249 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

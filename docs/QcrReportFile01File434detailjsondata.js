@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SkinParamDelegator"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.SkinParamBackcoloredReference"
 }} 
 ]
@@ -99,14 +99,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.SkinParamBackcoloredReference.getHtmlColor@POLYN150930 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.SkinParamBackcoloredReference.getHtmlColor@POLYN152564 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamBackcoloredReference.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.SkinParamBackcoloredReference.getHtmlColor@POLYN150930 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.SkinParamBackcoloredReference.getHtmlColor@POLYN152564 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

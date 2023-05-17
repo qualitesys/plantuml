@@ -125,84 +125,84 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'log4j.debug' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'log4j.debug' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'false' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'false' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'org.apache.batik.apps.rasterizer.SVGConverter' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'org.apache.batik.apps.rasterizer.SVGConverter' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'org.apache.batik.apps.rasterizer.DestinationType' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'org.apache.batik.apps.rasterizer.DestinationType' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'PDF' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'PDF' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'setDestinationType' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'setDestinationType' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'setSources' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'setSources' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'setDst' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'setDst' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  'execute' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  'execute' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/pdf/PdfConverter.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN154889 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.pdf.PdfConverter.convert@POLYN156521 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

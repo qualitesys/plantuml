@@ -122,7 +122,7 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.StdrptPipe0.printInfo@POLYN152215 the MagicNumber/String  'ERROR' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.StdrptPipe0.printInfo@POLYN153847 the MagicNumber/String  'ERROR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,14 +143,14 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN152880 the MagicNumber/String  'Some diagram description contains errors' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN154512 the MagicNumber/String  'Some diagram description contains errors' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN152880 the MagicNumber/String  'No diagram found' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.StdrptPipe0.finalMessage@POLYN154512 the MagicNumber/String  'No diagram found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -171,21 +171,21 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN153233 the MagicNumber/String  'Error line ' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN154865 the MagicNumber/String  'Error line ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN153233 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN154865 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptPipe0.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN153233 the MagicNumber/String  ' in file: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.StdrptPipe0.errorLine@POLYN154865 the MagicNumber/String  ' in file: ' should be converted to const"
 }} 
 ]
 , 

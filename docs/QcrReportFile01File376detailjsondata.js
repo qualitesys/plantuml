@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTextBlockLine"
+ , "c1" : "Line"
  , "c2" : "net.sourceforge.plantuml.EmbeddedDiagramDraw"
 }} 
 ,
@@ -244,7 +244,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getStartingAltitude@POLYN173142 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getStartingAltitude@POLYN174776 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -258,14 +258,14 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.calculateDimension@POLYN173252 the MagicNumber/String  42 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.calculateDimension@POLYN174886 the MagicNumber/String  42 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.calculateDimension@POLYN173252 the MagicNumber/String  42 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.calculateDimension@POLYN174886 the MagicNumber/String  42 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -286,49 +286,49 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.drawU@POLYN173874 the MagicNumber/String  'SVG' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.drawU@POLYN175508 the MagicNumber/String  'SVG' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.drawU@POLYN173874 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.drawU@POLYN175508 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getImageSvg@POLYN174939 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getImageSvg@POLYN176573 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getImage@POLYN175471 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getImage@POLYN177105 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getImageSlow@POLYN175703 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getImageSlow@POLYN177337 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getSystem@POLYN176330 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getSystem@POLYN177964 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getSystem@POLYN176330 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.EmbeddedDiagramDraw.getSystem@POLYN177964 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -342,175 +342,175 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'uml' should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'uml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{uml' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{uml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'uml' should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'uml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{wbs' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{wbs' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'wbs' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'wbs' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{mindmap' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{mindmap' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'mindmap' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'mindmap' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{gantt' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{gantt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'gantt' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'gantt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{json' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{json' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'json' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'json' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{yaml' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{yaml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'yaml' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'yaml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{wire' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{wire' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'wire' should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'wire' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{creole' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{creole' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'creole' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'creole' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{board' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{board' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'board' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'board' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  '{{ebnf' should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  '{{ebnf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  'ebnf' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  'ebnf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/EmbeddedDiagram.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN176722 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.EmbeddedDiagram.getEmbeddedType@POLYN178356 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

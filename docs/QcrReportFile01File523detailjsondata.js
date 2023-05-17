@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<ActivityDiagram3>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch"
 }} 
 ]
@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandEndSwitch.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch.getRegexConcat@POLYN152287 the MagicNumber/String  'endswitch' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch.getRegexConcat@POLYN153921 the MagicNumber/String  'endswitch' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

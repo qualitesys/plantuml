@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "RealMoveable"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.real.RealDelta"
 }} 
 ]
@@ -133,21 +133,21 @@ var maDataBlocs = {
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN150890 the MagicNumber/String  '[Delegated {' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN152524 the MagicNumber/String  '[Delegated {' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN150890 the MagicNumber/String  '} d=' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN152524 the MagicNumber/String  '} d=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN150890 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN152524 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

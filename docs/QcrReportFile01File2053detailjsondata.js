@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AbstractTileTile"
+ , "c1" : "Tile"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.TileMarged"
 }} 
 ]

@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleLineCommand2<SequenceDiagram>"
+ , "c1" : ""
  , "c2" : "net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked"
 }} 
 ]
@@ -108,21 +108,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.getRegexConcat@POLYN152947 the MagicNumber/String  'HIDE' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.getRegexConcat@POLYN154581 the MagicNumber/String  'HIDE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.getRegexConcat@POLYN152947 the MagicNumber/String  '(hide|show)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.getRegexConcat@POLYN154581 the MagicNumber/String  '(hide|show)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.getRegexConcat@POLYN152947 the MagicNumber/String  '@?unlinked' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.getRegexConcat@POLYN154581 the MagicNumber/String  '@?unlinked' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -150,21 +150,21 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.executeArg@POLYN153390 the MagicNumber/String  'HIDE' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.executeArg@POLYN155024 the MagicNumber/String  'HIDE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.executeArg@POLYN153390 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.executeArg@POLYN155024 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHideUnlinked.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.executeArg@POLYN153390 the MagicNumber/String  'hide' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked.executeArg@POLYN155024 the MagicNumber/String  'hide' should be converted to const"
 }} 
 ]
 , 

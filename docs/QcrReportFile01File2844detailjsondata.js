@@ -8,7 +8,7 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UnsupportedCCFunction"
+ , "c1" : "CFunction"
  , "c2" : "smetana.core.CFunctionAbstract"
 }} 
 ]
