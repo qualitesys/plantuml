@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.calculateDimension@POLYN154478 the MagicNumber/String  36 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.calculateDimension@POLYN156526 the MagicNumber/String  36 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -131,7 +131,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomEmoji.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.getStartingAltitude@POLYN154730 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.atom.AtomEmoji.getStartingAltitude@POLYN156778 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

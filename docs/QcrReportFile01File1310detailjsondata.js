@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java 10 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java 11 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -85,7 +85,7 @@ var maDataBlocs = {
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
  , "c3" : "Instance is created within a loop, huge performance impact"
- , "c4" : "6"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
@@ -109,6 +109,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#61"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000001[00061] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#75"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAV000001[00075] Avoid declaring class instance within loop, performance impact"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,28 +150,28 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN158454 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN160502 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN158454 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN160502 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN158454 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN160502 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNodeBuilder.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN158454 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.gitlog.GNodeBuilder.merge@POLYN160502 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

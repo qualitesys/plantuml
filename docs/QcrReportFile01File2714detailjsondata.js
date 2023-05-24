@@ -142,28 +142,28 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.VisioLine@POLYN164730 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.VisioLine@POLYN166778 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.VisioLine@POLYN164730 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.VisioLine@POLYN166778 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.VisioLine@POLYN164730 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.VisioLine@POLYN166778 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.VisioLine@POLYN164730 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.VisioLine@POLYN166778 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -184,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.toInches@POLYN165770 the MagicNumber/String  72.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.toInches@POLYN167818 the MagicNumber/String  72.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -198,336 +198,336 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;Shape ID='' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;Shape ID='' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '' Type='Shape' LineStyle='3' FillStyle='3' TextStyle='3'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '' Type='Shape' LineStyle='3' FillStyle='3' TextStyle='3'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;XForm&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;XForm&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;PinX F='(BeginX+EndX)/2'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;PinX F='(BeginX+EndX)/2'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/PinX&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/PinX&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;PinY F='(BeginY+EndY)/2'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;PinY F='(BeginY+EndY)/2'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/PinY&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/PinY&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;Width F='Sqrt((EndX-BeginX)^2+(EndY-BeginY)^2)'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;Width F='Sqrt((EndX-BeginX)^2+(EndY-BeginY)^2)'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/Width&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/Width&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;Height&amp;gt;0&amp;lt;/Height&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;Height&amp;gt;0&amp;lt;/Height&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;LocPinX F='Width*0.5'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;LocPinX F='Width*0.5'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/LocPinX&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/LocPinX&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;LocPinY F='Height*0.5'&amp;gt;0&amp;lt;/LocPinY&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;LocPinY F='Height*0.5'&amp;gt;0&amp;lt;/LocPinY&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;Angle F='ATan2(EndY-BeginY,EndX-BeginX)'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;Angle F='ATan2(EndY-BeginY,EndX-BeginX)'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/Angle&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/Angle&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;FlipX&amp;gt;0&amp;lt;/FlipX&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;FlipX&amp;gt;0&amp;lt;/FlipX&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;FlipY&amp;gt;0&amp;lt;/FlipY&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;FlipY&amp;gt;0&amp;lt;/FlipY&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;ResizeMode&amp;gt;0&amp;lt;/ResizeMode&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;ResizeMode&amp;gt;0&amp;lt;/ResizeMode&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/XForm&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/XForm&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;XForm1D&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;XForm1D&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;BeginX&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;BeginX&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/BeginX&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/BeginX&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;BeginY&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;BeginY&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/BeginY&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/BeginY&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;EndX&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;EndX&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/EndX&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/EndX&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;EndY&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;EndY&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/EndY&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/EndY&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/XForm1D&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/XForm1D&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;Geom IX='0'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;Geom IX='0'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;NoFill&amp;gt;1&amp;lt;/NoFill&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;NoFill&amp;gt;1&amp;lt;/NoFill&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;NoLine&amp;gt;0&amp;lt;/NoLine&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;NoLine&amp;gt;0&amp;lt;/NoLine&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;NoShow&amp;gt;0&amp;lt;/NoShow&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;NoShow&amp;gt;0&amp;lt;/NoShow&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;NoSnap&amp;gt;0&amp;lt;/NoSnap&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;NoSnap&amp;gt;0&amp;lt;/NoSnap&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;MoveTo IX='1'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;MoveTo IX='1'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;X F='Width*0'&amp;gt;0&amp;lt;/X&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;X F='Width*0'&amp;gt;0&amp;lt;/X&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;Y&amp;gt;0&amp;lt;/Y&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;Y&amp;gt;0&amp;lt;/Y&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/MoveTo&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/MoveTo&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;LineTo IX='2'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;LineTo IX='2'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;X F='Width*1'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;X F='Width*1'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/X&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/X&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;Y&amp;gt;0&amp;lt;/Y&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;Y&amp;gt;0&amp;lt;/Y&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/LineTo&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/LineTo&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/Geom&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/Geom&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN165894 the MagicNumber/String  '&amp;lt;/Shape&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.print@POLYN167942 the MagicNumber/String  '&amp;lt;/Shape&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -548,7 +548,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioLine.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.out@POLYN170109 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ugraphic.visio.VisioLine.out@POLYN172157 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ]
 , 

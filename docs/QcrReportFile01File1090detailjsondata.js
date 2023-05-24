@@ -103,7 +103,7 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Elected.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.Elected.toString@POLYN150740 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.Elected.toString@POLYN152788 the MagicNumber/String  '/' should be converted to const"
 }} 
 ]
 , 

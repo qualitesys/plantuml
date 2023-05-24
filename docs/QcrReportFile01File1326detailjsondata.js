@@ -259,28 +259,28 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN196383 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN198431 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN196383 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN198431 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN196383 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN198431 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN196383 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.golem.TilesField.TilesField@POLYN198431 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -378,56 +378,56 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN198971 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN201019 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN198971 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN201019 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN198971 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN201019 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN198971 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN201019 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN198971 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN201019 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN198971 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN201019 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN198971 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN201019 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN198971 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.golem.TilesField.isAdjoining@POLYN201019 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -441,7 +441,7 @@ var maDataBlocs = {
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.golem.TilesField.getTileAt@POLYN201522 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.golem.TilesField.getTileAt@POLYN203570 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -455,7 +455,7 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.golem.TilesField.getFreePosition@POLYN201938 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.golem.TilesField.getFreePosition@POLYN203986 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -476,7 +476,7 @@ var maDataBlocs = {
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.golem.TilesField.moveAllToEast@POLYN202363 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.golem.TilesField.moveAllToEast@POLYN204411 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -490,14 +490,14 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.golem.TilesField.isOccuped@POLYN203240 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.golem.TilesField.isOccuped@POLYN205288 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.golem.TilesField.isOccuped@POLYN203240 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.golem.TilesField.isOccuped@POLYN205288 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -567,42 +567,42 @@ var maDataBlocs = {
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN205773 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN207821 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN205773 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN207821 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN205773 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN207821 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN205773 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN207821 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN205773 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN207821 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#249"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN205773 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.golem.TilesField.drawU@POLYN207821 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -630,35 +630,35 @@ var maDataBlocs = {
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN208315 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN210363 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN208315 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN210363 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN208315 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN210363 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN208315 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN210363 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00269"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#269"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN208315 the MagicNumber/String  0.33 should be converted to const"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.golem.TilesField.getPoint2D@POLYN210363 the MagicNumber/String  0.33 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -672,28 +672,28 @@ var maDataBlocs = {
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN209873 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN211921 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN209873 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN211921 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN209873 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN211921 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/golem/TilesField.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN209873 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.golem.TilesField.calculateDimension@POLYN211921 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

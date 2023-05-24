@@ -146,56 +146,56 @@ var maDataBlocs = {
  , "c1" : "00015"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN146188 the MagicNumber/String  'getParent' should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN148236 the MagicNumber/String  'getParent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00016"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#16"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN146188 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00016] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN148236 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN146188 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getParent@POLYN148236 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00023"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getX@POLYN146546 the MagicNumber/String  'getX' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getX@POLYN148594 the MagicNumber/String  'getX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#27"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getY@POLYN146714 the MagicNumber/String  'getY' should be converted to const"
+ , "c3" : "QC-JAV000010[00027] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getY@POLYN148762 the MagicNumber/String  'getY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getLabels@POLYN146903 the MagicNumber/String  'getLabels' should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getLabels@POLYN148951 the MagicNumber/String  'getLabels' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getWidth@POLYN147427 the MagicNumber/String  'getWidth' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getWidth@POLYN149475 the MagicNumber/String  'getWidth' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getHeight@POLYN147595 the MagicNumber/String  'getHeight' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.getHeight@POLYN149643 the MagicNumber/String  'getHeight' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -209,7 +209,7 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkNode.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.setDimensions@POLYN147755 the MagicNumber/String  'setDimensions' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.elk.proxy.graph.ElkNode.setDimensions@POLYN149803 the MagicNumber/String  'setDimensions' should be converted to const"
 }} 
 ]
 , 

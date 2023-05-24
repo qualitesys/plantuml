@@ -101,35 +101,35 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN154293 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN156341 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN154293 the MagicNumber/String  '(hide|show)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN156341 the MagicNumber/String  '(hide|show)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN154293 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN156341 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN154293 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN156341 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowSpecificClass.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN154293 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass.getRegexConcat@POLYN156341 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

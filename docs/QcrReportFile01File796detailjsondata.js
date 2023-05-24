@@ -110,14 +110,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.board.PostIt.getHeight@POLYN152072 the MagicNumber/String  90 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.board.PostIt.getHeight@POLYN154120 the MagicNumber/String  90 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/board/PostIt.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.board.PostIt.getWidth@POLYN152165 the MagicNumber/String  170 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.board.PostIt.getWidth@POLYN154213 the MagicNumber/String  170 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -155,21 +155,21 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.api.ImageDataSimple.ImageDataSimple@POLYN154183 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.api.ImageDataSimple.ImageDataSimple@POLYN156231 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.api.ImageDataSimple.ImageDataSimple@POLYN154183 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.api.ImageDataSimple.ImageDataSimple@POLYN156231 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.api.ImageDataSimple.containsCMapData@POLYN154315 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.api.ImageDataSimple.containsCMapData@POLYN156363 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -183,14 +183,14 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.api.ImageDataSimple.getWarningOrError@POLYN154530 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.api.ImageDataSimple.getWarningOrError@POLYN156578 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/ImageDataSimple.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.api.ImageDataSimple.error@POLYN154623 the MagicNumber/String  503 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.api.ImageDataSimple.error@POLYN156671 the MagicNumber/String  503 should be converted to const"
 }} 
 ]
 , 

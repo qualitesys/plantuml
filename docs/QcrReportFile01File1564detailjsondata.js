@@ -151,7 +151,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.oregon.PSystemOregon.getScreen@POLYN159860 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.oregon.PSystemOregon.getScreen@POLYN161908 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -165,7 +165,7 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/PSystemOregon.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.oregon.PSystemOregon.getDescription@POLYN160703 the MagicNumber/String  '(The Oregon Trail)' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.oregon.PSystemOregon.getDescription@POLYN162751 the MagicNumber/String  '(The Oregon Trail)' should be converted to const"
 }} 
 ]
 , 

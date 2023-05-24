@@ -108,28 +108,28 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN155340 the MagicNumber/String  '==' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN157388 the MagicNumber/String  '==' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN155340 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN157388 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN155340 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN157388 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN155340 the MagicNumber/String  '==' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.getRegexConcat@POLYN157388 the MagicNumber/String  '==' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -157,14 +157,14 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.executeArg@POLYN155887 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.executeArg@POLYN157935 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDivider.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.executeArg@POLYN155887 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.command.CommandDivider.executeArg@POLYN157935 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

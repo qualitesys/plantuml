@@ -199,21 +199,21 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.cleanIdent@POLYN218904 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.cleanIdent@POLYN220952 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.cleanIdent@POLYN218904 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.cleanIdent@POLYN220952 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.cleanIdent@POLYN218904 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.cleanIdent@POLYN220952 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -227,49 +227,49 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN219322 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN221370 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN219322 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN221370 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN219322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN221370 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN219322 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN221370 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN219322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN221370 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN219322 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN221370 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN219322 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertBetween@POLYN221370 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -290,21 +290,21 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.foundLink@POLYN221097 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.foundLink@POLYN223145 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.foundLink@POLYN221097 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.foundLink@POLYN223145 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.foundLink@POLYN221097 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.foundLink@POLYN223145 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -332,14 +332,14 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.getNbOfHozizontalLollipop@POLYN221778 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.getNbOfHozizontalLollipop@POLYN223826 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.getNbOfHozizontalLollipop@POLYN221778 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.getNbOfHozizontalLollipop@POLYN223826 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -353,112 +353,112 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  'apoint' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  'apoint' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  'apoint' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  'apoint' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN222733 the MagicNumber/String  'Cannot link two associations points' should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN224781 the MagicNumber/String  'Cannot link two associations points' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -472,28 +472,28 @@ var maDataBlocs = {
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertPointBetween@POLYN226740 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertPointBetween@POLYN228788 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertPointBetween@POLYN226740 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertPointBetween@POLYN228788 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertPointBetween@POLYN226740 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertPointBetween@POLYN228788 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertPointBetween@POLYN226740 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.insertPointBetween@POLYN228788 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -507,77 +507,77 @@ var maDataBlocs = {
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN229054 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.associationClass@POLYN231102 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -591,14 +591,14 @@ var maDataBlocs = {
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.Association@POLYN232194 the MagicNumber/String  'apoint' should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.Association@POLYN234242 the MagicNumber/String  'apoint' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00256"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.Association@POLYN232194 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.Association@POLYN234242 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -612,28 +612,28 @@ var maDataBlocs = {
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createSecondAssociation@POLYN233060 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createSecondAssociation@POLYN235108 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createSecondAssociation@POLYN233060 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createSecondAssociation@POLYN235108 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createSecondAssociation@POLYN233060 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createSecondAssociation@POLYN235108 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createSecondAssociation@POLYN233060 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createSecondAssociation@POLYN235108 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -647,77 +647,77 @@ var maDataBlocs = {
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00296"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#296"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00299"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#299"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00300"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#300"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00301"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00306"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00315"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#315"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN233856 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createNew@POLYN235904 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -731,63 +731,63 @@ var maDataBlocs = {
  , "c1" : "00327"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#327"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00327] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00327] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00329"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#329"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00340"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00340"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00354"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#354"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00358"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#358"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00359"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#359"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN237686 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.createInSecond@POLYN239734 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -801,21 +801,21 @@ var maDataBlocs = {
  , "c1" : "00366"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#366"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.sameCouple@POLYN240682 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.sameCouple@POLYN242730 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#369"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.sameCouple@POLYN240682 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.sameCouple@POLYN242730 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00371"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/AbstractClassOrObjectDiagram.java.html#371"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00371] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.sameCouple@POLYN240682 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00371] In method net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association.sameCouple@POLYN242730 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

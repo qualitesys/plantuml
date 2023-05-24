@@ -117,77 +117,77 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  'ref' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  'ref' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  'REF' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  'REF' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  '(#\\w+)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  '(#\\w+)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  'over' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  'over' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  'PARTS' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  'PARTS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  '((?:[%pLN_.@]+|[%g][^%g]+[%g])(?:[%s]*,[%s]*(?:[%pLN_.@]+|[%g][^%g]+[%g]))*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  '((?:[%pLN_.@]+|[%g][^%g]+[%g])(?:[%s]*,[%s]*(?:[%pLN_.@]+|[%g][^%g]+[%g]))*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  '(\\[\\[.*?\\]\\])' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  '(\\[\\[.*?\\]\\])' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  'UNUSED' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  'UNUSED' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN165627 the MagicNumber/String  '(#\\w+)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getConcat@POLYN167675 the MagicNumber/String  '(#\\w+)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getPatternEnd@POLYN166554 the MagicNumber/String  '^end[%s]?(ref)?$' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.getPatternEnd@POLYN168602 the MagicNumber/String  '^end[%s]?(ref)?$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -215,112 +215,112 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  'Cannot parse line ' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  'Cannot parse line ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  'REF' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  'REF' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  'PARTS' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  'PARTS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  'topurl' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  'topurl' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandReferenceMultilinesOverSeveral.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN166642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral.execute@POLYN168690 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

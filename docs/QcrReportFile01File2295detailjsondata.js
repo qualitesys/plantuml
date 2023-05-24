@@ -124,21 +124,21 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.ExtremityHalfArrow@POLYN157652 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.ExtremityHalfArrow@POLYN159700 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.ExtremityHalfArrow@POLYN157652 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.ExtremityHalfArrow@POLYN159700 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.ExtremityHalfArrow@POLYN157652 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.ExtremityHalfArrow@POLYN159700 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -159,14 +159,14 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.drawU@POLYN158966 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.drawU@POLYN161014 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityHalfArrow.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.drawU@POLYN158966 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.extremity.ExtremityHalfArrow.drawU@POLYN161014 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

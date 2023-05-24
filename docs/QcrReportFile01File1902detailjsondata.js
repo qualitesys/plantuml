@@ -185,7 +185,7 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/MessageExo.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.sequencediagram.MessageExo.isSelfMessage@POLYN157422 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.sequencediagram.MessageExo.isSelfMessage@POLYN159470 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

@@ -142,21 +142,21 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN156088 the MagicNumber/String  '(\\w+)\\s*=\\s*([%g][^%g]*[%g]|(?:\\w+))' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN158136 the MagicNumber/String  '(\\w+)\\s*=\\s*([%g][^%g]*[%g]|(?:\\w+))' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN156088 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN158136 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SvgAttributes.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN156088 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.SvgAttributes.SvgAttributes@POLYN158136 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

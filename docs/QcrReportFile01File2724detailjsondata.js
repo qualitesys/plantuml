@@ -206,84 +206,84 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  'start' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  'start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  '[\\w~]' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  '[\\w~]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN165897 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.utils.StartUtils.beforeStartUml@POLYN167945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -297,35 +297,35 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN167234 the MagicNumber/String  '@' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN169282 the MagicNumber/String  '@' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN167234 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN169282 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN167234 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN169282 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN167234 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN169282 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN167234 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseStartDiagram@POLYN169282 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -353,14 +353,14 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.utils.StartUtils.startsWithSymbolAnd@POLYN167754 the MagicNumber/String  '@' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.utils.StartUtils.startsWithSymbolAnd@POLYN169802 the MagicNumber/String  '@' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.utils.StartUtils.startsWithSymbolAnd@POLYN167754 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.utils.StartUtils.startsWithSymbolAnd@POLYN169802 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -381,14 +381,14 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.utils.StartUtils.startsWithSymbolAnd@POLYN168083 the MagicNumber/String  '@' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.utils.StartUtils.startsWithSymbolAnd@POLYN170131 the MagicNumber/String  '@' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.utils.StartUtils.startsWithSymbolAnd@POLYN168083 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.utils.StartUtils.startsWithSymbolAnd@POLYN170131 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -402,42 +402,42 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN168372 the MagicNumber/String  '@' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN170420 the MagicNumber/String  '@' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN168372 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN170420 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN168372 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN170420 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN168372 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN170420 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN168372 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN170420 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN168372 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.utils.StartUtils.startOrEnd@POLYN170420 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -451,7 +451,7 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseEndDiagram@POLYN168992 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseEndDiagram@POLYN171040 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -465,7 +465,7 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.utils.StartUtils.isArobasePauseDiagram@POLYN169259 the MagicNumber/String  'pause' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.utils.StartUtils.isArobasePauseDiagram@POLYN171307 the MagicNumber/String  'pause' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -479,7 +479,7 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseUnpauseDiagram@POLYN169526 the MagicNumber/String  'unpause' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.utils.StartUtils.isArobaseUnpauseDiagram@POLYN171574 the MagicNumber/String  'unpause' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -493,7 +493,7 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.utils.StartUtils.isExit@POLYN169793 the MagicNumber/String  '!exit' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.utils.StartUtils.isExit@POLYN171841 the MagicNumber/String  '!exit' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -514,14 +514,14 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.utils.StartUtils.getPossibleAppend@POLYN170163 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.utils.StartUtils.getPossibleAppend@POLYN172211 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/StartUtils.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.utils.StartUtils.getPossibleAppend@POLYN170163 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.utils.StartUtils.getPossibleAppend@POLYN172211 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

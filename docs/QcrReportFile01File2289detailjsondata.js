@@ -99,7 +99,7 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryLineCrowfoot.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryLineCrowfoot.createUDrawable@POLYN152211 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryLineCrowfoot.createUDrawable@POLYN154259 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -115,77 +115,77 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN160424 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.ExtremityArrowAndCircle@POLYN162472 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -206,21 +206,21 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.drawU@POLYN162446 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.drawU@POLYN164494 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.drawU@POLYN162446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.drawU@POLYN164494 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityArrowAndCircle.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.drawU@POLYN162446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.svek.extremity.ExtremityArrowAndCircle.drawU@POLYN164494 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

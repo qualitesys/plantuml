@@ -138,14 +138,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.calculateDimension@POLYN155647 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.calculateDimension@POLYN157695 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.calculateDimension@POLYN155647 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.calculateDimension@POLYN157695 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -159,21 +159,21 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN156314 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN158362 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN156314 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN158362 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN156314 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.getStartingAltitude@POLYN158362 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -201,7 +201,7 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomHorizontalTexts.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.drawU@POLYN156625 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.creole.atom.AtomHorizontalTexts.drawU@POLYN158673 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

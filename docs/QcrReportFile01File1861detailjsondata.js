@@ -619,14 +619,14 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.security.SFile.fromFile@POLYN198492 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.security.SFile.fromFile@POLYN200540 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.security.SFile.fromFile@POLYN198492 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.security.SFile.fromFile@POLYN200540 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -640,35 +640,35 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.security.SFile.exists@POLYN198915 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.security.SFile.exists@POLYN200963 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.security.SFile.exists@POLYN198915 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.security.SFile.exists@POLYN200963 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.security.SFile.isAbsolute@POLYN199304 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.security.SFile.isAbsolute@POLYN201352 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.security.SFile.isDirectory@POLYN199456 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.security.SFile.isDirectory@POLYN201504 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.security.SFile.isFile@POLYN199756 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.security.SFile.isFile@POLYN201804 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -696,7 +696,7 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SFile.listFiles@POLYN200745 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.security.SFile.listFiles@POLYN202793 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -710,7 +710,7 @@ var maDataBlocs = {
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.security.SFile.getPrintablePath@POLYN202230 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.security.SFile.getPrintablePath@POLYN204278 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -738,112 +738,112 @@ var maDataBlocs = {
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00281"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#281"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  '/etc/' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  '/etc/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  '/dev/' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  '/dev/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  '/boot/' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  '/boot/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00287"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#287"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  '/proc/' should be converted to const"
+ , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  '/proc/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00287"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#287"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  '/sys/' should be converted to const"
+ , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  '/sys/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00288"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  '//' should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  '//' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN203467 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.security.SFile.isFileOk@POLYN205515 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -857,77 +857,77 @@ var maDataBlocs = {
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.security.SFile.isInAllowList@POLYN205036 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.security.SFile.isInAllowList@POLYN207084 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00305"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#305"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.security.SFile.isInAllowList@POLYN205036 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.security.SFile.isInAllowList@POLYN207084 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.security.SFile.isDenied@POLYN205671 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.security.SFile.isDenied@POLYN207719 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00318"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.security.SFile.isDenied@POLYN205671 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.security.SFile.isDenied@POLYN207719 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.security.SFile.getCleanPathSecure@POLYN206477 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.security.SFile.getCleanPathSecure@POLYN208525 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.security.SFile.getCleanPathSecure@POLYN206477 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.security.SFile.getCleanPathSecure@POLYN208525 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00340"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.security.SFile.getCleanPathSecure@POLYN206477 the MagicNumber/String  '\\\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.security.SFile.getCleanPathSecure@POLYN208525 the MagicNumber/String  '\\\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00340"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.security.SFile.getCleanPathSecure@POLYN206477 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.security.SFile.getCleanPathSecure@POLYN208525 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00355"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#355"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.security.SFile.readRasterImageFromFile@POLYN206876 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.security.SFile.readRasterImageFromFile@POLYN208924 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00366"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#366"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.security.SFile.openBufferedReader@POLYN207277 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.security.SFile.openBufferedReader@POLYN209325 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00380"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#380"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.security.SFile.openFile@POLYN207763 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.security.SFile.openFile@POLYN209811 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

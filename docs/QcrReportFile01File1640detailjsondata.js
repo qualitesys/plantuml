@@ -104,105 +104,105 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  ''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  ''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  '/'' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  '/'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  ''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  ''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  '/'' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  '/'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  ''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  ''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterQuoteComment.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN154546 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.preproc2.ReadFilterQuoteComment.applyFilter@POLYN156594 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

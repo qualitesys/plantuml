@@ -135,42 +135,42 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN156894 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN158942 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN156894 the MagicNumber/String  10000 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN158942 the MagicNumber/String  10000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN156894 the MagicNumber/String  100000 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN158942 the MagicNumber/String  100000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN156894 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN158942 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN156894 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN158942 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN156894 the MagicNumber/String  '\\s' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sudoku.SudokuDLX.SudokuDLX@POLYN158942 the MagicNumber/String  '\\s' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -184,42 +184,42 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN158041 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN160089 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN158041 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN160089 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN158041 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sudoku.SudokuDLX.getGiven@POLYN160089 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN158429 the MagicNumber/String  'Rate=' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN160477 the MagicNumber/String  'Rate=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN158429 the MagicNumber/String  'Seed=' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN160477 the MagicNumber/String  'Seed=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN158429 the MagicNumber/String  36 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sudoku.SudokuDLX.print@POLYN160477 the MagicNumber/String  36 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -240,21 +240,21 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN158915 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN160963 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN158915 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN160963 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/SudokuDLX.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN158915 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sudoku.SudokuDLX.main@POLYN160963 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

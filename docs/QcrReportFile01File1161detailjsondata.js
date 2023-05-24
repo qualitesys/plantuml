@@ -136,35 +136,35 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN154740 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN156788 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN154740 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN156788 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN154740 the MagicNumber/String  513 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN156788 the MagicNumber/String  513 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN154740 the MagicNumber/String  512 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN156788 the MagicNumber/String  512 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN154740 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.dedication.DedicationSimple.getImage@POLYN156788 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -192,28 +192,28 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN155713 the MagicNumber/String  '[^\\p{L}0-9]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN157761 the MagicNumber/String  '[^\\p{L}0-9]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN155713 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN157761 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN155713 the MagicNumber/String  '[^\\p{L}0-9]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN157761 the MagicNumber/String  '[^\\p{L}0-9]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/DedicationSimple.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN155713 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.dedication.DedicationSimple.same@POLYN157761 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

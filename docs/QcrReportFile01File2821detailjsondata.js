@@ -90,28 +90,28 @@ var maDataBlocs = {
  , "c1" : "00040"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN149050 the MagicNumber/String  'This comparator can only compare DiagramShapeS' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN151098 the MagicNumber/String  'This comparator can only compare DiagramShapeS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN149050 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN151098 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN149050 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN151098 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN149050 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method org.stathissideris.ascii2image.core.Shape3DOrderingComparator.compare@POLYN151098 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -439,112 +439,112 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN186485 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN188533 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN186485 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN188533 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN186485 the MagicNumber/String  ')(' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN188533 the MagicNumber/String  ')(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN186485 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN188533 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN186485 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN188533 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN186485 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.skin.ArrowConfiguration.name@POLYN188533 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN186912 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN188960 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN186912 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN188960 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN186912 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN188960 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN186912 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN188960 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN186912 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionNormal@POLYN188960 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN187360 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN189408 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN187360 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN189408 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN187360 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN189408 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN187360 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN189408 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN187360 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionBoth@POLYN189408 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -558,35 +558,35 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionSelf@POLYN187855 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionSelf@POLYN189903 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionSelf@POLYN187855 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionSelf@POLYN189903 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionSelf@POLYN187855 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionSelf@POLYN189903 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionSelf@POLYN187855 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.skin.ArrowConfiguration.withDirectionSelf@POLYN189903 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.skin.ArrowConfiguration.self@POLYN188763 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.skin.ArrowConfiguration.self@POLYN190811 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -663,7 +663,7 @@ var maDataBlocs = {
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.skin.ArrowConfiguration.getHead@POLYN194038 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.skin.ArrowConfiguration.getHead@POLYN196086 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -698,14 +698,14 @@ var maDataBlocs = {
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.skin.ArrowConfiguration.applyStroke@POLYN195350 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.skin.ArrowConfiguration.applyStroke@POLYN197398 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.skin.ArrowConfiguration.applyStroke@POLYN195350 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.skin.ArrowConfiguration.applyStroke@POLYN197398 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -740,14 +740,14 @@ var maDataBlocs = {
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.skin.ArrowConfiguration.getInclination1@POLYN197039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.skin.ArrowConfiguration.getInclination1@POLYN199087 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ArrowConfiguration.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.skin.ArrowConfiguration.getInclination2@POLYN197249 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.skin.ArrowConfiguration.getInclination2@POLYN199297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

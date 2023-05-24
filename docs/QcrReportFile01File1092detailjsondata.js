@@ -188,14 +188,14 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byStereotype@POLYN159356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byStereotype@POLYN161404 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byStereotype@POLYN159356 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byStereotype@POLYN161404 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -209,21 +209,21 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN159846 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN161894 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN159846 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN161894 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN159846 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.byPackage@POLYN161894 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -251,21 +251,21 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.all@POLYN160900 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.all@POLYN162948 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.emptyMethods@POLYN161130 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.emptyMethods@POLYN163178 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/EntityGenderUtils.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.emptyFields@POLYN161442 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.EntityGenderUtils.emptyFields@POLYN163490 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

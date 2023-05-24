@@ -208,14 +208,14 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.Pipe.Pipe@POLYN179363 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.Pipe.Pipe@POLYN181411 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.Pipe.Pipe@POLYN179363 the MagicNumber/String  'Invalid charset provided' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.Pipe.Pipe@POLYN181411 the MagicNumber/String  'Invalid charset provided' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -250,21 +250,21 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.Pipe.managePipe@POLYN180168 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.Pipe.managePipe@POLYN182216 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.Pipe.managePipe@POLYN180168 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.Pipe.managePipe@POLYN182216 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.Pipe.managePipe@POLYN180168 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.Pipe.managePipe@POLYN182216 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -292,21 +292,21 @@ var maDataBlocs = {
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.Pipe.generateDiagram@POLYN181571 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.Pipe.generateDiagram@POLYN183619 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.Pipe.generateDiagram@POLYN181571 the MagicNumber/String  '(error)' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.Pipe.generateDiagram@POLYN183619 the MagicNumber/String  '(error)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.Pipe.generateDiagram@POLYN181571 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.Pipe.generateDiagram@POLYN183619 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -334,7 +334,7 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.Pipe.createPipeMapForDiagram@POLYN182903 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.Pipe.createPipeMapForDiagram@POLYN184951 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -376,14 +376,14 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.Pipe.syntaxCheckDiagram@POLYN183643 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.Pipe.syntaxCheckDiagram@POLYN185691 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.Pipe.syntaxCheckDiagram@POLYN183643 the MagicNumber/String  'OTHER' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.Pipe.syntaxCheckDiagram@POLYN185691 the MagicNumber/String  'OTHER' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -404,35 +404,35 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.Pipe.printInfo@POLYN184680 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.Pipe.printInfo@POLYN186728 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.Pipe.printInfo@POLYN184680 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.Pipe.printInfo@POLYN186728 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.Pipe.printInfo@POLYN184680 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.Pipe.printInfo@POLYN186728 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.Pipe.readFirstDiagram@POLYN185206 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.Pipe.readFirstDiagram@POLYN187254 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.Pipe.readSubsequentDiagram@POLYN185332 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.Pipe.readSubsequentDiagram@POLYN187380 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -453,112 +453,112 @@ var maDataBlocs = {
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  '@@@format ' should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  '@@@format ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  '@start' should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  '@start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  '@end' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  '@end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  '^[A-Za-z]' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  '^[A-Za-z]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  '@startuml\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  '@startuml\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  '@enduml\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  '@enduml\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN185458 the MagicNumber/String  'Unexpected value: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.Pipe.readSingleDiagram@POLYN187506 the MagicNumber/String  'Unexpected value: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -572,14 +572,14 @@ var maDataBlocs = {
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.Pipe.manageFormat@POLYN187817 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.Pipe.manageFormat@POLYN189865 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pipe.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.Pipe.manageFormat@POLYN187817 the MagicNumber/String  'svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.Pipe.manageFormat@POLYN189865 the MagicNumber/String  'svg' should be converted to const"
 }} 
 ]
 , 

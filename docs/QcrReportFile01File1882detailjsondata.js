@@ -124,21 +124,21 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.isParallel@POLYN150241 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.isParallel@POLYN152289 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.getUrl@POLYN150329 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.getUrl@POLYN152377 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/AbstractEvent.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.hasUrl@POLYN150417 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.AbstractEvent.hasUrl@POLYN152465 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -183,14 +183,14 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN184671 the MagicNumber/String  0.15 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN186719 the MagicNumber/String  0.15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN184671 the MagicNumber/String  0.1 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN186719 the MagicNumber/String  0.1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -218,7 +218,7 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN185380 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN187428 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -232,7 +232,7 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00106] For method createView list of called methods Object monObjet|double origin_getXN186755|double origin_getYN186915"
+ , "c3" : "QC-JAV000007[00106] For method createView list of called methods Object monObjet|double origin_getXN188803|double origin_getYN188963"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -260,28 +260,28 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN186612 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN188660 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN186612 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN188660 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN186612 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN188660 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN186612 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method jcckit.plot.CartesianCoordinateSystem.createView@POLYN188660 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,7 +302,7 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method jcckit.plot.CartesianCoordinateSystem.createLabel@POLYN188671 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method jcckit.plot.CartesianCoordinateSystem.createLabel@POLYN190719 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -316,7 +316,7 @@ var maDataBlocs = {
  , "c1" : "00138"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#138"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00138] For method createTicsAndGrid list of called methods Object monObjet|double[] parameters_calculateTicsN189391|jcckit.graphic.GraphPoint _transformation_transformToGraphN190058|double gPoint1_getXN190304|double gPoint1_getYN190409|double parameters_ticLabelPosition_getXN192036|double parameters_ticLabelPosition_getYN192149"
+ , "c3" : "QC-JAV000007[00138] For method createTicsAndGrid list of called methods Object monObjet|double[] parameters_calculateTicsN191439|jcckit.graphic.GraphPoint _transformation_transformToGraphN192106|double gPoint1_getXN192352|double gPoint1_getYN192457|double parameters_ticLabelPosition_getXN194084|double parameters_ticLabelPosition_getYN194197"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -344,161 +344,161 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN189217 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN191265 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -512,7 +512,7 @@ var maDataBlocs = {
  , "c1" : "00176"
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method jcckit.plot.CartesianCoordinateSystem.addLine@POLYN192567 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method jcckit.plot.CartesianCoordinateSystem.addLine@POLYN194615 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

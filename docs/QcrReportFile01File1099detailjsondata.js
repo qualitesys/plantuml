@@ -574,14 +574,14 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.toString@POLYN180200 the MagicNumber/String  'ROOT' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.toString@POLYN182248 the MagicNumber/String  'ROOT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isGroup@POLYN180302 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isGroup@POLYN182350 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -595,7 +595,7 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getUrl99@POLYN180890 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getUrl99@POLYN182938 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -609,7 +609,7 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getCode@POLYN181240 the MagicNumber/String  '__ROOT__' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getCode@POLYN183288 the MagicNumber/String  '__ROOT__' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -623,7 +623,7 @@ var maDataBlocs = {
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getParentContainer@POLYN181642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getParentContainer@POLYN183690 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -637,7 +637,7 @@ var maDataBlocs = {
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getChildren@POLYN181906 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getChildren@POLYN183954 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -651,7 +651,7 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getGroupType@POLYN182974 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getGroupType@POLYN185022 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -665,14 +665,14 @@ var maDataBlocs = {
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isHidden@POLYN183468 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isHidden@POLYN185516 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getUSymbol@POLYN183570 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.getUSymbol@POLYN185618 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -686,14 +686,14 @@ var maDataBlocs = {
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isRemoved@POLYN183909 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.isRemoved@POLYN185957 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.hasUrl@POLYN184011 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.cucadiagram.GroupRoot.hasUrl@POLYN186059 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

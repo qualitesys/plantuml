@@ -239,7 +239,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.graphic.USymbolCloud.drawCloud@POLYN201856 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.graphic.USymbolCloud.drawCloud@POLYN203904 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,91 +253,91 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  7919L should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  7919L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN202337 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloudNew@POLYN204385 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -358,7 +358,7 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.graphic.USymbolCloud.complex@POLYN205217 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.graphic.USymbolCloud.complex@POLYN207265 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -414,35 +414,35 @@ var maDataBlocs = {
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN208485 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN210533 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN208485 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN210533 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN208485 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN210533 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN208485 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN210533 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN208485 the MagicNumber/String  0.8 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.graphic.USymbolCloud.specialLine@POLYN210533 the MagicNumber/String  0.8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -463,35 +463,35 @@ var maDataBlocs = {
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN209727 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN211775 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN209727 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN211775 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN209727 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN211775 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN209727 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN211775 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN209727 the MagicNumber/String  .2 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.graphic.USymbolCloud.bubbleLine@POLYN211775 the MagicNumber/String  .2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -512,49 +512,49 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN210942 the MagicNumber/String  .25 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN212990 the MagicNumber/String  .25 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN210942 the MagicNumber/String  .35 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN212990 the MagicNumber/String  .35 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN210942 the MagicNumber/String  .4 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN212990 the MagicNumber/String  .4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN210942 the MagicNumber/String  .55 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN212990 the MagicNumber/String  .55 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN210942 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN212990 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN210942 the MagicNumber/String  .4 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN212990 the MagicNumber/String  .4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN210942 the MagicNumber/String  .55 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.graphic.USymbolCloud.addCurve@POLYN212990 the MagicNumber/String  .55 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -603,518 +603,518 @@ var maDataBlocs = {
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN212877 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.graphic.USymbolCloud.getSpecificFrontierForCloud@POLYN214925 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN217112 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN219160 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN217112 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN219160 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN217112 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN219160 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN217112 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN219160 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN217112 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN219160 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN217112 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN219160 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN217112 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN219160 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN217112 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.graphic.USymbolCloud.getMargin@POLYN219160 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1177,28 +1177,28 @@ var maDataBlocs = {
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN219188 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN221236 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00254"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN219188 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN221236 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00256"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN219188 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN221236 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN219188 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.graphic.USymbolCloud.asBig@POLYN221236 the MagicNumber/String  13 should be converted to const"
 }} 
 ]
 , 

@@ -180,28 +180,28 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.IteratorCounter2Impl@POLYN157246 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.IteratorCounter2Impl@POLYN159294 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN158671 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN160719 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN158671 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN160719 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/IteratorCounter2Impl.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN158671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.version.IteratorCounter2Impl.peekPrevious@POLYN160719 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

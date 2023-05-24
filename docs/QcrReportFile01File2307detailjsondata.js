@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.somePoint@POLYN161608 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.somePoint@POLYN163656 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,63 +129,63 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  90 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  90 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  180 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  180 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircleCircled.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN161688 the MagicNumber/String  90 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.svek.extremity.MiddleCircleCircled.drawU@POLYN163736 the MagicNumber/String  90 should be converted to const"
 }} 
 ]
 , 

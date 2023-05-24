@@ -221,7 +221,7 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.salt.PSystemSalt.PSystemSalt@POLYN193062 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.salt.PSystemSalt.PSystemSalt@POLYN195110 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -249,21 +249,21 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.salt.PSystemSalt.exportDiagramNow@POLYN193688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.salt.PSystemSalt.exportDiagramNow@POLYN195736 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.salt.PSystemSalt.exportDiagramNow@POLYN193688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.salt.PSystemSalt.exportDiagramNow@POLYN195736 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.salt.PSystemSalt.exportDiagramNow@POLYN193688 the MagicNumber/String  'none' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.salt.PSystemSalt.exportDiagramNow@POLYN195736 the MagicNumber/String  'none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -291,28 +291,28 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.salt.PSystemSalt.getTextBlock@POLYN194840 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.salt.PSystemSalt.getTextBlock@POLYN196888 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.salt.PSystemSalt.getTextBlock@POLYN194840 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.salt.PSystemSalt.getTextBlock@POLYN196888 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.salt.PSystemSalt.getTextBlock@POLYN194840 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.salt.PSystemSalt.getTextBlock@POLYN196888 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.salt.PSystemSalt.getDescription@POLYN196123 the MagicNumber/String  '(Salt)' should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.salt.PSystemSalt.getDescription@POLYN198171 the MagicNumber/String  '(Salt)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -361,56 +361,56 @@ var maDataBlocs = {
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN196451 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN198499 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN196451 the MagicNumber/String  'hide stereotype' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN198499 the MagicNumber/String  'hide stereotype' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN196451 the MagicNumber/String  'skinparam ' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN198499 the MagicNumber/String  'skinparam ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN196451 the MagicNumber/String  'scale ' should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN198499 the MagicNumber/String  'scale ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN196451 the MagicNumber/String  'scale ' should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN198499 the MagicNumber/String  'scale ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN196451 the MagicNumber/String  'sprite $' should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN198499 the MagicNumber/String  'sprite $' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN196451 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN198499 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN196451 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.salt.PSystemSalt.manageSprite@POLYN198499 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -431,14 +431,14 @@ var maDataBlocs = {
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.salt.PSystemSalt.createElement@POLYN198384 the MagicNumber/String  'Using ' should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.salt.PSystemSalt.createElement@POLYN200412 the MagicNumber/String  'Using ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.salt.PSystemSalt.createElement@POLYN198384 the MagicNumber/String  'data=' should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.salt.PSystemSalt.createElement@POLYN200412 the MagicNumber/String  'data=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -466,14 +466,14 @@ var maDataBlocs = {
  , "c1" : "00249"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#249"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.salt.PSystemSalt.setIamSalt@POLYN201922 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.salt.PSystemSalt.setIamSalt@POLYN203950 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.salt.PSystemSalt.getDefaultMargins@POLYN202164 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.salt.PSystemSalt.getDefaultMargins@POLYN204192 the MagicNumber/String  5 should be converted to const"
 }} 
 ]
 , 

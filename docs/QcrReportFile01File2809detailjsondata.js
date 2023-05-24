@@ -85,7 +85,7 @@ var maDataBlocs = {
  , "c1" : "00036"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Options.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.zopfli.Options.Options@POLYN146167 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.zopfli.Options.Options@POLYN148215 the MagicNumber/String  15 should be converted to const"
 }} 
 ]
 , 

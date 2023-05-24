@@ -94,42 +94,42 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN153456 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN155504 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN153456 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN155504 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN153456 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN155504 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN153456 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN155504 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN153456 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN155504 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/SentenceDecoder.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN153456 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.eggs.SentenceDecoder.isOk@POLYN155504 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

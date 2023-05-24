@@ -117,49 +117,49 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN161151 the MagicNumber/String  'highlight' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN163199 the MagicNumber/String  'highlight' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN161151 the MagicNumber/String  'FROM' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN163199 the MagicNumber/String  'FROM' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN161151 the MagicNumber/String  'to' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN163199 the MagicNumber/String  'to' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN161151 the MagicNumber/String  'TO' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN163199 the MagicNumber/String  'TO' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN161151 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN163199 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN161151 the MagicNumber/String  'CAPTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN163199 the MagicNumber/String  'CAPTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN161151 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.getRegexConcat@POLYN163199 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -187,28 +187,28 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.executeArg@POLYN162231 the MagicNumber/String  'FROM' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.executeArg@POLYN164279 the MagicNumber/String  'FROM' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.executeArg@POLYN162231 the MagicNumber/String  'TO' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.executeArg@POLYN164279 the MagicNumber/String  'TO' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.executeArg@POLYN162231 the MagicNumber/String  'CAPTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.executeArg@POLYN164279 the MagicNumber/String  'CAPTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHighlight.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.executeArg@POLYN162231 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.timingdiagram.command.CommandHighlight.executeArg@POLYN164279 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

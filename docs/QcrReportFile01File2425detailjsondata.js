@@ -167,35 +167,35 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN170224 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN172272 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN170224 the MagicNumber/String  '-------------------' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN172272 the MagicNumber/String  '-------------------' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN170224 the MagicNumber/String  'operatorStack=' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN172272 the MagicNumber/String  'operatorStack=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN170224 the MagicNumber/String  'ouputQueue=' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN172272 the MagicNumber/String  'ouputQueue=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN170224 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.traceMe@POLYN172272 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -265,49 +265,49 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN170702 the MagicNumber/String  'token=' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN172750 the MagicNumber/String  'token=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN170702 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN172750 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN170702 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN172750 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN170702 the MagicNumber/String  'Parsing syntax error about ' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN172750 the MagicNumber/String  'Parsing syntax error about ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN170702 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN172750 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN170702 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN172750 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN170702 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.ShuntingYard@POLYN172750 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -328,14 +328,14 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.isVariableName@POLYN174625 the MagicNumber/String  '[a-zA-Z0-9.$_]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.isVariableName@POLYN176673 the MagicNumber/String  '[a-zA-Z0-9.$_]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAFunctionAtTheTopOfTheOperatorStack@POLYN174774 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAFunctionAtTheTopOfTheOperatorStack@POLYN176822 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -356,21 +356,21 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN175036 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN177084 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN175036 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN177084 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN175036 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.thereIsAnOperatorAtTheTopOfTheOperatorStackWithGreaterPrecedence@POLYN177084 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -398,21 +398,21 @@ var maDataBlocs = {
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN175515 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN177563 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN175515 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN177563 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN175515 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackHasEqualPrecedenceAndIsLeftAssociative@POLYN177563 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -426,21 +426,21 @@ var maDataBlocs = {
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN176056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN178104 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN176056 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN178104 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/ShuntingYard.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN176056 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.tim.expression.ShuntingYard.theOperatorAtTheTopOfTheOperatorStackIsNotALeftParenthesis@POLYN178104 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 
