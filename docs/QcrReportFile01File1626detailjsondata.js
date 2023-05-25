@@ -242,7 +242,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.build@POLYN173360 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.build@POLYN174336 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -263,77 +263,77 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  '\\d+' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  '\\d+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  'Error ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN173644 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.StartDiagramExtractReader@POLYN174620 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -347,42 +347,42 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN175155 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN176137 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN175155 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN176137 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN175155 the MagicNumber/String  '.*id=' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN176137 the MagicNumber/String  '.*id=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN175155 the MagicNumber/String  '\\W.*' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN176137 the MagicNumber/String  '\\W.*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN175155 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN176137 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN175155 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.checkUid@POLYN176137 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -403,14 +403,14 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN175600 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN176582 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN175600 the MagicNumber/String  'Cannot open ' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN176582 the MagicNumber/String  'Cannot open ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -438,14 +438,14 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN176675 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN177659 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN176675 the MagicNumber/String  'Cannot connect' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.getReadLine@POLYN177659 the MagicNumber/String  'Cannot connect' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -487,63 +487,63 @@ var maDataBlocs = {
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN178291 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN179283 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN178291 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN179283 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN178291 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN179283 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN178291 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN179283 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN178291 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.containsStartDiagram@POLYN179283 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN178923 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN179917 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN178923 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN179917 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN178923 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN179917 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/StartDiagramExtractReader.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN178923 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.preproc.StartDiagramExtractReader.readLine@POLYN179917 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

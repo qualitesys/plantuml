@@ -108,49 +108,49 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN158854 the MagicNumber/String  'scale' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN159830 the MagicNumber/String  'scale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN158854 the MagicNumber/String  'TICK' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN159830 the MagicNumber/String  'TICK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN158854 the MagicNumber/String  '(\\d+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN159830 the MagicNumber/String  '(\\d+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN158854 the MagicNumber/String  'as' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN159830 the MagicNumber/String  'as' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN158854 the MagicNumber/String  'PIXEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN159830 the MagicNumber/String  'PIXEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN158854 the MagicNumber/String  '(\\d+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN159830 the MagicNumber/String  '(\\d+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN158854 the MagicNumber/String  'pixels?' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.getRegexConcat@POLYN159830 the MagicNumber/String  'pixels?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -178,49 +178,49 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN159680 the MagicNumber/String  'TICK' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN160656 the MagicNumber/String  'TICK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN159680 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN160656 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN159680 the MagicNumber/String  'PIXEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN160656 the MagicNumber/String  'PIXEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN159680 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN160656 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN159680 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN160656 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN159680 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN160656 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandScalePixel.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN159680 the MagicNumber/String  'Bad value' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel.executeArg@POLYN160656 the MagicNumber/String  'Bad value' should be converted to const"
 }} 
 ]
 , 

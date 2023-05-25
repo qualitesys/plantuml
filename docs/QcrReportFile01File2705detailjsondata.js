@@ -190,35 +190,35 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN165409 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN166385 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN165409 the MagicNumber/String  '^' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN166385 the MagicNumber/String  '^' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN165409 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.draw@POLYN166385 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.getDimension@POLYN167044 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.getDimension@POLYN168024 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.getDimension@POLYN167044 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.getDimension@POLYN168024 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -232,7 +232,7 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.writeToStream@POLYN167200 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.writeToStream@POLYN168180 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

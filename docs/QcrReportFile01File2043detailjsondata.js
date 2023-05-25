@@ -244,28 +244,28 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.PlayingSpace@POLYN178156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.PlayingSpace@POLYN179132 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.PlayingSpace@POLYN178156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.PlayingSpace@POLYN179132 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.PlayingSpace@POLYN178156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.PlayingSpace@POLYN179132 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.PlayingSpace@POLYN178156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.PlayingSpace@POLYN179132 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -279,14 +279,14 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawBackground@POLYN180587 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawBackground@POLYN181569 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawBackground@POLYN180587 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawBackground@POLYN181569 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -300,14 +300,14 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawForeground@POLYN180859 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawForeground@POLYN181843 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawForeground@POLYN180859 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawForeground@POLYN181843 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -363,14 +363,14 @@ var maDataBlocs = {
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawUInternal@POLYN181139 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawUInternal@POLYN182125 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawUInternal@POLYN181139 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.drawUInternal@POLYN182125 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -384,7 +384,7 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getFromAnchor@POLYN183000 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getFromAnchor@POLYN184000 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -398,28 +398,28 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getPreferredHeight@POLYN183321 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getPreferredHeight@POLYN184321 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getPreferredHeight@POLYN183321 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getPreferredHeight@POLYN184321 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getPreferredHeight@POLYN183321 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getPreferredHeight@POLYN184321 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getPreferredHeight@POLYN183321 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getPreferredHeight@POLYN184321 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -468,14 +468,14 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.yNewPages@POLYN184767 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.yNewPages@POLYN185775 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getNbPages@POLYN185653 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace.getNbPages@POLYN186665 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

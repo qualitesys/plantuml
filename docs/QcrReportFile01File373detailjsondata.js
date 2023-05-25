@@ -161,49 +161,49 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN165861 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN166837 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN165861 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN166837 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN165861 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN166837 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN165861 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN166837 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN165861 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN166837 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN165861 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN166837 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN165861 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.DirWatcher.buildCreatedFiles@POLYN166837 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -224,35 +224,35 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN167941 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN168927 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN167941 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN168927 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN167941 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN168927 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN167941 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN168927 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/DirWatcher.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN167941 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.DirWatcher.getErrorFile@POLYN168927 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

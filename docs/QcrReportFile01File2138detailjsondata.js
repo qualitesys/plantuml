@@ -169,7 +169,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getStatePattern@POLYN182189 the MagicNumber/String  '([%pLN_.:]+|[%pLN_.:]+\\[H\\*?\\]|\\[\\*\\]|\\[H\\*?\\]|(?:==+)(?:[%pLN_.:]+)(?:==+))[%s]*(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?[%s]*(#\\w+)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getStatePattern@POLYN183165 the MagicNumber/String  '([%pLN_.:]+|[%pLN_.:]+\\[H\\*?\\]|\\[\\*\\]|\\[H\\*?\\]|(?:==+)(?:[%pLN_.:]+)(?:==+))[%s]*(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?[%s]*(#\\w+)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -197,322 +197,322 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT1' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT2' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'The state ' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'The state ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  ' has been created in a concurrent state : it cannot be used here.' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  ' has been created in a concurrent state : it cannot be used here.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'The state ' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'The state ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  ' has been created in a concurrent state : it cannot be used here.' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  ' has been created in a concurrent state : it cannot be used here.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT1' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT1' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT1' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT1' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT2' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT2' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT2' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ENT2' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ENT2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ARROW_BODY1' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ARROW_BODY1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ARROW_BODY2' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ARROW_BODY2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ARROW_CROSS_START' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ARROW_CROSS_START' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ARROW_CIRCLE_END' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ARROW_CIRCLE_END' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  'ARROW_STYLE' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  'ARROW_STYLE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN182373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.executeArg@POLYN183349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -533,28 +533,28 @@ var maDataBlocs = {
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getDirection@POLYN187057 the MagicNumber/String  'ARROW_DIRECTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getDirection@POLYN188063 the MagicNumber/String  'ARROW_DIRECTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getDirection@POLYN187057 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getDirection@POLYN188063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getDirection@POLYN187057 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getDirection@POLYN188063 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getDefaultDirection@POLYN187432 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getDefaultDirection@POLYN188440 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -582,7 +582,7 @@ var maDataBlocs = {
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getEntityStart@POLYN187520 the MagicNumber/String  '[*]' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getEntityStart@POLYN188528 the MagicNumber/String  '[*]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -610,7 +610,7 @@ var maDataBlocs = {
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getEntityEnd@POLYN187837 the MagicNumber/String  '[*]' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getEntityEnd@POLYN188845 the MagicNumber/String  '[*]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -638,105 +638,105 @@ var maDataBlocs = {
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  '[H]' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  '[H]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  '[H]' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  '[H]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  '[H*]' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  '[H*]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  '[H*]' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  '[H*]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN188154 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.getFoo1@POLYN189162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -757,35 +757,35 @@ var maDataBlocs = {
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN190236 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN191254 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN190236 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN191254 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN190236 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN191254 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN190236 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN191254 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandLinkStateCommon.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN190236 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon.removeEquals@POLYN191254 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

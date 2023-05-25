@@ -374,21 +374,21 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.core.TaskImpl.TaskImpl@POLYN187173 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.core.TaskImpl.TaskImpl@POLYN188149 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.project.core.TaskImpl.TaskImpl@POLYN187173 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.project.core.TaskImpl.TaskImpl@POLYN188149 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.project.core.TaskImpl.TaskImpl@POLYN187173 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.project.core.TaskImpl.TaskImpl@POLYN188149 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -402,14 +402,14 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.project.core.TaskImpl.getLoadAt@POLYN187896 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.project.core.TaskImpl.getLoadAt@POLYN188872 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.core.TaskImpl.getLoadAt@POLYN187896 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.core.TaskImpl.getLoadAt@POLYN188872 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -423,21 +423,21 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.core.TaskImpl.isPaused@POLYN188403 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.core.TaskImpl.isPaused@POLYN189381 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.core.TaskImpl.isPaused@POLYN188403 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.core.TaskImpl.isPaused@POLYN189381 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.project.core.TaskImpl.isPaused@POLYN188403 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.project.core.TaskImpl.isPaused@POLYN189381 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -458,14 +458,14 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.project.core.TaskImpl.pausedDayOfWeek@POLYN188721 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.project.core.TaskImpl.pausedDayOfWeek@POLYN189699 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.project.core.TaskImpl.pausedDayOfWeek@POLYN188721 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.project.core.TaskImpl.pausedDayOfWeek@POLYN189699 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -493,35 +493,35 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189001 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189979 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189001 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189979 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189001 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189979 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189001 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189979 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189001 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.project.core.TaskImpl.loadForResource@POLYN189979 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -542,14 +542,14 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.project.core.TaskImpl.getResourcePlan@POLYN190009 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.project.core.TaskImpl.getResourcePlan@POLYN190987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.project.core.TaskImpl.getResourcePlan@POLYN190009 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.project.core.TaskImpl.getResourcePlan@POLYN190987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -563,98 +563,98 @@ var maDataBlocs = {
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN190862 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN191846 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN190862 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN191846 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN190862 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN191846 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN190862 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN191846 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN190862 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN191846 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN190862 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN191846 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN190862 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN191846 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN190862 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.project.core.TaskImpl.getPrettyDisplay@POLYN191846 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.project.core.TaskImpl.debug@POLYN192466 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.project.core.TaskImpl.debug@POLYN193456 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.project.core.TaskImpl.debug@POLYN192466 the MagicNumber/String  ' ---&amp;gt; ' should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.project.core.TaskImpl.debug@POLYN193456 the MagicNumber/String  ' ---&amp;gt; ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.project.core.TaskImpl.debug@POLYN192466 the MagicNumber/String  '   [' should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.project.core.TaskImpl.debug@POLYN193456 the MagicNumber/String  '   [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.project.core.TaskImpl.debug@POLYN192466 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.project.core.TaskImpl.debug@POLYN193456 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.project.core.TaskImpl.getStart@POLYN192728 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.project.core.TaskImpl.getStart@POLYN193718 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.project.core.TaskImpl.getStart@POLYN192728 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.project.core.TaskImpl.getStart@POLYN193718 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -710,42 +710,42 @@ var maDataBlocs = {
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN194719 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN195711 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN194719 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN195711 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN194719 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN195711 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN194719 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN195711 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN194719 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN195711 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN194719 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.project.core.TaskImpl.getColors@POLYN195711 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -766,7 +766,7 @@ var maDataBlocs = {
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.project.core.TaskImpl.addAll@POLYN195658 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.project.core.TaskImpl.addAll@POLYN196652 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

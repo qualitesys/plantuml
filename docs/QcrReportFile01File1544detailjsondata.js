@@ -142,98 +142,98 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  'map' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  'map' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  '(?:[%g]([^%g]+)[%g][%s]+as[%s]+)?([%pLN_.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  '(?:[%g]([^%g]+)[%g][%s]+as[%s]+)?([%pLN_.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  'STEREO' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  'STEREO' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  '(\\&amp;lt;\\&amp;lt;.+\\&amp;gt;\\&amp;gt;)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  '(\\&amp;lt;\\&amp;lt;.+\\&amp;gt;\\&amp;gt;)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  ')?' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  ')?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  '##' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  '##' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  'LINECOLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  'LINECOLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  '(?:\\[(dotted|dashed|bold)\\])?(\\w+)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  '(?:\\[(dotted|dashed|bold)\\])?(\\w+)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN182979 the MagicNumber/String  '\\{' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getRegexConcat@POLYN183955 the MagicNumber/String  '\\{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getPatternEnd@POLYN184372 the MagicNumber/String  '^[%s]*\\}[%s]*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.getPatternEnd@POLYN185348 the MagicNumber/String  '^[%s]*\\}[%s]*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -317,91 +317,91 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  'No such entity' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  'No such entity' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  'Map definition should contains key =&amp;gt; value' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  'Map definition should contains key =&amp;gt; value' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  'No such entity ' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  'No such entity ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN184474 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeNow@POLYN185450 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -429,147 +429,147 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  'STEREO' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  'STEREO' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  'LINECOLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  'LINECOLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  'LINECOLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  'LINECOLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  'LINECOLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  'LINECOLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/objectdiagram/command/CommandCreateMap.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN187433 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap.executeArg0@POLYN188435 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -150,196 +150,196 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN171166 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.svek.FrontierCalculator.FrontierCalculator@POLYN172142 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -353,28 +353,28 @@ var maDataBlocs = {
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.svek.FrontierCalculator.ensureMinWidth@POLYN176818 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.svek.FrontierCalculator.ensureMinWidth@POLYN177812 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.svek.FrontierCalculator.ensureMinWidth@POLYN176818 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.svek.FrontierCalculator.ensureMinWidth@POLYN177812 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.svek.FrontierCalculator.ensureMinWidth@POLYN176818 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.svek.FrontierCalculator.ensureMinWidth@POLYN177812 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/FrontierCalculator.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.svek.FrontierCalculator.ensureMinWidth@POLYN176818 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.svek.FrontierCalculator.ensureMinWidth@POLYN177812 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

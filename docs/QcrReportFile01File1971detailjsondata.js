@@ -133,7 +133,7 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getStartingX@POLYN153830 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getStartingX@POLYN154806 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getPreferredWidth@POLYN153940 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getPreferredWidth@POLYN154916 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -161,7 +161,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalElementLiveEvent.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getPreferredHeight@POLYN154050 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalElementLiveEvent.getPreferredHeight@POLYN155026 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

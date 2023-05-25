@@ -108,154 +108,154 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  'N' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  'N' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  'S' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  'E' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  'E' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  'W' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  'W' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN161751 the MagicNumber/String  'C' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.create@POLYN162727 the MagicNumber/String  'C' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  '{+' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  '{+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  '{#' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  '{#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  '{!' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  '{!' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  '{-' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  '{-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  '[NSEW]=' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  '[NSEW]=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryBorder.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN163681 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.salt.factory.ElementFactoryBorder.ready@POLYN164665 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

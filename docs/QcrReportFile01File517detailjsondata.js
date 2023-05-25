@@ -108,21 +108,21 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN158630 the MagicNumber/String  'SPOT' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN159606 the MagicNumber/String  'SPOT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN158630 the MagicNumber/String  '\\((\\S)\\)' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN159606 the MagicNumber/String  '\\((\\S)\\)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN158630 the MagicNumber/String  ';?' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.getRegexConcat@POLYN159606 the MagicNumber/String  ';?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -150,42 +150,42 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN159073 the MagicNumber/String  'COLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN160049 the MagicNumber/String  'COLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN159073 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN160049 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN159073 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN160049 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN159073 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN160049 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN159073 the MagicNumber/String  'SPOT' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN160049 the MagicNumber/String  'SPOT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandCircleSpot3.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN159073 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3.executeArg@POLYN160049 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite.findExecutableOnPath@POLYN154376 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite.findExecutableOnPath@POLYN155352 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -133,21 +133,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite.specificDotExe@POLYN154478 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite.specificDotExe@POLYN155454 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite.graphviz244onWindows@POLYN154774 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite.graphviz244onWindows@POLYN155750 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsLite.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite.getExeName@POLYN155089 the MagicNumber/String  'dot.exe' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsLite.getExeName@POLYN156065 the MagicNumber/String  'dot.exe' should be converted to const"
 }} 
 ]
 , 

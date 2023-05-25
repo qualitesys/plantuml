@@ -113,14 +113,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs.execute@POLYN154599 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs.execute@POLYN155575 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SentenceDisplayOnSameRowAs.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs.execute@POLYN154599 the MagicNumber/String  'No such task ' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.SentenceDisplayOnSameRowAs.execute@POLYN155575 the MagicNumber/String  'No such task ' should be converted to const"
 }} 
 ]
 , 

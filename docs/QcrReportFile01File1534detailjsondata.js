@@ -135,7 +135,7 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NStage.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.nwdiag.next.NStage.toString@POLYN154421 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.nwdiag.next.NStage.toString@POLYN155397 the MagicNumber/String  'S' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

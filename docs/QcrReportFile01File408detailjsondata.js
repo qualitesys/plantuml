@@ -636,7 +636,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.OptionFlags.setAllowIncludeFalse@POLYN184418 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.OptionFlags.setAllowIncludeFalse@POLYN185394 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -664,14 +664,14 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185046 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186022 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185046 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186022 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -685,7 +685,7 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.OptionFlags.OptionFlags@POLYN185361 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.OptionFlags.OptionFlags@POLYN186337 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -699,63 +699,63 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186443 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186443 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186443 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186443 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186443 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186443 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186443 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN185467 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.OptionFlags.reset@POLYN186443 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.OptionFlags.useJavaInsteadOfDot@POLYN186040 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.OptionFlags.useJavaInsteadOfDot@POLYN187016 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -839,70 +839,70 @@ var maDataBlocs = {
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  'Start of ' should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  'Start of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  'End of ' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  'End of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00220"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN188945 the MagicNumber/String  'Cannot open ' should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.OptionFlags.logData@POLYN189921 the MagicNumber/String  'Cannot open ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -923,7 +923,7 @@ var maDataBlocs = {
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.OptionFlags.setLogData@POLYN190544 the MagicNumber/String  'Cannot open ' should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.OptionFlags.setLogData@POLYN191524 the MagicNumber/String  'Cannot open ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -937,7 +937,7 @@ var maDataBlocs = {
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.OptionFlags.isUseSuggestEngine2@POLYN191360 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.OptionFlags.isUseSuggestEngine2@POLYN192340 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -986,14 +986,14 @@ var maDataBlocs = {
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.OptionFlags.defaultForStats@POLYN192791 the MagicNumber/String  'PLANTUML_STATS' should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.OptionFlags.defaultForStats@POLYN193771 the MagicNumber/String  'PLANTUML_STATS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.OptionFlags.defaultForStats@POLYN192791 the MagicNumber/String  'PLANTUML_STATS' should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.OptionFlags.defaultForStats@POLYN193771 the MagicNumber/String  'PLANTUML_STATS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1007,14 +1007,14 @@ var maDataBlocs = {
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.OptionFlags.isTrue@POLYN193048 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.OptionFlags.isTrue@POLYN194028 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.OptionFlags.isTrue@POLYN193048 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.OptionFlags.isTrue@POLYN194028 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -90,7 +90,7 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityDefaultNoopAuthorizeManager.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAuthorizeManager.create@POLYN153128 the MagicNumber/String  'public' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.security.authentication.SecurityDefaultNoopAuthorizeManager.create@POLYN154104 the MagicNumber/String  'public' should be converted to const"
 }} 
 ]
 , 

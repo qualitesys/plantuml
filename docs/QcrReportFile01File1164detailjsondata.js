@@ -138,42 +138,42 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN161877 the MagicNumber/String  'net.sourceforge.plantuml.webp.VP8Decoder' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN162853 the MagicNumber/String  'net.sourceforge.plantuml.webp.VP8Decoder' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN161877 the MagicNumber/String  'decodeFrame' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN162853 the MagicNumber/String  'decodeFrame' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN161877 the MagicNumber/String  'getFrame' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN162853 the MagicNumber/String  'getFrame' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN161877 the MagicNumber/String  'getBufferedImage' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN162853 the MagicNumber/String  'getBufferedImage' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN161877 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.dedication.PSystemDedication.getBufferedImage@POLYN162853 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/PSystemDedication.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.dedication.PSystemDedication.getDescription@POLYN163011 the MagicNumber/String  '(Dedication)' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.dedication.PSystemDedication.getDescription@POLYN163997 the MagicNumber/String  '(Dedication)' should be converted to const"
 }} 
 ]
 , 

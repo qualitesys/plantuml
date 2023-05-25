@@ -135,35 +135,35 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN171667 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN172643 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN171667 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN172643 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN171667 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN172643 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN171667 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN172643 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN171667 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.MindMap.computeFinger@POLYN172643 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -191,14 +191,14 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.mindmap.MindMap.drawU@POLYN173627 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.mindmap.MindMap.drawU@POLYN174613 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.mindmap.MindMap.drawU@POLYN173627 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.mindmap.MindMap.drawU@POLYN174613 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -212,70 +212,70 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  'Bad indentation' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  'Bad indentation' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN175070 the MagicNumber/String  'General failure: no style available.' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.mindmap.MindMap.addIdeaInternal@POLYN176066 the MagicNumber/String  'General failure: no style available.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -289,7 +289,7 @@ var maDataBlocs = {
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/MindMap.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.mindmap.MindMap.isFull@POLYN176993 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.mindmap.MindMap.isFull@POLYN177989 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

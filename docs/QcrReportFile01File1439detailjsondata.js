@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.help.CommandHelpTheme.getRegexConcat@POLYN159522 the MagicNumber/String  'help' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.help.CommandHelpTheme.getRegexConcat@POLYN160498 the MagicNumber/String  'help' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.help.CommandHelpTheme.getRegexConcat@POLYN159522 the MagicNumber/String  'themes?' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.help.CommandHelpTheme.getRegexConcat@POLYN160498 the MagicNumber/String  'themes?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -136,56 +136,56 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN159941 the MagicNumber/String  '&amp;lt;b&amp;gt;Help on themes' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN160917 the MagicNumber/String  '&amp;lt;b&amp;gt;Help on themes' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN159941 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN160917 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN159941 the MagicNumber/String  'The code of this command is located in &amp;lt;i&amp;gt;net.sourceforge.plantuml.help&amp;lt;/i&amp;gt; package.' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN160917 the MagicNumber/String  'The code of this command is located in &amp;lt;i&amp;gt;net.sourceforge.plantuml.help&amp;lt;/i&amp;gt; package.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN159941 the MagicNumber/String  'You may improve it on &amp;lt;i&amp;gt;https://github.com/plantuml/plantuml/tree/master/src/net/sourceforge/plantuml/help&amp;lt;/i&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN160917 the MagicNumber/String  'You may improve it on &amp;lt;i&amp;gt;https://github.com/plantuml/plantuml/tree/master/src/net/sourceforge/plantuml/help&amp;lt;/i&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN159941 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN160917 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN159941 the MagicNumber/String  ' The possible themes are :' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN160917 the MagicNumber/String  ' The possible themes are :' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN159941 the MagicNumber/String  '* ' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN160917 the MagicNumber/String  '* ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpTheme.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN159941 the MagicNumber/String  'Unexpected error listing themes: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.help.CommandHelpTheme.executeArg@POLYN160917 the MagicNumber/String  'Unexpected error listing themes: ' should be converted to const"
 }} 
 ]
 , 

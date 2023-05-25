@@ -255,7 +255,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.atom.AtomTable.Line.toString@POLYN193418 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.atom.AtomTable.Line.toString@POLYN194394 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -290,14 +290,14 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.atom.AtomTable.calculateDimension@POLYN194039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.atom.AtomTable.calculateDimension@POLYN195015 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.creole.atom.AtomTable.calculateDimension@POLYN194039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.creole.atom.AtomTable.calculateDimension@POLYN195015 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -311,7 +311,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingAltitude@POLYN194524 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingAltitude@POLYN195504 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -437,98 +437,98 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN194626 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.creole.atom.AtomTable.drawU@POLYN195606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -619,35 +619,35 @@ var maDataBlocs = {
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN199823 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN200839 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN199823 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN200839 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN199823 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN200839 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN199823 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN200839 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN199823 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.creole.atom.AtomTable.initMap@POLYN200839 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -661,14 +661,14 @@ var maDataBlocs = {
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingX@POLYN201577 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingX@POLYN202607 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingX@POLYN201577 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingX@POLYN202607 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -682,14 +682,14 @@ var maDataBlocs = {
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.creole.atom.AtomTable.getEndingX@POLYN201991 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.creole.atom.AtomTable.getEndingX@POLYN203023 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.creole.atom.AtomTable.getEndingX@POLYN201991 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.creole.atom.AtomTable.getEndingX@POLYN203023 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -703,14 +703,14 @@ var maDataBlocs = {
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingY@POLYN202405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingY@POLYN203439 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingY@POLYN202405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.creole.atom.AtomTable.getStartingY@POLYN203439 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -724,14 +724,14 @@ var maDataBlocs = {
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.creole.atom.AtomTable.getEndingY@POLYN202819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.creole.atom.AtomTable.getEndingY@POLYN203855 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.creole.atom.AtomTable.getEndingY@POLYN202819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.creole.atom.AtomTable.getEndingY@POLYN203855 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -752,21 +752,21 @@ var maDataBlocs = {
  , "c1" : "00213"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.creole.atom.AtomTable.getColWidth@POLYN203233 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.creole.atom.AtomTable.getColWidth@POLYN204271 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.creole.atom.AtomTable.getColWidth@POLYN203233 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.creole.atom.AtomTable.getColWidth@POLYN204271 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.creole.atom.AtomTable.getColWidth@POLYN203233 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.creole.atom.AtomTable.getColWidth@POLYN204271 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -787,21 +787,21 @@ var maDataBlocs = {
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.creole.atom.AtomTable.getLineHeight@POLYN203972 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.creole.atom.AtomTable.getLineHeight@POLYN205016 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.creole.atom.AtomTable.getLineHeight@POLYN203972 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.creole.atom.AtomTable.getLineHeight@POLYN205016 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.creole.atom.AtomTable.getLineHeight@POLYN203972 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.creole.atom.AtomTable.getLineHeight@POLYN205016 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -815,28 +815,28 @@ var maDataBlocs = {
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.creole.atom.AtomTable.getPosition@POLYN204711 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.creole.atom.AtomTable.getPosition@POLYN205761 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.creole.atom.AtomTable.getPosition@POLYN204711 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.creole.atom.AtomTable.getPosition@POLYN205761 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.creole.atom.AtomTable.getNbCols@POLYN205355 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.creole.atom.AtomTable.getNbCols@POLYN206409 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTable.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.creole.atom.AtomTable.lastLine@POLYN205608 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.creole.atom.AtomTable.lastLine@POLYN206662 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

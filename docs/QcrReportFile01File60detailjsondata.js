@@ -183,42 +183,42 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.google.zxing.ResultPoint.equals@POLYN162439 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.google.zxing.ResultPoint.equals@POLYN163415 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.ResultPoint.hashCode@POLYN162806 the MagicNumber/String  31 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.ResultPoint.hashCode@POLYN163784 the MagicNumber/String  31 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.google.zxing.ResultPoint.toString@POLYN163016 the MagicNumber/String  25 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.google.zxing.ResultPoint.toString@POLYN163994 the MagicNumber/String  25 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.ResultPoint.toString@POLYN163016 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.ResultPoint.toString@POLYN163994 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.ResultPoint.toString@POLYN163016 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.ResultPoint.toString@POLYN163994 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.google.zxing.ResultPoint.toString@POLYN163016 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.google.zxing.ResultPoint.toString@POLYN163994 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -232,140 +232,140 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00069] For method orderBestPatterns list of called methods Object monObjet|float distanceN163835|float distanceN164005|float distanceN164175"
+ , "c3" : "QC-JAV000007[00069] For method orderBestPatterns list of called methods Object monObjet|float distanceN164817|float distanceN164989|float distanceN165161"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  0.0f should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  0.0f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN163736 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.google.zxing.ResultPoint.orderBestPatterns@POLYN164716 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -379,7 +379,7 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00111] For method distance list of called methods Object monObjet|float pattern1_getXN166127|float pattern1_getYN166244"
+ , "c3" : "QC-JAV000007[00111] For method distance list of called methods Object monObjet|float pattern1_getXN167119|float pattern1_getYN167238"
 }} 
 ,
 { "ligne" : {"" : ""

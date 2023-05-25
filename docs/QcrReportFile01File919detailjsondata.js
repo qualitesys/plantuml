@@ -101,28 +101,28 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN155731 the MagicNumber/String  '!assume' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN156707 the MagicNumber/String  '!assume' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN155731 the MagicNumber/String  'transparent' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN156707 the MagicNumber/String  'transparent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN155731 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN156707 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAssumeTransparent.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN155731 the MagicNumber/String  '(dark|light)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandAssumeTransparent.getRegexConcat@POLYN156707 the MagicNumber/String  '(dark|light)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

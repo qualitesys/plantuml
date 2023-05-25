@@ -133,21 +133,21 @@ var maDataBlocs = {
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN154572 the MagicNumber/String  '[Delegated {' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN155548 the MagicNumber/String  '[Delegated {' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN154572 the MagicNumber/String  '} d=' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN155548 the MagicNumber/String  '} d=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealDelta.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN154572 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.real.RealDelta.RealDelta@POLYN155548 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

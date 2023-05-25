@@ -172,28 +172,28 @@ var maDataBlocs = {
  , "c1" : "00035"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.fromStream@POLYN154936 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.fromStream@POLYN155912 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.fromStream@POLYN154936 the MagicNumber/String  'Bad request line' should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.fromStream@POLYN155912 the MagicNumber/String  'Bad request line' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.fromStream@POLYN154936 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.fromStream@POLYN155912 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.fromStream@POLYN154936 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.fromStream@POLYN155912 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -214,21 +214,21 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.parseContentLengthHeader@POLYN156273 the MagicNumber/String  'Invalid content length' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.parseContentLengthHeader@POLYN157259 the MagicNumber/String  'Invalid content length' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.parseContentLengthHeader@POLYN156273 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.parseContentLengthHeader@POLYN157259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.parseContentLengthHeader@POLYN156273 the MagicNumber/String  'Negative content length' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.parseContentLengthHeader@POLYN157259 the MagicNumber/String  'Negative content length' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -249,42 +249,42 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN156895 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN157883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN156895 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN157883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN156895 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN157883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN156895 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN157883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN156895 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN157883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN156895 the MagicNumber/String  'Body too short' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readBody@POLYN157883 the MagicNumber/String  'Body too short' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -312,49 +312,49 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN157867 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN158863 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN157867 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN158863 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN157867 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN158863 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN157867 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN158863 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN157867 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN158863 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN157867 the MagicNumber/String  '\r' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN158863 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/ReceivedHTTPRequest.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN157867 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.picoweb.ReceivedHTTPRequest.readLine@POLYN158863 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

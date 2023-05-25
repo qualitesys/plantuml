@@ -244,7 +244,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.image.Opale.getHeight@POLYN205402 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.image.Opale.getHeight@POLYN206378 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -272,14 +272,14 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.svek.image.Opale.drawU@POLYN206022 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.svek.image.Opale.drawU@POLYN207004 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.svek.image.Opale.drawU@POLYN206022 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.svek.image.Opale.drawU@POLYN207004 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -300,56 +300,56 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN208186 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN209172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN208186 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN209172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN208186 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN209172 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN208186 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN209172 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN208186 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN209172 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN208186 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN209172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN208186 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN209172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN208186 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.svek.image.Opale.getCorner@POLYN209172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -363,196 +363,196 @@ var maDataBlocs = {
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN209446 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonNormal@POLYN210434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -580,182 +580,182 @@ var maDataBlocs = {
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN211994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonLeft@POLYN212984 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -783,161 +783,161 @@ var maDataBlocs = {
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00213"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN214721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonRight@POLYN215715 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -965,175 +965,175 @@ var maDataBlocs = {
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00233"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00233"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00237"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00237"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN217504 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonUp@POLYN218502 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1161,161 +1161,161 @@ var maDataBlocs = {
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00256"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Opale.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN220207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.svek.image.Opale.getPolygonDown@POLYN221209 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

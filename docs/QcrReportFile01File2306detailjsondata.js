@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircle.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.svek.extremity.MiddleCircle.somePoint@POLYN155965 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.svek.extremity.MiddleCircle.somePoint@POLYN156941 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/MiddleCircle.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.extremity.MiddleCircle.drawU@POLYN156045 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.extremity.MiddleCircle.drawU@POLYN157021 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
 , 

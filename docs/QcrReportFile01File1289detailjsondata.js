@@ -90,14 +90,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorPreprocessor.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.error.PSystemErrorPreprocessor.PSystemErrorPreprocessor@POLYN154542 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.error.PSystemErrorPreprocessor.PSystemErrorPreprocessor@POLYN155518 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorPreprocessor.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.error.PSystemErrorPreprocessor.PSystemErrorPreprocessor@POLYN154542 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.error.PSystemErrorPreprocessor.PSystemErrorPreprocessor@POLYN155518 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

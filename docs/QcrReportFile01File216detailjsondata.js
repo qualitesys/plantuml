@@ -90,56 +90,56 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/h/ST_Rect_t.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method h.ST_Rect_t.___@POLYN160357 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method h.ST_Rect_t.___@POLYN161333 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/h/ST_Rect_t.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method h.ST_Rect_t.___@POLYN160357 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method h.ST_Rect_t.___@POLYN161333 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/h/ST_Rect_t.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method h.ST_Rect_t.___@POLYN160357 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method h.ST_Rect_t.___@POLYN161333 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/h/ST_Rect_t.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method h.ST_Rect_t.___@POLYN160357 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method h.ST_Rect_t.___@POLYN161333 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/h/ST_Rect_t.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method h.ST_Rect_t.___@POLYN160357 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method h.ST_Rect_t.___@POLYN161333 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/h/ST_Rect_t.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method h.ST_Rect_t.___@POLYN160357 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method h.ST_Rect_t.___@POLYN161333 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/h/ST_Rect_t.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method h.ST_Rect_t.___@POLYN160357 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method h.ST_Rect_t.___@POLYN161333 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/h/ST_Rect_t.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method h.ST_Rect_t.___@POLYN160357 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method h.ST_Rect_t.___@POLYN161333 the MagicNumber/String  3 should be converted to const"
 }} 
 ]
 , 

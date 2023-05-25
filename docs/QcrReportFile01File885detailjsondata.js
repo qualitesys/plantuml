@@ -203,14 +203,14 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211191 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212169 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211191 the MagicNumber/String  76 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212169 the MagicNumber/String  76 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -231,56 +231,56 @@ var maDataBlocs = {
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211905 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212883 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211905 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212883 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211905 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211905 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212883 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211905 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212883 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211905 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212883 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211905 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212883 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN211905 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.code.Base64Coder.encodeLines@POLYN212883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -294,7 +294,7 @@ var maDataBlocs = {
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN213593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214583 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -308,7 +308,7 @@ var maDataBlocs = {
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214042 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215032 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -322,154 +322,154 @@ var maDataBlocs = {
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  0xf should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  0xf should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN214616 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.code.Base64Coder.encode@POLYN215606 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -490,49 +490,49 @@ var maDataBlocs = {
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN217928 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN218944 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN217928 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN218944 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN217928 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN218944 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN217928 the MagicNumber/String  '\r' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN218944 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN217928 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN218944 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN217928 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN218944 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN217928 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.code.Base64Coder.decodeLines@POLYN218944 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -553,7 +553,7 @@ var maDataBlocs = {
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN219490 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220512 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -567,196 +567,196 @@ var maDataBlocs = {
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  'Length of Base64 encoded input string is not a multiple of 4.' should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  'Length of Base64 encoded input string is not a multiple of 4.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00305"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#305"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  'Illegal character in Base64 encoded data.' should be converted to const"
+ , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  'Illegal character in Base64 encoded data.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00311"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#311"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  'Illegal character in Base64 encoded data.' should be converted to const"
+ , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  'Illegal character in Base64 encoded data.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00312"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#312"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00312"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#312"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00313"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#313"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  0xf should be converted to const"
+ , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  0xf should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00313"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#313"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00313"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#313"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00314"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#314"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00314"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/Base64Coder.java.html#314"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN220107 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.code.Base64Coder.decode@POLYN221129 the MagicNumber/String  6 should be converted to const"
 }} 
 ]
 , 

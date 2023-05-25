@@ -126,7 +126,7 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/jcckit/graphic/Rectangle.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.graphic.Rectangle.renderWith@POLYN154957 the MagicNumber/String  ' does not implements RectangleRenderer.' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.graphic.Rectangle.renderWith@POLYN155933 the MagicNumber/String  ' does not implements RectangleRenderer.' should be converted to const"
 }} 
 ]
 , 

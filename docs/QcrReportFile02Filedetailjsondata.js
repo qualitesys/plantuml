@@ -1001,6 +1001,7 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard" }, 
   { "child"  : "(1) net.sourceforge.plantuml.yaml.YamlDiagramFactory" }, 
   { "child"  : "(1) org.stathissideris.ascii2image.graphics.CompositeDiagramShape" }, 
+  { "child"  : "(1) org.stathissideris.ascii2image.graphics.DiagramShape" }, 
   { "child"  : "(1) org.stathissideris.ascii2image.graphics.DiagramText" }, 
   { "child"  : "(1) org.stathissideris.ascii2image.graphics.ShapePoint" }, 
   { "child"  : "(1) org.stathissideris.ascii2image.text.GridPattern" }, 
@@ -17565,6 +17566,11 @@ var maDataBlocs = {
 }},
 {"ligne" : {
    "classe"  : "(1) org.stathissideris.ascii2image.graphics.DiagramComponent" ,
+"children" : [
+]
+}},
+{"ligne" : {
+   "classe"  : "(1) org.stathissideris.ascii2image.graphics.DiagramShape" ,
 "children" : [
 ]
 }},

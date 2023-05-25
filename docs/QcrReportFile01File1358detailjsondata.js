@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SpecialText.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.graphic.SpecialText.isIgnoreForCompressionOn@POLYN155534 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.graphic.SpecialText.isIgnoreForCompressionOn@POLYN156510 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -145,14 +145,14 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SpecialText.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.graphic.SpecialText.drawWhenCompressed@POLYN155636 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.graphic.SpecialText.drawWhenCompressed@POLYN156612 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/SpecialText.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.graphic.SpecialText.drawWhenCompressed@POLYN155636 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.graphic.SpecialText.drawWhenCompressed@POLYN156612 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

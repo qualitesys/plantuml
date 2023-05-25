@@ -10702,6 +10702,10 @@ class "org.stathissideris.ascii2image.graphics.DiagramComponent" {
 Nb methods :3
 Complexity :8.67
 }
+class "org.stathissideris.ascii2image.graphics.DiagramShape" {
+Nb methods :55
+Complexity :2.95
+}
 class "org.stathissideris.ascii2image.graphics.DiagramText" {
 Nb methods :23
 Complexity :1.09

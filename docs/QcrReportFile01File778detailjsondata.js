@@ -90,7 +90,7 @@ var maDataBlocs = {
  , "c1" : "00011"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/FontMetrics.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.awt.FontMetrics.getStringBounds@POLYN142662 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.awt.FontMetrics.getStringBounds@POLYN143638 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

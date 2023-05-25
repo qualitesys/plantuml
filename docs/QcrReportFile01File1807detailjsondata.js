@@ -155,70 +155,70 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColor88@POLYN157640 the MagicNumber/String  '#8' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColor88@POLYN158616 the MagicNumber/String  '#8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColor88@POLYN157640 the MagicNumber/String  '#8' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColor88@POLYN158616 the MagicNumber/String  '#8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorAA@POLYN157788 the MagicNumber/String  '#A' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorAA@POLYN158764 the MagicNumber/String  '#A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorAA@POLYN157788 the MagicNumber/String  '#6' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorAA@POLYN158764 the MagicNumber/String  '#6' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorBB@POLYN157936 the MagicNumber/String  '#B' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorBB@POLYN158912 the MagicNumber/String  '#B' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorBB@POLYN157936 the MagicNumber/String  '#5' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorBB@POLYN158912 the MagicNumber/String  '#5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorDD@POLYN158084 the MagicNumber/String  '#D' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorDD@POLYN159060 the MagicNumber/String  '#D' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorDD@POLYN158084 the MagicNumber/String  '#3' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorDD@POLYN159060 the MagicNumber/String  '#3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorEE@POLYN158232 the MagicNumber/String  '#E' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorEE@POLYN159208 the MagicNumber/String  '#E' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElement.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorEE@POLYN158232 the MagicNumber/String  '#2' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.element.AbstractElement.getColorEE@POLYN159208 the MagicNumber/String  '#2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

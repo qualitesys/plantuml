@@ -157,21 +157,21 @@ var maDataBlocs = {
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN156586 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN157562 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN156586 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN157562 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN156586 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.putInSquare@POLYN157562 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -185,7 +185,7 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.computeBranch@POLYN157812 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.computeBranch@POLYN158800 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -199,7 +199,7 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.getBottomLeft@POLYN158254 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.SquareMaker.getBottomLeft@POLYN159246 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

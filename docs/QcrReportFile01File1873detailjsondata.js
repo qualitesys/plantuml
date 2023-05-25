@@ -113,14 +113,14 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.apply@POLYN158988 the MagicNumber/String  'Basic ' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.apply@POLYN159964 the MagicNumber/String  'Basic ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.apply@POLYN158988 the MagicNumber/String  'Authorization' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.apply@POLYN159964 the MagicNumber/String  'Authorization' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -141,35 +141,35 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN159438 the MagicNumber/String  'identifier' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN160420 the MagicNumber/String  'identifier' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN159438 the MagicNumber/String  'secret' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN160420 the MagicNumber/String  'secret' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN159438 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN160420 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN159438 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN160420 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/basicauth/BasicAuthAccessInterceptor.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN159438 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.security.authentication.basicauth.BasicAuthAccessInterceptor.getAuth@POLYN160420 the MagicNumber/String  ':' should be converted to const"
 }} 
 ]
 , 

@@ -142,14 +142,14 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Notes.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.sequencediagram.Notes.dealWith@POLYN156066 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.sequencediagram.Notes.dealWith@POLYN157042 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Notes.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.Notes.dealWith@POLYN156066 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.Notes.dealWith@POLYN157042 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

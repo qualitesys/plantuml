@@ -108,56 +108,56 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN164638 the MagicNumber/String  'url' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN165614 the MagicNumber/String  'url' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN164638 the MagicNumber/String  'of|for' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN165614 the MagicNumber/String  'of|for' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN164638 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN165614 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN164638 the MagicNumber/String  '([%pLN_.]+|[%g][^%g]+[%g])' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN165614 the MagicNumber/String  '([%pLN_.]+|[%g][^%g]+[%g])' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN164638 the MagicNumber/String  'is' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN165614 the MagicNumber/String  'is' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN164638 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN165614 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN164638 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN165614 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN164638 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.getRegexConcat@POLYN165614 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -185,56 +185,56 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN165559 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN166535 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN165559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN166535 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN165559 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN166535 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN165559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN166535 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN165559 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN166535 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN165559 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN166535 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN165559 the MagicNumber/String  ' does not exist' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN166535 the MagicNumber/String  ' does not exist' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandUrl.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN165559 the MagicNumber/String  'topurl' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.classdiagram.command.CommandUrl.executeArg@POLYN166535 the MagicNumber/String  'topurl' should be converted to const"
 }} 
 ]
 , 

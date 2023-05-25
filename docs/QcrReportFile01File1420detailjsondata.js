@@ -170,7 +170,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.graphic.UnusedSpace.getUnusedSpace@POLYN169333 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.graphic.UnusedSpace.getUnusedSpace@POLYN170313 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -198,91 +198,91 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  4.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  4.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  4.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  4.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  4.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  4.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN169953 the MagicNumber/String  4.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.graphic.UnusedSpace.UnusedSpace@POLYN170937 the MagicNumber/String  4.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -296,7 +296,7 @@ var maDataBlocs = {
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.graphic.UnusedSpace.biggestDistSqFromPoint@POLYN173037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.graphic.UnusedSpace.biggestDistSqFromPoint@POLYN174039 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -317,28 +317,28 @@ var maDataBlocs = {
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.graphic.UnusedSpace.isPoint@POLYN173511 the MagicNumber/String  0x00FFFFFF should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.graphic.UnusedSpace.isPoint@POLYN174517 the MagicNumber/String  0x00FFFFFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.graphic.UnusedSpace.isPoint@POLYN173511 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.graphic.UnusedSpace.isPoint@POLYN174517 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.graphic.UnusedSpace.isPoint@POLYN173511 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.graphic.UnusedSpace.isPoint@POLYN174517 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UnusedSpace.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.graphic.UnusedSpace.isPoint@POLYN173511 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.graphic.UnusedSpace.isPoint@POLYN174517 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

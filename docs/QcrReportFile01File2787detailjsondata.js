@@ -104,7 +104,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramStandard.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.xmi.XmiClassDiagramStandard.XmiClassDiagramStandard@POLYN153734 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.xmi.XmiClassDiagramStandard.XmiClassDiagramStandard@POLYN154710 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -122,7 +122,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis2.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.ExtremityParenthesis2@POLYN159390 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.ExtremityParenthesis2@POLYN160366 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,35 +143,35 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis2.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN160662 the MagicNumber/String  180 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN161646 the MagicNumber/String  180 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis2.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN160662 the MagicNumber/String  90 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN161646 the MagicNumber/String  90 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis2.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN160662 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN161646 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis2.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN160662 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN161646 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityParenthesis2.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN160662 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.svek.extremity.ExtremityParenthesis2.drawU@POLYN161646 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

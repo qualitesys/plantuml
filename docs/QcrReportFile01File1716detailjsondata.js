@@ -106,14 +106,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.toRegex@POLYN154811 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.toRegex@POLYN155787 the MagicNumber/String  'COMPLEMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.toRegex@POLYN154811 the MagicNumber/String  '(\\d+).*completed?' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.toRegex@POLYN155787 the MagicNumber/String  '(\\d+).*completed?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -134,14 +134,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.getMe@POLYN155026 the MagicNumber/String  'COMPLEMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.getMe@POLYN156002 the MagicNumber/String  'COMPLEMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementCompleted.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.getMe@POLYN155026 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.ComplementCompleted.getMe@POLYN156002 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -2563,6 +2563,7 @@ var mavar =
 ' { "namespace":"org.stathissideris.ascii2image.graphics" , "classe":"CustomShapeDefinition" , "nbMethodes":"13" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"org.stathissideris.ascii2image.graphics" , "classe":"Diagram" , "nbMethodes":"30" , "nbComplexite":"6.74"} ,' + 
 ' { "namespace":"org.stathissideris.ascii2image.graphics" , "classe":"DiagramComponent" , "nbMethodes":"3" , "nbComplexite":"8.67"} ,' + 
+' { "namespace":"org.stathissideris.ascii2image.graphics" , "classe":"DiagramShape" , "nbMethodes":"55" , "nbComplexite":"2.95"} ,' + 
 ' { "namespace":"org.stathissideris.ascii2image.graphics" , "classe":"DiagramText" , "nbMethodes":"23" , "nbComplexite":"1.09"} ,' + 
 ' { "namespace":"org.stathissideris.ascii2image.graphics" , "classe":"FontMeasurer" , "nbMethodes":"11" , "nbComplexite":"2.19"} ,' + 
 ' { "namespace":"org.stathissideris.ascii2image.graphics" , "classe":"ImageHandler" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
