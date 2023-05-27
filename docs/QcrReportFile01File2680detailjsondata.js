@@ -118,35 +118,35 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN158841 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN160153 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN158841 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN160153 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN158841 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN160153 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN158841 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN160153 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverCenteredCharacterSvg.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN158841 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.svg.DriverCenteredCharacterSvg.draw@POLYN160153 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

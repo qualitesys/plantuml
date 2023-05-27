@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberStop.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberStop.getRegexConcat@POLYN157389 the MagicNumber/String  'autonumber' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberStop.getRegexConcat@POLYN158701 the MagicNumber/String  'autonumber' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutonumberStop.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberStop.getRegexConcat@POLYN157389 the MagicNumber/String  'stop' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberStop.getRegexConcat@POLYN158701 the MagicNumber/String  'stop' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

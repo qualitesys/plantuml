@@ -76,7 +76,7 @@ var maDataBlocs = {
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flashcode/FlashCodeFactory.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.flashcode.FlashCodeFactory.getFlashCodeUtils@POLYN153820 the MagicNumber/String  'net.sourceforge.plantuml.flashcode.FlashCodeUtilsZxing' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.flashcode.FlashCodeFactory.getFlashCodeUtils@POLYN155132 the MagicNumber/String  'net.sourceforge.plantuml.flashcode.FlashCodeUtilsZxing' should be converted to const"
 }} 
 ]
 , 

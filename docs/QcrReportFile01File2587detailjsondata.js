@@ -133,7 +133,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.UGraphicNull.UGraphicNull@POLYN156196 the MagicNumber/String  'foo' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.UGraphicNull.UGraphicNull@POLYN157508 the MagicNumber/String  'foo' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -538,49 +538,49 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN254973 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN256285 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN254973 the MagicNumber/String  'C' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN256285 the MagicNumber/String  'C' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN254973 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN256285 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN254973 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN256285 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN254973 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN256285 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN254973 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN256285 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN254973 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.posimo.DotPath.DotPath@POLYN256285 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -629,7 +629,7 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.posimo.DotPath.addCurve@POLYN257878 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.posimo.DotPath.addCurve@POLYN259190 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -650,35 +650,35 @@ var maDataBlocs = {
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.posimo.DotPath.isPathConsistent@POLYN258365 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.posimo.DotPath.isPathConsistent@POLYN259677 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.posimo.DotPath.isPathConsistent@POLYN258365 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.posimo.DotPath.isPathConsistent@POLYN259677 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.DotPath.isPathConsistent@POLYN258365 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.posimo.DotPath.isPathConsistent@POLYN259677 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.posimo.DotPath.isPathConsistent@POLYN258365 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.posimo.DotPath.isPathConsistent@POLYN259677 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.posimo.DotPath.getStartPoint@POLYN258609 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.posimo.DotPath.getStartPoint@POLYN259921 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -706,14 +706,14 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.posimo.DotPath.sample@POLYN259155 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.posimo.DotPath.sample@POLYN260467 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.posimo.DotPath.sample@POLYN259155 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.posimo.DotPath.sample@POLYN260467 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -762,21 +762,21 @@ var maDataBlocs = {
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.posimo.DotPath.getMiddle@POLYN260203 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.posimo.DotPath.getMiddle@POLYN261515 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.posimo.DotPath.getMiddle@POLYN260203 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.posimo.DotPath.getMiddle@POLYN261515 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.posimo.DotPath.getMiddle@POLYN260203 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.posimo.DotPath.getMiddle@POLYN261515 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -804,28 +804,28 @@ var maDataBlocs = {
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.posimo.DotPath.forceStartPoint@POLYN262653 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.posimo.DotPath.forceStartPoint@POLYN263965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.posimo.DotPath.forceStartPoint@POLYN262653 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.posimo.DotPath.forceStartPoint@POLYN263965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00230"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.posimo.DotPath.forceStartPoint@POLYN262653 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.posimo.DotPath.forceStartPoint@POLYN263965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.posimo.DotPath.forceStartPoint@POLYN262653 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.posimo.DotPath.forceStartPoint@POLYN263965 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -839,35 +839,35 @@ var maDataBlocs = {
  , "c1" : "00235"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#235"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.posimo.DotPath.moveStartPoint@POLYN263169 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.posimo.DotPath.moveStartPoint@POLYN264481 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00236"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.posimo.DotPath.moveStartPoint@POLYN263169 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method net.sourceforge.plantuml.posimo.DotPath.moveStartPoint@POLYN264481 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00237"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.posimo.DotPath.moveStartPoint@POLYN263169 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.posimo.DotPath.moveStartPoint@POLYN264481 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.posimo.DotPath.moveStartPoint@POLYN263169 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.posimo.DotPath.moveStartPoint@POLYN264481 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.posimo.DotPath.getEndPoint@POLYN263693 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.posimo.DotPath.getEndPoint@POLYN265005 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -881,28 +881,28 @@ var maDataBlocs = {
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.posimo.DotPath.forceEndPoint@POLYN263874 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.posimo.DotPath.forceEndPoint@POLYN265186 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.posimo.DotPath.forceEndPoint@POLYN263874 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.posimo.DotPath.forceEndPoint@POLYN265186 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.posimo.DotPath.forceEndPoint@POLYN263874 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.posimo.DotPath.forceEndPoint@POLYN265186 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#249"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.posimo.DotPath.forceEndPoint@POLYN263874 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.posimo.DotPath.forceEndPoint@POLYN265186 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -916,35 +916,35 @@ var maDataBlocs = {
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.posimo.DotPath.moveEndPoint@POLYN264558 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.posimo.DotPath.moveEndPoint@POLYN265870 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00254"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.posimo.DotPath.moveEndPoint@POLYN264558 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.posimo.DotPath.moveEndPoint@POLYN265870 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.posimo.DotPath.moveEndPoint@POLYN264558 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.posimo.DotPath.moveEndPoint@POLYN265870 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00256"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.posimo.DotPath.moveEndPoint@POLYN264558 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.posimo.DotPath.moveEndPoint@POLYN265870 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.posimo.DotPath.getMinMax@POLYN265930 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.posimo.DotPath.getMinMax@POLYN267242 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -965,42 +965,42 @@ var maDataBlocs = {
  , "c1" : "00306"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.posimo.DotPath.getEndTangeante@POLYN267961 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.posimo.DotPath.getEndTangeante@POLYN269273 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00309"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.posimo.DotPath.getEndTangeante@POLYN267961 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.posimo.DotPath.getEndTangeante@POLYN269273 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00309"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#309"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.posimo.DotPath.getEndTangeante@POLYN267961 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00309] In method net.sourceforge.plantuml.posimo.DotPath.getEndTangeante@POLYN269273 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00329"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#329"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.posimo.DotPath.getStartTangeante@POLYN269690 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.posimo.DotPath.getStartTangeante@POLYN271002 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00332"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.posimo.DotPath.getStartTangeante@POLYN269690 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.posimo.DotPath.getStartTangeante@POLYN271002 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00332"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.posimo.DotPath.getStartTangeante@POLYN269690 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.posimo.DotPath.getStartTangeante@POLYN271002 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1014,7 +1014,7 @@ var maDataBlocs = {
  , "c1" : "00341"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.posimo.DotPath.addBefore@POLYN270563 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.posimo.DotPath.addBefore@POLYN271875 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1035,7 +1035,7 @@ var maDataBlocs = {
  , "c1" : "00347"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#347"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.posimo.DotPath.addBefore@POLYN270928 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.posimo.DotPath.addBefore@POLYN272240 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1084,7 +1084,7 @@ var maDataBlocs = {
  , "c1" : "00368"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#368"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00368] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN271983 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00368] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN273295 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1133,28 +1133,28 @@ var maDataBlocs = {
  , "c1" : "00392"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#392"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00392] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN274271 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00392] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN275583 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00393"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#393"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN274271 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN275583 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00408"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#408"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.posimo.DotPath.toUPath@POLYN275626 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.posimo.DotPath.toUPath@POLYN276938 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00412"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#412"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00412] In method net.sourceforge.plantuml.posimo.DotPath.toUPath@POLYN275626 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00412] In method net.sourceforge.plantuml.posimo.DotPath.toUPath@POLYN276938 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1175,14 +1175,14 @@ var maDataBlocs = {
  , "c1" : "00424"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#424"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN276588 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN277900 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00427"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#427"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00427] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN276588 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00427] In method net.sourceforge.plantuml.posimo.DotPath.draw@POLYN277900 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1196,91 +1196,91 @@ var maDataBlocs = {
  , "c1" : "00433"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00433"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00433"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  ') ' should be converted to const"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  ') ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00433"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00433"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00433"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  ') ' should be converted to const"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  ') ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00433"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00433"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#433"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00433] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00434"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#434"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  ') ' should be converted to const"
+ , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  ') ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00434"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#434"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00434"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#434"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00434"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#434"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN277613 the MagicNumber/String  ') ' should be converted to const"
+ , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278925 the MagicNumber/String  ') ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00443"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#443"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00443] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN278241 the MagicNumber/String  ' - ' should be converted to const"
+ , "c3" : "QC-JAV000010[00443] In method net.sourceforge.plantuml.posimo.DotPath.toString@POLYN279553 the MagicNumber/String  ' - ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1315,7 +1315,7 @@ var maDataBlocs = {
  , "c1" : "00465"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#465"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00465] In method net.sourceforge.plantuml.posimo.DotPath.moveSvek@POLYN279729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00465] In method net.sourceforge.plantuml.posimo.DotPath.moveSvek@POLYN281041 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1371,133 +1371,133 @@ var maDataBlocs = {
  , "c1" : "00481"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#481"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00481] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00481] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00481"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#481"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00481] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00481] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00486"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#486"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00486] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00486] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00491"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#491"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00491] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00491] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00492"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#492"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00492] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00492] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00493"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#493"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00493] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00493] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00502"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#502"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00502] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00502] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00504"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#504"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00504] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00504] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00504"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#504"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00504] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00504] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00513"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#513"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00513] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00513] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00517"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#517"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00517] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00517] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00524"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#524"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00524] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00524] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00530"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#530"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00530] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00530] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00537"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#537"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00537] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00537] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00539"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#539"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00539] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00539] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00539"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#539"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00539] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN280786 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00539] In method net.sourceforge.plantuml.posimo.DotPath.simulateCompound@POLYN282098 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00565"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#565"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00565] In method net.sourceforge.plantuml.posimo.DotPath.isLine@POLYN285781 the MagicNumber/String  0.001 should be converted to const"
+ , "c3" : "QC-JAV000010[00565] In method net.sourceforge.plantuml.posimo.DotPath.isLine@POLYN287093 the MagicNumber/String  0.001 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00566"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#566"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00566] In method net.sourceforge.plantuml.posimo.DotPath.isLine@POLYN285781 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00566] In method net.sourceforge.plantuml.posimo.DotPath.isLine@POLYN287093 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00568"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#568"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00568] In method net.sourceforge.plantuml.posimo.DotPath.isLine@POLYN285781 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00568] In method net.sourceforge.plantuml.posimo.DotPath.isLine@POLYN287093 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

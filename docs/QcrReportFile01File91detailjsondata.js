@@ -291,7 +291,7 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.clearMatrix@POLYN239786 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.clearMatrix@POLYN241098 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -319,7 +319,7 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#170"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00170] For method embedTypeInfo list of called methods Object monObjet|boolean typeInfoBits_getN241486|int matrix_getWidthN242062|int matrix_getHeightN242437"
+ , "c3" : "QC-JAV000007[00170] For method embedTypeInfo list of called methods Object monObjet|boolean typeInfoBits_getN242798|int matrix_getWidthN243374|int matrix_getHeightN243749"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -333,70 +333,70 @@ var maDataBlocs = {
  , "c1" : "00175"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN240961 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTypeInfo@POLYN242273 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -410,7 +410,7 @@ var maDataBlocs = {
  , "c1" : "00201"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#201"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00201] For method maybeEmbedVersionInfo list of called methods Object monObjet|boolean versionInfoBits_getN243524"
+ , "c3" : "QC-JAV000007[00201] For method maybeEmbedVersionInfo list of called methods Object monObjet|boolean versionInfoBits_getN244836"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -424,70 +424,70 @@ var maDataBlocs = {
  , "c1" : "00202"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN242700 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedVersionInfo@POLYN244012 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -501,7 +501,7 @@ var maDataBlocs = {
  , "c1" : "00225"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#225"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00225] For method embedDataBits list of called methods Object monObjet|int matrix_getWidthN244282|int matrix_getHeightN244383|boolean dataBits_getN245358"
+ , "c3" : "QC-JAV000007[00225] For method embedDataBits list of called methods Object monObjet|int matrix_getWidthN245594|int matrix_getHeightN245695|boolean dataBits_getN246670"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -522,105 +522,105 @@ var maDataBlocs = {
  , "c1" : "00227"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00230"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00235"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#235"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00235] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00237"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00237] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  'Not all bits consumed: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  'Not all bits consumed: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN243998 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDataBits@POLYN245310 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -634,21 +634,21 @@ var maDataBlocs = {
  , "c1" : "00280"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.findMSBSet@POLYN246443 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00280] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.findMSBSet@POLYN247755 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00281"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#281"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.findMSBSet@POLYN246443 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00281] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.findMSBSet@POLYN247755 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00282"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#282"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00282] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.findMSBSet@POLYN246443 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00282] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.findMSBSet@POLYN247755 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -662,14 +662,14 @@ var maDataBlocs = {
  , "c1" : "00311"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#311"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00311] For method calculateBCHCode list of called methods Object monObjet|int findMSBSetN246912"
+ , "c3" : "QC-JAV000007[00311] For method calculateBCHCode list of called methods Object monObjet|int findMSBSetN248224"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.calculateBCHCode@POLYN246788 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.calculateBCHCode@POLYN248100 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -683,7 +683,7 @@ var maDataBlocs = {
  , "c1" : "00329"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#329"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00329] For method makeTypeInfoBits list of called methods Object monObjet|int calculateBCHCodeN247910"
+ , "c3" : "QC-JAV000007[00329] For method makeTypeInfoBits list of called methods Object monObjet|int calculateBCHCodeN249222"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -704,49 +704,49 @@ var maDataBlocs = {
  , "c1" : "00332"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN247340 the MagicNumber/String  'Invalid mask pattern' should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN248652 the MagicNumber/String  'Invalid mask pattern' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00334"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#334"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00334] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN247340 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00334] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN248652 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00335"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#335"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00335] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN247340 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00335] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN248652 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00338"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#338"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00338] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN247340 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00338] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN248652 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00341"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00341] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN247340 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00341] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN248652 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00344"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00344] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN247340 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00344] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN248652 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00345"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN247340 the MagicNumber/String  'should not happen but we got: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeTypeInfoBits@POLYN248652 the MagicNumber/String  'should not happen but we got: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -760,7 +760,7 @@ var maDataBlocs = {
  , "c1" : "00351"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#351"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00351] For method makeVersionInfoBits list of called methods Object monObjet|int calculateBCHCodeN248768"
+ , "c3" : "QC-JAV000007[00351] For method makeVersionInfoBits list of called methods Object monObjet|int calculateBCHCodeN250080"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -774,28 +774,28 @@ var maDataBlocs = {
  , "c1" : "00352"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#352"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00352] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeVersionInfoBits@POLYN248541 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00352] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeVersionInfoBits@POLYN249853 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00354"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#354"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00354] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeVersionInfoBits@POLYN248541 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00354] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeVersionInfoBits@POLYN249853 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00356"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#356"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00356] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeVersionInfoBits@POLYN248541 the MagicNumber/String  18 should be converted to const"
+ , "c3" : "QC-JAV000010[00356] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeVersionInfoBits@POLYN249853 the MagicNumber/String  18 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00357"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#357"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00357] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeVersionInfoBits@POLYN248541 the MagicNumber/String  'should not happen but we got: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00357] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.makeVersionInfoBits@POLYN249853 the MagicNumber/String  'should not happen but we got: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -809,7 +809,7 @@ var maDataBlocs = {
  , "c1" : "00363"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#363"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00363] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.isEmpty@POLYN249165 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00363] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.isEmpty@POLYN250477 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -823,21 +823,21 @@ var maDataBlocs = {
  , "c1" : "00368"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#368"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00368] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.isValidValue@POLYN249311 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00368] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.isValidValue@POLYN250623 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#369"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.isValidValue@POLYN249311 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00369] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.isValidValue@POLYN250623 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00370"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#370"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00370] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.isValidValue@POLYN249311 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00370] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.isValidValue@POLYN250623 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -858,70 +858,70 @@ var maDataBlocs = {
  , "c1" : "00376"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#376"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00376] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00376] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00376"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#376"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00376] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00376] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00377"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#377"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00377] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00377] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00377"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#377"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00377] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00377] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00379"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#379"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00379] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00379] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00382"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#382"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00382] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00382] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00383"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#383"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00383] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00383] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00386"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#386"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00386] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00386] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00389"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#389"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00389] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00389] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00390"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#390"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00390] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN249563 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00390] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedTimingPatterns@POLYN250875 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -942,42 +942,42 @@ var maDataBlocs = {
  , "c1" : "00397"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#397"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00397] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN250922 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00397] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN252234 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00397"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#397"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00397] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN250922 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00397] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN252234 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00397"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#397"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00397] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN250922 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00397] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN252234 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00400"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#400"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00400] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN250922 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00400] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN252234 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00400"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#400"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00400] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN250922 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00400] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN252234 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00400"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#400"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00400] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN250922 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00400] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedDarkDotAtLeftBottomCorner@POLYN252234 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -998,49 +998,49 @@ var maDataBlocs = {
  , "c1" : "00406"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00406] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN251400 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00406] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN252712 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00406"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00406] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN251400 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00406] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN252712 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00406"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00406] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN251400 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00406] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN252712 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00407"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#407"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00407] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN251400 the MagicNumber/String  'Bad horizontal separation pattern' should be converted to const"
+ , "c3" : "QC-JAV000010[00407] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN252712 the MagicNumber/String  'Bad horizontal separation pattern' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00409"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#409"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN251400 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00409] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN252712 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00409"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#409"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN251400 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00409] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN252712 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00413"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN251400 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00413] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedHorizontalSeparationPattern@POLYN252712 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1061,49 +1061,49 @@ var maDataBlocs = {
  , "c1" : "00420"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#420"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00420] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN252366 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00420] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN253678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00420"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#420"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00420] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN252366 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00420] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN253678 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00420"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#420"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00420] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN252366 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00420] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN253678 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00421"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#421"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00421] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN252366 the MagicNumber/String  'Bad vertical separation pattern' should be converted to const"
+ , "c3" : "QC-JAV000010[00421] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN253678 the MagicNumber/String  'Bad vertical separation pattern' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00423"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#423"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00423] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN252366 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00423] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN253678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00423"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#423"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00423] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN252366 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00423] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN253678 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00427"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#427"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00427] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN252366 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00427] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedVerticalSeparationPattern@POLYN253678 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1124,56 +1124,56 @@ var maDataBlocs = {
  , "c1" : "00437"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#437"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00437] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN253332 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00437] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN254644 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00437"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#437"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00437] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN253332 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00437] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN254644 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00437"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#437"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00437] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN253332 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00437] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN254644 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00438"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#438"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00438] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN253332 the MagicNumber/String  'Bad position adjustment' should be converted to const"
+ , "c3" : "QC-JAV000010[00438] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN254644 the MagicNumber/String  'Bad position adjustment' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00440"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#440"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN253332 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00440] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN254644 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00440"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#440"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN253332 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00440] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN254644 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00441"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#441"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00441] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN253332 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00441] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN254644 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00441"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#441"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00441] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN253332 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00441] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionAdjustmentPattern@POLYN254644 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1194,56 +1194,56 @@ var maDataBlocs = {
  , "c1" : "00453"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#453"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00453] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN254510 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00453] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN255822 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00453"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#453"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00453] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN254510 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00453] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN255822 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00453"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#453"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00453] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN254510 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00453] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN255822 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00454"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#454"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00454] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN254510 the MagicNumber/String  'Bad position detection pattern' should be converted to const"
+ , "c3" : "QC-JAV000010[00454] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN255822 the MagicNumber/String  'Bad position detection pattern' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00456"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#456"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00456] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN254510 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00456] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN255822 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00456"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#456"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00456] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN254510 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00456] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN255822 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00457"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#457"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00457] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN254510 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00457] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN255822 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00457"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#457"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00457] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN254510 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00457] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPattern@POLYN255822 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1264,91 +1264,91 @@ var maDataBlocs = {
  , "c1" : "00469"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#469"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00469] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00469] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00471"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#471"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00471] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00471] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00471"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#471"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00471] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00471] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00473"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#473"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00473] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00473] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00475"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#475"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00475] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00475] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00478"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00478] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00478] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00480"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#480"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00480] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00480] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00480"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#480"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00480] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00480] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00483"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#483"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00483] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00483] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00485"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#485"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00485] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00485] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00490"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#490"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00490] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00490] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00492"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#492"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00492] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00492] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00492"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#492"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00492] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN255688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00492] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.embedPositionDetectionPatternsAndSeparators@POLYN257000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1369,56 +1369,56 @@ var maDataBlocs = {
  , "c1" : "00501"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#501"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00501] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN257336 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00501] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN258648 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00504"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#504"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00504] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN257336 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00504] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN258648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00507"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#507"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00507] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN257336 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00507] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN258648 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00508"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#508"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00508] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN257336 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00508] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN258648 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00511"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#511"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00511] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN257336 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00511] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN258648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00511"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#511"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00511] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN257336 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00511] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN258648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00518"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#518"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00518] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN257336 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00518] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN258648 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00518"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#518"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00518] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN257336 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00518] In method ext.plantuml.com.google.zxing.qrcode.encoder.MatrixUtil.maybeEmbedPositionAdjustmentPatterns@POLYN258648 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

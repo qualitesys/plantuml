@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.elk." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
@@ -57,10 +57,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/CucaDiagramFileMakerElk.java.html#36"
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/CucaDiagramFileMakerElk.java.html#94"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00036] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/elk/CucaDiagramFileMakerElk.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . elk ; import java "
+ , "c3" : "QC-JAV999999[00094] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/elk/CucaDiagramFileMakerElk.java near following tokens elk . graph . util . ElkGraphUtil ; ` */ import net . sourceforge . plantuml . elk . proxy . "
 }} 
 ]
 , 

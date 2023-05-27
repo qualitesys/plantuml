@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.cucadiagram." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
@@ -57,10 +57,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkHat.java.html#36"
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/LinkHat.java.html#38"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00036] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/cucadiagram/LinkHat.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . cucadiagram ; public enum "
+ , "c3" : "QC-JAV999999[00038] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/cucadiagram/LinkHat.java near following tokens */ package net . sourceforge . plantuml . cucadiagram ; public enum LinkHat { NONE /* ` * , SQUARE , "
 }} 
 ]
 , 

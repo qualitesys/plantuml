@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.webp." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
@@ -60,7 +60,7 @@ var maDataBlocs = {
  , "c1" : "00777"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/Globals.java.html#777"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00777] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/webp/Globals.java near following tokens gnu . org / licenses / _ . ` */ package net . sourceforge . plantuml . webp ; public class "
+ , "c3" : "QC-JAV999999[00777] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/webp/Globals.java near following tokens */ package net . sourceforge . plantuml . webp ; public class Globals { public static final int DC_PRED = 0 "
 }} 
 ]
 , 

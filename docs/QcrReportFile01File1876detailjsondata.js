@@ -113,7 +113,7 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor.apply@POLYN156347 the MagicNumber/String  'Authorization' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor.apply@POLYN157659 the MagicNumber/String  'Authorization' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -134,7 +134,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/OAuth2AccessInterceptor.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor.getAuth@POLYN156569 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.security.authentication.oauth.OAuth2AccessInterceptor.getAuth@POLYN157881 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
 , 

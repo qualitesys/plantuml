@@ -108,21 +108,21 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN158795 the MagicNumber/String  '(?:\\.{3}|\u2026)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN160107 the MagicNumber/String  '(?:\\.{3}|\u2026)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN158795 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN160107 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN158795 the MagicNumber/String  '(.*)(?:\\.{3}|\u2026)' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.getRegexConcat@POLYN160107 the MagicNumber/String  '(.*)(?:\\.{3}|\u2026)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -150,35 +150,35 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN159234 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN160546 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN159234 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN160546 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN159234 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN160546 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN159234 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN160546 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandDelay.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN159234 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.sequencediagram.command.CommandDelay.executeArg@POLYN160546 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

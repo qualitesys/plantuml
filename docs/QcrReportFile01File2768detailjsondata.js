@@ -108,28 +108,28 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.wire.CommandNewColumn.CommandNewColumn@POLYN157040 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.wire.CommandNewColumn.CommandNewColumn@POLYN158352 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.wire.CommandNewColumn.getRegexConcat@POLYN157186 the MagicNumber/String  'INDENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.wire.CommandNewColumn.getRegexConcat@POLYN158498 the MagicNumber/String  'INDENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.wire.CommandNewColumn.getRegexConcat@POLYN157186 the MagicNumber/String  '([\\s\\t]*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.wire.CommandNewColumn.getRegexConcat@POLYN158498 the MagicNumber/String  '([\\s\\t]*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.wire.CommandNewColumn.getRegexConcat@POLYN157186 the MagicNumber/String  '-+' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.wire.CommandNewColumn.getRegexConcat@POLYN158498 the MagicNumber/String  '-+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -157,14 +157,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.wire.CommandNewColumn.executeArg@POLYN157629 the MagicNumber/String  'INDENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.wire.CommandNewColumn.executeArg@POLYN158941 the MagicNumber/String  'INDENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/CommandNewColumn.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.wire.CommandNewColumn.executeArg@POLYN157629 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.wire.CommandNewColumn.executeArg@POLYN158941 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

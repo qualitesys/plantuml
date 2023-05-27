@@ -187,28 +187,28 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method gen.lib.cgraph.apply__c.subgraph_search@POLYN175111 the MagicNumber/String  '95y4aknoddh42lieikrb72vxw' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method gen.lib.cgraph.apply__c.subgraph_search@POLYN176423 the MagicNumber/String  '95y4aknoddh42lieikrb72vxw' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method gen.lib.cgraph.apply__c.subgraph_search@POLYN175111 the MagicNumber/String  'subgraph_search' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method gen.lib.cgraph.apply__c.subgraph_search@POLYN176423 the MagicNumber/String  'subgraph_search' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method gen.lib.cgraph.apply__c.subgraph_search@POLYN175111 the MagicNumber/String  '95y4aknoddh42lieikrb72vxw' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method gen.lib.cgraph.apply__c.subgraph_search@POLYN176423 the MagicNumber/String  '95y4aknoddh42lieikrb72vxw' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method gen.lib.cgraph.apply__c.subgraph_search@POLYN175111 the MagicNumber/String  'subgraph_search' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method gen.lib.cgraph.apply__c.subgraph_search@POLYN176423 the MagicNumber/String  'subgraph_search' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -250,42 +250,42 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String  '8s9l15wqucf1glmbeb6fmya8e' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String  '8s9l15wqucf1glmbeb6fmya8e' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String  'rec_apply' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String  'rec_apply' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String  '8s9l15wqucf1glmbeb6fmya8e' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String  '8s9l15wqucf1glmbeb6fmya8e' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String  'rec_apply' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String  'rec_apply' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -306,175 +306,175 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  '9hqql178zpl8iudlf6sgnv7aj' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  '9hqql178zpl8iudlf6sgnv7aj' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  'agapply' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  'agapply' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  'arkoj4niyfqe213zut6szzeji' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  'arkoj4niyfqe213zut6szzeji' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  '3h8kzrrsobdp839772gupdrbf' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  '3h8kzrrsobdp839772gupdrbf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  '2pc67byzirrkhe1cmdoguh6i1' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  '2pc67byzirrkhe1cmdoguh6i1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  '8d9xfgejx5vgd6shva5wk5k06' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  '8d9xfgejx5vgd6shva5wk5k06' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  '8d9xfgejx5vgd6shva5wk5k06' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  '8d9xfgejx5vgd6shva5wk5k06' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  'c24nfmv9i7o5eoqaymbibp7m7' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  'c24nfmv9i7o5eoqaymbibp7m7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  '9hqql178zpl8iudlf6sgnv7aj' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  '9hqql178zpl8iudlf6sgnv7aj' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN177325 the MagicNumber/String  'agapply' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method gen.lib.cgraph.apply__c.agapply@POLYN178637 the MagicNumber/String  'agapply' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.apply__c.rec_apply@POLYN175703"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.apply__c.rec_apply@POLYN177015"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.apply__c.subgraph_search@POLYN175111"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.apply__c.subgraph_search@POLYN176423"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String '8s9l15wqucf1glmbeb6fmya8e' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String '8s9l15wqucf1glmbeb6fmya8e' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String '8s9l15wqucf1glmbeb6fmya8e' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String '8s9l15wqucf1glmbeb6fmya8e' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String 'rec_apply' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String 'rec_apply' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String 'rec_apply' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String 'rec_apply' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#156"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN175703 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cgraph.apply__c.rec_apply@POLYN177015 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#80"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00080] In the recursive method gen.lib.cgraph.apply__c.subgraph_search@POLYN175111 the MagicNumber/String '95y4aknoddh42lieikrb72vxw' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00080] In the recursive method gen.lib.cgraph.apply__c.subgraph_search@POLYN176423 the MagicNumber/String '95y4aknoddh42lieikrb72vxw' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#80"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00080] In the recursive method gen.lib.cgraph.apply__c.subgraph_search@POLYN175111 the MagicNumber/String 'subgraph_search' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00080] In the recursive method gen.lib.cgraph.apply__c.subgraph_search@POLYN176423 the MagicNumber/String 'subgraph_search' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#84"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.cgraph.apply__c.subgraph_search@POLYN175111 the MagicNumber/String '95y4aknoddh42lieikrb72vxw' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.cgraph.apply__c.subgraph_search@POLYN176423 the MagicNumber/String '95y4aknoddh42lieikrb72vxw' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/gen/lib/cgraph/apply__c.java.html#84"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.cgraph.apply__c.subgraph_search@POLYN175111 the MagicNumber/String 'subgraph_search' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.cgraph.apply__c.subgraph_search@POLYN176423 the MagicNumber/String 'subgraph_search' MUST BE CONVERTED to const"
 }} 
 ]
 , 

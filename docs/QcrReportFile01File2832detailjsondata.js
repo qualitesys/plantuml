@@ -278,21 +278,21 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN163657 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN164969 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN163657 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN164969 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN163657 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.graphics.ShapePoint.isInLineWith@POLYN164969 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -313,49 +313,49 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN163985 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN165297 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN163985 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN165297 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN163985 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN165297 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN163985 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN165297 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN163985 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN165297 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN163985 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN165297 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN163985 the MagicNumber/String  'Cannot calculate is ShapePoint is within sloped edge' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method org.stathissideris.ascii2image.graphics.ShapePoint.isWithinEdge@POLYN165297 the MagicNumber/String  'Cannot calculate is ShapePoint is within sloped edge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -418,21 +418,21 @@ var maDataBlocs = {
  , "c1" : "00105"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN165820 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN167132 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN165820 the MagicNumber/String  ', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN167132 the MagicNumber/String  ', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN165820 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method org.stathissideris.ascii2image.graphics.ShapePoint.toString@POLYN167132 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -474,28 +474,28 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isEastOf@POLYN165650"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isEastOf@POLYN166962"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isNorthOf@POLYN165140"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isNorthOf@POLYN166452"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isSouthOf@POLYN165310"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isSouthOf@POLYN166622"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapePoint.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isWestOf@POLYN165480"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isWestOf@POLYN166792"
 }} 
 ]
 , 

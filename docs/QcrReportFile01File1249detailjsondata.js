@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.elk." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
@@ -57,10 +57,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/ElkPath.java.html#36"
+ , "c1" : "00067"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/ElkPath.java.html#67"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00036] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/elk/ElkPath.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . elk ; import java "
+ , "c3" : "QC-JAV999999[00067] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/elk/ElkPath.java near following tokens eclipse . elk . graph . ElkLabel ; ` */ import net . sourceforge . plantuml . elk . proxy . "
 }} 
 ]
 , 

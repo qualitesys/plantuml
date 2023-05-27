@@ -110,126 +110,126 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  '&amp;lt;b&amp;gt;Welcome to PlantUML!' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  '&amp;lt;b&amp;gt;Welcome to PlantUML!' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  'You can start with a simple UML Diagram like:' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  'You can start with a simple UML Diagram like:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  '\'\'Bob-&amp;gt;Alice: Hello\'\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  '\'\'Bob-&amp;gt;Alice: Hello\'\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  'Or' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  'Or' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  '\'\'class Example\'\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  '\'\'class Example\'\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  'You will find more information about PlantUML syntax on &amp;lt;u&amp;gt;https://plantuml.com&amp;lt;/u&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  'You will find more information about PlantUML syntax on &amp;lt;u&amp;gt;https://plantuml.com&amp;lt;/u&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  '(Details by typing \'\'license\'\' keyword)' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  '(Details by typing \'\'license\'\' keyword)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN161648 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.eggs.PSystemWelcome.PSystemWelcome@POLYN162960 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -243,14 +243,14 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.eggs.PSystemWelcome.getGraphicStrings@POLYN163411 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.eggs.PSystemWelcome.getGraphicStrings@POLYN164723 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcome.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.eggs.PSystemWelcome.getDescription@POLYN163748 the MagicNumber/String  '(Empty)' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.eggs.PSystemWelcome.getDescription@POLYN165060 the MagicNumber/String  '(Empty)' should be converted to const"
 }} 
 ]
 , 

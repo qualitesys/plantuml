@@ -168,14 +168,14 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.CucaDiagramSimplifierState@POLYN165098 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.CucaDiagramSimplifierState@POLYN166410 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.CucaDiagramSimplifierState@POLYN165098 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.CucaDiagramSimplifierState@POLYN166410 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -196,28 +196,28 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.getOrdered@POLYN166210 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.getOrdered@POLYN167522 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.getOrdered@POLYN166210 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.getOrdered@POLYN167522 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.getOrdered@POLYN166210 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.getOrdered@POLYN167522 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.getOrdered@POLYN166210 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.getOrdered@POLYN167522 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -252,7 +252,7 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.reverse@POLYN167664 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState.reverse@POLYN168976 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

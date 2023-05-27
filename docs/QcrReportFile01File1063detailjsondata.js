@@ -106,287 +106,287 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '^--([^-]*)--$' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '^--([^-]*)--$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '^==([^=]*)==$' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '^==([^=]*)==$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '^===*==$' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '^===*==$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '^\\.\\.([^\\.]*)\\.\\.$' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '^\\.\\.([^\\.]*)\\.\\.$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '^(\\*+)([^*]+(?:[^*]|\\*\\*[^*]+\\*\\*)*)$' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '^(\\*+)([^*]+(?:[^*]|\\*\\*[^*]+\\*\\*)*)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '^(\\*+)([%s].+)$' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '^(\\*+)([%s].+)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '^(#+)(.+)$' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '^(#+)(.+)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '^(=+)(.+)$' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '^(=+)(.+)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/CreoleStripeSimpleParser.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN176179 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.creole.legacy.CreoleStripeSimpleParser.CreoleStripeSimpleParser@POLYN177491 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

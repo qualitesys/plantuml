@@ -108,21 +108,21 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.getRegexConcat@POLYN160995 the MagicNumber/String  '\\&amp;lt;\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.getRegexConcat@POLYN162307 the MagicNumber/String  '\\&amp;lt;\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.getRegexConcat@POLYN160995 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.getRegexConcat@POLYN162307 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.getRegexConcat@POLYN160995 the MagicNumber/String  '([%pLN_.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.getRegexConcat@POLYN162307 the MagicNumber/String  '([%pLN_.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -150,28 +150,28 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.executeArg@POLYN161438 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.executeArg@POLYN162750 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.executeArg@POLYN161438 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.executeArg@POLYN162750 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.executeArg@POLYN161438 the MagicNumber/String  'Already existing : ' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.executeArg@POLYN162750 the MagicNumber/String  'Already existing : ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandDiamondAssociation.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.executeArg@POLYN161438 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation.executeArg@POLYN162750 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

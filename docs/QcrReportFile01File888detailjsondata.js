@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.code." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
@@ -57,10 +57,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00036"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionBrotli.java.html#36"
+ , "c1" : "00046"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionBrotli.java.html#46"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00036] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/code/CompressionBrotli.java near following tokens Author : Arnaud Roques ` * ` * ` */ package net . sourceforge . plantuml . code ; import java "
+ , "c3" : "QC-JAV999999[00046] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/code/CompressionBrotli.java near following tokens net . sourceforge . plantuml . log . Logme ; public class CompressionBrotli implements Compression { public byte [ ] compress "
 }} 
 ]
 , 

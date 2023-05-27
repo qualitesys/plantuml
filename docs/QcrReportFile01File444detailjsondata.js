@@ -336,14 +336,14 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.SourceStringReader.SourceStringReader@POLYN185261 the MagicNumber/String  'string' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.SourceStringReader.SourceStringReader@POLYN186573 the MagicNumber/String  'string' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.SourceStringReader.SourceStringReader@POLYN185261 the MagicNumber/String  'error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.SourceStringReader.SourceStringReader@POLYN186573 the MagicNumber/String  'error ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -364,7 +364,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN186206 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN187518 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -385,7 +385,7 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN186566 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN187878 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -406,7 +406,7 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN187070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN188382 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -455,28 +455,28 @@ var maDataBlocs = {
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN188069 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN189381 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN188069 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN189381 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN188069 the MagicNumber/String  'numImage is too big = ' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN189381 the MagicNumber/String  'numImage is too big = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN188069 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.SourceStringReader.outputImage@POLYN189381 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -497,35 +497,35 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN189119 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN190431 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN189119 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN190431 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN189119 the MagicNumber/String  'numImage is too big = ' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN190431 the MagicNumber/String  'numImage is too big = ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN189119 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN190431 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN189884 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN191196 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -539,7 +539,7 @@ var maDataBlocs = {
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN190003 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.SourceStringReader.generateDiagramDescription@POLYN191315 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -574,35 +574,35 @@ var maDataBlocs = {
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN190373 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN191685 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00213"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN190373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN191685 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN190373 the MagicNumber/String  'plantuml' should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN191685 the MagicNumber/String  'plantuml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN190373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN191685 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN190373 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.SourceStringReader.getCMapData@POLYN191685 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -623,7 +623,7 @@ var maDataBlocs = {
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceStringReader.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.SourceStringReader.noStartumlFound@POLYN191329 the MagicNumber/String  'No @startuml/@enduml found' should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.SourceStringReader.noStartumlFound@POLYN192641 the MagicNumber/String  'No @startuml/@enduml found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

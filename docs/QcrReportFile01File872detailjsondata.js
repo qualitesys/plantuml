@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.classdiagram.command." , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]
@@ -57,10 +57,10 @@ var maDataBlocs = {
 ,
 "data13b" : [
 { "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java.html#37"
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java.html#68"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999999[00037] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java near following tokens Contribution : Hisashi Miyashita ` * ` * ` */ package net . sourceforge . plantuml . classdiagram . command ; "
+ , "c3" : "QC-JAV999999[00068] syntax analysis failed on file /home/runner/work/plantuml/plantuml/src/net/sourceforge/plantuml/classdiagram/command/CommandLinkClass.java near following tokens sourceforge . plantuml . ugraphic . color . NoSuchColorException ; final public class CommandLinkClass extends SingleLineCommand2 _ AbstractClassOrObjectDiagram _ { private "
 }} 
 ]
 , 

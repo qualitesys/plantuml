@@ -239,21 +239,21 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.clearScreen@POLYN185288 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.clearScreen@POLYN186600 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.clearScreen@POLYN185288 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.clearScreen@POLYN186600 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.clearScreen@POLYN185288 the MagicNumber/String  90 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.clearScreen@POLYN186600 the MagicNumber/String  90 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -267,7 +267,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.dtor@POLYN185662 the MagicNumber/String  180.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.dtor@POLYN186974 the MagicNumber/String  180.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -288,350 +288,350 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  4.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  4.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  90 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  90 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  'OliveDrab' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  'OliveDrab' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN185816 the MagicNumber/String  'MediumSpringGreen' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.drawTurtle@POLYN187128 the MagicNumber/String  'MediumSpringGreen' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.showTurtle@POLYN190471 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.showTurtle@POLYN191783 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.hideTurtle@POLYN190568 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.hideTurtle@POLYN191880 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -673,28 +673,28 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.left@POLYN192151 the MagicNumber/String  360 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.left@POLYN193463 the MagicNumber/String  360 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.left@POLYN192151 the MagicNumber/String  360 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.left@POLYN193463 the MagicNumber/String  360 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.left@POLYN192151 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.left@POLYN193463 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.left@POLYN192151 the MagicNumber/String  360 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.left@POLYN193463 the MagicNumber/String  360 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -708,14 +708,14 @@ var maDataBlocs = {
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.penUp@POLYN192667 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.penUp@POLYN193979 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.penDown@POLYN192764 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.penDown@POLYN194076 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -757,28 +757,28 @@ var maDataBlocs = {
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.paint@POLYN192861 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.paint@POLYN194173 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.paint@POLYN192861 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.paint@POLYN194173 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.paint@POLYN192861 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.paint@POLYN194173 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TurtleGraphicsPane.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.paint@POLYN192861 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.logo.TurtleGraphicsPane.paint@POLYN194173 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

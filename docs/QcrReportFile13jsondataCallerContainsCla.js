@@ -6978,7 +6978,6 @@ var datadependCallerContainsCla = { "lesdatas" : [
 { "start" : "net.sourceforge.plantuml.mindmap.Finger" , "end" : "void"} ,
 { "start" : "net.sourceforge.plantuml.mindmap.Branch" , "end" : "net.sourceforge.plantuml.mindmap.Finger"} ,
 { "start" : "net.sourceforge.plantuml.mindmap.Branch" , "end" : "net.sourceforge.plantuml.mindmap.Idea"} ,
-{ "start" : "net.sourceforge.plantuml.mindmap.Branch" , "end" : "net.sourceforge.plantuml.mindmap.Idea"} ,
 { "start" : "net.sourceforge.plantuml.mindmap.Branch" , "end" : "net.sourceforge.plantuml.graphic.UDrawable"} ,
 { "start" : "net.sourceforge.plantuml.mindmap.Branch" , "end" : "net.sourceforge.plantuml.mindmap.Branch"} ,
 { "start" : "net.sourceforge.plantuml.mindmap.CommandMindMapDirection" , "end" : "java.lang.Object"} ,

@@ -135,70 +135,70 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN157895 the MagicNumber/String  '!' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN159207 the MagicNumber/String  '!' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN157895 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN159207 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN157895 the MagicNumber/String  'unquoted' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN159207 the MagicNumber/String  'unquoted' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN157895 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN159207 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN157895 the MagicNumber/String  'final' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN159207 the MagicNumber/String  'final' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN157895 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN159207 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN157895 the MagicNumber/String  'function' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.analyze@POLYN159207 the MagicNumber/String  'function' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.peekUnquoted@POLYN158994 the MagicNumber/String  'u' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.peekUnquoted@POLYN160306 the MagicNumber/String  'u' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.peekFinal@POLYN159116 the MagicNumber/String  'f' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.peekFinal@POLYN160428 the MagicNumber/String  'f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterDeclareReturnFunction.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.peekFinal@POLYN159116 the MagicNumber/String  'i' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.EaterDeclareReturnFunction.peekFinal@POLYN160428 the MagicNumber/String  'i' should be converted to const"
 }} 
 ]
 , 

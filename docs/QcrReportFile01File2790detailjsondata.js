@@ -186,14 +186,14 @@ var maDataBlocs = {
  , "c1" : "00034"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.setAttributes@POLYN149815 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.setAttributes@POLYN151127 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.setAttributes@POLYN149815 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.setAttributes@POLYN151127 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -214,7 +214,7 @@ var maDataBlocs = {
  , "c1" : "00040"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.getDisplayString@POLYN150198 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.getDisplayString@POLYN151510 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -242,7 +242,7 @@ var maDataBlocs = {
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagram.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.getXmiId@POLYN150389 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.xmi.XmiSequenceDiagram.getXmiId@POLYN151701 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

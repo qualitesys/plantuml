@@ -151,28 +151,28 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.ComponentRoseParticipant@POLYN170489 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.ComponentRoseParticipant@POLYN171801 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.ComponentRoseParticipant@POLYN170489 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.ComponentRoseParticipant@POLYN171801 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.ComponentRoseParticipant@POLYN170489 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.ComponentRoseParticipant@POLYN171801 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.ComponentRoseParticipant@POLYN170489 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.ComponentRoseParticipant@POLYN171801 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -193,35 +193,35 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.drawInternalU@POLYN171872 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.drawInternalU@POLYN173184 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.drawInternalU@POLYN171872 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.drawInternalU@POLYN173184 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.drawInternalU@POLYN171872 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.drawInternalU@POLYN173184 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.getDeltaCollection@POLYN173815 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.getDeltaCollection@POLYN175127 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.getDeltaCollection@POLYN173815 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.getDeltaCollection@POLYN175127 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -235,7 +235,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.getPreferredHeight@POLYN173986 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.getPreferredHeight@POLYN175298 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -249,7 +249,7 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseParticipant.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.getPreferredWidth@POLYN174219 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.skin.rose.ComponentRoseParticipant.getPreferredWidth@POLYN175531 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

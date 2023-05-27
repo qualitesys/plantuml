@@ -113,21 +113,21 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.brotli.Dictionary.setData@POLYN151221 the MagicNumber/String  'data must be a direct read-only byte buffer' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.brotli.Dictionary.setData@POLYN152533 the MagicNumber/String  'data must be a direct read-only byte buffer' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.brotli.Dictionary.getData@POLYN151564 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.brotli.Dictionary.getData@POLYN152876 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/brotli/Dictionary.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.brotli.Dictionary.getData@POLYN151564 the MagicNumber/String  'brotli dictionary is not set' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.brotli.Dictionary.getData@POLYN152876 the MagicNumber/String  'brotli dictionary is not set' should be converted to const"
 }} 
 ]
 , 

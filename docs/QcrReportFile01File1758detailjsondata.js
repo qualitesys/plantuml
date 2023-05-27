@@ -101,14 +101,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.SubjectLinks.toRegex@POLYN157609 the MagicNumber/String  'SUBJECT' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.SubjectLinks.toRegex@POLYN158921 the MagicNumber/String  'SUBJECT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectLinks.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.SubjectLinks.toRegex@POLYN157609 the MagicNumber/String  'links?' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.SubjectLinks.toRegex@POLYN158921 the MagicNumber/String  'links?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

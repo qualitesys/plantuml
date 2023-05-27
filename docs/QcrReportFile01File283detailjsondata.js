@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00068] For method getHorizontalAnchor list of called methods Object monObjet|java.lang.String config_getN171547"
+ , "c3" : "QC-JAV000007[00068] For method getHorizontalAnchor list of called methods Object monObjet|java.lang.String config_getN172859"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -152,21 +152,21 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN171341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN172653 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN171341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN172653 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN171341 the MagicNumber/String  'Invalid horizontal anchor.' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method jcckit.graphic.Anchor.getHorizontalAnchor@POLYN172653 the MagicNumber/String  'Invalid horizontal anchor.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -180,7 +180,7 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#100"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00100] For method getVerticalAnchor list of called methods Object monObjet|java.lang.String config_getN173034"
+ , "c3" : "QC-JAV000007[00100] For method getVerticalAnchor list of called methods Object monObjet|java.lang.String config_getN174346"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -194,21 +194,21 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN172828 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN174140 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN172828 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN174140 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/jcckit/graphic/Anchor.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN172828 the MagicNumber/String  'Invalid vertcal anchor.' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method jcckit.graphic.Anchor.getVerticalAnchor@POLYN174140 the MagicNumber/String  'Invalid vertcal anchor.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -154,14 +154,14 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.addState@POLYN163691 the MagicNumber/String  'COMMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.addState@POLYN165003 the MagicNumber/String  'COMMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.addState@POLYN163691 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.addState@POLYN165003 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -182,168 +182,168 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  'STATE7' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  'STATE7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  'STATE7' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  'STATE7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  'STATE7' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  'STATE7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  'STATE' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  'STATE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN164388 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStates@POLYN165700 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  'STATE1' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  'STATE1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  '[%g]([^%g]*)[%g]' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  '[%g]([^%g]*)[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  'STATE2' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  'STATE2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  'STATE3' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  'STATE3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  '(\\{hidden\\})' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  '(\\{hidden\\})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  'STATE4' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  'STATE4' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  '(\\{\\.\\.\\.\\})' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  '(\\{\\.\\.\\.\\})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  'STATE5' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  'STATE5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  '(\\{-\\})' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  '(\\{-\\})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  'STATE6' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  'STATE6' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  '(\\{\\?\\})' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  '(\\{\\?\\})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  'STATE7' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  'STATE7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  '(?:\\{' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  '(?:\\{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandChangeState.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN165111 the MagicNumber/String  '\\})' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.timingdiagram.command.CommandChangeState.getStateOrHidden@POLYN166423 the MagicNumber/String  '\\})' should be converted to const"
 }} 
 ]
 , 

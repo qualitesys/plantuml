@@ -246,7 +246,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.SourceFileReaderAbstract.SourceFileReaderAbstract@POLYN182396 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.SourceFileReaderAbstract.SourceFileReaderAbstract@POLYN183708 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -267,14 +267,14 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.SourceFileReaderAbstract.hasError@POLYN183532 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.SourceFileReaderAbstract.hasError@POLYN184844 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.SourceFileReaderAbstract.hasError@POLYN183532 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.SourceFileReaderAbstract.hasError@POLYN184844 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -309,14 +309,14 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.SourceFileReaderAbstract.endsWithSlashOrAntislash@POLYN184533 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.SourceFileReaderAbstract.endsWithSlashOrAntislash@POLYN185845 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.SourceFileReaderAbstract.endsWithSlashOrAntislash@POLYN184533 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.SourceFileReaderAbstract.endsWithSlashOrAntislash@POLYN185845 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -344,21 +344,21 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN184766 the MagicNumber/String  'Crash Error' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN186078 the MagicNumber/String  'Crash Error' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN184766 the MagicNumber/String  42 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN186078 the MagicNumber/String  42 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN184766 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getCrashedImage@POLYN186078 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -379,35 +379,35 @@ var maDataBlocs = {
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN185548 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN186860 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN185548 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN186860 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN185548 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN186860 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN185548 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN186860 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN185548 the MagicNumber/String  '.err' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.SourceFileReaderAbstract.exportWarnOrErrIfWord@POLYN186860 the MagicNumber/String  '.err' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -512,77 +512,77 @@ var maDataBlocs = {
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  'Reading file: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  'Reading file: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  '] ' should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  '] ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderAbstract.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN186539 the MagicNumber/String  'Number of image(s): ' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.SourceFileReaderAbstract.getGeneratedImages@POLYN187851 the MagicNumber/String  'Number of image(s): ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

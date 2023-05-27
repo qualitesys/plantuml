@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckit.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.jcckit.PSystemJcckit.exportDiagramNow@POLYN160312 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.jcckit.PSystemJcckit.exportDiagramNow@POLYN161624 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jcckit/PSystemJcckit.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.jcckit.PSystemJcckit.getDescription@POLYN161180 the MagicNumber/String  '(JCCKit)' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.jcckit.PSystemJcckit.getDescription@POLYN162492 the MagicNumber/String  '(JCCKit)' should be converted to const"
 }} 
 ]
 , 

@@ -384,7 +384,7 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.TitledDiagram.TitledDiagram@POLYN185012 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.TitledDiagram.TitledDiagram@POLYN186324 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -412,21 +412,21 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN186231 the MagicNumber/String  '.skin' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN187543 the MagicNumber/String  '.skin' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN186231 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN187543 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN186231 the MagicNumber/String  'Cannot find style ' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.TitledDiagram.loadSkin@POLYN187543 the MagicNumber/String  'Cannot find style ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -447,14 +447,14 @@ var maDataBlocs = {
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.TitledDiagram.getTitleDisplay@POLYN187247 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.TitledDiagram.getTitleDisplay@POLYN188559 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.TitledDiagram.getTitleDisplay@POLYN187247 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.TitledDiagram.getTitleDisplay@POLYN188559 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -496,21 +496,21 @@ var maDataBlocs = {
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.TitledDiagram.isUseElk@POLYN188626 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.TitledDiagram.isUseElk@POLYN189938 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.TitledDiagram.isUseSmetana@POLYN188791 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.TitledDiagram.isUseSmetana@POLYN190103 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00252"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.TitledDiagram.getDefaultMargins@POLYN188960 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.TitledDiagram.getDefaultMargins@POLYN190272 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -531,7 +531,7 @@ var maDataBlocs = {
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.TitledDiagram.calculateBackColor@POLYN189698 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.TitledDiagram.calculateBackColor@POLYN191010 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -545,63 +545,63 @@ var maDataBlocs = {
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  'dark' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  'dark' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  'mode' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  'mode' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00288"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  'monochrome' should be converted to const"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  'monochrome' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  'reverse' should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  'reverse' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  'reversecolor' should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  'reversecolor' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  'dark' should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  'dark' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN190387 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.TitledDiagram.muteColorMapper@POLYN191699 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

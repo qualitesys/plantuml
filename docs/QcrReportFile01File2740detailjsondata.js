@@ -108,49 +108,49 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN155826 the MagicNumber/String  'ch.braincell.viz.VizJS' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN157138 the MagicNumber/String  'ch.braincell.viz.VizJS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN155826 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN157138 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN155826 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.vizjs.VizJsEngine.isOk@POLYN157138 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN156199 the MagicNumber/String  'ch.braincell.viz.VizJS' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN157511 the MagicNumber/String  'ch.braincell.viz.VizJS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN156199 the MagicNumber/String  'create' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN157511 the MagicNumber/String  'create' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN156199 the MagicNumber/String  'execute' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN157511 the MagicNumber/String  'execute' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/vizjs/VizJsEngine.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN156199 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.vizjs.VizJsEngine.VizJsEngine@POLYN157511 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

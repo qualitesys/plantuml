@@ -126,7 +126,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Divider.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.Divider.dealWith@POLYN157098 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.Divider.dealWith@POLYN158410 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

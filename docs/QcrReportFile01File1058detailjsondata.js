@@ -135,7 +135,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.startingChars@POLYN161452 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.startingChars@POLYN162764 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -149,21 +149,21 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.matchingSize@POLYN162377 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.matchingSize@POLYN163689 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.matchingSize@POLYN162377 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.matchingSize@POLYN163689 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.matchingSize@POLYN162377 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.matchingSize@POLYN163689 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -191,42 +191,42 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN162778 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN164090 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN162778 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN164090 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN162778 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN164090 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN162778 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN164090 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN162778 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN164090 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleSvgAttributeChange.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN162778 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.creole.command.CommandCreoleSvgAttributeChange.executeAndGetRemaining@POLYN164090 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

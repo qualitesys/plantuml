@@ -345,28 +345,28 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.Stereotype.checkLabel@POLYN182303 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.Stereotype.checkLabel@POLYN183615 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.Stereotype.checkLabel@POLYN182303 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.Stereotype.checkLabel@POLYN183615 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.Stereotype.checkLabel@POLYN182303 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.Stereotype.checkLabel@POLYN183615 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.Stereotype.checkLabel@POLYN182303 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.cucadiagram.Stereotype.checkLabel@POLYN183615 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -380,7 +380,7 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.Stereotype.build@POLYN182636 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.cucadiagram.Stereotype.build@POLYN183948 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -394,14 +394,14 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.Stereotype.build@POLYN182804 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.Stereotype.build@POLYN184116 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.Stereotype.build@POLYN182804 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.Stereotype.build@POLYN184116 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -415,7 +415,7 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.cucadiagram.Stereotype.build@POLYN183236 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.cucadiagram.Stereotype.build@POLYN184548 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -429,77 +429,77 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN183938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN185250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN183938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN185250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN183938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN185250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN183938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN185250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN183938 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getSprite@POLYN185250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isWithOOSymbol@POLYN184476 the MagicNumber/String  '&amp;lt;&amp;lt;O-O&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isWithOOSymbol@POLYN185788 the MagicNumber/String  '&amp;lt;&amp;lt;O-O&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getMultipleLabels@POLYN184671 the MagicNumber/String  '\\&amp;lt;\\&amp;lt;\\s?((?:\\&amp;lt;&amp;\\w+\\&amp;gt;|[^&amp;lt;&amp;gt;])+?)\\s?\\&amp;gt;\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getMultipleLabels@POLYN185983 the MagicNumber/String  '\\&amp;lt;\\&amp;lt;\\s?((?:\\&amp;lt;&amp;\\w+\\&amp;gt;|[^&amp;lt;&amp;gt;])+?)\\s?\\&amp;gt;\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getMultipleLabels@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getMultipleLabels@POLYN185983 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isSpotted@POLYN185286 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isSpotted@POLYN186598 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.cucadiagram.Stereotype.toString@POLYN185418 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.cucadiagram.Stereotype.toString@POLYN186730 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.cucadiagram.Stereotype.toString@POLYN185418 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.cucadiagram.Stereotype.toString@POLYN186730 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -534,42 +534,42 @@ var maDataBlocs = {
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN186333 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN187645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN186333 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN187645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN186333 the MagicNumber/String  'archimate/' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN187645 the MagicNumber/String  'archimate/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN186333 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN187645 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN186333 the MagicNumber/String  'archimate/' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN187645 the MagicNumber/String  'archimate/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN186333 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabel@POLYN187645 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -583,7 +583,7 @@ var maDataBlocs = {
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabels@POLYN186955 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getLabels@POLYN188267 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -611,168 +611,168 @@ var maDataBlocs = {
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getStyles@POLYN187357 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getStyles@POLYN188669 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN188083 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN189395 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN188083 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN189395 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN188083 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN189395 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN188083 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN189395 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN188083 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.cucadiagram.Stereotype.getPackageStyle@POLYN189395 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isBiddableOrUncertain@POLYN188556 the MagicNumber/String  '&amp;lt;&amp;lt;B&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isBiddableOrUncertain@POLYN189868 the MagicNumber/String  '&amp;lt;&amp;lt;B&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isBiddableOrUncertain@POLYN188556 the MagicNumber/String  '&amp;lt;&amp;lt;Biddable&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isBiddableOrUncertain@POLYN189868 the MagicNumber/String  '&amp;lt;&amp;lt;Biddable&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isBiddableOrUncertain@POLYN188556 the MagicNumber/String  '&amp;lt;&amp;lt;Uncertain&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isBiddableOrUncertain@POLYN189868 the MagicNumber/String  '&amp;lt;&amp;lt;Uncertain&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isCausal@POLYN188833 the MagicNumber/String  '&amp;lt;&amp;lt;C&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isCausal@POLYN190145 the MagicNumber/String  '&amp;lt;&amp;lt;C&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isCausal@POLYN188833 the MagicNumber/String  '&amp;lt;&amp;lt;Causal&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isCausal@POLYN190145 the MagicNumber/String  '&amp;lt;&amp;lt;Causal&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isLexicalOrGiven@POLYN189039 the MagicNumber/String  '&amp;lt;&amp;lt;L&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isLexicalOrGiven@POLYN190351 the MagicNumber/String  '&amp;lt;&amp;lt;L&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isLexicalOrGiven@POLYN189039 the MagicNumber/String  '&amp;lt;&amp;lt;Lexical&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isLexicalOrGiven@POLYN190351 the MagicNumber/String  '&amp;lt;&amp;lt;Lexical&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isLexicalOrGiven@POLYN189039 the MagicNumber/String  '&amp;lt;&amp;lt;X&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isLexicalOrGiven@POLYN190351 the MagicNumber/String  '&amp;lt;&amp;lt;X&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isLexicalOrGiven@POLYN189039 the MagicNumber/String  '&amp;lt;&amp;lt;Given&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isLexicalOrGiven@POLYN190351 the MagicNumber/String  '&amp;lt;&amp;lt;Given&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isDesignedOrSolved@POLYN189387 the MagicNumber/String  '&amp;lt;&amp;lt;D&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isDesignedOrSolved@POLYN190699 the MagicNumber/String  '&amp;lt;&amp;lt;D&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isDesignedOrSolved@POLYN189387 the MagicNumber/String  '&amp;lt;&amp;lt;Designed&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isDesignedOrSolved@POLYN190699 the MagicNumber/String  '&amp;lt;&amp;lt;Designed&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isDesignedOrSolved@POLYN189387 the MagicNumber/String  '&amp;lt;&amp;lt;Nested&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isDesignedOrSolved@POLYN190699 the MagicNumber/String  '&amp;lt;&amp;lt;Nested&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isDesignedOrSolved@POLYN189387 the MagicNumber/String  '&amp;lt;&amp;lt;Solved&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isDesignedOrSolved@POLYN190699 the MagicNumber/String  '&amp;lt;&amp;lt;Solved&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN189735 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN191047 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN189735 the MagicNumber/String  '&amp;lt;&amp;lt;Machine&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN191047 the MagicNumber/String  '&amp;lt;&amp;lt;Machine&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN189735 the MagicNumber/String  '&amp;lt;&amp;lt;S&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN191047 the MagicNumber/String  '&amp;lt;&amp;lt;S&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN189735 the MagicNumber/String  '&amp;lt;&amp;lt;Spec&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN191047 the MagicNumber/String  '&amp;lt;&amp;lt;Spec&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereotype.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN189735 the MagicNumber/String  '&amp;lt;&amp;lt;Specification&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.cucadiagram.Stereotype.isMachineOrSpecification@POLYN191047 the MagicNumber/String  '&amp;lt;&amp;lt;Specification&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ]
 , 
