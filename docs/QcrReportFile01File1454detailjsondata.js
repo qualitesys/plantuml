@@ -376,14 +376,14 @@ var maDataBlocs = {
  , "c1" : "00443"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#443"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00443] In method net.sourceforge.plantuml.json.JsonParser.JsonParser@POLYN215956 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00443] In method net.sourceforge.plantuml.json.JsonParser.JsonParser@POLYN216660 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.JsonParser@POLYN215956 the MagicNumber/String  'handler is null' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.JsonParser@POLYN216660 the MagicNumber/String  'handler is null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -397,14 +397,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN216552 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN217256 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN216552 the MagicNumber/String  'string is null' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN217256 the MagicNumber/String  'string is null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -425,245 +425,245 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  'reader is null' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  'reader is null' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  'buffersize is zero or negative' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  'buffersize is zero or negative' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218241 the MagicNumber/String  'Unexpected character' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.parse@POLYN218945 the MagicNumber/String  'Unexpected character' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  'n' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  'n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  't' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  't' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  'f' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  'f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '1' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '2' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '3' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '4' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '4' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '5' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '5' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '6' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '6' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '7' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '8' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  '9' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  '9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN219509 the MagicNumber/String  'value' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readValue@POLYN220213 the MagicNumber/String  'value' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN220725 the MagicNumber/String  'Nesting too deep' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN221429 the MagicNumber/String  'Nesting too deep' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN220725 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN221429 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN220725 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN221429 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN220725 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN221429 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN220725 the MagicNumber/String  '',' or ']'' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readArray@POLYN221429 the MagicNumber/String  '',' or ']'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -677,147 +677,147 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN221932 the MagicNumber/String  'Nesting too deep' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN222636 the MagicNumber/String  'Nesting too deep' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN221932 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN222636 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN221932 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN222636 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN221932 the MagicNumber/String  '':'' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN222636 the MagicNumber/String  '':'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN221932 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN222636 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN221932 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN222636 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN221932 the MagicNumber/String  '',' or '}'' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readObject@POLYN222636 the MagicNumber/String  '',' or '}'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readName@POLYN223672 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readName@POLYN224376 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readName@POLYN223672 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readName@POLYN224376 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNull@POLYN223916 the MagicNumber/String  'u' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNull@POLYN224620 the MagicNumber/String  'u' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNull@POLYN223916 the MagicNumber/String  'l' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNull@POLYN224620 the MagicNumber/String  'l' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNull@POLYN223916 the MagicNumber/String  'l' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNull@POLYN224620 the MagicNumber/String  'l' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readTrue@POLYN224312 the MagicNumber/String  'r' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readTrue@POLYN225016 the MagicNumber/String  'r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readTrue@POLYN224312 the MagicNumber/String  'u' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readTrue@POLYN225016 the MagicNumber/String  'u' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readTrue@POLYN224312 the MagicNumber/String  'e' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readTrue@POLYN225016 the MagicNumber/String  'e' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readTrue@POLYN224312 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readTrue@POLYN225016 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN224729 the MagicNumber/String  'a' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN225433 the MagicNumber/String  'a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN224729 the MagicNumber/String  'l' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN225433 the MagicNumber/String  'l' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN224729 the MagicNumber/String  's' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN225433 the MagicNumber/String  's' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN224729 the MagicNumber/String  'e' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN225433 the MagicNumber/String  'e' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN224729 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFalse@POLYN225433 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -831,280 +831,280 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readRequiredChar@POLYN225211 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readRequiredChar@POLYN225915 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readRequiredChar@POLYN225211 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readRequiredChar@POLYN225915 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readStringInternal@POLYN225686 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readStringInternal@POLYN226390 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readStringInternal@POLYN225686 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readStringInternal@POLYN226390 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readStringInternal@POLYN225686 the MagicNumber/String  0x20 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readStringInternal@POLYN226390 the MagicNumber/String  0x20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readStringInternal@POLYN225686 the MagicNumber/String  'valid string character' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readStringInternal@POLYN226390 the MagicNumber/String  'valid string character' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  '\b' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  '\b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  'f' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  'f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  '\f' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  '\f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  'n' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  'n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  'r' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  'r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  '\r' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  't' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  't' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  'u' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  'u' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  'hexadecimal digit' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  'hexadecimal digit' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN226463 the MagicNumber/String  'valid escape sequence' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readEscape@POLYN227167 the MagicNumber/String  'valid escape sequence' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNumber@POLYN228361 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNumber@POLYN229065 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNumber@POLYN228361 the MagicNumber/String  'digit' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNumber@POLYN229065 the MagicNumber/String  'digit' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNumber@POLYN228361 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readNumber@POLYN229065 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFraction@POLYN229090 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFraction@POLYN229794 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFraction@POLYN229090 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFraction@POLYN229794 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFraction@POLYN229090 the MagicNumber/String  'digit' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFraction@POLYN229794 the MagicNumber/String  'digit' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFraction@POLYN229090 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readFraction@POLYN229794 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN229522 the MagicNumber/String  'e' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN230226 the MagicNumber/String  'e' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN229522 the MagicNumber/String  'E' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN230226 the MagicNumber/String  'E' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN229522 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN230226 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN229522 the MagicNumber/String  '+' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN230226 the MagicNumber/String  '+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN229522 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN230226 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN229522 the MagicNumber/String  'digit' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN230226 the MagicNumber/String  'digit' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN229522 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readExponent@POLYN230226 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1118,154 +1118,154 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readChar@POLYN230177 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readChar@POLYN230881 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readChar@POLYN230177 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readChar@POLYN230881 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readDigit@POLYN230452 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readDigit@POLYN231156 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readDigit@POLYN230452 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.readDigit@POLYN231156 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN230857 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN231561 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN230857 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN231561 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN230857 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN231561 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN230857 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN231561 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN230857 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN231561 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN230857 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN231561 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN230857 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.read@POLYN231561 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.startCapture@POLYN231997 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.startCapture@POLYN232701 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.startCapture@POLYN231997 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.startCapture@POLYN232701 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.pauseCapture@POLYN232265 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.pauseCapture@POLYN232969 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.pauseCapture@POLYN232265 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.pauseCapture@POLYN232969 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.pauseCapture@POLYN232265 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.pauseCapture@POLYN232969 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.endCapture@POLYN232674 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.endCapture@POLYN233378 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.endCapture@POLYN232674 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.endCapture@POLYN233378 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.endCapture@POLYN232674 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.endCapture@POLYN233378 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.endCapture@POLYN232674 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.endCapture@POLYN233378 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.getLocation@POLYN233478 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.getLocation@POLYN234182 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.getLocation@POLYN233478 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.getLocation@POLYN234182 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1279,14 +1279,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.expected@POLYN233852 the MagicNumber/String  'Unexpected end of input' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.expected@POLYN234556 the MagicNumber/String  'Unexpected end of input' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.expected@POLYN233852 the MagicNumber/String  'Expected ' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.expected@POLYN234556 the MagicNumber/String  'Expected ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1300,91 +1300,91 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isWhiteSpace@POLYN234325 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isWhiteSpace@POLYN235029 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isWhiteSpace@POLYN234325 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isWhiteSpace@POLYN235029 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isWhiteSpace@POLYN234325 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isWhiteSpace@POLYN235029 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isWhiteSpace@POLYN234325 the MagicNumber/String  '\r' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isWhiteSpace@POLYN235029 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isDigit@POLYN234573 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isDigit@POLYN235277 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isDigit@POLYN234573 the MagicNumber/String  '9' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isDigit@POLYN235277 the MagicNumber/String  '9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN234729 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN235433 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN234729 the MagicNumber/String  '9' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN235433 the MagicNumber/String  '9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN234729 the MagicNumber/String  'a' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN235433 the MagicNumber/String  'a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN234729 the MagicNumber/String  'f' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN235433 the MagicNumber/String  'f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN234729 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN235433 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN234729 the MagicNumber/String  'F' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isHexDigit@POLYN235433 the MagicNumber/String  'F' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonParser.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isEndOfText@POLYN235069 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.json.JsonParser.isEndOfText@POLYN235773 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

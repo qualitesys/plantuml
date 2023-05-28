@@ -234,14 +234,14 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.clip@POLYN157043 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.clip@POLYN157747 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.clip@POLYN157043 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.clip@POLYN157747 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -269,7 +269,7 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setUvac_delta_q@POLYN158295 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setUvac_delta_q@POLYN158999 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -283,14 +283,14 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setUvdc_delta_q@POLYN158536 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setUvdc_delta_q@POLYN159240 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY1ac@POLYN158777 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY1ac@POLYN159481 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -304,7 +304,7 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY1dc@POLYN158974 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY1dc@POLYN159678 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -318,35 +318,35 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159265 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159969 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159265 the MagicNumber/String  155 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159969 the MagicNumber/String  155 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159265 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159969 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159265 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159969 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159265 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2ac_delta_q@POLYN159969 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -360,14 +360,14 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2dc@POLYN159688 the MagicNumber/String  127 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2dc@POLYN160392 the MagicNumber/String  127 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/SegmentQuant.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2dc@POLYN159688 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.webp.SegmentQuant.setY2dc@POLYN160392 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

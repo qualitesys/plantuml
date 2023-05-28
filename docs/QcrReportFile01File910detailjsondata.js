@@ -121,140 +121,140 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.ByteBitInputStream@POLYN154783 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.ByteBitInputStream@POLYN155487 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.ByteBitInputStream@POLYN154783 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.ByteBitInputStream@POLYN155487 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.getBitPosition@POLYN155059 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.getBitPosition@POLYN155763 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.getBitPosition@POLYN155059 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.getBitPosition@POLYN155763 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.getBitPosition@POLYN155059 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.getBitPosition@POLYN155763 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.getBitPosition@POLYN155059 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.getBitPosition@POLYN155763 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.readByte@POLYN155371 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.readByte@POLYN156075 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.readByte@POLYN155371 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.readByte@POLYN156075 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN155601 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.read@POLYN156305 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.readNoEof@POLYN156388 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.readNoEof@POLYN157092 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.close@POLYN156666 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.close@POLYN157370 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/ByteBitInputStream.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.close@POLYN156666 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.code.deflate.ByteBitInputStream.close@POLYN157370 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

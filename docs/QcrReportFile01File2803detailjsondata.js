@@ -144,21 +144,21 @@ var maDataBlocs = {
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.zopfli.Cookie.expand@POLYN174703 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.zopfli.Cookie.expand@POLYN175407 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.zopfli.Cookie.expand@POLYN174703 the MagicNumber/String  65536 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.zopfli.Cookie.expand@POLYN175407 the MagicNumber/String  65536 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.zopfli.Cookie.expand@POLYN174703 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.zopfli.Cookie.expand@POLYN175407 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -172,7 +172,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.resetPool@POLYN179199 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.resetPool@POLYN179903 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -186,21 +186,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN179296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN180000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN179296 the MagicNumber/String  65536 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN180000 the MagicNumber/String  65536 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN179296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN180000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -214,21 +214,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN179969 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN180673 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN179969 the MagicNumber/String  65536 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN180673 the MagicNumber/String  65536 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN179969 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fill0@POLYN180673 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -242,63 +242,63 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fillCostMax@POLYN180642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fillCostMax@POLYN181346 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fillCostMax@POLYN180642 the MagicNumber/String  65536 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fillCostMax@POLYN181346 the MagicNumber/String  65536 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fillCostMax@POLYN180642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.fillCostMax@POLYN181346 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN181464 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN182168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN181464 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN182168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN181464 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN182168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN181464 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN182168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN181464 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN182168 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Cookie.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN181464 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Cookie.Cookie@POLYN182168 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

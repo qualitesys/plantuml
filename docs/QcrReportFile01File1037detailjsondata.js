@@ -156,14 +156,14 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.atom.AtomTree.calculateDimension@POLYN165742 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.atom.AtomTree.calculateDimension@POLYN166446 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.atom.AtomTree.calculateDimension@POLYN165742 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.atom.AtomTree.calculateDimension@POLYN166446 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -177,7 +177,7 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.atom.AtomTree.getStartingAltitude@POLYN166672 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.atom.AtomTree.getStartingAltitude@POLYN167376 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -205,14 +205,14 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.creole.atom.AtomTree.drawU@POLYN166774 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.creole.atom.AtomTree.drawU@POLYN167478 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomTree.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.creole.atom.AtomTree.drawU@POLYN166774 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.creole.atom.AtomTree.drawU@POLYN167478 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

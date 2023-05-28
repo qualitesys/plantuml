@@ -225,7 +225,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.getNboxInternal@POLYN175314 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.getNboxInternal@POLYN176018 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -246,7 +246,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.getNbox@POLYN175536 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.getNbox@POLYN176240 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -260,21 +260,21 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.toString@POLYN176320 the MagicNumber/String  'NwGroup:' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.toString@POLYN177024 the MagicNumber/String  'NwGroup:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.toString@POLYN176320 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.toString@POLYN177024 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.toString@POLYN176320 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.toString@POLYN177024 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -316,14 +316,14 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.getTopHeaderHeight@POLYN177529 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.getTopHeaderHeight@POLYN178233 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.getTopHeaderHeight@POLYN177529 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.getTopHeaderHeight@POLYN178233 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -358,28 +358,28 @@ var maDataBlocs = {
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.drawGroup@POLYN178184 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.drawGroup@POLYN178888 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.drawGroup@POLYN178184 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.drawGroup@POLYN178888 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.drawGroup@POLYN178184 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.drawGroup@POLYN178888 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.drawGroup@POLYN178184 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.drawGroup@POLYN178888 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -400,14 +400,14 @@ var maDataBlocs = {
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.buildHeaderName@POLYN179721 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.buildHeaderName@POLYN180425 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.buildHeaderName@POLYN179721 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.nwdiag.core.NwGroup.buildHeaderName@POLYN180425 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

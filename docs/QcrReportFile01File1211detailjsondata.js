@@ -149,7 +149,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ebnf.ETileAlternation.push@POLYN176837 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ebnf.ETileAlternation.push@POLYN177541 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -163,7 +163,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getH1@POLYN177017 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getH1@POLYN177721 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -184,21 +184,21 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getH2@POLYN177219 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getH2@POLYN177923 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getH2@POLYN177219 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getH2@POLYN177923 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getH2@POLYN177219 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getH2@POLYN177923 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -219,21 +219,21 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getWidth@POLYN178005 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getWidth@POLYN178709 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getWidth@POLYN178005 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getWidth@POLYN178709 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getWidth@POLYN178005 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ebnf.ETileAlternation.getWidth@POLYN178709 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -282,126 +282,126 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0.3 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0.3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN178593 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ebnf.ETileAlternation.drawU@POLYN179297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -415,7 +415,7 @@ var maDataBlocs = {
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileAlternation.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.ebnf.ETileAlternation.setInZeroOrMore@POLYN184820 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.ebnf.ETileAlternation.setInZeroOrMore@POLYN185524 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

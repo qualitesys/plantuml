@@ -183,7 +183,7 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.salt.Positionner2.moveNextRow@POLYN161779 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.salt.Positionner2.moveNextRow@POLYN162483 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -204,21 +204,21 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.salt.Positionner2.mergeLeft@POLYN162227 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.salt.Positionner2.mergeLeft@POLYN162931 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.salt.Positionner2.getNbRows@POLYN163089 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.salt.Positionner2.getNbRows@POLYN163793 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.salt.Positionner2.getNbCols@POLYN163204 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.salt.Positionner2.getNbCols@POLYN163908 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

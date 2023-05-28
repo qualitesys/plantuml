@@ -126,7 +126,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.math.PSystemLatex.getDescription@POLYN168005 the MagicNumber/String  '(Latex)' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.math.PSystemLatex.getDescription@POLYN168709 the MagicNumber/String  '(Latex)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -154,77 +154,77 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  'color ' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  'color ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  'backgroundcolor ' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  'backgroundcolor ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  'scale ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  'scale ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  'scale ' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  'scale ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  'dpi ' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  'dpi ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  'dpi ' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  'dpi ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN168540 the MagicNumber/String  96 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.math.PSystemLatex.doCommandLine@POLYN169244 the MagicNumber/String  96 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -238,14 +238,14 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.math.PSystemLatex.getColor@POLYN170973 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.math.PSystemLatex.getColor@POLYN171677 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/PSystemLatex.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.math.PSystemLatex.getColor@POLYN170973 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.math.PSystemLatex.getColor@POLYN171677 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

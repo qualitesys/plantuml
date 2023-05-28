@@ -108,287 +108,287 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x10000 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x10000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x10000 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x10000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN169994 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.zopfli.Hash.init@POLYN170698 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -402,105 +402,105 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Hash.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN174838 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Hash.updateHash@POLYN175542 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

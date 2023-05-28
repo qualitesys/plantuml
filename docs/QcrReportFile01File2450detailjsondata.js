@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Chr.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Chr.getSignature@POLYN158923 the MagicNumber/String  '%chr' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Chr.getSignature@POLYN159627 the MagicNumber/String  '%chr' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Chr.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Chr.getSignature@POLYN158923 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.Chr.getSignature@POLYN159627 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Chr.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.Chr.canCover@POLYN159073 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.Chr.canCover@POLYN159777 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -150,21 +150,21 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Chr.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.Chr.executeReturnFunction@POLYN159251 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.Chr.executeReturnFunction@POLYN159955 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Chr.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.Chr.executeReturnFunction@POLYN159251 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.Chr.executeReturnFunction@POLYN159955 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Chr.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.stdlib.Chr.executeReturnFunction@POLYN159251 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.stdlib.Chr.executeReturnFunction@POLYN159955 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ]
 , 

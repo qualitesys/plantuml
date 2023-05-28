@@ -111,63 +111,63 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverPixelSvg.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN158583 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.svg.DriverPixelSvg.draw@POLYN159287 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

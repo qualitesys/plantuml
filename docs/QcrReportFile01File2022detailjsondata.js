@@ -267,28 +267,28 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelf.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.drawU@POLYN186380 the MagicNumber/String  'CommunicationTileSelf::drawU levelIgnore=' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.drawU@POLYN187084 the MagicNumber/String  'CommunicationTileSelf::drawU levelIgnore=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelf.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.drawU@POLYN186380 the MagicNumber/String  ' levelConsidere=' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.drawU@POLYN187084 the MagicNumber/String  ' levelConsidere=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelf.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.addConstraints@POLYN188570 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.addConstraints@POLYN189274 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelf.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.addConstraints@POLYN188570 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.addConstraints@POLYN189274 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,14 +302,14 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelf.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.getPrevious@POLYN189486 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.getPrevious@POLYN190190 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelf.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.getPrevious@POLYN189486 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.getPrevious@POLYN190190 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -323,7 +323,7 @@ var maDataBlocs = {
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTileSelf.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.getNext@POLYN190067 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf.getNext@POLYN190771 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

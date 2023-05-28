@@ -110,7 +110,7 @@ var maDataBlocs = {
  , "c1" : "00037"
  , "c1link" : "./qc/src/jcckit/util/PropertiesBasedConfigData.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method jcckit.util.PropertiesBasedConfigData.PropertiesBasedConfigData@POLYN157076 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method jcckit.util.PropertiesBasedConfigData.PropertiesBasedConfigData@POLYN157780 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

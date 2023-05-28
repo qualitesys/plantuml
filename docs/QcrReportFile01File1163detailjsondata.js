@@ -160,14 +160,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.dedication.Noise.argon2@POLYN167356 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.dedication.Noise.argon2@POLYN168060 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.dedication.Noise.argon2@POLYN167356 the MagicNumber/String  50 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.dedication.Noise.argon2@POLYN168060 the MagicNumber/String  50 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -195,28 +195,28 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN168339 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN169043 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN168339 the MagicNumber/String  0x0F should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN169043 the MagicNumber/String  0x0F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN168339 the MagicNumber/String  0xF0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN169043 the MagicNumber/String  0xF0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN168339 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.dedication.Noise.shortHash@POLYN169043 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -237,7 +237,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.dedication.Noise.shuffle@POLYN169052 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.dedication.Noise.shuffle@POLYN169756 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -251,7 +251,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN170035 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN170739 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -272,21 +272,21 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN170454 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN171158 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN170454 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN171158 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN170454 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.dedication.Noise.xor@POLYN171158 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -300,14 +300,14 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.dedication.Noise.reverse@POLYN171082 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.dedication.Noise.reverse@POLYN171786 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Noise.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.dedication.Noise.reverse@POLYN171082 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.dedication.Noise.reverse@POLYN171786 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

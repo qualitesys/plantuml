@@ -113,7 +113,7 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FreeYStrategyBasic.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategyBasic.peekPosition@POLYN154355 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategyBasic.peekPosition@POLYN155059 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

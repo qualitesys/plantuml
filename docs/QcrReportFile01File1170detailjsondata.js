@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TinyHashableString.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.TinyHashableString.tinyHash@POLYN155865 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.TinyHashableString.tinyHash@POLYN156569 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

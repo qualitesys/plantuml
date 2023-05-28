@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method jcckit.graphic.GraphicalComposite.addElement@POLYN163328 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method jcckit.graphic.GraphicalComposite.addElement@POLYN164032 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -188,14 +188,14 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method jcckit.graphic.GraphicalComposite.replaceElementAt@POLYN163909 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method jcckit.graphic.GraphicalComposite.replaceElementAt@POLYN164613 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method jcckit.graphic.GraphicalComposite.throwNullPointerException@POLYN164229 the MagicNumber/String  'A null as an GraphicalElement is not allowed' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method jcckit.graphic.GraphicalComposite.throwNullPointerException@POLYN164933 the MagicNumber/String  'A null as an GraphicalElement is not allowed' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -216,28 +216,28 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method jcckit.graphic.GraphicalComposite.renderWith@POLYN164567 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method jcckit.graphic.GraphicalComposite.renderWith@POLYN165271 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method jcckit.graphic.GraphicalComposite.renderWith@POLYN164567 the MagicNumber/String  ' does not implements GraphicalCompositeRenderer.' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method jcckit.graphic.GraphicalComposite.renderWith@POLYN165271 the MagicNumber/String  ' does not implements GraphicalCompositeRenderer.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.GraphicalComposite.addElement@POLYN163328"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.GraphicalComposite.addElement@POLYN164032"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00054] In the recursive method jcckit.graphic.GraphicalComposite.addElement@POLYN163328 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00054] In the recursive method jcckit.graphic.GraphicalComposite.addElement@POLYN164032 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -108,28 +108,28 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.append@POLYN160721 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.append@POLYN161425 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.append@POLYN160721 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.append@POLYN161425 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.getCircle@POLYN161026 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.getCircle@POLYN161730 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.getCircle@POLYN161026 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.getCircle@POLYN161730 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,77 +143,77 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN161391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.svek.image.SmallestEnclosingCircle.findSec@POLYN162095 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

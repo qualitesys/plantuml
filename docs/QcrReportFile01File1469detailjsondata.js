@@ -156,56 +156,56 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167263 the MagicNumber/String  '!assume ' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167967 the MagicNumber/String  '!assume ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167263 the MagicNumber/String  '!pragma ' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167967 the MagicNumber/String  '!pragma ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167263 the MagicNumber/String  'hide ' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167967 the MagicNumber/String  'hide ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167263 the MagicNumber/String  'title ' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167967 the MagicNumber/String  'title ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167263 the MagicNumber/String  'title ' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167967 the MagicNumber/String  'title ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167263 the MagicNumber/String  'skinparam ' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167967 the MagicNumber/String  'skinparam ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167263 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167967 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167263 the MagicNumber/String  '}' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.StyleExtractor@POLYN167967 the MagicNumber/String  '}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -226,7 +226,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.startStyle@POLYN169275 the MagicNumber/String  '&amp;lt;style&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.startStyle@POLYN169979 the MagicNumber/String  '&amp;lt;style&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -247,7 +247,7 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.endStyle@POLYN169464 the MagicNumber/String  '&amp;lt;/style&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.endStyle@POLYN170168 the MagicNumber/String  '&amp;lt;/style&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -268,21 +268,21 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.applyStyles@POLYN169645 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.applyStyles@POLYN170349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.applyStyles@POLYN169645 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.applyStyles@POLYN170349 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/StyleExtractor.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.applyStyles@POLYN169645 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.jsondiagram.StyleExtractor.applyStyles@POLYN170349 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

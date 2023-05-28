@@ -153,63 +153,63 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN160856 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.style.DarkString.mergeWith@POLYN161560 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -230,21 +230,21 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.style.DarkString.toString@POLYN162544 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.style.DarkString.toString@POLYN163248 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.style.DarkString.toString@POLYN162544 the MagicNumber/String  ' (' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.style.DarkString.toString@POLYN163248 the MagicNumber/String  ' (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/DarkString.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.style.DarkString.toString@POLYN162544 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.style.DarkString.toString@POLYN163248 the MagicNumber/String  ')' should be converted to const"
 }} 
 ]
 , 

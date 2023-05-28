@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.RealMax.getName@POLYN162702 the MagicNumber/String  'max ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.real.RealMax.getName@POLYN163406 the MagicNumber/String  'max ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -188,42 +188,42 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN162821 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN163525 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN162821 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN163525 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN162821 the MagicNumber/String  1000 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN163525 the MagicNumber/String  1000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN162821 the MagicNumber/String  'The faulty RealMax ' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN163525 the MagicNumber/String  'The faulty RealMax ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN162821 the MagicNumber/String  'has been created here:' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN163525 the MagicNumber/String  'has been created here:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN162821 the MagicNumber/String  'Infinite recursion?' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.real.RealMax.getCurrentValueInternal@POLYN163525 the MagicNumber/String  'Infinite recursion?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -241,14 +241,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Arrow.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.setMaxX@POLYN163125 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.setMaxX@POLYN163829 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Arrow.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.getMaxX@POLYN163393 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.getMaxX@POLYN164097 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -276,7 +276,7 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Arrow.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.startUrl@POLYN164092 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.startUrl@POLYN164796 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -297,7 +297,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Arrow.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.endUrl@POLYN164307 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.endUrl@POLYN165011 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -346,7 +346,7 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Arrow.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.getMargin@POLYN165359 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.sequencediagram.graphic.Arrow.getMargin@POLYN166063 the MagicNumber/String  5 should be converted to const"
 }} 
 ]
 , 

@@ -146,42 +146,42 @@ var maDataBlocs = {
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159345 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160049 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159345 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160049 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159345 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160049 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159345 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160049 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159345 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160049 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159345 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160049 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -195,42 +195,42 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159869 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160573 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159869 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160573 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159869 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160573 the MagicNumber/String  1000L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159869 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160573 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159869 the MagicNumber/String  60 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160573 the MagicNumber/String  60 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/CountRate.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN159869 the MagicNumber/String  1000L should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.api.CountRate.increment@POLYN160573 the MagicNumber/String  1000L should be converted to const"
 }} 
 ]
 , 

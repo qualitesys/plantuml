@@ -678,14 +678,14 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svg.SvgGraphics.ensureVisible@POLYN335960 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svg.SvgGraphics.ensureVisible@POLYN336664 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svg.SvgGraphics.ensureVisible@POLYN335960 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svg.SvgGraphics.ensureVisible@POLYN336664 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -699,133 +699,133 @@ var maDataBlocs = {
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  'defs' should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  'defs' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  'g' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  'g' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  'b' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  'b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  'f' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  'f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  'g' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  'g' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN336431 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.svg.SvgGraphics.SvgGraphics@POLYN337135 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN338800 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN339504 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN338800 the MagicNumber/String  'default.css' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN339504 the MagicNumber/String  'default.css' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN338800 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN339504 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN338800 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN339504 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN338800 the MagicNumber/String  'type' should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN339504 the MagicNumber/String  'type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN338800 the MagicNumber/String  'text/css' should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.svg.SvgGraphics.getStylesForInteractiveMode@POLYN339504 the MagicNumber/String  'text/css' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svg.SvgGraphics.getScriptForInteractiveMode@POLYN339438 the MagicNumber/String  'script' should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.svg.SvgGraphics.getScriptForInteractiveMode@POLYN340142 the MagicNumber/String  'script' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svg.SvgGraphics.getScriptForInteractiveMode@POLYN339438 the MagicNumber/String  'default.js' should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.svg.SvgGraphics.getScriptForInteractiveMode@POLYN340142 the MagicNumber/String  'default.js' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.svg.SvgGraphics.getScriptForInteractiveMode@POLYN339438 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.svg.SvgGraphics.getScriptForInteractiveMode@POLYN340142 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.svg.SvgGraphics.getScriptForInteractiveMode@POLYN339438 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.svg.SvgGraphics.getScriptForInteractiveMode@POLYN340142 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -839,14 +839,14 @@ var maDataBlocs = {
  , "c1" : "00234"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.svg.SvgGraphics.getData@POLYN339891 the MagicNumber/String  '/svg/' should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method net.sourceforge.plantuml.svg.SvgGraphics.getData@POLYN340595 the MagicNumber/String  '/svg/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svg.SvgGraphics.getData@POLYN339891 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.svg.SvgGraphics.getData@POLYN340595 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -860,35 +860,35 @@ var maDataBlocs = {
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN340350 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN341054 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN340350 the MagicNumber/String  'path:hover { stroke: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN341054 the MagicNumber/String  'path:hover { stroke: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN340350 the MagicNumber/String  ' !important;}' should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN341054 the MagicNumber/String  ' !important;}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN340350 the MagicNumber/String  'type' should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN341054 the MagicNumber/String  'type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN340350 the MagicNumber/String  'text/css' should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.svg.SvgGraphics.getPathHover@POLYN341054 the MagicNumber/String  'text/css' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -902,7 +902,7 @@ var maDataBlocs = {
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.svg.SvgGraphics.getSeed@POLYN340875 the MagicNumber/String  36 should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.svg.SvgGraphics.getSeed@POLYN341579 the MagicNumber/String  36 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -923,49 +923,49 @@ var maDataBlocs = {
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341120 the MagicNumber/String  'url(#' should be converted to const"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341824 the MagicNumber/String  'url(#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341120 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341824 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341120 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341824 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341824 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341824 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341824 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.svg.SvgGraphics.paintBackcolorGradient@POLYN341824 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -979,56 +979,56 @@ var maDataBlocs = {
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.svg.SvgGraphics.getDocument@POLYN342208 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.svg.SvgGraphics.getDocument@POLYN342912 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00284"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#284"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN342543 the MagicNumber/String  'svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00284] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN343247 the MagicNumber/String  'svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN342543 the MagicNumber/String  'xmlns' should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN343247 the MagicNumber/String  'xmlns' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN342543 the MagicNumber/String  'http://www.w3.org/2000/svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN343247 the MagicNumber/String  'http://www.w3.org/2000/svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN342543 the MagicNumber/String  'xmlns:xlink' should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN343247 the MagicNumber/String  'xmlns:xlink' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN342543 the MagicNumber/String  'http://www.w3.org/1999/xlink' should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN343247 the MagicNumber/String  'http://www.w3.org/1999/xlink' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN342543 the MagicNumber/String  'version' should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN343247 the MagicNumber/String  'version' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN342543 the MagicNumber/String  '1.1' should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.svg.SvgGraphics.getRootNode@POLYN343247 the MagicNumber/String  '1.1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1042,63 +1042,63 @@ var maDataBlocs = {
  , "c1" : "00301"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  'ellipse' should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  'ellipse' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  'cx' should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  'cx' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  'cy' should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  'cy' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00305"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#305"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  'rx' should be converted to const"
+ , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  'rx' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00306"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  'ry' should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  'ry' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00308"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00312"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#312"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00312"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#312"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343105 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.svg.SvgGraphics.svgEllipse@POLYN343809 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1112,70 +1112,70 @@ var maDataBlocs = {
  , "c1" : "00316"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  ' A' should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  ' A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  ' 0 0 0 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  ' 0 0 0 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00318"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00319"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#319"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  'path' should be converted to const"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  'path' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00320"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#320"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  'd' should be converted to const"
+ , "c3" : "QC-JAV000010[00320] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  'd' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00322"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#322"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN344592 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.svg.SvgGraphics.svgArcEllipse@POLYN345296 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1189,322 +1189,322 @@ var maDataBlocs = {
  , "c1" : "00334"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#334"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00334] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00335"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#335"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'linearGradient' should be converted to const"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'linearGradient' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00337"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#337"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'x1' should be converted to const"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'x1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00337"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#337"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '0%' should be converted to const"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '0%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00338"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#338"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'y1' should be converted to const"
+ , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'y1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00338"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#338"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '50%' should be converted to const"
+ , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '50%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'x2' should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'x2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00340"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'y2' should be converted to const"
+ , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'y2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00340"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '50%' should be converted to const"
+ , "c3" : "QC-JAV000010[00340] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '50%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00341"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00342"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'x1' should be converted to const"
+ , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'x1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00342"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '0%' should be converted to const"
+ , "c3" : "QC-JAV000010[00342] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '0%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00343"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#343"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00343] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'y1' should be converted to const"
+ , "c3" : "QC-JAV000010[00343] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'y1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00343"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#343"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00343] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00343] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00344"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'x2' should be converted to const"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'x2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00344"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00344] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00345"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'y2' should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'y2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00345"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '0%' should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '0%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00346"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#346"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00346] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00346] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00347"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#347"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'x1' should be converted to const"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'x1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00347"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#347"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '50%' should be converted to const"
+ , "c3" : "QC-JAV000010[00347] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '50%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'y1' should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'y1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00348"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '0%' should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '0%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00349"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#349"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00349] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'x2' should be converted to const"
+ , "c3" : "QC-JAV000010[00349] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'x2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00349"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#349"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00349] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '50%' should be converted to const"
+ , "c3" : "QC-JAV000010[00349] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '50%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00350"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#350"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'y2' should be converted to const"
+ , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'y2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00350"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#350"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00352"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#352"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'x1' should be converted to const"
+ , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'x1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00352"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#352"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '0%' should be converted to const"
+ , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '0%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00353"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#353"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'y1' should be converted to const"
+ , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'y1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00353"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#353"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '0%' should be converted to const"
+ , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '0%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00354"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#354"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'x2' should be converted to const"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'x2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00354"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#354"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00354] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00355"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#355"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'y2' should be converted to const"
+ , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'y2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00355"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#355"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00359"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#359"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'id' should be converted to const"
+ , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00361"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#361"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00361] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'stop' should be converted to const"
+ , "c3" : "QC-JAV000010[00361] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'stop' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00362"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#362"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00362] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'stop-color' should be converted to const"
+ , "c3" : "QC-JAV000010[00362] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'stop-color' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00363"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#363"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00363] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'offset' should be converted to const"
+ , "c3" : "QC-JAV000010[00363] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'offset' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00363"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#363"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00363] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '0%' should be converted to const"
+ , "c3" : "QC-JAV000010[00363] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '0%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00364"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#364"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00364] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'stop' should be converted to const"
+ , "c3" : "QC-JAV000010[00364] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'stop' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00365"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#365"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00365] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'stop-color' should be converted to const"
+ , "c3" : "QC-JAV000010[00365] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'stop-color' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00366"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#366"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  'offset' should be converted to const"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  'offset' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00366"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#366"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346201 the MagicNumber/String  '100%' should be converted to const"
+ , "c3" : "QC-JAV000010[00366] In method net.sourceforge.plantuml.svg.SvgGraphics.createSvgGradient@POLYN346905 the MagicNumber/String  '100%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1532,21 +1532,21 @@ var maDataBlocs = {
  , "c1" : "00384"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#384"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.svg.SvgGraphics.fixColor@POLYN350082 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.svg.SvgGraphics.fixColor@POLYN350786 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00384"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#384"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.svg.SvgGraphics.fixColor@POLYN350082 the MagicNumber/String  '#00000000' should be converted to const"
+ , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.svg.SvgGraphics.fixColor@POLYN350786 the MagicNumber/String  '#00000000' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00384"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#384"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.svg.SvgGraphics.fixColor@POLYN350082 the MagicNumber/String  'none' should be converted to const"
+ , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.svg.SvgGraphics.fixColor@POLYN350786 the MagicNumber/String  'none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1560,21 +1560,21 @@ var maDataBlocs = {
  , "c1" : "00388"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.svg.SvgGraphics.setStrokeWidth@POLYN350398 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.svg.SvgGraphics.setStrokeWidth@POLYN351102 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00395"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#395"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.svg.SvgGraphics.getG@POLYN350816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.svg.SvgGraphics.getG@POLYN351520 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00398"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#398"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00398] In method net.sourceforge.plantuml.svg.SvgGraphics.getG@POLYN350816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00398] In method net.sourceforge.plantuml.svg.SvgGraphics.getG@POLYN351520 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1588,91 +1588,91 @@ var maDataBlocs = {
  , "c1" : "00403"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#403"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00403"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#403"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00409"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#409"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00412"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#412"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00412] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00412] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00412"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#412"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00412] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00412] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00413"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  'rx' should be converted to const"
+ , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  'rx' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00414"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#414"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  'ry' should be converted to const"
+ , "c3" : "QC-JAV000010[00414] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  'ry' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00416"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#416"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00416] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00416] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00417"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#417"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  'id' should be converted to const"
+ , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  'id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00419"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#419"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00419] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00419] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00420"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#420"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  'codeLine' should be converted to const"
+ , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  'codeLine' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00424"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#424"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00424"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#424"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351046 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00424] In method net.sourceforge.plantuml.svg.SvgGraphics.svgRectangle@POLYN351750 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1686,42 +1686,42 @@ var maDataBlocs = {
  , "c1" : "00428"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#428"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00428] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN352820 the MagicNumber/String  'rect' should be converted to const"
+ , "c3" : "QC-JAV000010[00428] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN353524 the MagicNumber/String  'rect' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00429"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#429"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00429] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN352820 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00429] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN353524 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00430"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#430"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00430] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN352820 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00430] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN353524 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00431"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#431"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN352820 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN353524 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00432"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#432"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00432] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN352820 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00432] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN353524 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00434"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#434"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN352820 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00434] In method net.sourceforge.plantuml.svg.SvgGraphics.createRectangleInternal@POLYN353524 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1735,203 +1735,203 @@ var maDataBlocs = {
  , "c1" : "00440"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#440"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00440] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00440] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00441"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#441"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00441] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  'line' should be converted to const"
+ , "c3" : "QC-JAV000010[00441] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  'line' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00442"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#442"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00442] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  'x1' should be converted to const"
+ , "c3" : "QC-JAV000010[00442] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  'x1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00443"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#443"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00443] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  'y1' should be converted to const"
+ , "c3" : "QC-JAV000010[00443] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  'y1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00444"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#444"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00444] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  'x2' should be converted to const"
+ , "c3" : "QC-JAV000010[00444] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  'x2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00445"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#445"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  'y2' should be converted to const"
+ , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  'y2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00446"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#446"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00450"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#450"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00450] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00450] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00450"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#450"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00450] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00450] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00451"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#451"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00451] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00451] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00451"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#451"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00451] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN353791 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00451] In method net.sourceforge.plantuml.svg.SvgGraphics.svgLine@POLYN354495 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00457"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#457"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  'stroke:' should be converted to const"
+ , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  'stroke:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00457"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#457"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00457] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00458"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#458"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  'stroke-width:' should be converted to const"
+ , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  'stroke-width:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00458"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#458"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00458] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00459"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#459"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00459] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  '#00000000' should be converted to const"
+ , "c3" : "QC-JAV000010[00459] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  '#00000000' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00460"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#460"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  'fill:none;' should be converted to const"
+ , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  'fill:none;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00462"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#462"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00462] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00462] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00463"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#463"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00463] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  'stroke-dasharray:' should be converted to const"
+ , "c3" : "QC-JAV000010[00463] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  'stroke-dasharray:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00463"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#463"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00463] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN355356 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00463] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyle@POLYN356060 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00472"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#472"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00472] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  'stroke:' should be converted to const"
+ , "c3" : "QC-JAV000010[00472] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  'stroke:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00472"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#472"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00472] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00472] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00473"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#473"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00473] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  'stroke-width:' should be converted to const"
+ , "c3" : "QC-JAV000010[00473] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  'stroke-width:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00473"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#473"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00473] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00473] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00474"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#474"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00474] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  '#00000000' should be converted to const"
+ , "c3" : "QC-JAV000010[00474] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  '#00000000' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00475"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#475"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00475] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  'fill:none;' should be converted to const"
+ , "c3" : "QC-JAV000010[00475] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  'fill:none;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00477"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#477"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00477] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00477] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00478"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  'stroke-dasharray:' should be converted to const"
+ , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  'stroke-dasharray:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00478"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#478"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356106 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00478] In method net.sourceforge.plantuml.svg.SvgGraphics.getStyleSpecial@POLYN356810 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1945,91 +1945,91 @@ var maDataBlocs = {
  , "c1" : "00484"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#484"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00484] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00484] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00484"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#484"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00484] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00484] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00486"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#486"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00486] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00486] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00487"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#487"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00487] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  'polygon' should be converted to const"
+ , "c3" : "QC-JAV000010[00487] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  'polygon' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00490"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#490"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00490] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00490] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00491"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#491"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00491] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00491] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00495"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#495"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00495] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  'points' should be converted to const"
+ , "c3" : "QC-JAV000010[00495] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  'points' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00497"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#497"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00497] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00497] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00502"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#502"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00502] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00502] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00502"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#502"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00502] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00502] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00503"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#503"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00503"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#503"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00503"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#503"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN356848 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00503] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPolygon@POLYN357552 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2057,203 +2057,203 @@ var maDataBlocs = {
  , "c1" : "00511"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#511"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00511] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00511] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00512"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#512"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00512] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'text' should be converted to const"
+ , "c3" : "QC-JAV000010[00512] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'text' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00514"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#514"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00514] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00516"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#516"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00516] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00516] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00518"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#518"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00518] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'font-size' should be converted to const"
+ , "c3" : "QC-JAV000010[00518] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'font-size' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00522"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#522"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'lengthAdjust' should be converted to const"
+ , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'lengthAdjust' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00522"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#522"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'spacing' should be converted to const"
+ , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'spacing' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00523"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#523"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00523] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'textLength' should be converted to const"
+ , "c3" : "QC-JAV000010[00523] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'textLength' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00525"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#525"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00525] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'lengthAdjust' should be converted to const"
+ , "c3" : "QC-JAV000010[00525] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'lengthAdjust' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00525"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#525"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00525] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'spacingAndGlyphs' should be converted to const"
+ , "c3" : "QC-JAV000010[00525] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'spacingAndGlyphs' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00526"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#526"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00526] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'textLength' should be converted to const"
+ , "c3" : "QC-JAV000010[00526] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'textLength' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00529"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#529"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00529] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00529] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00530"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#530"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00530] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'font-weight' should be converted to const"
+ , "c3" : "QC-JAV000010[00530] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'font-weight' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00532"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#532"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00532] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00532] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00533"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#533"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00533] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'font-style' should be converted to const"
+ , "c3" : "QC-JAV000010[00533] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'font-style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00535"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#535"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00535] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00535] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00536"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#536"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00536] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'text-decoration' should be converted to const"
+ , "c3" : "QC-JAV000010[00536] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'text-decoration' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00538"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#538"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00538] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00538] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00540"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#540"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00540] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'monospaced' should be converted to const"
+ , "c3" : "QC-JAV000010[00540] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'monospaced' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00541"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#541"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00541] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'monospace' should be converted to const"
+ , "c3" : "QC-JAV000010[00541] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'monospace' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00543"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#543"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00543] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'font-family' should be converted to const"
+ , "c3" : "QC-JAV000010[00543] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'font-family' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00545"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#545"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00545] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'monospace' should be converted to const"
+ , "c3" : "QC-JAV000010[00545] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'monospace' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00545"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#545"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00545] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'courier' should be converted to const"
+ , "c3" : "QC-JAV000010[00545] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'courier' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00546"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#546"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00546] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00546] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00546"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#546"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00546] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  160 should be converted to const"
+ , "c3" : "QC-JAV000010[00546] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  160 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00549"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#549"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00549] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00549] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00551"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#551"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'filter' should be converted to const"
+ , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'filter' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00551"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#551"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  'url(#' should be converted to const"
+ , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  'url(#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00551"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#551"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN358603 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.svg.SvgGraphics.text@POLYN359307 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2267,7 +2267,7 @@ var maDataBlocs = {
  , "c1" : "00580"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#580"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00580] In method net.sourceforge.plantuml.svg.SvgGraphics.getIdFilterBackColor@POLYN362356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00580] In method net.sourceforge.plantuml.svg.SvgGraphics.getIdFilterBackColor@POLYN363060 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2281,168 +2281,168 @@ var maDataBlocs = {
  , "c1" : "00589"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#589"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00589] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00589] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00593"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#593"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00593] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'filter' should be converted to const"
+ , "c3" : "QC-JAV000010[00593] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'filter' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00594"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#594"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00594] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'id' should be converted to const"
+ , "c3" : "QC-JAV000010[00594] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00595"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#595"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00595] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00595] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00595"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#595"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00595] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00595] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00596"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#596"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00596] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00596] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00596"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#596"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00596] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00596] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00597"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#597"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00597"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#597"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  '1' should be converted to const"
+ , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  '1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00598"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#598"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00598] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00598] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00598"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#598"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00598] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  '1' should be converted to const"
+ , "c3" : "QC-JAV000010[00598] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  '1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00599"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#599"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'feFlood' should be converted to const"
+ , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'feFlood' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00599"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#599"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'flood-color' should be converted to const"
+ , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'flood-color' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00599"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#599"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'result' should be converted to const"
+ , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'result' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00599"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#599"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'flood' should be converted to const"
+ , "c3" : "QC-JAV000010[00599] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'flood' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00600"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#600"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'feComposite' should be converted to const"
+ , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'feComposite' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00600"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#600"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'in' should be converted to const"
+ , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'in' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00600"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#600"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'SourceGraphic' should be converted to const"
+ , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'SourceGraphic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00600"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#600"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'in2' should be converted to const"
+ , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'in2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00600"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#600"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'flood' should be converted to const"
+ , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'flood' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00600"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#600"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'operator' should be converted to const"
+ , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'operator' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00600"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#600"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN362825 the MagicNumber/String  'over' should be converted to const"
+ , "c3" : "QC-JAV000010[00600] In method net.sourceforge.plantuml.svg.SvgGraphics.getFilterBackColor@POLYN363529 the MagicNumber/String  'over' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00607"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#607"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00607] In method net.sourceforge.plantuml.svg.SvgGraphics.getTransformer@POLYN364293 the MagicNumber/String  'Transformer=' should be converted to const"
+ , "c3" : "QC-JAV000010[00607] In method net.sourceforge.plantuml.svg.SvgGraphics.getTransformer@POLYN364997 the MagicNumber/String  'Transformer=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00611"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#611"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00611] In method net.sourceforge.plantuml.svg.SvgGraphics.getTransformer@POLYN364293 the MagicNumber/String  'no' should be converted to const"
+ , "c3" : "QC-JAV000010[00611] In method net.sourceforge.plantuml.svg.SvgGraphics.getTransformer@POLYN364997 the MagicNumber/String  'no' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2470,21 +2470,21 @@ var maDataBlocs = {
  , "c1" : "00619"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#619"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00619] In method net.sourceforge.plantuml.svg.SvgGraphics.createXml@POLYN364683 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00619] In method net.sourceforge.plantuml.svg.SvgGraphics.createXml@POLYN365387 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00627"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#627"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00627] In method net.sourceforge.plantuml.svg.SvgGraphics.createXml@POLYN364683 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00627] In method net.sourceforge.plantuml.svg.SvgGraphics.createXml@POLYN365387 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00627"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#627"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00627] In method net.sourceforge.plantuml.svg.SvgGraphics.createXml@POLYN364683 the MagicNumber/String  '/&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00627] In method net.sourceforge.plantuml.svg.SvgGraphics.createXml@POLYN365387 the MagicNumber/String  '/&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2498,14 +2498,14 @@ var maDataBlocs = {
  , "c1" : "00635"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#635"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00635] In method net.sourceforge.plantuml.svg.SvgGraphics.removeXmlHeader@POLYN365791 the MagicNumber/String  '^&amp;lt;\\?xml [^&amp;lt;&amp;gt;]+?\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00635] In method net.sourceforge.plantuml.svg.SvgGraphics.removeXmlHeader@POLYN366495 the MagicNumber/String  '^&amp;lt;\\?xml [^&amp;lt;&amp;gt;]+?\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00635"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#635"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00635] In method net.sourceforge.plantuml.svg.SvgGraphics.removeXmlHeader@POLYN365791 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00635] In method net.sourceforge.plantuml.svg.SvgGraphics.removeXmlHeader@POLYN366495 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2519,168 +2519,168 @@ var maDataBlocs = {
  , "c1" : "00646"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#646"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00646] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'width:' should be converted to const"
+ , "c3" : "QC-JAV000010[00646] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'width:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00646"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#646"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00646] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'px;height:' should be converted to const"
+ , "c3" : "QC-JAV000010[00646] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'px;height:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00646"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#646"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00646] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'px;' should be converted to const"
+ , "c3" : "QC-JAV000010[00646] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'px;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00647"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#647"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00647] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00647] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00647"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#647"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00647] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  '#00000000' should be converted to const"
+ , "c3" : "QC-JAV000010[00647] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  '#00000000' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00647"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#647"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00647] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00647] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00648"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#648"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00648] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'background:' should be converted to const"
+ , "c3" : "QC-JAV000010[00648] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'background:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00648"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#648"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00648] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00648] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00651"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#651"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00651] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00651] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00652"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#652"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00652] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00652] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00652"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#652"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00652] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'px' should be converted to const"
+ , "c3" : "QC-JAV000010[00652] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'px' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00653"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#653"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00653] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00653] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00653"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#653"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00653] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'px' should be converted to const"
+ , "c3" : "QC-JAV000010[00653] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'px' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00655"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#655"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00655] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'viewBox' should be converted to const"
+ , "c3" : "QC-JAV000010[00655] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'viewBox' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00655"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#655"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00655] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  '0 0 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00655] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  '0 0 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00655"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#655"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00655] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00655] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00656"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#656"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00656] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'zoomAndPan' should be converted to const"
+ , "c3" : "QC-JAV000010[00656] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'zoomAndPan' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00656"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#656"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00656] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'magnify' should be converted to const"
+ , "c3" : "QC-JAV000010[00656] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'magnify' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00657"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#657"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00657] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'preserveAspectRatio' should be converted to const"
+ , "c3" : "QC-JAV000010[00657] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'preserveAspectRatio' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00659"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#659"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00659] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'contentStyleType' should be converted to const"
+ , "c3" : "QC-JAV000010[00659] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'contentStyleType' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00659"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#659"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00659] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'text/css' should be converted to const"
+ , "c3" : "QC-JAV000010[00659] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'text/css' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00661"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#661"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00661] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00661] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00662"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#662"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00662] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00662] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00663"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#663"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00663] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366010 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00663] In method net.sourceforge.plantuml.svg.SvgGraphics.createXmlInternal@POLYN366714 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2708,630 +2708,630 @@ var maDataBlocs = {
  , "c1" : "00681"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#681"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00681"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#681"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00681"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#681"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00681"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#681"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00681"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#681"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00681] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00682"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#682"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00682"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#682"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00682"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#682"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00682"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#682"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00682] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00684"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#684"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'L' should be converted to const"
+ , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'L' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00684"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#684"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00684"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#684"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00684"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#684"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00684"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#684"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00684] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00685"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#685"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00685"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#685"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00685"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#685"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00685"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#685"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00685] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00687"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#687"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'Q' should be converted to const"
+ , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'Q' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00687"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#687"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00687"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#687"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00687"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#687"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00687"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#687"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00687"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#687"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00687"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#687"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00687] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00688"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#688"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00688] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00688] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00688"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#688"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00688] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00688] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00689"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#689"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00689] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00689] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00689"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#689"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00689] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00689] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00689"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#689"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00689] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00689] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00689"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#689"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00689] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00689] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00690"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#690"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00690"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#690"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00690"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#690"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00690"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#690"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00692"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#692"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'C' should be converted to const"
+ , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'C' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00692"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#692"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00692"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#692"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00692"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#692"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00692"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#692"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00692"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#692"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00692"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#692"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#693"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#693"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#693"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#693"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#693"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00693"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#693"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00693] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00694"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#694"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00694] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00694] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00694"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#694"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00694] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00694] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00694"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#694"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00694] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00694] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00694"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#694"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00694] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00694] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00695"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#695"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00695"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#695"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00695"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#695"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00695"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#695"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00696"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#696"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00696"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#696"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00696"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#696"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00696"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#696"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00699"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#699"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00699"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#699"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00699"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#699"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00699"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#699"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00699"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#699"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00699"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#699"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00699"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#699"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00699] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#700"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#700"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#700"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#700"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#700"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#700"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00701"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#701"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00701] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00701] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00701"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#701"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00701] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00701] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00702"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#702"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00702"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#702"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00702"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#702"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00702"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#702"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00702"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#702"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00702"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#702"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00702] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00706"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#706"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00706] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'unknown3 ' should be converted to const"
+ , "c3" : "QC-JAV000010[00706] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'unknown3 ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00710"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#710"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00710] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00710] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00711"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#711"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00711] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'path' should be converted to const"
+ , "c3" : "QC-JAV000010[00711] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'path' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00712"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#712"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00712] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'd' should be converted to const"
+ , "c3" : "QC-JAV000010[00712] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'd' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00713"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#713"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00713] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00713] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00716"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#716"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00716] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00716] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00717"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#717"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00717] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'id' should be converted to const"
+ , "c3" : "QC-JAV000010[00717] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00720"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#720"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00720] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00720] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00721"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#721"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00721] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN368306 the MagicNumber/String  'codeLine' should be converted to const"
+ , "c3" : "QC-JAV000010[00721] In method net.sourceforge.plantuml.svg.SvgGraphics.svgPath@POLYN369010 the MagicNumber/String  'codeLine' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3352,77 +3352,77 @@ var maDataBlocs = {
  , "c1" : "00729"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#729"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00729] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  '#00000000' should be converted to const"
+ , "c3" : "QC-JAV000010[00729] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  '#00000000' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00732"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#732"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00732] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  '#[0-9A-Fa-f]{8}' should be converted to const"
+ , "c3" : "QC-JAV000010[00732] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  '#[0-9A-Fa-f]{8}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00733"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#733"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00733] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  'fill' should be converted to const"
+ , "c3" : "QC-JAV000010[00733] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  'fill' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00733"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#733"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00733] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00733] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00733"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#733"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00733] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00733] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00734"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#734"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00734"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#734"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00734"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#734"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  255.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  255.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00735"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#735"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00735] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  'fill-opacity' should be converted to const"
+ , "c3" : "QC-JAV000010[00735] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  'fill-opacity' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00735"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#735"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00735] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  '%1.5f' should be converted to const"
+ , "c3" : "QC-JAV000010[00735] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  '%1.5f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00737"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#737"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00737] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN375987 the MagicNumber/String  'fill' should be converted to const"
+ , "c3" : "QC-JAV000010[00737] In method net.sourceforge.plantuml.svg.SvgGraphics.fillMe@POLYN376691 the MagicNumber/String  'fill' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3443,28 +3443,28 @@ var maDataBlocs = {
  , "c1" : "00742"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#742"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00742] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilterShadowId@POLYN376884 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00742] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilterShadowId@POLYN377588 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00743"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#743"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00743] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilterShadowId@POLYN376884 the MagicNumber/String  'filter' should be converted to const"
+ , "c3" : "QC-JAV000010[00743] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilterShadowId@POLYN377588 the MagicNumber/String  'filter' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00743"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#743"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00743] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilterShadowId@POLYN376884 the MagicNumber/String  'url(#' should be converted to const"
+ , "c3" : "QC-JAV000010[00743] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilterShadowId@POLYN377588 the MagicNumber/String  'url(#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00743"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#743"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00743] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilterShadowId@POLYN376884 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00743] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilterShadowId@POLYN377588 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3478,21 +3478,21 @@ var maDataBlocs = {
  , "c1" : "00755"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#755"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00755] In method net.sourceforge.plantuml.svg.SvgGraphics.moveto@POLYN377358 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00755] In method net.sourceforge.plantuml.svg.SvgGraphics.moveto@POLYN378062 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00755"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#755"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00755] In method net.sourceforge.plantuml.svg.SvgGraphics.moveto@POLYN377358 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00755] In method net.sourceforge.plantuml.svg.SvgGraphics.moveto@POLYN378062 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00755"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#755"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00755] In method net.sourceforge.plantuml.svg.SvgGraphics.moveto@POLYN377358 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00755] In method net.sourceforge.plantuml.svg.SvgGraphics.moveto@POLYN378062 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3506,28 +3506,28 @@ var maDataBlocs = {
  , "c1" : "00760"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#760"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00760] In method net.sourceforge.plantuml.svg.SvgGraphics.lineto@POLYN377758 the MagicNumber/String  'L' should be converted to const"
+ , "c3" : "QC-JAV000010[00760] In method net.sourceforge.plantuml.svg.SvgGraphics.lineto@POLYN378462 the MagicNumber/String  'L' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00760"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#760"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00760] In method net.sourceforge.plantuml.svg.SvgGraphics.lineto@POLYN377758 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00760] In method net.sourceforge.plantuml.svg.SvgGraphics.lineto@POLYN378462 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00760"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#760"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00760] In method net.sourceforge.plantuml.svg.SvgGraphics.lineto@POLYN377758 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00760] In method net.sourceforge.plantuml.svg.SvgGraphics.lineto@POLYN378462 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00765"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#765"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00765] In method net.sourceforge.plantuml.svg.SvgGraphics.closepath@POLYN378158 the MagicNumber/String  'Z ' should be converted to const"
+ , "c3" : "QC-JAV000010[00765] In method net.sourceforge.plantuml.svg.SvgGraphics.closepath@POLYN378862 the MagicNumber/String  'Z ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3541,49 +3541,49 @@ var maDataBlocs = {
  , "c1" : "00770"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#770"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378272 the MagicNumber/String  'C' should be converted to const"
+ , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378976 the MagicNumber/String  'C' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00770"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#770"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378272 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378976 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00770"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#770"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378272 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378976 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00770"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#770"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378272 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378976 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00770"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#770"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378272 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00770] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378976 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00771"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#771"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00771] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378272 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00771] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378976 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00771"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#771"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00771] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378272 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00771] In method net.sourceforge.plantuml.svg.SvgGraphics.curveto@POLYN378976 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3597,35 +3597,35 @@ var maDataBlocs = {
  , "c1" : "00779"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#779"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379250 the MagicNumber/String  'Q' should be converted to const"
+ , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379954 the MagicNumber/String  'Q' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00779"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#779"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379250 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379954 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00779"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#779"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379250 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379954 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00779"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#779"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379250 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379954 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00779"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#779"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379250 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00779] In method net.sourceforge.plantuml.svg.SvgGraphics.quadto@POLYN379954 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3646,21 +3646,21 @@ var maDataBlocs = {
  , "c1" : "00789"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#789"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00789] In method net.sourceforge.plantuml.svg.SvgGraphics.formatBoolean@POLYN380116 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00789] In method net.sourceforge.plantuml.svg.SvgGraphics.formatBoolean@POLYN380820 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00789"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#789"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00789] In method net.sourceforge.plantuml.svg.SvgGraphics.formatBoolean@POLYN380116 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00789] In method net.sourceforge.plantuml.svg.SvgGraphics.formatBoolean@POLYN380820 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00789"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#789"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00789] In method net.sourceforge.plantuml.svg.SvgGraphics.formatBoolean@POLYN380116 the MagicNumber/String  '1' should be converted to const"
+ , "c3" : "QC-JAV000010[00789] In method net.sourceforge.plantuml.svg.SvgGraphics.formatBoolean@POLYN380820 the MagicNumber/String  '1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3674,28 +3674,28 @@ var maDataBlocs = {
  , "c1" : "00793"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#793"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00793] In method net.sourceforge.plantuml.svg.SvgGraphics.fill@POLYN380366 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00793] In method net.sourceforge.plantuml.svg.SvgGraphics.fill@POLYN381070 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00794"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#794"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00794] In method net.sourceforge.plantuml.svg.SvgGraphics.fill@POLYN380366 the MagicNumber/String  'path' should be converted to const"
+ , "c3" : "QC-JAV000010[00794] In method net.sourceforge.plantuml.svg.SvgGraphics.fill@POLYN381070 the MagicNumber/String  'path' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00795"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#795"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00795] In method net.sourceforge.plantuml.svg.SvgGraphics.fill@POLYN380366 the MagicNumber/String  'd' should be converted to const"
+ , "c3" : "QC-JAV000010[00795] In method net.sourceforge.plantuml.svg.SvgGraphics.fill@POLYN381070 the MagicNumber/String  'd' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00800"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#800"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00800] In method net.sourceforge.plantuml.svg.SvgGraphics.fill@POLYN380366 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00800] In method net.sourceforge.plantuml.svg.SvgGraphics.fill@POLYN381070 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3716,119 +3716,119 @@ var maDataBlocs = {
  , "c1" : "00807"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#807"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00807] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00807] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00808"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#808"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00808] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00808] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00811"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#811"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00811] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00811] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00811"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#811"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00811] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00811] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00813"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#813"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00813] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00813] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00813"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#813"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00813] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00813] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00817"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#817"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00817"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#817"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00817"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#817"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00817"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#817"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00817"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#817"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00817"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#817"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00817] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00819"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#819"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00819] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00819] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00819"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#819"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00819] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00819] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00819"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#819"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00819] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00819] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00819"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#819"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00819] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00819] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00821"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#821"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00821] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN380944 the MagicNumber/String  'code=' should be converted to const"
+ , "c3" : "QC-JAV000010[00821] In method net.sourceforge.plantuml.svg.SvgGraphics.drawPathIterator@POLYN381648 the MagicNumber/String  'code=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3849,56 +3849,56 @@ var maDataBlocs = {
  , "c1" : "00831"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#831"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00831] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383243 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00831] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383947 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00832"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#832"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00832] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383243 the MagicNumber/String  'image' should be converted to const"
+ , "c3" : "QC-JAV000010[00832] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383947 the MagicNumber/String  'image' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00833"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#833"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00833] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383243 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00833] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383947 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00834"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#834"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00834] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383243 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00834] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383947 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00835"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#835"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00835] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383243 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00835] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383947 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00836"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#836"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00836] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383243 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00836] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383947 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00838"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#838"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00838] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383243 the MagicNumber/String  'xlink:href' should be converted to const"
+ , "c3" : "QC-JAV000010[00838] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383947 the MagicNumber/String  'xlink:href' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00838"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#838"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00838] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383243 the MagicNumber/String  'data:image/png;base64,' should be converted to const"
+ , "c3" : "QC-JAV000010[00838] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN383947 the MagicNumber/String  'data:image/png;base64,' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3919,56 +3919,56 @@ var maDataBlocs = {
  , "c1" : "00848"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#848"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00848] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN384817 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00848] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN385521 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00850"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#850"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00850] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN384817 the MagicNumber/String  '&amp;lt;svg x=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00850] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN385521 the MagicNumber/String  '&amp;lt;svg x=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00850"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#850"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00850] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN384817 the MagicNumber/String  '\' y=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00850] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN385521 the MagicNumber/String  '\' y=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00850"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#850"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00850] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN384817 the MagicNumber/String  '\'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00850] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN385521 the MagicNumber/String  '\'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00851"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#851"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00851] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN384817 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00851] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN385521 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00852"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#852"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00852] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN384817 the MagicNumber/String  'imagesvginlined' should be converted to const"
+ , "c3" : "QC-JAV000010[00852] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN385521 the MagicNumber/String  'imagesvginlined' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00858"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#858"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00858] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN384817 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00858] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN385521 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00858"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#858"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00858] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN384817 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00858] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImageUnsecure@POLYN385521 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3989,119 +3989,119 @@ var maDataBlocs = {
  , "c1" : "00868"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#868"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00868] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00868] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00869"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#869"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00869] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'image' should be converted to const"
+ , "c3" : "QC-JAV000010[00869] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'image' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00870"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#870"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00870] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00870] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00871"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#871"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00871] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00871] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00872"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#872"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00872] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00872] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00873"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#873"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00873] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00873] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00879"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#879"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00879] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  '&amp;lt;svg height=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00879] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  '&amp;lt;svg height=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00879"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#879"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00879] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  '\' width=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00879] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  '\' width=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00881"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#881"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00881] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  '\' xmlns:xlink=\'http://www.w3.org/1999/xlink\' xmlns=\'http://www.w3.org/2000/svg\' &amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00881] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  '\' xmlns:xlink=\'http://www.w3.org/1999/xlink\' xmlns=\'http://www.w3.org/2000/svg\' &amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00883"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#883"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00883] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  '&amp;lt;svg height=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00883] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  '&amp;lt;svg height=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00883"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#883"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00883] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  '\' width=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00883] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  '\' width=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00884"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#884"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00884] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  '\' xmlns=\'http://www.w3.org/2000/svg\' &amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00884] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  '\' xmlns=\'http://www.w3.org/2000/svg\' &amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00886"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#886"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00886] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00886] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00889"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#889"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00889] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'xlink:href' should be converted to const"
+ , "c3" : "QC-JAV000010[00889] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'xlink:href' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00889"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#889"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00889] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'data:image/svg+xml;base64,' should be converted to const"
+ , "c3" : "QC-JAV000010[00889] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'data:image/svg+xml;base64,' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00894"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#894"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00894] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00894] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00894"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#894"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00894] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386169 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00894] In method net.sourceforge.plantuml.svg.SvgGraphics.svgImage@POLYN386873 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4122,126 +4122,126 @@ var maDataBlocs = {
  , "c1" : "00899"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#899"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00899] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00899] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00900"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#900"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00900] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00900] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00903"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#903"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00903] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00903] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00903"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#903"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00903] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00903] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00903"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#903"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00903] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '\r' should be converted to const"
+ , "c3" : "QC-JAV000010[00903] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '\r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00903"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#903"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00903] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00903] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00904"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#904"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00904] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '&amp;lt;g ' should be converted to const"
+ , "c3" : "QC-JAV000010[00904] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '&amp;lt;g ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00904"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#904"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00904] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00904] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00904"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#904"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00904] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '&amp;lt;g&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00904] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '&amp;lt;g&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00904"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#904"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00904] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00904] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00905"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#905"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00905] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '\\&amp;lt;svg\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00905] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '\\&amp;lt;svg\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00905"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#905"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00905] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '&amp;lt;svg&amp;gt;&amp;lt;g&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00905] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '&amp;lt;svg&amp;gt;&amp;lt;g&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00906"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#906"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00906] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '\\&amp;lt;/svg\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00906] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '\\&amp;lt;/svg\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00906"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#906"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00906] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '&amp;lt;/g&amp;gt;&amp;lt;/svg&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00906] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '&amp;lt;/g&amp;gt;&amp;lt;/svg&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00909"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#909"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00909] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '\\&amp;lt;g\\b' should be converted to const"
+ , "c3" : "QC-JAV000010[00909] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '\\&amp;lt;g\\b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00910"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#910"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00910] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  '&amp;lt;g transform=\'scale(' should be converted to const"
+ , "c3" : "QC-JAV000010[00910] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  '&amp;lt;g transform=\'scale(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00910"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#910"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00910] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00910] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00910"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#910"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00910] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN388770 the MagicNumber/String  ')\' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00910] In method net.sourceforge.plantuml.svg.SvgGraphics.manageScale@POLYN389474 the MagicNumber/String  ')\' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4255,7 +4255,7 @@ var maDataBlocs = {
  , "c1" : "00917"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#917"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00917] In method net.sourceforge.plantuml.svg.SvgGraphics.toBase64@POLYN390233 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00917] In method net.sourceforge.plantuml.svg.SvgGraphics.toBase64@POLYN390937 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4269,7 +4269,7 @@ var maDataBlocs = {
  , "c1" : "00923"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#923"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00923] In method net.sourceforge.plantuml.svg.SvgGraphics.toBase64@POLYN390716 the MagicNumber/String  'UTF8' should be converted to const"
+ , "c3" : "QC-JAV000010[00923] In method net.sourceforge.plantuml.svg.SvgGraphics.toBase64@POLYN391420 the MagicNumber/String  'UTF8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4283,322 +4283,322 @@ var maDataBlocs = {
  , "c1" : "00932"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#932"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00932] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00932] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00933"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#933"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00933] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00933] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00935"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#935"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00935] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'filter' should be converted to const"
+ , "c3" : "QC-JAV000010[00935] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'filter' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00936"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#936"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00936] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'id' should be converted to const"
+ , "c3" : "QC-JAV000010[00936] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00937"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#937"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00937] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00937] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00937"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#937"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00937] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  '-1' should be converted to const"
+ , "c3" : "QC-JAV000010[00937] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  '-1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00938"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#938"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00938] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00938] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00938"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#938"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00938] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  '-1' should be converted to const"
+ , "c3" : "QC-JAV000010[00938] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  '-1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00939"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#939"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00939] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00939] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00939"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#939"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00939] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  '300%' should be converted to const"
+ , "c3" : "QC-JAV000010[00939] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  '300%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00940"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#940"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00940] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00940] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00940"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#940"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00940] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  '300%' should be converted to const"
+ , "c3" : "QC-JAV000010[00940] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  '300%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00941"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#941"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'feGaussianBlur' should be converted to const"
+ , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'feGaussianBlur' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00941"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#941"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'result' should be converted to const"
+ , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'result' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00941"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#941"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'blurOut' should be converted to const"
+ , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'blurOut' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00941"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#941"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'stdDeviation' should be converted to const"
+ , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'stdDeviation' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00941"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#941"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00941"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#941"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00941] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00942"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#942"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'feColorMatrix' should be converted to const"
+ , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'feColorMatrix' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00942"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#942"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'type' should be converted to const"
+ , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00942"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#942"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'matrix' should be converted to const"
+ , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'matrix' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00942"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#942"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'in' should be converted to const"
+ , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'in' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00942"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#942"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'blurOut' should be converted to const"
+ , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'blurOut' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00942"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#942"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'result' should be converted to const"
+ , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'result' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00942"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#942"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'blurOut2' should be converted to const"
+ , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'blurOut2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00942"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#942"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'values' should be converted to const"
+ , "c3" : "QC-JAV000010[00942] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'values' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00943"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#943"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00943] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  '0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0' should be converted to const"
+ , "c3" : "QC-JAV000010[00943] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  '0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'feOffset' should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'feOffset' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'result' should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'result' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'blurOut3' should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'blurOut3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'in' should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'in' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'blurOut2' should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'blurOut2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'dx' should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'dx' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00944"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#944"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'dy' should be converted to const"
+ , "c3" : "QC-JAV000010[00944] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'dy' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00945"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#945"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00945] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00945] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00945"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#945"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00945] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00945] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00946"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#946"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'feBlend' should be converted to const"
+ , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'feBlend' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00946"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#946"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'in' should be converted to const"
+ , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'in' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00946"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#946"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'SourceGraphic' should be converted to const"
+ , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'SourceGraphic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00946"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#946"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'in2' should be converted to const"
+ , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'in2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00946"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#946"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'blurOut3' should be converted to const"
+ , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'blurOut3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00946"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#946"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'mode' should be converted to const"
+ , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'mode' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00946"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#946"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  'normal' should be converted to const"
+ , "c3" : "QC-JAV000010[00946] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  'normal' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00950"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#950"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00950] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391109 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00950] In method net.sourceforge.plantuml.svg.SvgGraphics.manageShadow@POLYN391813 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4619,35 +4619,35 @@ var maDataBlocs = {
  , "c1" : "00955"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#955"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00955] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393232 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00955] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393936 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00955"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#955"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00955] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393232 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00955] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393936 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00957"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#957"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00957] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393232 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00957] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393936 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00957"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#957"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00957] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393232 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00957] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393936 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00958"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#958"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00958] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393232 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00958] In method net.sourceforge.plantuml.svg.SvgGraphics.addFilter@POLYN393936 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4675,14 +4675,14 @@ var maDataBlocs = {
  , "c1" : "00977"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#977"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00977] In method net.sourceforge.plantuml.svg.SvgGraphics.addComment@POLYN394373 the MagicNumber/String  'MD5=[' should be converted to const"
+ , "c3" : "QC-JAV000010[00977] In method net.sourceforge.plantuml.svg.SvgGraphics.addComment@POLYN395077 the MagicNumber/String  'MD5=[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00977"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#977"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00977] In method net.sourceforge.plantuml.svg.SvgGraphics.addComment@POLYN394373 the MagicNumber/String  ']\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00977] In method net.sourceforge.plantuml.svg.SvgGraphics.addComment@POLYN395077 the MagicNumber/String  ']\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4696,28 +4696,28 @@ var maDataBlocs = {
  , "c1" : "00983"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#983"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00983] In method net.sourceforge.plantuml.svg.SvgGraphics.addScriptTag@POLYN394837 the MagicNumber/String  'script' should be converted to const"
+ , "c3" : "QC-JAV000010[00983] In method net.sourceforge.plantuml.svg.SvgGraphics.addScriptTag@POLYN395541 the MagicNumber/String  'script' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00984"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#984"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00984] In method net.sourceforge.plantuml.svg.SvgGraphics.addScriptTag@POLYN394837 the MagicNumber/String  'type' should be converted to const"
+ , "c3" : "QC-JAV000010[00984] In method net.sourceforge.plantuml.svg.SvgGraphics.addScriptTag@POLYN395541 the MagicNumber/String  'type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00984"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#984"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00984] In method net.sourceforge.plantuml.svg.SvgGraphics.addScriptTag@POLYN394837 the MagicNumber/String  'text/javascript' should be converted to const"
+ , "c3" : "QC-JAV000010[00984] In method net.sourceforge.plantuml.svg.SvgGraphics.addScriptTag@POLYN395541 the MagicNumber/String  'text/javascript' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00985"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#985"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00985] In method net.sourceforge.plantuml.svg.SvgGraphics.addScriptTag@POLYN394837 the MagicNumber/String  'xlink:href' should be converted to const"
+ , "c3" : "QC-JAV000010[00985] In method net.sourceforge.plantuml.svg.SvgGraphics.addScriptTag@POLYN395541 the MagicNumber/String  'xlink:href' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4731,7 +4731,7 @@ var maDataBlocs = {
  , "c1" : "00990"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#990"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00990] In method net.sourceforge.plantuml.svg.SvgGraphics.addScript@POLYN395266 the MagicNumber/String  'script' should be converted to const"
+ , "c3" : "QC-JAV000010[00990] In method net.sourceforge.plantuml.svg.SvgGraphics.addScript@POLYN395970 the MagicNumber/String  'script' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4745,21 +4745,21 @@ var maDataBlocs = {
  , "c1" : "00998"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#998"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00998] In method net.sourceforge.plantuml.svg.SvgGraphics.addStyle@POLYN395768 the MagicNumber/String  'style' should be converted to const"
+ , "c3" : "QC-JAV000010[00998] In method net.sourceforge.plantuml.svg.SvgGraphics.addStyle@POLYN396472 the MagicNumber/String  'style' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01002"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1002"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01002] In method net.sourceforge.plantuml.svg.SvgGraphics.addStyle@POLYN395768 the MagicNumber/String  'type' should be converted to const"
+ , "c3" : "QC-JAV000010[01002] In method net.sourceforge.plantuml.svg.SvgGraphics.addStyle@POLYN396472 the MagicNumber/String  'type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01002"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1002"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01002] In method net.sourceforge.plantuml.svg.SvgGraphics.addStyle@POLYN395768 the MagicNumber/String  'text/css' should be converted to const"
+ , "c3" : "QC-JAV000010[01002] In method net.sourceforge.plantuml.svg.SvgGraphics.addStyle@POLYN396472 the MagicNumber/String  'text/css' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4773,140 +4773,140 @@ var maDataBlocs = {
  , "c1" : "01017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1017"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01017] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01017] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1017"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01017] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  'a' should be converted to const"
+ , "c3" : "QC-JAV000010[01017] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  'a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01018"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1018"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01018] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01018] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01018"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1018"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01018] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  'target' should be converted to const"
+ , "c3" : "QC-JAV000010[01018] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  'target' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01019"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1019"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01019] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01019] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01020"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1020"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01020] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01020] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01021"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1021"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01021] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01021] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01021"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1021"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01021] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  'xlink:type' should be converted to const"
+ , "c3" : "QC-JAV000010[01021] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  'xlink:type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01021"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1021"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01021] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  'simple' should be converted to const"
+ , "c3" : "QC-JAV000010[01021] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  'simple' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01022"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1022"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01022] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01022] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01022"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1022"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01022] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  'xlink:actuate' should be converted to const"
+ , "c3" : "QC-JAV000010[01022] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  'xlink:actuate' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01022"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1022"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01022] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  'onRequest' should be converted to const"
+ , "c3" : "QC-JAV000010[01022] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  'onRequest' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01023"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1023"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01023] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01023] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01023"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1023"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01023] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  'xlink:show' should be converted to const"
+ , "c3" : "QC-JAV000010[01023] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  'xlink:show' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01023"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1023"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01023] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  'new' should be converted to const"
+ , "c3" : "QC-JAV000010[01023] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  'new' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01024"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1024"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01024] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01024] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01025"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1025"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01025] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01025] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01026"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1026"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01026] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01026] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01029"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1029"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01029] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01029] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01030"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1030"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01030] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN396359 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01030] In method net.sourceforge.plantuml.svg.SvgGraphics.openLink@POLYN397063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4927,70 +4927,70 @@ var maDataBlocs = {
  , "c1" : "01035"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1035"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01035] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN398327 the MagicNumber/String  '\\&amp;lt;U\\+([0-9A-Fa-f]+)\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[01035] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN399031 the MagicNumber/String  '\\&amp;lt;U\\+([0-9A-Fa-f]+)\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01039"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1039"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01039] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN398327 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[01039] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN399031 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01040"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1040"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01040] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN398327 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[01040] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN399031 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1041"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01041] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN398327 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[01041] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN399031 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1045"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01045] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN398327 the MagicNumber/String  '\\\\n' should be converted to const"
+ , "c3" : "QC-JAV000010[01045] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN399031 the MagicNumber/String  '\\\\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1045"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01045] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN398327 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[01045] In method net.sourceforge.plantuml.svg.SvgGraphics.formatTitle@POLYN399031 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1050"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01050] In method net.sourceforge.plantuml.svg.SvgGraphics.closeLink@POLYN399358 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01050] In method net.sourceforge.plantuml.svg.SvgGraphics.closeLink@POLYN400062 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1051"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01051] In method net.sourceforge.plantuml.svg.SvgGraphics.closeLink@POLYN399358 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01051] In method net.sourceforge.plantuml.svg.SvgGraphics.closeLink@POLYN400062 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1052"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01052] In method net.sourceforge.plantuml.svg.SvgGraphics.closeLink@POLYN399358 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01052] In method net.sourceforge.plantuml.svg.SvgGraphics.closeLink@POLYN400062 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1053"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01053] In method net.sourceforge.plantuml.svg.SvgGraphics.closeLink@POLYN399358 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[01053] In method net.sourceforge.plantuml.svg.SvgGraphics.closeLink@POLYN400062 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5011,42 +5011,42 @@ var maDataBlocs = {
  , "c1" : "01064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1064"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01064] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN399850 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01064] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN400554 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1064"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01064] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN399850 the MagicNumber/String  'g' should be converted to const"
+ , "c3" : "QC-JAV000010[01064] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN400554 the MagicNumber/String  'g' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1068"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01068] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN399850 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01068] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN400554 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1068"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01068] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN399850 the MagicNumber/String  'id' should be converted to const"
+ , "c3" : "QC-JAV000010[01068] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN400554 the MagicNumber/String  'id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1070"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01070] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN399850 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[01070] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN400554 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "01070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1070"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[01070] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN399850 the MagicNumber/String  'class' should be converted to const"
+ , "c3" : "QC-JAV000010[01070] In method net.sourceforge.plantuml.svg.SvgGraphics.startGroup@POLYN400554 the MagicNumber/String  'class' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

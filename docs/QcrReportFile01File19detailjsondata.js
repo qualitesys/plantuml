@@ -110,7 +110,7 @@ var maDataBlocs = {
  , "c1" : "00021"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanBit.java.html#21"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00021] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.startNewRun@POLYN156483 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00021] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.startNewRun@POLYN157187 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -124,42 +124,42 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanBit.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.getPixelTypes@POLYN156624 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.getPixelTypes@POLYN157328 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanBit.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.getPixelTypes@POLYN156624 the MagicNumber/String  0xff should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.getPixelTypes@POLYN157328 the MagicNumber/String  0xff should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanBit.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.generateScanToPixelTypeTable@POLYN158128 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.generateScanToPixelTypeTable@POLYN158832 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanBit.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.generateScanToPixelTypeTable@POLYN158128 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.generateScanToPixelTypeTable@POLYN158832 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanBit.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.generateScanToPixelTypeTable@POLYN158128 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.generateScanToPixelTypeTable@POLYN158832 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/RowTypeRendererScanBit.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.generateScanToPixelTypeTable@POLYN158128 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit.generateScanToPixelTypeTable@POLYN158832 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

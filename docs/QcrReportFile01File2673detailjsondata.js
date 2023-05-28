@@ -141,105 +141,105 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPathHand.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN166846 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.ugraphic.hand.UPathHand.UPathHand@POLYN167550 the MagicNumber/String  6 should be converted to const"
 }} 
 ]
 , 

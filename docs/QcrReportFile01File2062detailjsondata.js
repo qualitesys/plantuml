@@ -142,7 +142,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.skin.ActorAwesome.ActorAwesome@POLYN169741 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.skin.ActorAwesome.ActorAwesome@POLYN170445 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -163,259 +163,259 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN169947 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.skin.ActorAwesome.drawU@POLYN170651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.skin.ActorAwesome.getPreferredWidth@POLYN173876 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.skin.ActorAwesome.getPreferredWidth@POLYN174580 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/ActorAwesome.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.skin.ActorAwesome.getPreferredHeight@POLYN174020 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.skin.ActorAwesome.getPreferredHeight@POLYN174724 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

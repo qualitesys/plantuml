@@ -164,7 +164,7 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.Stack.Stack@POLYN168790 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.Stack.Stack@POLYN169494 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -178,14 +178,14 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.Stack.addEnvelop@POLYN169150 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.Stack.addEnvelop@POLYN169854 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.getLast@POLYN170158 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.getLast@POLYN170862 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -206,77 +206,77 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.add@POLYN170498 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.add@POLYN171202 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.restore@POLYN171568 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.restore@POLYN172272 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.restore@POLYN171568 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.restore@POLYN172272 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.restore@POLYN171568 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.restore@POLYN172272 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.restore@POLYN171568 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.restore@POLYN172272 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.closeBar@POLYN172611 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.closeBar@POLYN173315 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.closeBar@POLYN172611 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.closeBar@POLYN173315 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.closeBar@POLYN172611 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.closeBar@POLYN173315 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.closeBar@POLYN172611 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.closeBar@POLYN173315 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.toString@POLYN173682 the MagicNumber/String  'nb=' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.toString@POLYN174386 the MagicNumber/String  'nb=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierStackImpl.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.toString@POLYN173682 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.toString@POLYN174386 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
 , 

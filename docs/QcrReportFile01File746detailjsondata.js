@@ -183,42 +183,42 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN156552 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN157256 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN156552 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN157256 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN156552 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN157256 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN156552 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN157256 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.toBytes@POLYN157254 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.toBytes@POLYN157958 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.toBytes@POLYN157254 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.toBytes@POLYN157958 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -239,14 +239,14 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.copyBlock@POLYN157933 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.copyBlock@POLYN158637 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.copyBlock@POLYN157933 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.copyBlock@POLYN158637 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -274,7 +274,7 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.xor@POLYN158175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.xor@POLYN158879 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -309,7 +309,7 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.xor@POLYN158614 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.xor@POLYN159318 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -330,14 +330,14 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.xorWith@POLYN159137 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.xorWith@POLYN159841 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/model/Block.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.clear@POLYN159960 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.argon2.model.Block.clear@POLYN160664 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

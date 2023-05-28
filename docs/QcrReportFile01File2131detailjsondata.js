@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.getRegexConcat@POLYN158917 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.getRegexConcat@POLYN159621 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.getRegexConcat@POLYN158917 the MagicNumber/String  '(--+|\\|\\|+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.getRegexConcat@POLYN159621 the MagicNumber/String  '(--+|\\|\\|+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,28 +143,28 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.executeArg@POLYN159256 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.executeArg@POLYN159960 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.executeArg@POLYN159256 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.executeArg@POLYN159960 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.executeArg@POLYN159256 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.executeArg@POLYN159960 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandConcurrentState.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.executeArg@POLYN159256 the MagicNumber/String  'Error 42' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.statediagram.command.CommandConcurrentState.executeArg@POLYN159960 the MagicNumber/String  'Error 42' should be converted to const"
 }} 
 ]
 , 

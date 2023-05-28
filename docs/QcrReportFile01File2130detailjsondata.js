@@ -108,49 +108,49 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN163813 the MagicNumber/String  'CODE3' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN164517 the MagicNumber/String  'CODE3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN163813 the MagicNumber/String  '([%pLN_.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN164517 the MagicNumber/String  '([%pLN_.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN163813 the MagicNumber/String  'CODE4' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN164517 the MagicNumber/String  'CODE4' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN163813 the MagicNumber/String  '[%g]([^%g]+)[%g]' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN164517 the MagicNumber/String  '[%g]([^%g]+)[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN163813 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN164517 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN163813 the MagicNumber/String  'FIELD' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN164517 the MagicNumber/String  'FIELD' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN163813 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.getRegexConcat@POLYN164517 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -178,42 +178,42 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN164508 the MagicNumber/String  'CODE' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN165212 the MagicNumber/String  'CODE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN164508 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN165212 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN164508 the MagicNumber/String  'FIELD' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN165212 the MagicNumber/String  'FIELD' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN164508 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN165212 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN164508 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN165212 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/statediagram/command/CommandAddField.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN164508 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.statediagram.command.CommandAddField.executeArg@POLYN165212 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

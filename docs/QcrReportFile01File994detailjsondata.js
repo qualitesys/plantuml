@@ -232,49 +232,49 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.regex.RegexLeaf.RegexLeaf@POLYN173934 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.regex.RegexLeaf.RegexLeaf@POLYN174638 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.regex.RegexLeaf.spaceZeroOrMore@POLYN174304 the MagicNumber/String  '[%s]*' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.regex.RegexLeaf.spaceZeroOrMore@POLYN175008 the MagicNumber/String  '[%s]*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.regex.RegexLeaf.spaceOneOrMore@POLYN174435 the MagicNumber/String  '[%s]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.regex.RegexLeaf.spaceOneOrMore@POLYN175139 the MagicNumber/String  '[%s]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.regex.RegexLeaf.toString@POLYN174757 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.regex.RegexLeaf.toString@POLYN175461 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.regex.RegexLeaf.toString@POLYN174757 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.regex.RegexLeaf.toString@POLYN175461 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.command.regex.RegexLeaf.count@POLYN175125 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.command.regex.RegexLeaf.count@POLYN175829 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.command.regex.RegexLeaf.count@POLYN175125 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.command.regex.RegexLeaf.count@POLYN175829 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,14 +302,14 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.command.regex.RegexLeaf.createPartialMatch@POLYN175487 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.command.regex.RegexLeaf.createPartialMatch@POLYN176191 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.command.regex.RegexLeaf.createPartialMatch@POLYN175487 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.command.regex.RegexLeaf.createPartialMatch@POLYN176191 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -344,203 +344,203 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN176971 the MagicNumber/String  1L should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN177675 the MagicNumber/String  1L should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN176971 the MagicNumber/String  '()|' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN177675 the MagicNumber/String  '()|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN176971 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN177675 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN176971 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN177675 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN176971 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getSignatureP3@POLYN177675 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignatureNone@POLYN177790 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignatureNone@POLYN178494 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '\\&amp;lt;\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '\\&amp;lt;\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)' should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '&amp;lt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '&amp;lt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '\\&amp;lt;-\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '\\&amp;lt;-\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '&amp;lt;-&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '&amp;lt;-&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '(-+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '(-+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '\\|+' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '\\|+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '\\|\\|' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '\\|\\|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '([*]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '([*]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '[%s]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '[%s]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  '[%s]*' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  '[%s]*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexLeaf.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN177878 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.command.regex.RegexLeaf.getFoxSignature@POLYN178582 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

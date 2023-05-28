@@ -108,28 +108,28 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.getRegexConcat@POLYN159571 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.getRegexConcat@POLYN160275 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.getRegexConcat@POLYN159571 the MagicNumber/String  '(remove|restore)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.getRegexConcat@POLYN160275 the MagicNumber/String  '(remove|restore)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.getRegexConcat@POLYN159571 the MagicNumber/String  'WHAT' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.getRegexConcat@POLYN160275 the MagicNumber/String  'WHAT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.getRegexConcat@POLYN159571 the MagicNumber/String  '(.+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.getRegexConcat@POLYN160275 the MagicNumber/String  '(.+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -157,35 +157,35 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160038 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160742 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160038 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160742 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160038 the MagicNumber/String  'restore' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160742 the MagicNumber/String  'restore' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160038 the MagicNumber/String  'WHAT' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160742 the MagicNumber/String  'WHAT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandRemoveRestore.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160038 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore.executeArg@POLYN160742 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

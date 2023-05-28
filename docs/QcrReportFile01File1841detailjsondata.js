@@ -117,28 +117,28 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.create@POLYN161318 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.create@POLYN162022 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.create@POLYN161318 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.create@POLYN162022 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.create@POLYN161318 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.create@POLYN162022 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.create@POLYN161318 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.create@POLYN162022 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -159,35 +159,35 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.extracted@POLYN162113 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.extracted@POLYN162817 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.extracted@POLYN162113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.extracted@POLYN162817 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.ready@POLYN162468 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.ready@POLYN163172 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.ready@POLYN162468 the MagicNumber/String  '[]' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.ready@POLYN163172 the MagicNumber/String  '[]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryCheckboxOff.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.ready@POLYN162468 the MagicNumber/String  '[ ]' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff.ready@POLYN163172 the MagicNumber/String  '[ ]' should be converted to const"
 }} 
 ]
 , 

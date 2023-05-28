@@ -183,7 +183,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.stats.StatsImpl.createDataLineSession@POLYN178546 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.stats.StatsImpl.createDataLineSession@POLYN179250 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -211,42 +211,42 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.stats.StatsImpl.getLastSessions@POLYN182476 the MagicNumber/String  'Statistics' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.stats.StatsImpl.getLastSessions@POLYN183180 the MagicNumber/String  'Statistics' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.stats.StatsImpl.getLastSessions@POLYN182476 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.stats.StatsImpl.getLastSessions@POLYN183180 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.stats.StatsImpl.getCurrentSessionByFormat@POLYN183183 the MagicNumber/String  'current format' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.stats.StatsImpl.getCurrentSessionByFormat@POLYN183887 the MagicNumber/String  'current format' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.stats.StatsImpl.getAllByFormat@POLYN183310 the MagicNumber/String  'all format' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.stats.StatsImpl.getAllByFormat@POLYN184014 the MagicNumber/String  'all format' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.stats.StatsImpl.getCurrentSessionByDiagramType@POLYN183437 the MagicNumber/String  'Current session' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.stats.StatsImpl.getCurrentSessionByDiagramType@POLYN184141 the MagicNumber/String  'Current session' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.stats.StatsImpl.getAllByDiagramType@POLYN183578 the MagicNumber/String  'All session' should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.stats.StatsImpl.getAllByDiagramType@POLYN184282 the MagicNumber/String  'All session' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -281,7 +281,7 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.stats.StatsImpl.getByDiagramType@POLYN183719 the MagicNumber/String  'Total' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.stats.StatsImpl.getByDiagramType@POLYN184423 the MagicNumber/String  'Total' should be converted to const"
 }} 
 ]
 , 

@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemCharlie.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.eggs.PSystemCharlie.getDescription@POLYN160808 the MagicNumber/String  '(Je Suis Charlie)' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.eggs.PSystemCharlie.getDescription@POLYN161512 the MagicNumber/String  '(Je Suis Charlie)' should be converted to const"
 }} 
 ]
 , 

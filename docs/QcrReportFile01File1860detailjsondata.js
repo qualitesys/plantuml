@@ -140,14 +140,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sdot.YMirror.getMirrored@POLYN159356 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.sdot.YMirror.getMirrored@POLYN160060 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sdot/YMirror.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.sdot.YMirror.getMirrored@POLYN159356 the MagicNumber/String  'BAD VALUE IN YMirror' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.sdot.YMirror.getMirrored@POLYN160060 the MagicNumber/String  'BAD VALUE IN YMirror' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

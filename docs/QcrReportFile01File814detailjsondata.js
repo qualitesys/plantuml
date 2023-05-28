@@ -108,35 +108,35 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandDockedEvent.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159110 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159814 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandDockedEvent.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159110 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159814 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandDockedEvent.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159110 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159814 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandDockedEvent.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159110 the MagicNumber/String  'STYLE' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159814 the MagicNumber/String  'STYLE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandDockedEvent.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159110 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.getRegexConcat@POLYN159814 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -164,21 +164,21 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandDockedEvent.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.executeArg@POLYN159597 the MagicNumber/String  'LABEL' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.executeArg@POLYN160301 the MagicNumber/String  'LABEL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandDockedEvent.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.executeArg@POLYN159597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.executeArg@POLYN160301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandDockedEvent.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.executeArg@POLYN159597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.bpm.CommandDockedEvent.executeArg@POLYN160301 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

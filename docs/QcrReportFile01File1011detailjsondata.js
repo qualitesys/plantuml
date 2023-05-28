@@ -151,56 +151,56 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN167558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN168262 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN167558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN168262 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN167558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN168262 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN167558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN168262 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN167558 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getHorizontalLine@POLYN168262 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getTitle@POLYN168087 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getTitle@POLYN168791 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getTitle@POLYN168087 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getTitle@POLYN168791 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getTitle@POLYN168087 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getTitle@POLYN168791 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -221,7 +221,7 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.drawU@POLYN168854 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.drawU@POLYN169558 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -235,21 +235,21 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.calculateDimension@POLYN169297 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.calculateDimension@POLYN170001 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.calculateDimension@POLYN169297 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.calculateDimension@POLYN170001 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.calculateDimension@POLYN169297 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.calculateDimension@POLYN170001 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -263,7 +263,7 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/CreoleHorizontalLine.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getStartingAltitude@POLYN169711 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.creole.CreoleHorizontalLine.getStartingAltitude@POLYN170415 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -137,21 +137,21 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.Buffer@POLYN155095 the MagicNumber/String  65536 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.Buffer@POLYN155799 the MagicNumber/String  65536 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.getResult@POLYN155334 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.getResult@POLYN156038 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.getResult@POLYN155334 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.getResult@POLYN156038 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -165,21 +165,21 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.append@POLYN155755 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.append@POLYN156459 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.append@POLYN155755 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.append@POLYN156459 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.append@POLYN155755 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.append@POLYN156459 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -193,49 +193,49 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN156323 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN157027 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN156323 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN157027 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN156323 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN157027 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN156323 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN157027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN156323 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN157027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN156323 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN157027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN156323 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addBits@POLYN157027 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -249,56 +249,56 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157108 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157812 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157108 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157812 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157108 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157812 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157108 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157812 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157108 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157812 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157108 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157812 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157108 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157812 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Buffer.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157108 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.zopfli.Buffer.addHuffmanBits@POLYN157812 the MagicNumber/String  7 should be converted to const"
 }} 
 ]
 , 

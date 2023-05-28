@@ -205,28 +205,28 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.SpriteContainerEmpty.getValue@POLYN159586 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.SpriteContainerEmpty.getValue@POLYN160290 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.SpriteContainerEmpty.getPadding@POLYN159696 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.SpriteContainerEmpty.getPadding@POLYN160400 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.SpriteContainerEmpty.getTabSize@POLYN159972 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.SpriteContainerEmpty.getTabSize@POLYN160676 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.SpriteContainerEmpty.getDpi@POLYN160166 the MagicNumber/String  96 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.SpriteContainerEmpty.getDpi@POLYN160870 the MagicNumber/String  96 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -247,7 +247,7 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SpriteContainerEmpty.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.SpriteContainerEmpty.minClassWidthTOBEREMOVED@POLYN160642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.SpriteContainerEmpty.minClassWidthTOBEREMOVED@POLYN161346 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

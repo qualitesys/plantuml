@@ -124,21 +124,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.Dirpath@POLYN159332 the MagicNumber/String  'dirpath' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.Dirpath@POLYN160036 the MagicNumber/String  'dirpath' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.getSignature@POLYN159508 the MagicNumber/String  '%dirpath' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.getSignature@POLYN160212 the MagicNumber/String  '%dirpath' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.getSignature@POLYN159508 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.getSignature@POLYN160212 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -152,7 +152,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.canCover@POLYN159658 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.canCover@POLYN160362 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -166,14 +166,14 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.executeReturnFunction@POLYN159836 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.executeReturnFunction@POLYN160540 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Dirpath.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.executeReturnFunction@POLYN159836 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.tim.stdlib.Dirpath.executeReturnFunction@POLYN160540 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getDescription@POLYN168292 the MagicNumber/String  '(Sprites)' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getDescription@POLYN168996 the MagicNumber/String  '(Sprites)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -133,7 +133,7 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.createImageBuilder@POLYN168432 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.createImageBuilder@POLYN169136 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -147,84 +147,84 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  50 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  50 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ListSpriteDiagram.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN168935 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sprite.ListSpriteDiagram.getTable@POLYN169639 the MagicNumber/String  1024 should be converted to const"
 }} 
 ]
 , 

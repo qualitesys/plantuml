@@ -275,105 +275,105 @@ var maDataBlocs = {
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  144 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  144 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  144 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  144 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  280 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  280 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  280 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  280 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN283301 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.getFixedTree@POLYN284005 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,189 +401,189 @@ var maDataBlocs = {
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  1024 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  1024 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00784"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#784"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN284661 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00784] In method net.sourceforge.plantuml.zopfli.Deflate.greedy@POLYN285365 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -604,238 +604,238 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  8192 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  8192 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0x7FFF should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0x7FFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0x8000 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0x8000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN288659 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.findLongestMatch@POLYN289363 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -877,21 +877,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateDynamicBlock@POLYN297013 the MagicNumber/String  1000 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateDynamicBlock@POLYN297717 the MagicNumber/String  1000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateDynamicBlock@POLYN297013 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateDynamicBlock@POLYN297717 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateDynamicBlock@POLYN297013 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateDynamicBlock@POLYN297717 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -919,14 +919,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateSplittingLast@POLYN299118 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateSplittingLast@POLYN299822 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateSplittingLast@POLYN299118 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateSplittingLast@POLYN299822 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -947,14 +947,14 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateSplittingFirst@POLYN300616 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateSplittingFirst@POLYN301320 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateSplittingFirst@POLYN300616 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.deflateSplittingFirst@POLYN301320 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -975,217 +975,217 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN301565 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateBlockSize@POLYN302269 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1206,77 +1206,77 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  4097 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  4097 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  16385 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  16385 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  8193 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  8193 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN305870 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.calculateFixedBlockSize@POLYN306574 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1290,21 +1290,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lzCounts@POLYN307704 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lzCounts@POLYN308408 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lzCounts@POLYN307704 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lzCounts@POLYN308408 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lzCounts@POLYN307704 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lzCounts@POLYN308408 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1325,7 +1325,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.compress@POLYN308830 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.compress@POLYN309534 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1339,112 +1339,112 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN309555 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.patchDistanceCodesForBuggyDecoders@POLYN310259 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1458,105 +1458,105 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN310597 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addDynamicTree@POLYN311301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1584,476 +1584,476 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  29 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  29 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  29 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  29 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  257 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  257 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  257 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  257 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  138 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  138 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  138 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  138 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  18 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  18 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  17 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  17 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  19 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  19 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  19 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  19 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  19 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  19 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  17 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  17 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  18 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  18 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312037 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.encodeTree@POLYN312741 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2067,56 +2067,56 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN319877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN320581 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN319877 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN320581 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN319877 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN320581 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN319877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN320581 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN319877 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN320581 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN319877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN320581 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN319877 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN320581 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN319877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateAddDynamicTree@POLYN320581 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2137,427 +2137,427 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  29 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  29 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  29 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  29 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  258 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  258 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  257 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  257 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  257 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  257 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  18 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  18 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  138 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  138 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  138 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  138 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  17 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  17 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  19 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  19 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  19 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  19 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  17 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  17 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  18 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  18 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN320819 the MagicNumber/String  19 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.simulateEncodeTree@POLYN321523 the MagicNumber/String  19 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2585,231 +2585,231 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  288 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  288 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  32 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  32 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN326689 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzBlock@POLYN327393 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2830,49 +2830,49 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN330625 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN331329 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN330625 the MagicNumber/String  4097 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN331329 the MagicNumber/String  4097 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN330625 the MagicNumber/String  16385 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN331329 the MagicNumber/String  16385 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN330625 the MagicNumber/String  8193 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN331329 the MagicNumber/String  8193 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN330625 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN331329 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN330625 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN331329 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN330625 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.addLzData@POLYN331329 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2886,105 +2886,105 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN332860 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.lengthsToSymbols@POLYN333564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3012,322 +3012,322 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/zopfli/Deflate.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN334802 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.zopfli.Deflate.optimizeHuffmanForRle@POLYN335506 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

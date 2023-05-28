@@ -135,21 +135,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN170510 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN171214 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN170510 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN171214 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN170510 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.ETileZeroOrMore@POLYN171214 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -163,7 +163,7 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getH1@POLYN171019 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getH1@POLYN171723 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -177,7 +177,7 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getH2@POLYN171143 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getH2@POLYN171847 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -191,7 +191,7 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getWidth@POLYN171389 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.getWidth@POLYN172093 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -212,14 +212,14 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.drawU@POLYN171588 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.drawU@POLYN172292 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileZeroOrMore.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.drawU@POLYN171588 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ebnf.ETileZeroOrMore.drawU@POLYN172292 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

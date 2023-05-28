@@ -99,35 +99,35 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPolygonHand.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN158322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN159026 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPolygonHand.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN158322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN159026 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPolygonHand.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN158322 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN159026 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPolygonHand.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN158322 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN159026 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/hand/UPolygonHand.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN158322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ugraphic.hand.UPolygonHand.UPolygonHand@POLYN159026 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

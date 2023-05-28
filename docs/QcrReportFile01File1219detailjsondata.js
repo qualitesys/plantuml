@@ -224,21 +224,21 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/EbnfEngine.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ebnf.EbnfEngine.repetitionSymbol@POLYN176009 the MagicNumber/String  '\u00D7' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.ebnf.EbnfEngine.repetitionSymbol@POLYN176713 the MagicNumber/String  '\u00D7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/EbnfEngine.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ebnf.EbnfEngine.repetitionSymbol@POLYN176009 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ebnf.EbnfEngine.repetitionSymbol@POLYN176713 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/EbnfEngine.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ebnf.EbnfEngine.getTextBlock@POLYN178361 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.ebnf.EbnfEngine.getTextBlock@POLYN179065 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -252,7 +252,7 @@ var maDataBlocs = {
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/EbnfEngine.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ebnf.EbnfEngine.syntaxError@POLYN178696 the MagicNumber/String  'Syntax error!' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.ebnf.EbnfEngine.syntaxError@POLYN179400 the MagicNumber/String  'Syntax error!' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -266,7 +266,7 @@ var maDataBlocs = {
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/EbnfEngine.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.ebnf.EbnfEngine.commentBelow@POLYN179015 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.ebnf.EbnfEngine.commentBelow@POLYN179719 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -280,7 +280,7 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/EbnfEngine.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.ebnf.EbnfEngine.commentAbove@POLYN179341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.ebnf.EbnfEngine.commentAbove@POLYN180045 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

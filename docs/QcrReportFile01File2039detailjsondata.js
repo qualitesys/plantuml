@@ -161,35 +161,35 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN171548 the MagicNumber/String  'lifelineStrategy' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN172252 the MagicNumber/String  'lifelineStrategy' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN171548 the MagicNumber/String  'nosolid' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN172252 the MagicNumber/String  'nosolid' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN171548 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN172252 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN171548 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN172252 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN171548 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.useContinueLineBecauseOfDelay@POLYN172252 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -203,7 +203,7 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.drawLine@POLYN172067 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.drawLine@POLYN172771 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -231,7 +231,7 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.drawInternal@POLYN173565 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.sequencediagram.teoz.MutingLine.drawInternal@POLYN174269 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

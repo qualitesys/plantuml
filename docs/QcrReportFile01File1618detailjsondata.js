@@ -232,7 +232,7 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc.FileWithSuffix.toString@POLYN176008 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc.FileWithSuffix.toString@POLYN176712 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -246,49 +246,49 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176241 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176241 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176241 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176241 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176241 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176241 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176241 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getReader@POLYN176945 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -316,21 +316,21 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getDataFromZip@POLYN177120 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getDataFromZip@POLYN177824 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getDataFromZip@POLYN177120 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getDataFromZip@POLYN177824 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.preproc.FileWithSuffix.fileOk@POLYN177973 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.preproc.FileWithSuffix.fileOk@POLYN178677 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -344,70 +344,70 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.preproc.FileWithSuffix.FileWithSuffix@POLYN178109 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.preproc.FileWithSuffix.FileWithSuffix@POLYN178813 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN178907 the MagicNumber/String  'NONE' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN179611 the MagicNumber/String  'NONE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN178907 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN179611 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN178907 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN179611 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN178907 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.FileWithSuffix.none@POLYN179611 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179119 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179823 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179119 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179823 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179119 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179823 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179119 the MagicNumber/String  43 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179823 the MagicNumber/String  43 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179119 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.preproc.FileWithSuffix.hashCode@POLYN179823 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -428,70 +428,70 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180169 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180873 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180169 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180873 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180169 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180873 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180169 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180873 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180169 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180873 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180169 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.preproc.FileWithSuffix.same@POLYN180873 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN180655 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN181359 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN180655 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN181359 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN180655 the MagicNumber/String  'Getting parent of ' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN181359 the MagicNumber/String  'Getting parent of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN180655 the MagicNumber/String  '--&amp;gt;The parent is ' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.preproc.FileWithSuffix.getParentFile@POLYN181359 the MagicNumber/String  '--&amp;gt;The parent is ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -505,70 +505,70 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181264 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.preproc.FileWithSuffix.equals@POLYN181968 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

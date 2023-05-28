@@ -241,7 +241,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.StringLocated.StringLocated@POLYN170549 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.StringLocated.StringLocated@POLYN171253 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -269,21 +269,21 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN171401 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN172105 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN171401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN172105 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN171401 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.StringLocated.mergeEndBackslash@POLYN172105 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -311,91 +311,91 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.StringLocated.getTrimmed@POLYN172680 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.StringLocated.getTrimmed@POLYN173384 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  '/'' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  '/'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  ''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  ''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  ''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  ''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  '/'' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  '/'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  '/'''' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  '/'''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173179 the MagicNumber/String  ''''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.StringLocated.removeInnerComment@POLYN173883 the MagicNumber/String  ''''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -409,42 +409,42 @@ var maDataBlocs = {
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN174762 the MagicNumber/String  '/'''' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN175466 the MagicNumber/String  '/'''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN174762 the MagicNumber/String  ''''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN175466 the MagicNumber/String  ''''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN174762 the MagicNumber/String  '/'''[-\\w]*'''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN175466 the MagicNumber/String  '/'''[-\\w]*'''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN174762 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.StringLocated.removeSpecialInnerComment@POLYN175466 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.StringLocated.getFoxSignature@POLYN175364 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.StringLocated.getFoxSignature@POLYN176068 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringLocated.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.StringLocated.getType@POLYN175622 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.StringLocated.getType@POLYN176326 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

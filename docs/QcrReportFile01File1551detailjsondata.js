@@ -104,105 +104,105 @@ var maDataBlocs = {
  , "c1" : "00042"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '\\s+' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '\\s+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '([^e\\s])-' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '([^e\\s])-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '$1 -' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '$1 -' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '([a-df-zA-Z])(\\S)' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '([a-df-zA-Z])(\\S)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '$1 $2' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '$1 $2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '(\\S)([a-df-zA-Z])' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '(\\S)([a-df-zA-Z])' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '$1 $2' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '$1 $2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '([a-df-zA-Z])(\\S)' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '([a-df-zA-Z])(\\S)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '$1 $2' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '$1 $2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '.*\\.\\d+\\..*' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '.*\\.\\d+\\..*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '(\\.\\d+)\\.' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '(\\.\\d+)\\.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/StringDecipher.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN155900 the MagicNumber/String  '$1 .' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.openiconic.StringDecipher.decipher@POLYN156604 the MagicNumber/String  '$1 .' should be converted to const"
 }} 
 ]
 , 

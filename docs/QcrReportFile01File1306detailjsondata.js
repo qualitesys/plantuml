@@ -133,49 +133,49 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN166538 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN167242 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN166538 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN167242 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN166538 the MagicNumber/String  'sprite' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN167242 the MagicNumber/String  'sprite' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN166538 the MagicNumber/String  '%03d' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN167242 the MagicNumber/String  '%03d' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN166538 the MagicNumber/String  '.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN167242 the MagicNumber/String  '.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN166538 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN167242 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN166538 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.fun.IconLoader.getSomeQuote@POLYN167242 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -189,14 +189,14 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.fun.IconLoader.getIcon@POLYN167492 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.fun.IconLoader.getIcon@POLYN168196 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.fun.IconLoader.getIcon@POLYN167492 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.fun.IconLoader.getIcon@POLYN168196 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -210,21 +210,21 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN168031 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN168735 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN168031 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN168735 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN168031 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.fun.IconLoader.getIconSlow@POLYN168735 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -238,42 +238,42 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN168693 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN169397 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN168693 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN169397 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN168693 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN169397 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN168693 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN169397 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN168693 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN169397 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/fun/IconLoader.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN168693 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.fun.IconLoader.addTransparent@POLYN169397 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

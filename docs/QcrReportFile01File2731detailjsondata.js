@@ -142,7 +142,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.version.PSystemKeycheck.getDescription@POLYN173469 the MagicNumber/String  '(Key)' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.version.PSystemKeycheck.getDescription@POLYN174173 the MagicNumber/String  '(Key)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -156,70 +156,70 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawInternal@POLYN173587 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawInternal@POLYN174291 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawInternal@POLYN173587 the MagicNumber/String  '&amp;lt;u&amp;gt;Provided license information&amp;lt;/u&amp;gt;:' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawInternal@POLYN174291 the MagicNumber/String  '&amp;lt;u&amp;gt;Provided license information&amp;lt;/u&amp;gt;:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawInternal@POLYN173587 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawInternal@POLYN174291 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawInternal@POLYN173587 the MagicNumber/String  '&amp;lt;i&amp;gt;Error:&amp;lt;/i&amp;gt; ' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawInternal@POLYN174291 the MagicNumber/String  '&amp;lt;i&amp;gt;Error:&amp;lt;/i&amp;gt; ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN174598 the MagicNumber/String  '&amp;lt;b&amp;gt;PlantUML version ' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN175302 the MagicNumber/String  '&amp;lt;b&amp;gt;PlantUML version ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN174598 the MagicNumber/String  '&amp;lt;/b&amp;gt; (' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN175302 the MagicNumber/String  '&amp;lt;/b&amp;gt; (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN174598 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN175302 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN174598 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN175302 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN174598 the MagicNumber/String  ' source distribution)' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN175302 the MagicNumber/String  ' source distribution)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN174598 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.version.PSystemKeycheck.header@POLYN175302 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -247,56 +247,56 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175205 the MagicNumber/String  'To get your &amp;lt;i&amp;gt;Professional Edition License&amp;lt;/i&amp;gt;,' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175909 the MagicNumber/String  'To get your &amp;lt;i&amp;gt;Professional Edition License&amp;lt;/i&amp;gt;,' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175205 the MagicNumber/String  'please send this qrcode to &amp;lt;b&amp;gt;plantuml@gmail.com&amp;lt;/b&amp;gt; :' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175909 the MagicNumber/String  'please send this qrcode to &amp;lt;b&amp;gt;plantuml@gmail.com&amp;lt;/b&amp;gt; :' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175205 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175909 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175205 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175909 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175205 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175909 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175205 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175909 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175205 the MagicNumber/String  '&amp;lt;u&amp;gt;Installed license&amp;lt;/u&amp;gt;:' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175909 the MagicNumber/String  '&amp;lt;u&amp;gt;Installed license&amp;lt;/u&amp;gt;:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemKeycheck.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175205 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.version.PSystemKeycheck.drawFlash@POLYN175909 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ]
 , 

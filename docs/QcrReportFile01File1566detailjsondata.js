@@ -126,14 +126,14 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/Screen.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.oregon.Screen.print@POLYN156574 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.oregon.Screen.print@POLYN157278 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/Screen.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.oregon.Screen.getLastLine@POLYN156842 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.oregon.Screen.getLastLine@POLYN157546 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

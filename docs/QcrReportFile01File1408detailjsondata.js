@@ -147,21 +147,21 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asSmall@POLYN171619 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asSmall@POLYN172323 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asSmall@POLYN171619 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asSmall@POLYN172323 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asSmall@POLYN171619 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asSmall@POLYN172323 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -182,84 +182,84 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173060 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173764 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173060 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173764 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173060 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173764 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173060 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173764 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173060 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173764 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173060 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173764 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173060 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173764 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173060 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.graphic.USymbolHexagon.drawRect@POLYN173764 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolHexagon.getMargin@POLYN174392 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolHexagon.getMargin@POLYN175096 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolHexagon.getMargin@POLYN174392 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolHexagon.getMargin@POLYN175096 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolHexagon.getMargin@POLYN174392 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolHexagon.getMargin@POLYN175096 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolHexagon.getMargin@POLYN174392 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.graphic.USymbolHexagon.getMargin@POLYN175096 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -294,63 +294,63 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolHexagon.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN174604 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.graphic.USymbolHexagon.asBig@POLYN175308 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

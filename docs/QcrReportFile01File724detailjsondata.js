@@ -90,42 +90,42 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/PlantumlUtils.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN156744 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN157448 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/PlantumlUtils.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN156744 the MagicNumber/String  '@startuml\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN157448 the MagicNumber/String  '@startuml\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/PlantumlUtils.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN156744 the MagicNumber/String  '\n@enduml' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN157448 the MagicNumber/String  '\n@enduml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/PlantumlUtils.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN156744 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN157448 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/PlantumlUtils.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN156744 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN157448 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/api/PlantumlUtils.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN156744 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.api.PlantumlUtils.hasCMapData@POLYN157448 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

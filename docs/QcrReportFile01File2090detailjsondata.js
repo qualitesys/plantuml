@@ -117,28 +117,28 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDelayText.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.ComponentRoseDelayText@POLYN161337 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.ComponentRoseDelayText@POLYN162041 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDelayText.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.ComponentRoseDelayText@POLYN161337 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.ComponentRoseDelayText@POLYN162041 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDelayText.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.ComponentRoseDelayText@POLYN161337 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.ComponentRoseDelayText@POLYN162041 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDelayText.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.ComponentRoseDelayText@POLYN161337 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.ComponentRoseDelayText@POLYN162041 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -166,14 +166,14 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDelayText.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.drawInternalU@POLYN161695 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.drawInternalU@POLYN162399 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDelayText.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.drawInternalU@POLYN161695 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.drawInternalU@POLYN162399 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -187,7 +187,7 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDelayText.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.getPreferredHeight@POLYN162755 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDelayText.getPreferredHeight@POLYN163459 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

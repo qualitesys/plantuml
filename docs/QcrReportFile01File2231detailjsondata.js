@@ -188,7 +188,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/InnerActivity.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.InnerActivity.getOverscanX@POLYN164559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.svek.InnerActivity.getOverscanX@POLYN165263 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

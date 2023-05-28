@@ -165,21 +165,21 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN162572 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN163276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN162572 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN163276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN162572 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionFirstCell@POLYN163276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -193,21 +193,21 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionOtherCell@POLYN162864 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionOtherCell@POLYN163568 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionOtherCell@POLYN162864 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getPreferredDimensionOtherCell@POLYN163568 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getXDelta@POLYN163308 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.getXDelta@POLYN164012 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -228,14 +228,14 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawFirstCell@POLYN163410 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawFirstCell@POLYN164114 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawFirstCell@POLYN163410 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawFirstCell@POLYN164114 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -263,14 +263,14 @@ var maDataBlocs = {
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawSecondCell@POLYN163775 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawSecondCell@POLYN164479 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementTreeEntry.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawSecondCell@POLYN163775 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.salt.element.ElementTreeEntry.drawSecondCell@POLYN164479 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

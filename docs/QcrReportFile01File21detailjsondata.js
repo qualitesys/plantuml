@@ -199,14 +199,14 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.generateScanBits@POLYN164848 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.generateScanBits@POLYN165552 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.generateScanBits@POLYN164848 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.generateScanBits@POLYN165552 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -262,28 +262,28 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.scanPolygons@POLYN165694 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.scanPolygons@POLYN166398 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.scanPolygons@POLYN165694 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.scanPolygons@POLYN166398 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.scanPolygons@POLYN165694 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.scanPolygons@POLYN166398 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.scanPolygons@POLYN165694 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.scanPolygons@POLYN166398 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -297,7 +297,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#108"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00108] For method transformPolygonPoints list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D[] pPolygon_getPointsN167968|ext.plantuml.com.ctreber.acearth.util.Point3D fProjection_rotateN168074|ext.plantuml.com.ctreber.acearth.util.Point2D fProjection_project2DN168279"
+ , "c3" : "QC-JAV000007[00108] For method transformPolygonPoints list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D[] pPolygon_getPointsN168672|ext.plantuml.com.ctreber.acearth.util.Point3D fProjection_rotateN168778|ext.plantuml.com.ctreber.acearth.util.Point2D fProjection_project2DN168983"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -325,7 +325,7 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.transformPolygonPoints@POLYN167618 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMap.transformPolygonPoints@POLYN168322 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -176,14 +176,14 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.getXPixelPerChar@POLYN182189 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.getXPixelPerChar@POLYN182893 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.getYPixelPerChar@POLYN182282 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.getYPixelPerChar@POLYN182986 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -246,42 +246,42 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN182751 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN183455 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN182751 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN183455 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN182751 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN183455 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN182751 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN183455 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN182751 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN183455 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN182751 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.CucaDiagramTxtMaker@POLYN183455 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -316,63 +316,63 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN185822 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.printClass@POLYN186526 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -407,7 +407,7 @@ var maDataBlocs = {
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.getHeight@POLYN187822 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.getHeight@POLYN188526 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -428,7 +428,7 @@ var maDataBlocs = {
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramTxtMaker.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.getWidth@POLYN188422 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker.getWidth@POLYN189126 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

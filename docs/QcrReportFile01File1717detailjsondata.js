@@ -203,63 +203,63 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  'ADAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  'ADAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  '([\\d]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  '([\\d]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  '[\\w, ]*?' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  '[\\w, ]*?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  'AMONTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  'AMONTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  '[\\w, ]*?' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  '[\\w, ]*?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  'AYEAR' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  'AYEAR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN177311 the MagicNumber/String  '([\\d]{4})' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexA@POLYN178015 the MagicNumber/String  '([\\d]{4})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -273,56 +273,56 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN177949 the MagicNumber/String  'BYEAR' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN178653 the MagicNumber/String  'BYEAR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN177949 the MagicNumber/String  '([\\d]{4})' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN178653 the MagicNumber/String  '([\\d]{4})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN177949 the MagicNumber/String  '\\D' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN178653 the MagicNumber/String  '\\D' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN177949 the MagicNumber/String  'BMONTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN178653 the MagicNumber/String  'BMONTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN177949 the MagicNumber/String  '([\\d]{1,2})' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN178653 the MagicNumber/String  '([\\d]{1,2})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN177949 the MagicNumber/String  '\\D' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN178653 the MagicNumber/String  '\\D' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN177949 the MagicNumber/String  'BDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN178653 the MagicNumber/String  'BDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN177949 the MagicNumber/String  '([\\d]{1,2})' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexB@POLYN178653 the MagicNumber/String  '([\\d]{1,2})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -336,63 +336,63 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  'CMONTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  'CMONTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  '[\\w, ]*?' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  '[\\w, ]*?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  'CDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  'CDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  '([\\d]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  '([\\d]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  '[\\w, ]*?' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  '[\\w, ]*?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  'CYEAR' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  'CYEAR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN178521 the MagicNumber/String  '([\\d]{4})' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexC@POLYN179225 the MagicNumber/String  '([\\d]{4})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -406,35 +406,35 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179159 the MagicNumber/String  'DCOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179863 the MagicNumber/String  'DCOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179159 the MagicNumber/String  '([\\d]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179863 the MagicNumber/String  '([\\d]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179159 the MagicNumber/String  'days?' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179863 the MagicNumber/String  'days?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179159 the MagicNumber/String  'after' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179863 the MagicNumber/String  'after' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179159 the MagicNumber/String  'start' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexD@POLYN179863 the MagicNumber/String  'start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -448,21 +448,21 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexE@POLYN179703 the MagicNumber/String  '[dD]\\+' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexE@POLYN180407 the MagicNumber/String  '[dD]\\+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexE@POLYN179703 the MagicNumber/String  'ECOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexE@POLYN180407 the MagicNumber/String  'ECOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexE@POLYN179703 the MagicNumber/String  '([\\d]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.lang.ComplementDate.toRegexE@POLYN180407 the MagicNumber/String  '([\\d]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -483,105 +483,105 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  'ADAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  'ADAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  'BDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  'BDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  'CDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  'CDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  'DCOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  'DCOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  'ECOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  'ECOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180018 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.project.lang.ComplementDate.getMe@POLYN180722 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -602,42 +602,42 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN181679 the MagicNumber/String  'ADAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN182383 the MagicNumber/String  'ADAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN181679 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN182383 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN181679 the MagicNumber/String  'AMONTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN182383 the MagicNumber/String  'AMONTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN181679 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN182383 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN181679 the MagicNumber/String  'AYEAR' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN182383 the MagicNumber/String  'AYEAR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN181679 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultA@POLYN182383 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -658,42 +658,42 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN182420 the MagicNumber/String  'BDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN183124 the MagicNumber/String  'BDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN182420 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN183124 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN182420 the MagicNumber/String  'BMONTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN183124 the MagicNumber/String  'BMONTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN182420 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN183124 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN182420 the MagicNumber/String  'BYEAR' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN183124 the MagicNumber/String  'BYEAR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN182420 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultB@POLYN183124 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -714,42 +714,42 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183200 the MagicNumber/String  'CDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183904 the MagicNumber/String  'CDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183200 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183904 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183200 the MagicNumber/String  'CMONTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183904 the MagicNumber/String  'CMONTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183200 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183904 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183200 the MagicNumber/String  'CYEAR' should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183904 the MagicNumber/String  'CYEAR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183200 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultC@POLYN183904 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -777,14 +777,14 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultD@POLYN183941 the MagicNumber/String  'DCOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultD@POLYN184645 the MagicNumber/String  'DCOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultD@POLYN183941 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultD@POLYN184645 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -812,14 +812,14 @@ var maDataBlocs = {
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultE@POLYN184346 the MagicNumber/String  'ECOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultE@POLYN185050 the MagicNumber/String  'ECOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementDate.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultE@POLYN184346 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.lang.ComplementDate.resultE@POLYN185050 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

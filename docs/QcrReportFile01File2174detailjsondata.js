@@ -156,35 +156,35 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN185613 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN186317 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN185613 the MagicNumber/String  'No .skin file seems to be available' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN186317 the MagicNumber/String  'No .skin file seems to be available' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN185613 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN186317 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN185613 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN186317 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN185613 the MagicNumber/String  'No .skin file seems to be available' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.style.StyleLoader.loadSkin@POLYN186317 the MagicNumber/String  'No .skin file seems to be available' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -198,70 +198,70 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  'Trying to load style ' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  'Trying to load style ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  'Cannot open file. ' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  'Cannot open file. ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  'File found : ' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  'File found : ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  'File not found : ' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  'File not found : ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  '/skin/' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  '/skin/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  '... but ' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  '... but ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN186603 the MagicNumber/String  ' found inside the .jar' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.style.StyleLoader.getInputStreamForStyle@POLYN187307 the MagicNumber/String  ' found inside the .jar' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -394,203 +394,203 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '/*' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '/*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '*/' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '*/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '/'' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '/'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  ''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  ''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '/*' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '/*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '/'' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '/'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '*/' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '*/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  ''/' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  ''/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '@media.*dark.*\\{' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '@media.*dark.*\\{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '--' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '--' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '//' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '//' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN188889 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.style.StyleLoader.getDeclaredStyles@POLYN189593 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

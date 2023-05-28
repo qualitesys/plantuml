@@ -185,70 +185,70 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182041 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182745 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182041 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182745 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182041 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182745 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182041 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182745 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182041 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182745 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182041 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182745 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182041 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182745 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182041 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.EntityImageDomain@POLYN182745 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getStroke@POLYN183740 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getStroke@POLYN184444 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getStroke@POLYN183740 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getStroke@POLYN184444 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -269,21 +269,21 @@ var maDataBlocs = {
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getNameAndSteretypeDimension@POLYN184285 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getNameAndSteretypeDimension@POLYN184989 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getNameAndSteretypeDimension@POLYN184285 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getNameAndSteretypeDimension@POLYN184989 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getNameAndSteretypeDimension@POLYN184285 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getNameAndSteretypeDimension@POLYN184989 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -297,7 +297,7 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getStartingX@POLYN185012 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getStartingX@POLYN185716 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -325,21 +325,21 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.drawU@POLYN185328 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.drawU@POLYN186032 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.drawU@POLYN185328 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.drawU@POLYN186032 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.drawU@POLYN185328 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.drawU@POLYN186032 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -353,21 +353,21 @@ var maDataBlocs = {
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getTagDimension@POLYN188156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getTagDimension@POLYN188860 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getTagDimension@POLYN188156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getTagDimension@POLYN188860 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/descdiagram/EntityImageDomain.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getTagDimension@POLYN188156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.descdiagram.EntityImageDomain.getTagDimension@POLYN188860 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

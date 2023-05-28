@@ -140,21 +140,21 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.legacy.StripeTree.StripeTree@POLYN165170 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.legacy.StripeTree.StripeTree@POLYN165874 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.legacy.StripeTree.StripeTree@POLYN165170 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.legacy.StripeTree.StripeTree@POLYN165874 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.creole.legacy.StripeTree.getLHeader@POLYN165925 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.creole.legacy.StripeTree.getLHeader@POLYN166629 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -182,21 +182,21 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.creole.legacy.StripeTree.analyzeAndAdd@POLYN166005 the MagicNumber/String  '^\\s*\\|_' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.creole.legacy.StripeTree.analyzeAndAdd@POLYN166709 the MagicNumber/String  '^\\s*\\|_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.creole.legacy.StripeTree.analyzeAndAdd@POLYN166005 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.creole.legacy.StripeTree.analyzeAndAdd@POLYN166709 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.creole.legacy.StripeTree.analyzeAndAdd@POLYN166005 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.creole.legacy.StripeTree.analyzeAndAdd@POLYN166709 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -210,42 +210,42 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN166986 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN167690 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN166986 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN167690 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN166986 the MagicNumber/String  '  ' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN167690 the MagicNumber/String  '  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN166986 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN167690 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN166986 the MagicNumber/String  '\t' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN167690 the MagicNumber/String  '\t' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTree.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN166986 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.creole.legacy.StripeTree.computeLevel@POLYN167690 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

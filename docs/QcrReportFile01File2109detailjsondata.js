@@ -172,21 +172,21 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getStringFor@POLYN164360 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getStringFor@POLYN165064 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getStringFor@POLYN164360 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getStringFor@POLYN165064 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getStringFor@POLYN164360 the MagicNumber/String  4096 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getStringFor@POLYN165064 the MagicNumber/String  4096 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -200,49 +200,49 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165163 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165867 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165163 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165867 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165163 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165867 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165163 the MagicNumber/String  63 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165867 the MagicNumber/String  63 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165163 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165867 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165163 the MagicNumber/String  63 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165867 the MagicNumber/String  63 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165163 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sprite.ColorPalette4096.encodeInt@POLYN165867 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -263,56 +263,56 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166041 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166745 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166041 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166745 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166041 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166745 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166041 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166745 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166041 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166745 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166041 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166745 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166041 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166745 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166041 the MagicNumber/String  64 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166745 the MagicNumber/String  64 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -326,35 +326,35 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166906 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN167610 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166906 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN167610 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166906 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN167610 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166906 the MagicNumber/String  256 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN167610 the MagicNumber/String  256 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN166906 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.sprite.ColorPalette4096.getColorFor@POLYN167610 the MagicNumber/String  16 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -368,21 +368,21 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sprite.ColorPalette4096.dup@POLYN167542 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sprite.ColorPalette4096.dup@POLYN168246 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sprite.ColorPalette4096.dup@POLYN167542 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.sprite.ColorPalette4096.dup@POLYN168246 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ColorPalette4096.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sprite.ColorPalette4096.dup@POLYN167542 the MagicNumber/String  16 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.sprite.ColorPalette4096.dup@POLYN168246 the MagicNumber/String  16 should be converted to const"
 }} 
 ]
 , 

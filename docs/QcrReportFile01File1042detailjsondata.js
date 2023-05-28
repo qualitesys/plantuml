@@ -76,7 +76,7 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleCache.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.creole.command.CommandCreoleCache.CommandCreoleCache@POLYN156511 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.creole.command.CommandCreoleCache.CommandCreoleCache@POLYN157215 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

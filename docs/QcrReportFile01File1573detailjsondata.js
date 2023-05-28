@@ -117,35 +117,35 @@ var maDataBlocs = {
  , "c1" : "00033"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#33"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN150600 the MagicNumber/String  'options' should be converted to const"
+ , "c3" : "QC-JAV000010[00033] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN151304 the MagicNumber/String  'options' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00034"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#34"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN150600 the MagicNumber/String  'options' should be converted to const"
+ , "c3" : "QC-JAV000010[00034] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN151304 the MagicNumber/String  'options' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN150600 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN151304 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN150600 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN151304 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/picoweb/RenderRequest.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN150600 the MagicNumber/String  'source' should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.picoweb.RenderRequest.fromJson@POLYN151304 the MagicNumber/String  'source' should be converted to const"
 }} 
 ]
 , 
