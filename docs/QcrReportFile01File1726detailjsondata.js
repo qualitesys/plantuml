@@ -106,14 +106,14 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.lang.ComplementOpen.toRegex@POLYN158580 the MagicNumber/String  'OPEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.lang.ComplementOpen.toRegex@POLYN158628 the MagicNumber/String  'OPEN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.lang.ComplementOpen.toRegex@POLYN158580 the MagicNumber/String  '(opene?d?(?: for \\[([^\\[\\]]+?)\\])?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.lang.ComplementOpen.toRegex@POLYN158628 the MagicNumber/String  '(opene?d?(?: for \\[([^\\[\\]]+?)\\])?)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -134,49 +134,49 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158795 the MagicNumber/String  'OPEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158843 the MagicNumber/String  'OPEN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158795 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158843 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158795 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158843 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158795 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158843 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158795 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158843 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158795 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158843 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/ComplementOpen.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158795 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.ComplementOpen.getMe@POLYN158843 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

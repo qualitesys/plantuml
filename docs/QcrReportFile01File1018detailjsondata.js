@@ -221,42 +221,42 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.SheetBlock1.SheetBlock1@POLYN183293 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.SheetBlock1.SheetBlock1@POLYN183341 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.SheetBlock1.SheetBlock1@POLYN183293 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.SheetBlock1.SheetBlock1@POLYN183341 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.creole.SheetBlock1.SheetBlock1@POLYN183591 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.creole.SheetBlock1.SheetBlock1@POLYN183639 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.creole.SheetBlock1.SheetBlock1@POLYN183591 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.creole.SheetBlock1.SheetBlock1@POLYN183639 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.creole.SheetBlock1.getCellAlignment@POLYN184844 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.creole.SheetBlock1.getCellAlignment@POLYN184892 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.creole.SheetBlock1.getCellAlignment@POLYN184844 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.creole.SheetBlock1.getCellAlignment@POLYN184892 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -305,70 +305,70 @@ var maDataBlocs = {
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185296 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.creole.SheetBlock1.initMap@POLYN185344 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -389,7 +389,7 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.creole.SheetBlock1.getInnerPosition@POLYN189000 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.creole.SheetBlock1.getInnerPosition@POLYN189048 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -431,14 +431,14 @@ var maDataBlocs = {
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.creole.SheetBlock1.drawU@POLYN189152 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.creole.SheetBlock1.drawU@POLYN189200 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.creole.SheetBlock1.drawU@POLYN189152 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.creole.SheetBlock1.drawU@POLYN189200 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -452,7 +452,7 @@ var maDataBlocs = {
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/SheetBlock1.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.creole.SheetBlock1.getStartingAltitude@POLYN190010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.creole.SheetBlock1.getStartingAltitude@POLYN190058 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

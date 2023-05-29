@@ -128,14 +128,14 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.real.RealUtils.createOrigin@POLYN157988 the MagicNumber/String  'O' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.real.RealUtils.createOrigin@POLYN158036 the MagicNumber/String  'O' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.real.RealUtils.createOrigin@POLYN157988 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.real.RealUtils.createOrigin@POLYN158036 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -115,7 +115,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.element.ElementImage.getPreferredDimension@POLYN160844 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.salt.element.ElementImage.getPreferredDimension@POLYN160892 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -136,35 +136,35 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161135 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161183 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161135 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161183 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161135 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161183 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161135 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161183 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementImage.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161135 the MagicNumber/String  'X' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.ElementImage.drawU@POLYN161183 the MagicNumber/String  'X' should be converted to const"
 }} 
 ]
 , 

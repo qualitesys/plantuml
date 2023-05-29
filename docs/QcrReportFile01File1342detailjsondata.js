@@ -268,14 +268,14 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.graphic.GraphicStrings.createForError@POLYN185248 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.graphic.GraphicStrings.createForError@POLYN185296 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.graphic.GraphicStrings.createForError@POLYN185248 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.graphic.GraphicStrings.createForError@POLYN185296 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -303,14 +303,14 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphic.GraphicStrings.createGreenOnBlackMonospaced@POLYN186108 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphic.GraphicStrings.createGreenOnBlackMonospaced@POLYN186156 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphic.GraphicStrings.createGreenOnBlackMonospaced@POLYN186108 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.graphic.GraphicStrings.createGreenOnBlackMonospaced@POLYN186156 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -324,14 +324,14 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhite@POLYN186449 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhite@POLYN186497 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhite@POLYN186449 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhite@POLYN186497 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -345,14 +345,14 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhiteMonospaced@POLYN186790 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhiteMonospaced@POLYN186838 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhiteMonospaced@POLYN186790 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.graphic.GraphicStrings.createBlackOnWhiteMonospaced@POLYN186838 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -373,7 +373,7 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.GraphicStrings.sansSerif12@POLYN187518 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.graphic.GraphicStrings.sansSerif12@POLYN187566 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -387,7 +387,7 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.graphic.GraphicStrings.sansSerif14@POLYN187777 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.graphic.GraphicStrings.sansSerif14@POLYN187825 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,7 +401,7 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.graphic.GraphicStrings.monospaced14@POLYN188036 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.graphic.GraphicStrings.monospaced14@POLYN188084 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -422,28 +422,28 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN189430 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN189478 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN189430 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN189478 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN189430 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN189478 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN189430 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.graphic.GraphicStrings.drawU@POLYN189478 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -457,7 +457,7 @@ var maDataBlocs = {
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.graphic.GraphicStrings.calculateDimension@POLYN191435 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.graphic.GraphicStrings.calculateDimension@POLYN191483 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -471,7 +471,7 @@ var maDataBlocs = {
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.graphic.GraphicStrings.calculateDimensionInternal@POLYN191659 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.graphic.GraphicStrings.calculateDimensionInternal@POLYN191707 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -485,7 +485,7 @@ var maDataBlocs = {
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.graphic.GraphicStrings.isHidden@POLYN193119 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.graphic.GraphicStrings.isHidden@POLYN193167 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -499,7 +499,7 @@ var maDataBlocs = {
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.graphic.GraphicStrings.getOverscanX@POLYN193207 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.graphic.GraphicStrings.getOverscanX@POLYN193255 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

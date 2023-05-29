@@ -336,14 +336,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.ctreber.acearth.projection.Projection.initTransformTable@POLYN182999 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.ctreber.acearth.projection.Projection.initTransformTable@POLYN183047 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.ctreber.acearth.projection.Projection.initTransformTable@POLYN182999 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.ctreber.acearth.projection.Projection.initTransformTable@POLYN183047 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -413,14 +413,14 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.ctreber.acearth.projection.Projection.isWithinImage@POLYN184719 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.ctreber.acearth.projection.Projection.isWithinImage@POLYN184767 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.ctreber.acearth.projection.Projection.isWithinImage@POLYN184719 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method ext.plantuml.com.ctreber.acearth.projection.Projection.isWithinImage@POLYN184767 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -497,7 +497,7 @@ var maDataBlocs = {
  , "c1" : "00249"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00249] For method rotate list of called methods Object monObjet|double pPoint_getXN187586|double pPoint_getYN187663|double pPoint_getZN187740"
+ , "c3" : "QC-JAV000007[00249] For method rotate list of called methods Object monObjet|double pPoint_getXN187634|double pPoint_getYN187711|double pPoint_getZN187788"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -518,7 +518,7 @@ var maDataBlocs = {
  , "c1" : "00249"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00249] For method rotateReverse list of called methods Object monObjet|double pPoint_getXN190372|double pPoint_getYN190449|double pPoint_getZN190526"
+ , "c3" : "QC-JAV000007[00249] For method rotateReverse list of called methods Object monObjet|double pPoint_getXN190420|double pPoint_getYN190497|double pPoint_getZN190574"
 }} 
 ,
 { "ligne" : {"" : ""

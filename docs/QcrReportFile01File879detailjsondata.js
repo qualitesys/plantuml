@@ -156,56 +156,56 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167716 the MagicNumber/String  'COMPRESS' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167764 the MagicNumber/String  'COMPRESS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167716 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167764 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167716 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167764 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167716 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167764 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167716 the MagicNumber/String  '@startuml' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167764 the MagicNumber/String  '@startuml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167716 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167764 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167716 the MagicNumber/String  '@enduml' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167764 the MagicNumber/String  '@enduml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167716 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compress@POLYN167764 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -226,14 +226,14 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.append@POLYN169183 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.append@POLYN169231 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.append@POLYN169183 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.append@POLYN169231 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -247,14 +247,14 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compressOld@POLYN169542 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compressOld@POLYN169590 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compressOld@POLYN169542 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.compressOld@POLYN169590 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -268,42 +268,42 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169942 the MagicNumber/String  '@start' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169990 the MagicNumber/String  '@start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169942 the MagicNumber/String  '@startuml\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169990 the MagicNumber/String  '@startuml\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169942 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169990 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169942 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169990 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169942 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169990 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169942 the MagicNumber/String  '@enduml' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.decompress@POLYN169990 the MagicNumber/String  '@enduml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -317,28 +317,28 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean@POLYN170571 the MagicNumber/String  '@enduml[^\\n\\r]*' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean@POLYN170619 the MagicNumber/String  '@enduml[^\\n\\r]*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean@POLYN170571 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean@POLYN170619 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean@POLYN170571 the MagicNumber/String  '@startuml[^\\n\\r]*' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean@POLYN170619 the MagicNumber/String  '@startuml[^\\n\\r]*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean@POLYN170571 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean@POLYN170619 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -352,7 +352,7 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/ArobaseStringCompressor.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean1@POLYN171188 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.code.ArobaseStringCompressor.clean1@POLYN171236 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

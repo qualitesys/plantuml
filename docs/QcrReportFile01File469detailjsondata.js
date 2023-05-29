@@ -254,7 +254,7 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.ActivityDiagram@POLYN182028 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.ActivityDiagram@POLYN182076 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -268,7 +268,7 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getAutoBranch@POLYN182658 the MagicNumber/String  '#' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getAutoBranch@POLYN182706 the MagicNumber/String  '#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -282,21 +282,21 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getOrCreate@POLYN182786 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getOrCreate@POLYN182834 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getOrCreate@POLYN182786 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getOrCreate@POLYN182834 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getOrCreate@POLYN182786 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getOrCreate@POLYN182834 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -317,42 +317,42 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.startIf@POLYN184058 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.startIf@POLYN184106 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.startIf@POLYN184058 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.startIf@POLYN184106 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.startIf@POLYN184058 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.startIf@POLYN184106 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getStart@POLYN185010 the MagicNumber/String  'start' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getStart@POLYN185058 the MagicNumber/String  'start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getStart@POLYN185010 the MagicNumber/String  'start' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getStart@POLYN185058 the MagicNumber/String  'start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getStart@POLYN185010 the MagicNumber/String  'start' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getStart@POLYN185058 the MagicNumber/String  'start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -366,28 +366,28 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getEnd@POLYN185513 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getEnd@POLYN185561 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getEnd@POLYN185513 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getEnd@POLYN185561 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getEnd@POLYN185513 the MagicNumber/String  'end$' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getEnd@POLYN185561 the MagicNumber/String  'end$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getEnd@POLYN185513 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getEnd@POLYN185561 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,7 +401,7 @@ var maDataBlocs = {
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.updateLasts@POLYN186260 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.updateLasts@POLYN186308 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -422,49 +422,49 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.createNote@POLYN187227 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.createNote@POLYN187275 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDotStrings@POLYN187585 the MagicNumber/String  'nodesep=.20;' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDotStrings@POLYN187633 the MagicNumber/String  'nodesep=.20;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDotStrings@POLYN187585 the MagicNumber/String  'ranksep=0.4;' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDotStrings@POLYN187633 the MagicNumber/String  'ranksep=0.4;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDotStrings@POLYN187585 the MagicNumber/String  'edge [fontsize=11,labelfontsize=11];' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDotStrings@POLYN187633 the MagicNumber/String  'edge [fontsize=11,labelfontsize=11];' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDotStrings@POLYN187585 the MagicNumber/String  'node [fontsize=11];' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDotStrings@POLYN187633 the MagicNumber/String  'node [fontsize=11];' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDescription@POLYN187784 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDescription@POLYN187832 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDescription@POLYN187784 the MagicNumber/String  ' activities)' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.getDescription@POLYN187832 the MagicNumber/String  ' activities)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -478,21 +478,21 @@ var maDataBlocs = {
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.createInnerActivity@POLYN188377 the MagicNumber/String  '##' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.createInnerActivity@POLYN188425 the MagicNumber/String  '##' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.createInnerActivity@POLYN188377 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.createInnerActivity@POLYN188425 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.createInnerActivity@POLYN188377 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.createInnerActivity@POLYN188425 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -506,35 +506,35 @@ var maDataBlocs = {
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189233 the MagicNumber/String  '##' should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189281 the MagicNumber/String  '##' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189233 the MagicNumber/String  'type=' should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189281 the MagicNumber/String  'type=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189233 the MagicNumber/String  'code' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189281 the MagicNumber/String  'code' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189233 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189281 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagram.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189233 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.activitydiagram.ActivityDiagram.concurrentActivity@POLYN189281 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

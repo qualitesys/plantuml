@@ -190,7 +190,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.Dolls@POLYN169815 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.Dolls@POLYN169863 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -204,7 +204,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.addParticipant@POLYN170380 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.addParticipant@POLYN170428 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -225,14 +225,14 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getParent@POLYN170952 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getParent@POLYN171000 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getParent@POLYN170952 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getParent@POLYN171000 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,14 +253,14 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getOffsetForEnglobers@POLYN171400 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getOffsetForEnglobers@POLYN171448 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getOffsetForEnglobers@POLYN171400 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getOffsetForEnglobers@POLYN171448 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -288,7 +288,7 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getMinX@POLYN172835 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getMinX@POLYN172883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,7 +302,7 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/Dolls.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getMaxX@POLYN173405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.teoz.Dolls.getMaxX@POLYN173453 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

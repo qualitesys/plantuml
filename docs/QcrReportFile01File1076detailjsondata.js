@@ -176,14 +176,14 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.cucadiagram.BodierSimple.addFieldOrMethod@POLYN162492 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.cucadiagram.BodierSimple.addFieldOrMethod@POLYN162540 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierSimple.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.BodierSimple.hasUrl@POLYN163058 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.BodierSimple.hasUrl@POLYN163106 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

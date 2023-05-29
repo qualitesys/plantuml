@@ -131,42 +131,42 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164145 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164193 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164145 the MagicNumber/String  'false' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164193 the MagicNumber/String  'false' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164145 the MagicNumber/String  '&amp;lt;&amp;lt; &amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164193 the MagicNumber/String  '&amp;lt;&amp;lt; &amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164145 the MagicNumber/String  'none' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164193 the MagicNumber/String  'none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164145 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164193 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164145 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.Guillemet.fromDescription@POLYN164193 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -187,14 +187,14 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.Guillemet.manageGuillemet@POLYN165419 the MagicNumber/String  '\\&amp;lt;\\&amp;lt;\\s?((?:\\&amp;lt;&amp;\\w+\\&amp;gt;|[^&amp;lt;&amp;gt;])+?)\\s?\\&amp;gt;\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.Guillemet.manageGuillemet@POLYN165467 the MagicNumber/String  '\\&amp;lt;\\&amp;lt;\\s?((?:\\&amp;lt;&amp;\\w+\\&amp;gt;|[^&amp;lt;&amp;gt;])+?)\\s?\\&amp;gt;\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.Guillemet.manageGuillemet@POLYN165419 the MagicNumber/String  '$1' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.Guillemet.manageGuillemet@POLYN165467 the MagicNumber/String  '$1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -215,70 +215,70 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  '&amp;lt;&amp;lt; ' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  '&amp;lt;&amp;lt; ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  '&amp;lt;&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  ' &amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  ' &amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  '&amp;gt;&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Guillemet.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165819 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.Guillemet.manageGuillemetStrict@POLYN165867 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

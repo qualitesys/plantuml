@@ -162,21 +162,21 @@ var maDataBlocs = {
  , "c1" : "00042"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN164771 the MagicNumber/String  '_scale=' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN164819 the MagicNumber/String  '_scale=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN164771 the MagicNumber/String  ' _x0=' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN164819 the MagicNumber/String  ' _x0=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN164771 the MagicNumber/String  ' _y0=' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method jcckit.renderer.Transformation.toString@POLYN164819 the MagicNumber/String  ' _y0=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -204,14 +204,14 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method jcckit.renderer.Transformation.Transformation@POLYN165240 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method jcckit.renderer.Transformation.Transformation@POLYN165288 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method jcckit.renderer.Transformation.Transformation@POLYN165240 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method jcckit.renderer.Transformation.Transformation@POLYN165288 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -239,7 +239,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method jcckit.renderer.Transformation.transformWidth@POLYN166705 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.renderer.Transformation.transformWidth@POLYN166753 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,7 +253,7 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method jcckit.renderer.Transformation.transformHeight@POLYN166890 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method jcckit.renderer.Transformation.transformHeight@POLYN166938 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

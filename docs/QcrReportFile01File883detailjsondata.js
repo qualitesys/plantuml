@@ -120,140 +120,140 @@ var maDataBlocs = {
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  0xFF should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  0xFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN160973 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.encode@POLYN161021 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -274,84 +274,84 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  0x3 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  0x3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  0xF should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  0xF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/AsciiEncoderFinalZeros.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162479 the MagicNumber/String  0x3F should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.code.AsciiEncoderFinalZeros.append3bytes@POLYN162527 the MagicNumber/String  0x3F should be converted to const"
 }} 
 ]
 , 

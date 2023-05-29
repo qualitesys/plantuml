@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/FunctionExists.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.FunctionExists.getSignature@POLYN159165 the MagicNumber/String  '%function_exists' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.FunctionExists.getSignature@POLYN159213 the MagicNumber/String  '%function_exists' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/FunctionExists.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.FunctionExists.getSignature@POLYN159165 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.FunctionExists.getSignature@POLYN159213 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/FunctionExists.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.FunctionExists.canCover@POLYN159315 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.FunctionExists.canCover@POLYN159363 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -157,7 +157,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/FunctionExists.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.tim.stdlib.FunctionExists.executeReturnFunction@POLYN159493 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.tim.stdlib.FunctionExists.executeReturnFunction@POLYN159541 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

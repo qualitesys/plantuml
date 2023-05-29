@@ -76,7 +76,7 @@ var maDataBlocs = {
  , "c1" : "00005"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/DebugUtils.java.html#5"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00005] In method org.stathissideris.ascii2image.core.DebugUtils.getLineNumber@POLYN145349 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00005] In method org.stathissideris.ascii2image.core.DebugUtils.getLineNumber@POLYN145397 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

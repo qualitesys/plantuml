@@ -147,91 +147,91 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  'file' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  'file' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  'jar' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  'jar' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  '.class' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  '.class' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  '!' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  '!' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171586 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getJarFile@POLYN171634 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getProtocol@POLYN173801 the MagicNumber/String  'net/sourceforge/plantuml/version/logo.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sprite.ResourcesUtils.getProtocol@POLYN173849 the MagicNumber/String  'net/sourceforge/plantuml/version/logo.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -301,21 +301,21 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sprite.ResourcesUtils.listFolders@POLYN174835 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.sprite.ResourcesUtils.listFolders@POLYN174883 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sprite.ResourcesUtils.listFolders@POLYN174835 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sprite.ResourcesUtils.listFolders@POLYN174883 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/ResourcesUtils.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sprite.ResourcesUtils.listFolders@POLYN174835 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.sprite.ResourcesUtils.listFolders@POLYN174883 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

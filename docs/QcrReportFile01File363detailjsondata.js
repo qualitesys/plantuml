@@ -124,42 +124,42 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160731 the MagicNumber/String  '0,0,0,0' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160779 the MagicNumber/String  '0,0,0,0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160731 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160779 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160731 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160779 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160731 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160779 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160731 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.BasicEnsureVisible.getCoords@POLYN160779 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BasicEnsureVisible.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.BasicEnsureVisible.getSurface@POLYN161618 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.BasicEnsureVisible.getSurface@POLYN161666 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

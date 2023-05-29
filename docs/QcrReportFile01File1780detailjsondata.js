@@ -126,7 +126,7 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.timescale.TimeScaleWink.TimeScaleWink@POLYN158294 the MagicNumber/String  16.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.timescale.TimeScaleWink.TimeScaleWink@POLYN158342 the MagicNumber/String  16.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -175,21 +175,21 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.timescale.TimeScaleWink.isBreaking@POLYN159084 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.timescale.TimeScaleWink.isBreaking@POLYN159132 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.timescale.TimeScaleWink.isBreaking@POLYN159084 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.timescale.TimeScaleWink.isBreaking@POLYN159132 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/timescale/TimeScaleWink.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.timescale.TimeScaleWink.isBreaking@POLYN159084 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.timescale.TimeScaleWink.isBreaking@POLYN159132 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

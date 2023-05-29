@@ -232,14 +232,14 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.InternalNode.getMaxX@POLYN207751 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.InternalNode.getMaxX@POLYN207799 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.InternalNode.getMaxX@POLYN207751 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.InternalNode.getMaxX@POLYN207799 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -288,14 +288,14 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.manageOneNode@POLYN210239 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.manageOneNode@POLYN210287 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.manageOneNode@POLYN210239 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.manageOneNode@POLYN210287 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -309,49 +309,49 @@ var maDataBlocs = {
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212183 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212231 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212183 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212231 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212183 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212231 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212183 the MagicNumber/String  '\'([^\']+)\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212231 the MagicNumber/String  '\'([^\']+)\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212183 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212231 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212183 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212231 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212183 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.removeOneLevel@POLYN212231 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -372,14 +372,14 @@ var maDataBlocs = {
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.drawMe@POLYN213175 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.drawMe@POLYN213223 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.drawMe@POLYN213175 the MagicNumber/String  13 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.drawMe@POLYN213223 the MagicNumber/String  13 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -393,42 +393,42 @@ var maDataBlocs = {
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214842 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214890 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214842 the MagicNumber/String  'g' should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214890 the MagicNumber/String  'g' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214842 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214890 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214842 the MagicNumber/String  '-----------------------------------' should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214890 the MagicNumber/String  '-----------------------------------' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214842 the MagicNumber/String  '-----------------------------------' should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214890 the MagicNumber/String  '-----------------------------------' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214842 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.initGraph@POLYN214890 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -442,28 +442,28 @@ var maDataBlocs = {
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getPosition@POLYN216012 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getPosition@POLYN216060 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getPosition@POLYN216012 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getPosition@POLYN216060 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getPosition@POLYN216012 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getPosition@POLYN216060 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getPosition@POLYN216012 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getPosition@POLYN216060 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -498,140 +498,140 @@ var maDataBlocs = {
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  'arrowsize' should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  'arrowsize' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  '.75' should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  '.75' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  'arrowtail' should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  'arrowtail' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  'none' should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  'none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  'arrowhead' should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  'arrowhead' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  'normal' should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  'normal' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  'tailport' should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  'tailport' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  'P' should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  'P' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00247"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#247"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00247] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  'N' should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  'N' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  ' -&amp;gt; N' should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  ' -&amp;gt; N' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  ' [tailport=\'P' should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  ' [tailport=\'P' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  '\', arrowsize=.75]' should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  '\', arrowsize=.75]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createEdge@POLYN217168 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -652,217 +652,217 @@ var maDataBlocs = {
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00258"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#258"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00258] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'N' should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'N' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00262"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#262"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'N ' should be converted to const"
+ , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'N ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'shape' should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'shape' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'record' should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'record' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00269"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#269"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00269] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'label' should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'label' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00276"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'N' should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'N' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00276"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#276"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  ' [' should be converted to const"
+ , "c3" : "QC-JAV000010[00276] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'shape=record, height=' should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'shape=record, height=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  ', width=' should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  ', width=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  ', label=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  ', label=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  '\']' should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  '\']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00279"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219067 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.createNode@POLYN219115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -876,105 +876,105 @@ var maDataBlocs = {
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00287"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#287"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00287] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '{_dim_' should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '{_dim_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '_|{' should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '_|{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '&amp;lt;P' should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '&amp;lt;P' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '_dim_' should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '_dim_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00297"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221948 the MagicNumber/String  '}}' should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.jsondiagram.SmetanaForJson.getDotLabel@POLYN221996 the MagicNumber/String  '}}' should be converted to const"
 }} 
 ]
 , 

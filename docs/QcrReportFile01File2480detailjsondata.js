@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/ReverseColor.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.getSignature@POLYN161256 the MagicNumber/String  '%reverse_color' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.getSignature@POLYN161304 the MagicNumber/String  '%reverse_color' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/ReverseColor.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.getSignature@POLYN161256 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.getSignature@POLYN161304 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/ReverseColor.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.canCover@POLYN161406 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.canCover@POLYN161454 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -150,14 +150,14 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/ReverseColor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.executeReturnFunction@POLYN161584 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.executeReturnFunction@POLYN161632 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/ReverseColor.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.executeReturnFunction@POLYN161584 the MagicNumber/String  'No such color' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.tim.stdlib.ReverseColor.executeReturnFunction@POLYN161632 the MagicNumber/String  'No such color' should be converted to const"
 }} 
 ]
 , 

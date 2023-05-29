@@ -264,294 +264,294 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  640 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  640 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  400 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  400 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00213"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222946 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.swing.ImageWindow.ImageWindow@POLYN222994 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.swing.ImageWindow.zoomFit@POLYN232468 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.swing.ImageWindow.zoomFit@POLYN232516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.swing.ImageWindow.zoomFit@POLYN232468 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.swing.ImageWindow.zoomFit@POLYN232516 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233286 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233286 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233334 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233286 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233334 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233286 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233334 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233286 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.swing.ImageWindow.updateSimpleLine@POLYN233334 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00312"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#312"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00313"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#313"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00313] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00316"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00323"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#323"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00323] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00328"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#328"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00328] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00328] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00329"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#329"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00329] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00332"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00335"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#335"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  'Error reading file: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  'Error reading file: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00345"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234349 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.swing.ImageWindow.buildScrollablePicture@POLYN234397 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00383"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#383"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00383] In method net.sourceforge.plantuml.swing.ImageWindow.getZoom@POLYN239227 the MagicNumber/String  1.1 should be converted to const"
+ , "c3" : "QC-JAV000010[00383] In method net.sourceforge.plantuml.swing.ImageWindow.getZoom@POLYN239275 the MagicNumber/String  1.1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00388"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.swing.ImageWindow.copy@POLYN239368 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.swing.ImageWindow.copy@POLYN239416 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00395"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#395"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.swing.ImageWindow.copy@POLYN239368 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.swing.ImageWindow.copy@POLYN239416 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -565,14 +565,14 @@ var maDataBlocs = {
  , "c1" : "00411"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#411"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.swing.ImageWindow.refreshImage@POLYN240304 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.swing.ImageWindow.refreshImage@POLYN240352 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00421"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#421"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00421] In method net.sourceforge.plantuml.swing.ImageWindow.refreshImage@POLYN240304 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00421] In method net.sourceforge.plantuml.swing.ImageWindow.refreshImage@POLYN240352 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -586,14 +586,14 @@ var maDataBlocs = {
  , "c1" : "00431"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#431"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.swing.ImageWindow.isError@POLYN241391 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.swing.ImageWindow.isError@POLYN241439 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00431"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/ImageWindow.java.html#431"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.swing.ImageWindow.isError@POLYN241391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00431] In method net.sourceforge.plantuml.swing.ImageWindow.isError@POLYN241439 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

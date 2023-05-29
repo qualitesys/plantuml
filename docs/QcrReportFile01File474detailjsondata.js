@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.getRegexConcat@POLYN160263 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.getRegexConcat@POLYN160311 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.getRegexConcat@POLYN160263 the MagicNumber/String  'if' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.getRegexConcat@POLYN160311 the MagicNumber/String  'if' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -136,28 +136,28 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN160682 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN160730 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN160682 the MagicNumber/String  'No if for this endif' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN160730 the MagicNumber/String  'No if for this endif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN160682 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN160730 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/command/CommandEndif.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN160682 the MagicNumber/String  'No if for this endif' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.activitydiagram.command.CommandEndif.executeArg@POLYN160730 the MagicNumber/String  'No if for this endif' should be converted to const"
 }} 
 ]
 , 

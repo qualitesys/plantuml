@@ -136,35 +136,35 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164464 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164512 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164464 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164512 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164464 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164512 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164464 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164512 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyX1Y2Y3.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164464 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyX1Y2Y3.getPositions@POLYN164512 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

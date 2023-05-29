@@ -126,7 +126,7 @@ var maDataBlocs = {
  , "c1" : "00036"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/gui/MOBoolean.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.ctreber.aclib.gui.MOBoolean.checkRange@POLYN148230 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.ctreber.aclib.gui.MOBoolean.checkRange@POLYN148278 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

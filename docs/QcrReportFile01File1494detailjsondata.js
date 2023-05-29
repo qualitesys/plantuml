@@ -108,56 +108,56 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160409 the MagicNumber/String  '[^*]*' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160457 the MagicNumber/String  '[^*]*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160409 the MagicNumber/String  '\\b' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160457 the MagicNumber/String  '\\b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160409 the MagicNumber/String  'DIRECTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160457 the MagicNumber/String  'DIRECTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160409 the MagicNumber/String  '(left|right|top|bottom)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160457 the MagicNumber/String  '(left|right|top|bottom)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160409 the MagicNumber/String  '\\b' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160457 the MagicNumber/String  '\\b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160409 the MagicNumber/String  '[^*]*' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160457 the MagicNumber/String  '[^*]*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160409 the MagicNumber/String  '(side|direction)' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160457 the MagicNumber/String  '(side|direction)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160409 the MagicNumber/String  '[^*]*' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.getRegexConcat@POLYN160457 the MagicNumber/String  '[^*]*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -185,14 +185,14 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.executeArg@POLYN161120 the MagicNumber/String  'DIRECTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.executeArg@POLYN161168 the MagicNumber/String  'DIRECTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/CommandMindMapDirection.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.executeArg@POLYN161120 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.mindmap.CommandMindMapDirection.executeArg@POLYN161168 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

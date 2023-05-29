@@ -47,40 +47,40 @@ var maDataBlocs = {
 ,
 { "ligne" :  "R1:smetana.core.debug.Purify.this" }
 ,
-{ "ligne" :  "R2:smetana.core.debug.Purify.entering@POLYN182895.signature" }
+{ "ligne" :  "R2:smetana.core.debug.Purify.entering@POLYN182943.signature" }
 ,
-{ "ligne" :  "R3:smetana.core.debug.Purify.entering@POLYN182895.methodNameDeclared" }
+{ "ligne" :  "R3:smetana.core.debug.Purify.entering@POLYN182943.methodNameDeclared" }
 ,
-{ "ligne" :  "R4:smetana.core.debug.Purify.logline@POLYN182553.s" }
+{ "ligne" :  "R4:smetana.core.debug.Purify.logline@POLYN182601.s" }
 ,
-{ "ligne" :  "R5:smetana.core.debug.Purify.leaving@POLYN183971.signature" }
+{ "ligne" :  "R5:smetana.core.debug.Purify.leaving@POLYN184019.signature" }
 ,
-{ "ligne" :  "R6:smetana.core.debug.Purify.leaving@POLYN183971.methodName" }
+{ "ligne" :  "R6:smetana.core.debug.Purify.leaving@POLYN184019.methodName" }
 ]
 ,
 "data12b" : [
 { "sequence" : { "noseq" : "0" , "pas" : [
-{ "ligne" : "S0:smetana.core.debug.Purify.entering@POLYN182895 (R1 in line [00077],R2 in line [00077],R3 in line [00077])" }
+{ "ligne" : "S0:smetana.core.debug.Purify.entering@POLYN182943 (R1 in line [00077],R2 in line [00077],R3 in line [00077])" }
 ,
-{ "ligne" : "S0:smetana.core.debug.Purify.recordMe@POLYN184861 (R1 in line [00111])" }
+{ "ligne" : "S0:smetana.core.debug.Purify.recordMe@POLYN184909 (R1 in line [00111])" }
 ,
-{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN186971 (R1 in line [00146])" }
+{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN187019 (R1 in line [00146])" }
 ,
-{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN186971.dummymethode_00149" }
+{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN187019.dummymethode_00149" }
  ]
  } }
 ,
 { "sequence" : { "noseq" : "1" , "pas" : [
-{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN182553 (R1 in line [00069],R4 in line [00069])" }
+{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN182601 (R1 in line [00069],R4 in line [00069])" }
 ,
-{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN182553.dummymethode_00070" }
+{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN182601.dummymethode_00070" }
  ]
  } }
 ,
 { "sequence" : { "noseq" : "2" , "pas" : [
-{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN183971 (R1 in line [00095],R5 in line [00095],R6 in line [00095])" }
+{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN184019 (R1 in line [00095],R5 in line [00095],R6 in line [00095])" }
 ,
-{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN183971.dummymethode_00096" }
+{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN184019.dummymethode_00096" }
  ]
  } }
 ]
@@ -130,2597 +130,2597 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R2 : smetana.core.debug.Purify.entering@POLYN182895.signature"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R2 : smetana.core.debug.Purify.entering@POLYN182943.signature"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R3 : smetana.core.debug.Purify.entering@POLYN182895.methodNameDeclared"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R3 : smetana.core.debug.Purify.entering@POLYN182943.methodNameDeclared"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R4 : smetana.core.debug.Purify.logline@POLYN182553.s"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R4 : smetana.core.debug.Purify.logline@POLYN182601.s"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R5 : smetana.core.debug.Purify.leaving@POLYN183971.signature"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R5 : smetana.core.debug.Purify.leaving@POLYN184019.signature"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R6 : smetana.core.debug.Purify.leaving@POLYN183971.methodName"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R6 : smetana.core.debug.Purify.leaving@POLYN184019.methodName"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN449522"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN449570"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450619"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN452095 ending with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450619"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450667"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN452095"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN452143 ending with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450667"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450619"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.AbstractionGrid.getDistinctShapes@POLYN186406"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN297665"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.removeDuplicateSets@POLYN266145"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN496643"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.find@POLYN256575"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN326155"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN333023"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectEndsToAnchors@POLYN204650"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN335654"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN470643"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN471545"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN478176"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN171330"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN169854"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN168804"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agattrrec@POLYN276812"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agdictsym@POLYN268683"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.class1__c.interclust1@POLYN187905"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.cluster__c.mark_lowcluster_basic@POLYN312862"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.decomp__c.search_component@POLYN195352"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.save_best@POLYN539876"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.flat_search@POLYN567598"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.postorder@POLYN589650"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.local_cross_w_@POLYN608457"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.merge_components@POLYN540823"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.cluster__c.interclexp@POLYN290737"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.cluster__c.map_path@POLYN283058"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.mincross_clust@POLYN515628"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.rec_reset_vlists@POLYN556520"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.Bezier_w_@POLYN359885"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.acyclic__c.dfs@POLYN178259"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotinit__c.dot_init_subg@POLYN241313"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.installedge@POLYN264034"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.mem__c.agalloc@POLYN179512"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.node__c.agsubnode@POLYN231222"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN260312"
+ , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN452143"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.dotgen.rank__c.dot1_rank@POLYN313728 ending with method gen.lib.dotgen.rank__c.collapse_cluster@POLYN298836"
+ , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450667"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.AbstractionGrid.getDistinctShapes@POLYN186454"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.Diagram@POLYN297713"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.removeDuplicateSets@POLYN266193"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN496691"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.find@POLYN256623"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN326203"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN333071"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectEndsToAnchors@POLYN204698"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeDuplicateShapes@POLYN335702"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN470691"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN471593"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN478224"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.deriveFont@POLYN171378"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN169902"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN168852"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agattrrec@POLYN276860"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agdictsym@POLYN268731"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.class1__c.interclust1@POLYN187953"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.cluster__c.mark_lowcluster_basic@POLYN312910"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.decomp__c.search_component@POLYN195400"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.save_best@POLYN539924"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.flat_search@POLYN567646"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.postorder@POLYN589698"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.local_cross_w_@POLYN608505"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.merge_components@POLYN540871"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.cluster__c.interclexp@POLYN290785"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.cluster__c.map_path@POLYN283106"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.mincross_clust@POLYN515676"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.rec_reset_vlists@POLYN556568"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.Bezier_w_@POLYN359933"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.acyclic__c.dfs@POLYN178307"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotinit__c.dot_init_subg@POLYN241361"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.installedge@POLYN264082"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.mem__c.agalloc@POLYN179560"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.node__c.agsubnode@POLYN231270"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN260360"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.dotgen.rank__c.dot1_rank@POLYN313728"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.dotgen.rank__c.dot1_rank@POLYN313776 ending with method gen.lib.dotgen.rank__c.collapse_cluster@POLYN298884"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.dotgen.rank__c.collapse_sets@POLYN300206"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.dotgen.rank__c.dot1_rank@POLYN313776"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.dotgen.rank__c.collapse_cluster@POLYN298836"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.collapse_sets@POLYN300206"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.set_minmax@POLYN302612"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.rec_bb@POLYN475962"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.clust_ht@POLYN458142"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.inside_cluster@POLYN552477"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.contain_clustnodes@POLYN438306"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.keepout_othernodes@POLYN441321"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.contain_subclust@POLYN445029"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.separate_subclust@POLYN446895"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.set_xcoords@POLYN456416"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.minmax_edges@POLYN303979"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.graph__c.agopen_w_@POLYN214967"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN269509"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTCMP@POLYN248761"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtview__c.dtvsearch@POLYN191131"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.apply__c.subgraph_search@POLYN177127"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.rec__c.set_data@POLYN186770"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.dotgen.rank__c.collapse_sets@POLYN300254"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.dotgen.rank__c.collapse_cluster@POLYN298836 ending with method gen.lib.dotgen.rank__c.collapse_sets@POLYN300206"
+ , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.dotgen.rank__c.collapse_cluster@POLYN298884"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.collapse_sets@POLYN300254"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.set_minmax@POLYN302660"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.rec_bb@POLYN476010"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.clust_ht@POLYN458190"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.inside_cluster@POLYN552525"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.contain_clustnodes@POLYN438354"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.keepout_othernodes@POLYN441369"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.contain_subclust@POLYN445077"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.separate_subclust@POLYN446943"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.set_xcoords@POLYN456464"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.minmax_edges@POLYN304027"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.graph__c.agopen_w_@POLYN215015"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN269557"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTCMP@POLYN248809"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtview__c.dtvsearch@POLYN191179"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.apply__c.subgraph_search@POLYN177175"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.rec__c.set_data@POLYN186818"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.dotgen.rank__c.collapse_cluster@POLYN298836"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.dotgen.rank__c.collapse_cluster@POLYN298884 ending with method gen.lib.dotgen.rank__c.collapse_sets@POLYN300254"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.dotgen.rank__c.dot1_rank@POLYN313728"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.dotgen.rank__c.collapse_cluster@POLYN298884"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.dotgen.rank__c.collapse_sets@POLYN300206"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.dotgen.rank__c.dot1_rank@POLYN313776"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.dotgen.rank__c.collapse_sets@POLYN300206 ending with method gen.lib.dotgen.rank__c.dot1_rank@POLYN313728"
+ , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.dotgen.rank__c.collapse_sets@POLYN300254"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.dotgen.rank__c.collapse_sets@POLYN300206"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.dotgen.rank__c.collapse_sets@POLYN300254 ending with method gen.lib.dotgen.rank__c.dot1_rank@POLYN313776"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.dotgen.rank__c.collapse_cluster@POLYN298836"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.dotgen.rank__c.collapse_sets@POLYN300254"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.dotgen.rank__c.dot1_rank@POLYN313728"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.newedge@POLYN266823"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getDouble@POLYN163789"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN217322"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.renderer.Renderer.render@POLYN157354"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.renderer.Renderer.getPixelTypes@POLYN158290"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN524875"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN529314"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN525585"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agmakeattrs@POLYN272483"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN269127"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agxset@POLYN290639"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.rotatepf_w_@POLYN182147"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.mapBool@POLYN365783"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.arrows__c.inside_w_@POLYN296800"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.refstr__c.aghtmlstr@POLYN195550"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.subg__c.agfindsubg_by_id@POLYN184010"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.initQRCode@POLYN254117"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByName@POLYN166745"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.node__c.installnodetoroot@POLYN225247"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.checkpath@POLYN368972"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.overlap@POLYN367628"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_range@POLYN415063"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_cutval@POLYN413317"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvtextlayout__c.gvtextlayout_select@POLYN165944"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvc__c.gvContext@POLYN167043"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvcontext__c.gvNEWcontext@POLYN165181"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.getAllDiagramShapes@POLYN325404"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN216019"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.DiagramShape.getBounds@POLYN335102"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers.render@POLYN149925"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN168068"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.apply__c.rec_apply@POLYN177719"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.subg__c.agfstsubg@POLYN188778"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.dotgen.rank__c.collapse_cluster@POLYN298884"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.pos_reclbl@POLYN637667 ending with method gen.lib.common.shapes__c.pos_reclbl_@POLYN637915"
+ , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.dotgen.rank__c.dot1_rank@POLYN313776"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.newedge@POLYN266871"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getDouble@POLYN163837"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN217370"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.renderer.Renderer.render@POLYN157402"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.renderer.Renderer.getPixelTypes@POLYN158338"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN524923"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN529362"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN525633"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agmakeattrs@POLYN272531"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN269175"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agxset@POLYN290687"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.rotatepf_w_@POLYN182195"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.mapBool@POLYN365831"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.arrows__c.inside_w_@POLYN296848"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.refstr__c.aghtmlstr@POLYN195598"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.subg__c.agfindsubg_by_id@POLYN184058"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.initQRCode@POLYN254165"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByName@POLYN166793"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.node__c.installnodetoroot@POLYN225295"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.checkpath@POLYN369020"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.overlap@POLYN367676"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_range@POLYN415111"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_cutval@POLYN413365"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvtextlayout__c.gvtextlayout_select@POLYN165992"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvc__c.gvContext@POLYN167091"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvcontext__c.gvNEWcontext@POLYN165229"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.getAllDiagramShapes@POLYN325452"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN216067"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.DiagramShape.getBounds@POLYN335150"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.plugins.markers.PluginMarkers.render@POLYN149973"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN168116"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.apply__c.rec_apply@POLYN177767"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.subg__c.agfstsubg@POLYN188826"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.pos_reclbl@POLYN637667"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.pos_reclbl@POLYN637715 ending with method gen.lib.common.shapes__c.pos_reclbl_@POLYN637963"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.pos_reclbl_@POLYN637915"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.pos_reclbl@POLYN637715"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.resize_reclbl@POLYN634635 ending with method gen.lib.common.shapes__c.resize_reclbl_@POLYN634883"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.pos_reclbl_@POLYN637963"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.resize_reclbl@POLYN634635"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.resize_reclbl@POLYN634683 ending with method gen.lib.common.shapes__c.resize_reclbl_@POLYN634931"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.resize_reclbl_@POLYN634883"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.resize_reclbl_@POLYN634883"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.size_reclbl_@POLYN631305"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.resize_reclbl@POLYN634683"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.cdt.dtrestore__c.dtrestore@POLYN174099 ending with method gen.lib.cdt.dtdisc__c.dtdisc@POLYN182039"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.resize_reclbl_@POLYN634931"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.resize_reclbl_@POLYN634931"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.size_reclbl_@POLYN631353"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.cdt.dtrestore__c.dtrestore@POLYN174099"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.cdt.dtrestore__c.dtrestore@POLYN174147 ending with method gen.lib.cdt.dtdisc__c.dtdisc@POLYN182087"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.cdt.dtopen__c.dtopen@POLYN171144"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.cdt.dtrestore__c.dtrestore@POLYN174147"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.cdt.dtdisc__c.dtdisc@POLYN182039"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtopen__c.dtopen@POLYN171144"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTOBJ@POLYN249472"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for h.ST_dtlink_s.getTheField@POLYN168205"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTLNK@POLYN248373"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.refstr__c.agstrfree@POLYN193842"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.cdt.dtopen__c.dtopen@POLYN171192"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.cdt.dtdisc__c.dtdisc@POLYN182039 ending with method gen.lib.cdt.dtopen__c.dtopen@POLYN171144"
+ , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.cdt.dtdisc__c.dtdisc@POLYN182087"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtopen__c.dtopen@POLYN171192"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTOBJ@POLYN249520"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for h.ST_dtlink_s.getTheField@POLYN168253"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dttree__c._DTLNK@POLYN248421"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.refstr__c.agstrfree@POLYN193890"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.cdt.dtdisc__c.dtdisc@POLYN182039"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.cdt.dtdisc__c.dtdisc@POLYN182087 ending with method gen.lib.cdt.dtopen__c.dtopen@POLYN171192"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.cdt.dtrestore__c.dtrestore@POLYN174099"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.cdt.dtdisc__c.dtdisc@POLYN182087"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.cdt.dtopen__c.dtopen@POLYN171144"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.cdt.dtrestore__c.dtrestore@POLYN174147"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.resize_reclbl_@POLYN634883 ending with method gen.lib.common.shapes__c.resize_reclbl@POLYN634635"
+ , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.cdt.dtopen__c.dtopen@POLYN171192"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.resize_reclbl_@POLYN634883"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.resize_reclbl_@POLYN634931 ending with method gen.lib.common.shapes__c.resize_reclbl@POLYN634683"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.resize_reclbl@POLYN634635"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.id__c.agmapnametoid@POLYN212690"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.id__c.idprint@POLYN209799"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.addLabelObj_@POLYN324516"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.addNodeObj_@POLYN326809"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.place_graph_label@POLYN351768"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.countClusterLabels@POLYN330764"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.translate_bb@POLYN311178"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.resolvePort_w_@POLYN679853"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.cvtPt@POLYN673241"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN774586"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN183978"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.Proutespline_w_@POLYN309866"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.resize_reclbl_@POLYN634931"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.cdt.dtopen__c.dtopen@POLYN171144 ending with method gen.lib.cdt.dtrestore__c.dtrestore@POLYN174099"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.resize_reclbl@POLYN634683"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.id__c.agmapnametoid@POLYN212738"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.id__c.idprint@POLYN209847"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.addLabelObj_@POLYN324564"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.addNodeObj_@POLYN326857"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.place_graph_label@POLYN351816"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.countClusterLabels@POLYN330812"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.translate_bb@POLYN311226"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.resolvePort_w_@POLYN679901"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.cvtPt@POLYN673289"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.rank_box_w_@POLYN774634"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN184026"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.Proutespline_w_@POLYN309914"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.cdt.dtopen__c.dtopen@POLYN171144"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.cdt.dtopen__c.dtopen@POLYN171192 ending with method gen.lib.cdt.dtrestore__c.dtrestore@POLYN174147"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.cdt.dtdisc__c.dtdisc@POLYN182039"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.cdt.dtopen__c.dtopen@POLYN171192"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.cdt.dtrestore__c.dtrestore@POLYN174099"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.rec_save_vlists@POLYN555575"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xlnew@POLYN300666"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.index__c.RTreeInsert2@POLYN222948"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.node__c.InitBranch@POLYN188962"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.poly_port_w_@POLYN599451"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.render@POLYN212430"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_enter_outedge@POLYN366162"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_enter_inedge@POLYN368796"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.rerank@POLYN384005"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.chkPort_w_@POLYN381211"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xlintersections@POLYN324116"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.mkspline_w_@POLYN321505"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN312716"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.splinefits_w_@POLYN330502"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapData.add@POLYN1308691"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN167450"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.utils__c.agdtdelete@POLYN182581"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.emit__c.update_bb_bz@POLYN191291"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.fastgr__c.ffe_w_@POLYN238425"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByValue@POLYN166118"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.memory__c.gmalloc@POLYN170736"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.map_point_w_@POLYN306600"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN329608"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.poly_inside_w_@POLYN568595"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_inside_@POLYN650735"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_port@POLYN648177"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.same_side_w_@POLYN536015"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.splines__c.add_box_w_@POLYN433167"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.addLabelBB_w_@POLYN390205"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.boxfof_w_@POLYN631626"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN769017"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN792639"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.portcmp_w_@POLYN636686"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.minmax_edges2_w_@POLYN306783"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.rectangle__c.Overlap@POLYN185268"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.add_w_@POLYN355788"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.dist_w_@POLYN357840"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.dot_w_@POLYN359974"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.normv_w_@POLYN352847"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.scale_w_@POLYN358977"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.sub_w_@POLYN356824"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.shortest__c.intersects@POLYN339201"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.util__c.make_polyline_@POLYN172369"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.cdt.dtdisc__c.dtdisc@POLYN182087"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450619 ending with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN452095"
+ , "c3" : "QC-JAV999995[00001] +--+--+--gen.lib.cdt.dtrestore__c.dtrestore@POLYN174147"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.rec_save_vlists@POLYN555623"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xlnew@POLYN300714"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.index__c.RTreeInsert2@POLYN222996"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.node__c.InitBranch@POLYN189010"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.poly_port_w_@POLYN599499"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.render@POLYN212478"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_enter_outedge@POLYN366210"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_enter_inedge@POLYN368844"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.rerank@POLYN384053"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.chkPort_w_@POLYN381259"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xlintersections@POLYN324164"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.mkspline_w_@POLYN321553"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.reallyroutespline_w_@POLYN312764"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.splinefits_w_@POLYN330550"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapData.add@POLYN1308739"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN167498"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.utils__c.agdtdelete@POLYN182629"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.emit__c.update_bb_bz@POLYN191339"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.fastgr__c.ffe_w_@POLYN238473"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByValue@POLYN166166"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.memory__c.gmalloc@POLYN170784"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.postproc__c.map_point_w_@POLYN306648"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.simpleSplineRoute_w_@POLYN329656"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.poly_inside_w_@POLYN568643"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_inside_@POLYN650783"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_port@POLYN648225"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.same_side_w_@POLYN536063"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.splines__c.add_box_w_@POLYN433215"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.addLabelBB_w_@POLYN390253"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.boxfof_w_@POLYN631674"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.makeregularend_w_@POLYN769065"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.maximal_bbox_w_@POLYN792687"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.portcmp_w_@POLYN636734"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.minmax_edges2_w_@POLYN306831"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.rectangle__c.Overlap@POLYN185316"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.add_w_@POLYN355836"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.dist_w_@POLYN357888"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.dot_w_@POLYN360022"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.normv_w_@POLYN352895"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.scale_w_@POLYN359025"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.route__c.sub_w_@POLYN356872"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.shortest__c.intersects@POLYN339249"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.util__c.make_polyline_@POLYN172417"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450619"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450667 ending with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN452143"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN452095"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_path@POLYN652754"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.cl_bound@POLYN788756"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.index__c.RTreeSearch@POLYN217183"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xladjust@POLYN328549"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.renderTextLayer@POLYN228667"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getHeightFor@POLYN168426"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN168048"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.textspan__c.textspan_size_w_@POLYN167130"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.GraphicalComposite.addElement@POLYN164032"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN188582"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN159715"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN166317"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.removeElementAt@POLYN186282"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.notifyListeners@POLYN183093"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.drawShape@POLYN209610"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.clear@POLYN441732"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fillCellsWith@POLYN512677"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.gui.MonitoredObject.fireValueChanged@POLYN150669"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN158410"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.drawCoordinateSystem@POLYN190913"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.createRenderer@POLYN191792"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.addElement@POLYN184623"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN201376"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.DiagramShape.getPoint@POLYN329608"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPattern.prepareRegExps@POLYN200505"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtclose__c.dtclose@POLYN169656"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ccwrotatepf_w_@POLYN185976"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.cwrotatepf_w_@POLYN183992"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ptToLine2_w_@POLYN188057"
+ , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN450667"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.pos_reclbl_@POLYN637915 ending with method gen.lib.common.shapes__c.pos_reclbl@POLYN637667"
+ , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN452143"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_path@POLYN652802"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.dotsplines__c.cl_bound@POLYN788804"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.index__c.RTreeSearch@POLYN217231"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xladjust@POLYN328597"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.renderTextLayer@POLYN228715"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getHeightFor@POLYN168474"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN168096"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.textspan__c.textspan_size_w_@POLYN167178"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.GraphicalComposite.addElement@POLYN164080"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN188630"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder.buildGenerator@POLYN159763"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN166365"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.removeElementAt@POLYN186330"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.notifyListeners@POLYN183141"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.renderer.Graphics2DRenderer.drawShape@POLYN209658"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.clear@POLYN441780"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fillCellsWith@POLYN512725"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.gui.MonitoredObject.fireValueChanged@POLYN150717"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN158458"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.drawCoordinateSystem@POLYN190961"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.createRenderer@POLYN191840"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.addElement@POLYN184671"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN201424"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.DiagramShape.getPoint@POLYN329656"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPattern.prepareRegExps@POLYN200553"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtclose__c.dtclose@POLYN169704"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186024"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.cwrotatepf_w_@POLYN184040"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ptToLine2_w_@POLYN188105"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.pos_reclbl_@POLYN637915"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.pos_reclbl_@POLYN637963 ending with method gen.lib.common.shapes__c.pos_reclbl@POLYN637715"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.pos_reclbl@POLYN637667"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.pos_reclbl_@POLYN637963"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.pos_reclbl@POLYN637715"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.util.Format.form@POLYN195993"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.util.Format.form@POLYN196041"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getBoundsFor@POLYN169384"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getBoundsFor@POLYN169432"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.add@POLYN189031"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.add@POLYN189079"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN188116"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.areAllMatchedBy@POLYN188164"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.JUtils.EQ_@POLYN204537"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.JUtils.EQ_@POLYN204585"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_realrankdir@POLYN405976"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_realrankdir@POLYN406024"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tree_index@POLYN436661"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tree_index@POLYN436709"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_low@POLYN418915"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_low@POLYN418963"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getBoolean@POLYN163373"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getBoolean@POLYN163421"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getInt@POLYN163581"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getInt@POLYN163629"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOBoolean@POLYN164249"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOBoolean@POLYN164297"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMODouble@POLYN164881"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMODouble@POLYN164929"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOEnum@POLYN164565"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOEnum@POLYN164613"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOInteger@POLYN164723"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOInteger@POLYN164771"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOString@POLYN164407"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOString@POLYN164455"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getString@POLYN163165"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getString@POLYN163213"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.is@POLYN163997"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.is@POLYN164045"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.getValue@POLYN170769"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.getValue@POLYN170817"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN172087"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN172135"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.sort.DefaultComparator.compare@POLYN147406"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.sort.DefaultComparator.compare@POLYN147454"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN198060"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly.toString@POLYN198108"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation.hashCode@POLYN177165"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation.hashCode@POLYN177213"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.rectangle__c.CombineRect@POLYN183471"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.rectangle__c.CombineRect@POLYN183519"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for h.ST_dtlink_s.castTo@POLYN167630"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for h.ST_dtlink_s.castTo@POLYN167678"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for h.ST_field_t.castTo@POLYN167159"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for h.ST_field_t.castTo@POLYN167207"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.getElement@POLYN183972"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.data.DataContainer.getElement@POLYN184020"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.Polygon.getPoint@POLYN158642"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.graphic.Polygon.getPoint@POLYN158690"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getHeightFor@POLYN169094"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getHeightFor@POLYN169142"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isEastOf@POLYN167666"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isEastOf@POLYN167714"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isNorthOf@POLYN167156"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isNorthOf@POLYN167204"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isSouthOf@POLYN167326"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isSouthOf@POLYN167374"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isWestOf@POLYN167496"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isWestOf@POLYN167544"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.getFirst@POLYN245910"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.getFirst@POLYN245958"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.hasCommonCells@POLYN257490"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.hasCommonCells@POLYN257538"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.printDebug@POLYN246430"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.printDebug@POLYN246478"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN536611"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN536659"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN537557"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN537605"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isIntersection@POLYN510949"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isIntersection@POLYN510997"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isNormalCorner@POLYN510163"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isNormalCorner@POLYN510211"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isRoundCorner@POLYN510556"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isRoundCorner@POLYN510604"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.CArrayOfStar._swap@POLYN167136"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.CArrayOfStar._swap@POLYN167184"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.CArrayOfStar.realloc@POLYN166478"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.CArrayOfStar.realloc@POLYN166526"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.APPROXEQPT@POLYN445995"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.APPROXEQPT@POLYN446043"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_adjacent@POLYN431180"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_adjacent@POLYN431228"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_conc_opp_flag@POLYN429896"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_conc_opp_flag@POLYN429944"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_count@POLYN430324"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_count@POLYN430372"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_cutvalue@POLYN430752"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_cutvalue@POLYN430800"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_dist@POLYN437517"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_dist@POLYN437565"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_edge_type@POLYN438373"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_edge_type@POLYN438421"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_label@POLYN431608"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_label@POLYN431656"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_port@POLYN432055"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_port@POLYN432103"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_label@POLYN432519"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_label@POLYN432567"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_label_ontop@POLYN433182"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_label_ontop@POLYN433230"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_minlen@POLYN433610"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_minlen@POLYN433658"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_showboxes@POLYN434038"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_showboxes@POLYN434086"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_spl@POLYN434466"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_spl@POLYN434514"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tail_label@POLYN434894"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tail_label@POLYN434942"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tail_port@POLYN435341"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_tail_port@POLYN435389"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_orig@POLYN435805"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_orig@POLYN435853"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_virt@POLYN436233"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_to_virt@POLYN436281"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_weight@POLYN437945"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_weight@POLYN437993"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_xlabel@POLYN432966"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_xlabel@POLYN433014"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_xpenalty@POLYN437089"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_xpenalty@POLYN437137"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_bb@POLYN397892"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_bb@POLYN397940"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_border@POLYN398989"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_border@POLYN399037"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_charset@POLYN401603"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_charset@POLYN401651"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_cleanup@POLYN398555"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_cleanup@POLYN398603"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_clust@POLYN399207"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_clust@POLYN399255"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_comp@POLYN400103"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_comp@POLYN400151"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_dotroot@POLYN399656"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_dotroot@POLYN399704"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_drawing@POLYN397464"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_drawing@POLYN397512"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_exact_ranksep@POLYN400319"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_exact_ranksep@POLYN400367"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_expanded@POLYN400747"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_expanded@POLYN400795"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_flags@POLYN401175"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_flags@POLYN401223"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_fontnames@POLYN412892"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_fontnames@POLYN412940"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_gvc@POLYN398108"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_gvc@POLYN398156"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_has_flat_edges@POLYN402459"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_has_flat_edges@POLYN402507"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_has_labels@POLYN402031"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_has_labels@POLYN402079"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ht1@POLYN402935"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ht1@POLYN402983"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ht2@POLYN403363"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ht2@POLYN403411"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_installed@POLYN403791"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_installed@POLYN403839"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_label@POLYN404219"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_label@POLYN404267"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_label_pos@POLYN412036"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_label_pos@POLYN412084"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_leader@POLYN404666"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_leader@POLYN404714"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ln@POLYN406365"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ln@POLYN406413"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_maxrank@POLYN406812"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_maxrank@POLYN406860"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_maxset@POLYN407240"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_maxset@POLYN407288"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_minrank@POLYN407437"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_minrank@POLYN407485"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_minset@POLYN407865"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_minset@POLYN407913"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_n_cluster@POLYN408062"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_n_cluster@POLYN408110"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_n_nodes@POLYN408490"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_n_nodes@POLYN408538"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_nlist@POLYN408918"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_nlist@POLYN408966"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_nodesep@POLYN409365"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_nodesep@POLYN409413"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_parent@POLYN397036"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_parent@POLYN397084"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rank@POLYN409814"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rank@POLYN409862"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankdir2@POLYN405113"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankdir2@POLYN405161"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankdir@POLYN405541"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankdir@POLYN405589"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankleader@POLYN410284"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rankleader@POLYN410332"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ranksep@POLYN410733"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_ranksep@POLYN410781"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rn@POLYN411161"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_rn@POLYN411209"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_set_type@POLYN411608"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_set_type@POLYN411656"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_showboxes@POLYN412464"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.GD_showboxes@POLYN412512"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.LEN@POLYN446574"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.LEN@POLYN446622"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_UF_parent@POLYN413945"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_UF_parent@POLYN413993"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_UF_size@POLYN414392"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_UF_size@POLYN414440"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_alg@POLYN413517"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_alg@POLYN413565"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_clust@POLYN414820"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_clust@POLYN414868"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_coord@POLYN415267"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_coord@POLYN415315"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_flat_in@POLYN415483"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_flat_in@POLYN415531"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_flat_out@POLYN415680"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_flat_out@POLYN415728"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_has_port@POLYN415877"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_has_port@POLYN415925"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_height@POLYN416305"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_height@POLYN416353"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_ht@POLYN416733"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_ht@POLYN416781"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_id@POLYN413320"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_id@POLYN413368"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_in@POLYN417161"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_in@POLYN417209"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_inleaf@POLYN417627"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_inleaf@POLYN417675"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_label@POLYN417824"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_label@POLYN417872"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lim@POLYN418487"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lim@POLYN418535"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lw@POLYN419343"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_lw@POLYN419391"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_mark@POLYN419771"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_mark@POLYN419819"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_mval@POLYN420478"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_mval@POLYN420526"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_next@POLYN420906"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_next@POLYN420954"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_node_type@POLYN421353"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_node_type@POLYN421401"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_order@POLYN422512"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_order@POLYN422560"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_other@POLYN422940"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_other@POLYN422988"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_out@POLYN423137"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_out@POLYN423185"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_outleaf@POLYN423603"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_outleaf@POLYN423651"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_par@POLYN423800"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_par@POLYN423848"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_prev@POLYN424228"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_prev@POLYN424276"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_priority@POLYN424656"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_priority@POLYN424704"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_ranktype@POLYN425574"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_ranktype@POLYN425622"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_rw@POLYN426002"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_rw@POLYN426050"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_save_in@POLYN426430"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_save_in@POLYN426478"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_save_out@POLYN426896"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_save_out@POLYN426944"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_shape@POLYN427362"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_shape@POLYN427410"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_shape_info@POLYN427790"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_shape_info@POLYN427838"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_showboxes@POLYN428218"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_showboxes@POLYN428266"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_tree_in@POLYN428646"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_tree_in@POLYN428694"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_tree_out@POLYN428843"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_tree_out@POLYN428891"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_weight_class@POLYN429040"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_weight_class@POLYN429088"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_width@POLYN429468"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_width@POLYN429516"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_xlabel@POLYN418271"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ND_xlabel@POLYN418319"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro._DTKEY@POLYN468492"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro._DTKEY@POLYN468540"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.streq@POLYN470868"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.streq@POLYN470916"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Memory.malloc@POLYN159118"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Memory.malloc@POLYN159166"
 }} 
 ]
 , 

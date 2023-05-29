@@ -189,56 +189,56 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.FtileDiamondInside@POLYN178360 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -294,56 +294,56 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181004 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181052 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181004 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181004 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181052 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181004 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181004 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181004 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181004 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181004 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.drawU@POLYN181052 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -357,70 +357,70 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vertical/FtileDiamondInside.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183586 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondInside.calculateDimensionAlone@POLYN183634 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

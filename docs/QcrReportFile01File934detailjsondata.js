@@ -183,49 +183,49 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163697 the MagicNumber/String  '^' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163745 the MagicNumber/String  '^' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163697 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163745 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163697 the MagicNumber/String  '$' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163745 the MagicNumber/String  '$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163697 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163745 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163697 the MagicNumber/String  'Bad pattern ' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.command.CommandMultilines3.CommandMultilines3@POLYN163745 the MagicNumber/String  'Bad pattern ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMultilines3.getDescription@POLYN164317 the MagicNumber/String  'START: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMultilines3.getDescription@POLYN164365 the MagicNumber/String  'START: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMultilines3.getDescription@POLYN164317 the MagicNumber/String  'END: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandMultilines3.getDescription@POLYN164365 the MagicNumber/String  'END: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -246,28 +246,28 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandMultilines3.isValid@POLYN164582 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandMultilines3.isValid@POLYN164630 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandMultilines3.isValid@POLYN164582 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandMultilines3.isValid@POLYN164630 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.command.CommandMultilines3.isValid@POLYN164582 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.command.CommandMultilines3.isValid@POLYN164630 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.command.CommandMultilines3.isValid@POLYN164582 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.command.CommandMultilines3.isValid@POLYN164630 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -295,7 +295,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandMultilines3.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.command.CommandMultilines3.isCommandForbidden@POLYN166096 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.command.CommandMultilines3.isCommandForbidden@POLYN166144 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

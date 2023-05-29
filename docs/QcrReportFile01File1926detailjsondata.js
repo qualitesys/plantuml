@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxEnd.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.getRegexConcat@POLYN159699 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.getRegexConcat@POLYN159747 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxEnd.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.getRegexConcat@POLYN159699 the MagicNumber/String  'box' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.getRegexConcat@POLYN159747 the MagicNumber/String  'box' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -136,14 +136,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxEnd.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.executeArg@POLYN160118 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.executeArg@POLYN160166 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandBoxEnd.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.executeArg@POLYN160118 the MagicNumber/String  'Missing starting box' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd.executeArg@POLYN160166 the MagicNumber/String  'Missing starting box' should be converted to const"
 }} 
 ]
 , 

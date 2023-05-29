@@ -117,21 +117,21 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/Load.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.Load.getFullLoad@POLYN155907 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.Load.getFullLoad@POLYN155955 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/Load.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.Load.toString@POLYN156031 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.Load.toString@POLYN156079 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/Load.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.Load.toString@POLYN156031 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.Load.toString@POLYN156079 the MagicNumber/String  ')' should be converted to const"
 }} 
 ]
 , 

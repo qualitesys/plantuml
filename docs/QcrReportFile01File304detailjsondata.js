@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/jcckit/graphic/Text.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method jcckit.graphic.Text.renderWith@POLYN156980 the MagicNumber/String  ' does not implements TextRenderer.' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method jcckit.graphic.Text.renderWith@POLYN157028 the MagicNumber/String  ' does not implements TextRenderer.' should be converted to const"
 }} 
 ]
 , 

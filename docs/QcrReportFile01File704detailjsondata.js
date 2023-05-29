@@ -165,7 +165,7 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/Animation.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.anim.Animation.Animation@POLYN161806 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.anim.Animation.Animation@POLYN161854 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -179,14 +179,14 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/Animation.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.anim.Animation.singleton@POLYN162115 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.anim.Animation.singleton@POLYN162163 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/Animation.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.anim.Animation.singleton@POLYN162115 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.anim.Animation.singleton@POLYN162163 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -207,7 +207,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/Animation.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.anim.Animation.create@POLYN162416 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.anim.Animation.create@POLYN162464 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -221,7 +221,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/Animation.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.anim.Animation.getFirst@POLYN163377 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.anim.Animation.getFirst@POLYN163425 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -242,7 +242,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/Animation.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.anim.Animation.getMinMax@POLYN163504 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.anim.Animation.getMinMax@POLYN163552 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -167,7 +167,7 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote.create@POLYN173672 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote.create@POLYN173720 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -181,7 +181,7 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FloatingNote.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote.createOpale@POLYN173941 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FloatingNote.createOpale@POLYN173989 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

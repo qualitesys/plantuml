@@ -240,7 +240,7 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/MessageSelfArrow.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow.getDirection@POLYN172363 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow.getDirection@POLYN172411 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

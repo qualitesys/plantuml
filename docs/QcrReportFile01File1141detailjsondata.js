@@ -261,7 +261,7 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.DotData@POLYN183632 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.DotData@POLYN183680 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -289,14 +289,14 @@ var maDataBlocs = {
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.isDegeneratedWithFewEntities@POLYN185468 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.isDegeneratedWithFewEntities@POLYN185516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.isDegeneratedWithFewEntities@POLYN185468 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.isDegeneratedWithFewEntities@POLYN185516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -359,42 +359,42 @@ var maDataBlocs = {
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186145 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186193 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186145 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186193 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186145 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186193 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186145 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186193 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186145 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186193 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186145 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.removeIrrelevantSametail@POLYN186193 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -415,7 +415,7 @@ var maDataBlocs = {
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/DotData.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.getLeaf@POLYN189308 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.cucadiagram.dot.DotData.getLeaf@POLYN189356 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

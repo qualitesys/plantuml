@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.pop@POLYN158711 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.pop@POLYN158759 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -131,21 +131,21 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN159148 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN159196 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN159148 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN159196 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/InGroupablesStack.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN159148 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack.getTopGroupingStructure@POLYN159196 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

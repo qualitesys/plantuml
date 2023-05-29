@@ -151,42 +151,42 @@ var maDataBlocs = {
  , "c1" : "00032"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173904 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173952 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173904 the MagicNumber/String  0.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173952 the MagicNumber/String  0.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173904 the MagicNumber/String  0.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173952 the MagicNumber/String  0.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173904 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173952 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173904 the MagicNumber/String  0.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173952 the MagicNumber/String  0.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173904 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanOutline@POLYN173952 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -207,28 +207,28 @@ var maDataBlocs = {
  , "c1" : "00040"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.addArcToScanbuf@POLYN174341 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.addArcToScanbuf@POLYN174389 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.addArcToScanbuf@POLYN174341 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.addArcToScanbuf@POLYN174389 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.addArcToScanbuf@POLYN174341 the MagicNumber/String  0.05 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.addArcToScanbuf@POLYN174389 the MagicNumber/String  0.05 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.addArcToScanbuf@POLYN174341 the MagicNumber/String  0.05 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.addArcToScanbuf@POLYN174389 the MagicNumber/String  0.05 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -242,7 +242,7 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00084] For method scanPolygon list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D findEdgeCrossingN178083|ext.plantuml.com.ctreber.acearth.util.Point3D findEdgeCrossingN178694"
+ , "c3" : "QC-JAV000007[00084] For method scanPolygon list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D findEdgeCrossingN178131|ext.plantuml.com.ctreber.acearth.util.Point3D findEdgeCrossingN178742"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -263,49 +263,49 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177288 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177336 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177288 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177336 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177288 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177336 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177288 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177336 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177288 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177336 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177288 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177336 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177288 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.scanPolygon@POLYN177336 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -319,7 +319,7 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00122] For method findEdgeCrossing list of called methods Object monObjet|double pCurr_getZN179675|double pCurr_getXN179863|double pCurr_getYN180073"
+ , "c3" : "QC-JAV000007[00122] For method findEdgeCrossing list of called methods Object monObjet|double pCurr_getZN179723|double pCurr_getXN179911|double pCurr_getYN180121"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -340,7 +340,7 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.findEdgeCrossing@POLYN179551 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.findEdgeCrossing@POLYN179599 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -361,63 +361,63 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180610 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.handleCrossings@POLYN180658 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -431,21 +431,21 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.EdgeCrossingComparator.compare@POLYN182407 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.EdgeCrossingComparator.compare@POLYN182455 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.EdgeCrossingComparator.compare@POLYN182407 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.EdgeCrossingComparator.compare@POLYN182455 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.EdgeCrossingComparator.compare@POLYN182407 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method ext.plantuml.com.ctreber.acearth.scanbit.BitGeneratorMapOrtho.EdgeCrossingComparator.compare@POLYN182455 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

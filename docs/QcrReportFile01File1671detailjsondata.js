@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.CommandNoteBottom@POLYN158403 the MagicNumber/String  '^note[%s]*bottom$' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.CommandNoteBottom@POLYN158451 the MagicNumber/String  '^note[%s]*bottom$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.getPatternEnd@POLYN158529 the MagicNumber/String  '^end[%s]*note$' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.getPatternEnd@POLYN158577 the MagicNumber/String  '^end[%s]*note$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,28 +143,28 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.execute@POLYN158617 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.execute@POLYN158665 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.execute@POLYN158617 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.execute@POLYN158665 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.execute@POLYN158617 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.execute@POLYN158665 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandNoteBottom.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.execute@POLYN158617 the MagicNumber/String  'No note defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandNoteBottom.execute@POLYN158665 the MagicNumber/String  'No note defined' should be converted to const"
 }} 
 ]
 , 

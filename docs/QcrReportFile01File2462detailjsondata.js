@@ -108,14 +108,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetVariableValue.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.getSignature@POLYN159603 the MagicNumber/String  '%get_variable_value' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.getSignature@POLYN159651 the MagicNumber/String  '%get_variable_value' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetVariableValue.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.getSignature@POLYN159603 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.getSignature@POLYN159651 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetVariableValue.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.canCover@POLYN159753 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.canCover@POLYN159801 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -157,21 +157,21 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetVariableValue.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.executeReturnFunction@POLYN159931 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.executeReturnFunction@POLYN159979 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetVariableValue.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.executeReturnFunction@POLYN159931 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.executeReturnFunction@POLYN159979 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/GetVariableValue.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.executeReturnFunction@POLYN159931 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.stdlib.GetVariableValue.executeReturnFunction@POLYN159979 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

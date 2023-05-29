@@ -136,7 +136,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/PSystemSudoku.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sudoku.PSystemSudoku.getDescription@POLYN161160 the MagicNumber/String  '(Sudoku)' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.sudoku.PSystemSudoku.getDescription@POLYN161208 the MagicNumber/String  '(Sudoku)' should be converted to const"
 }} 
 ]
 , 

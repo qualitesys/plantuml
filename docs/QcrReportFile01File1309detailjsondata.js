@@ -185,7 +185,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.gitlog.GNode.isTop@POLYN164639 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.gitlog.GNode.isTop@POLYN164687 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -220,105 +220,105 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165629 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.gitlog.GNode.canEatTheNextOne@POLYN165677 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166288 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166336 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166288 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166336 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166288 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166336 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166288 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166336 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/GNode.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166288 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.gitlog.GNode.eatTheNextOne@POLYN166336 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

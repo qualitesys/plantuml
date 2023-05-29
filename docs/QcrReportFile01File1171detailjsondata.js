@@ -85,21 +85,21 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN156070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN156118 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN156070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN156118 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/TurningBytes.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN156070 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.dedication.TurningBytes.nextByte@POLYN156118 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

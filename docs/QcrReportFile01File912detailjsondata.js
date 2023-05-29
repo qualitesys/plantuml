@@ -108,84 +108,84 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  'Negative code length' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  'Negative code length' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  'Maximum code length exceeded' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  'Maximum code length exceeded' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  'This canonical code produces an over-full Huffman code tree' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  'This canonical code produces an over-full Huffman code tree' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180721 the MagicNumber/String  'This canonical code produces an under-full Huffman code tree' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.CanonicalCode@POLYN180769 the MagicNumber/String  'This canonical code produces an under-full Huffman code tree' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -206,49 +206,49 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN183084 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN183132 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN183084 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN183132 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN183084 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN183132 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN183084 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.decodeNextSymbol@POLYN183132 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN183838 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN183886 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN183838 the MagicNumber/String  'Code %s: Symbol %d%n' should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN183886 the MagicNumber/String  'Code %s: Symbol %d%n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/deflate/CanonicalCode.java.html#1"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN183838 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.code.deflate.CanonicalCode.toString@POLYN183886 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

@@ -103,28 +103,28 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/LineBreakStrategy.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.LineBreakStrategy.isAuto@POLYN156670 the MagicNumber/String  'auto' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.LineBreakStrategy.isAuto@POLYN156718 the MagicNumber/String  'auto' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/LineBreakStrategy.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.LineBreakStrategy.getMaxWidth@POLYN156836 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.LineBreakStrategy.getMaxWidth@POLYN156884 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/LineBreakStrategy.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.LineBreakStrategy.getMaxWidth@POLYN156836 the MagicNumber/String  '-?\\d+' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.LineBreakStrategy.getMaxWidth@POLYN156884 the MagicNumber/String  '-?\\d+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/LineBreakStrategy.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.LineBreakStrategy.getMaxWidth@POLYN156836 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.LineBreakStrategy.getMaxWidth@POLYN156884 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

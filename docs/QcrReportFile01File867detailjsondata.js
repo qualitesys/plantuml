@@ -108,28 +108,28 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.getRegexConcat@POLYN160575 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.getRegexConcat@POLYN160623 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.getRegexConcat@POLYN160575 the MagicNumber/String  '(hide|hide-class|show|show-class)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.getRegexConcat@POLYN160623 the MagicNumber/String  '(hide|hide-class|show|show-class)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.getRegexConcat@POLYN160575 the MagicNumber/String  'WHAT' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.getRegexConcat@POLYN160623 the MagicNumber/String  'WHAT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.getRegexConcat@POLYN160575 the MagicNumber/String  '([^%s]+|\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.getRegexConcat@POLYN160623 the MagicNumber/String  '([^%s]+|\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -157,49 +157,49 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161042 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161090 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161042 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161090 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161042 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161090 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161042 the MagicNumber/String  's' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161090 the MagicNumber/String  's' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161042 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161090 the MagicNumber/String  'S' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161042 the MagicNumber/String  'WHAT' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161090 the MagicNumber/String  'WHAT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShow2.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161042 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShow2.executeArg@POLYN161090 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

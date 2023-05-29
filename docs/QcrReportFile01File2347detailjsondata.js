@@ -162,7 +162,7 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/Footprint.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.svek.image.Footprint.MyUGraphic.drawText@POLYN185027 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.svek.image.Footprint.MyUGraphic.drawText@POLYN185075 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -146,28 +146,28 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.bpm.BpmBranch.getEntryId@POLYN157679 the MagicNumber/String  '$branchA' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.bpm.BpmBranch.getEntryId@POLYN157727 the MagicNumber/String  '$branchA' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.BpmBranch.getExitId@POLYN157789 the MagicNumber/String  '$branchB' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.BpmBranch.getExitId@POLYN157837 the MagicNumber/String  '$branchB' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.bpm.BpmBranch.getEntryElement@POLYN157899 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.bpm.BpmBranch.getEntryElement@POLYN157947 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/BpmBranch.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.bpm.BpmBranch.getElseElement@POLYN158089 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.bpm.BpmBranch.getElseElement@POLYN158137 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

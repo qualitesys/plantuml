@@ -734,7 +734,7 @@ var maDataBlocs = {
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.project.GanttDiagram.getDescription@POLYN293193 the MagicNumber/String  '(Project)' should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.project.GanttDiagram.getDescription@POLYN293241 the MagicNumber/String  '(Project)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -748,7 +748,7 @@ var maDataBlocs = {
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.project.GanttDiagram.GanttDiagram@POLYN293520 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.project.GanttDiagram.GanttDiagram@POLYN293568 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -762,7 +762,7 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.project.GanttDiagram.getDpi@POLYN293711 the MagicNumber/String  96 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.project.GanttDiagram.getDpi@POLYN293759 the MagicNumber/String  96 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -811,49 +811,49 @@ var maDataBlocs = {
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294660 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294708 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294660 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294708 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294660 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294708 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294660 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294708 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294660 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294708 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294660 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294708 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294660 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.project.GanttDiagram.isHidden@POLYN294708 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -867,63 +867,63 @@ var maDataBlocs = {
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295205 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295253 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295205 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295253 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295205 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295253 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00254"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#254"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295205 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00254] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295253 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00262"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#262"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295205 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295253 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00264"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#264"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295205 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295253 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295205 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295253 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295205 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.project.GanttDiagram.getTextBlock@POLYN295253 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00300"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#300"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.project.GanttDiagram.getTimeHeader@POLYN300314 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00300] In method net.sourceforge.plantuml.project.GanttDiagram.getTimeHeader@POLYN300362 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -979,7 +979,7 @@ var maDataBlocs = {
  , "c1" : "00357"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#357"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.project.GanttDiagram.drawConstraints@POLYN303457 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.project.GanttDiagram.drawConstraints@POLYN303505 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1063,7 +1063,7 @@ var maDataBlocs = {
  , "c1" : "00393"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#393"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.project.GanttDiagram.openDayOfWeek@POLYN305511 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00393] In method net.sourceforge.plantuml.project.GanttDiagram.openDayOfWeek@POLYN305559 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1084,7 +1084,7 @@ var maDataBlocs = {
  , "c1" : "00400"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#400"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00400] In method net.sourceforge.plantuml.project.GanttDiagram.closeDayAsDate@POLYN305851 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00400] In method net.sourceforge.plantuml.project.GanttDiagram.closeDayAsDate@POLYN305899 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1105,7 +1105,7 @@ var maDataBlocs = {
  , "c1" : "00408"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#408"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.project.GanttDiagram.openDayAsDate@POLYN306191 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.project.GanttDiagram.openDayAsDate@POLYN306239 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1119,7 +1119,7 @@ var maDataBlocs = {
  , "c1" : "00417"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#417"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.project.GanttDiagram.getOpenCloseForTask@POLYN306539 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00417] In method net.sourceforge.plantuml.project.GanttDiagram.getOpenCloseForTask@POLYN306587 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1210,49 +1210,49 @@ var maDataBlocs = {
  , "c1" : "00445"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#445"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307114 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00445"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#445"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307114 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00445] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307162 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00446"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#446"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307114 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00446"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#446"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307114 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00446] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307162 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00452"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#452"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00452] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307114 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00452] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307162 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00460"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#460"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307114 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00460] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307162 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00462"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#462"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00462] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307114 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00462] In method net.sourceforge.plantuml.project.GanttDiagram.initTaskAndResourceDraws@POLYN307162 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1273,7 +1273,7 @@ var maDataBlocs = {
  , "c1" : "00483"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#483"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00483] In method net.sourceforge.plantuml.project.GanttDiagram.lastY@POLYN311913 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00483] In method net.sourceforge.plantuml.project.GanttDiagram.lastY@POLYN311961 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1336,21 +1336,21 @@ var maDataBlocs = {
  , "c1" : "00496"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#496"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00496] In method net.sourceforge.plantuml.project.GanttDiagram.magicPush@POLYN312386 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00496] In method net.sourceforge.plantuml.project.GanttDiagram.magicPush@POLYN312434 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00500"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#500"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00500] In method net.sourceforge.plantuml.project.GanttDiagram.magicPush@POLYN312386 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00500] In method net.sourceforge.plantuml.project.GanttDiagram.magicPush@POLYN312434 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00508"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#508"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00508] In method net.sourceforge.plantuml.project.GanttDiagram.magicPush@POLYN312386 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00508] In method net.sourceforge.plantuml.project.GanttDiagram.magicPush@POLYN312434 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1371,7 +1371,7 @@ var maDataBlocs = {
  , "c1" : "00515"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#515"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00515] In method net.sourceforge.plantuml.project.GanttDiagram.getStart@POLYN313771 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00515] In method net.sourceforge.plantuml.project.GanttDiagram.getStart@POLYN313819 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1392,7 +1392,7 @@ var maDataBlocs = {
  , "c1" : "00522"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#522"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.project.GanttDiagram.getEnd@POLYN314074 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00522] In method net.sourceforge.plantuml.project.GanttDiagram.getEnd@POLYN314122 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1427,63 +1427,63 @@ var maDataBlocs = {
  , "c1" : "00529"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#529"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00529] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314369 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00529] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314417 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00532"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#532"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00532] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314369 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00532] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314417 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00542"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#542"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00542] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314369 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00542] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314417 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00542"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#542"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00542] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314369 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00542] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314417 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00547"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#547"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00547] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314369 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00547] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314417 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00549"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#549"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00549] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314369 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00549] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314417 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00553"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#553"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00553] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314369 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00553] In method net.sourceforge.plantuml.project.GanttDiagram.initMinMax@POLYN314417 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00562"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#562"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00562] In method net.sourceforge.plantuml.project.GanttDiagram.getThenDate@POLYN315791 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00562] In method net.sourceforge.plantuml.project.GanttDiagram.getThenDate@POLYN315839 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00566"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#566"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00566] In method net.sourceforge.plantuml.project.GanttDiagram.getThenDate@POLYN315791 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00566] In method net.sourceforge.plantuml.project.GanttDiagram.getThenDate@POLYN315839 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1497,7 +1497,7 @@ var maDataBlocs = {
  , "c1" : "00574"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#574"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00574] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingTask@POLYN316418 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00574] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingTask@POLYN316466 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1525,63 +1525,63 @@ var maDataBlocs = {
  , "c1" : "00592"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#592"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00592] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00592] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00592"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#592"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00592] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00592] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00593"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#593"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00593] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00593] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00597"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#597"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00597] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00602"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#602"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00602] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00602] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00603"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#603"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00603] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00603] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00611"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#611"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00611] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00611] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00615"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#615"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00615] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00615] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00618"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#618"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00618] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00618] In method net.sourceforge.plantuml.project.GanttDiagram.getOrCreateTask@POLYN317645 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1595,21 +1595,21 @@ var maDataBlocs = {
  , "c1" : "00627"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#627"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00627] In method net.sourceforge.plantuml.project.GanttDiagram.getLastCreatedTask@POLYN319571 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00627] In method net.sourceforge.plantuml.project.GanttDiagram.getLastCreatedTask@POLYN319619 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00627"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#627"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00627] In method net.sourceforge.plantuml.project.GanttDiagram.getLastCreatedTask@POLYN319571 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00627] In method net.sourceforge.plantuml.project.GanttDiagram.getLastCreatedTask@POLYN319619 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00631"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#631"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00631] In method net.sourceforge.plantuml.project.GanttDiagram.getLastCreatedTask@POLYN319571 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00631] In method net.sourceforge.plantuml.project.GanttDiagram.getLastCreatedTask@POLYN319619 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1630,21 +1630,21 @@ var maDataBlocs = {
  , "c1" : "00644"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#644"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00644] In method net.sourceforge.plantuml.project.GanttDiagram.addGroup@POLYN320596 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00644] In method net.sourceforge.plantuml.project.GanttDiagram.addGroup@POLYN320644 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00653"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#653"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00653] In method net.sourceforge.plantuml.project.GanttDiagram.endGroup@POLYN321231 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00653] In method net.sourceforge.plantuml.project.GanttDiagram.endGroup@POLYN321279 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00654"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#654"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00654] In method net.sourceforge.plantuml.project.GanttDiagram.endGroup@POLYN321231 the MagicNumber/String  'No group to be closed' should be converted to const"
+ , "c3" : "QC-JAV000010[00654] In method net.sourceforge.plantuml.project.GanttDiagram.endGroup@POLYN321279 the MagicNumber/String  'No group to be closed' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1665,7 +1665,7 @@ var maDataBlocs = {
  , "c1" : "00675"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#675"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00675] In method net.sourceforge.plantuml.project.GanttDiagram.getStartingDate@POLYN321991 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00675] In method net.sourceforge.plantuml.project.GanttDiagram.getStartingDate@POLYN322039 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1679,7 +1679,7 @@ var maDataBlocs = {
  , "c1" : "00686"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#686"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00686] In method net.sourceforge.plantuml.project.GanttDiagram.isOpen@POLYN322314 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00686] In method net.sourceforge.plantuml.project.GanttDiagram.isOpen@POLYN322362 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1700,70 +1700,70 @@ var maDataBlocs = {
  , "c1" : "00690"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#690"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  '([^:]+)(:(\\d+))?' should be converted to const"
+ , "c3" : "QC-JAV000010[00690] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  '([^:]+)(:(\\d+))?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00692"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#692"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00692] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00695"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#695"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00695] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00696"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#696"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00696] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00697"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#697"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00697] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00697] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00697"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#697"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00697] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00697] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00698"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#698"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00698] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00698] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#700"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00700] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00701"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#701"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00701] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00701] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00704"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#704"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00704] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322485 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00704] In method net.sourceforge.plantuml.project.GanttDiagram.affectResource@POLYN322533 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1777,7 +1777,7 @@ var maDataBlocs = {
  , "c1" : "00709"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#709"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00709] In method net.sourceforge.plantuml.project.GanttDiagram.getResource@POLYN323566 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00709] In method net.sourceforge.plantuml.project.GanttDiagram.getResource@POLYN323614 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1812,7 +1812,7 @@ var maDataBlocs = {
  , "c1" : "00717"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#717"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00717] In method net.sourceforge.plantuml.project.GanttDiagram.getLoadForResource@POLYN324013 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00717] In method net.sourceforge.plantuml.project.GanttDiagram.getLoadForResource@POLYN324061 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1826,35 +1826,35 @@ var maDataBlocs = {
  , "c1" : "00730"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#730"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00730] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324562 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00730] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324610 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00731"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#731"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00731] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324562 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00731] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324610 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00732"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#732"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00732] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324562 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00732] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324610 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00734"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#734"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324562 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00734] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324610 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00740"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#740"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00740] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324562 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00740] In method net.sourceforge.plantuml.project.GanttDiagram.getExistingMoment@POLYN324610 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1868,14 +1868,14 @@ var maDataBlocs = {
  , "c1" : "00748"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#748"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00748] In method net.sourceforge.plantuml.project.GanttDiagram.min@POLYN325651 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00748] In method net.sourceforge.plantuml.project.GanttDiagram.min@POLYN325699 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00751"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#751"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00751] In method net.sourceforge.plantuml.project.GanttDiagram.min@POLYN325651 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00751] In method net.sourceforge.plantuml.project.GanttDiagram.min@POLYN325699 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1889,14 +1889,14 @@ var maDataBlocs = {
  , "c1" : "00758"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#758"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00758] In method net.sourceforge.plantuml.project.GanttDiagram.max@POLYN326005 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00758] In method net.sourceforge.plantuml.project.GanttDiagram.max@POLYN326053 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00761"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#761"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00761] In method net.sourceforge.plantuml.project.GanttDiagram.max@POLYN326005 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00761] In method net.sourceforge.plantuml.project.GanttDiagram.max@POLYN326053 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1938,7 +1938,7 @@ var maDataBlocs = {
  , "c1" : "00780"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#780"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00780] In method net.sourceforge.plantuml.project.GanttDiagram.setTodayColors@POLYN326894 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00780] In method net.sourceforge.plantuml.project.GanttDiagram.setTodayColors@POLYN326942 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1987,21 +1987,21 @@ var maDataBlocs = {
  , "c1" : "00806"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#806"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00806] In method net.sourceforge.plantuml.project.GanttDiagram.addNote@POLYN328050 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00806] In method net.sourceforge.plantuml.project.GanttDiagram.addNote@POLYN328098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00809"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#809"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00809] In method net.sourceforge.plantuml.project.GanttDiagram.addNote@POLYN328050 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00809] In method net.sourceforge.plantuml.project.GanttDiagram.addNote@POLYN328098 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00810"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#810"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00810] In method net.sourceforge.plantuml.project.GanttDiagram.addNote@POLYN328050 the MagicNumber/String  'No task defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00810] In method net.sourceforge.plantuml.project.GanttDiagram.addNote@POLYN328098 the MagicNumber/String  'No task defined' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2029,14 +2029,14 @@ var maDataBlocs = {
  , "c1" : "00846"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#846"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00846] In method net.sourceforge.plantuml.project.GanttDiagram.hideResourceName@POLYN329348 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00846] In method net.sourceforge.plantuml.project.GanttDiagram.hideResourceName@POLYN329396 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00851"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/GanttDiagram.java.html#851"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00851] In method net.sourceforge.plantuml.project.GanttDiagram.hideResourceFootbox@POLYN329520 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00851] In method net.sourceforge.plantuml.project.GanttDiagram.hideResourceFootbox@POLYN329568 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

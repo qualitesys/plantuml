@@ -133,91 +133,91 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;html&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;style type=\'text/css\'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;style type=\'text/css\'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  'body { font-family: arial, helvetica, sans-serif; font-size: 12px; font-weight: normal; color: black; background: white;}' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  'body { font-family: arial, helvetica, sans-serif; font-size: 12px; font-weight: normal; color: black; background: white;}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  'th,td { font-size: 12px;}' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  'th,td { font-size: 12px;}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  'table { border-collapse: collapse; border-style: none;}' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  'table { border-collapse: collapse; border-style: none;}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;/style&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;/style&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;h2&amp;gt;Statistics&amp;lt;/h2&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;h2&amp;gt;Statistics&amp;lt;/h2&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;h2&amp;gt;Current session statistics&amp;lt;/h2&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;h2&amp;gt;Current session statistics&amp;lt;/h2&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;p&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;p&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;h2&amp;gt;General statistics since ever&amp;lt;/h2&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;h2&amp;gt;General statistics since ever&amp;lt;/h2&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;p&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;p&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173085 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.stats.HtmlConverter.toHtml@POLYN173133 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -252,28 +252,28 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.stats.HtmlConverter.printTableHtml@POLYN174843 the MagicNumber/String  '&amp;lt;table border=1 cellspacing=0 cellpadding=2&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.stats.HtmlConverter.printTableHtml@POLYN174891 the MagicNumber/String  '&amp;lt;table border=1 cellspacing=0 cellpadding=2&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.stats.HtmlConverter.printTableHtml@POLYN174843 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.stats.HtmlConverter.printTableHtml@POLYN174891 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.stats.HtmlConverter.printTableHtml@POLYN174843 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.stats.HtmlConverter.printTableHtml@POLYN174891 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.stats.HtmlConverter.printTableHtml@POLYN174843 the MagicNumber/String  '&amp;lt;/table&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.stats.HtmlConverter.printTableHtml@POLYN174891 the MagicNumber/String  '&amp;lt;/table&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,84 +329,84 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '&amp;lt;tr bgcolor=#f0f0f0&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '&amp;lt;tr bgcolor=#f0f0f0&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '&amp;lt;tr bgcolor=#fcfcfc&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '&amp;lt;tr bgcolor=#fcfcfc&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '&amp;lt;td align=right&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '&amp;lt;td align=right&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '&amp;lt;td&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '&amp;lt;td&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '&amp;lt;b&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '&amp;lt;b&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '%,d' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '%,d' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '&amp;lt;/b&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '&amp;lt;/b&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '&amp;lt;/td&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '&amp;lt;/td&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN175952 the MagicNumber/String  '&amp;lt;/tr&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.stats.HtmlConverter.getCreoleLine@POLYN176000 the MagicNumber/String  '&amp;lt;/tr&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -420,35 +420,35 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178013 the MagicNumber/String  '&amp;lt;tr bgcolor=#e0e0e0&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178061 the MagicNumber/String  '&amp;lt;tr bgcolor=#e0e0e0&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178013 the MagicNumber/String  '&amp;lt;td&amp;gt;&amp;lt;b&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178061 the MagicNumber/String  '&amp;lt;td&amp;gt;&amp;lt;b&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178013 the MagicNumber/String  '&amp;lt;br&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178061 the MagicNumber/String  '&amp;lt;br&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178013 the MagicNumber/String  '&amp;lt;/b&amp;gt;&amp;lt;/td&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178061 the MagicNumber/String  '&amp;lt;/b&amp;gt;&amp;lt;/td&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178013 the MagicNumber/String  '&amp;lt;/tr&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.stats.HtmlConverter.getHtmlHeader@POLYN178061 the MagicNumber/String  '&amp;lt;/tr&amp;gt;' should be converted to const"
 }} 
 ]
 , 

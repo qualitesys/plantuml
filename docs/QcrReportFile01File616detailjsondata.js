@@ -176,14 +176,14 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInner.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.FtileForkInner@POLYN168696 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.FtileForkInner@POLYN168744 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInner.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.getSwimlaneIn@POLYN169228 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.getSwimlaneIn@POLYN169276 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -218,7 +218,7 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInner.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.drawU@POLYN170077 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.drawU@POLYN170125 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -239,28 +239,28 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInner.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.calculateDimensionFtile@POLYN170704 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.calculateDimensionFtile@POLYN170752 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInner.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.calculateDimensionFtile@POLYN170704 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.calculateDimensionFtile@POLYN170752 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInner.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.calculateDimensionFtile@POLYN170704 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.calculateDimensionFtile@POLYN170752 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInner.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.calculateDimensionFtile@POLYN170704 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.calculateDimensionFtile@POLYN170752 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -281,7 +281,7 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInner.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.getTranslateFor@POLYN171642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileForkInner.getTranslateFor@POLYN171690 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

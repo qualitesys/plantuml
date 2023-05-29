@@ -85,14 +85,14 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.cucadiagram.DisplayPositionned.getDisplay@POLYN156547 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.cucadiagram.DisplayPositionned.getDisplay@POLYN156595 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/DisplayPositionned.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.DisplayPositionned.isNull@POLYN156635 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.cucadiagram.DisplayPositionned.isNull@POLYN156683 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

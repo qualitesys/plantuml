@@ -144,7 +144,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.AbstractElementText.AbstractElementText@POLYN164639 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.salt.element.AbstractElementText.AbstractElementText@POLYN164687 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -165,14 +165,14 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getCharNumber@POLYN165389 the MagicNumber/String  '&amp;lt;&amp;[-\\w]+&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getCharNumber@POLYN165437 the MagicNumber/String  '&amp;lt;&amp;[-\\w]+&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getCharNumber@POLYN165389 the MagicNumber/String  '00' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getCharNumber@POLYN165437 the MagicNumber/String  '00' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -207,7 +207,7 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getTextDimensionAt@POLYN166159 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getTextDimensionAt@POLYN166207 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -221,7 +221,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/AbstractElementText.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getSingleSpace@POLYN166778 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.salt.element.AbstractElementText.getSingleSpace@POLYN166826 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
 , 

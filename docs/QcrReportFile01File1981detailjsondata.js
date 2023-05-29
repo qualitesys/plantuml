@@ -140,7 +140,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy.drawInternalU@POLYN160055 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy.drawInternalU@POLYN160103 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -168,7 +168,7 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/LifeDestroy.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy.getStartingX@POLYN160907 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy.getStartingX@POLYN160955 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ]
 , 

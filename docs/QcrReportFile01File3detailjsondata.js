@@ -362,91 +362,91 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.Configuration.getMO@POLYN165039 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method ext.plantuml.com.ctreber.acearth.Configuration.getMO@POLYN165087 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.ctreber.acearth.Configuration.getMO@POLYN165039 the MagicNumber/String  'Unknown conf item '' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.ctreber.acearth.Configuration.getMO@POLYN165087 the MagicNumber/String  'Unknown conf item '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.ctreber.acearth.Configuration.getMO@POLYN165039 the MagicNumber/String  ''' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.ctreber.acearth.Configuration.getMO@POLYN165087 the MagicNumber/String  ''' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getBoolean@POLYN163373"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getBoolean@POLYN163421"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getDouble@POLYN163789"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getDouble@POLYN163837"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getInt@POLYN163581"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getInt@POLYN163629"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOBoolean@POLYN164249"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOBoolean@POLYN164297"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMODouble@POLYN164881"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMODouble@POLYN164929"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOEnum@POLYN164565"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOEnum@POLYN164613"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOInteger@POLYN164723"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOInteger@POLYN164771"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOString@POLYN164407"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getMOString@POLYN164455"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getString@POLYN163165"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.getString@POLYN163213"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/Configuration.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.is@POLYN163997"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.Configuration.is@POLYN164045"
 }} 
 ]
 , 

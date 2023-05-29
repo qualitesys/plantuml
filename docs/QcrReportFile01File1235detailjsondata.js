@@ -90,21 +90,21 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN156954 the MagicNumber/String  '^colors?\\s*(#?\\w+)?\\s*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN157002 the MagicNumber/String  '^colors?\\s*(#?\\w+)?\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN156954 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN157002 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColorsFactory.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN156954 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.eggs.PSystemColorsFactory.executeLine@POLYN157002 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -99,7 +99,7 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Mirror.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.posimo.Mirror.getMirrored@POLYN155364 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.posimo.Mirror.getMirrored@POLYN155412 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

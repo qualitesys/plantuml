@@ -158,21 +158,21 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/PathIteratorLimited.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.count@POLYN159904 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.count@POLYN159952 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/PathIteratorLimited.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.count@POLYN159904 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.count@POLYN159952 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/PathIteratorLimited.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.count@POLYN159904 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.count@POLYN159952 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -186,14 +186,14 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/PathIteratorLimited.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.PathIteratorLimited@POLYN160348 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.PathIteratorLimited@POLYN160396 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/PathIteratorLimited.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.PathIteratorLimited@POLYN160348 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.PathIteratorLimited@POLYN160396 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -214,7 +214,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/eps/PathIteratorLimited.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.isDone@POLYN161264 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited.isDone@POLYN161312 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

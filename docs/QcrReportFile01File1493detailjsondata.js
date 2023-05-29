@@ -203,7 +203,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.mindmap.Branch.getParentOfLast@POLYN167920 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.mindmap.Branch.getParentOfLast@POLYN167968 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -217,42 +217,42 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168300 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168348 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168300 the MagicNumber/String  'Check your indentation ?' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168348 the MagicNumber/String  'Check your indentation ?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168300 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168348 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168300 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168348 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168300 the MagicNumber/String  'error42L' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.mindmap.Branch.add@POLYN168348 the MagicNumber/String  'error42L' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.Branch.hasFinger@POLYN169713 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.Branch.hasFinger@POLYN169761 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -266,7 +266,7 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.mindmap.Branch.drawU@POLYN169815 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.mindmap.Branch.drawU@POLYN169863 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -280,21 +280,21 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN170015 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN170063 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN170015 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN170063 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN170015 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.mindmap.Branch.getHalfThickness@POLYN170063 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -308,21 +308,21 @@ var maDataBlocs = {
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.mindmap.Branch.getFullElongation@POLYN170279 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.mindmap.Branch.getFullElongation@POLYN170327 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.mindmap.Branch.getFullElongation@POLYN170279 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.mindmap.Branch.getFullElongation@POLYN170327 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.mindmap.Branch.hasRoot@POLYN170625 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.mindmap.Branch.hasRoot@POLYN170673 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -336,14 +336,14 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.mindmap.Branch.getX12@POLYN170828 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.mindmap.Branch.getX12@POLYN170876 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/Branch.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.mindmap.Branch.getX12@POLYN170828 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.mindmap.Branch.getX12@POLYN170876 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

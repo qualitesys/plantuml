@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c1" : "00012"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/RecursiveGraphLayoutEngine.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.elk.proxy.core.RecursiveGraphLayoutEngine.layout@POLYN147207 the MagicNumber/String  'layout' should be converted to const"
+ , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.elk.proxy.core.RecursiveGraphLayoutEngine.layout@POLYN147255 the MagicNumber/String  'layout' should be converted to const"
 }} 
 ]
 , 

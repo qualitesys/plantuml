@@ -216,21 +216,21 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.toString@POLYN165870 the MagicNumber/String  'y=' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.toString@POLYN165918 the MagicNumber/String  'y=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.toString@POLYN165870 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.toString@POLYN165918 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.SymetricalTeePositioned@POLYN166029 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.SymetricalTeePositioned@POLYN166077 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -258,98 +258,98 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA1@POLYN166977 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA1@POLYN167025 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA1@POLYN166977 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA1@POLYN167025 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA1@POLYN166977 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA1@POLYN167025 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB1@POLYN167329 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB1@POLYN167377 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB1@POLYN167329 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB1@POLYN167377 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB1@POLYN167329 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB1@POLYN167377 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA2@POLYN167681 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA2@POLYN167729 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA2@POLYN167681 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentA2@POLYN167729 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB2@POLYN168093 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB2@POLYN168141 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB2@POLYN168093 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getSegmentB2@POLYN168141 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getMaxY@POLYN168653 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getMaxY@POLYN168701 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getMaxY@POLYN168653 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getMaxY@POLYN168701 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getMinY@POLYN168910 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getMinY@POLYN168958 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/SymetricalTeePositioned.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getMinY@POLYN168910 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.mindmap.SymetricalTeePositioned.getMinY@POLYN168958 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -135,7 +135,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.ActivityBox@POLYN166768 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.ActivityBox@POLYN166816 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -156,7 +156,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.drawU@POLYN167738 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.drawU@POLYN167786 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -170,14 +170,14 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.calculateDimension@POLYN168789 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.calculateDimension@POLYN168837 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/ActivityBox.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.calculateDimension@POLYN168789 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.flowdiagram.ActivityBox.calculateDimension@POLYN168837 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

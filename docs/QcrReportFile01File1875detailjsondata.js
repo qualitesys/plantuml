@@ -126,28 +126,28 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.headers@POLYN177291 the MagicNumber/String  'Content-Type' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.headers@POLYN177339 the MagicNumber/String  'Content-Type' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.headers@POLYN177291 the MagicNumber/String  'application/x-www-form-urlencoded; charset=UTF-8' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.headers@POLYN177339 the MagicNumber/String  'application/x-www-form-urlencoded; charset=UTF-8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.headers@POLYN177291 the MagicNumber/String  'Accept' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.headers@POLYN177339 the MagicNumber/String  'Accept' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.headers@POLYN177291 the MagicNumber/String  'application/json' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.headers@POLYN177339 the MagicNumber/String  'application/json' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -161,14 +161,14 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.buildAccessDataFromResponse@POLYN177874 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.buildAccessDataFromResponse@POLYN177922 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.buildAccessDataFromResponse@POLYN177874 the MagicNumber/String  'bearer' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.buildAccessDataFromResponse@POLYN177922 the MagicNumber/String  'bearer' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -203,7 +203,7 @@ var maDataBlocs = {
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.toMap@POLYN179315 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.toMap@POLYN179363 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -217,7 +217,7 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.urlEncode@POLYN180462 the MagicNumber/String  'UTF-8' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.urlEncode@POLYN180510 the MagicNumber/String  'UTF-8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -238,35 +238,35 @@ var maDataBlocs = {
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181071 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181119 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181071 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181119 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181071 the MagicNumber/String  'oauth2' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181119 the MagicNumber/String  'oauth2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181071 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181119 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181071 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager.requestAndCreateAuthFromResponse@POLYN181119 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 
