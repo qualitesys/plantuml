@@ -110,14 +110,14 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/h/ST_boxf.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method h.ST_boxf.toString@POLYN165756 the MagicNumber/String  'LL=' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method h.ST_boxf.toString@POLYN165884 the MagicNumber/String  'LL=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/h/ST_boxf.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method h.ST_boxf.toString@POLYN165756 the MagicNumber/String  ' UR=' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method h.ST_boxf.toString@POLYN165884 the MagicNumber/String  ' UR=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -131,7 +131,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/h/ST_boxf.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method h.ST_boxf.malloc@POLYN165923 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method h.ST_boxf.malloc@POLYN166051 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

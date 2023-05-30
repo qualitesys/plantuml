@@ -140,7 +140,7 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/StripeStyle.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.creole.StripeStyle.getHeader@POLYN159575 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.creole.StripeStyle.getHeader@POLYN159703 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -124,7 +124,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail.getPreferredHeight@POLYN157304 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail.getPreferredHeight@POLYN157432 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementTail.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail.getPreferredWidth@POLYN157428 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail.getPreferredWidth@POLYN157556 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

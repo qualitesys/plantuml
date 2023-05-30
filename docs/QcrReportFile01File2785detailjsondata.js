@@ -133,133 +133,133 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  '1.0' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  '1.0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'XMI' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'XMI' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'xmi.version' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'xmi.version' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  '1.1' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  '1.1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'xmlns:UML' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'xmlns:UML' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'href://org.omg/UML/1.3' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'href://org.omg/UML/1.3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'XMI.header' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'XMI.header' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'XMI.metamodel' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'XMI.metamodel' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'xmi.name' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'xmi.name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'UML' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'UML' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'xmi.version' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'xmi.version' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  '1.3' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  '1.3' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'XMI.content' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'XMI.content' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'UML:Model' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'UML:Model' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'xmi.id' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'xmi.id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'PlantUML' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'PlantUML' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184840 the MagicNumber/String  'UML:Namespace.ownedElement' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.XmiClassDiagramAbstract@POLYN184968 the MagicNumber/String  'UML:Namespace.ownedElement' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -273,14 +273,14 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN186969 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187097 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN186969 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187097 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -294,28 +294,28 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187147 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187275 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187147 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187275 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187147 the MagicNumber/String  ':' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187275 the MagicNumber/String  ':' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187147 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.forXMI@POLYN187275 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,7 +329,7 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.transformerXml@POLYN187504 the MagicNumber/String  'yes' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.transformerXml@POLYN187632 the MagicNumber/String  'yes' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -413,266 +413,266 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'UML:Class' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'UML:Class' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'xmi.id' should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'xmi.id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'namespace' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'namespace' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'namespace' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'namespace' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'UML:ModelElement.stereotype' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'UML:ModelElement.stereotype' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'UML:Stereotype' should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'UML:Stereotype' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'isAbstract' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'isAbstract' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'isInterface' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'isInterface' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'isStatic' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'isStatic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'visibility' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'visibility' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'UML:Classifier.feature' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'UML:Classifier.feature' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'UML:Attribute' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'UML:Attribute' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'xmi.id' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'xmi.id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'att' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'att' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'visibility' should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'visibility' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'isStatic' should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'isStatic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'UML:Operation' should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'UML:Operation' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'xmi.id' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'xmi.id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'att' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'att' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'name' should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'visibility' should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'visibility' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'isStatic' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'isStatic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiClassDiagramAbstract.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188201 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract.createEntityNode@POLYN188329 the MagicNumber/String  'true' should be converted to const"
 }} 
 ]
 , 

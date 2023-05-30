@@ -158,7 +158,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseGroupingSpace.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace.getPreferredWidth@POLYN160122 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace.getPreferredWidth@POLYN160250 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

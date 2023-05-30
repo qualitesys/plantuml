@@ -108,28 +108,28 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.getRegexConcat@POLYN164175 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.getRegexConcat@POLYN164303 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.getRegexConcat@POLYN164175 the MagicNumber/String  '([%pLN_.]+|[%g][^%g]+[%g])' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.getRegexConcat@POLYN164303 the MagicNumber/String  '([%pLN_.]+|[%g][^%g]+[%g])' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.getRegexConcat@POLYN164175 the MagicNumber/String  'STEREO' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.getRegexConcat@POLYN164303 the MagicNumber/String  'STEREO' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.getRegexConcat@POLYN164175 the MagicNumber/String  '(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.getRegexConcat@POLYN164303 the MagicNumber/String  '(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -157,56 +157,56 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164642 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164770 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164770 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164642 the MagicNumber/String  'STEREO' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164770 the MagicNumber/String  'STEREO' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164642 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164770 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164770 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164770 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164642 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164770 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandStereotype.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164642 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.classdiagram.command.CommandStereotype.executeArg@POLYN164770 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

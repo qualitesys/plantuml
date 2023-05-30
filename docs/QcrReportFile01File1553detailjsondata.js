@@ -160,140 +160,140 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.SvgCommandLetter@POLYN159786 the MagicNumber/String  '[mlhvzsacMLHVZSAC]' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.SvgCommandLetter@POLYN159914 the MagicNumber/String  '[mlhvzsacMLHVZSAC]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.SvgCommandLetter@POLYN159786 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.SvgCommandLetter@POLYN159914 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.SvgCommandLetter@POLYN159786 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.SvgCommandLetter@POLYN159914 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.toString@POLYN160164 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.toString@POLYN160292 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.toSvg@POLYN160274 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.toSvg@POLYN160402 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  'm' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  'm' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  'l' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  'l' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  'h' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  'h' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  'v' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  'v' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  'z' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  'z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  'c' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  'c' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  's' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  's' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  'a' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  'a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160384 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.argumentNumber@POLYN160512 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -307,28 +307,28 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN161476 the MagicNumber/String  'm' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN161604 the MagicNumber/String  'm' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN161476 the MagicNumber/String  'l' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN161604 the MagicNumber/String  'l' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN161476 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN161604 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgCommandLetter.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN161476 the MagicNumber/String  'L' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.openiconic.SvgCommandLetter.implicit@POLYN161604 the MagicNumber/String  'L' should be converted to const"
 }} 
 ]
 , 

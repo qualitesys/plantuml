@@ -131,84 +131,84 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  '&amp;lt;b&amp;gt;List Open Iconic' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  '&amp;lt;b&amp;gt;List Open Iconic' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  '&amp;lt;i&amp;gt;Credit to' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  '&amp;lt;i&amp;gt;Credit to' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  'https://useiconic.com/open' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  'https://useiconic.com/open' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  '&amp;lt;&amp;' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  '&amp;lt;&amp;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  '&amp;gt; ' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  '&amp;gt; ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN162968 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getRootDrawable@POLYN163096 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getResourceAllTxt@POLYN164235 the MagicNumber/String  'all.txt' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getResourceAllTxt@POLYN164363 the MagicNumber/String  'all.txt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemListOpenIconic.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getDescription@POLYN164372 the MagicNumber/String  '(Open iconic)' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.openiconic.PSystemListOpenIconic.getDescription@POLYN164500 the MagicNumber/String  '(Open iconic)' should be converted to const"
 }} 
 ]
 , 

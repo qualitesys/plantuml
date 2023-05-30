@@ -259,7 +259,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.toString@POLYN201213 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.toString@POLYN201341 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -294,35 +294,35 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.isReverse@POLYN202942 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.isReverse@POLYN203070 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.isReverse@POLYN202942 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.isReverse@POLYN203070 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.getArrowThickness@POLYN203491 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.getArrowThickness@POLYN203619 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.getArrowThickness@POLYN203491 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.getArrowThickness@POLYN203619 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.getArrowThickness@POLYN203491 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.getArrowThickness@POLYN203619 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -364,35 +364,35 @@ var maDataBlocs = {
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206199 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206327 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206199 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206327 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206199 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206327 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206199 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206327 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206199 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawU@POLYN206327 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -448,35 +448,35 @@ var maDataBlocs = {
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawMulticast@POLYN209833 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawMulticast@POLYN209961 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawMulticast@POLYN209833 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawMulticast@POLYN209961 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawMulticast@POLYN209833 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.drawMulticast@POLYN209961 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.addConstraints@POLYN212108 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.addConstraints@POLYN212236 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00264"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/CommunicationTile.java.html#264"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.addConstraints@POLYN212108 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile.addConstraints@POLYN212236 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

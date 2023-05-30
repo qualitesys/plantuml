@@ -170,35 +170,35 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206655 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206783 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206655 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206783 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206655 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206783 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206655 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206783 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206655 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep1@POLYN206783 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -233,28 +233,28 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.getThin1Color@POLYN209437 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.getThin1Color@POLYN209565 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.getThin1Color@POLYN209437 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.getThin1Color@POLYN209565 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.hasOut@POLYN210179 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.hasOut@POLYN210307 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.hasOut@POLYN210179 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.hasOut@POLYN210307 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -303,42 +303,42 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210480 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210608 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210480 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210608 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210480 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210608 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210480 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210608 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210480 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210608 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210480 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.doStep2@POLYN210608 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -366,14 +366,14 @@ var maDataBlocs = {
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawU@POLYN214412 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawU@POLYN214540 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawU@POLYN214412 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawU@POLYN214540 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -408,21 +408,21 @@ var maDataBlocs = {
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawTranslate@POLYN215492 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawTranslate@POLYN215620 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawTranslate@POLYN215492 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawTranslate@POLYN215620 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawTranslate@POLYN215492 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionIn.drawTranslate@POLYN215620 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -450,14 +450,14 @@ var maDataBlocs = {
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawU@POLYN218253 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawU@POLYN218381 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawU@POLYN218253 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawU@POLYN218381 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -492,21 +492,21 @@ var maDataBlocs = {
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawTranslate@POLYN219701 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawTranslate@POLYN219829 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawTranslate@POLYN219701 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawTranslate@POLYN219829 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00283"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderSplit.java.html#283"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawTranslate@POLYN219701 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00283] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderSplit.ConnectionOut.drawTranslate@POLYN219829 the MagicNumber/String  14 should be converted to const"
 }} 
 ]
 , 

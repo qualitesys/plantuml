@@ -108,21 +108,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLanguage.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.command.CommandLanguage.getRegexConcat@POLYN159399 the MagicNumber/String  'language' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.command.CommandLanguage.getRegexConcat@POLYN159527 the MagicNumber/String  'language' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLanguage.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandLanguage.getRegexConcat@POLYN159399 the MagicNumber/String  'LANG' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandLanguage.getRegexConcat@POLYN159527 the MagicNumber/String  'LANG' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLanguage.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandLanguage.getRegexConcat@POLYN159399 the MagicNumber/String  '(\\w+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandLanguage.getRegexConcat@POLYN159527 the MagicNumber/String  '(\\w+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -150,14 +150,14 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLanguage.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandLanguage.executeArg@POLYN159842 the MagicNumber/String  'LANG' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandLanguage.executeArg@POLYN159970 the MagicNumber/String  'LANG' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLanguage.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandLanguage.executeArg@POLYN159842 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandLanguage.executeArg@POLYN159970 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

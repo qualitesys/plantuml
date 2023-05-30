@@ -108,35 +108,35 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161294 the MagicNumber/String  'set' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161422 the MagicNumber/String  'set' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161294 the MagicNumber/String  'separator' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161422 the MagicNumber/String  'separator' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161294 the MagicNumber/String  'namespaceseparator' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161422 the MagicNumber/String  'namespaceseparator' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161294 the MagicNumber/String  'SEPARATOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161422 the MagicNumber/String  'SEPARATOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161294 the MagicNumber/String  '(\\S+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.getRegexConcat@POLYN161422 the MagicNumber/String  '(\\S+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -164,28 +164,28 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.executeArg@POLYN161941 the MagicNumber/String  'SEPARATOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.executeArg@POLYN162069 the MagicNumber/String  'SEPARATOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.executeArg@POLYN161941 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.executeArg@POLYN162069 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.executeArg@POLYN161941 the MagicNumber/String  'none' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.executeArg@POLYN162069 the MagicNumber/String  'none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandNamespaceSeparator.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.executeArg@POLYN161941 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator.executeArg@POLYN162069 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

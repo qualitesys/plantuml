@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandEndSwitch.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch.getRegexConcat@POLYN159009 the MagicNumber/String  'endswitch' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch.getRegexConcat@POLYN159137 the MagicNumber/String  'endswitch' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

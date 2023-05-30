@@ -169,7 +169,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.comp.UGraphicCompressOnXorY.toString@POLYN175685 the MagicNumber/String  'UGraphicCompressOnXorY ' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.comp.UGraphicCompressOnXorY.toString@POLYN175813 the MagicNumber/String  'UGraphicCompressOnXorY ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -190,7 +190,7 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/UGraphicCompressOnXorY.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.comp.UGraphicCompressOnXorY.draw@POLYN176461 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.ugraphic.comp.UGraphicCompressOnXorY.draw@POLYN176589 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

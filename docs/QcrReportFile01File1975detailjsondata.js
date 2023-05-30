@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElement.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement.getActualWidth@POLYN157897 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement.getActualWidth@POLYN158025 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -101,7 +101,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.AcceptTelnetClient@POLYN162285 the MagicNumber/String  'Client Connected ...' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.AcceptTelnetClient@POLYN162413 the MagicNumber/String  'Client Connected ...' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -115,42 +115,42 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162771 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162899 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162771 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162899 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162771 the MagicNumber/String  'S=' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162899 the MagicNumber/String  'S=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162771 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162899 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162771 the MagicNumber/String  '@enduml' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.runInternal@POLYN162899 the MagicNumber/String  '@enduml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/AcceptTelnetClient.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.run@POLYN163559 the MagicNumber/String  'UML=' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.telnet.AcceptTelnetClient.run@POLYN163687 the MagicNumber/String  'UML=' should be converted to const"
 }} 
 ]
 , 

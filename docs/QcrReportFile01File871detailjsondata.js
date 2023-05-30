@@ -108,7 +108,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandLayoutNewLine.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine.getRegexConcat@POLYN159038 the MagicNumber/String  'layout_new_line' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine.getRegexConcat@POLYN159166 the MagicNumber/String  'layout_new_line' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

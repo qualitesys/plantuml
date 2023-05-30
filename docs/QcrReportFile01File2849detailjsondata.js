@@ -165,14 +165,14 @@ var maDataBlocs = {
  , "c1" : "00041"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method smetana.core.Memory.malloc@POLYN158895 the MagicNumber/String  'MEMORY::malloc ' should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method smetana.core.Memory.malloc@POLYN159023 the MagicNumber/String  'MEMORY::malloc ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method smetana.core.Memory.malloc@POLYN158895 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method smetana.core.Memory.malloc@POLYN159023 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -207,7 +207,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method smetana.core.Memory.realloc@POLYN159318 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.Memory.realloc@POLYN159446 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -228,21 +228,21 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00056] For method identityHashCode list of called methods Object monObjet|int data_getUidN159816"
+ , "c3" : "QC-JAV000007[00056] For method identityHashCode list of called methods Object monObjet|int data_getUidN159944"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method smetana.core.Memory.identityHashCode@POLYN159606 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method smetana.core.Memory.identityHashCode@POLYN159734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method smetana.core.Memory.identityHashCode@POLYN159606 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method smetana.core.Memory.identityHashCode@POLYN159734 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -256,35 +256,35 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00068] For method fromIdentityHashCode list of called methods Object monObjet|smetana.core.Z Z_zN160283"
+ , "c3" : "QC-JAV000007[00068] For method fromIdentityHashCode list of called methods Object monObjet|smetana.core.Z Z_zN160411"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method smetana.core.Memory.fromIdentityHashCode@POLYN160032 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.Memory.fromIdentityHashCode@POLYN160160 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method smetana.core.Memory.fromIdentityHashCode@POLYN160032 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method smetana.core.Memory.fromIdentityHashCode@POLYN160160 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method smetana.core.Memory.fromIdentityHashCode@POLYN160032 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method smetana.core.Memory.fromIdentityHashCode@POLYN160160 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Memory.malloc@POLYN159166"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Memory.malloc@POLYN159294"
 }} 
 ]
 , 

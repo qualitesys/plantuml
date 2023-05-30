@@ -254,56 +254,56 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184820 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184948 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184820 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184948 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184820 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184948 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184820 the MagicNumber/String  'until001' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184948 the MagicNumber/String  'until001' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184820 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184948 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184820 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184948 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184820 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184948 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184820 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN184948 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -352,35 +352,35 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186174 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186046 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186174 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186046 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186174 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186046 the MagicNumber/String  'until002' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186174 the MagicNumber/String  'until002' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186046 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.tim.expression.TokenStack.eatUntilCloseParenthesisOrComma@POLYN186174 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -415,28 +415,28 @@ var maDataBlocs = {
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.tim.expression.TokenStack.countFunctionArg@POLYN187255 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.tim.expression.TokenStack.countFunctionArg@POLYN187383 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.tim.expression.TokenStack.countFunctionArg@POLYN187255 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.tim.expression.TokenStack.countFunctionArg@POLYN187383 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.tim.expression.TokenStack.countFunctionArg@POLYN187255 the MagicNumber/String  'count13' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.tim.expression.TokenStack.countFunctionArg@POLYN187383 the MagicNumber/String  'count13' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.tim.expression.TokenStack.countFunctionArg@POLYN187255 the MagicNumber/String  'count12' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.tim.expression.TokenStack.countFunctionArg@POLYN187383 the MagicNumber/String  'count12' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -450,91 +450,91 @@ var maDataBlocs = {
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.tim.expression.TokenStack.guessFunctions@POLYN188469 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.tim.expression.TokenStack.InternalIterator.nextToken@POLYN191182 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.tim.expression.TokenStack.InternalIterator.nextToken@POLYN191310 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/expression/TokenStack.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.tim.expression.TokenStack.InternalIterator.nextToken@POLYN191182 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.tim.expression.TokenStack.InternalIterator.nextToken@POLYN191310 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -152,49 +152,49 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String  'n8tcl06mifdn779rzenam44z' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String  'n8tcl06mifdn779rzenam44z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String  'textspan_size' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String  'textspan_size' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String  'Warning:textspan_size ' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String  'Warning:textspan_size ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String  'n8tcl06mifdn779rzenam44z' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String  'n8tcl06mifdn779rzenam44z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String  'textspan_size' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String  'textspan_size' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -208,91 +208,91 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168026 the MagicNumber/String  '9mfrgcpzz2d9f7nxfgx4nxj2q' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168154 the MagicNumber/String  '9mfrgcpzz2d9f7nxfgx4nxj2q' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168026 the MagicNumber/String  'textfont_dict_open' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168154 the MagicNumber/String  'textfont_dict_open' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168026 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168154 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168026 the MagicNumber/String  '9mfrgcpzz2d9f7nxfgx4nxj2q' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168154 the MagicNumber/String  '9mfrgcpzz2d9f7nxfgx4nxj2q' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168026 the MagicNumber/String  'textfont_dict_open' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method gen.lib.common.textspan__c.textfont_dict_open@POLYN168154 the MagicNumber/String  'textfont_dict_open' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.textspan__c.textspan_size_w_@POLYN167178"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.textspan__c.textspan_size_w_@POLYN167306"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#68"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00068] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String 'n8tcl06mifdn779rzenam44z' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00068] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String 'n8tcl06mifdn779rzenam44z' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#68"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00068] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String 'textspan_size' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00068] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String 'textspan_size' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#70"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00070] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String 'Warning:textspan_size ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00070] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String 'Warning:textspan_size ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#71"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00071] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String 30 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00071] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String 30 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#72"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00072] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String 20 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00072] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String 20 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#75"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00075] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String 'n8tcl06mifdn779rzenam44z' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00075] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String 'n8tcl06mifdn779rzenam44z' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/gen/lib/common/textspan__c.java.html#75"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00075] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167178 the MagicNumber/String 'textspan_size' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00075] In the recursive method gen.lib.common.textspan__c.textspan_size_w_@POLYN167306 the MagicNumber/String 'textspan_size' MUST BE CONVERTED to const"
 }} 
 ]
 , 

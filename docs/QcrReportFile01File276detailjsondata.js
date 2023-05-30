@@ -142,14 +142,14 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method jcckit.data.DataCurve.DataCurve@POLYN165759 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method jcckit.data.DataCurve.DataCurve@POLYN165887 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/jcckit/data/DataCurve.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method jcckit.data.DataCurve.DataCurve@POLYN165759 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method jcckit.data.DataCurve.DataCurve@POLYN165887 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -175,147 +175,147 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '7udip7yo3ddkp9ocjftokpm9y' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '7udip7yo3ddkp9ocjftokpm9y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  'init_xdot' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  'init_xdot' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '_background' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '_background' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '_draw_' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '_draw_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '16fu50ud9qppkwxzdy0nde3lm' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '16fu50ud9qppkwxzdy0nde3lm' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '1x2xrqe9on9i2dlb07gj02n65' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '1x2xrqe9on9i2dlb07gj02n65' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  'b4emzm37tsv7edlai0fhwoul1' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  'b4emzm37tsv7edlai0fhwoul1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '72v3r8ey2hvh1o9qskrji8im4' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '72v3r8ey2hvh1o9qskrji8im4' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  'dvgyxsnyeqqnyzq696k3vskib' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  'dvgyxsnyeqqnyzq696k3vskib' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  'jujeh27uxxeyas8n09tnlnbu' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  'jujeh27uxxeyas8n09tnlnbu' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  'c24nfmv9i7o5eoqaymbibp7m7' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  'c24nfmv9i7o5eoqaymbibp7m7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  '7udip7yo3ddkp9ocjftokpm9y' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  '7udip7yo3ddkp9ocjftokpm9y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method gen.lib.common.emit__c.init_xdot@POLYN188141 the MagicNumber/String  'init_xdot' should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method gen.lib.common.emit__c.init_xdot@POLYN188269 the MagicNumber/String  'init_xdot' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -336,112 +336,112 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  '7nqmdkcnal35ollpstkk707t8' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  '7nqmdkcnal35ollpstkk707t8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  'check_control_points' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  'check_control_points' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  '7nqmdkcnal35ollpstkk707t8' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  '7nqmdkcnal35ollpstkk707t8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method gen.lib.common.emit__c.check_control_points@POLYN190078 the MagicNumber/String  'check_control_points' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method gen.lib.common.emit__c.check_control_points@POLYN190206 the MagicNumber/String  'check_control_points' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -553,182 +553,182 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  '5wldemr88fdxl6101ugewclw9' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  '5wldemr88fdxl6101ugewclw9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  'update_bb_bz' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  'update_bb_bz' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  '5wldemr88fdxl6101ugewclw9' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  '5wldemr88fdxl6101ugewclw9' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String  'update_bb_bz' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String  'update_bb_bz' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -742,217 +742,217 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method gen.lib.common.emit__c.gv_fixLocale@POLYN195720 the MagicNumber/String  '31vgctm6ydke1b6e0s06x85og' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method gen.lib.common.emit__c.gv_fixLocale@POLYN195848 the MagicNumber/String  '31vgctm6ydke1b6e0s06x85og' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method gen.lib.common.emit__c.gv_fixLocale@POLYN195720 the MagicNumber/String  'gv_fixLocale' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method gen.lib.common.emit__c.gv_fixLocale@POLYN195848 the MagicNumber/String  'gv_fixLocale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method gen.lib.common.emit__c.gv_fixLocale@POLYN195720 the MagicNumber/String  '31vgctm6ydke1b6e0s06x85og' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method gen.lib.common.emit__c.gv_fixLocale@POLYN195848 the MagicNumber/String  '31vgctm6ydke1b6e0s06x85og' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method gen.lib.common.emit__c.gv_fixLocale@POLYN195720 the MagicNumber/String  'gv_fixLocale' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method gen.lib.common.emit__c.gv_fixLocale@POLYN195848 the MagicNumber/String  'gv_fixLocale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.emit__c.update_bb_bz@POLYN191339"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.emit__c.update_bb_bz@POLYN191467"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#131"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String '5wldemr88fdxl6101ugewclw9' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String '5wldemr88fdxl6101ugewclw9' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#131"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 'update_bb_bz' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 'update_bb_bz' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#134"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00134] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00134] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#134"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00134] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00134] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#135"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00135] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00135] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#135"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00135] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00135] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#136"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00136] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00136] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#136"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00136] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00136] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#137"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00137] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00137] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#137"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00137] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00137] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#138"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00138] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00138] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#138"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00138] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00138] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#139"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00139] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00139] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#139"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00139] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 2 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00139] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#140"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00140] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 3 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00140] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#140"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00140] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 3 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00140] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#141"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00141] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 3 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00141] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#141"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00141] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 3 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00141] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#147"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00147] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00147] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#147"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00147] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 4 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00147] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 4 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#159"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00159] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 4 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00159] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 4 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#160"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 4 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 4 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#161"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00161] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00161] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#161"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00161] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 3 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00161] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#167"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00167] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String '5wldemr88fdxl6101ugewclw9' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00167] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String '5wldemr88fdxl6101ugewclw9' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#167"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00167] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191339 the MagicNumber/String 'update_bb_bz' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00167] In the recursive method gen.lib.common.emit__c.update_bb_bz@POLYN191467 the MagicNumber/String 'update_bb_bz' MUST BE CONVERTED to const"
 }} 
 ]
 , 

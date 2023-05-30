@@ -221,14 +221,14 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.muteClassToObject@POLYN189288 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.muteClassToObject@POLYN189416 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.muteClassToObject@POLYN189288 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.muteClassToObject@POLYN189416 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -256,35 +256,35 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.addFieldOrMethod@POLYN190194 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.addFieldOrMethod@POLYN190322 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.addFieldOrMethod@POLYN190194 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.addFieldOrMethod@POLYN190322 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.addFieldOrMethod@POLYN190194 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.addFieldOrMethod@POLYN190322 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isBodyEnhanced@POLYN190487 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isBodyEnhanced@POLYN190615 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isBodyEnhanced@POLYN190487 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isBodyEnhanced@POLYN190615 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -298,49 +298,49 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN190904 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN191032 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN190904 the MagicNumber/String  '{method}' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN191032 the MagicNumber/String  '{method}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN190904 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN191032 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN190904 the MagicNumber/String  '{field}' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN191032 the MagicNumber/String  '{field}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN190904 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN191032 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN190904 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN191032 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN190904 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN191032 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -361,49 +361,49 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191515 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191643 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191515 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191643 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191515 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191643 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191515 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191643 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191515 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191643 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191515 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191643 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191515 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getMethodsToDisplay@POLYN191643 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -424,42 +424,42 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192893 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192765 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192893 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192765 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192893 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192765 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192893 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192765 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192893 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192765 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.isMethod@POLYN192893 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -473,42 +473,42 @@ var maDataBlocs = {
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193539 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193667 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193539 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193667 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193539 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193667 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193539 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193667 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193539 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193667 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193539 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getFieldsToDisplay@POLYN193667 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -536,35 +536,35 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194603 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194731 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194603 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194731 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194603 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194731 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194603 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194731 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194603 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.removeFinalEmptyMembers@POLYN194731 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -613,21 +613,21 @@ var maDataBlocs = {
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.hasUrl@POLYN195131 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.hasUrl@POLYN195259 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.hasUrl@POLYN195131 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.hasUrl@POLYN195259 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.hasUrl@POLYN195131 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.hasUrl@POLYN195259 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -641,7 +641,7 @@ var maDataBlocs = {
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.rawBodyWithoutHidden@POLYN195858 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.rawBodyWithoutHidden@POLYN195986 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -669,77 +669,77 @@ var maDataBlocs = {
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00230"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00230"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.cucadiagram.BodierLikeClassOrObject.getBody@POLYN196751 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

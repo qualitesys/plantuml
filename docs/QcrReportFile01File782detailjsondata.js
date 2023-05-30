@@ -333,56 +333,56 @@ var maDataBlocs = {
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167518 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.XCubicCurve2D@POLYN167646 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -417,98 +417,98 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XCubicCurve2D.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN169919 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.awt.geom.XCubicCurve2D.subdivide@POLYN170047 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

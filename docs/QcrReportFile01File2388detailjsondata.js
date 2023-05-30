@@ -122,7 +122,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterImport.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterImport.analyze@POLYN156385 the MagicNumber/String  '!import' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterImport.analyze@POLYN156513 the MagicNumber/String  '!import' should be converted to const"
 }} 
 ]
 , 

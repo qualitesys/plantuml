@@ -94,14 +94,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/UnparsableGraphvizException.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.cucadiagram.UnparsableGraphvizException.getDebugData@POLYN156687 the MagicNumber/String  'SVG=' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.cucadiagram.UnparsableGraphvizException.getDebugData@POLYN156815 the MagicNumber/String  'SVG=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/UnparsableGraphvizException.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.cucadiagram.UnparsableGraphvizException.getDebugData@POLYN156687 the MagicNumber/String  '\r\nDIAGRAM=' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.cucadiagram.UnparsableGraphvizException.getDebugData@POLYN156815 the MagicNumber/String  '\r\nDIAGRAM=' should be converted to const"
 }} 
 ]
 , 

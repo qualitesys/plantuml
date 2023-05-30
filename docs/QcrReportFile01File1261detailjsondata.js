@@ -126,14 +126,14 @@ var maDataBlocs = {
  , "c1" : "00026"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkBendPoint.java.html#26"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.elk.proxy.graph.ElkBendPoint.getX@POLYN148746 the MagicNumber/String  'getX' should be converted to const"
+ , "c3" : "QC-JAV000010[00026] In method net.sourceforge.plantuml.elk.proxy.graph.ElkBendPoint.getX@POLYN148874 the MagicNumber/String  'getX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/ElkBendPoint.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.elk.proxy.graph.ElkBendPoint.getY@POLYN148914 the MagicNumber/String  'getY' should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method net.sourceforge.plantuml.elk.proxy.graph.ElkBendPoint.getY@POLYN149042 the MagicNumber/String  'getY' should be converted to const"
 }} 
 ]
 , 

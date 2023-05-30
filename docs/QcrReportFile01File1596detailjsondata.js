@@ -126,14 +126,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.posimo.MargedBlock.MargedBlock@POLYN160526 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.posimo.MargedBlock.MargedBlock@POLYN160654 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/MargedBlock.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.posimo.MargedBlock.MargedBlock@POLYN160526 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.posimo.MargedBlock.MargedBlock@POLYN160654 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

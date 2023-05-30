@@ -112,7 +112,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UParamNull.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.UParamNull.isHidden@POLYN156556 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.UParamNull.isHidden@POLYN156684 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

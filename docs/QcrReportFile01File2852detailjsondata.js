@@ -179,21 +179,21 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method smetana.core.UnsupportedStarStruct.castTo@POLYN159805 the MagicNumber/String  'I am ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method smetana.core.UnsupportedStarStruct.castTo@POLYN159933 the MagicNumber/String  'I am ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method smetana.core.UnsupportedStarStruct.castTo@POLYN159805 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method smetana.core.UnsupportedStarStruct.castTo@POLYN159933 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method smetana.core.UnsupportedStarStruct.castTo@POLYN159805 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method smetana.core.UnsupportedStarStruct.castTo@POLYN159933 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

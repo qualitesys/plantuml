@@ -164,35 +164,35 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionHorizontalThenVerticalDown.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171729 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171857 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionHorizontalThenVerticalDown.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171729 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171857 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionHorizontalThenVerticalDown.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171857 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionHorizontalThenVerticalDown.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171729 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171857 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GConnectionHorizontalThenVerticalDown.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171729 the MagicNumber/String  .75 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.activitydiagram3.gtile.GConnectionHorizontalThenVerticalDown.drawTranslate@POLYN171857 the MagicNumber/String  .75 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

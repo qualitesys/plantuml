@@ -108,63 +108,63 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  'labels?' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  'labels?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  'POSITION' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  'POSITION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  '(first|last)' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  '(first|last)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  'column' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  'column' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  'and' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  'and' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  'ALIGNED' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  'ALIGNED' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  '(left|right)' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  '(left|right)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164303 the MagicNumber/String  'aligned' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.getRegexConcat@POLYN164431 the MagicNumber/String  'aligned' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -192,42 +192,42 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165366 the MagicNumber/String  'first' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165494 the MagicNumber/String  'first' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165366 the MagicNumber/String  'POSITION' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165494 the MagicNumber/String  'POSITION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165366 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165494 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165366 the MagicNumber/String  'right' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165494 the MagicNumber/String  'right' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165366 the MagicNumber/String  'ALIGNED' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165494 the MagicNumber/String  'ALIGNED' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandLabelOnColumn.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165366 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandLabelOnColumn.executeArg@POLYN165494 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

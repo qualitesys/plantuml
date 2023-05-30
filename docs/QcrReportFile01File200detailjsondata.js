@@ -193,28 +193,28 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method h.ST_Agsubnode_s.getTheField@POLYN173620 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method h.ST_Agsubnode_s.getTheField@POLYN173748 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method h.ST_Agsubnode_s.getTheField@POLYN173620 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method h.ST_Agsubnode_s.getTheField@POLYN173748 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method h.ST_Agsubnode_s.getTheField@POLYN173620 the MagicNumber/String  'id_link' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method h.ST_Agsubnode_s.getTheField@POLYN173748 the MagicNumber/String  'id_link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method h.ST_Agsubnode_s.getTheField@POLYN173620 the MagicNumber/String  'seq_link' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method h.ST_Agsubnode_s.getTheField@POLYN173748 the MagicNumber/String  'seq_link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -228,7 +228,7 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/h/ST_Agsubnode_s.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method h.ST_Agsubnode_s.castTo@POLYN174226 the MagicNumber/String  'dest=' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method h.ST_Agsubnode_s.castTo@POLYN174354 the MagicNumber/String  'dest=' should be converted to const"
 }} 
 ]
 , 

@@ -289,7 +289,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.version.LicenseInfo.persistMe@POLYN188313 the MagicNumber/String  'license' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.version.LicenseInfo.persistMe@POLYN188441 the MagicNumber/String  'license' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -303,14 +303,14 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveQuick@POLYN188598 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveQuick@POLYN188726 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveQuick@POLYN188598 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveQuick@POLYN188726 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -338,49 +338,49 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189101 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189229 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189101 the MagicNumber/String  'license' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189229 the MagicNumber/String  'license' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189101 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189229 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189101 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189229 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189101 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189229 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189101 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189229 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189101 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamedSlow@POLYN189229 the MagicNumber/String  'Error ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,28 +401,28 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamed@POLYN190619 the MagicNumber/String  99 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamed@POLYN190747 the MagicNumber/String  99 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamed@POLYN190619 the MagicNumber/String  '^[0-9a-z]+$' should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamed@POLYN190747 the MagicNumber/String  '^[0-9a-z]+$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamed@POLYN190619 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamed@POLYN190747 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamed@POLYN190619 the MagicNumber/String  'Error retrieving license info' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveNamed@POLYN190747 the MagicNumber/String  'Error retrieving license info' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -443,84 +443,84 @@ var maDataBlocs = {
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191304 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191304 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191432 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191304 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191304 the MagicNumber/String  '/distributor.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191432 the MagicNumber/String  '/distributor.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191304 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191304 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191304 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributorImage@POLYN191432 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192465 the MagicNumber/String  '/distributor.txt' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192593 the MagicNumber/String  '/distributor.txt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192465 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192593 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192465 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192593 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192465 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192593 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192465 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.version.LicenseInfo.retrieveDistributor@POLYN192593 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -534,28 +534,28 @@ var maDataBlocs = {
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.version.LicenseInfo.fileCandidates@POLYN193732 the MagicNumber/String  'java.class.path' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.version.LicenseInfo.fileCandidates@POLYN193860 the MagicNumber/String  'java.class.path' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.version.LicenseInfo.fileCandidates@POLYN193732 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.version.LicenseInfo.fileCandidates@POLYN193860 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.version.LicenseInfo.fileCandidates@POLYN193732 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.version.LicenseInfo.fileCandidates@POLYN193860 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.version.LicenseInfo.fileCandidates@POLYN193732 the MagicNumber/String  'license.txt' should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.version.LicenseInfo.fileCandidates@POLYN193860 the MagicNumber/String  'license.txt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -590,28 +590,28 @@ var maDataBlocs = {
  , "c1" : "00220"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.version.LicenseInfo.retrieve@POLYN195053 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.version.LicenseInfo.retrieve@POLYN195181 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.version.LicenseInfo.retrieve@POLYN195053 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.version.LicenseInfo.retrieve@POLYN195181 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.version.LicenseInfo.retrieve@POLYN195053 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.version.LicenseInfo.retrieve@POLYN195181 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.version.LicenseInfo.retrieve@POLYN195053 the MagicNumber/String  'Reading license from ' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.version.LicenseInfo.retrieve@POLYN195181 the MagicNumber/String  'Reading license from ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -625,35 +625,35 @@ var maDataBlocs = {
  , "c1" : "00237"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#237"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.version.LicenseInfo.main@POLYN195817 the MagicNumber/String  'valid=' should be converted to const"
+ , "c3" : "QC-JAV000010[00237] In method net.sourceforge.plantuml.version.LicenseInfo.main@POLYN195945 the MagicNumber/String  'valid=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.version.LicenseInfo.main@POLYN195817 the MagicNumber/String  'info=' should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.version.LicenseInfo.main@POLYN195945 the MagicNumber/String  'info=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.version.LicenseInfo.isNone@POLYN196546 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.version.LicenseInfo.isNone@POLYN196674 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.version.LicenseInfo.isValid@POLYN196656 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.version.LicenseInfo.isValid@POLYN196784 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00263"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/LicenseInfo.java.html#263"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.version.LicenseInfo.hasExpired@POLYN196840 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.version.LicenseInfo.hasExpired@POLYN196968 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

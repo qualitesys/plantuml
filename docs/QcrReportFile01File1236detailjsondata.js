@@ -85,14 +85,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.eggs.PSystemEgg.PSystemEgg@POLYN156639 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.eggs.PSystemEgg.PSystemEgg@POLYN156767 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemEgg.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.eggs.PSystemEgg.getDescription@POLYN157083 the MagicNumber/String  '(Easter Eggs)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.eggs.PSystemEgg.getDescription@POLYN157211 the MagicNumber/String  '(Easter Eggs)' should be converted to const"
 }} 
 ]
 , 
