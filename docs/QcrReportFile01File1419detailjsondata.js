@@ -117,7 +117,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbols.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method record arguments String  code|USymbol  symbol"
+ , "c3" : "QC-JAV000006[00055] For method record  arguments String  code|USymbol  symbol"
 }} 
 ,
 { "ligne" : {"" : ""
