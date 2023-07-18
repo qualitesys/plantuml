@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.activitydiagram3.ForkStyle" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

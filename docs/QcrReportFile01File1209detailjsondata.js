@@ -15,7 +15,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ebnf.CornerCurved" , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ebnf.CornerType" , "link" : "" , "methodes" : [ 
 { "ligne" : { "" : ""
  , "c5" : "00054"
  , "c5link" : "././qc/src/net/sourceforge/plantuml/ebnf/CornerCurved.java.html#54"

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/dotgen/mincross__c.java.html" 
- , "texte" : "File src/gen/lib/dotgen/mincross__c.java 902 rule violations " 
+ , "texte" : "File src/gen/lib/dotgen/mincross__c.java 903 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -552,6 +552,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE484"
+ , "c3" : "Omitted Break Statement in Switch"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -5727,6 +5734,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1865"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE481[01865] Assigning instead of comparing on e=ND_in(n).list.get_(j0) (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01879"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1879"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[01879] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""

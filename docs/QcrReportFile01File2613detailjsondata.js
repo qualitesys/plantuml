@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.ugraphic.color." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.ugraphic.color.ColorOrder" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

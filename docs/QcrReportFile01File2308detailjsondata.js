@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.svek.extremity." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.svek.extremity.MiddleCircleCircledMode" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "h." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "h.EN_pack_mode" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

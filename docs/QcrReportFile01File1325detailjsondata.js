@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.golem." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.golem.TileGeometry" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

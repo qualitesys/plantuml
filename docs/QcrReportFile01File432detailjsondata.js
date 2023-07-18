@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/SkinParam.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/SkinParam.java 430 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/SkinParam.java 431 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -1009,6 +1009,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "12"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE484"
+ , "c3" : "Omitted Break Statement in Switch"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -2642,6 +2649,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParam.java.html#592"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00592] The argument param is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00602"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParam.java.html#602"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00602] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""

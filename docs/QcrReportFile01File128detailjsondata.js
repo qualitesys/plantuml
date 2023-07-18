@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/geom__c.java.html" 
- , "texte" : "File src/gen/lib/common/geom__c.java 108 rule violations " 
+ , "texte" : "File src/gen/lib/common/geom__c.java 120 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -135,6 +135,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999995"
+ , "c3" : "Recursivity with depth over 1 between method xx and method yy"
+ , "c4" : "12"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
@@ -561,21 +568,28 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.cwrotatepf_w_@POLYN184168"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ptToLine2_w_@POLYN188233"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.geom__c.cwrotatepf@POLYN183934 ending with method gen.lib.common.geom__c.cwrotatepf_w_@POLYN184168"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.common.geom__c.cwrotatepf@POLYN183934"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.geom__c.cwrotatepf_w_@POLYN184168"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -586,87 +600,80 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#148"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String '6np74e9pfmv8uek8irqru2tma' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.geom__c.cwrotatepf_w_@POLYN184168 ending with method gen.lib.common.geom__c.cwrotatepf@POLYN183934"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#148"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 'ccwrotatepf' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.common.geom__c.cwrotatepf_w_@POLYN184168"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#152"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00152] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.geom__c.cwrotatepf@POLYN183934"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#154"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00154] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 90 MUST BE CONVERTED to const"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#158"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 180 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.geom__c.ccwrotatepf@POLYN185918 ending with method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#162"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00162] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 270 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.common.geom__c.ccwrotatepf@POLYN185918"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#167"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00167] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00169"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#169"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00169] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 360 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 ending with method gen.lib.common.geom__c.ccwrotatepf@POLYN185918"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#170"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00170] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 360 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] +--gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00171"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#171"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00171] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 360 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.geom__c.ccwrotatepf@POLYN185918"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#175"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00175] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String '6np74e9pfmv8uek8irqru2tma' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#175"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00175] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 'ccwrotatepf' MUST BE CONVERTED to const"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ptToLine2_w_@POLYN188233"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -744,48 +751,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#130"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00130] In the recursive method gen.lib.common.geom__c.cwrotatepf_w_@POLYN184168 the MagicNumber/String 'cwrotatepf' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#192"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00192] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String '90k9l4o3khu3dw0fzkrcd97nk' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#192"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00192] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String 'ptToLine2' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#198"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00198] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String 0. MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00198"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#198"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00198] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String 0.0000000001 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#201"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00201] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String '90k9l4o3khu3dw0fzkrcd97nk' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#201"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00201] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String 'ptToLine2' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -919,6 +884,132 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#89"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00089] In the recursive method gen.lib.common.geom__c.rotatepf_w_@POLYN182323 the MagicNumber/String 'rotatepf' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#148"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String '6np74e9pfmv8uek8irqru2tma' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#148"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 'ccwrotatepf' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#152"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00152] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#154"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00154] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 90 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#158"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 180 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#162"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00162] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 270 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#167"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00167] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#169"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00169] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 360 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#170"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00170] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 360 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#171"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00171] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 360 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#175"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00175] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String '6np74e9pfmv8uek8irqru2tma' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#175"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00175] In the recursive method gen.lib.common.geom__c.ccwrotatepf_w_@POLYN186152 the MagicNumber/String 'ccwrotatepf' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#192"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00192] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String '90k9l4o3khu3dw0fzkrcd97nk' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00192"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#192"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00192] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String 'ptToLine2' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#198"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00198] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String 0. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#198"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00198] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String 0.0000000001 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#201"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00201] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String '90k9l4o3khu3dw0fzkrcd97nk' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00201"
+ , "c1link" : "./qc/src/gen/lib/common/geom__c.java.html#201"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00201] In the recursive method gen.lib.common.geom__c.ptToLine2_w_@POLYN188233 the MagicNumber/String 'ptToLine2' MUST BE CONVERTED to const"
 }} 
 ]
 , 

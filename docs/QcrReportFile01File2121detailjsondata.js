@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.sprite." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.sprite.SpriteGrayLevel" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.version." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.version.LicenseType" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

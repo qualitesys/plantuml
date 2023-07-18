@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.argon2.model." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.argon2.model.Argon2Type" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

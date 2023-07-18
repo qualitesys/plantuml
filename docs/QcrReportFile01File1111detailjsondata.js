@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.cucadiagram." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.cucadiagram.LinkDecor" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

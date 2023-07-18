@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.security.authentication.oauth." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.security.authentication.oauth.OAuth2Tokens" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sudoku/DLXEngine.java 468 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/sudoku/DLXEngine.java 472 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -214,6 +214,13 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE484"
+ , "c3" : "Omitted Break Statement in Switch"
+ , "c4" : "4"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -241,6 +248,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#74"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00074] The argument puzzle is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#100"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00100] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2701,6 +2715,20 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00817"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#817"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00817] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00862"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#862"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00862] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00787"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#787"
  , "c2" : "MAJOR"
@@ -3090,6 +3118,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#907"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00907] In method net.sourceforge.plantuml.sudoku.dlx_generator.generate@POLYN403078 the MagicNumber/String  'Default case. New state M0S' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#1001"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[01001] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.eps." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.eps.EpsStrategy" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

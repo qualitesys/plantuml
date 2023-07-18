@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/labels__c.java.html" 
- , "texte" : "File src/gen/lib/common/labels__c.java 191 rule violations " 
+ , "texte" : "File src/gen/lib/common/labels__c.java 195 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -107,10 +107,17 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE484"
+ , "c3" : "Omitted Break Statement in Switch"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE481"
  , "c3" : "Assigning instead of comparing"
- , "c4" : "1"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -253,6 +260,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/labels__c.java.html#160"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE481[00160] Assigning instead of comparing on c=p.charAt(0) (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00185"
+ , "c1link" : "./qc/src/gen/lib/common/labels__c.java.html#185"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00185] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -757,6 +771,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/labels__c.java.html#310"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00310] For method strdup_and_subst_obj0 arguments CString  str|ST_Agobj_s  obj|int  escBackslash"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00355"
+ , "c1link" : "./qc/src/gen/lib/common/labels__c.java.html#355"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00355] Assigning instead of comparing on tp_str=pt.name (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00360"
+ , "c1link" : "./qc/src/gen/lib/common/labels__c.java.html#360"
+ , "c2" : "MAJOR"
+ , "c3" : "QC-JAVCWE481[00360] Assigning instead of comparing on hp_str=pt.name (see http://cwe.mitre.org/data/definitions/481.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00412"
+ , "c1link" : "./qc/src/gen/lib/common/labels__c.java.html#412"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00412] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""

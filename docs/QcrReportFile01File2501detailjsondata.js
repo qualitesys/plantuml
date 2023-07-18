@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.timingdiagram." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.timingdiagram.TimeAxisStategy" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

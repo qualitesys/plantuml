@@ -11,7 +11,7 @@ var maDataBlocs = {
 , 
 "data02" : [
 { "classe" : 
- { "nomclasse" : "net.sourceforge.plantuml.mindmap." , "link" : "" , "methodes" : [ 
+ { "nomclasse" : "net.sourceforge.plantuml.mindmap.IdeaShape" , "link" : "" , "methodes" : [ 
 ] 
 }} 
 ]

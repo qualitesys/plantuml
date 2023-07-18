@@ -4044,7 +4044,7 @@ class "net.sourceforge.plantuml.ebnf.CommandNoteMultilines" {
 Nb methods :5
 Complexity :1.00
 }
-class "net.sourceforge.plantuml.ebnf.CornerCurved" {
+class "net.sourceforge.plantuml.ebnf.CornerType" {
 Nb methods :8
 Complexity :1.88
 }

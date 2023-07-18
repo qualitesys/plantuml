@@ -1065,7 +1065,7 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml.ebnf" , "classe":"CommandEBnfSingleLine" , "nbMethodes":"3" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.ebnf" , "classe":"CommandEbnfMultilines" , "nbMethodes":"4" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.ebnf" , "classe":"CommandNoteMultilines" , "nbMethodes":"5" , "nbComplexite":"1.00"} ,' + 
-' { "namespace":"net.sourceforge.plantuml.ebnf" , "classe":"CornerCurved" , "nbMethodes":"8" , "nbComplexite":"1.88"} ,' + 
+' { "namespace":"net.sourceforge.plantuml.ebnf" , "classe":"CornerType" , "nbMethodes":"8" , "nbComplexite":"1.88"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.ebnf" , "classe":"ETile" , "nbMethodes":"19" , "nbComplexite":"1.06"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.ebnf" , "classe":"ETileAlternation" , "nbMethodes":"6" , "nbComplexite":"2.84"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.ebnf" , "classe":"ETileBox" , "nbMethodes":"14" , "nbComplexite":"1.79"} ,' + 

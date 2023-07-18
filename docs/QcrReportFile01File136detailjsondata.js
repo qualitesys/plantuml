@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/shapes__c.java.html" 
- , "texte" : "File src/gen/lib/common/shapes__c.java 1517 rule violations " 
+ , "texte" : "File src/gen/lib/common/shapes__c.java 1533 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -505,6 +505,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "23"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAVCWE484"
+ , "c3" : "Omitted Break Statement in Switch"
+ , "c4" : "16"
 }}
 ,
 { "ligne" : { "" : ""
@@ -2715,6 +2722,27 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00815"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#815"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00815] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00827"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#827"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00827] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00843"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#843"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00843] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00813"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#813"
  , "c2" : "MAJOR"
@@ -3034,6 +3062,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#870"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00870] For method invflip_angle arguments double  angle|int  rankdir"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00874"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#874"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00874] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00877"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#877"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00877] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00880"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#880"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00880] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3398,6 +3447,48 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1132"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[01132] The argument pp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "02458"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#2458"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[02458] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "02458"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#2458"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[02458] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "02458"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#2458"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[02458] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00001] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00001] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00001] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6051,6 +6142,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000021[00001] The same method call Z.z() is used several times, should be optimized "
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00001] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -9565,6 +9663,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00001] For method cvtPt_ arguments ST_pointf  p|int  rankdir"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00001] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00001] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAVCWE484[00001] Omitted break statement in switch (see http://cwe.mitre.org/data/definitions/484.html)"
 }} 
 ,
 { "ligne" : {"" : ""
