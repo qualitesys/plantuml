@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1290px" preserveAspectRatio="none" style="width:947px;height:1290px;background:#FFFFFF;" version="1.1" viewBox="0 0 947 1290" width="947px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="92" x="5" y="30.1074">He's dead, Jim.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="272" x="5" y="58.0449">Diagram size: 995 lines / 24360 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 334 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.Branch.updateFtile(Branch.java:130)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="555" x="13" y="630.7637">net.sourceforge.plantuml.activitydiagram3.InstructionIf.createFtile(InstructionIf.java:142)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="644.7324">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.InstructionWhile.createFtile(InstructionWhile.java:118)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="672.6699">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="686.6387">net.sourceforge.plantuml.activitydiagram3.InstructionWhile.createFtile(InstructionWhile.java:118)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="700.6074">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="714.5762">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="728.5449">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="742.5137">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="756.4824">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="770.4512">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="784.4199">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="798.3887">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="812.3574">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="826.3262">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="840.2949">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="854.2637">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="868.2324">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="882.2012">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="896.1699">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="910.1387">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="924.1074">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="938.0762">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="952.0449">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="966.0137">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="979.9824">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="993.9512">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="1007.9199">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="1021.8887">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="1035.8574">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="1049.8262">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="1063.7949">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="1077.7637">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="1091.7324">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1105.7012">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1119.6699">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1133.6387">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1147.6074">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1161.5762">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1175.5449">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1189.5137">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1203.4824">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1217.4512">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1231.4199">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1245.3887">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1259.3574">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1273.3262">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1287.2949">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="21" width="27" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAVCAYAAAC33pUlAAAAh0lEQVR4Xu2NwQ2AMAwDOwhP9t+MGUBUyiOnpk5EecFJecSOndY+ybHt5z3UI6r3jmq4ej9ElSi/hCpTfgorqQ57UrAkO+yZEoWpK9/0KVGIuvJNH8LjVcM/HR6tGv7p0GQoO8zb7qDJkuwwb7uDJncF77k7aHJX8J57CgsxHOmPiEoj/edVLiQKj7DcrvLeAAAAAElFTkSuQmCC" y="6"/><!--MD5=[9ae6e47dd25e6ffb4441da82100954dd]
+@startuml
+!pragma layout smetana
+start
+note right
+constructor VP8Frame(ImageInputStream stream)
+end note
+:this.frame=stream;;
+:offset=frame.getStreamPosition();;
+:this.coefProbs=Globals.getDefaultCoefProbs();;
+:tokenBoolDecoders=new Vector<>();;
+end
+start
+note right
+constructor VP8Frame(ImageInputStream stream,
+int[][][][] coefProbs)
+end note
+:this.frame=stream;;
+:offset=frame.getStreamPosition();;
+:this.coefProbs=coefProbs;;
+:tokenBoolDecoders=new Vector<>();;
+end
+start
+note right
+void addIIOReadProgressListener(IIOReadProgressListener listener)
+end note
+:_listeners.add(listener);;
+end
+start
+note right
+void createMacroBlocks()
+end note
+:macroBlocks=new MacroBlock[macroBlockCols+
+2][macroBlockRows+2];;
+:macroBlocks[x][y]=new MacroBlock(x,y,debug);;
+end
+start
+note right
+boolean decodeFrame(boolean debug)
+end note
+:this.debug=debug;;
+:segmentQuants=new SegmentQuants();;
+:int c;;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:frameType=getBitAsInt(c,0);;
+if (frameType!=0) then (yes) 
+:return false;;
+stop
+endif 
+:int versionNumber=getBitAsInt(c,1)<<1;;
+:versionNumber+=getBitAsInt(c,2)<<1;;
+:versionNumber+=getBitAsInt(c,3);;
+:int firstPartitionLengthInBytes;;
+:firstPartitionLengthInBytes=getBitAsInt(c,
+5)<<0;;
+:firstPartitionLengthInBytes+=getBitAsInt(c,
+6)<<1;;
+:firstPartitionLengthInBytes+=getBitAsInt(c,
+7)<<2;;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:firstPartitionLengthInBytes+=c<<3;;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:firstPartitionLengthInBytes+=c<<11;;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:int hBytes=c;;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:hBytes+=c<<8;;
+:width=(hBytes&0x3fff);;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:int vBytes=c;;
+:frame.seek(offset++);;
+:c=frame.readUnsignedByte();;
+:vBytes+=c<<8;;
+:height=(vBytes&0x3fff);;
+:int tWidth=width;;
+:int tHeight=height;;
+if ((tWidth&0xf)!=0) then (yes) 
+:tWidth+=16-(tWidth&0xf);;
+endif 
+if ((tHeight&0xf)!=0) then (yes) 
+:tHeight+=16-(tHeight&0xf);;
+endif 
+:macroBlockRows=tHeight>>4;;
+:macroBlockCols=tWidth>>4;;
+:createMacroBlocks();;
+:BoolDecoder bc=new BoolDecoder(frame,offset);;
+if (frameType==0) then (yes) 
+:int clr_type=bc.readBit();;
+:int clamp_type=bc.readBit();;
+endif 
+:segmentationIsEnabled=bc.readBit();;
+if (segmentationIsEnabled>0) then (yes) 
+:updateMacroBlockSegmentationMap=bc.readBit();;
+:updateMacroBlockSegmentatonData=bc.readBit();;
+if (updateMacroBlockSegmentatonData>0) then (yes) 
+:macroBlockSegementAbsoluteDelta=bc.readBit();;
+:int value=0;;
+if (bc.readBit()>0) then (yes) 
+:value=bc.readLiteral(Globals.vp8MacroBlockFeatureDataBits[0]);;
+if (bc.readBit()>0) then (yes) 
+:value=-value;;
+endif 
+endif 
+:this.segmentQuants.getSegQuants()[i].setQindex(value);;
+:int value=0;;
+if (bc.readBit()>0) then (yes) 
+:value=bc.readLiteral(Globals.vp8MacroBlockFeatureDataBits[1]);;
+if (bc.readBit()>0) then (yes) 
+:value=-value;;
+endif 
+endif 
+:this.segmentQuants.getSegQuants()[i].setFilterStrength(value);;
+if (updateMacroBlockSegmentationMap>0) then (yes) 
+:macroBlockSegmentTreeProbs=new int[Globals.MB_FEATURE_TREE_PROBS];;
+:int value=255;;
+if (bc.readBit()>0) then (yes) 
+:value=bc.readLiteral(8);;
+else (no)
+:value=255;;
+endif 
+:macroBlockSegmentTreeProbs[i]=value;;
+endif 
+endif 
+endif 
+:simpleFilter=bc.readBit();;
+:filterLevel=bc.readLiteral(6);;
+:sharpnessLevel=bc.readLiteral(3);;
+:modeRefLoopFilterDeltaEnabled=bc.readBit();;
+if (modeRefLoopFilterDeltaEnabled>0) then (yes) 
+:modeRefLoopFilterDeltaUpdate=bc.readBit();;
+if (modeRefLoopFilterDeltaUpdate>0) then (yes) 
+if (bc.readBit()>0) then (yes) 
+:refLoopFilterDeltas[i]=bc.readLiteral(6);;
+if (bc.readBit()>0) then (yes) 
+:refLoopFilterDeltas[i]=refLoopFilterDeltas[i]*-1;;
+endif 
+endif 
+if (bc.readBit()>0) then (yes) 
+:modeLoopFilterDeltas[i]=bc.readLiteral(6);;
+if (bc.readBit()>0) then (yes) 
+:modeLoopFilterDeltas[i]=modeLoopFilterDeltas[i]*-1;;
+endif 
+endif 
+endif 
+endif 
+:filterType=(filterLevel==0)? 0:(simpleFilter>0)? 1:2;;
+:setupTokenDecoder(bc,firstPartitionLengthInBytes,
+offset);;
+:bc.seek();;
+:segmentQuants.parse(bc,segmentationIsEnabled==1,
+macroBlockSegementAbsoluteDelta==1);;
+if (frameType!=0) then (yes) 
+:throw new IllegalArgumentException("bad input: not intra");;
+stop
+endif 
+:refreshEntropyProbs=bc.readBit();;
+if (refreshEntropyProbs>0) then (yes) 
+endif 
+:refreshLastFrame=0;;
+if (frameType==0) then (yes) 
+:refreshLastFrame=1;;
+else (no)
+:refreshLastFrame=bc.readBit();;
+endif 
+if (bc.readBool(Globals.vp8CoefUpdateProbs[i][j][k][l])>0) then (yes) 
+:int newp=bc.readLiteral(8);;
+:this.coefProbs[i][j][k][l]=newp;;
+endif 
+:macroBlockNoCoeffSkip=(int )bc.readBit();;
+if (frameType==0) then (yes) 
+:readModes(bc);;
+else (no)
+:throw new IllegalArgumentException("bad input: not intra");;
+stop
+endif 
+:int ibc=0;;
+:int num_part=1<<multiTokenPartition;;
+if (num_part>1) then (yes) 
+:tokenBoolDecoder=tokenBoolDecoders.elementAt(ibc);;
+:tokenBoolDecoder.seek();;
+:decodeMacroBlockRow(mb_row);;
+:ibc++;;
+if (ibc==num_part) then (yes) 
+:ibc=0;;
+endif 
+else (no)
+:decodeMacroBlockRow(mb_row);;
+endif 
+:fireProgressUpdate(mb_row);;
+if (this.getFilterType()>0&&this.getFilterLevel()!=0) then (yes) 
+:this.loopFilter();;
+endif 
+:return true;;
+stop
+end
+start
+note right
+void decodeMacroBlockRow(int mbRow)
+end note
+:MacroBlock mb=getMacroBlock(mbCol,mbRow);;
+:mb.decodeMacroBlock(this);;
+:mb.dequantMacroBlock(this);;
+end
+start
+note right
+void fireLFProgressUpdate(float p)
+end note
+:java.util.Iterator<IIOReadProgressListener> listeners=_listeners.iterator();;
+while (listeners.hasNext())
+:((IIOReadProgressListener )listeners.next()).imageProgress(null ,(100/buffersToCreate)+
+(p/buffersToCreate));;
+endwhile
+end
+start
+note right
+void fireProgressUpdate(int mb_row)
+end note
+:java.util.Iterator<IIOReadProgressListener> listeners=_listeners.iterator();;
+while (listeners.hasNext())
+:((IIOReadProgressListener )listeners.next()).imageProgress(null ,(100.0f*((float )(mb_row+
+1)/(float )getMacroBlockRows()))/buffersToCreate);;
+endwhile
+end
+start
+note right
+void fireRGBProgressUpdate(float p)
+end note
+:java.util.Iterator<IIOReadProgressListener> listeners=_listeners.iterator();;
+while (listeners.hasNext())
+:((IIOReadProgressListener )listeners.next()).imageProgress(null ,((bufferCount+
+4)*(100/buffersToCreate))+(p/buffersToCreate));;
+endwhile
+end
+start
+note right
+SubBlock getAboveRightSubBlock(SubBlock sb,
+SubBlock.PLANE plane)
+end note
+:SubBlock r;;
+:MacroBlock mb=sb.getMacroBlock();;
+:int x=mb.getSubblockX(sb);;
+:int y=mb.getSubblockY(sb);;
+if (plane==SubBlock.PLANE.Y1) then (yes) 
+if (y==0&&x<3) then (yes) 
+:MacroBlock mb2=this.getMacroBlock(mb.getX(),
+mb.getY()-1);;
+:r=mb2.getSubBlock(plane,x+1,3);;
+:return r;;
+stop
+else if (y==0&&x==3) then (yes) 
+:MacroBlock mb2=this.getMacroBlock(mb.getX()+
+1,mb.getY()-1);;
+:r=mb2.getSubBlock(plane,0,3);;
+if (mb2.getX()==this.getMacroBlockCols()) then (yes) 
+:int dest[][]=new int[4][4];;
+if (mb2.getY()<0) then (yes) 
+:dest[a][b]=127;;
+else (no)
+:dest[a][b]=this.getMacroBlock(mb.getX(),
+mb.getY()-1).getSubBlock(SubBlock.PLANE.Y1,
+3,3).getDest()[3][3];;
+endif 
+:r=new SubBlock(mb2,null ,null ,SubBlock.PLANE.Y1);;
+:r.setDest(dest);;
+endif 
+:return r;;
+stop
+else if (y>0&&x<3) then (yes) 
+:r=mb.getSubBlock(plane,x+1,y-1);;
+:return r;;
+stop
+else (no)
+:SubBlock sb2=mb.getSubBlock(sb.getPlane(),
+3,0);;
+:return this.getAboveRightSubBlock(sb2,plane);;
+stop
+endif 
+else (no)
+:throw new IllegalArgumentException("bad input: getAboveRightSubBlock()");;
+stop
+endif 
+end
+start
+note right
+SubBlock getAboveSubBlock(SubBlock sb,SubBlock.PLANE plane)
+end note
+:SubBlock r=sb.getAbove();;
+if (r==null ) then (yes) 
+:MacroBlock mb=sb.getMacroBlock();;
+:int x=mb.getSubblockX(sb);;
+:MacroBlock mb2=getMacroBlock(mb.getX(),mb.getY()-1);;
+while (plane==SubBlock.PLANE.Y2&&mb2.getYMode()==Globals.B_PRED)
+:mb2=getMacroBlock(mb2.getX(),mb2.getY()-1);;
+endwhile
+:r=mb2.getBottomSubBlock(x,sb.getPlane());;
+endif 
+:return r;;
+stop
+end
+start
+note right
+boolean getBit(int data,int bit)
+end note
+:int r=data&(1<<bit);;
+if (r>0) then (yes) 
+:return true;;
+stop
+endif 
+:return false;;
+stop
+end
+start
+note right
+int getBitAsInt(int data,int bit)
+end note
+:int r=data&(1<<bit);;
+if (r>0) then (yes) 
+:return 1;;
+stop
+endif 
+:return 0;;
+stop
+end
+start
+note right
+BufferedImage getBufferedImage()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:useBufferedImage(bi);;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+int[][][][] getCoefProbs()
+end note
+:return coefProbs;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageDiff()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int yy,u,v;;
+:yy=127+this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.Y1,
+(x%16)/4,(y%16)/4).getDiff()[x%4][y%4];;
+:u=127+this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.U,
+((x/2)%8)/4,((y/2)%8)/4).getDiff()[(x/2)%4][(y/2)%4];;
+:v=127+this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.V,
+((x/2)%8)/4,((y/2)%8)/4).getDiff()[(x/2)%4][(y/2)%4];;
+:c[0]=(int )(1.164*(yy-16)+1.596*(v-128));;
+:c[1]=(int )(1.164*(yy-16)-0.813*(v-128)-0.391*(u-128));;
+:c[2]=(int )(1.164*(yy-16)+2.018*(u-128));;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImagePredict()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int yy,u,v;;
+:yy=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.Y1,
+(x%16)/4,(y%16)/4).getPredict()[x%4][y%4];;
+:u=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.U,
+((x/2)%8)/4,((y/2)%8)/4).getPredict()[(x/2)%4][(y/2)%4];;
+:v=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.V,
+((x/2)%8)/4,((y/2)%8)/4).getPredict()[(x/2)%4][(y/2)%4];;
+:c[0]=(int )(1.164*(yy-16)+1.596*(v-128));;
+:c[1]=(int )(1.164*(yy-16)-0.813*(v-128)-0.391*(u-128));;
+:c[2]=(int )(1.164*(yy-16)+2.018*(u-128));;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageUBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int u;;
+:u=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.U,
+((x/2)%8)/4,((y/2)%8)/4).getDest()[(x/2)%4][(y/2)%4];;
+:c[0]=u;;
+:c[1]=u;;
+:c[2]=u;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageUDiffBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int u;;
+:u=127+this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.U,
+((x/2)%8)/4,((y/2)%8)/4).getDiff()[(x/2)%4][(y/2)%4];;
+:c[0]=u;;
+:c[1]=u;;
+:c[2]=u;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageUPredBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int u;;
+:u=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.U,
+((x/2)%8)/4,((y/2)%8)/4).getPredict()[(x/2)%4][(y/2)%4];;
+:c[0]=u;;
+:c[1]=u;;
+:c[2]=u;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageVBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int v;;
+:v=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.V,
+((x/2)%8)/4,((y/2)%8)/4).getDest()[(x/2)%4][(y/2)%4];;
+:c[0]=v;;
+:c[1]=v;;
+:c[2]=v;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageVDiffBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int v;;
+:v=127+this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.V,
+((x/2)%8)/4,((y/2)%8)/4).getDiff()[(x/2)%4][(y/2)%4];;
+:c[0]=v;;
+:c[1]=v;;
+:c[2]=v;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageVPredBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int v;;
+:v=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.V,
+((x/2)%8)/4,((y/2)%8)/4).getPredict()[(x/2)%4][(y/2)%4];;
+:c[0]=v;;
+:c[1]=v;;
+:c[2]=v;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageYBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int yy;;
+:yy=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.Y1,
+(x%16)/4,(y%16)/4).getDest()[x%4][y%4];;
+:c[0]=yy;;
+:c[1]=yy;;
+:c[2]=yy;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageYDiffBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int yy;;
+:yy=127+this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.Y1,
+(x%16)/4,(y%16)/4).getDiff()[x%4][y%4];;
+:c[0]=yy;;
+:c[1]=yy;;
+:c[2]=yy;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+BufferedImage getDebugImageYPredBuffer()
+end note
+:BufferedImage bi=new BufferedImage(getWidth(),
+getHeight(),BufferedImage.TYPE_INT_RGB);;
+:WritableRaster imRas=bi.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int yy;;
+:yy=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.Y1,
+(x%16)/4,(y%16)/4).getPredict()[x%4][y%4];;
+:c[0]=yy;;
+:c[1]=yy;;
+:c[2]=yy;;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+:bufferCount++;;
+:return bi;;
+stop
+end
+start
+note right
+int getFilterLevel()
+end note
+:return filterLevel;;
+stop
+end
+start
+note right
+int getFilterType()
+end note
+:return filterType;;
+stop
+end
+start
+note right
+int getFrameType()
+end note
+:return frameType;;
+stop
+end
+start
+note right
+int getHeight()
+end note
+:return height;;
+stop
+end
+start
+note right
+SubBlock getLeftSubBlock(SubBlock sb,SubBlock.PLANE plane)
+end note
+:SubBlock r=sb.getLeft();;
+if (r==null ) then (yes) 
+:MacroBlock mb=sb.getMacroBlock();;
+:int y=mb.getSubblockY(sb);;
+:MacroBlock mb2=getMacroBlock(mb.getX()-1,
+mb.getY());;
+while (plane==SubBlock.PLANE.Y2&&mb2.getYMode()==Globals.B_PRED)
+:mb2=getMacroBlock(mb2.getX()-1,mb2.getY());;
+endwhile
+:r=mb2.getRightSubBlock(y,sb.getPlane());;
+endif 
+:return r;;
+stop
+end
+start
+note right
+MacroBlock getMacroBlock(int mbCol,int mbRow)
+end note
+:return macroBlocks[mbCol+1][mbRow+1];;
+stop
+end
+start
+note right
+int getMacroBlockCols()
+end note
+:return macroBlockCols;;
+stop
+end
+start
+note right
+String getMacroBlockDebugString(int mbx,int mby,
+int sbx,int sby)
+end note
+:String r=new String();;
+if (mbx<this.macroBlockCols&&mby<this.getMacroBlockRows()) then (yes) 
+:MacroBlock mb=getMacroBlock(mbx,mby);;
+:r=r+mb.getDebugString();;
+if (sbx<4&&sby<4) then (yes) 
+:SubBlock sb=mb.getSubBlock(SubBlock.PLANE.Y1,
+sbx,sby);;
+:r=r+"\n SubBlock "+sbx+", "+sby+"\n  "+sb.getDebugString();;
+:sb=mb.getSubBlock(SubBlock.PLANE.Y2,sbx,
+sby);;
+:r=r+"\n SubBlock "+sbx+", "+sby+"\n  "+sb.getDebugString();;
+:sb=mb.getSubBlock(SubBlock.PLANE.U,sbx/2,
+sby/2);;
+:r=r+"\n SubBlock "+sbx/2+", "+sby/2+"\n  "+
+sb.getDebugString();;
+:sb=mb.getSubBlock(SubBlock.PLANE.V,sbx/2,
+sby/2);;
+:r=r+"\n SubBlock "+sbx/2+", "+sby/2+"\n  "+
+sb.getDebugString();;
+endif 
+endif 
+:return r;;
+stop
+end
+start
+note right
+int getMacroBlockRows()
+end note
+:return macroBlockRows;;
+stop
+end
+start
+note right
+int getQIndex()
+end note
+:return segmentQuants.getqIndex();;
+stop
+end
+start
+note right
+SegmentQuants getSegmentQuants()
+end note
+:return segmentQuants;;
+stop
+end
+start
+note right
+int getSharpnessLevel()
+end note
+:return sharpnessLevel;;
+stop
+end
+start
+note right
+BoolDecoder getTokenBoolDecoder()
+end note
+:tokenBoolDecoder.seek();;
+:return tokenBoolDecoder;;
+stop
+end
+start
+note right
+int[][] getUBuffer()
+end note
+:int r[][]=new int[macroBlockCols*8][macroBlockRows*8];;
+:MacroBlock mb=macroBlocks[x+1][y+1];;
+:SubBlock sb=mb.getUSubBlock(a,b);;
+:r[(x*8)+(a*4)+c][(y*8)+(b*4)+d]=sb.getDest()[c][d];;
+:return r;;
+stop
+end
+start
+note right
+int[][] getVBuffer()
+end note
+:int r[][]=new int[macroBlockCols*8][macroBlockRows*8];;
+:MacroBlock mb=macroBlocks[x+1][y+1];;
+:SubBlock sb=mb.getVSubBlock(a,b);;
+:r[(x*8)+(a*4)+c][(y*8)+(b*4)+d]=sb.getDest()[c][d];;
+:return r;;
+stop
+end
+start
+note right
+int getWidth()
+end note
+:return width;;
+stop
+end
+start
+note right
+int[][] getYBuffer()
+end note
+:int r[][]=new int[macroBlockCols*16][macroBlockRows*16];;
+:MacroBlock mb=macroBlocks[x+1][y+1];;
+:SubBlock sb=mb.getYSubBlock(a,b);;
+:r[(x*16)+(a*4)+c][(y*16)+(b*4)+d]=sb.getDest()[c][d];;
+:return r;;
+stop
+end
+start
+note right
+void loopFilter()
+end note
+:LoopFilter.loopFilter(this);;
+end
+start
+note right
+void readModes(BoolDecoder bc)
+end note
+:int mb_row=-1;;
+:int prob_skip_false=0;;
+if (macroBlockNoCoeffSkip>0) then (yes) 
+:prob_skip_false=bc.readLiteral(8);;
+endif 
+while (++mb_row<macroBlockRows)
+:int mb_col=-1;;
+while (++mb_col<macroBlockCols)
+:MacroBlock mb=getMacroBlock(mb_col,mb_row);;
+if ((segmentationIsEnabled>0)&&(updateMacroBlockSegmentationMap>0)) then (yes) 
+:int value=bc.readTree(Globals.macroBlockSegmentTree,
+this.macroBlockSegmentTreeProbs);;
+:mb.setSegmentId(value);;
+endif 
+if (modeRefLoopFilterDeltaEnabled>0) then (yes) 
+:int level=filterLevel;;
+:level=level+refLoopFilterDeltas[0];;
+:level=(level<0)? 0:(level>63)? 63:level;;
+:mb.setFilterLevel(level);;
+else (no)
+:mb.setFilterLevel(segmentQuants.getSegQuants()[mb.getSegmentId()].getFilterStrength());;
+endif 
+:int mb_skip_coeff=0;;
+if (macroBlockNoCoeffSkip>0) then (yes) 
+:mb_skip_coeff=bc.readBool(prob_skip_false);;
+else (no)
+:mb_skip_coeff=0;;
+endif 
+:mb.setSkipCoeff(mb_skip_coeff);;
+:int y_mode=readYMode(bc);;
+:mb.setYMode(y_mode);;
+if (y_mode==Globals.B_PRED) then (yes) 
+:SubBlock sb=mb.getYSubBlock(j,i);;
+:SubBlock A=getAboveSubBlock(sb,SubBlock.PLANE.Y1);;
+:SubBlock L=getLeftSubBlock(sb,SubBlock.PLANE.Y1);;
+:int mode=readSubBlockMode(bc,A.getMode(),
+L.getMode());;
+:sb.setMode(mode);;
+if (modeRefLoopFilterDeltaEnabled>0) then (yes) 
+:int level=mb.getFilterLevel();;
+:level=level+this.modeLoopFilterDeltas[0];;
+:level=(level<0)? 0:(level>63)? 63:level;;
+:mb.setFilterLevel(level);;
+endif 
+else (no)
+:int BMode;;
+switch (switch y_mode)
+endswitch
+:SubBlock sb=mb.getYSubBlock(x,y);;
+:sb.setMode(BMode);;
+endif 
+:int mode=readUvMode(bc);;
+:mb.setUvMode(mode);;
+endwhile
+endwhile
+end
+start
+note right
+int readPartitionSize(long l)
+end note
+:frame.seek(l);;
+:int size=frame.readUnsignedByte()+(frame.readUnsignedByte()<<8)+
+(frame.readUnsignedByte()<<16);;
+:return size;;
+stop
+end
+start
+note right
+int readSubBlockMode(BoolDecoder bc,int A,
+int L)
+end note
+:int i=bc.readTree(Globals.vp8SubBlockModeTree,
+Globals.vp8KeyFrameSubBlockModeProb[A][L]);;
+:return i;;
+stop
+end
+start
+note right
+int readUvMode(BoolDecoder bc)
+end note
+:int i=bc.readTree(Globals.vp8UVModeTree,
+Globals.vp8KeyFrameUVModeProb);;
+:return i;;
+stop
+end
+start
+note right
+int readYMode(BoolDecoder bc)
+end note
+:int i=bc.readTree(Globals.vp8KeyFrameYModeTree,
+Globals.vp8KeyFrameYModeProb);;
+:return i;;
+stop
+end
+start
+note right
+void removeIIOReadProgressListener(IIOReadProgressListener listener)
+end note
+:_listeners.remove(listener);;
+end
+start
+note right
+void setBuffersToCreate(int count)
+end note
+:this.buffersToCreate=3+count;;
+:this.bufferCount=0;;
+end
+start
+note right
+void setupTokenDecoder(BoolDecoder bc,int first_partition_length_in_bytes,
+long offset)
+end note
+:long partitionSize=0;;
+:long partitionsStart=offset+first_partition_length_in_bytes;;
+:long partition=partitionsStart;;
+:multiTokenPartition=bc.readLiteral(2);;
+:int num_part=1<<multiTokenPartition;;
+if (num_part>1) then (yes) 
+:partition+=3*(num_part-1);;
+endif 
+if (i<num_part-1) then (yes) 
+:partitionSize=readPartitionSize(partitionsStart+
+(i*3));;
+:bc.seek();;
+else (no)
+:partitionSize=frame.length()-partition;;
+endif 
+:tokenBoolDecoders.add(new BoolDecoder(frame,
+partition));;
+:partition+=partitionSize;;
+:tokenBoolDecoder=tokenBoolDecoders.elementAt(0);;
+end
+start
+note right
+void useBufferedImage(BufferedImage dst)
+end note
+:WritableRaster imRas=dst.getWritableTile(0,0);;
+:int c[]=new int[3];;
+:int yy,u,v;;
+:yy=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.Y1,
+(x%16)/4,(y%16)/4).getDest()[x%4][y%4];;
+:u=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.U,
+((x/2)%8)/4,((y/2)%8)/4).getDest()[(x/2)%4][(y/2)%4];;
+:v=this.getMacroBlock(x/16,y/16).getSubBlock(SubBlock.PLANE.V,
+((x/2)%8)/4,((y/2)%8)/4).getDest()[(x/2)%4][(y/2)%4];;
+:c[0]=(int )(1.164*(yy-16)+1.596*(v-128));;
+:c[1]=(int )(1.164*(yy-16)-0.813*(v-128)-0.391*(u-128));;
+:c[2]=(int )(1.164*(yy-16)+2.018*(u-128));;
+if (c[z]<0) then (yes) 
+:c[z]=0;;
+endif 
+if (c[z]>255) then (yes) 
+:c[z]=255;;
+endif 
+:imRas.setPixel(x,y,c);;
+:fireRGBProgressUpdate(100.0F*x/getWidth());;
+end
+start
+note right
+void setFrame(ImageInputStream frame)
+end note
+switch (try/catch block)
+case (try)
+:this.frame.flush();;
+:this.frame.close();;
+:this.frame=frame;;
+:offset=frame.getStreamPosition();;
+:this.coefProbs=Globals.getDefaultCoefProbs();;
+:tokenBoolDecoders=new Vector<>();;
+case (catch (IOException e))
+:Logme.error(e);;
+endswitch
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

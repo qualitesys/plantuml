@@ -1,0 +1,2130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="586px" preserveAspectRatio="none" style="width:613px;height:586px;background:#000000;" version="1.1" viewBox="0 0 613 586" width="613px" zoomAndPan="magnify"><defs/><g><rect fill="#06261A" height="1" style="stroke:#06261A;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 334 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="601" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="188" x="6" y="83.875">[From string (line 856) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="153.0625">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="169.3594">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="299" x="5" y="185.6563">void ensureVisible(double x,double y)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="201.9531">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="185" x="5" y="218.25">... ( skipping 830 lines )</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="15" x="5" y="234.5469">...</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="250.8438">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="161" x="5" y="267.1406">:ensureVisible(x,y);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="350" x="5" y="283.4375">:ensureVisible(x+image.getData("width"),y+</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="207" x="5" y="299.7344">image.getData("height"));;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="5" y="316.0313">end</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="37" x="5" y="332.3281">start</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="78" x="5" y="348.625">note right</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="335" x="5" y="364.9219">String manageScale(UImageSvg svgImage)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="71" x="5" y="381.2188">end note</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="357" x="5" y="397.5156">:final double svgScale=svgImage.getScale();;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="295" x="5" y="413.8125">:String svg=svgImage.getSvg(false);;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="265" x="5" y="430.1094">if (svgScale*scale==1) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="101" x="5" y="446.4063">:return svg;;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="35" x="5" y="462.7031">stop</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="40" x="5" y="479">endif</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="386" x="5" y="495.2969">:final String svg2=svg.replace('\n',' ').replace('\r',</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="596" x="5" y="511.5938">if (svg2.contains("&lt;g ")==false&amp;&amp;svg2.contains("&lt;g&gt;")==false) then (yes)</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="388" x="5" y="527.8906">:svg=svg.replaceFirst("\\&lt;svg\\&gt;","&lt;svg&gt;&lt;g&gt;");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="403" x="5" y="544.1875">:svg=svg.replaceFirst("\\&lt;/svg\\&gt;","&lt;/g&gt;&lt;/svg&gt;");;</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="40" x="5" y="560.4844">endif</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="576.7813">Cannot find if</text><!--MD5=[33dc3f7899e309dbea6516cb963af132]
+@startuml
+!pragma layout smetana
+start
+note right
+void ensureVisible(double x,double y)
+end note
+if (x>maxX) then (yes) 
+:maxX=(int )(x+1);;
+endif 
+if (y>maxY) then (yes) 
+:maxY=(int )(y+1);;
+endif 
+end
+start
+note right
+constructor SvgGraphics(String backcolor,
+boolean svgDimensionStyle,XDimension2D minDim,
+double scale,String hover,long seed,String preserveAspectRatio,
+LengthAdjust lengthAdjust,boolean interactive)
+end note
+switch (try/catch block)
+case (try)
+:this.lengthAdjust=lengthAdjust;;
+:this.svgDimensionStyle=svgDimensionStyle;;
+:this.scale=scale;;
+:this.document=getDocument();;
+:this.backcolor=backcolor;;
+:this.preserveAspectRatio=preserveAspectRatio;;
+:this.interactive=interactive;;
+:ensureVisible(minDim.getWidth(),minDim.getHeight());;
+:this.root=getRootNode();;
+:defs=simpleElement("defs");;
+:gRoot=simpleElement("g");;
+:strokeWidth=""+scale;;
+:this.filterUid="b"+getSeed(seed);;
+:this.shadowId="f"+getSeed(seed);;
+:this.gradientId="g"+getSeed(seed);;
+if (hover!=null ) then (yes) 
+:defs.appendChild(getPathHover(hover));;
+endif 
+if (interactive) then (yes) 
+:final Element styles=getStylesForInteractiveMode();;
+if (styles!=null ) then (yes) 
+:defs.appendChild(styles);;
+endif 
+:final Element script=getScriptForInteractiveMode();;
+if (script!=null ) then (yes) 
+:defs.appendChild(script);;
+endif 
+endif 
+case (catch (ParserConfigurationException e))
+:Logme.error(e);;
+:throw new IllegalStateException(e);;
+stop
+endswitch
+end
+start
+note right
+Element getStylesForInteractiveMode()
+end note
+:final Element style=simpleElement("style");;
+:final String text=getData("default.css");;
+if (text==null ) then (yes) 
+:return null ;;
+stop
+endif 
+:final CDATASection cdata=document.createCDATASection(text);;
+:style.setAttribute("type","text/css");;
+:style.appendChild(cdata);;
+:return style;;
+stop
+end
+start
+note right
+Element getScriptForInteractiveMode()
+end note
+:final Element script=document.createElement("script");;
+:final String text=getData("default.js");;
+if (text==null ) then (yes) 
+:return null ;;
+stop
+endif 
+:script.setTextContent(text);;
+:return script;;
+stop
+end
+start
+note right
+String getData(final String name)
+end note
+switch (try/catch block)
+case (try)
+:final InputStream is=SvgGraphics.class .getResourceAsStream("/svg/"+
+name);;
+:return FileUtils.readText(is);;
+stop
+case (catch (IOException e))
+:Logme.error(e);;
+:return null ;;
+stop
+endswitch
+end
+start
+note right
+Element getPathHover(String hover)
+end note
+:final Element style=simpleElement("style");;
+:final CDATASection cdata=document.createCDATASection("path:hover { stroke: "+
+hover+" !important;}");;
+:style.setAttribute("type","text/css");;
+:style.appendChild(cdata);;
+:return style;;
+stop
+end
+start
+note right
+String getSeed(final long seed)
+end note
+:return Long.toString(Math.abs(seed),36);;
+stop
+end
+start
+note right
+void paintBackcolorGradient(ColorMapper mapper,
+HColorGradient gr)
+end note
+:final String id=createSvgGradient(gr.getColor1().toRGB(mapper),
+gr.getColor2().toRGB(mapper),gr.getPolicy());;
+:setFillColor("url(#"+id+")");;
+:setStrokeColor(null );;
+:pendingBackground=createRectangleInternal(0,
+0,0,0);;
+:getG().appendChild(pendingBackground);;
+end
+start
+note right
+Element simpleElement(String type)
+end note
+:final Element theElement=(Element )document.createElement(type);;
+:root.appendChild(theElement);;
+:return theElement;;
+stop
+end
+start
+note right
+Document getDocument()
+end note
+:final DocumentBuilder builder=XmlFactories.newDocumentBuilder();;
+:final Document document=builder.newDocument();;
+:document.setXmlStandalone(true);;
+:return document;;
+stop
+end
+start
+note right
+Element getRootNode()
+end note
+:final Element svg=(Element )document.createElement("svg");;
+:document.appendChild(svg);;
+:svg.setAttribute("xmlns","http://www.w3.org/2000/svg");;
+:svg.setAttribute("xmlns:xlink","http://www.w3.org/1999/xlink");;
+:svg.setAttribute("version","1.1");;
+:return svg;;
+stop
+end
+start
+note right
+void svgEllipse(double x,double y,double xRadius,
+double yRadius,double deltaShadow)
+end note
+:manageShadow(deltaShadow);;
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("ellipse");;
+:elt.setAttribute("cx",format(x));;
+:elt.setAttribute("cy",format(y));;
+:elt.setAttribute("rx",format(xRadius));;
+:elt.setAttribute("ry",format(yRadius));;
+:fillMe(elt);;
+:elt.setAttribute("style",getStyle());;
+:addFilterShadowId(elt,deltaShadow);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x+xRadius+deltaShadow*2,y+
+yRadius+deltaShadow*2);;
+end
+start
+note right
+void svgArcEllipse(double rx,double ry,double x1,
+double y1,double x2,double y2)
+end note
+if (hidden==false) then (yes) 
+:final String path="M"+format(x1)+","+format(y1)+
+" A"+format(rx)+","+format(ry)+" 0 0 0 "+
+format(x2)+" "+format(y2);;
+:final Element elt=(Element )document.createElement("path");;
+:elt.setAttribute("d",path);;
+:fillMe(elt);;
+:elt.setAttribute("style",getStyle());;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x1,y1);;
+:ensureVisible(x2,y2);;
+end
+start
+note right
+String createSvgGradient(String color1,String color2,
+char policy)
+end note
+:final List<Object> key=Arrays.asList((Object )color1,
+color2,policy);;
+:String id=gradients.get(key);;
+if (id==null ) then (yes) 
+:final Element elt=(Element )document.createElement("linearGradient");;
+if (policy=='|') then (yes) 
+:elt.setAttribute("x1","0%");;
+:elt.setAttribute("y1","50%");;
+:elt.setAttribute("x2","100%");;
+:elt.setAttribute("y2","50%");;
+else if (policy=='\\') then (yes) 
+:elt.setAttribute("x1","0%");;
+:elt.setAttribute("y1","100%");;
+:elt.setAttribute("x2","100%");;
+:elt.setAttribute("y2","0%");;
+else if (policy=='-') then (yes) 
+:elt.setAttribute("x1","50%");;
+:elt.setAttribute("y1","0%");;
+:elt.setAttribute("x2","50%");;
+:elt.setAttribute("y2","100%");;
+else (no)
+:elt.setAttribute("x1","0%");;
+:elt.setAttribute("y1","0%");;
+:elt.setAttribute("x2","100%");;
+:elt.setAttribute("y2","100%");;
+endif 
+:id=gradientId+gradients.size();;
+:gradients.put(key,id);;
+:elt.setAttribute("id",id);;
+:final Element stop1=(Element )document.createElement("stop");;
+:stop1.setAttribute("stop-color",color1);;
+:stop1.setAttribute("offset","0%");;
+:final Element stop2=(Element )document.createElement("stop");;
+:stop2.setAttribute("stop-color",color2);;
+:stop2.setAttribute("offset","100%");;
+:elt.appendChild(stop1);;
+:elt.appendChild(stop2);;
+:defs.appendChild(elt);;
+endif 
+:return id;;
+stop
+end
+start
+note right
+void setFillColor(String fill)
+end note
+:this.fill=fixColor(fill);;
+end
+start
+note right
+void setStrokeColor(String stroke)
+end note
+:this.stroke=fixColor(stroke);;
+end
+start
+note right
+String fixColor(String color)
+end note
+:return color==null ||String.valueOf("#00000000")
+.equals(color)? String.valueOf("none"):color;;
+stop
+end
+start
+note right
+void setStrokeWidth(double strokeWidth,String strokeDasharray)
+end note
+:this.strokeWidth=""+(scale*strokeWidth);;
+:this.strokeDasharray=strokeDasharray;;
+end
+start
+note right
+Element getG()
+end note
+if (pendingAction.size()==0) then (yes) 
+:return gRoot;;
+stop
+endif 
+:return pendingAction.get(0);;
+stop
+end
+start
+note right
+void svgRectangle(double x,double y,double width,
+double height,double rx,double ry,double deltaShadow,
+String id,String codeLine)
+end note
+if (height<=0||width<=0) then (yes) 
+:return ;;
+stop
+endif 
+:manageShadow(deltaShadow);;
+if (hidden==false) then (yes) 
+:final Element elt=createRectangleInternal(x,
+y,width,height);;
+:addFilterShadowId(elt,deltaShadow);;
+if (rx>0&&ry>0) then (yes) 
+:elt.setAttribute("rx",format(rx));;
+:elt.setAttribute("ry",format(ry));;
+endif 
+if (id!=null ) then (yes) 
+:elt.setAttribute("id",id);;
+endif 
+if (codeLine!=null ) then (yes) 
+:elt.setAttribute("codeLine",codeLine);;
+endif 
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x+width+2*deltaShadow,y+height+
+2*deltaShadow);;
+end
+start
+note right
+Element createRectangleInternal(double x,
+double y,double width,double height)
+end note
+:final Element elt=(Element )document.createElement("rect");;
+:elt.setAttribute("x",format(x));;
+:elt.setAttribute("y",format(y));;
+:elt.setAttribute("width",format(width));;
+:elt.setAttribute("height",format(height));;
+:fillMe(elt);;
+:elt.setAttribute("style",getStyleSpecial());;
+:return elt;;
+stop
+end
+start
+note right
+void svgLine(double x1,double y1,double x2,
+double y2,double deltaShadow)
+end note
+:manageShadow(deltaShadow);;
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("line");;
+:elt.setAttribute("x1",format(x1));;
+:elt.setAttribute("y1",format(y1));;
+:elt.setAttribute("x2",format(x2));;
+:elt.setAttribute("y2",format(y2));;
+:elt.setAttribute("style",getStyle());;
+:addFilterShadowId(elt,deltaShadow);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x1+2*deltaShadow,y1+2*deltaShadow);;
+:ensureVisible(x2+2*deltaShadow,y2+2*deltaShadow);;
+end
+start
+note right
+String getStyle()
+end note
+:final StringBuilder style=new StringBuilder();;
+:style.append("stroke:"+stroke+";");;
+:style.append("stroke-width:"+strokeWidth+
+";");;
+if (fill.equals("#00000000")) then (yes) 
+:style.append("fill:none;");;
+endif 
+if (strokeDasharray!=null ) then (yes) 
+:style.append("stroke-dasharray:"+strokeDasharray+
+";");;
+endif 
+:return style.toString();;
+stop
+end
+start
+note right
+String getStyleSpecial()
+end note
+:final StringBuilder style=new StringBuilder();;
+:style.append("stroke:"+stroke+";");;
+:style.append("stroke-width:"+strokeWidth+
+";");;
+if (fill.equals("#00000000")) then (yes) 
+:style.append("fill:none;");;
+endif 
+if (strokeDasharray!=null ) then (yes) 
+:style.append("stroke-dasharray:"+strokeDasharray+
+";");;
+endif 
+:return style.toString();;
+stop
+end
+start
+note right
+void svgPolygon(double deltaShadow,double ... points)
+end note
+:assert points.length%2==0;;
+:manageShadow(deltaShadow);;
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("polygon");;
+:final StringBuilder sb=new StringBuilder();;
+if (sb.length()>0) then (yes) 
+:sb.append(",");;
+endif 
+:sb.append(format(coord));;
+:elt.setAttribute("points",sb.toString());;
+:fillMe(elt);;
+:elt.setAttribute("style",getStyleSpecial());;
+:addFilterShadowId(elt,deltaShadow);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(points[i]+2*deltaShadow,points[i+
+1]+2*deltaShadow);;
+end
+start
+note right
+void text(String text,double x,double y,String fontFamily,
+int fontSize,String fontWeight,String fontStyle,
+String textDecoration,double textLength,Map<String,
+String> attributes,String textBackColor)
+end note
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("text");;
+:elt.setAttribute("x",format(x));;
+:elt.setAttribute("y",format(y));;
+:fillMe(elt);;
+:elt.setAttribute("font-size",format(fontSize));;
+if (lengthAdjust==LengthAdjust.SPACING) then (yes) 
+:elt.setAttribute("lengthAdjust","spacing");;
+:elt.setAttribute("textLength",format(textLength));;
+else if (lengthAdjust==LengthAdjust.SPACING_AND_GLYPHS) then (yes) 
+:elt.setAttribute("lengthAdjust","spacingAndGlyphs");;
+:elt.setAttribute("textLength",format(textLength));;
+endif 
+if (fontWeight!=null ) then (yes) 
+:elt.setAttribute("font-weight",fontWeight);;
+endif 
+if (fontStyle!=null ) then (yes) 
+:elt.setAttribute("font-style",fontStyle);;
+endif 
+if (textDecoration!=null ) then (yes) 
+:elt.setAttribute("text-decoration",textDecoration);;
+endif 
+if (fontFamily!=null ) then (yes) 
+if (String.valueOf("monospaced").equalsIgnoreCase(fontFamily)) then (yes) 
+:fontFamily="monospace";;
+endif 
+:elt.setAttribute("font-family",fontFamily);;
+if (fontFamily.equalsIgnoreCase("monospace")||fontFamily.equalsIgnoreCase("courier")) then (yes) 
+:text=text.replace(' ',(char )160);;
+endif 
+endif 
+if (textBackColor!=null ) then (yes) 
+:final String backFilterId=getFilterBackColor(textBackColor);;
+:elt.setAttribute("filter","url(#"+backFilterId+
+")");;
+endif 
+:elt.setAttribute(ent.getKey(),ent.getValue());;
+:elt.setTextContent(text);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x,y);;
+:ensureVisible(x+textLength,y);;
+end
+start
+note right
+String getIdFilterBackColor(String color)
+end note
+:String result=filterBackColor.get(color);;
+if (result==null ) then (yes) 
+:result=filterUid+filterBackColor.size();;
+:filterBackColor.put(color,result);;
+endif 
+:return result;;
+stop
+end
+start
+note right
+String getFilterBackColor(String color)
+end note
+:String id=filterBackColor.get(color);;
+if (id!=null ) then (yes) 
+:return id;;
+stop
+endif 
+:id=getIdFilterBackColor(color);;
+:final Element filter=(Element )document.createElement("filter");;
+:filter.setAttribute("id",id);;
+:filter.setAttribute("x","0");;
+:filter.setAttribute("y","0");;
+:filter.setAttribute("width","1");;
+:filter.setAttribute("height","1");;
+:addFilter(filter,"feFlood","flood-color",
+color,"result","flood");;
+:addFilter(filter,"feComposite","in","SourceGraphic",
+"in2","flood","operator","over");;
+:defs.appendChild(filter);;
+:return id;;
+stop
+end
+start
+note right
+Transformer getTransformer()
+end note
+:final Transformer transformer=XmlFactories.newTransformer();;
+:Log.info("Transformer="+transformer.getClass());;
+:transformer.setOutputProperty(OutputKeys.STANDALONE,
+"no");;
+:return transformer;;
+stop
+end
+start
+note right
+void createXml(OutputStream os)
+end note
+if (images.size()==0) then (yes) 
+:createXmlInternal(os);;
+:return ;;
+stop
+endif 
+:final ByteArrayOutputStream baos=new ByteArrayOutputStream();;
+:createXmlInternal(baos);;
+:String s=new String(baos.toByteArray());;
+:final String k="<"+ent.getKey()+"/>";;
+:s=s.replace(k,ent.getValue());;
+:s=removeXmlHeader(s);;
+:os.write(s.getBytes());;
+end
+start
+note right
+String removeXmlHeader(String s)
+end note
+:s=s.replaceFirst("^<\\?xml [^<>]+?\\>","");;
+:return s;;
+stop
+end
+start
+note right
+void createXmlInternal(OutputStream os)
+end note
+:final DOMSource source=new DOMSource(document);;
+:final int maxXscaled=(int )(maxX*scale);;
+:final int maxYscaled=(int )(maxY*scale);;
+:String style="width:"+maxXscaled+"px;height:"+
+maxYscaled+"px;";;
+if (backcolor!=null &&String.valueOf("#00000000").equals(backcolor)==false) then (yes) 
+:style+="background:"+backcolor+";";;
+endif 
+if (svgDimensionStyle) then (yes) 
+:root.setAttribute("style",style);;
+:root.setAttribute("width",format(maxX)+"px");;
+:root.setAttribute("height",format(maxY)+
+"px");;
+endif 
+:root.setAttribute("viewBox","0 0 "+maxXscaled+
+" "+maxYscaled);;
+:root.setAttribute("zoomAndPan","magnify");;
+:root.setAttribute("preserveAspectRatio",
+preserveAspectRatio);;
+:root.setAttribute("contentStyleType","text/css");;
+if (pendingBackground!=null ) then (yes) 
+:pendingBackground.setAttribute("width",format(maxX));;
+:pendingBackground.setAttribute("height",
+format(maxY));;
+endif 
+:final StreamResult scrResult=new StreamResult(os);;
+:getTransformer().transform(source,scrResult);;
+end
+start
+note right
+void svgPath(double x,double y,UPath path,
+double deltaShadow)
+end note
+:manageShadow(deltaShadow);;
+:ensureVisible(x,y);;
+:final StringBuilder sb=new StringBuilder();;
+:final USegmentType type=seg.getSegmentType();;
+:final double coord[]=seg.getCoord();;
+if (type==USegmentType.SEG_MOVETO) then (yes) 
+:sb.append("M"+format(coord[0]+x)+","+format(coord[1]+
+y)+" ");;
+:ensureVisible(coord[0]+x+2*deltaShadow,coord[1]+
+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_LINETO) then (yes) 
+:sb.append("L"+format(coord[0]+x)+","+format(coord[1]+
+y)+" ");;
+:ensureVisible(coord[0]+x+2*deltaShadow,coord[1]+
+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_QUADTO) then (yes) 
+:sb.append("Q"+format(coord[0]+x)+","+format(coord[1]+
+y)+" "+format(coord[2]+x)+","+format(coord[3]+
+y)+" ");;
+:ensureVisible(coord[0]+x+2*deltaShadow,coord[1]+
+y+2*deltaShadow);;
+:ensureVisible(coord[2]+x+2*deltaShadow,coord[3]+
+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_CUBICTO) then (yes) 
+:sb.append("C"+format(coord[0]+x)+","+format(coord[1]+
+y)+" "+format(coord[2]+x)+","+format(coord[3]+
+y)+" "+format(coord[4]+x)+","+format(coord[5]+
+y)+" ");;
+:ensureVisible(coord[0]+x+2*deltaShadow,coord[1]+
+y+2*deltaShadow);;
+:ensureVisible(coord[2]+x+2*deltaShadow,coord[3]+
+y+2*deltaShadow);;
+:ensureVisible(coord[4]+x+2*deltaShadow,coord[5]+
+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_ARCTO) then (yes) 
+:sb.append("A"+format(coord[0])+","+format(coord[1])+
+" "+formatBoolean(coord[2])+" "+formatBoolean(coord[3])+
+" "+formatBoolean(coord[4])+" "+format(coord[5]+
+x)+","+format(coord[6]+y)+" ");;
+:ensureVisible(coord[5]+coord[0]+x+2*deltaShadow,coord[6]+
+coord[1]+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_CLOSE) then (yes) 
+else (no)
+:Log.println("unknown3 "+seg);;
+endif 
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("path");;
+:elt.setAttribute("d",sb.toString());;
+:elt.setAttribute("style",getStyle());;
+:fillMe(elt);;
+:final String id=path.getComment();;
+if (id!=null ) then (yes) 
+:elt.setAttribute("id",id);;
+endif 
+:final String codeLine=path.getCodeLine();;
+if (codeLine!=null ) then (yes) 
+:elt.setAttribute("codeLine",codeLine);;
+endif 
+:addFilterShadowId(elt,deltaShadow);;
+:getG().appendChild(elt);;
+endif 
+end
+start
+note right
+void fillMe(Element elt)
+end note
+if (fill.equals("#00000000")) then (yes) 
+:return ;;
+stop
+endif 
+if (fill.matches("#[0-9A-Fa-f]{8}")) then (yes) 
+:elt.setAttribute("fill",fill.substring(0,
+7));;
+:final double opacity=Integer.parseInt(fill.substring(7),
+16)/255.0;;
+:elt.setAttribute("fill-opacity",String.format(Locale.US,
+"%1.5f",opacity));;
+else (no)
+:elt.setAttribute("fill",fill);;
+endif 
+end
+start
+note right
+void addFilterShadowId(final Element elt,
+double deltaShadow)
+end note
+if (deltaShadow>0) then (yes) 
+:elt.setAttribute("filter","url(#"+shadowId+
+")");;
+endif 
+end
+start
+note right
+void newpath()
+end note
+:currentPath=new StringBuilder();;
+end
+start
+note right
+void moveto(double x,double y)
+end note
+:currentPath.append("M"+format(x)+","+format(y)+
+" ");;
+:ensureVisible(x,y);;
+end
+start
+note right
+void lineto(double x,double y)
+end note
+:currentPath.append("L"+format(x)+","+format(y)+
+" ");;
+:ensureVisible(x,y);;
+end
+start
+note right
+void closepath()
+end note
+:currentPath.append("Z ");;
+end
+start
+note right
+void curveto(double x1,double y1,double x2,
+double y2,double x3,double y3)
+end note
+:currentPath.append("C"+format(x1)+","+format(y1)+
+" "+format(x2)+","+format(y2)+" "+format(x3)+
+","+format(y3)+" ");;
+:ensureVisible(x1,y1);;
+:ensureVisible(x2,y2);;
+:ensureVisible(x3,y3);;
+end
+start
+note right
+void quadto(double x1,double y1,double x2,
+double y2)
+end note
+:currentPath.append("Q"+format(x1)+","+format(y1)+
+" "+format(x2)+","+format(y2)+" ");;
+:ensureVisible(x1,y1);;
+:ensureVisible(x2,y2);;
+end
+start
+note right
+String format(double x)
+end note
+:return TikzGraphics.format(x*scale);;
+stop
+end
+start
+note right
+String formatBoolean(double x)
+end note
+:return x==0? String.valueOf("0"):String.valueOf("1");;
+stop
+end
+start
+note right
+void fill(int windingRule)
+end note
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("path");;
+:elt.setAttribute("d",currentPath.toString());;
+:fillMe(elt);;
+:getG().appendChild(elt);;
+endif 
+:currentPath=null ;;
+end
+start
+note right
+void drawPathIterator(double x,double y,PathIterator path)
+end note
+:this.newpath();;
+:final double coord[]=new double[6];;
+while (path.isDone()==false)
+:final int code=path.currentSegment(coord);;
+if (code==PathIterator.SEG_MOVETO) then (yes) 
+:this.moveto(coord[0]+x,coord[1]+y);;
+else if (code==PathIterator.SEG_LINETO) then (yes) 
+:this.lineto(coord[0]+x,coord[1]+y);;
+else if (code==PathIterator.SEG_CLOSE) then (yes) 
+:this.closepath();;
+else if (code==PathIterator.SEG_CUBICTO) then (yes) 
+:this.curveto(coord[0]+x,coord[1]+y,coord[2]+
+x,coord[3]+y,coord[4]+x,coord[5]+y);;
+else if (code==PathIterator.SEG_QUADTO) then (yes) 
+:this.quadto(coord[0]+x,coord[1]+y,coord[2]+
+x,coord[3]+y);;
+else (no)
+:throw new UnsupportedOperationException("code="+
+code);;
+stop
+endif 
+:path.next();;
+endwhile
+:this.fill(path.getWindingRule());;
+end
+start
+note right
+void svgImage(BufferedImage image,double x,
+double y)
+end note
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("image");;
+:elt.setAttribute("width",format(image.getWidth()));;
+:elt.setAttribute("height",format(image.getHeight()));;
+:elt.setAttribute("x",format(x));;
+:elt.setAttribute("y",format(y));;
+:final String s=toBase64(image);;
+:elt.setAttribute("xlink:href","data:image/png;base64,
+"+s);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x,y);;
+:ensureVisible(x+image.getWidth(),y+image.getHeight());;
+end
+start
+note right
+void svgImageUnsecure(UImageSvg image,double x,
+double y)
+end note
+if (hidden==false) then (yes) 
+:String svg=manageScale(image);;
+:final String pos="<svg x=\""+format(x)+"\" y=\""+
+format(y)+"\">";;
+:svg=pos+svg.substring(5);;
+:final String key="imagesvginlined"+image.getMD5Hex()+
+images.size();;
+:final Element elt=(Element )document.createElement(key);;
+:getG().appendChild(elt);;
+:images.put(key,svg);;
+endif 
+:ensureVisible(x,y);;
+:ensureVisible(x+image.getData("width"),y+
+image.getData("height"));;
+end
+start
+note right
+void svgImage(UImageSvg image,double x,double y)
+end note
+if (SecurityUtils.getSecurityProfile()==SecurityProfile.UNSECURE) then (yes) 
+:svgImageUnsecure(image,x,y);;
+:return ;;
+stop
+endif 
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("image");;
+:elt.setAttribute("width",format(image.getWidth()));;
+:elt.setAttribute("height",format(image.getHeight()));;
+:elt.setAttribute("x",format(x));;
+:elt.setAttribute("y",format(y));;
+:String svg=manageScale(image);;
+:final String svgHeader;;
+if (image.containsXlink()) then (yes) 
+:svgHeader="<svg height=\""+(int )(image.getHeight()*scale)+
+"\" width=\""+(int )(image.getWidth()*scale)+
+"\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\" >";;
+else (no)
+:svgHeader="<svg height=\""+(int )(image.getHeight()*scale)+
+"\" width=\""+(int )(image.getWidth()*scale)+
+"\" xmlns=\"http://www.w3.org/2000/svg\" >";;
+endif 
+:svg=svgHeader+svg.substring(5);;
+:final String s=toBase64(svg);;
+:elt.setAttribute("xlink:href","data:image/svg+
+xml;base64,"+s);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x,y);;
+:ensureVisible(x+image.getData("width"),y+
+image.getData("height"));;
+end
+start
+note right
+String manageScale(UImageSvg svgImage)
+end note
+:final double svgScale=svgImage.getScale();;
+:String svg=svgImage.getSvg(false);;
+if (svgScale*scale==1) then (yes) 
+:return svg;;
+stop
+endif 
+:final String svg2=svg.replace('\n',' ').replace('\r',
+' ');;
+if (svg2.contains("<g ")==false&&svg2.contains("<g>")==false) then (yes) 
+:svg=svg.replaceFirst("\\<svg\\>","<svg><g>");;
+:svg=svg.replaceFirst("\\</svg\\>","</g></svg>");;
+endif 
+:final String factor=format(svgScale);;
+:final String s1="\\<g\\b";;
+:final String s2="<g transform=\"scale("+
+factor+","+factor+")\" ";;
+:svg=svg.replaceFirst(s1,s2);;
+:return svg;;
+stop
+end
+start
+note right
+String toBase64(BufferedImage image)
+end note
+:final ByteArrayOutputStream baos=new ByteArrayOutputStream();;
+:SImageIO.write(image,"png",baos);;
+:final byte data[]=baos.toByteArray();;
+:return new String(Base64Coder.encode(data));;
+stop
+end
+start
+note right
+String toBase64(String s)
+end note
+:final byte data[]=s.getBytes(Charset.forName("UTF8"));;
+:return new String(Base64Coder.encode(data));;
+stop
+end
+start
+note right
+void manageShadow(double deltaShadow)
+end note
+if (deltaShadow!=0) then (yes) 
+if (withShadow==false) then (yes) 
+:final Element filter=(Element )document.createElement("filter");;
+:filter.setAttribute("id",shadowId);;
+:filter.setAttribute("x","-1");;
+:filter.setAttribute("y","-1");;
+:filter.setAttribute("width","300%");;
+:filter.setAttribute("height","300%");;
+:addFilter(filter,"feGaussianBlur","result","blurOut","stdDeviation",""+
+(2*scale));;
+:addFilter(filter,"feColorMatrix","type",
+"matrix","in","blurOut","result","blurOut2",
+"values","0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0");;
+:addFilter(filter,"feOffset","result","blurOut3","in","blurOut2","dx",""+
+(4*scale),"dy",""+(4*scale));;
+:addFilter(filter,"feBlend","in","SourceGraphic",
+"in2","blurOut3","mode","normal");;
+:defs.appendChild(filter);;
+endif 
+:withShadow=true;;
+endif 
+end
+start
+note right
+void addFilter(Element filter,String name,
+String ... data)
+end note
+:assert data.length%2==0;;
+:final Element elt=(Element )document.createElement(name);;
+:elt.setAttribute(data[i],data[i+1]);;
+:filter.appendChild(elt);;
+end
+start
+note right
+void setHidden(boolean hidden)
+end note
+:this.hidden=hidden;;
+end
+start
+note right
+String getMD5Hex(String comment)
+end note
+:return SignatureUtils.getMD5Hex(comment);;
+stop
+end
+start
+note right
+void addComment(String comment)
+end note
+:final String signature=getMD5Hex(comment);;
+:comment="MD5=["+signature+"]\n"+comment;;
+:final Comment commentElement=document.createComment(comment);;
+:getG().appendChild(commentElement);;
+end
+start
+note right
+void addScriptTag(String url)
+end note
+:final Element script=document.createElement("script");;
+:script.setAttribute("type","text/javascript");;
+:script.setAttribute("xlink:href",url);;
+:root.appendChild(script);;
+end
+start
+note right
+void addScript(String scriptTextPath)
+end note
+:final Element script=document.createElement("script");;
+:final String scriptText=getData(scriptTextPath);;
+:final CDATASection cDATAScript=document.createCDATASection(scriptText);;
+:script.appendChild(cDATAScript);;
+:root.appendChild(script);;
+end
+start
+note right
+void addStyle(String cssStylePath)
+end note
+:final Element style=simpleElement("style");;
+:final String text=getData(cssStylePath);;
+:final CDATASection cdata=document.createCDATASection(text);;
+:style.setAttribute("type","text/css");;
+:style.appendChild(cdata);;
+:root.appendChild(style);;
+end
+start
+note right
+void openLink(String url,String title,String target)
+end note
+:Objects.requireNonNull(url);;
+if (SecurityUtils.ignoreThisLink(url)) then (yes) 
+:return ;;
+stop
+endif 
+:pendingAction.add(0,(Element )document.createElement("a"));;
+:pendingAction.get(0).setAttribute("target",
+target);;
+:pendingAction.get(0).setAttribute(XLINK_HREF1,
+url);;
+:pendingAction.get(0).setAttribute(XLINK_HREF2,
+url);;
+:pendingAction.get(0).setAttribute("xlink:type",
+"simple");;
+:pendingAction.get(0).setAttribute("xlink:actuate",
+"onRequest");;
+:pendingAction.get(0).setAttribute("xlink:show",
+"new");;
+if (title==null ) then (yes) 
+:pendingAction.get(0).setAttribute(XLINK_TITLE1,
+url);;
+:pendingAction.get(0).setAttribute(XLINK_TITLE2,
+url);;
+else (no)
+:title=formatTitle(title);;
+:pendingAction.get(0).setAttribute(XLINK_TITLE1,
+title);;
+:pendingAction.get(0).setAttribute(XLINK_TITLE2,
+title);;
+endif 
+end
+start
+note right
+String formatTitle(String title)
+end note
+:final Pattern p=Pattern.compile("\\<U\\+
+([0-9A-Fa-f]+)\\>");;
+:final Matcher m=p.matcher(title);;
+:final StringBuffer sb=new StringBuffer();;
+while (m.find())
+:final String num=m.group(1);;
+:final char c=(char )Integer.parseInt(num,
+16);;
+:m.appendReplacement(sb,""+c);;
+endwhile
+:m.appendTail(sb);;
+:title=sb.toString().replaceAll("\\\\n","\n");;
+:return title;;
+stop
+end
+start
+note right
+void closeLink()
+end note
+if (pendingAction.size()>0) then (yes) 
+:final Element element=pendingAction.get(0);;
+:pendingAction.remove(0);;
+if (element.getFirstChild()!=null ) then (yes) 
+:getG().appendChild(element);;
+endif 
+endif 
+end
+start
+note right
+void startGroup(Map<UGroupType,String> typeIdents)
+end note
+if (typeIdents.isEmpty()) then (yes) 
+:throw new IllegalArgumentException();;
+stop
+endif 
+:pendingAction.add(0,(Element )document.createElement("g"));;
+if (typeIdent.getKey()==UGroupType.ID) then (yes) 
+:pendingAction.get(0).setAttribute("id",typeIdent.getValue());;
+endif 
+if (interactive&&typeIdent.getKey()==UGroupType.CLASS) then (yes) 
+:pendingAction.get(0).setAttribute("class",
+typeIdent.getValue());;
+endif 
+end
+start
+note right
+void closeGroup()
+end note
+:closeLink();;
+end
+@enduml
+
+@startuml
+!pragma layout smetana
+start
+note right
+void ensureVisible(double x,double y)
+end note
+if (x>maxX) then (yes) 
+:maxX=(int )(x+1);;
+endif 
+if (y>maxY) then (yes) 
+:maxY=(int )(y+1);;
+endif 
+end
+start
+note right
+constructor SvgGraphics(String backcolor,
+boolean svgDimensionStyle,XDimension2D minDim,
+double scale,String hover,long seed,String preserveAspectRatio,
+LengthAdjust lengthAdjust,boolean interactive)
+end note
+switch (try/catch block)
+case (try)
+:this.lengthAdjust=lengthAdjust;;
+:this.svgDimensionStyle=svgDimensionStyle;;
+:this.scale=scale;;
+:this.document=getDocument();;
+:this.backcolor=backcolor;;
+:this.preserveAspectRatio=preserveAspectRatio;;
+:this.interactive=interactive;;
+:ensureVisible(minDim.getWidth(),minDim.getHeight());;
+:this.root=getRootNode();;
+:defs=simpleElement("defs");;
+:gRoot=simpleElement("g");;
+:strokeWidth=""+scale;;
+:this.filterUid="b"+getSeed(seed);;
+:this.shadowId="f"+getSeed(seed);;
+:this.gradientId="g"+getSeed(seed);;
+if (hover!=null ) then (yes) 
+:defs.appendChild(getPathHover(hover));;
+endif 
+if (interactive) then (yes) 
+:final Element styles=getStylesForInteractiveMode();;
+if (styles!=null ) then (yes) 
+:defs.appendChild(styles);;
+endif 
+:final Element script=getScriptForInteractiveMode();;
+if (script!=null ) then (yes) 
+:defs.appendChild(script);;
+endif 
+endif 
+case (catch (ParserConfigurationException e))
+:Logme.error(e);;
+:throw new IllegalStateException(e);;
+stop
+endswitch
+end
+start
+note right
+Element getStylesForInteractiveMode()
+end note
+:final Element style=simpleElement("style");;
+:final String text=getData("default.css");;
+if (text==null ) then (yes) 
+:return null ;;
+stop
+endif 
+:final CDATASection cdata=document.createCDATASection(text);;
+:style.setAttribute("type","text/css");;
+:style.appendChild(cdata);;
+:return style;;
+stop
+end
+start
+note right
+Element getScriptForInteractiveMode()
+end note
+:final Element script=document.createElement("script");;
+:final String text=getData("default.js");;
+if (text==null ) then (yes) 
+:return null ;;
+stop
+endif 
+:script.setTextContent(text);;
+:return script;;
+stop
+end
+start
+note right
+String getData(final String name)
+end note
+switch (try/catch block)
+case (try)
+:final InputStream is=SvgGraphics.class .getResourceAsStream("/svg/"+
+name);;
+:return FileUtils.readText(is);;
+stop
+case (catch (IOException e))
+:Logme.error(e);;
+:return null ;;
+stop
+endswitch
+end
+start
+note right
+Element getPathHover(String hover)
+end note
+:final Element style=simpleElement("style");;
+:final CDATASection cdata=document.createCDATASection("path:hover { stroke: "+
+hover+" !important;}");;
+:style.setAttribute("type","text/css");;
+:style.appendChild(cdata);;
+:return style;;
+stop
+end
+start
+note right
+String getSeed(final long seed)
+end note
+:return Long.toString(Math.abs(seed),36);;
+stop
+end
+start
+note right
+void paintBackcolorGradient(ColorMapper mapper,
+HColorGradient gr)
+end note
+:final String id=createSvgGradient(gr.getColor1().toRGB(mapper),
+gr.getColor2().toRGB(mapper),gr.getPolicy());;
+:setFillColor("url(#"+id+")");;
+:setStrokeColor(null );;
+:pendingBackground=createRectangleInternal(0,
+0,0,0);;
+:getG().appendChild(pendingBackground);;
+end
+start
+note right
+Element simpleElement(String type)
+end note
+:final Element theElement=(Element )document.createElement(type);;
+:root.appendChild(theElement);;
+:return theElement;;
+stop
+end
+start
+note right
+Document getDocument()
+end note
+:final DocumentBuilder builder=XmlFactories.newDocumentBuilder();;
+:final Document document=builder.newDocument();;
+:document.setXmlStandalone(true);;
+:return document;;
+stop
+end
+start
+note right
+Element getRootNode()
+end note
+:final Element svg=(Element )document.createElement("svg");;
+:document.appendChild(svg);;
+:svg.setAttribute("xmlns","http://www.w3.org/2000/svg");;
+:svg.setAttribute("xmlns:xlink","http://www.w3.org/1999/xlink");;
+:svg.setAttribute("version","1.1");;
+:return svg;;
+stop
+end
+start
+note right
+void svgEllipse(double x,double y,double xRadius,
+double yRadius,double deltaShadow)
+end note
+:manageShadow(deltaShadow);;
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("ellipse");;
+:elt.setAttribute("cx",format(x));;
+:elt.setAttribute("cy",format(y));;
+:elt.setAttribute("rx",format(xRadius));;
+:elt.setAttribute("ry",format(yRadius));;
+:fillMe(elt);;
+:elt.setAttribute("style",getStyle());;
+:addFilterShadowId(elt,deltaShadow);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x+xRadius+deltaShadow*2,y+
+yRadius+deltaShadow*2);;
+end
+start
+note right
+void svgArcEllipse(double rx,double ry,double x1,
+double y1,double x2,double y2)
+end note
+if (hidden==false) then (yes) 
+:final String path="M"+format(x1)+","+format(y1)+
+" A"+format(rx)+","+format(ry)+" 0 0 0 "+
+format(x2)+" "+format(y2);;
+:final Element elt=(Element )document.createElement("path");;
+:elt.setAttribute("d",path);;
+:fillMe(elt);;
+:elt.setAttribute("style",getStyle());;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x1,y1);;
+:ensureVisible(x2,y2);;
+end
+start
+note right
+String createSvgGradient(String color1,String color2,
+char policy)
+end note
+:final List<Object> key=Arrays.asList((Object )color1,
+color2,policy);;
+:String id=gradients.get(key);;
+if (id==null ) then (yes) 
+:final Element elt=(Element )document.createElement("linearGradient");;
+if (policy=='|') then (yes) 
+:elt.setAttribute("x1","0%");;
+:elt.setAttribute("y1","50%");;
+:elt.setAttribute("x2","100%");;
+:elt.setAttribute("y2","50%");;
+else if (policy=='\\') then (yes) 
+:elt.setAttribute("x1","0%");;
+:elt.setAttribute("y1","100%");;
+:elt.setAttribute("x2","100%");;
+:elt.setAttribute("y2","0%");;
+else if (policy=='-') then (yes) 
+:elt.setAttribute("x1","50%");;
+:elt.setAttribute("y1","0%");;
+:elt.setAttribute("x2","50%");;
+:elt.setAttribute("y2","100%");;
+else (no)
+:elt.setAttribute("x1","0%");;
+:elt.setAttribute("y1","0%");;
+:elt.setAttribute("x2","100%");;
+:elt.setAttribute("y2","100%");;
+endif 
+:id=gradientId+gradients.size();;
+:gradients.put(key,id);;
+:elt.setAttribute("id",id);;
+:final Element stop1=(Element )document.createElement("stop");;
+:stop1.setAttribute("stop-color",color1);;
+:stop1.setAttribute("offset","0%");;
+:final Element stop2=(Element )document.createElement("stop");;
+:stop2.setAttribute("stop-color",color2);;
+:stop2.setAttribute("offset","100%");;
+:elt.appendChild(stop1);;
+:elt.appendChild(stop2);;
+:defs.appendChild(elt);;
+endif 
+:return id;;
+stop
+end
+start
+note right
+void setFillColor(String fill)
+end note
+:this.fill=fixColor(fill);;
+end
+start
+note right
+void setStrokeColor(String stroke)
+end note
+:this.stroke=fixColor(stroke);;
+end
+start
+note right
+String fixColor(String color)
+end note
+:return color==null ||String.valueOf("#00000000")
+.equals(color)? String.valueOf("none"):color;;
+stop
+end
+start
+note right
+void setStrokeWidth(double strokeWidth,String strokeDasharray)
+end note
+:this.strokeWidth=""+(scale*strokeWidth);;
+:this.strokeDasharray=strokeDasharray;;
+end
+start
+note right
+Element getG()
+end note
+if (pendingAction.size()==0) then (yes) 
+:return gRoot;;
+stop
+endif 
+:return pendingAction.get(0);;
+stop
+end
+start
+note right
+void svgRectangle(double x,double y,double width,
+double height,double rx,double ry,double deltaShadow,
+String id,String codeLine)
+end note
+if (height<=0||width<=0) then (yes) 
+:return ;;
+stop
+endif 
+:manageShadow(deltaShadow);;
+if (hidden==false) then (yes) 
+:final Element elt=createRectangleInternal(x,
+y,width,height);;
+:addFilterShadowId(elt,deltaShadow);;
+if (rx>0&&ry>0) then (yes) 
+:elt.setAttribute("rx",format(rx));;
+:elt.setAttribute("ry",format(ry));;
+endif 
+if (id!=null ) then (yes) 
+:elt.setAttribute("id",id);;
+endif 
+if (codeLine!=null ) then (yes) 
+:elt.setAttribute("codeLine",codeLine);;
+endif 
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x+width+2*deltaShadow,y+height+
+2*deltaShadow);;
+end
+start
+note right
+Element createRectangleInternal(double x,
+double y,double width,double height)
+end note
+:final Element elt=(Element )document.createElement("rect");;
+:elt.setAttribute("x",format(x));;
+:elt.setAttribute("y",format(y));;
+:elt.setAttribute("width",format(width));;
+:elt.setAttribute("height",format(height));;
+:fillMe(elt);;
+:elt.setAttribute("style",getStyleSpecial());;
+:return elt;;
+stop
+end
+start
+note right
+void svgLine(double x1,double y1,double x2,
+double y2,double deltaShadow)
+end note
+:manageShadow(deltaShadow);;
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("line");;
+:elt.setAttribute("x1",format(x1));;
+:elt.setAttribute("y1",format(y1));;
+:elt.setAttribute("x2",format(x2));;
+:elt.setAttribute("y2",format(y2));;
+:elt.setAttribute("style",getStyle());;
+:addFilterShadowId(elt,deltaShadow);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x1+2*deltaShadow,y1+2*deltaShadow);;
+:ensureVisible(x2+2*deltaShadow,y2+2*deltaShadow);;
+end
+start
+note right
+String getStyle()
+end note
+:final StringBuilder style=new StringBuilder();;
+:style.append("stroke:"+stroke+";");;
+:style.append("stroke-width:"+strokeWidth+
+";");;
+if (fill.equals("#00000000")) then (yes) 
+:style.append("fill:none;");;
+endif 
+if (strokeDasharray!=null ) then (yes) 
+:style.append("stroke-dasharray:"+strokeDasharray+
+";");;
+endif 
+:return style.toString();;
+stop
+end
+start
+note right
+String getStyleSpecial()
+end note
+:final StringBuilder style=new StringBuilder();;
+:style.append("stroke:"+stroke+";");;
+:style.append("stroke-width:"+strokeWidth+
+";");;
+if (fill.equals("#00000000")) then (yes) 
+:style.append("fill:none;");;
+endif 
+if (strokeDasharray!=null ) then (yes) 
+:style.append("stroke-dasharray:"+strokeDasharray+
+";");;
+endif 
+:return style.toString();;
+stop
+end
+start
+note right
+void svgPolygon(double deltaShadow,double ... points)
+end note
+:assert points.length%2==0;;
+:manageShadow(deltaShadow);;
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("polygon");;
+:final StringBuilder sb=new StringBuilder();;
+if (sb.length()>0) then (yes) 
+:sb.append(",");;
+endif 
+:sb.append(format(coord));;
+:elt.setAttribute("points",sb.toString());;
+:fillMe(elt);;
+:elt.setAttribute("style",getStyleSpecial());;
+:addFilterShadowId(elt,deltaShadow);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(points[i]+2*deltaShadow,points[i+
+1]+2*deltaShadow);;
+end
+start
+note right
+void text(String text,double x,double y,String fontFamily,
+int fontSize,String fontWeight,String fontStyle,
+String textDecoration,double textLength,Map<String,
+String> attributes,String textBackColor)
+end note
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("text");;
+:elt.setAttribute("x",format(x));;
+:elt.setAttribute("y",format(y));;
+:fillMe(elt);;
+:elt.setAttribute("font-size",format(fontSize));;
+if (lengthAdjust==LengthAdjust.SPACING) then (yes) 
+:elt.setAttribute("lengthAdjust","spacing");;
+:elt.setAttribute("textLength",format(textLength));;
+else if (lengthAdjust==LengthAdjust.SPACING_AND_GLYPHS) then (yes) 
+:elt.setAttribute("lengthAdjust","spacingAndGlyphs");;
+:elt.setAttribute("textLength",format(textLength));;
+endif 
+if (fontWeight!=null ) then (yes) 
+:elt.setAttribute("font-weight",fontWeight);;
+endif 
+if (fontStyle!=null ) then (yes) 
+:elt.setAttribute("font-style",fontStyle);;
+endif 
+if (textDecoration!=null ) then (yes) 
+:elt.setAttribute("text-decoration",textDecoration);;
+endif 
+if (fontFamily!=null ) then (yes) 
+if (String.valueOf("monospaced").equalsIgnoreCase(fontFamily)) then (yes) 
+:fontFamily="monospace";;
+endif 
+:elt.setAttribute("font-family",fontFamily);;
+if (fontFamily.equalsIgnoreCase("monospace")||fontFamily.equalsIgnoreCase("courier")) then (yes) 
+:text=text.replace(' ',(char )160);;
+endif 
+endif 
+if (textBackColor!=null ) then (yes) 
+:final String backFilterId=getFilterBackColor(textBackColor);;
+:elt.setAttribute("filter","url(#"+backFilterId+
+")");;
+endif 
+:elt.setAttribute(ent.getKey(),ent.getValue());;
+:elt.setTextContent(text);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x,y);;
+:ensureVisible(x+textLength,y);;
+end
+start
+note right
+String getIdFilterBackColor(String color)
+end note
+:String result=filterBackColor.get(color);;
+if (result==null ) then (yes) 
+:result=filterUid+filterBackColor.size();;
+:filterBackColor.put(color,result);;
+endif 
+:return result;;
+stop
+end
+start
+note right
+String getFilterBackColor(String color)
+end note
+:String id=filterBackColor.get(color);;
+if (id!=null ) then (yes) 
+:return id;;
+stop
+endif 
+:id=getIdFilterBackColor(color);;
+:final Element filter=(Element )document.createElement("filter");;
+:filter.setAttribute("id",id);;
+:filter.setAttribute("x","0");;
+:filter.setAttribute("y","0");;
+:filter.setAttribute("width","1");;
+:filter.setAttribute("height","1");;
+:addFilter(filter,"feFlood","flood-color",
+color,"result","flood");;
+:addFilter(filter,"feComposite","in","SourceGraphic",
+"in2","flood","operator","over");;
+:defs.appendChild(filter);;
+:return id;;
+stop
+end
+start
+note right
+Transformer getTransformer()
+end note
+:final Transformer transformer=XmlFactories.newTransformer();;
+:Log.info("Transformer="+transformer.getClass());;
+:transformer.setOutputProperty(OutputKeys.STANDALONE,
+"no");;
+:return transformer;;
+stop
+end
+start
+note right
+void createXml(OutputStream os)
+end note
+if (images.size()==0) then (yes) 
+:createXmlInternal(os);;
+:return ;;
+stop
+endif 
+:final ByteArrayOutputStream baos=new ByteArrayOutputStream();;
+:createXmlInternal(baos);;
+:String s=new String(baos.toByteArray());;
+:final String k="<"+ent.getKey()+"/>";;
+:s=s.replace(k,ent.getValue());;
+:s=removeXmlHeader(s);;
+:os.write(s.getBytes());;
+end
+start
+note right
+String removeXmlHeader(String s)
+end note
+:s=s.replaceFirst("^<\\?xml [^<>]+?\\>","");;
+:return s;;
+stop
+end
+start
+note right
+void createXmlInternal(OutputStream os)
+end note
+:final DOMSource source=new DOMSource(document);;
+:final int maxXscaled=(int )(maxX*scale);;
+:final int maxYscaled=(int )(maxY*scale);;
+:String style="width:"+maxXscaled+"px;height:"+
+maxYscaled+"px;";;
+if (backcolor!=null &&String.valueOf("#00000000").equals(backcolor)==false) then (yes) 
+:style+="background:"+backcolor+";";;
+endif 
+if (svgDimensionStyle) then (yes) 
+:root.setAttribute("style",style);;
+:root.setAttribute("width",format(maxX)+"px");;
+:root.setAttribute("height",format(maxY)+
+"px");;
+endif 
+:root.setAttribute("viewBox","0 0 "+maxXscaled+
+" "+maxYscaled);;
+:root.setAttribute("zoomAndPan","magnify");;
+:root.setAttribute("preserveAspectRatio",
+preserveAspectRatio);;
+:root.setAttribute("contentStyleType","text/css");;
+if (pendingBackground!=null ) then (yes) 
+:pendingBackground.setAttribute("width",format(maxX));;
+:pendingBackground.setAttribute("height",
+format(maxY));;
+endif 
+:final StreamResult scrResult=new StreamResult(os);;
+:getTransformer().transform(source,scrResult);;
+end
+start
+note right
+void svgPath(double x,double y,UPath path,
+double deltaShadow)
+end note
+:manageShadow(deltaShadow);;
+:ensureVisible(x,y);;
+:final StringBuilder sb=new StringBuilder();;
+:final USegmentType type=seg.getSegmentType();;
+:final double coord[]=seg.getCoord();;
+if (type==USegmentType.SEG_MOVETO) then (yes) 
+:sb.append("M"+format(coord[0]+x)+","+format(coord[1]+
+y)+" ");;
+:ensureVisible(coord[0]+x+2*deltaShadow,coord[1]+
+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_LINETO) then (yes) 
+:sb.append("L"+format(coord[0]+x)+","+format(coord[1]+
+y)+" ");;
+:ensureVisible(coord[0]+x+2*deltaShadow,coord[1]+
+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_QUADTO) then (yes) 
+:sb.append("Q"+format(coord[0]+x)+","+format(coord[1]+
+y)+" "+format(coord[2]+x)+","+format(coord[3]+
+y)+" ");;
+:ensureVisible(coord[0]+x+2*deltaShadow,coord[1]+
+y+2*deltaShadow);;
+:ensureVisible(coord[2]+x+2*deltaShadow,coord[3]+
+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_CUBICTO) then (yes) 
+:sb.append("C"+format(coord[0]+x)+","+format(coord[1]+
+y)+" "+format(coord[2]+x)+","+format(coord[3]+
+y)+" "+format(coord[4]+x)+","+format(coord[5]+
+y)+" ");;
+:ensureVisible(coord[0]+x+2*deltaShadow,coord[1]+
+y+2*deltaShadow);;
+:ensureVisible(coord[2]+x+2*deltaShadow,coord[3]+
+y+2*deltaShadow);;
+:ensureVisible(coord[4]+x+2*deltaShadow,coord[5]+
+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_ARCTO) then (yes) 
+:sb.append("A"+format(coord[0])+","+format(coord[1])+
+" "+formatBoolean(coord[2])+" "+formatBoolean(coord[3])+
+" "+formatBoolean(coord[4])+" "+format(coord[5]+
+x)+","+format(coord[6]+y)+" ");;
+:ensureVisible(coord[5]+coord[0]+x+2*deltaShadow,coord[6]+
+coord[1]+y+2*deltaShadow);;
+else if (type==USegmentType.SEG_CLOSE) then (yes) 
+else (no)
+:Log.println("unknown3 "+seg);;
+endif 
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("path");;
+:elt.setAttribute("d",sb.toString());;
+:elt.setAttribute("style",getStyle());;
+:fillMe(elt);;
+:final String id=path.getComment();;
+if (id!=null ) then (yes) 
+:elt.setAttribute("id",id);;
+endif 
+:final String codeLine=path.getCodeLine();;
+if (codeLine!=null ) then (yes) 
+:elt.setAttribute("codeLine",codeLine);;
+endif 
+:addFilterShadowId(elt,deltaShadow);;
+:getG().appendChild(elt);;
+endif 
+end
+start
+note right
+void fillMe(Element elt)
+end note
+if (fill.equals("#00000000")) then (yes) 
+:return ;;
+stop
+endif 
+if (fill.matches("#[0-9A-Fa-f]{8}")) then (yes) 
+:elt.setAttribute("fill",fill.substring(0,
+7));;
+:final double opacity=Integer.parseInt(fill.substring(7),
+16)/255.0;;
+:elt.setAttribute("fill-opacity",String.format(Locale.US,
+"%1.5f",opacity));;
+else (no)
+:elt.setAttribute("fill",fill);;
+endif 
+end
+start
+note right
+void addFilterShadowId(final Element elt,
+double deltaShadow)
+end note
+if (deltaShadow>0) then (yes) 
+:elt.setAttribute("filter","url(#"+shadowId+
+")");;
+endif 
+end
+start
+note right
+void newpath()
+end note
+:currentPath=new StringBuilder();;
+end
+start
+note right
+void moveto(double x,double y)
+end note
+:currentPath.append("M"+format(x)+","+format(y)+
+" ");;
+:ensureVisible(x,y);;
+end
+start
+note right
+void lineto(double x,double y)
+end note
+:currentPath.append("L"+format(x)+","+format(y)+
+" ");;
+:ensureVisible(x,y);;
+end
+start
+note right
+void closepath()
+end note
+:currentPath.append("Z ");;
+end
+start
+note right
+void curveto(double x1,double y1,double x2,
+double y2,double x3,double y3)
+end note
+:currentPath.append("C"+format(x1)+","+format(y1)+
+" "+format(x2)+","+format(y2)+" "+format(x3)+
+","+format(y3)+" ");;
+:ensureVisible(x1,y1);;
+:ensureVisible(x2,y2);;
+:ensureVisible(x3,y3);;
+end
+start
+note right
+void quadto(double x1,double y1,double x2,
+double y2)
+end note
+:currentPath.append("Q"+format(x1)+","+format(y1)+
+" "+format(x2)+","+format(y2)+" ");;
+:ensureVisible(x1,y1);;
+:ensureVisible(x2,y2);;
+end
+start
+note right
+String format(double x)
+end note
+:return TikzGraphics.format(x*scale);;
+stop
+end
+start
+note right
+String formatBoolean(double x)
+end note
+:return x==0? String.valueOf("0"):String.valueOf("1");;
+stop
+end
+start
+note right
+void fill(int windingRule)
+end note
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("path");;
+:elt.setAttribute("d",currentPath.toString());;
+:fillMe(elt);;
+:getG().appendChild(elt);;
+endif 
+:currentPath=null ;;
+end
+start
+note right
+void drawPathIterator(double x,double y,PathIterator path)
+end note
+:this.newpath();;
+:final double coord[]=new double[6];;
+while (path.isDone()==false)
+:final int code=path.currentSegment(coord);;
+if (code==PathIterator.SEG_MOVETO) then (yes) 
+:this.moveto(coord[0]+x,coord[1]+y);;
+else if (code==PathIterator.SEG_LINETO) then (yes) 
+:this.lineto(coord[0]+x,coord[1]+y);;
+else if (code==PathIterator.SEG_CLOSE) then (yes) 
+:this.closepath();;
+else if (code==PathIterator.SEG_CUBICTO) then (yes) 
+:this.curveto(coord[0]+x,coord[1]+y,coord[2]+
+x,coord[3]+y,coord[4]+x,coord[5]+y);;
+else if (code==PathIterator.SEG_QUADTO) then (yes) 
+:this.quadto(coord[0]+x,coord[1]+y,coord[2]+
+x,coord[3]+y);;
+else (no)
+:throw new UnsupportedOperationException("code="+
+code);;
+stop
+endif 
+:path.next();;
+endwhile
+:this.fill(path.getWindingRule());;
+end
+start
+note right
+void svgImage(BufferedImage image,double x,
+double y)
+end note
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("image");;
+:elt.setAttribute("width",format(image.getWidth()));;
+:elt.setAttribute("height",format(image.getHeight()));;
+:elt.setAttribute("x",format(x));;
+:elt.setAttribute("y",format(y));;
+:final String s=toBase64(image);;
+:elt.setAttribute("xlink:href","data:image/png;base64,
+"+s);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x,y);;
+:ensureVisible(x+image.getWidth(),y+image.getHeight());;
+end
+start
+note right
+void svgImageUnsecure(UImageSvg image,double x,
+double y)
+end note
+if (hidden==false) then (yes) 
+:String svg=manageScale(image);;
+:final String pos="<svg x=\""+format(x)+"\" y=\""+
+format(y)+"\">";;
+:svg=pos+svg.substring(5);;
+:final String key="imagesvginlined"+image.getMD5Hex()+
+images.size();;
+:final Element elt=(Element )document.createElement(key);;
+:getG().appendChild(elt);;
+:images.put(key,svg);;
+endif 
+:ensureVisible(x,y);;
+:ensureVisible(x+image.getData("width"),y+
+image.getData("height"));;
+end
+start
+note right
+void svgImage(UImageSvg image,double x,double y)
+end note
+if (SecurityUtils.getSecurityProfile()==SecurityProfile.UNSECURE) then (yes) 
+:svgImageUnsecure(image,x,y);;
+:return ;;
+stop
+endif 
+if (hidden==false) then (yes) 
+:final Element elt=(Element )document.createElement("image");;
+:elt.setAttribute("width",format(image.getWidth()));;
+:elt.setAttribute("height",format(image.getHeight()));;
+:elt.setAttribute("x",format(x));;
+:elt.setAttribute("y",format(y));;
+:String svg=manageScale(image);;
+:final String svgHeader;;
+if (image.containsXlink()) then (yes) 
+:svgHeader="<svg height=\""+(int )(image.getHeight()*scale)+
+"\" width=\""+(int )(image.getWidth()*scale)+
+"\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" xmlns=\"http://www.w3.org/2000/svg\" >";;
+else (no)
+:svgHeader="<svg height=\""+(int )(image.getHeight()*scale)+
+"\" width=\""+(int )(image.getWidth()*scale)+
+"\" xmlns=\"http://www.w3.org/2000/svg\" >";;
+endif 
+:svg=svgHeader+svg.substring(5);;
+:final String s=toBase64(svg);;
+:elt.setAttribute("xlink:href","data:image/svg+
+xml;base64,"+s);;
+:getG().appendChild(elt);;
+endif 
+:ensureVisible(x,y);;
+:ensureVisible(x+image.getData("width"),y+
+image.getData("height"));;
+end
+start
+note right
+String manageScale(UImageSvg svgImage)
+end note
+:final double svgScale=svgImage.getScale();;
+:String svg=svgImage.getSvg(false);;
+if (svgScale*scale==1) then (yes) 
+:return svg;;
+stop
+endif 
+:final String svg2=svg.replace('\n',' ').replace('\r',
+if (svg2.contains("<g ")==false&&svg2.contains("<g>")==false) then (yes) 
+:svg=svg.replaceFirst("\\<svg\\>","<svg><g>");;
+:svg=svg.replaceFirst("\\</svg\\>","</g></svg>");;
+endif 
+:final String factor=format(svgScale);;
+:final String s1="\\<g\\b";;
+:final String s2="<g transform=\"scale("+
+factor+","+factor+")\" ";;
+:svg=svg.replaceFirst(s1,s2);;
+:return svg;;
+stop
+end
+start
+note right
+String toBase64(BufferedImage image)
+end note
+:final ByteArrayOutputStream baos=new ByteArrayOutputStream();;
+:SImageIO.write(image,"png",baos);;
+:final byte data[]=baos.toByteArray();;
+:return new String(Base64Coder.encode(data));;
+stop
+end
+start
+note right
+String toBase64(String s)
+end note
+:final byte data[]=s.getBytes(Charset.forName("UTF8"));;
+:return new String(Base64Coder.encode(data));;
+stop
+end
+start
+note right
+void manageShadow(double deltaShadow)
+end note
+if (deltaShadow!=0) then (yes) 
+if (withShadow==false) then (yes) 
+:final Element filter=(Element )document.createElement("filter");;
+:filter.setAttribute("id",shadowId);;
+:filter.setAttribute("x","-1");;
+:filter.setAttribute("y","-1");;
+:filter.setAttribute("width","300%");;
+:filter.setAttribute("height","300%");;
+:addFilter(filter,"feGaussianBlur","result","blurOut","stdDeviation",""+
+(2*scale));;
+:addFilter(filter,"feColorMatrix","type",
+"matrix","in","blurOut","result","blurOut2",
+"values","0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0");;
+:addFilter(filter,"feOffset","result","blurOut3","in","blurOut2","dx",""+
+(4*scale),"dy",""+(4*scale));;
+:addFilter(filter,"feBlend","in","SourceGraphic",
+"in2","blurOut3","mode","normal");;
+:defs.appendChild(filter);;
+endif 
+:withShadow=true;;
+endif 
+end
+start
+note right
+void addFilter(Element filter,String name,
+String ... data)
+end note
+:assert data.length%2==0;;
+:final Element elt=(Element )document.createElement(name);;
+:elt.setAttribute(data[i],data[i+1]);;
+:filter.appendChild(elt);;
+end
+start
+note right
+void setHidden(boolean hidden)
+end note
+:this.hidden=hidden;;
+end
+start
+note right
+String getMD5Hex(String comment)
+end note
+:return SignatureUtils.getMD5Hex(comment);;
+stop
+end
+start
+note right
+void addComment(String comment)
+end note
+:final String signature=getMD5Hex(comment);;
+:comment="MD5=["+signature+"]\n"+comment;;
+:final Comment commentElement=document.createComment(comment);;
+:getG().appendChild(commentElement);;
+end
+start
+note right
+void addScriptTag(String url)
+end note
+:final Element script=document.createElement("script");;
+:script.setAttribute("type","text/javascript");;
+:script.setAttribute("xlink:href",url);;
+:root.appendChild(script);;
+end
+start
+note right
+void addScript(String scriptTextPath)
+end note
+:final Element script=document.createElement("script");;
+:final String scriptText=getData(scriptTextPath);;
+:final CDATASection cDATAScript=document.createCDATASection(scriptText);;
+:script.appendChild(cDATAScript);;
+:root.appendChild(script);;
+end
+start
+note right
+void addStyle(String cssStylePath)
+end note
+:final Element style=simpleElement("style");;
+:final String text=getData(cssStylePath);;
+:final CDATASection cdata=document.createCDATASection(text);;
+:style.setAttribute("type","text/css");;
+:style.appendChild(cdata);;
+:root.appendChild(style);;
+end
+start
+note right
+void openLink(String url,String title,String target)
+end note
+:Objects.requireNonNull(url);;
+if (SecurityUtils.ignoreThisLink(url)) then (yes) 
+:return ;;
+stop
+endif 
+:pendingAction.add(0,(Element )document.createElement("a"));;
+:pendingAction.get(0).setAttribute("target",
+target);;
+:pendingAction.get(0).setAttribute(XLINK_HREF1,
+url);;
+:pendingAction.get(0).setAttribute(XLINK_HREF2,
+url);;
+:pendingAction.get(0).setAttribute("xlink:type",
+"simple");;
+:pendingAction.get(0).setAttribute("xlink:actuate",
+"onRequest");;
+:pendingAction.get(0).setAttribute("xlink:show",
+"new");;
+if (title==null ) then (yes) 
+:pendingAction.get(0).setAttribute(XLINK_TITLE1,
+url);;
+:pendingAction.get(0).setAttribute(XLINK_TITLE2,
+url);;
+else (no)
+:title=formatTitle(title);;
+:pendingAction.get(0).setAttribute(XLINK_TITLE1,
+title);;
+:pendingAction.get(0).setAttribute(XLINK_TITLE2,
+title);;
+endif 
+end
+start
+note right
+String formatTitle(String title)
+end note
+:final Pattern p=Pattern.compile("\\<U\\+
+([0-9A-Fa-f]+)\\>");;
+:final Matcher m=p.matcher(title);;
+:final StringBuffer sb=new StringBuffer();;
+while (m.find())
+:final String num=m.group(1);;
+:final char c=(char )Integer.parseInt(num,
+16);;
+:m.appendReplacement(sb,""+c);;
+endwhile
+:m.appendTail(sb);;
+:title=sb.toString().replaceAll("\\\\n","\n");;
+:return title;;
+stop
+end
+start
+note right
+void closeLink()
+end note
+if (pendingAction.size()>0) then (yes) 
+:final Element element=pendingAction.get(0);;
+:pendingAction.remove(0);;
+if (element.getFirstChild()!=null ) then (yes) 
+:getG().appendChild(element);;
+endif 
+endif 
+end
+start
+note right
+void startGroup(Map<UGroupType,String> typeIdents)
+end note
+if (typeIdents.isEmpty()) then (yes) 
+:throw new IllegalArgumentException();;
+stop
+endif 
+:pendingAction.add(0,(Element )document.createElement("g"));;
+if (typeIdent.getKey()==UGroupType.ID) then (yes) 
+:pendingAction.get(0).setAttribute("id",typeIdent.getValue());;
+endif 
+if (interactive&&typeIdent.getKey()==UGroupType.CLASS) then (yes) 
+:pendingAction.get(0).setAttribute("class",
+typeIdent.getValue());;
+endif 
+end
+start
+note right
+void closeGroup()
+end note
+:closeLink();;
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

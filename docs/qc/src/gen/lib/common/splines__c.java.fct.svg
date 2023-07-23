@@ -1,0 +1,1173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1276px" preserveAspectRatio="none" style="width:939px;height:1276px;background:#FFFFFF;" version="1.1" viewBox="0 0 939 1276" width="939px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="693" x="5" y="30.1074">Absolute honesty isn't always the most diplomatic nor the safest form of communication with emotional beings.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="280" x="5" y="58.0449">Diagram size: 1163 lines / 38230 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 334 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.Branch.updateFtile(Branch.java:130)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="555" x="13" y="630.7637">net.sourceforge.plantuml.activitydiagram3.InstructionIf.createFtile(InstructionIf.java:142)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="644.7324">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.Branch.updateFtile(Branch.java:130)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="672.6699">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="686.6387">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="700.6074">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="714.5762">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="728.5449">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="742.5137">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="756.4824">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="770.4512">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="784.4199">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="798.3887">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="812.3574">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="826.3262">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="840.2949">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="854.2637">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="868.2324">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="882.2012">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="896.1699">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="910.1387">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="924.1074">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="938.0762">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="952.0449">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="966.0137">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="979.9824">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="993.9512">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="1007.9199">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="1021.8887">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="1035.8574">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="1049.8262">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="1063.7949">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="1077.7637">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1091.7324">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1105.7012">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1119.6699">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1133.6387">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1147.6074">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1161.5762">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1175.5449">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1189.5137">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1203.4824">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1217.4512">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1231.4199">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1245.3887">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1259.3574">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1273.3262">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="20" width="19" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAUCAYAAABvVQZ0AAAAaUlEQVR4Xu2PywkAIQxE05L997AtRXBd0Ed+eHUfzGGSyYgiP9JUNx3BEqoMDz2l8CBTCMOZQpagPm3I83EZXuUxfVzIUFUmDFVlMpf8TuZZ8zKD3pHlw7IjmaxLK8wZ9xtcMEz/ze6jA/9BaSqaQt1qAAAAAElFTkSuQmCC" y="6"/><!--MD5=[566cff72804185f24e4e866ee6b2b264]
+@startuml
+!pragma layout smetana
+start
+note right
+void arrow_clip(ST_Agedge_s fe,ST_Agnode_s hn,
+CArray<ST_pointf> ps,int[] startp,int[] endp,
+ST_bezier spl,ST_splineInfo info)
+end note
+:ENTERING("6izm0fbkejw7odmiw4zaw1ycp","arrow_clip");;
+switch (try/catch block)
+case (try)
+:ST_Agedge_s e;;
+:int i;;
+:boolean j;;
+:int sflag[]=new int[]{0};;
+:int eflag[]=new int[]{0};;
+:;;
+if (info.ignoreSwap) then (yes) 
+:j=false;;
+else (no)
+:j=(Boolean )info.swapEnds.exe(e);;
+endif 
+:arrow_flags(e,sflag,eflag);;
+if ((Boolean )info.splineMerge.exe(hn)) then (yes) 
+:eflag[0]=0;;
+endif 
+if ((Boolean )info.splineMerge.exe(agtail(fe))) then (yes) 
+:sflag[0]=0;;
+endif 
+if (j) then (yes) 
+:i=sflag[0];;
+:sflag[0]=eflag[0];;
+:eflag[0]=i;;
+endif 
+if (info.isOrtho) then (yes) 
+:UNSUPPORTED("7a3lmojyfh13d6shkviuogx2c");;
+:UNSUPPORTED("dzbrwr2ulubtjkbd8j2o4yyov");;
+else (no)
+if (sflag[0]!=0) then (yes) 
+:startp[0]=arrowStartClip(e,ps,startp[0],
+endp[0],spl,sflag[0]);;
+endif 
+if (eflag[0]!=0) then (yes) 
+:endp[0]=arrowEndClip(e,ps,startp[0],endp[0],
+spl,eflag[0]);;
+endif 
+endif 
+endswitch
+end
+start
+note right
+void bezier_clip(__ptr__ inside_context,__ptr__ inside,
+CArray<ST_pointf> sp,boolean left_inside)
+end note
+:ENTERING("q4t1ywnk3wm1vyh5seoj7xye","bezier_clip");;
+switch (try/catch block)
+case (try)
+:final CArray<ST_pointf> seg=CArray.<ST_pointf >ALLOC__(4,
+ST_pointf.class );;
+:final CArray<ST_pointf> best=CArray.<ST_pointf >ALLOC__(4,
+ST_pointf.class );;
+:final ST_pointf pt=new ST_pointf(),opt=new ST_pointf();;
+:CArray<ST_pointf> left,right;;
+:double t;;
+:final double low[]=new double[]{0},high[]=new double[]{0};;
+:double idir[]=null ,odir[]=null ;;
+:boolean found;;
+:int i;;
+if (left_inside) then (yes) 
+:left=null ;;
+:right=seg;;
+:pt.___(sp.get__(0));;
+:idir=low;;
+:odir=high;;
+else (no)
+:left=seg;;
+:right=null ;;
+:pt.___(sp.get__(3));;
+:idir=high;;
+:odir=low;;
+endif 
+:found=false;;
+:low[0]=0.0;;
+:high[0]=1.0;;
+repeat
+:opt.___(pt);;
+:t=(high[0]+low[0])/2.0;;
+:pt.___(Bezier(sp,3,t,left,right));;
+if ((Boolean )((CFunction )inside).exe(inside_context,pt)) then (yes) 
+:idir[0]=t;;
+else (no)
+:best.get__(i).___(seg.get__(i));;
+:found=true;;
+:odir[0]=t;;
+endif 
+repeat while (ABS(opt.x-pt.x)>.5||ABS(opt.y-pt.y)>.5)
+if (found) then (yes) 
+:sp.get__(i).___(best.get__(i));;
+else (no)
+:sp.get__(i).___(seg.get__(i));;
+endif 
+endswitch
+end
+start
+note right
+void shape_clip0(__ptr__ inside_context,ST_Agnode_s n,
+CArray<ST_pointf> curve,boolean left_inside)
+end note
+:ENTERING("1fjkj1ydhtlf13pqj5r041orq","shape_clip0");;
+switch (try/catch block)
+case (try)
+:int i;;
+:double save_real_size;;
+:final CArray<ST_pointf> c=CArray.<ST_pointf >ALLOC__(4,
+ST_pointf.class );;
+:save_real_size=ND_rw(n);;
+:c.get__(i).x=curve.get__(i).x-ND_coord(n).x;;
+:c.get__(i).y=curve.get__(i).y-ND_coord(n).y;;
+:bezier_clip(inside_context,ND_shape(n).fns.insidefn,
+c,left_inside);;
+:curve.get__(i).x=c.get__(i).x+ND_coord(n).x;;
+:curve.get__(i).y=c.get__(i).y+ND_coord(n).y;;
+:ND_rw(n,save_real_size);;
+endswitch
+end
+start
+note right
+ST_bezier new_spline(ST_Agedge_s e,int sz)
+end note
+:ENTERING("bdirexg1qdtophlh0ofjvsmj7","new_spline");;
+switch (try/catch block)
+case (try)
+:ST_bezier rv;;
+while (ED_edge_type(e)!=0)
+:e=ED_to_orig(e);;
+endwhile
+if (ED_spl(e)==null ) then (yes) 
+:ED_spl(e,new ST_splines());;
+endif 
+:ED_spl(e).list=CArray.<ST_bezier >REALLOC__(ED_spl(e).size+
+1,ED_spl(e).list,ST_bezier.class );;
+:rv=ED_spl(e).list.get__(ED_spl(e).size++);;
+:rv.list=CArray.<ST_pointf >ALLOC__(sz,ST_pointf.class );;
+:rv.size=sz;;
+:rv.sflag=0;;
+:rv.eflag=0;;
+:rv.sp.x=0;;
+:rv.sp.y=0;;
+:rv.ep.x=0;;
+:rv.ep.y=0;;
+:return rv;;
+stop
+endswitch
+end
+start
+note right
+void clip_and_install(ST_Agedge_s fe,ST_Agnode_s hn,
+CArray<ST_pointf> ps,int pn,ST_splineInfo info)
+end note
+:ENTERING("duednxyuvf6xrff752uuv620f","clip_and_install");;
+switch (try/catch block)
+case (try)
+:final ST_pointf p2=new ST_pointf();;
+:ST_bezier newspl;;
+:ST_Agnode_s tn;;
+:int start[]=new int[]{0};;
+:int end[]=new int[]{0};;
+:int i;;
+:boolean clipTail=false,clipHead=false;;
+:ST_Agraph_s g;;
+:ST_Agedge_s orig;;
+:ST_boxf tbox=null ,hbox=null ;;
+:final ST_inside_t inside_context=new ST_inside_t();;
+:tn=agtail(fe);;
+:g=agraphof(tn);;
+:newspl=new_spline(fe,pn);;
+:;;
+if (N(info.ignoreSwap)&&(ND_rank(tn)==ND_rank(hn))&&(ND_order(tn)>ND_order(hn))) then (yes) 
+:ST_Agnode_s tmp;;
+:tmp=hn;;
+:hn=tn;;
+:tn=tmp;;
+endif 
+if (EQ(tn,agtail(orig))) then (yes) 
+:clipTail=ED_tail_port(orig).clip;;
+:clipHead=ED_head_port(orig).clip;;
+:tbox=ED_tail_port(orig).bp;;
+:hbox=ED_head_port(orig).bp;;
+else (no)
+:clipTail=ED_head_port(orig).clip;;
+:clipHead=ED_tail_port(orig).clip;;
+:hbox=ED_tail_port(orig).bp;;
+:tbox=ED_head_port(orig).bp;;
+endif 
+if (clipTail&&ND_shape(tn)!=null &&ND_shape(tn).fns.insidefn!=null ) then (yes) 
+:inside_context.s_n=tn;;
+:inside_context.s_bp=tbox;;
+:p2.x=ps.get__(start[0]+3).x-ND_coord(tn).x;;
+:p2.y=ps.get__(start[0]+3).y-ND_coord(tn).y;;
+if (((Boolean )ND_shape(tn).fns.insidefn.exe(inside_context,p2))==false) then (yes) 
+:break ;;
+endif 
+:shape_clip0(inside_context,tn,ps.plus_(start[0]),
+true);;
+else (no)
+:start[0]=0;;
+endif 
+if (clipHead&&ND_shape(hn)!=null &&ND_shape(hn).fns.insidefn!=null ) then (yes) 
+:inside_context.s_n=hn;;
+:inside_context.s_bp=hbox;;
+:p2.x=ps.get__(end[0]).x-ND_coord(hn).x;;
+:p2.y=ps.get__(end[0]).y-ND_coord(hn).y;;
+if (((Boolean )ND_shape(hn).fns.insidefn.exe(inside_context,p2))==false) then (yes) 
+:break ;;
+endif 
+:shape_clip0(inside_context,hn,ps.plus_(end[0]),
+false);;
+else (no)
+:end[0]=pn-4;;
+endif 
+if (N(APPROXEQPT(ps.get__(start[0]),ps.get__(start[0]+3),MILLIPOINT))) then (yes) 
+:break ;;
+endif 
+if (N(APPROXEQPT(ps.get__(end[0]),ps.get__(end[0]+3),MILLIPOINT))) then (yes) 
+:break ;;
+endif 
+:arrow_clip(fe,hn,ps,start,end,newspl,info);;
+:final CArray<ST_pointf> cp=CArray.<ST_pointf >ALLOC__(4,
+ST_pointf.class );;
+:newspl.list.get__(i-start[0]).___(ps.get__(i));;
+:cp.get__(0).___(ps.get__(i));;
+:i++;;
+if (i>=end[0]+4) then (yes) 
+:break ;;
+endif 
+:newspl.list.get__(i-start[0]).___(ps.get__(i));;
+:cp.get__(1).___(ps.get__(i));;
+:i++;;
+:newspl.list.get__(i-start[0]).___(ps.get__(i));;
+:cp.get__(2).___(ps.get__(i));;
+:i++;;
+:cp.get__(3).___(ps.get__(i));;
+:update_bb_bz(GD_bb(g),cp);;
+:newspl.size=end[0]-start[0]+4;;
+endswitch
+end
+start
+note right
+double conc_slope(ST_Agnode_s n)
+end note
+:ENTERING("25ndy15kghfrogsv0b0o0xkgv","conc_slope");;
+switch (try/catch block)
+case (try)
+:UNSUPPORTED("e388y3vtrp8f6spgh9q4wx37w");;
+:UNSUPPORTED("4yxpid2dxvb387487trn1umlw");;
+:UNSUPPORTED("erg9i1970wdri39osu8hx2a6e");;
+:UNSUPPORTED("9669xuley9dxylr00ex9kbzg7");;
+:UNSUPPORTED("wfd0ht8utdwwqctf47l4dtrz");;
+:UNSUPPORTED("2bghyit203pd6xw2ihhenzyn8");;
+:UNSUPPORTED("5gypxs09iuryx5a2eho9lgdcp");;
+:UNSUPPORTED("apjf2mf9d7qj0eo9o2x5yli2e");;
+:UNSUPPORTED("7mc6shwmvz25mz9inwj97lqk6");;
+:UNSUPPORTED("cb1h5cx7oxhtdkm5l0k6qrx2z");;
+:UNSUPPORTED("hjfqfqmtdqdrp9z80ebrpthm");;
+:UNSUPPORTED("2iidrr9ljv8ap9s2g6gj3q1o3");;
+:UNSUPPORTED("2yeio9xc9oorju7qqnhilwujx");;
+:UNSUPPORTED("87jzl9isj7w9kgyr05inw33s5");;
+:UNSUPPORTED("6y2pc9af2xxdqajbpykvca9eg");;
+:UNSUPPORTED("ruwz5svpk33ucfgs4wx0xolm");;
+:UNSUPPORTED("8vif8c37lbo7ww4vwfrcxgpmr");;
+:UNSUPPORTED("ez8z3gbteryfhktbqkwmzhhzs");;
+:UNSUPPORTED("ej1ftaglexa47x955elb88yh2");;
+:UNSUPPORTED("c24nfmv9i7o5eoqaymbibp7m7");;
+:throw new UnsupportedOperationException();;
+stop
+endswitch
+end
+start
+note right
+void add_box(ST_path P,final ST_boxf b)
+end note
+:add_box_w_(P,b.copy());;
+end
+start
+note right
+void add_box_w_(ST_path P,final ST_boxf b)
+end note
+:ENTERING("egq4f4tmy1dhyj6jpj92r7xhu","add_box");;
+switch (try/catch block)
+case (try)
+if (b.LL.x<b.UR.x&&b.LL.y<b.UR.y) then (yes) 
+:P.boxes[P.nbox].___(b);;
+:P.nbox=P.nbox+1;;
+endif 
+endswitch
+end
+start
+note right
+void beginpath(ST_path P,ST_Agedge_s e,int et,
+final ST_pathend_t endp,boolean merge)
+end note
+:ENTERING("7pc43ifcw5g56449d101qf590","beginpath");;
+switch (try/catch block)
+case (try)
+:int side,mask;;
+:ST_Agnode_s n;;
+:CFunction pboxfn;;
+:n=agtail(e);;
+if (ED_tail_port(e).dyna) then (yes) 
+:ED_tail_port(e,resolvePort(agtail(e),aghead(e),
+ED_tail_port(e)));;
+endif 
+if (ND_shape(n)!=null ) then (yes) 
+:pboxfn=(CFunction )ND_shape(n).fns.pboxfn;;
+else (no)
+:pboxfn=null ;;
+endif 
+:P.start.p.___(add_pointf(ND_coord(n),ED_tail_port(e)
+.p));;
+if (merge) then (yes) 
+:P.start.theta=(conc_slope(agtail(e)));;
+:P.start.constrained=true;;
+else (no)
+if (ED_tail_port(e).constrained) then (yes) 
+:P.start.theta=ED_tail_port(e).theta;;
+:P.start.constrained=true;;
+else (no)
+:P.start.constrained=false;;
+endif 
+endif 
+:P.nbox=0;;
+:P.data=e;;
+:endp.np.___(P.start.p);;
+if ((et==REGULAREDGE)&&(ND_node_type(n)==NORMAL)&&((side=ED_tail_port(e).side)!=0)) then (yes) 
+:ST_Agedge_s orig;;
+:final ST_boxf b0=new ST_boxf(),b=endp.nb.copy();;
+if ((side&TOP)!=0) then (yes) 
+:UNSUPPORTED("1r4lctdj9z1ivlz3uqpcj1yzf");;
+:UNSUPPORTED("arq09sf82lsjuxwfkesprcrcv");;
+:UNSUPPORTED("bj4z8gwgs6j5fax8k6l3u6mv3");;
+:UNSUPPORTED("54rmdm0xwy361tjs4aj6cv401");;
+:UNSUPPORTED("11ax5pxz4q2uh0nzsrs1qs7ck");;
+:UNSUPPORTED("5xsapgq04e1hslq2835500q6k");;
+:UNSUPPORTED("9ro8mx52kgsoogvlgfubgn4p0");;
+:UNSUPPORTED("6p2nw1nh0qwn5ro3dltmd6w6c");;
+:UNSUPPORTED("czvxm3loj0won7ye2b3xrfbv4");;
+:UNSUPPORTED("1f4u492auf4ku7ik170e86iy3");;
+:UNSUPPORTED("w9wsmby4dawn9npux1jrd9gl");;
+:UNSUPPORTED("2f8usay82b128dq0sk4aqzw3h");;
+:UNSUPPORTED("2diqdwueoy5oizl5kmbz6uyi8");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6q044im7742qhglc4553noina");;
+:UNSUPPORTED("7sk0msbospwpwupzwpu8v87qt");;
+:UNSUPPORTED("11ax5pxz4q2uh0nzsrs1qs7ck");;
+:UNSUPPORTED("54rmdm0xwy361tjs4aj6cv401");;
+:UNSUPPORTED("4e5ydpfmxn1wuhnp78arn3f9x");;
+:UNSUPPORTED("9ro8mx52kgsoogvlgfubgn4p0");;
+:UNSUPPORTED("3f26r03ydc7aq52vcqpgxawgy");;
+:UNSUPPORTED("czvxm3loj0won7ye2b3xrfbv4");;
+:UNSUPPORTED("1f4u492auf4ku7ik170e86iy3");;
+:UNSUPPORTED("bqk56pohk8hpgn91lv4m2zkv0");;
+:UNSUPPORTED("2f8usay82b128dq0sk4aqzw3h");;
+:UNSUPPORTED("2diqdwueoy5oizl5kmbz6uyi8");;
+:UNSUPPORTED("196ta4n5nsqizd83y6oo7z8a2");;
+:UNSUPPORTED("b7lioq6g7moe5otds46c8hrc");;
+:UNSUPPORTED("4v7mmisc358r5tpq14qp4dx0f");;
+else if ((side&BOTTOM)!=0) then (yes) 
+:endp.sidemask=BOTTOM;;
+:b.UR.y=MAX(b.UR.y,P.start.p.y);;
+:endp.boxes[0].___(b);;
+:endp.boxn[0]=1;;
+:P.start.p.y-=1;;
+else if ((side&LEFT)!=0) then (yes) 
+:endp.sidemask=LEFT;;
+:b.UR.x=P.start.p.x;;
+:b.LL.y=ND_coord(n).y-HT2(n);;
+:b.UR.y=P.start.p.y;;
+:endp.boxes[0].___(b);;
+:endp.boxn[0]=1;;
+:P.start.p.x-=1;;
+else (no)
+:endp.sidemask=RIGHT;;
+:b.LL.x=P.start.p.x;;
+:b.LL.y=ND_coord(n).y-HT2(n);;
+:b.UR.y=P.start.p.y;;
+:endp.boxes[0].___(b);;
+:endp.boxn[0]=1;;
+:P.start.p.x+=1;;
+endif 
+:;;
+if (EQ(n,agtail(orig))) then (yes) 
+:ED_tail_port(orig).clip=false;;
+else (no)
+:UNSUPPORTED("2tw6ymudedo6qij3ux424ydsi");;
+endif 
+:return ;;
+stop
+endif 
+if ((et==FLATEDGE)&&((side=ED_tail_port(e).side)!=0)) then (yes) 
+:UNSUPPORTED("ew7nyfe712nsiphifeztwxfop");;
+:UNSUPPORTED("a7lrhlfwr0y475aqjk6abhb3b");;
+:UNSUPPORTED("ait3wtnnvt134z2k87lvhq4ek");;
+:UNSUPPORTED("d7fd91oymbo1kkxfqhtbe2jky");;
+:UNSUPPORTED("esv3oinoscr6zht0kce49o450");;
+:UNSUPPORTED("3hptqfzzuz4dlsc8ejk1ynxt9");;
+:UNSUPPORTED("b7lioq6g7moe5otds46c8hrc");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+:UNSUPPORTED("3s4re3z7asydnnotdylt94t1d");;
+:UNSUPPORTED("6h0f9z7wklonn021j8ijd3b8m");;
+:UNSUPPORTED("7vjialx9rln6cj2y0ni5nc2gi");;
+:UNSUPPORTED("4e5ydpfmxn1wuhnp78arn3f9x");;
+:UNSUPPORTED("1zpea73m3d4hdldoc5sypz1ag");;
+:UNSUPPORTED("esamvv08qn005uqko6caft2u");;
+:UNSUPPORTED("3f26r03ydc7aq52vcqpgxawgy");;
+:UNSUPPORTED("74mnpbjmyubjppjur4ngy4t5u");;
+:UNSUPPORTED("a6wnwn2mc878a2wacqkmdefx7");;
+:UNSUPPORTED("bqk56pohk8hpgn91lv4m2zkv0");;
+:UNSUPPORTED("2f8usay82b128dq0sk4aqzw3h");;
+:UNSUPPORTED("2diqdwueoy5oizl5kmbz6uyi8");;
+:UNSUPPORTED("93chrd1duv0atudbvr439u7t4");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6q044im7742qhglc4553noina");;
+:UNSUPPORTED("8yftboq798vpnzuxkx6yuea18");;
+:UNSUPPORTED("at4jfrag6jtwm7rxu8p4p8d46");;
+:UNSUPPORTED("ev1muhahxwb1cntbhsb3c9aid");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("8pyl2559euuaxrntsyzj1ve8w");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+:UNSUPPORTED("bn3pwhefgp4zdatx3g60lj0ou");;
+:UNSUPPORTED("bihp3ojpe2nsmh297nosihedn");;
+:UNSUPPORTED("6h0f9z7wklonn021j8ijd3b8m");;
+:UNSUPPORTED("a6wnwn2mc878a2wacqkmdefx7");;
+:UNSUPPORTED("afqhibyplfg1fftlkny8jq78t");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6q044im7742qhglc4553noina");;
+:UNSUPPORTED("1f4u492auf4ku7ik170e86iy3");;
+:UNSUPPORTED("4no3qn8v4vx6rk2in60hgr8w6");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("esv3oinoscr6zht0kce49o450");;
+:UNSUPPORTED("3hptqfzzuz4dlsc8ejk1ynxt9");;
+:UNSUPPORTED("celmm9njwdxhpvd56zon98hrr");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+:UNSUPPORTED("8k75h069sv2k9b6tgz77dscwd");;
+:UNSUPPORTED("cysdxceleujmu3rckrhibxaqd");;
+:UNSUPPORTED("6h0f9z7wklonn021j8ijd3b8m");;
+:UNSUPPORTED("a6wnwn2mc878a2wacqkmdefx7");;
+:UNSUPPORTED("5oh26jb6vz012qke7865hz5h7");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6q044im7742qhglc4553noina");;
+:UNSUPPORTED("1f4u492auf4ku7ik170e86iy3");;
+:UNSUPPORTED("4no3qn8v4vx6rk2in60hgr8w6");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("esv3oinoscr6zht0kce49o450");;
+:UNSUPPORTED("3hptqfzzuz4dlsc8ejk1ynxt9");;
+:UNSUPPORTED("1n8o29xgguq4cce4rf04o5rke");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+:UNSUPPORTED("4gatpb3u0rq9nikm6rjtejp85");;
+:UNSUPPORTED("askl6l2rq6b2bznfxj7ydvz5t");;
+:UNSUPPORTED("dk49xvmby8949ngdmft4sgrox");;
+:UNSUPPORTED("9352ql3e58qs4fzapgjfrms2s");;
+:UNSUPPORTED("2tw6ymudedo6qij3ux424ydsi");;
+:UNSUPPORTED("8jqn3kj2hrrlcifbw3x9sf6qu");;
+:UNSUPPORTED("a7fgam0j0jm7bar0mblsv3no4");;
+endif 
+if (et==REGULAREDGE) then (yes) 
+:side=BOTTOM;;
+else (no)
+:side=endp.sidemask;;
+endif 
+if (pboxfn!=null &&(mask=(Integer )pboxfn.exe(n,ED_tail_port(e),side,endp.boxes[0],endp.boxn))!=0) then (yes) 
+:endp.sidemask=mask;;
+else (no)
+:endp.boxes[0].___(endp.nb);;
+:endp.boxn[0]=1;;
+switch (switch et)
+endswitch
+endif 
+endswitch
+end
+start
+note right
+double HT2(ST_Agnode_s n)
+end note
+:return ND_ht(n)/2;;
+stop
+end
+start
+note right
+void endpath(ST_path P,ST_Agedge_s e,int et,
+final ST_pathend_t endp,boolean merge)
+end note
+:ENTERING("79dr5om55xs3n5lgai1sf58vu","endpath");;
+switch (try/catch block)
+case (try)
+:int side,mask;;
+:ST_Agnode_s n;;
+:CFunction pboxfn;;
+:n=aghead(e);;
+if (ED_head_port(e).dyna) then (yes) 
+:ED_head_port(e,resolvePort(aghead(e),agtail(e),
+ED_head_port(e)));;
+endif 
+if (ND_shape(n)!=null ) then (yes) 
+:pboxfn=(CFunction )ND_shape(n).fns.pboxfn;;
+else (no)
+:pboxfn=null ;;
+endif 
+:P.end.p.___(add_pointf(ND_coord(n),ED_head_port(e)
+.p));;
+if (merge) then (yes) 
+:UNSUPPORTED("cproejwusj67kuugolh6tbkwz");;
+:UNSUPPORTED("65vhfvz1d1tub3f85tdsgg2g5");;
+:UNSUPPORTED("du4hwt6pjf3bmkvowssm7b0uo");;
+:UNSUPPORTED("2w0c22i5xgcch77xd9jg104nw");;
+else (no)
+if (ED_head_port(e).constrained) then (yes) 
+:P.end.theta=ED_head_port(e).theta;;
+:P.end.constrained=true;;
+else (no)
+:P.end.constrained=false;;
+endif 
+endif 
+:endp.np.___(P.end.p);;
+if ((et==REGULAREDGE)&&(ND_node_type(n)==NORMAL)&&((side=ED_head_port(e).side)!=0)) then (yes) 
+:ST_Agedge_s orig;;
+:final ST_boxf b0=new ST_boxf(),b=endp.nb.copy();;
+if ((side&TOP)!=0) then (yes) 
+:endp.sidemask=TOP;;
+:b.LL.y=MIN(b.LL.y,P.end.p.y);;
+:endp.boxes[0].___(b);;
+:endp.boxn[0]=1;;
+:P.end.p.y+=1;;
+else if ((side&BOTTOM)!=0) then (yes) 
+:UNSUPPORTED("auefgwb39x5hzqqc9b1zgl239");;
+:UNSUPPORTED("4tlqpclu7x0szo1rszndqau0d");;
+:UNSUPPORTED("80ypgtfgfrgq8j7whkaueouh5");;
+:UNSUPPORTED("4ikkdf5k4ubwp4ou51rth0q41");;
+:UNSUPPORTED("baysgwgvs09ywaufn74gq6m0a");;
+:UNSUPPORTED("5xsapgq04e1hslq2835500q6k");;
+:UNSUPPORTED("7ut9yqcephghob5a3yo8af293");;
+:UNSUPPORTED("6p2nw1nh0qwn5ro3dltmd6w6c");;
+:UNSUPPORTED("74mnpbjmyubjppjur4ngy4t5u");;
+:UNSUPPORTED("a6wnwn2mc878a2wacqkmdefx7");;
+:UNSUPPORTED("w9wsmby4dawn9npux1jrd9gl");;
+:UNSUPPORTED("2f8usay82b128dq0sk4aqzw3h");;
+:UNSUPPORTED("2diqdwueoy5oizl5kmbz6uyi8");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6q044im7742qhglc4553noina");;
+:UNSUPPORTED("7sk0msbospwpwupzwpu8v87qt");;
+:UNSUPPORTED("baysgwgvs09ywaufn74gq6m0a");;
+:UNSUPPORTED("4ikkdf5k4ubwp4ou51rth0q41");;
+:UNSUPPORTED("4e5ydpfmxn1wuhnp78arn3f9x");;
+:UNSUPPORTED("7ut9yqcephghob5a3yo8af293");;
+:UNSUPPORTED("3f26r03ydc7aq52vcqpgxawgy");;
+:UNSUPPORTED("74mnpbjmyubjppjur4ngy4t5u");;
+:UNSUPPORTED("a6wnwn2mc878a2wacqkmdefx7");;
+:UNSUPPORTED("bqk56pohk8hpgn91lv4m2zkv0");;
+:UNSUPPORTED("2f8usay82b128dq0sk4aqzw3h");;
+:UNSUPPORTED("2diqdwueoy5oizl5kmbz6uyi8");;
+:UNSUPPORTED("196ta4n5nsqizd83y6oo7z8a2");;
+:UNSUPPORTED("4v7mmisc358r5tpq14qp4dx0f");;
+:UNSUPPORTED("6kjd8mut2dn2xv1k1zr63qp0s");;
+else if ((side&LEFT)!=0) then (yes) 
+:UNSUPPORTED("2lmjkw07sr4x9a3xxrcb3yj07");;
+:UNSUPPORTED("4e2bsroer72trfy5dl5k8f5s8");;
+:UNSUPPORTED("3rsswd4vcybmrbhoqt0aldqds");;
+:UNSUPPORTED("7m86tfoixpamdnl1ywyaz9uzy");;
+:UNSUPPORTED("esv3oinoscr6zht0kce49o450");;
+:UNSUPPORTED("3hptqfzzuz4dlsc8ejk1ynxt9");;
+:UNSUPPORTED("5j92wv3nt0b7hnlf3ktengoom");;
+else (no)
+:endp.sidemask=RIGHT;;
+:b.LL.x=P.end.p.x;;
+:b.UR.y=ND_coord(n).y+HT2(n);;
+:b.LL.y=P.end.p.y;;
+:endp.boxes[0].___(b);;
+:endp.boxn[0]=1;;
+:P.end.p.x+=1;;
+endif 
+:;;
+if (EQ(n,aghead(orig))) then (yes) 
+:ED_head_port(orig).clip=false;;
+else (no)
+:UNSUPPORTED("dk49xvmby8949ngdmft4sgrox");;
+endif 
+:endp.sidemask=side;;
+:return ;;
+stop
+endif 
+if ((et==FLATEDGE)&&((side=ED_head_port(e).side)!=0)) then (yes) 
+:UNSUPPORTED("ew7nyfe712nsiphifeztwxfop");;
+:UNSUPPORTED("a7lrhlfwr0y475aqjk6abhb3b");;
+:UNSUPPORTED("ait3wtnnvt134z2k87lvhq4ek");;
+:UNSUPPORTED("cropv6s2edu614uzt364nepfo");;
+:UNSUPPORTED("esv3oinoscr6zht0kce49o450");;
+:UNSUPPORTED("3hptqfzzuz4dlsc8ejk1ynxt9");;
+:UNSUPPORTED("c91rvfjkunah0qffpuo47eshu");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+:UNSUPPORTED("3s4re3z7asydnnotdylt94t1d");;
+:UNSUPPORTED("6h0f9z7wklonn021j8ijd3b8m");;
+:UNSUPPORTED("80ypgtfgfrgq8j7whkaueouh5");;
+:UNSUPPORTED("7vjialx9rln6cj2y0ni5nc2gi");;
+:UNSUPPORTED("e403abqgqxgss6h01127ebeil");;
+:UNSUPPORTED("esamvv08qn005uqko6caft2u");;
+:UNSUPPORTED("29fp8dba1xqbt5ire1m3oad6c");;
+:UNSUPPORTED("74mnpbjmyubjppjur4ngy4t5u");;
+:UNSUPPORTED("a6wnwn2mc878a2wacqkmdefx7");;
+:UNSUPPORTED("w9wsmby4dawn9npux1jrd9gl");;
+:UNSUPPORTED("2f8usay82b128dq0sk4aqzw3h");;
+:UNSUPPORTED("2diqdwueoy5oizl5kmbz6uyi8");;
+:UNSUPPORTED("93chrd1duv0atudbvr439u7t4");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6q044im7742qhglc4553noina");;
+:UNSUPPORTED("8yftboq798vpnzuxkx6yuea18");;
+:UNSUPPORTED("at4jfrag6jtwm7rxu8p4p8d46");;
+:UNSUPPORTED("ev1muhahxwb1cntbhsb3c9aid");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6kjd8mut2dn2xv1k1zr63qp0s");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+:UNSUPPORTED("bn3pwhefgp4zdatx3g60lj0ou");;
+:UNSUPPORTED("46ayak01kn7y7w3yaoreb6w1l");;
+:UNSUPPORTED("6h0f9z7wklonn021j8ijd3b8m");;
+:UNSUPPORTED("a6wnwn2mc878a2wacqkmdefx7");;
+:UNSUPPORTED("a3bb90cu4chg4dv4xfsx8r8ek");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6q044im7742qhglc4553noina");;
+:UNSUPPORTED("1f4u492auf4ku7ik170e86iy3");;
+:UNSUPPORTED("20q189zumqwpltcod94td3f");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("esv3oinoscr6zht0kce49o450");;
+:UNSUPPORTED("3hptqfzzuz4dlsc8ejk1ynxt9");;
+:UNSUPPORTED("5j92wv3nt0b7hnlf3ktengoom");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+:UNSUPPORTED("8k75h069sv2k9b6tgz77dscwd");;
+:UNSUPPORTED("9tx1p6meq5zi4ce5essw11ikg");;
+:UNSUPPORTED("6h0f9z7wklonn021j8ijd3b8m");;
+:UNSUPPORTED("a6wnwn2mc878a2wacqkmdefx7");;
+:UNSUPPORTED("a3bb90cu4chg4dv4xfsx8r8ek");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("6q044im7742qhglc4553noina");;
+:UNSUPPORTED("1f4u492auf4ku7ik170e86iy3");;
+:UNSUPPORTED("181rv2y41gamwqbbccj0rnb57");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("esv3oinoscr6zht0kce49o450");;
+:UNSUPPORTED("3hptqfzzuz4dlsc8ejk1ynxt9");;
+:UNSUPPORTED("44vy3z49e2oo6613r15tcgn8h");;
+:UNSUPPORTED("flupwh3kosf3fkhkxllllt1");;
+:UNSUPPORTED("4gatpb3u0rq9nikm6rjtejp85");;
+:UNSUPPORTED("e8cujr3gqet8mj2n5h5jfogm1");;
+:UNSUPPORTED("2tw6ymudedo6qij3ux424ydsi");;
+:UNSUPPORTED("9352ql3e58qs4fzapgjfrms2s");;
+:UNSUPPORTED("dk49xvmby8949ngdmft4sgrox");;
+:UNSUPPORTED("8jqn3kj2hrrlcifbw3x9sf6qu");;
+:UNSUPPORTED("a7fgam0j0jm7bar0mblsv3no4");;
+endif 
+if (et==REGULAREDGE) then (yes) 
+:side=TOP;;
+else (no)
+:side=endp.sidemask;;
+endif 
+if (pboxfn!=null &&(mask=(Integer )pboxfn.exe(n,ED_head_port(e),side,endp.boxes[0],endp.boxn))!=0) then (yes) 
+:endp.sidemask=mask;;
+else (no)
+:endp.boxes[0].___(endp.nb);;
+:endp.boxn[0]=1;;
+switch (switch et)
+endswitch
+endif 
+endswitch
+end
+start
+note right
+int convert_sides_to_points(int tail_side,
+int head_side)
+end note
+:ENTERING("3g7alj6eirl5b2hlhluiqvaax","convert_sides_to_points");;
+:int vertices[]=new int[]{12,4,6,2,3,1,9,8};;
+:int i,tail_i,head_i;;
+:int pair_a[][]=new int[][]{{11,12,13,14,
+15,16,17,18},{21,22,23,24,25,26,27,28},{31,
+32,33,34,35,36,37,38},{41,42,43,44,45,46,
+47,48},{51,52,53,54,55,56,57,58},{61,62,63,
+64,65,66,67,68},{71,72,73,74,75,76,77,78},
+{81,82,83,84,85,86,87,88}};;
+switch (try/catch block)
+case (try)
+:tail_i=head_i=-1;;
+if (head_side==vertices[i]) then (yes) 
+:head_i=i;;
+:break ;;
+endif 
+if (tail_side==vertices[i]) then (yes) 
+:tail_i=i;;
+:break ;;
+endif 
+if (tail_i<0||head_i<0) then (yes) 
+:return 0;;
+stop
+else (no)
+:return pair_a[tail_i][head_i];;
+stop
+endif 
+endswitch
+end
+start
+note right
+Object selfBottom(Object ... arg_)
+end note
+:UNSUPPORTED("5mldqfen59kshqgaknayjc5ox");;
+:UNSUPPORTED("e0472i5ngodtv68y0hdhq1azu");;
+:UNSUPPORTED("erg9i1970wdri39osu8hx2a6e");;
+:UNSUPPORTED("7a2vzpy4tpc2fpmuf12nhtfca");;
+:UNSUPPORTED("cjx5v6hayed3q8eeub1cggqca");;
+:UNSUPPORTED("5gypxs09iuryx5a2eho9lgdcp");;
+:UNSUPPORTED("2131r3ibxv7drmcz6f2j5d9c2");;
+:UNSUPPORTED("de1bz9yfc9w49kc4vy1ge2ltd");;
+:UNSUPPORTED("cutkizwxyuykhmayeb60m22av");;
+:UNSUPPORTED("79ig2xj5nogd41esx7798m82t");;
+:UNSUPPORTED("e3wy3x07xdsusfbgecfcqg5lj");;
+:UNSUPPORTED("dul1axf6kjslblufm4omk5k32");;
+:UNSUPPORTED("43yzlf5354g6qlugyzpmr745t");;
+:UNSUPPORTED("brakcbw9hvzlljogqwzlhgb0v");;
+:UNSUPPORTED("dko3xt785e372nj0fiocjfas");;
+:UNSUPPORTED("dqazhjgevh1spyg3xzwb3bcks");;
+:UNSUPPORTED("ehf9o80lfi02no07wz207kyp6");;
+:UNSUPPORTED("f18822xrptoagri7001gamxwh");;
+:UNSUPPORTED("pcmp8bdd8677mjvvef7kfh5y");;
+:UNSUPPORTED("b4mfdkjjk3n78ssy4h80g5lc6");;
+:UNSUPPORTED("e7rhhgc42h5z6kvvnkz6wfn0r");;
+:UNSUPPORTED("bisu3qji6rw3wu3srdv8vhrxb");;
+:UNSUPPORTED("2c8kmvidaqx92wd2mq1ys6753");;
+:UNSUPPORTED("cvln1r5ffbp1z1sq0y6ago4og");;
+:UNSUPPORTED("7squuk10wt6xrbp24obpx41bw");;
+:UNSUPPORTED("7sojr831wk2u8c86xerkjyojd");;
+:UNSUPPORTED("byuachd2fjte06s7xwnbmxlcx");;
+:UNSUPPORTED("eje36stfd9p7ulgo4qk6gjwvx");;
+:UNSUPPORTED("2qmvjd6iwnaqwop679caoaxnn");;
+:UNSUPPORTED("8c31t4u50f9yjnlb8ii84ts3w");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("5vhsnixpf0pg2oz10ps2valyn");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("dvgyxsnyeqqnyzq696k3vskib");;
+:UNSUPPORTED("5n29oadzd6emvd2fwjisx6ovk");;
+:UNSUPPORTED("dly5hufg66dgb6zn5lqcerae1");;
+:UNSUPPORTED("1psokm6w9e7qw7fm2g1cayuk7");;
+:UNSUPPORTED("a0u9ggni4r8gikqyyxf6wgaa5");;
+:UNSUPPORTED("bgymnp4yekw8tzr70cnzzn9ez");;
+:UNSUPPORTED("8tkxpvgpxpilkes33cj73nr8o");;
+:UNSUPPORTED("2j93ajzz3i9adm0syj177su98");;
+:UNSUPPORTED("15uyub8ah85dmbdmc0lqgjqb");;
+:UNSUPPORTED("bh0lpazk6gpagl57bydccqkv4");;
+:UNSUPPORTED("381vppahpairjja0hahm7lktb");;
+:UNSUPPORTED("n63wd0j09ndu0hiaxhwx7izb");;
+:UNSUPPORTED("dzdgwa3zfedg3kys9pd8mp5qm");;
+:UNSUPPORTED("6t0sueo9zyoccfzqit4c7pvcy");;
+:UNSUPPORTED("6nhnbriaxn7zi0ab1z8bkbzd");;
+:UNSUPPORTED("a7ea1ybpt7lv8fk1pc1outbs5");;
+:UNSUPPORTED("7d83ym7h1stime4wbmifcx809");;
+:UNSUPPORTED("44m5sni7g3n6fnk6ca57u9dc2");;
+:UNSUPPORTED("s8koz5x85ytpnff1o94rlxqy");;
+:UNSUPPORTED("66vu2joy64r1yrkvp3oolz1ws");;
+:UNSUPPORTED("d6bobo1f6gxkxa2fffvmn41g0");;
+:UNSUPPORTED("klxoy56t7b20wxnwqm0qoofz");;
+:UNSUPPORTED("cot4bdvsbrav4yex2yesffgd9");;
+:UNSUPPORTED("9wg1yftg90g8jld2m2p5m31ro");;
+:UNSUPPORTED("7efx4yevu8176mmuqjtk4bfss");;
+:UNSUPPORTED("13o3f1bpjm731ee8hpa8d3f5y");;
+:UNSUPPORTED("alt1jvhdhimr8iltoxg7dycq1");;
+:UNSUPPORTED("4mhlpjofolwivhm0tl8cxznly");;
+:UNSUPPORTED("5fvid2bi7fy5jv5dyttfprpzj");;
+:UNSUPPORTED("dvgyxsnyeqqnyzq696k3vskib");;
+:UNSUPPORTED("c24nfmv9i7o5eoqaymbibp7m7");;
+:throw new UnsupportedOperationException();;
+stop
+end
+start
+note right
+Object selfTop(Object ... arg_)
+end note
+:UNSUPPORTED("e2z2o5ybnr5tgpkt8ty7hwan1");;
+:UNSUPPORTED("32kq3vfpd1msv3v0nv0uqavzh");;
+:UNSUPPORTED("2t4o7k97lw32u08cs5j96r7if");;
+:UNSUPPORTED("erg9i1970wdri39osu8hx2a6e");;
+:UNSUPPORTED("2131r3ibxv7drmcz6f2j5d9c2");;
+:UNSUPPORTED("1suoh1r8nnndqo9txafuch8az");;
+:UNSUPPORTED("7a2vzpy4tpc2fpmuf12nhtfca");;
+:UNSUPPORTED("cjx5v6hayed3q8eeub1cggqca");;
+:UNSUPPORTED("5gypxs09iuryx5a2eho9lgdcp");;
+:UNSUPPORTED("cutkizwxyuykhmayeb60m22av");;
+:UNSUPPORTED("79ig2xj5nogd41esx7798m82t");;
+:UNSUPPORTED("e3wy3x07xdsusfbgecfcqg5lj");;
+:UNSUPPORTED("dul1axf6kjslblufm4omk5k32");;
+:UNSUPPORTED("43yzlf5354g6qlugyzpmr745t");;
+:UNSUPPORTED("7199vb689fs8rdn6j40wpw2py");;
+:UNSUPPORTED("dko3xt785e372nj0fiocjfas");;
+:UNSUPPORTED("dqazhjgevh1spyg3xzwb3bcks");;
+:UNSUPPORTED("ehf9o80lfi02no07wz207kyp6");;
+:UNSUPPORTED("f18822xrptoagri7001gamxwh");;
+:UNSUPPORTED("pcmp8bdd8677mjvvef7kfh5y");;
+:UNSUPPORTED("b4mfdkjjk3n78ssy4h80g5lc6");;
+:UNSUPPORTED("e7rhhgc42h5z6kvvnkz6wfn0r");;
+:UNSUPPORTED("bisu3qji6rw3wu3srdv8vhrxb");;
+:UNSUPPORTED("2c8kmvidaqx92wd2mq1ys6753");;
+:UNSUPPORTED("cvln1r5ffbp1z1sq0y6ago4og");;
+:UNSUPPORTED("7squuk10wt6xrbp24obpx41bw");;
+:UNSUPPORTED("7sojr831wk2u8c86xerkjyojd");;
+:UNSUPPORTED("byuachd2fjte06s7xwnbmxlcx");;
+:UNSUPPORTED("eje36stfd9p7ulgo4qk6gjwvx");;
+:UNSUPPORTED("2qmvjd6iwnaqwop679caoaxnn");;
+:UNSUPPORTED("6mjalqxwnjw8e27c2ioujowul");;
+:UNSUPPORTED("5vvzajt4nlp9tr9qagb46uzw0");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("av3gl91zikst7e3hby657df3z");;
+:UNSUPPORTED("d2wzrbnbuinus07v39wtrzg6k");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("dk2te1ff65z24g7yge6td5w1h");;
+:UNSUPPORTED("54zp7hq4t1477ra0toi6nfc3s");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("eyz8046vmrhfd05uo35ud2o26");;
+:UNSUPPORTED("54zp7hq4t1477ra0toi6nfc3s");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("90hjo1ph35lg8jy4yywzro3nf");;
+:UNSUPPORTED("23d0sltghssogk5wk9024lh41");;
+:UNSUPPORTED("3dvppfwsy4t6h54uecu5i9hry");;
+:UNSUPPORTED("95n009mwo78h9zg1mx5yc3j7l");;
+:UNSUPPORTED("8ytmvd73zq9qu5c4ku4jcap4a");;
+:UNSUPPORTED("1tbpkq9m2taj7n3fj63cocjyn");;
+:UNSUPPORTED("u36w11cbjvnwnr2a9aukmfop");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("a92kp8x7ej800lliiwzfuobem");;
+:UNSUPPORTED("c22dsvqh8h2a9v76t3u9dzyi4");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("3ijo2dao8lyum56ai3jujbmap");;
+:UNSUPPORTED("bjovxk89tmb4rsuvw09nszp4c");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("f4rvirpst5ft3uksqp3okyjcf");;
+:UNSUPPORTED("1i3gur9btuj2u5s8ybbgmd87y");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("72fiv7451m2qnkzbfjcwv7pgx");;
+:UNSUPPORTED("1yel8f4unntut6w7bgdhgsvq1");;
+:UNSUPPORTED("93kdallci9a743giye6pd0y0f");;
+:UNSUPPORTED("919n1grj4s92nolxlmoqx4qqw");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("1drv0xz8hp34qnf72b4jpprg2");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("dvgyxsnyeqqnyzq696k3vskib");;
+:UNSUPPORTED("7jtwt2insvwb55tafkqx3boot");;
+:UNSUPPORTED("7vwwj5yxukw3e1k0twakhhgg3");;
+:UNSUPPORTED("1psokm6w9e7qw7fm2g1cayuk7");;
+:UNSUPPORTED("a0u9ggni4r8gikqyyxf6wgaa5");;
+:UNSUPPORTED("bgymnp4yekw8tzr70cnzzn9ez");;
+:UNSUPPORTED("8tkxpvgpxpilkes33cj73nr8o");;
+:UNSUPPORTED("2j93ajzz3i9adm0syj177su98");;
+:UNSUPPORTED("810s5qsu6it4vef0j2l5blqdm");;
+:UNSUPPORTED("r9y9vrfhtcn0ly9mxyipodbo");;
+:UNSUPPORTED("576fgxddv6rfxjwqc4ziex02m");;
+:UNSUPPORTED("7wozarouo08hg5qnrcqmlrzv1");;
+:UNSUPPORTED("6z0fdvc1cxk34nwjps2o0vy9e");;
+:UNSUPPORTED("6t0sueo9zyoccfzqit4c7pvcy");;
+:UNSUPPORTED("6nhnbriaxn7zi0ab1z8bkbzd");;
+:UNSUPPORTED("95cz173vhlho6qxwqiafjznd6");;
+:UNSUPPORTED("5tq797micincut6x05g6eokxk");;
+:UNSUPPORTED("2wpl3ja2mlxynjamnyblux5j");;
+:UNSUPPORTED("175pyfe8j8mbhdwvrbx3gmew9");;
+:UNSUPPORTED("5oxmxe34kl5iq4p27e8r7k11y");;
+:UNSUPPORTED("4eunm5kqgzuzko60febalr1gg");;
+:UNSUPPORTED("6t98dcecgbvbvtpycwiq2ynnj");;
+:UNSUPPORTED("8ygvy3gas9hrwh99z44j4vw14");;
+:UNSUPPORTED("89l2ovblsu6gnx97clo8ev1yk");;
+:UNSUPPORTED("3tkba5lhpnujfu8lcz8lewsyn");;
+:UNSUPPORTED("df1lpvk1x9s2nna4dimpv5ixv");;
+:UNSUPPORTED("anykz2jqihvnza16edujzsmnm");;
+:UNSUPPORTED("4mhlpjofolwivhm0tl8cxznly");;
+:UNSUPPORTED("iyaed8bkc8xb16vcnxvc7d6s");;
+:UNSUPPORTED("dvgyxsnyeqqnyzq696k3vskib");;
+:UNSUPPORTED("b9185t6i77ez1ac587ul8ndnc");;
+:UNSUPPORTED("c24nfmv9i7o5eoqaymbibp7m7");;
+:throw new UnsupportedOperationException();;
+stop
+end
+start
+note right
+void selfRight(CArrayOfStar<ST_Agedge_s> edges,
+int ind,int cnt,double stepx,double sizey,
+ST_splineInfo sinfo)
+end note
+:ENTERING("3sr8gvj4141qql0v12lb89cyt","selfRight");;
+switch (try/catch block)
+case (try)
+:int i,sgn,point_pair;;
+:double hx,tx,stepy,dx,dy,width,height;;
+:final ST_pointf tp=new ST_pointf(),hp=new ST_pointf(),
+np=new ST_pointf();;
+:ST_Agnode_s n;;
+:ST_Agedge_s e;;
+:final CArray<ST_pointf> points=CArray.<ST_pointf >ALLOC__(1000,
+ST_pointf.class );;
+:int pointn;;
+:e=edges.get_(ind);;
+:n=agtail(e);;
+:stepy=(sizey/2.)/cnt;;
+:stepy=MAX(stepy,2.);;
+:pointn=0;;
+:np.___(ND_coord(n));;
+:tp.___(ED_tail_port(e).p);;
+:tp.x=tp.x+np.x;;
+:tp.y=tp.y+np.y;;
+:hp.___(ED_head_port(e).p);;
+:hp.x=hp.x+np.x;;
+:hp.y=hp.y+np.y;;
+if (tp.y>=hp.y) then (yes) 
+:sgn=1;;
+else (no)
+:sgn=-1;;
+endif 
+:dx=ND_rw(n);;
+:dy=0;;
+:point_pair=convert_sides_to_points(ED_tail_port(e).side,
+ED_head_port(e).side);;
+switch (switch point_pair)
+endswitch
+:tx=MIN(dx,3*(np.x+dx-tp.x));;
+:hx=MIN(dx,3*(np.x+dx-hp.x));;
+:e=edges.get_(ind++);;
+:dx+=stepx;;
+:tx+=stepx;;
+:hx+=stepx;;
+:dy+=sgn*stepy;;
+:pointn=0;;
+:points.get__(pointn++).___(tp);;
+:points.get__(pointn++).___(pointfof(tp.x+
+tx/3,tp.y+dy));;
+:points.get__(pointn++).___(pointfof(np.x+
+dx,tp.y+dy));;
+:points.get__(pointn++).___(pointfof(np.x+
+dx,(tp.y+hp.y)/2));;
+:points.get__(pointn++).___(pointfof(np.x+
+dx,hp.y-dy));;
+:points.get__(pointn++).___(pointfof(hp.x+
+hx/3,hp.y-dy));;
+:points.get__(pointn++).___(hp);;
+if (ED_label(e)!=null ) then (yes) 
+if (GD_flip(agraphof(agtail(e)))) then (yes) 
+:width=ED_label(e).dimen.y;;
+:height=ED_label(e).dimen.x;;
+else (no)
+:width=ED_label(e).dimen.x;;
+:height=ED_label(e).dimen.y;;
+endif 
+:ED_label(e).pos.x=ND_coord(n).x+dx+width/2.0;;
+:ED_label(e).pos.y=ND_coord(n).y;;
+:ED_label(e).set=NOTI(false);;
+if (width>stepx) then (yes) 
+:dx+=width-stepx;;
+endif 
+endif 
+:clip_and_install(e,aghead(e),points,pointn,
+sinfo);;
+:return ;;
+stop
+endswitch
+end
+start
+note right
+Object selfLeft(Object ... arg_)
+end note
+:UNSUPPORTED("e2z2o5ybnr5tgpkt8ty7hwan1");;
+:UNSUPPORTED("e1xon7wncs6szxkut7r3ylg8a");;
+:UNSUPPORTED("304grcrgelbk1tnep5avkaylv");;
+:UNSUPPORTED("erg9i1970wdri39osu8hx2a6e");;
+:UNSUPPORTED("5kzmtbtnct9t7sugzyg0t1505");;
+:UNSUPPORTED("9oe5un4g42lfm6s5sruhajt5n");;
+:UNSUPPORTED("7a2vzpy4tpc2fpmuf12nhtfca");;
+:UNSUPPORTED("cjx5v6hayed3q8eeub1cggqca");;
+:UNSUPPORTED("5gypxs09iuryx5a2eho9lgdcp");;
+:UNSUPPORTED("cutkizwxyuykhmayeb60m22av");;
+:UNSUPPORTED("79ig2xj5nogd41esx7798m82t");;
+:UNSUPPORTED("e3wy3x07xdsusfbgecfcqg5lj");;
+:UNSUPPORTED("dul1axf6kjslblufm4omk5k32");;
+:UNSUPPORTED("2biq5cfn3eflyc9vcakp8z40j");;
+:UNSUPPORTED("ag6m3hxmkt2fwxfbd09gtse84");;
+:UNSUPPORTED("dko3xt785e372nj0fiocjfas");;
+:UNSUPPORTED("dqazhjgevh1spyg3xzwb3bcks");;
+:UNSUPPORTED("ehf9o80lfi02no07wz207kyp6");;
+:UNSUPPORTED("f18822xrptoagri7001gamxwh");;
+:UNSUPPORTED("pcmp8bdd8677mjvvef7kfh5y");;
+:UNSUPPORTED("b4mfdkjjk3n78ssy4h80g5lc6");;
+:UNSUPPORTED("e7rhhgc42h5z6kvvnkz6wfn0r");;
+:UNSUPPORTED("bisu3qji6rw3wu3srdv8vhrxb");;
+:UNSUPPORTED("9pq7cc11wf5inm1gtl9nubola");;
+:UNSUPPORTED("cvln1r5ffbp1z1sq0y6ago4og");;
+:UNSUPPORTED("5t4m5gzysfvdd5gfy1snezlv1");;
+:UNSUPPORTED("7sojr831wk2u8c86xerkjyojd");;
+:UNSUPPORTED("byuachd2fjte06s7xwnbmxlcx");;
+:UNSUPPORTED("eje36stfd9p7ulgo4qk6gjwvx");;
+:UNSUPPORTED("2qmvjd6iwnaqwop679caoaxnn");;
+:UNSUPPORTED("1ztn6qfhzw55cdorxgbs8mvaw");;
+:UNSUPPORTED("5nakmzm2t38aw7gowxf3597ny");;
+:UNSUPPORTED("bvy8vwcvwtkz9nqaq8173x6bh");;
+:UNSUPPORTED("cffqbosum7o1l5iposy2evrfl");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("5vhsnixpf0pg2oz10ps2valyn");;
+:UNSUPPORTED("9ekmvj13iaml5ndszqyxa8eq");;
+:UNSUPPORTED("dvgyxsnyeqqnyzq696k3vskib");;
+:UNSUPPORTED("p2znjsd0rhcqyou2d4tcp4m3");;
+:UNSUPPORTED("9fc36i8mydvpx5fb9s7oomgg9");;
+:UNSUPPORTED("1psokm6w9e7qw7fm2g1cayuk7");;
+:UNSUPPORTED("a0u9ggni4r8gikqyyxf6wgaa5");;
+:UNSUPPORTED("corxl7j4p1epemy3mlhnxuh7f");;
+:UNSUPPORTED("8tkxpvgpxpilkes33cj73nr8o");;
+:UNSUPPORTED("2j93ajzz3i9adm0syj177su98");;
+:UNSUPPORTED("1d3rn5phdxf8hhlmh3b3wp7lh");;
+:UNSUPPORTED("2wxmjkn0pmrslgogz96iftqs0");;
+:UNSUPPORTED("clocavnhfvokhhthg9cujkqa0");;
+:UNSUPPORTED("6tz9mqs3ff68mo5r1xmq2zyc4");;
+:UNSUPPORTED("a6oh2uv36d620c50ery1vvmd7");;
+:UNSUPPORTED("6t0sueo9zyoccfzqit4c7pvcy");;
+:UNSUPPORTED("6nhnbriaxn7zi0ab1z8bkbzd");;
+:UNSUPPORTED("7ewy2tc2zfli5k6dghdnao8tw");;
+:UNSUPPORTED("7d83ym7h1stime4wbmifcx809");;
+:UNSUPPORTED("44m5sni7g3n6fnk6ca57u9dc2");;
+:UNSUPPORTED("s8koz5x85ytpnff1o94rlxqy");;
+:UNSUPPORTED("66vu2joy64r1yrkvp3oolz1ws");;
+:UNSUPPORTED("d6bobo1f6gxkxa2fffvmn41g0");;
+:UNSUPPORTED("klxoy56t7b20wxnwqm0qoofz");;
+:UNSUPPORTED("e7au5qlazz8i26lvbl9c5k657");;
+:UNSUPPORTED("dfo4prcp2cafipoufh8bql0id");;
+:UNSUPPORTED("7efx4yevu8176mmuqjtk4bfss");;
+:UNSUPPORTED("8ivpntotxg2rgw585hkdgsixh");;
+:UNSUPPORTED("34ujzn0u4l056cgabsn09ncw8");;
+:UNSUPPORTED("4mhlpjofolwivhm0tl8cxznly");;
+:UNSUPPORTED("5fvid2bi7fy5jv5dyttfprpzj");;
+:UNSUPPORTED("dvgyxsnyeqqnyzq696k3vskib");;
+:UNSUPPORTED("c24nfmv9i7o5eoqaymbibp7m7");;
+:throw new UnsupportedOperationException();;
+stop
+end
+start
+note right
+int selfRightSpace(ST_Agedge_s e)
+end note
+:ENTERING("678whq05s481ertx02jloteu3","selfRightSpace");;
+switch (try/catch block)
+case (try)
+:int sw=0;;
+:double label_width;;
+:ST_textlabel_t l=ED_label(e);;
+if ((N(ED_tail_port(e).defined)&&N(ED_head_port(e).defined))||(N(ED_tail_port(e).side&(1<<3))&&N(ED_head_port(e).side&(1<<3))&&((ED_tail_port(e).side!=ED_head_port(e).side)||(N(ED_tail_port(e).side&((1<<2)|(1<<0))))))) then (yes) 
+:sw=18;;
+if (l!=null ) then (yes) 
+:label_width=GD_flip(agraphof(aghead(e)))? l.dimen.y:l.dimen.x;;
+:sw+=label_width;;
+endif 
+else (no)
+:sw=0;;
+endif 
+:return sw;;
+stop
+endswitch
+end
+start
+note right
+void makeSelfEdge(ST_path P,CArrayOfStar<ST_Agedge_s> edges,
+int ind,int cnt,double sizex,double sizey,
+ST_splineInfo sinfo)
+end note
+:ENTERING("bt3fwgprixbc5rceeewozdqr9","makeSelfEdge");;
+switch (try/catch block)
+case (try)
+:ST_Agedge_s e;;
+:e=edges.get_(ind);;
+if ((N(ED_tail_port(e).defined)&&N(ED_head_port(e).defined))||(N(ED_tail_port(e).side&(1<<3))&&N(ED_head_port(e).side&(1<<3))&&((ED_tail_port(e).side!=ED_head_port(e).side)||(N(ED_tail_port(e).side&((1<<2)|(1<<0))))))) then (yes) 
+:selfRight(edges,ind,cnt,sizex,sizey,sinfo);;
+else if ((ED_tail_port(e).side&(1<<3))!=0||(ED_head_port(e).side&(1<<3))!=0) then (yes) 
+if ((ED_tail_port(e).side&(1<<1))!=0||(ED_head_port(e).side&(1<<1))!=0) then (yes) 
+:selfTop(edges,ind,cnt,sizex,sizey,sinfo);;
+else (no)
+:selfLeft(edges,ind,cnt,sizex,sizey,sinfo);;
+endif 
+else if ((ED_tail_port(e).side&(1<<2))!=0) then (yes) 
+:selfTop(edges,ind,cnt,sizex,sizey,sinfo);;
+else if ((ED_tail_port(e).side&(1<<0))!=0) then (yes) 
+:selfBottom(edges,ind,cnt,sizex,sizey,sinfo);;
+else (no)
+:assert (false);;
+endif 
+endswitch
+end
+start
+note right
+void endPoints(ST_splines spl,ST_pointf p,
+ST_pointf q)
+end note
+:ENTERING("7wyn51o9k6u7joaq9k18boffh","endPoints");;
+switch (try/catch block)
+case (try)
+:final ST_bezier bz=new ST_bezier();;
+:bz.___(spl.list.get__(0));;
+if (bz.sflag!=0) then (yes) 
+:UNSUPPORTED("4wazlko0bxmzxoobqacij1btk");;
+else (no)
+:p.___(bz.list.get__(0));;
+endif 
+:bz.___(spl.list.get__(spl.size-1));;
+if (bz.eflag!=0) then (yes) 
+:UNSUPPORTED("78u9nvs8u7rxturidz5nf8hn4");;
+else (no)
+:q.___(bz.list.get__(bz.size-1));;
+endif 
+endswitch
+end
+start
+note right
+ST_pointf edgeMidpoint(ST_Agraph_s g,ST_Agedge_s e)
+end note
+:ENTERING("8hpmwzlqbj1nii32zubbe9hru","edgeMidpoint");;
+switch (try/catch block)
+case (try)
+:return edgeMidpoint_(g,e).copy();;
+stop
+endswitch
+end
+start
+note right
+ST_pointf edgeMidpoint_(ST_Agraph_s g,ST_Agedge_s e)
+end note
+:int et=(GD_flags(g)&(7<<1));;
+:final ST_pointf d=new ST_pointf();;
+:final ST_pointf spf=new ST_pointf();;
+:final ST_pointf p=new ST_pointf();;
+:final ST_pointf q=new ST_pointf();;
+:endPoints((ST_splines )ED_spl(e),p,q);;
+if (APPROXEQPT(p,q,MILLIPOINT)) then (yes) 
+:UNSUPPORTED("7i8m5mpfnv7m9uqxh015zfdaj");;
+else if ((et==(5<<1))||(et==(2<<1))) then (yes) 
+:d.x=(q.x+p.x)/2.;;
+:d.y=(p.y+q.y)/2.;;
+:spf.___(dotneato_closest((ST_splines )ED_spl(e),
+d));;
+else (no)
+:UNSUPPORTED("6he3hi05vusuthrchn4enk7o6");;
+endif 
+:return spf;;
+stop
+end
+start
+note right
+ST_splines getsplinepoints(ST_Agedge_s e)
+end note
+:ENTERING("2tbz9tbkzx8os72qiyhgnby67","getsplinepoints");;
+switch (try/catch block)
+case (try)
+:ST_Agedge_s le;;
+:ST_splines sp;;
+:;;
+if (sp==null ) then (yes) 
+:UNSUPPORTED("8oq6gemxrb07hmmw0gtux7os5");;
+endif 
+:return sp;;
+stop
+endswitch
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

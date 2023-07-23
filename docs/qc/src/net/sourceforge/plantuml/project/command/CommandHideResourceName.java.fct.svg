@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="519px" preserveAspectRatio="none" style="width:718px;height:519px;background:#FFFFFF;" version="1.1" viewBox="0 0 718 519" width="718px" zoomAndPan="magnify"><defs/><g><path d="M283,10 L283,18.5664 L263,22.5664 L283,26.5664 L283,35.1328 A0,0 0 0 0 283,35.1328 L585,35.1328 A0,0 0 0 0 585,35.1328 L585,20 L575,10 L283,10 A0,0 0 0 0 283,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M575,10 L575,20 L585,20 L575,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="281" x="289" y="27.0669">constructor CommandHideResourceName()</text><ellipse cx="253" cy="22.5664" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="187" x="159.5" y="55.1328"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="167" x="169.5" y="76.2715">super (getRegexConcat());</text><ellipse cx="253" cy="119.1016" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="246.8128" x2="259.1872" y1="112.9144" y2="125.2887"/><line style="stroke:#222222;stroke-width:2.5;" x1="259.1872" x2="246.8128" y1="112.9144" y2="125.2887"/><path d="M283,139.1016 L283,147.668 L263,151.668 L283,155.668 L283,164.2344 A0,0 0 0 0 283,164.2344 L465,164.2344 A0,0 0 0 0 465,164.2344 L465,149.1016 L455,139.1016 L283,139.1016 A0,0 0 0 0 283,139.1016 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M455,139.1016 L455,149.1016 L465,149.1016 L455,139.1016 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="161" x="289" y="156.1685">IRegex getRegexConcat()</text><ellipse cx="253" cy="151.668" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="75.875" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="484" x="11" y="184.2344"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="464" x="21" y="205.373">return RegexConcat.build(CommandHideResourceName.class .getName(),</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="446" x="21" y="219.3418">RegexLeaf.start(),new RegexLeaf("hide"),RegexLeaf.spaceOneOrMore(),</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="389" x="21" y="233.3105">new RegexLeaf("ress?ources?"),RegexLeaf.spaceOneOrMore(),</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="276" x="21" y="247.2793">new RegexLeaf("names?"),RegexLeaf.end());</text><ellipse cx="253" cy="291.1094" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="253" cy="291.1094" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><ellipse cx="253" cy="322.1094" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="246.8128" x2="259.1872" y1="315.9222" y2="328.2966"/><line style="stroke:#222222;stroke-width:2.5;" x1="259.1872" x2="246.8128" y1="315.9222" y2="328.2966"/><path d="M283,342.1094 L283,358.2422 L263,362.2422 L283,366.2422 L283,382.375 A0,0 0 0 0 283,382.375 L706,382.375 A0,0 0 0 0 706,382.375 L706,352.1094 L696,342.1094 L283,342.1094 A0,0 0 0 0 283,342.1094 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M696,342.1094 L696,352.1094 L706,352.1094 L696,342.1094 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="402" x="289" y="359.1763">CommandExecutionResult executeArg(GanttDiagram diagram,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="246" x="289" y="374.3091">LineLocation location,RegexResult arg)</text><ellipse cx="253" cy="362.2422" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="254" x="126" y="402.375"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="234" x="136" y="423.5137">return diagram.hideResourceName();</text><ellipse cx="253" cy="467.3438" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="253" cy="467.3438" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><ellipse cx="253" cy="498.3438" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="246.8128" x2="259.1872" y1="492.1566" y2="504.5309"/><line style="stroke:#222222;stroke-width:2.5;" x1="259.1872" x2="246.8128" y1="492.1566" y2="504.5309"/><line style="stroke:#181818;stroke-width:1.0;" x1="253" x2="253" y1="32.5664" y2="55.1328"/><polygon fill="#181818" points="249,45.1328,253,55.1328,257,45.1328,253,49.1328" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="253" x2="253" y1="89.1016" y2="109.1016"/><polygon fill="#181818" points="249,99.1016,253,109.1016,257,99.1016,253,103.1016" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="253" x2="253" y1="161.668" y2="184.2344"/><polygon fill="#181818" points="249,174.2344,253,184.2344,257,174.2344,253,178.2344" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="253" x2="253" y1="260.1094" y2="280.1094"/><polygon fill="#181818" points="249,270.1094,253,280.1094,257,270.1094,253,274.1094" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="253" x2="253" y1="372.2422" y2="402.375"/><polygon fill="#181818" points="249,392.375,253,402.375,257,392.375,253,396.375" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="253" x2="253" y1="436.3438" y2="456.3438"/><polygon fill="#181818" points="249,446.3438,253,456.3438,257,446.3438,253,450.3438" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[f31188017354eeb7bd53c6dc03016df5]
+@startuml
+!pragma layout smetana
+start
+note right
+constructor CommandHideResourceName()
+end note
+:super (getRegexConcat());;
+end
+start
+note right
+IRegex getRegexConcat()
+end note
+:return RegexConcat.build(CommandHideResourceName.class .getName(),
+RegexLeaf.start(),new RegexLeaf("hide"),RegexLeaf.spaceOneOrMore(),
+new RegexLeaf("ress?ources?"),RegexLeaf.spaceOneOrMore(),
+new RegexLeaf("names?"),RegexLeaf.end());;
+stop
+end
+start
+note right
+CommandExecutionResult executeArg(GanttDiagram diagram,
+LineLocation location,RegexResult arg)
+end note
+:return diagram.hideResourceName();;
+stop
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

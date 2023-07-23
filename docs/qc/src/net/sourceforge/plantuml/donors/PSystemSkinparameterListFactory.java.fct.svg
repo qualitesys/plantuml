@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="362px" preserveAspectRatio="none" style="width:558px;height:362px;background:#FFFFFF;" version="1.1" viewBox="0 0 558 362" width="558px" zoomAndPan="magnify"><defs/><g><path d="M206.5,10 L206.5,26.1328 L186.5,30.1328 L206.5,34.1328 L206.5,50.2656 A0,0 0 0 0 206.5,50.2656 L546.5,50.2656 A0,0 0 0 0 546.5,50.2656 L546.5,20 L536.5,10 L206.5,10 A0,0 0 0 0 206.5,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M536.5,10 L536.5,20 L546.5,20 L536.5,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="319" x="212.5" y="27.0669">AbstractPSystem executeLine(UmlSource source,</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="69" x="212.5" y="42.1997">String line)</text><ellipse cx="176.5" cy="30.1328" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="331" x="11" y="118.668"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="311" x="21" y="139.8066">return PSystemSkinparameterList.create(source);</text><ellipse cx="176.5" cy="192.1523" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="176.5" cy="192.1523" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><polygon fill="#F1F1F1" points="57,70.2656,296,70.2656,308,82.2656,296,94.2656,57,94.2656,45,82.2656,57,70.2656" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="20" x="180.5" y="104.4761">yes</text><text fill="#000000" font-family="sans-serif" font-size="11" lengthAdjust="spacing" textLength="239" x="57" y="86.0737">line.matches("(?i)^(skinparameters)\s*$")</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="93" x="130" y="245.1523"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="73" x="140" y="266.291">return null ;</text><ellipse cx="176.5" cy="310.1211" fill="none" rx="11" ry="11" style="stroke:#222222;stroke-width:1.0;"/><ellipse cx="176.5" cy="310.1211" fill="#222222" rx="6" ry="6" style="stroke:#111111;stroke-width:1.0;"/><ellipse cx="176.5" cy="341.1211" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="170.3128" x2="182.6872" y1="334.9339" y2="347.3083"/><line style="stroke:#222222;stroke-width:2.5;" x1="182.6872" x2="170.3128" y1="334.9339" y2="347.3083"/><line style="stroke:#181818;stroke-width:1.0;" x1="176.5" x2="176.5" y1="152.6367" y2="181.1523"/><polygon fill="#181818" points="172.5,171.1523,176.5,181.1523,180.5,171.1523,176.5,175.1523" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="176.5" x2="176.5" y1="94.2656" y2="118.668"/><polygon fill="#181818" points="172.5,108.668,176.5,118.668,180.5,108.668,176.5,112.668" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="308" x2="352" y1="82.2656" y2="82.2656"/><polygon fill="#181818" points="348,151.1523,352,161.1523,356,151.1523,352,155.1523" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="352" x2="352" y1="82.2656" y2="225.1523"/><line style="stroke:#181818;stroke-width:1.0;" x1="352" x2="176.5" y1="225.1523" y2="225.1523"/><line style="stroke:#181818;stroke-width:1.0;" x1="176.5" x2="176.5" y1="225.1523" y2="245.1523"/><polygon fill="#181818" points="172.5,235.1523,176.5,245.1523,180.5,235.1523,176.5,239.1523" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="176.5" x2="176.5" y1="40.1328" y2="70.2656"/><polygon fill="#181818" points="172.5,60.2656,176.5,70.2656,180.5,60.2656,176.5,64.2656" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="176.5" x2="176.5" y1="279.1211" y2="299.1211"/><polygon fill="#181818" points="172.5,289.1211,176.5,299.1211,180.5,289.1211,176.5,293.1211" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[8a3a4075224728828ef2f4d66a3f27be]
+@startuml
+!pragma layout smetana
+start
+note right
+AbstractPSystem executeLine(UmlSource source,
+String line)
+end note
+if (line.matches("(?i)^(skinparameters)\\s*$")) then (yes) 
+:return PSystemSkinparameterList.create(source);;
+stop
+endif 
+:return null ;;
+stop
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

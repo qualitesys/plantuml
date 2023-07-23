@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="248px" preserveAspectRatio="none" style="width:438px;height:248px;background:#FFFFFF;" version="1.1" viewBox="0 0 438 248" width="438px" zoomAndPan="magnify"><defs/><g><path d="M249,10 L249,18.5664 L229,22.5664 L249,26.5664 L249,35.1328 A0,0 0 0 0 249,35.1328 L406,35.1328 A0,0 0 0 0 406,35.1328 L406,20 L396,10 L249,10 A0,0 0 0 0 249,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><path d="M396,10 L396,20 L406,20 L396,10 " fill="#FEFFDD" style="stroke:#181818;stroke-width:0.5;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="26" x="255" y="27.0669">void</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" text-decoration="underline" textLength="12" x="285" y="27.0669">_(</text><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="94" x="297" y="27.0669">struct__ other)</text><ellipse cx="219" cy="22.5664" fill="#222222" rx="10" ry="10" style="stroke:#222222;stroke-width:1.0;"/><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="332" x="53" y="55.1328"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="312" x="63" y="76.2715">ST_arrowname_t other2=(ST_arrowname_t )other;</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="416" x="11" y="109.1016"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="396" x="21" y="130.2402">this.name=other2.name==null ? null :other2.name.duplicate();</text><rect fill="#F1F1F1" height="33.9688" rx="12.5" ry="12.5" style="stroke:#181818;stroke-width:0.5;" width="161" x="138.5" y="163.0703"/><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="141" x="148.5" y="184.209">this.type=other2.type;</text><ellipse cx="219" cy="227.0391" fill="none" rx="10" ry="10" style="stroke:#222222;stroke-width:1.5;"/><line style="stroke:#222222;stroke-width:2.5;" x1="212.8128" x2="225.1872" y1="220.8519" y2="233.2262"/><line style="stroke:#222222;stroke-width:2.5;" x1="225.1872" x2="212.8128" y1="220.8519" y2="233.2262"/><line style="stroke:#181818;stroke-width:1.0;" x1="219" x2="219" y1="32.5664" y2="55.1328"/><polygon fill="#181818" points="215,45.1328,219,55.1328,223,45.1328,219,49.1328" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="219" x2="219" y1="89.1016" y2="109.1016"/><polygon fill="#181818" points="215,99.1016,219,109.1016,223,99.1016,219,103.1016" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="219" x2="219" y1="143.0703" y2="163.0703"/><polygon fill="#181818" points="215,153.0703,219,163.0703,223,153.0703,219,157.0703" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="219" x2="219" y1="197.0391" y2="217.0391"/><polygon fill="#181818" points="215,207.0391,219,217.0391,223,207.0391,219,211.0391" style="stroke:#181818;stroke-width:1.0;"/><!--MD5=[9bc2cc5d3de59979054f50f724845185]
+@startuml
+!pragma layout smetana
+start
+note right
+void ___(__struct__ other)
+end note
+:ST_arrowname_t other2=(ST_arrowname_t )other;;
+:this.name=other2.name==null ? null :other2.name.duplicate();;
+:this.type=other2.type;;
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

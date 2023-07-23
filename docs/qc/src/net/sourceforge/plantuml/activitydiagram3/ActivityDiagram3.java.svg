@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="194px" preserveAspectRatio="none" style="width:551px;height:194px;background:#000000;" version="1.1" viewBox="0 0 551 194" width="551px" zoomAndPan="magnify"><defs/><g><rect fill="#26000F" height="1" style="stroke:#26000F;stroke-width:1.0;" width="1" x="0" y="0"/><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="127" x="5" y="17">PlantUML 1.2022.7</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="4" x="5" y="30.9688"> </text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="399" x="5" y="44.9375">&lt;b&gt;This version of PlantUML is 334 days old, so you should</text><text fill="#33FF02" font-family="sans-serif" font-size="12" font-style="italic" font-weight="bold" lengthAdjust="spacing" textLength="408" x="5" y="58.9063">&lt;b&gt;consider upgrading from https://plantuml.com/download</text><rect fill="#33FF02" height="21.2969" style="stroke:#33FF02;stroke-width:1.0;" width="539" x="5" y="68.875"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="168" x="6" y="83.875">[From string (line 4) ]</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="5" x="5" y="104.1719"> </text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="79" x="5" y="120.4688">@startuml</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="190" x="5" y="136.7656">!pragma layout smetana</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="539" x="5" y="153.0625">"" &lt;|-- "net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3"</text><text fill="#33FF02" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" text-decoration="wavy underline" textLength="532" x="5" y="169.3594">class net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3 {</text><text fill="#FF0000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="106" x="10" y="185.6563">Syntax Error?</text><!--MD5=[e4c3311d9730ba1645599980dd8db178]
+@startuml
+!pragma layout smetana
+"" <|- - "net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3"
+class net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3 {
++ActivityDiagram3(UmlSource;Map<String,String>) : ActivityDiagram3 [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#78]]]
+-manageSwimlaneStrategy() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#82]]]
++swimlane(String;HColor;Display) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#88]]]
+-setCurrent(Instruction) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#99]]]
+-current() : Instruction [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#103]]]
+-nextLinkRenderer() : LinkRendering [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#107]]]
++addActivity(Display;BoxStyle;Url;Colors;Stereotype) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#111]]]
++addSpot(String;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#129]]]
++addGoto(String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#137]]]
++addLabel(String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#144]]]
++start() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#151]]]
++stop() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#157]]]
++end() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#166]]]
+-manageSpecialStopEndAfterEndWhile(Instruction) : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#175]]]
++breakInstruction() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#192]]]
++getDescription() : DiagramDescription [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#197]]]
+exportDiagramInternal(OutputStream;int;FileFormatOption) : ImageData [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#202]]]
++fork() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#217]]]
++forkAgain() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#226]]]
++endFork(ForkStyle;String) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#237]]]
++split() : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#249]]]
++splitAgain() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#257]]]
++endSplit() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#266]]]
++startSwitch(Display;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#276]]]
++switchCase(Display) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#285]]]
++endSwitch() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#298]]]
++startIf(Display;Display;HColor;Url) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#308]]]
++elseIf(LinkRendering;Display;LinkRendering;HColor) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#317]]]
++else2(LinkRendering) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#329]]]
++endif() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#341]]]
++startRepeat(HColor;Display;BoxStyle;Colors) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#352]]]
++repeatWhile(Display;Display;Display;Display;Rainbow) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#362]]]
++backward(Display;BoxStyle;LinkRendering;LinkRendering) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#377]]]
++doWhile(Display;Display;HColor) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#394]]]
++endwhile(Display) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#402]]]
++kill() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#413]]]
++startGroup(Display;HColor;USymbol;Style) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#420]]]
++endGroup() : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#428]]]
+-setNextLinkRendererInternal(LinkRendering) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#436]]]
+-setNextLink(LinkRendering) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#441]]]
++setLabelNextArrow(Display) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#455]]]
++setColorNextArrow(Rainbow) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#469]]]
++addNote(Display;NotePosition;NoteType;Colors) : CommandExecutionResult [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#477]]]
+-manageHasUrl(Display) : void [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#488]]]
++hasUrl() : boolean [[[./../../../../../.././qc/src/net/sourceforge/plantuml/activitydiagram3/ActivityDiagram3.java.html#495]]]
+} 
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>

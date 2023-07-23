@@ -1,0 +1,847 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1193px" preserveAspectRatio="none" style="width:959px;height:1193px;background:#FFFFFF;" version="1.1" viewBox="0 0 959 1193" width="959px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="379" x="5" y="30.1074">Through readiness and discipline we are masters of our fate.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="272" x="5" y="58.0449">Diagram size: 837 lines / 18803 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 334 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="630.7637">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="644.7324">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="672.6699">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="686.6387">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="700.6074">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="714.5762">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="728.5449">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="742.5137">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="756.4824">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="770.4512">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="784.4199">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="798.3887">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="812.3574">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="826.3262">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="840.2949">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="854.2637">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="868.2324">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="882.2012">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="896.1699">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="910.1387">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="924.1074">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="938.0762">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="952.0449">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="966.0137">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="979.9824">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="993.9512">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1007.9199">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1021.8887">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1035.8574">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1049.8262">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1063.7949">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1077.7637">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1091.7324">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1105.7012">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1119.6699">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1133.6387">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1147.6074">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1161.5762">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1175.5449">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1189.5137">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="39" width="39" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAABDklEQVR4Xu3WMQ7CMBBEUR+LkoNxHEoOSBeqLXjSYm/iiCDypV/grHdGigS0dnLS2vPSlore3xXDe3p/Fwzdqvs34fKtun8Tj1tbPrncr2967r6pWEa/Ui4r4WftPTdnFT9dznPtPTevRFYiO9fec/NKWKIXZqlMc1bh0kOVE0tUdd9UDKvqvin4WsL4OfJ819cnhh6inGGalcvOQ3NW4VLNSmTnoTklXJbpXyF1Xs0dwiWZllHn1dwh/AoILRXnlvI87rnP3CFc8hPlDB3V+/9XztCq7jN3CJccqpwYotW5qRii1bkp+KWpzgfOqfOrcKk6HzinzpdwWab3AucyvTeESzK9FziX6b2Tk2/yAmR5BXOxVW60AAAAAElFTkSuQmCC" y="6"/><!--MD5=[d335f763e0eab2545d11bd134b775812]
+@startuml
+!pragma layout smetana
+start
+note right
+Screen getScreen()
+end note
+:return screen;;
+stop
+end
+start
+note right
+void print(String s)
+end note
+:screen.print(s);;
+end
+start
+note right
+void printb(String s)
+end note
+:screen.print("<b>** "+s+" **</b>");;
+end
+start
+note right
+void print()
+end note
+:screen.print();;
+end
+start
+note right
+void run(Keyboard keyboard)
+end note
+if (screen!=null ) then (yes) 
+:throw new IllegalStateException();;
+stop
+endif 
+:screen=new Screen();;
+:skb=new SmartKeyboard(keyboard);;
+:init();;
+end
+start
+note right
+double rnd()
+end note
+if (this.rnd==null ) then (yes) 
+:this.rnd=new Random(skb.getHistory().hashCode());;
+endif 
+:return rnd.nextDouble();;
+stop
+end
+start
+note right
+void init()
+end note
+:printInitialScenario490();;
+:initialPurchasesOfPlayer690();;
+:initialShootingRanking920();;
+:screen.clear();;
+:print("<i>** Your trip is about to begin... **</i>");;
+:print();;
+if (m>2039) then (yes) 
+:madeIt3190(j);;
+:break ;;
+endif 
+:print("<b>Monday, "+da[j]+", 1847</b>. You are "+
+whereAreWe());;
+:print();;
+if (f<6) then (yes) 
+:print("<b>** You're low on food. Better buy some or go hunting soon. **");;
+:print();;
+endif 
+if (ks==1||kh==1) then (yes) 
+:t=t-10;;
+if (t<0) then (yes) 
+:needDoctorBadly3010(j);;
+endif 
+:print("Doctor charged <b>$10</b> for his services");;
+:print("to treat your "+(ks==1? String.valueOf("illness."):String.valueOf("injuries.")));;
+endif 
+:m=(int )(m+.5);;
+:print("Total mileage to date is: <b>"+((int )m)+
+"</b>");;
+:m+=200+(a-110)/2.5+10*rnd();;
+:print();;
+:print("Here's what you now have (no. of bullets,
+ $ worth of other items) :");;
+:printInventory3350();;
+:question1000(j);;
+:eating1310(j);;
+:screen.clear();;
+:riders1390(j);;
+:events1800(j);;
+:montains2640(j);;
+if (skb.hasMore()) then (yes) 
+:screen.clear();;
+endif 
+end
+start
+note right
+void events1800(int j)
+end note
+:final int rn=(int )(100.0*rnd());;
+if (rn<=ep[i]) then (yes) 
+:execEvent(i,j);;
+:return ;;
+stop
+endif 
+:execEvent(ep.length,j);;
+end
+start
+note right
+void execEvent(int i,int j)
+end note
+switch (switch i)
+endswitch
+:print();;
+end
+start
+note right
+void madeIt3190(int j)
+end note
+:final double ml=(2040-ma)/(m-ma);;
+:f=f+(1-ml)*(8+5*e);;
+:print("You finally arrived at Oregon City after 2040 long miles.");;
+:print("You're exhausted and haggard, but you made it! A real pioneer!");;
+:final int d=(int )(14*(j+ml));;
+:final int dm=(int )(d/30.5);;
+:final int dd=(int )(d-30.5*dm);;
+:print("You've been on the trail for "+dm+
+" months and "+dd+" days.");;
+:print("You have few supplies remaining :");;
+:printInventory3350();;
+:print();;
+:print("President James A. Polk sends you his heartiest");;
+:print("congratulations and wishes you a prosperous life in your new home.");;
+:throw new NoInputException();;
+stop
+end
+start
+note right
+boolean riders1390(int j)
+end note
+:final double value=(Math.pow(m/100-4,2)+
+72)/(Math.pow(m/100-4,2)+12)-1;;
+:final double random=10.0*rnd();;
+if (random>value) then (yes) 
+:return false;;
+stop
+endif 
+:int gh=0;;
+if (rnd()>.2) then (yes) 
+:gh=1;;
+endif 
+:print();;
+:print("Riders ahead! They "+(gh==1? String.valueOf("don't "):String.valueOf(""))+
+"look hostile.");;
+:int gt;;
+repeat
+:print("You can <b>(1)</b> run, <b>(2)</b> attack,
+ <b>(3)</b> ignore them, or <b>(4)</b> circle wagons.");;
+:gt=skb.inputInt(screen);;
+repeat while (gt<0||gt>4)
+if (rnd()<.2) then (yes) 
+:gh=1-gh;;
+endif 
+if (gh==1) then (yes) 
+if (gt==1) then (yes) 
+:m=m+15;;
+:a=a-5;;
+else if (gt==2) then (yes) 
+:m=m-5;;
+:b=b-100;;
+else if (gt==4) then (yes) 
+:m=m-20;;
+endif 
+:print("Riders were friendly, but check for possible losses.");;
+:return true;;
+stop
+endif 
+if (gt==1) then (yes) 
+:m=m+20;;
+:r=r-7;;
+:b=b-150;;
+:a=a-20;;
+else if (gt==2) then (yes) 
+:final int br=shoot3870();;
+:b=b-br*40-80;;
+:riderShoot(br);;
+else if (gt==3) then (yes) 
+if (rnd()>.8) then (yes) 
+:print("They did not attack. Whew!");;
+:return true;;
+stop
+endif 
+:b=b-150;;
+:r=r-7;;
+else (no)
+:assert gt==4;;
+:final int br=shoot3870();;
+:b=b-br*30-80;;
+:m=m-25;;
+:riderShoot(br);;
+endif 
+:print("Riders were hostile. Better check for losses!");;
+if (b>=0) then (yes) 
+:return true;;
+stop
+endif 
+:print();;
+:print("<b>Oh, my gosh!</b>");;
+:print("They're coming back and you're out of ammo! Your dreams turn to");;
+:print("dust as you and your family are massacred on the prairie.");;
+:print3110(j);;
+:return true;;
+stop
+end
+start
+note right
+void riderShoot(final int br)
+end note
+if (br<=1) then (yes) 
+:print("Nice shooting - you drove them off.");;
+else if (br<=4) then (yes) 
+:print("Kind of slow with your Colt .45.");;
+else (no)
+:print("Pretty slow on the draw, partner. You got a nasty flesh wound.");;
+:kh=1;;
+:print("You'll have to see the doc soon as you can.");;
+endif 
+end
+start
+note right
+void montains2640(int j)
+end note
+if (m<=975) then (yes) 
+:return ;;
+stop
+endif 
+:final double mm=m/100.0-15;;
+if (10*rnd()>9-(mm*mm+72)/(mm*mm+12)) then (yes) 
+:southPass2750(j);;
+:return ;;
+stop
+endif 
+:print("You're in rugged mountain country.");;
+if (rnd()<=.1) then (yes) 
+:print("You get lost and lose valuable time trying to find the trail.");;
+:m=m-60;;
+:southPass2750(j);;
+:return ;;
+stop
+endif 
+if (rnd()>.11) then (yes) 
+:print("The going is really slow; oxen are very tired.");;
+:m=m-45-50*rnd();;
+else (no)
+:print("Trail cave in damages your wagon. You lose time and supplies.");;
+:m=m-20-30*rnd();;
+:b=b-200;;
+:r=r-3;;
+endif 
+:southPass2750(j);;
+end
+start
+note right
+void southPass2750(int j)
+end note
+if (kp==0) then (yes) 
+:kp=1;;
+if (rnd()<.8) then (yes) 
+:blizzard2840(j);;
+:return ;;
+stop
+endif 
+:print("You made it safely through the South Pass....no snow!");;
+endif 
+if (m<1700) then (yes) 
+:return ;;
+stop
+endif 
+if (km==0) then (yes) 
+:km=1;;
+if (rnd()<.7) then (yes) 
+:blizzard2840(j);;
+endif 
+endif 
+end
+start
+note right
+void blizzard2840(int j)
+end note
+:print("Blizzard in the mountain pass. Going is slow;
+: supplies are lost.");;
+:kb=1;;
+:m=m-30-40*rnd();;
+:f=f-12;;
+:b=b-200;;
+:r=r-5;;
+if (c<18+2*rnd()) then (yes) 
+:dealWithIllness2880(j);;
+endif 
+end
+start
+note right
+void dealWithIllness2880(int j)
+end note
+if (100*rnd()<10+35*(e-1)) then (yes) 
+:print("Mild illness. Your own medicine will cure it.");;
+:m-=5;;
+:r-=1;;
+else if (100*rnd()<100.0-40.0/Math.pow(4.0,e-1)) then (yes) 
+:print("The whole family is sick. Your medicine will probably work okay.");;
+:m-=5;;
+:r-=2.5;;
+else (no)
+:print("Serious illness in the family. You'll have to stop and see a doctor");;
+:print("soon. For now, your medicine will work.");;
+:r-=5;;
+:ks=1;;
+endif 
+if (r<=0) then (yes) 
+:print("...if only you had enough.");;
+:outOfMedicalSupplies3020(j);;
+endif 
+end
+start
+note right
+void eating1310(int j)
+end note
+if (f<5) then (yes) 
+:die3000(j);;
+:return ;;
+stop
+endif 
+repeat
+:print("Do you want to eat <b>(1)</b> poorly,
+ <b>(2)</b> moderately or <b>(3)</b> well ?");;
+:e=skb.inputInt(screen);;
+if (e<1||e>3) then (yes) 
+:print("Enter 1, 2, or 3, please.");;
+:break ;;
+endif 
+:final int ee=(int )(4+2.5*e);;
+if (e==1&&ee>f) then (yes) 
+:f=0;;
+:return ;;
+stop
+endif 
+if (ee>f) then (yes) 
+:print("You don't have enough to eat that well.");;
+:break ;;
+endif 
+:f-=ee;;
+:return ;;
+stop
+repeat while (true)
+end
+start
+note right
+void needDoctorBadly3010(int j)
+end note
+:print("<b>You need a doctor badly but can't afford one.</b>");;
+:die3030(j);;
+end
+start
+note right
+void outOfMedicalSupplies3020(int j)
+end note
+:print("<b>You have run out of all medical supplies.</b>");;
+:print();;
+:die3030(j);;
+end
+start
+note right
+void die3000(int j)
+end note
+:screen.clear();;
+:print("<b>You run out of food and starve to death.</b>");;
+:print();;
+:print3110(j);;
+end
+start
+note right
+void die3030(int j)
+end note
+:print("The wilderness is unforgiving and you die of "+
+(kh==1? String.valueOf("your injuries"):String.valueOf("pneumonia")));;
+:die3060(j);;
+end
+start
+note right
+void die3060(int j)
+end note
+:print("Your family tries to push on, but finds the going too rough");;
+:print(" without you.");;
+:print3110(j);;
+end
+start
+note right
+void print3110(int j)
+end note
+:print("Some travelers find the bodies of you and your");;
+:print("family the following spring. They give you a decent");;
+:print("burial and notify your next of kin.");;
+:print();;
+:print("At the time of your unfortunate demise,
+ you had been on the trail");;
+:final int d=14*j;;
+:final int dm=(int )(d/30.5);;
+:final int dd=(int )(d-30.5*dm);;
+:print("for "+dm+" months and "+dd+" days and had covered "+
+(int )((m+70))+" miles.");;
+:print();;
+:print("You had a few supplies left :");;
+:printInventory3350();;
+:throw new NoInputException();;
+stop
+end
+start
+note right
+void question1000(int j)
+end note
+:int x;;
+if (j%2==1) then (yes) 
+repeat
+:print("Want to <b>(1)</b> stop at the next fort,
+ <b>(2)</b> hunt, or <b>(3)</b> push on ?");;
+:x=skb.inputInt(screen);;
+if (x==3) then (yes) 
+:return ;;
+stop
+endif 
+if (x==1) then (yes) 
+:stopAtFort1100(j);;
+:return ;;
+stop
+endif 
+if (x==2) then (yes) 
+:hunt1200(j);;
+if (kq==0) then (yes) 
+:return ;;
+stop
+endif 
+endif 
+repeat while (true)
+else (no)
+repeat
+:print("Would you like to <b>(1)</b> hunt or <b>(2)</b> continue on ?");;
+:x=skb.inputInt(screen);;
+if (x==2) then (yes) 
+:return ;;
+stop
+endif 
+repeat while (x<1||x>2)
+if (x==1) then (yes) 
+:hunt1200(j);;
+endif 
+endif 
+end
+start
+note right
+void hunt1200(int j)
+end note
+:kq=0;;
+if (b<=39) then (yes) 
+:print("Tough luck. You don't have enough ammo to hunt.");;
+:kq=1;;
+:return ;;
+stop
+endif 
+:m=m-45;;
+:final int br=shoot3870();;
+if (br<=1) then (yes) 
+:print("Right between the eyes... you got a big one!");;
+:print("Full bellies tonight!");;
+:b=b-10-4*rnd();;
+:f=f+26+3*rnd();;
+:return ;;
+stop
+endif 
+if (100.0*rnd()<13*br) then (yes) 
+:print("You missed completely... and your dinner got away.");;
+:return ;;
+stop
+endif 
+:print("Nice shot... right on target... good eatin' tonight!");;
+:f=f+24-2*br;;
+:b=b-10-3*br;;
+:return ;;
+stop
+end
+start
+note right
+void stopAtFort1100(int j)
+end note
+if (t<=0) then (yes) 
+:print("You sing with the folks there and get a good");;
+:print("night's sleep, but you have no money to buy anything.");;
+:return ;;
+stop
+endif 
+while (true)
+:print("What would you like to spend on each of the following");;
+:print("Food?");;
+:final double p1=skb.inputInt(screen);;
+:print("Ammunition?");;
+:final double p2=skb.inputInt(screen);;
+:print("Clothing?");;
+:final double p3=skb.inputInt(screen);;
+:print("Medicine and supplies?");;
+:final double p4=skb.inputInt(screen);;
+:final double p=p1+p2+p3+p4;;
+:print("The storekeeper tallies up your bill. It comes to $"+
+((int )p));;
+if (t>=p) then (yes) 
+:t=t-p;;
+:f=f+.67*p1;;
+:b=b+33*p2;;
+:c=c+.67*p3;;
+:r=r+.67*p4;;
+:return ;;
+stop
+endif 
+:print("Uh, oh. That's more than you have. Better start over.");;
+endwhile
+end
+start
+note right
+void printInventory3350()
+end note
+:print();;
+:print("| <u>Cash</u> | <u>Food</u> | <u>Ammo</u> | <u>Clothes</u> | <u>Medicine/parts/...</u> |");;
+:print("+- - - - - -+- - - - - -+- - - - - -+- - - - - - - - -+- - - - - - - - - - - - - - - - - - - -+");;
+if (t<0) then (yes) 
+:t=0;;
+endif 
+if (f<0) then (yes) 
+:f=0;;
+endif 
+if (b<0) then (yes) 
+:b=0;;
+endif 
+if (c<0) then (yes) 
+:c=0;;
+endif 
+if (r<0) then (yes) 
+:r=0;;
+endif 
+:print(String.format("|%5d |%5d |%5d | %5d   |     %5d          |",
+(int )t,(int )f,(int )b,(int )c,(int )r));;
+:print("+- - - - - -+- - - - - -+- - - - - -+- - - - - - - - -+- - - - - - - - - - - - - - - - - - - -+");;
+:print();;
+end
+start
+note right
+String whereAreWe()
+end note
+if (m<5) then (yes) 
+:return "on the high prairie.";;
+stop
+endif 
+if (m<200) then (yes) 
+:return "near Independence Crossing on the Big Blue River.";;
+stop
+endif 
+if (m<350) then (yes) 
+:return "following the Platte River.";;
+stop
+endif 
+if (m<450) then (yes) 
+:return "near Fort Kearney.";;
+stop
+endif 
+if (m<600) then (yes) 
+:return "following the North Platte River.";;
+stop
+endif 
+if (m<750) then (yes) 
+:return "within sight of Chimney Rock.";;
+stop
+endif 
+if (m<850) then (yes) 
+:return "near Fort Laramie.";;
+stop
+endif 
+if (m<1000) then (yes) 
+:return "close upon Independence Rock.";;
+stop
+endif 
+if (m<1050) then (yes) 
+:return "in the Big Horn Mountains.";;
+stop
+endif 
+if (m<1150) then (yes) 
+:return "following the Green River.";;
+stop
+endif 
+if (m<1250) then (yes) 
+:return "not too far from Fort Hall.";;
+stop
+endif 
+if (m<1400) then (yes) 
+:return "following the Snake River.";;
+stop
+endif 
+if (m<1550) then (yes) 
+:return "not far from Fort Boise.";;
+stop
+endif 
+if (m<1850) then (yes) 
+:return "in the Blue Mountains.";;
+stop
+endif 
+:return "following the Columbia River";;
+stop
+end
+start
+note right
+void printInitialScenario490()
+end note
+:print("zYour journey over the Oregon Trail takes place in 1847.");;
+:print();;
+:print("Starting in Independence, Missouri,
+ you plan to take your family of");;
+:print("five over 2040 tough miles to Oregon City.");;
+:print();;
+:print("zHaving saved <b>$420</b> for the trip,
+ you bought a wagon for <b>$70</b> and");;
+:print("now have to purchase the following items :");;
+:print();;
+:print(" * <b>Oxen</b> (spending more will buy you a larger and better team which");;
+:print("    will be faster so you'll be on the trail for less time)");;
+:print(" * <b>Food</b> (you'll need ample food to keep up your strength and health)");;
+:print(" * <b>Ammunition</b> ($1 buys a belt of 50 bullets. You'll need ammo for");;
+:print("    hunting and for fighting off attacks by bandits and animals)");;
+:print(" * <b>Clothing</b> (you'll need warm clothes,
+ especially when you hit the");;
+:print("    snow and freezing weather in the mountains)");;
+:print(" * <b>Other supplies</b> (includes medicine,
+ first-aid supplies, tools, and");;
+:print("    wagon parts for unexpected emergencies)");;
+:print();;
+:print(" You can spend all your money at the start or save some to spend");;
+:print("at forts along the way. However, items cost more at the forts. You");;
+:print("can also hunt for food if you run low.");;
+:print();;
+end
+start
+note right
+void initialPurchasesOfPlayer690()
+end note
+if (skb.hasMore()) then (yes) 
+:screen.clear();;
+endif 
+repeat
+:print("How much do you want to pay for a team of oxen ?");;
+:a=skb.inputInt(screen);;
+if (a<100) then (yes) 
+:print("No one in town has a team that cheap");;
+:continue ;;
+endif 
+:break ;;
+repeat while (true)
+if (a>=151) then (yes) 
+:print("You choose an honest dealer who tells you that $"+
+a+" is too much for");;
+:print("a team of oxen. He charges you $150 and gives you $"+
+(a-150)+" change.");;
+:a=150;;
+endif 
+repeat
+:print();;
+:print("How much do you want to spend on food ?");;
+:f=skb.inputInt(screen);;
+if (f<=13) then (yes) 
+:print("That won't even get you to the Kansas River");;
+:print(" - better spend a bit more.");;
+:continue ;;
+endif 
+if (a+f>300) then (yes) 
+:print("You wont't have any for ammo and clothes.");;
+:continue ;;
+endif 
+:break ;;
+repeat while (true)
+repeat
+:print();;
+:print("How much do you want to spend on ammunition ?");;
+:b=skb.inputInt(screen);;
+if (b<2) then (yes) 
+:print("Better take a bit just for protection.");;
+:continue ;;
+endif 
+if (a+f+b>320) then (yes) 
+:print("That won't leave any money for clothes.");;
+:continue ;;
+endif 
+:break ;;
+repeat while (true)
+repeat
+:print();;
+:print("How much do you want to spend on clothes ?");;
+:c=skb.inputInt(screen);;
+if (c<=24) then (yes) 
+:print("Your family is going to be mighty cold in.");;
+:print("the mountains.");;
+:print("Better spend a bit more.");;
+:continue ;;
+endif 
+if (a+f+b+c>345) then (yes) 
+:print("That leaves nothing for medicine.");;
+:continue ;;
+endif 
+:break ;;
+repeat while (true)
+repeat
+:print();;
+:screen.print("How much for medicine, bandage,
+ repair parts, etc. ?");;
+:r=skb.inputInt(screen);;
+if (r<=5) then (yes) 
+:print("That's not at all wise.");;
+:continue ;;
+endif 
+if (a+f+b+c+r>350) then (yes) 
+:print("You don't have that much money.");;
+:continue ;;
+endif 
+:break ;;
+repeat while (true)
+:t=350-a-f-b-c-r;;
+:print();;
+:print("You now have <b>$"+((int )t)+" left.</b>");;
+:b=50*b;;
+end
+start
+note right
+void initialShootingRanking920()
+end note
+:print();;
+:print("Please rank your shooting (typing) ability as follows :");;
+:print(" (1) Ace marksman  (2) Good shot  (3) Fair to middlin'");;
+:print(" (4) Need more practice  (5) Shaky knees");;
+repeat
+:print();;
+:print("How do you rank yourself ?");;
+:dr=skb.inputInt(screen);;
+if (dr>=1&&dr<=6) then (yes) 
+:return ;;
+stop
+endif 
+:print("Please enter 1, 2, 3, 4 or 5.");;
+repeat while (true)
+end
+start
+note right
+ShootingWord safeValueOf(String s)
+end note
+switch (try/catch block)
+case (try)
+:return valueOf(StringUtils.goUpperCase(s));;
+stop
+case (catch (IllegalArgumentException e))
+:return null ;;
+stop
+endswitch
+end
+start
+note right
+int decode(ShootingWord key)
+end note
+:return (ordinal()+key.ordinal())%NB_WORDS;;
+stop
+end
+start
+note right
+ShootingWord encode(int v)
+end note
+:v=v-this.ordinal();;
+if (v<0) then (yes) 
+:v+=NB_WORDS;;
+endif 
+:return ShootingWord.values()[v];;
+stop
+end
+start
+note right
+int getTime()
+end note
+:return (int )((System.currentTimeMillis()/1000L)%NB_WORDS);;
+stop
+end
+start
+note right
+int shoot3870()
+end note
+:final int time1=getTime();;
+:final ShootingWord word1Printed=ShootingWord.values()[time1];;
+if (skb.hasMore()==false) then (yes) 
+:print("Type: "+word1Printed);;
+endif 
+:final String typed1=skb.input(screen);;
+:ShootingWord wordType1=ShootingWord.safeValueOf(typed1);;
+:final int delta;;
+if (wordType1==null ) then (yes) 
+:delta=NB_WORDS-1;;
+:wordType1=ShootingWord.values()[NB_WORDS-1];;
+else (no)
+:delta=protect(getTime()-wordType1.ordinal());;
+endif 
+:final ShootingWord word2=wordType1.encode(delta);;
+if (skb.hasMore()==false) then (yes) 
+:print("Type: "+word2);;
+endif 
+:final String typed2=skb.input(screen);;
+:final ShootingWord wordType2=ShootingWord.safeValueOf(typed2);;
+:final int duration=wordType2==null ? NB_WORDS:wordType1.decode(wordType2)-dr;;
+if (duration<0) then (yes) 
+:return 0;;
+stop
+endif 
+:return duration;;
+stop
+end
+start
+note right
+int protect(int v)
+end note
+while (v>=NB_WORDS)
+:v-=NB_WORDS;;
+endwhile
+while (v<0)
+:v+=NB_WORDS;;
+endwhile
+:return v;;
+stop
+end
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 17:01:30 UTC 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: null
+--></g></svg>
