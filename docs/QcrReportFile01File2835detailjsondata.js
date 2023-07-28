@@ -578,7 +578,7 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#121"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00121] For method copyCellSet list of called methods Object monObjet|java.util.Iterator set_iteratorN248477"
+ , "c3" : "QC-JAV000007[00121] For method copyCellSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN248477"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1271,7 +1271,7 @@ var maDataBlocs = {
  , "c1" : "00407"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#407"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00407] For method appendSet list of called methods Object monObjet|java.util.Iterator set_iteratorN262337"
+ , "c3" : "QC-JAV000007[00407] For method appendSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN262337"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1320,7 +1320,7 @@ var maDataBlocs = {
  , "c1" : "00416"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#416"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00416] For method subtractSet list of called methods Object monObjet|java.util.Iterator set_iteratorN262869|org.stathissideris.ascii2image.text.TextGrid.Cell findN263135"
+ , "c3" : "QC-JAV000007[00416] For method subtractSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN262869|org.stathissideris.ascii2image.text.TextGrid.Cell findN263135"
 }} 
 ,
 { "ligne" : {"" : ""

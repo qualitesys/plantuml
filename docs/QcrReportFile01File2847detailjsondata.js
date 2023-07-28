@@ -895,7 +895,7 @@ var maDataBlocs = {
  , "c1" : "00216"
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#216"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00216] For method qsort1 list of called methods Object monObjet|smetana.core.CArrayOfStar array_plus_N207110|smetana.core.CArrayOfStar array_plus_N207206"
+ , "c3" : "QC-JAV000007[00216] For method qsort1 list of called methods Object monObjet|smetana.core.CArrayOfStar&lt;O&gt; array_plus_N207110|smetana.core.CArrayOfStar&lt;O&gt; array_plus_N207206"
 }} 
 ,
 { "ligne" : {"" : ""

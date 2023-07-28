@@ -6286,13 +6286,6 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.postorder@POLYN589826"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.local_cross_w_@POLYN608633"
 }} 
 ,
@@ -6329,6 +6322,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.inside_cluster@POLYN552653"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.mincross__c.postorder@POLYN589826"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6476,76 +6476,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1170"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[01170] In the recursive method gen.lib.dotgen.mincross__c.flat_search@POLYN567774 the MagicNumber/String 'flat_search' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01426"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1426"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01426] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String '46to0pkk188af2dlkik2ab7e3' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01426"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1426"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01426] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 'postorder' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01429"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1429"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01429] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01431"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1431"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01431] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String true MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01432"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1432"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01432] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01433"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1433"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01433] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01433"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1433"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01433] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01435"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1435"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01435] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01443"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1443"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01443] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String '46to0pkk188af2dlkik2ab7e3' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01443"
- , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1443"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01443] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 'postorder' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6938,6 +6868,76 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#885"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00885] In the recursive method gen.lib.dotgen.mincross__c.inside_cluster@POLYN552653 the MagicNumber/String 'inside_cluster' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01426"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1426"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01426] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String '46to0pkk188af2dlkik2ab7e3' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01426"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1426"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01426] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 'postorder' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01429"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1429"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01429] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01431"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1431"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01431] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01432"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1432"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01432] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01433"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1433"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01433] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01433"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1433"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01433] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01435"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1435"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01435] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01443"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1443"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01443] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String '46to0pkk188af2dlkik2ab7e3' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01443"
+ , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1443"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01443] In the recursive method gen.lib.dotgen.mincross__c.postorder@POLYN589826 the MagicNumber/String 'postorder' MUST BE CONVERTED to const"
 }} 
 ]
 , 
