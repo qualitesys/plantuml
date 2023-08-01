@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/postproc__c.java.html" 
- , "texte" : "File src/gen/lib/common/postproc__c.java 463 rule violations " 
+ , "texte" : "File src/gen/lib/common/postproc__c.java 459 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -350,7 +350,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "5"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -825,13 +825,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#292"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00292] For method edgeTailpoint_ list of called methods Object monObjet|O spl_list_get__N317907"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00296"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#296"
  , "c2" : "MAJOR"
@@ -920,13 +913,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#327"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00327] For method edgeHeadpoint_ arguments ST_Agedge_s  e"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00327"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#327"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00327] For method edgeHeadpoint_ list of called methods Object monObjet|O spl_list_get__N319333"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1025,13 +1011,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#361"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00361] For method adjustBB_ arguments CArray&lt;ST_object_t &gt;  objp|ST_boxf  bb"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00361"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#361"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00361] For method adjustBB_ list of called methods Object monObjet|O objp_get__N321032|O objp_get__N321246"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1137,13 +1116,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#392"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00392] For method addXLabel_ arguments ST_textlabel_t  lp|CArray&lt;ST_object_t &gt;  objp|CArray&lt;ST_xlabel_t &gt;  xlp|int  initObj|ST_pointf  pos"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00392"
- , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#392"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00392] For method addXLabel_ list of called methods Object monObjet|O objp_get__N322942|O objp_get__N323063|O xlp_get__N323676|O xlp_get__N323783|O objp_get__N323892"
 }} 
 ,
 { "ligne" : {"" : ""

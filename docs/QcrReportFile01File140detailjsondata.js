@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/utils__c.java.html" 
- , "texte" : "File src/gen/lib/common/utils__c.java 591 rule violations " 
+ , "texte" : "File src/gen/lib/common/utils__c.java 590 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -432,13 +432,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "35"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
 }}
  ] 
 ,
@@ -1673,13 +1666,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#554"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00554] For method dotneato_closest_ arguments ST_splines  spl|ST_pointf  pt"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00554"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#554"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00554] For method dotneato_closest_ list of called methods Object monObjet|O bz_list_get__N370254|O bz_list_get__N370375|O c_get__N371614|O bz_list_get__N371687|O c_get__N371800|O bz_list_get__N371873"
 }} 
 ,
 { "ligne" : {"" : ""

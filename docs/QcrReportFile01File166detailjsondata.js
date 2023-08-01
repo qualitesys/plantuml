@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/label/xlabels__c.java.html" 
- , "texte" : "File src/gen/lib/label/xlabels__c.java 452 rule violations " 
+ , "texte" : "File src/gen/lib/label/xlabels__c.java 451 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -353,7 +353,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -2099,13 +2099,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00001] For method xladjust_ arguments ST_XLabels_t  xlp|ST_object_t  objp"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00001] For method xladjust_ list of called methods Object monObjet|O lp_get__N330121|O lp_get__N330343|O lp_get__N330761|O lp_get__N331284|O lp_get__N331894|O lp_get__N332029|O lp_get__N332590|O lp_get__N333200|O lp_get__N333373|O lp_get__N333934|O lp_get__N334457|O lp_get__N337172|O lp_get__N337345|O lp_get__N338186|O lp_get__N338371|O lp_get__N338823"
 }} 
 ,
 { "ligne" : {"" : ""
