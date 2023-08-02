@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramShape.java 261 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramShape.java 255 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -604,7 +604,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "20"
+ , "c4" : "14"
 }}
  ] 
 ,
@@ -1254,13 +1254,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00360"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#360"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00360] For method makeIntoPath list of called methods Object monObjet|java.util.ArrayList getPointsN333343"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#369"
  , "c2" : "MAJOR"
@@ -1359,13 +1352,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00390"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#390"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00390] For method getBounds list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN335355"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00395"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#395"
  , "c2" : "MINOR"
@@ -1376,7 +1362,7 @@ var maDataBlocs = {
  , "c1" : "00395"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#395"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00395] For method makeIntoRenderPath list of called methods Object monObjet|java.util.ArrayList getPointsN335552|org.stathissideris.ascii2image.text.TextGrid.Cell diagram_getCellForN337657|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN338565|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN338694|org.stathissideris.ascii2image.text.TextGrid.Cell diagram_getCellForN339798|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN340409|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN340538|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN341234"
+ , "c3" : "QC-JAV000007[00395] For method makeIntoRenderPath list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell diagram_getCellForN337657|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN338565|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN338694|org.stathissideris.ascii2image.text.TextGrid.Cell diagram_getCellForN339798|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN340409|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN340538|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN341234"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2160,7 +2146,7 @@ var maDataBlocs = {
  , "c1" : "00776"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#776"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00776] For method makeStoragePath list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN355487|int diagram_getCellHeightN357001"
+ , "c3" : "QC-JAV000007[00776] For method makeStoragePath list of called methods Object monObjet|int diagram_getCellHeightN357001"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2227,13 +2213,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00826"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#826"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00826] For method makeDocumentPath list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN358911"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00827"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#827"
  , "c2" : "MAJOR"
@@ -2266,13 +2245,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#859"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00859] For method makeEllipsePath arguments Diagram  diagram"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00859"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#859"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00859] For method makeEllipsePath list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN361485"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2313,13 +2285,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00882"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#882"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00882] For method makeTrapezoidPath list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN364408"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00882"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#882"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00882] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -2353,13 +2318,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00904"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#904"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00904] For method makeDecisionPath list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN366543"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00905"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#905"
  , "c2" : "MAJOR"
@@ -2384,7 +2342,7 @@ var maDataBlocs = {
  , "c1" : "00924"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#924"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00924] For method makeIOPath list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN368392|int diagram_getCellWidthN369261"
+ , "c3" : "QC-JAV000007[00924] For method makeIOPath list of called methods Object monObjet|int diagram_getCellWidthN369261"
 }} 
 ,
 { "ligne" : {"" : ""

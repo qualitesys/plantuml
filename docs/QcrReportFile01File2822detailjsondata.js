@@ -207,7 +207,7 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00074] For method render list of called methods Object monObjet|java.util.ArrayList diagram_getAllDiagramShapesN217373|java.awt.geom.GeneralPath shape_makeIntoRenderPathN218086|float diagram_getMinimumOfCellDimensionN218182|float diagram_getMinimumOfCellDimensionN220750|java.awt.geom.GeneralPath shape_makeIntoRenderPathN222228|java.util.ArrayList shape_getPointsN223994|java.awt.geom.GeneralPath shape_makeIntoRenderPathN224119|java.awt.geom.GeneralPath shape_makeIntoRenderPathN225506|java.util.ArrayList diagram_getTextObjectsN225917|int diagram_getCellWidthN228183|int diagram_getCellHeightN228545"
+ , "c3" : "QC-JAV000007[00074] For method render list of called methods Object monObjet|java.util.ArrayList diagram_getAllDiagramShapesN217373|java.awt.geom.GeneralPath shape_makeIntoRenderPathN218086|float diagram_getMinimumOfCellDimensionN218182|float diagram_getMinimumOfCellDimensionN220750|java.awt.geom.GeneralPath shape_makeIntoRenderPathN222228|java.awt.geom.GeneralPath shape_makeIntoRenderPathN224119|java.awt.geom.GeneralPath shape_makeIntoRenderPathN225506|int diagram_getCellWidthN228183|int diagram_getCellHeightN228545"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -718,7 +718,7 @@ var maDataBlocs = {
  , "c1" : "00394"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#394"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00394] For method renderCustomPNGShape list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.CustomShapeDefinition shape_getDefinitionN233279|java.awt.Rectangle shape_getBoundsN233356|org.stathissideris.ascii2image.graphics.ImageHandler ImageHandler_instanceN233433"
+ , "c3" : "QC-JAV000007[00394] For method renderCustomPNGShape list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.CustomShapeDefinition shape_getDefinitionN233279|java.awt.Rectangle shape_getBoundsN233356"
 }} 
 ,
 { "ligne" : {"" : ""

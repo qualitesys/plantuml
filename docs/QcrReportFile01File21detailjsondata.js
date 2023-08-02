@@ -297,7 +297,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#108"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00108] For method transformPolygonPoints list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D[] pPolygon_getPointsN168848|ext.plantuml.com.ctreber.acearth.util.Point3D fProjection_rotateN168954|ext.plantuml.com.ctreber.acearth.util.Point2D fProjection_project2DN169159"
+ , "c3" : "QC-JAV000007[00108] For method transformPolygonPoints list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D fProjection_rotateN168954|ext.plantuml.com.ctreber.acearth.util.Point2D fProjection_project2DN169159"
 }} 
 ,
 { "ligne" : {"" : ""

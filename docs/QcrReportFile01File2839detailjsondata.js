@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 898 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 897 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -1532,7 +1532,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "47"
+ , "c4" : "46"
 }}
  ] 
 ,
@@ -3081,7 +3081,7 @@ var maDataBlocs = {
  , "c1" : "00573"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#573"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00573] For method removeColorCodes list of called methods Object monObjet|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellColorPair&gt; findColorCodesN470892|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN471264|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN471425|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN471586"
+ , "c3" : "QC-JAV000007[00573] For method removeColorCodes list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN471264|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN471425|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN471586"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3502,13 +3502,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#662"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00662] In method org.stathissideris.ascii2image.text.TextGrid.findMarkupTags@POLYN476377 the MagicNumber/String  ', ' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00672"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#672"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00672] For method removeMarkupTags list of called methods Object monObjet|java.util.ArrayList&lt;org.stathissideris.ascii2image.text.TextGrid.CellTagPair&gt; findMarkupTagsN478425"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5265,7 +5258,7 @@ var maDataBlocs = {
  , "c1" : "01257"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1257"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01257] For method equals list of called methods Object monObjet|int grid_getHeightN512140|StringBuffer grid_getRowN512492"
+ , "c3" : "QC-JAV000007[01257] For method equals list of called methods Object monObjet|int grid_getHeightN512140"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5573,7 +5566,7 @@ var maDataBlocs = {
  , "c1" : "01433"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1433"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01433] For method seedFillLine list of called methods Object monObjet|char getN521090|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN522565"
+ , "c3" : "QC-JAV000007[01433] For method seedFillLine list of called methods Object monObjet|char getN521090"
 }} 
 ,
 { "ligne" : {"" : ""

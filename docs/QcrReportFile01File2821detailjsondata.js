@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java 6 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java 5 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -76,13 +76,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -91,13 +84,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#37"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00037] For method compare arguments Object  object1|Object  object2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/Shape3DOrderingComparator.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00037] For method compare list of called methods Object monObjet|java.awt.geom.GeneralPath shape1_makeIntoPathN154765|java.awt.geom.GeneralPath shape2_makeIntoPathN154882"
 }} 
 ,
 { "ligne" : {"" : ""

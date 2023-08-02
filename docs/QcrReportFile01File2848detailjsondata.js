@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/Macro.java.html" 
- , "texte" : "File src/smetana/core/Macro.java 485 rule violations " 
+ , "texte" : "File src/smetana/core/Macro.java 480 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -2744,7 +2744,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "7"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -2960,13 +2960,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/smetana/core/Macro.java.html#170"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00170] For method AGTYPE list of called methods Object monObjet|h.ST_Agtag_s AGTAGN393081"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#175"
  , "c2" : "MINOR"
@@ -2981,13 +2974,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/smetana/core/Macro.java.html#179"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00179] For method AGID list of called methods Object monObjet|h.ST_Agtag_s AGTAGN393427"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#184"
  , "c2" : "MINOR"
@@ -2999,13 +2985,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#188"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00188] For method AGSEQ arguments ST_Agobj_s  obj|int  v"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/smetana/core/Macro.java.html#188"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00188] For method AGSEQ list of called methods Object monObjet|h.ST_Agtag_s AGTAGN393773"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3107,13 +3086,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00236"
- , "c1link" : "./qc/src/smetana/core/Macro.java.html#236"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00236] For method M_agtail list of called methods Object monObjet|h.ST_Agedge_s AGMKINN395622"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#241"
  , "c2" : "MINOR"
@@ -3132,13 +3104,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#249"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00249] For method M_aghead arguments ST_Agedge_s  e|ST_Agnode_s  v"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00249"
- , "c1link" : "./qc/src/smetana/core/Macro.java.html#249"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00249] For method M_aghead list of called methods Object monObjet|h.ST_Agedge_s AGMKOUTN396124"
 }} 
 ,
 { "ligne" : {"" : ""
