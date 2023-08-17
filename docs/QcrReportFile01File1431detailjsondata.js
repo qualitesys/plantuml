@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<Character>"
+ , "c1" : ""
+ , "c2" : "Iterable<Character>"
  , "c2" : "net.sourceforge.plantuml.hcl.HclSource"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleMultiFactoryCommand<ActivityDiagram>"
+ , "c1" : ""
+ , "c2" : "SingleMultiFactoryCommand<ActivityDiagram>"
  , "c2" : "net.sourceforge.plantuml.command.note.CommandFactoryNoteActivity"
 }} 
 ]

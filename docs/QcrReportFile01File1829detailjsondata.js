@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparator<Cell>"
+ , "c1" : ""
+ , "c2" : "Comparator<Cell>"
  , "c2" : "net.sourceforge.plantuml.salt.element.LeftFirst"
 }} 
 ]

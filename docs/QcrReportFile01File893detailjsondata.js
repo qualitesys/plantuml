@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Compression"
+ , "c1" : ""
+ , "c2" : "Compression"
  , "c2" : "net.sourceforge.plantuml.code.CompressionZopfliZlib"
 }} 
 ]

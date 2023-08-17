@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "VisioShape"
+ , "c1" : ""
+ , "c2" : "VisioShape"
  , "c2" : "net.sourceforge.plantuml.ugraphic.visio.VisioText"
 }} 
 ]

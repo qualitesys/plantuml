@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TimeLine"
+ , "c1" : ""
+ , "c2" : "TimeLine"
  , "c2" : "net.sourceforge.plantuml.project.core3.TimeLineSimple"
 }} 
 ]

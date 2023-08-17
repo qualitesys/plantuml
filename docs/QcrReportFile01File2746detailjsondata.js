@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ITF"
+ , "c1" : "AbstractTextBlock"
+ , "c2" : "ITF"
  , "c2" : "net.sourceforge.plantuml.wbs.ITFLeaf"
 }} 
 ]

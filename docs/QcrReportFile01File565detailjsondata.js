@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "WeldingPoint"
+ , "c1" : "FtileEmpty"
+ , "c2" : "WeldingPoint"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileBreak"
 }} 
 ]

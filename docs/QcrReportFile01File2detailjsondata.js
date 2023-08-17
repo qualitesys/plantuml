@@ -428,7 +428,7 @@ var maDataBlocs = {
  , "c1" : "00231"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#231"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00231] For method computePositions list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Coordinate fConf_getViewPosN224083|ext.plantuml.com.ctreber.acearth.util.Coordinate getSunRelativePositionN224271|ext.plantuml.com.ctreber.acearth.util.Coordinate getOrbitPositionN224451|ext.plantuml.com.ctreber.acearth.util.Coordinate getRandomPositionN224650|ext.plantuml.com.ctreber.acearth.util.Coordinate SunPositionCalculator_getMoonPositionOnEarthN224830"
+ , "c3" : "QC-JAV000007[00231] For method computePositions list of called methods Object monObjet|int fConf_getIntN223644|ext.plantuml.com.ctreber.acearth.util.Coordinate fConf_getViewPosN224083|ext.plantuml.com.ctreber.acearth.util.Coordinate getSunRelativePositionN224271|ext.plantuml.com.ctreber.acearth.util.Coordinate getOrbitPositionN224451|ext.plantuml.com.ctreber.acearth.util.Coordinate getRandomPositionN224650|ext.plantuml.com.ctreber.acearth.util.Coordinate SunPositionCalculator_getMoonPositionOnEarthN224830|double fConf_getDoubleN225379"
 }} 
 ,
 { "ligne" : {"" : ""

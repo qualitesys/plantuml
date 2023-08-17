@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Stencil"
+ , "c1" : "AbstractEntityImage"
+ , "c2" : "Stencil,WithPorts"
  , "c2" : "net.sourceforge.plantuml.svek.image.EntityImageClass"
 }} 
 ]

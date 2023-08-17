@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Transcoder"
+ , "c1" : ""
+ , "c2" : "Transcoder"
  , "c2" : "net.sourceforge.plantuml.code.TranscoderImpl"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "RenderTarget"
+ , "c1" : ""
+ , "c2" : "RenderTarget"
  , "c2" : "ext.plantuml.com.ctreber.acearth.gui.PixelCanvas"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<DotPath,TikzGraphics>"
+ , "c1" : ""
+ , "c2" : "UDriver<DotPath,TikzGraphics>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.tikz.DriverDotPathTikz"
 }} 
 ]

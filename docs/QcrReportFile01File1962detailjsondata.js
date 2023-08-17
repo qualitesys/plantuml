@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FreeYStrategy"
+ , "c1" : ""
+ , "c2" : "FreeYStrategy"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.FreeYStrategyBasic"
 }} 
 ]

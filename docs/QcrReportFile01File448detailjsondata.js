@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SvgCharSizeHack"
+ , "c1" : ""
+ , "c2" : "SvgCharSizeHack"
  , "c2" : "net.sourceforge.plantuml.SpriteContainer"
 }} 
 ]

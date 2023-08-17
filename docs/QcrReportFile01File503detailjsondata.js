@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Instruction"
+ , "c1" : "WithNote"
+ , "c2" : "Instruction,InstructionCollection"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.InstructionWhile"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ActionListener"
+ , "c1" : ""
+ , "c2" : "ActionListener"
  , "c2" : "ext.plantuml.com.ctreber.acearth.plugins.Plugin"
 }} 
 ]

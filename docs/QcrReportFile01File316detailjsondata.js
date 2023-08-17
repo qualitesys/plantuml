@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SymbolFactory"
+ , "c1" : ""
+ , "c2" : "SymbolFactory"
  , "c2" : "jcckit.plot.ErrorBarFactory"
 }} 
 ]

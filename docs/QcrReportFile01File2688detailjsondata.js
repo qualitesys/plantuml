@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<UPolygon,SvgGraphics>"
+ , "c1" : ""
+ , "c2" : "UDriver<UPolygon,SvgGraphics>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.svg.DriverPolygonSvg"
 }} 
 ]

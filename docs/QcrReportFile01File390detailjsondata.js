@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<GeneratedImage>"
+ , "c1" : ""
+ , "c2" : "Comparable<GeneratedImage>"
  , "c2" : "net.sourceforge.plantuml.GeneratedImage"
 }} 
 ]

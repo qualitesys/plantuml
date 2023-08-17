@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ClippingShape"
+ , "c1" : ""
+ , "c2" : "ClippingShape"
  , "c2" : "jcckit.graphic.ClippingRectangle"
 }} 
 ]

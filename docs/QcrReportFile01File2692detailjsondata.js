@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ClipContainer"
+ , "c1" : "AbstractUGraphic<SvgGraphics>"
+ , "c2" : "ClipContainer"
  , "c2" : "net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg"
 }} 
 ]

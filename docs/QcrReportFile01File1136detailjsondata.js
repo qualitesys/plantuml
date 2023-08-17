@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Graphviz"
+ , "c1" : ""
+ , "c2" : "Graphviz"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.dot.AbstractGraphviz"
 }} 
 ]

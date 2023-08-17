@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Point2DFunction"
+ , "c1" : ""
+ , "c2" : "Point2DFunction"
  , "c2" : "net.sourceforge.plantuml.svek.YDelta"
 }} 
 ]

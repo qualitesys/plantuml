@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleMultiFactoryCommand<WithSprite>"
+ , "c1" : ""
+ , "c2" : "SingleMultiFactoryCommand<WithSprite>"
  , "c2" : "net.sourceforge.plantuml.command.CommandFactorySprite"
 }} 
 ]

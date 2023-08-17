@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Context2D"
+ , "c1" : "UGraphicDelegator"
+ , "c2" : "Context2D"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.UGraphicInterceptorTile"
 }} 
 ]

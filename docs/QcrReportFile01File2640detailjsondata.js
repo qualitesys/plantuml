@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : ""
+ , "c1" : "StringBounderRaw"
+ , "c2" : ""
  , "c2" : "net.sourceforge.plantuml.ugraphic.debug.StringBounderDebug"
 }} 
 ]

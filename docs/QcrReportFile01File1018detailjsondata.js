@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TextBlock"
+ , "c1" : "AbstractTextBlock"
+ , "c2" : "TextBlock,Atom,Stencil"
  , "c2" : "net.sourceforge.plantuml.creole.SheetBlock1"
 }} 
 ]

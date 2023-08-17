@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DefinitionsContainer"
+ , "c1" : ""
+ , "c2" : "DefinitionsContainer"
  , "c2" : "net.sourceforge.plantuml.BlockUmlBuilder"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : ""
+ , "c1" : "Shader"
+ , "c2" : ""
  , "c2" : "ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho"
 }} 
 ]
@@ -106,7 +107,7 @@ var maDataBlocs = {
  , "c1" : "00016"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00016] For method getShadedColors list of called methods Object monObjet|double[] computeXValuesN153551"
+ , "c3" : "QC-JAV000007[00016] For method getShadedColors list of called methods Object monObjet|double[] computeXValuesN153551|java.awt.Color getShadedColorForTypeN154808"
 }} 
 ,
 { "ligne" : {"" : ""

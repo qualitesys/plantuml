@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Transferable"
+ , "c1" : ""
+ , "c2" : "Transferable"
  , "c2" : "net.sourceforge.plantuml.ImageSelection"
 }} 
 ]

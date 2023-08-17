@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<StringLocated>"
+ , "c1" : ""
+ , "c2" : "Iterable<StringLocated>"
  , "c2" : "net.sourceforge.plantuml.command.BlocLines"
 }} 
 ]

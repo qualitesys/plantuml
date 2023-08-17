@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TextBlockBackcolored"
+ , "c1" : "AbstractTextBlock"
+ , "c2" : "TextBlockBackcolored"
  , "c2" : "net.sourceforge.plantuml.jsondiagram.TextBlockJson"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "BitInputStream"
+ , "c1" : ""
+ , "c2" : "BitInputStream"
  , "c2" : "net.sourceforge.plantuml.code.deflate.ByteBitInputStream"
 }} 
 ]

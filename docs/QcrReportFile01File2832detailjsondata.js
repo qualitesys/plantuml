@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : ""
+ , "c1" : "java.awt.geom.Point2D.Float"
+ , "c2" : ""
  , "c2" : "org.stathissideris.ascii2image.graphics.ShapePoint"
 }} 
 ]

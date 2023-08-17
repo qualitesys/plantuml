@@ -8,12 +8,14 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Line"
+ , "c1" : "AbstractTextBlock"
+ , "c2" : "Line,Atom"
  , "c2" : "net.sourceforge.plantuml.EmbeddedDiagramDraw"
 }} 
 ,
 { "ligne" : { "" : ""
- , "c1" : "CharSequence"
+ , "c1" : ""
+ , "c2" : "CharSequence"
  , "c2" : "net.sourceforge.plantuml.EmbeddedDiagram"
 }} 
 ]

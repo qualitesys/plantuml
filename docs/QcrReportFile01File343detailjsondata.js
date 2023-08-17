@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TicLabelFormat"
+ , "c1" : ""
+ , "c2" : "TicLabelFormat"
  , "c2" : "jcckit.util.Format"
 }} 
 ]

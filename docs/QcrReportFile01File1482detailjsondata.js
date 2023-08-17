@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ScientificEquation"
+ , "c1" : ""
+ , "c2" : "ScientificEquation"
  , "c2" : "net.sourceforge.plantuml.math.LatexBuilder"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TimeProjected"
+ , "c1" : ""
+ , "c2" : "TimeProjected"
  , "c2" : "net.sourceforge.plantuml.timingdiagram.graphic.PDrawing"
 }} 
 ]

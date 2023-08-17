@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "__struct__"
+ , "c1" : ""
+ , "c2" : "__struct__,__ptr__"
  , "c2" : "smetana.core.UnsupportedStarStruct"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : ""
+ , "c1" : "BasicGraphicalElement"
+ , "c2" : ""
  , "c2" : "jcckit.graphic.Text"
 }} 
 ]

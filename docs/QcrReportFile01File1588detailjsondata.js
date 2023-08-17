@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UShape"
+ , "c1" : ""
+ , "c2" : "UShape,Moveable"
  , "c2" : "net.sourceforge.plantuml.posimo.DotPath"
 }} 
 ]

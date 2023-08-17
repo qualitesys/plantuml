@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Task"
+ , "c1" : "AbstractTask"
+ , "c2" : "Task,LoadPlanable"
  , "c2" : "net.sourceforge.plantuml.project.core.TaskImpl"
 }} 
 ]

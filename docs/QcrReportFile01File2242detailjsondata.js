@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterator<List<XPoint2D>>"
+ , "c1" : ""
+ , "c2" : "Iterator<List<XPoint2D>>"
  , "c2" : "net.sourceforge.plantuml.svek.PointListIterator"
 }} 
 ]

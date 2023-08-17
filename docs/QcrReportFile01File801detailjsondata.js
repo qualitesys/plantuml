@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ConnectorPuzzle"
+ , "c1" : "AbstractConnectorPuzzle"
+ , "c2" : "ConnectorPuzzle"
  , "c2" : "net.sourceforge.plantuml.bpm.BpmElement"
 }} 
 ]

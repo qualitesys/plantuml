@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PostScriptCommand"
+ , "c1" : ""
+ , "c2" : "PostScriptCommand"
  , "c2" : "net.sourceforge.plantuml.eps.PostScriptCommandMoveTo"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ConfigData"
+ , "c1" : ""
+ , "c2" : "ConfigData"
  , "c2" : "jcckit.util.ConfigParametersBasedConfigData"
 }} 
 ]

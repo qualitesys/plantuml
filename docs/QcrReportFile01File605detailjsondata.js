@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ConnectionTranslatable"
+ , "c1" : "AbstractConnection"
+ , "c2" : "ConnectionTranslatable"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ConnectionVerticalDown"
 }} 
 ]

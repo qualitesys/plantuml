@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : ""
+ , "c1" : "CTSort"
+ , "c2" : ""
  , "c2" : "ext.plantuml.com.ctreber.aclib.sort.QuickSort"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ISudoku"
+ , "c1" : ""
+ , "c2" : "ISudoku"
  , "c2" : "net.sourceforge.plantuml.sudoku.SudokuDLX"
 }} 
 ]

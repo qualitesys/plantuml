@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UmlCharArea"
+ , "c1" : ""
+ , "c2" : "UmlCharArea"
  , "c2" : "net.sourceforge.plantuml.asciiart.TranslatedCharArea"
 }} 
 ]

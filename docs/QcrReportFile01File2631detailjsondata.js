@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PiecewiseAffineTransform"
+ , "c1" : ""
+ , "c2" : "PiecewiseAffineTransform"
  , "c2" : "net.sourceforge.plantuml.ugraphic.comp.ExpandTransform"
 }} 
 ]

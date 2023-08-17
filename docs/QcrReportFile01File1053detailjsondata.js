@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Command"
+ , "c1" : ""
+ , "c2" : "Command"
  , "c2" : "net.sourceforge.plantuml.creole.command.CommandCreoleQrcode"
 }} 
 ]

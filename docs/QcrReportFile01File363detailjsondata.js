@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "EnsureVisible"
+ , "c1" : ""
+ , "c2" : "EnsureVisible"
  , "c2" : "net.sourceforge.plantuml.BasicEnsureVisible"
 }} 
 ]

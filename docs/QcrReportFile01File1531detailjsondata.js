@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Staged"
+ , "c1" : ""
+ , "c2" : "Staged"
  , "c2" : "net.sourceforge.plantuml.nwdiag.next.NBar"
 }} 
 ]

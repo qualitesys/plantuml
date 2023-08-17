@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UChange"
+ , "c1" : ""
+ , "c2" : "UChange"
  , "c2" : "net.sourceforge.plantuml.ugraphic.CopyForegroundColorToBackgroundColor"
 }} 
 ]

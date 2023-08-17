@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TextBlockable"
+ , "c1" : ""
+ , "c2" : "TextBlockable"
  , "c2" : "net.sourceforge.plantuml.ebnf.EbnfExpression"
 }} 
 ]

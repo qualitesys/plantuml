@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ToTaskDraw"
+ , "c1" : "TitledDiagram"
+ , "c2" : "ToTaskDraw,WithSprite"
  , "c2" : "net.sourceforge.plantuml.project.GanttDiagram"
 }} 
 ]

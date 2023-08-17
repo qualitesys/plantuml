@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "EventWithDeactivate"
+ , "c1" : "Grouping"
+ , "c2" : "EventWithDeactivate"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.GroupingLeaf"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SheetBuilder"
+ , "c1" : ""
+ , "c2" : "SheetBuilder"
  , "c2" : "net.sourceforge.plantuml.creole.legacy.CreoleParser"
 }} 
 ]

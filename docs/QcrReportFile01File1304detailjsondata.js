@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Runnable"
+ , "c1" : ""
+ , "c2" : "Runnable"
  , "c2" : "net.sourceforge.plantuml.ftp.FtpLoop"
 }} 
 ]

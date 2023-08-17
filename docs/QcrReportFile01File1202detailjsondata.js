@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CharIterator"
+ , "c1" : ""
+ , "c2" : "CharIterator"
  , "c2" : "net.sourceforge.plantuml.ebnf.CharIteratorImpl"
 }} 
 ]

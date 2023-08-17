@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TFunction"
+ , "c1" : ""
+ , "c2" : "TFunction"
  , "c2" : "net.sourceforge.plantuml.tim.TFunctionImpl"
 }} 
 ]

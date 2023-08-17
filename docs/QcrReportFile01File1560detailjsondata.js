@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Keyboard"
+ , "c1" : ""
+ , "c2" : "Keyboard"
  , "c2" : "net.sourceforge.plantuml.oregon.KeyboardList"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "BasicGame"
+ , "c1" : ""
+ , "c2" : "BasicGame"
  , "c2" : "net.sourceforge.plantuml.oregon.OregonBasicGame"
 }} 
 ]

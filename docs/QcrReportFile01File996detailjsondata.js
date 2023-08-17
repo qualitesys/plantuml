@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "IRegex"
+ , "c1" : "RegexComposed"
+ , "c2" : "IRegex"
  , "c2" : "net.sourceforge.plantuml.command.regex.RegexOr"
 }} 
 ]

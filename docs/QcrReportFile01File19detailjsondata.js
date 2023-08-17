@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "RowTypeRenderer"
+ , "c1" : ""
+ , "c2" : "RowTypeRenderer"
  , "c2" : "ext.plantuml.com.ctreber.acearth.renderer.RowTypeRendererScanBit"
 }} 
 ]

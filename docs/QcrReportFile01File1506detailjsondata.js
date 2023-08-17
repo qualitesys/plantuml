@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<Stripe>"
+ , "c1" : ""
+ , "c2" : "Comparable<Stripe>"
  , "c2" : "net.sourceforge.plantuml.mindmap.Stripe"
 }} 
 ]

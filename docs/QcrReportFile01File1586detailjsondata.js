@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Clusterable"
+ , "c1" : ""
+ , "c2" : "Clusterable"
  , "c2" : "net.sourceforge.plantuml.posimo.Cluster"
 }} 
 ]

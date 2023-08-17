@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Shape"
+ , "c1" : ""
+ , "c2" : "Shape,Cloneable"
  , "c2" : "net.sourceforge.plantuml.ugraphic.g2d.ExtendedGeneralPath"
 }} 
 ]

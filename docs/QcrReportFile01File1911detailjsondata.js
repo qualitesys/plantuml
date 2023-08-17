@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SpecificBackcolorable"
+ , "c1" : ""
+ , "c2" : "SpecificBackcolorable,WithStyle"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.Participant"
 }} 
 ]

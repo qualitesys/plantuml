@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "WithPorts"
+ , "c1" : "AbstractTextBlock"
+ , "c2" : "WithPorts"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon"
 }} 
 ]

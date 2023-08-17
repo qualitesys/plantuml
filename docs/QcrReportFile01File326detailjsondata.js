@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Curve"
+ , "c1" : ""
+ , "c2" : "Curve"
  , "c2" : "jcckit.plot.SimpleCurve"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ArithmeticStrategy"
+ , "c1" : ""
+ , "c2" : "ArithmeticStrategy"
  , "c2" : "net.sourceforge.plantuml.svek.ArithmeticStrategyMax"
 }} 
 ]

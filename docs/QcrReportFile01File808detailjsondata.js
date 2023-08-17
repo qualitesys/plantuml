@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparator<O>"
+ , "c1" : ""
+ , "c2" : "Comparator<O>"
  , "c2" : "net.sourceforge.plantuml.bpm.Chain"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SvgCommand"
+ , "c1" : ""
+ , "c2" : "SvgCommand"
  , "c2" : "net.sourceforge.plantuml.openiconic.SvgCommandNumber"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PSystemFactory"
+ , "c1" : ""
+ , "c2" : "PSystemFactory"
  , "c2" : "net.sourceforge.plantuml.eggs.PSystemWelcomeFactory"
 }} 
 ]

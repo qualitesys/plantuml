@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<Member>"
+ , "c1" : "JsonValue"
+ , "c2" : "Iterable<Member>"
  , "c2" : "net.sourceforge.plantuml.json.JsonObject"
 }} 
 ]

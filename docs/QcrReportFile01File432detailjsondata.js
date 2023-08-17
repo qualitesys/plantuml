@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ISkinParam"
+ , "c1" : ""
+ , "c2" : "ISkinParam"
  , "c2" : "net.sourceforge.plantuml.SkinParam"
 }} 
 ]

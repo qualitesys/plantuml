@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<URectangle,EpsGraphics>"
+ , "c1" : ""
+ , "c2" : "UDriver<URectangle,EpsGraphics>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.eps.DriverRectangleEps"
 }} 
 ]

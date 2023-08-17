@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<Instant>"
+ , "c1" : ""
+ , "c2" : "Comparable<Instant>,Value"
  , "c2" : "net.sourceforge.plantuml.project.time.Instant"
 }} 
 ]

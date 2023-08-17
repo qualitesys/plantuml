@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TimeScale"
+ , "c1" : ""
+ , "c2" : "TimeScale"
  , "c2" : "net.sourceforge.plantuml.project.timescale.TimeScaleCompressed"
 }} 
 ]

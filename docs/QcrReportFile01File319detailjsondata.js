@@ -2,13 +2,14 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/Plot.java.html" 
- , "texte" : "File src/jcckit/plot/Plot.java 56 rule violations " 
+ , "texte" : "File src/jcckit/plot/Plot.java 57 rule violations " 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DataListener"
+ , "c1" : ""
+ , "c2" : "DataListener"
  , "c2" : "jcckit.plot.Plot"
 }} 
 ]
@@ -257,7 +258,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "3"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
@@ -525,7 +526,7 @@ var maDataBlocs = {
  , "c1" : "00328"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#328"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00328] For method generateCurves list of called methods Object monObjet|jcckit.plot.Curve _curveFactory_createN236016"
+ , "c3" : "QC-JAV000007[00328] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN235851|jcckit.plot.Curve _curveFactory_createN236016"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -596,6 +597,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#347"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00347] For method fillCurve arguments int  curveIndex|DataCurve  dataCurve"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#347"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00347] For method fillCurve list of called methods Object monObjet|int dataCurve_getNumberOfElementsN237234"
 }} 
 ,
 { "ligne" : {"" : ""

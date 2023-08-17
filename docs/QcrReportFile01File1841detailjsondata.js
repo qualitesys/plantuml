@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ElementFactory"
+ , "c1" : ""
+ , "c2" : "ElementFactory"
  , "c2" : "net.sourceforge.plantuml.salt.factory.ElementFactoryCheckboxOff"
 }} 
 ]

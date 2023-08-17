@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "MutableImage"
+ , "c1" : ""
+ , "c2" : "MutableImage"
  , "c2" : "net.sourceforge.plantuml.ugraphic.PixelImage"
 }} 
 ]

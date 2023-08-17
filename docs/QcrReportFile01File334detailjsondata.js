@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Transformation"
+ , "c1" : ""
+ , "c2" : "Transformation"
  , "c2" : "jcckit.transformation.CartesianTransformation"
 }} 
 ]

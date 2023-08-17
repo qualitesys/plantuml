@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DataElement"
+ , "c1" : "DataContainer"
+ , "c2" : "DataElement"
  , "c2" : "jcckit.data.DataCurve"
 }} 
 ]

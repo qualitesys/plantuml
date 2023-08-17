@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<DotPath,BrailleGrid>"
+ , "c1" : ""
+ , "c2" : "UDriver<DotPath,BrailleGrid>"
  , "c2" : "net.sourceforge.plantuml.braille.DriverDotPathBraille"
 }} 
 ]

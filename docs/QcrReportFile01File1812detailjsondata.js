@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Element"
+ , "c1" : "AbstractElementText"
+ , "c2" : "Element"
  , "c2" : "net.sourceforge.plantuml.salt.element.ElementDroplist"
 }} 
 ]

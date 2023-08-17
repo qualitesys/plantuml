@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AutomaticCounter"
+ , "c1" : ""
+ , "c2" : "AutomaticCounter"
  , "c2" : "net.sourceforge.plantuml.style.StyleBuilder"
 }} 
 ]

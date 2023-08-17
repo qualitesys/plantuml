@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Component"
+ , "c1" : ""
+ , "c2" : "Component"
  , "c2" : "net.sourceforge.plantuml.skin.rose.ComponentRoseGroupingSpace"
 }} 
 ]

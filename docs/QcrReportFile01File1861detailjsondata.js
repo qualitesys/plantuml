@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<SFile>"
+ , "c1" : ""
+ , "c2" : "Comparable<SFile>"
  , "c2" : "net.sourceforge.plantuml.security.SFile"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ITF"
+ , "c1" : "WBSTextBlock"
+ , "c2" : "ITF"
  , "c2" : "net.sourceforge.plantuml.wbs.ITFComposed"
 }} 
 ]

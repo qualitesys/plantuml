@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GroupHierarchy"
+ , "c1" : "UmlDiagram"
+ , "c2" : "GroupHierarchy,PortionShower"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram"
 }} 
 ]

@@ -2,13 +2,14 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html" 
- , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 82 rule violations " 
+ , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 83 rule violations " 
  , "fic3"  : "" 
 }
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GraphicalCompositeRenderer"
+ , "c1" : ""
+ , "c2" : "GraphicalCompositeRenderer,PolygonRenderer,OvalRenderer,TextRenderer,RectangleRenderer"
  , "c2" : "jcckit.renderer.Graphics2DRenderer"
 }} 
 ]
@@ -183,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "6"
+ , "c4" : "7"
 }}
  ] 
 ,
@@ -338,6 +339,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#149"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00149] For method render list of called methods Object monObjet|jcckit.graphic.GraphPoint oval_getCenterN209179|double oval_getWidthN209256|double oval_getHeightN209333"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#149"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00149] The argument oval is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -451,7 +459,7 @@ var maDataBlocs = {
  , "c1" : "00205"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#205"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00205] For method render list of called methods Object monObjet|java.awt.Color ta_getTextColorN213011|java.lang.String text_getTextN213396|double ta_getFontSizeN213640|java.awt.Font createFontN213885"
+ , "c3" : "QC-JAV000007[00205] For method render list of called methods Object monObjet|jcckit.graphic.GraphicAttributes text_getGraphicAttributesN212706|java.awt.Color ta_getTextColorN213011|java.lang.String text_getTextN213396|double ta_getFontSizeN213640|java.awt.Font createFontN213885"
 }} 
 ,
 { "ligne" : {"" : ""

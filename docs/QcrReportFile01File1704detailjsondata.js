@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TaskDraw"
+ , "c1" : ""
+ , "c2" : "TaskDraw"
  , "c2" : "net.sourceforge.plantuml.project.draw.TaskDrawSeparator"
 }} 
 ]

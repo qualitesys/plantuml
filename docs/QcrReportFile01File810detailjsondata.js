@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "GridCleaner"
+ , "c1" : ""
+ , "c2" : "GridCleaner"
  , "c2" : "net.sourceforge.plantuml.bpm.CleanerEmptyLine"
 }} 
 ]

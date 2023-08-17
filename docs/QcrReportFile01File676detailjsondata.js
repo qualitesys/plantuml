@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Swimable2"
+ , "c1" : ""
+ , "c2" : "Swimable2,TextBlock"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.gtile.Gtile"
 }} 
 ]

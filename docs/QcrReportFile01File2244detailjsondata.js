@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<PortGeometry>"
+ , "c1" : ""
+ , "c2" : "Comparable<PortGeometry>"
  , "c2" : "net.sourceforge.plantuml.svek.PortGeometry"
 }} 
 ]

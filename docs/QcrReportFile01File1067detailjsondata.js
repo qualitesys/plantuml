@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "StripeRaw"
+ , "c1" : ""
+ , "c2" : "StripeRaw"
  , "c2" : "net.sourceforge.plantuml.creole.legacy.StripeLatex"
 }} 
 ]

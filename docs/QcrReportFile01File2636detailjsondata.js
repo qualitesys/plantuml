@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<Slot>"
+ , "c1" : ""
+ , "c2" : "Comparable<Slot>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.comp.Slot"
 }} 
 ]

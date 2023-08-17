@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PathIterator"
+ , "c1" : ""
+ , "c2" : "PathIterator"
  , "c2" : "net.sourceforge.plantuml.ugraphic.eps.PathIteratorLimited"
 }} 
 ]

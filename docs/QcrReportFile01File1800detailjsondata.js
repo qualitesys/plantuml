@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "WithSprite"
+ , "c1" : "TitledDiagram"
+ , "c2" : "WithSprite"
  , "c2" : "net.sourceforge.plantuml.salt.PSystemSalt"
 }} 
 ]

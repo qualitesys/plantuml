@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SpecificBackcolorable"
+ , "c1" : ""
+ , "c2" : "SpecificBackcolorable"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane"
 }} 
 ]

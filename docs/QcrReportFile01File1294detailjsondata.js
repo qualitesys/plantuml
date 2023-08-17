@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FlashCodeUtils"
+ , "c1" : ""
+ , "c2" : "FlashCodeUtils"
  , "c2" : "net.sourceforge.plantuml.flashcode.FlashCodeUtilsNone"
 }} 
 ]

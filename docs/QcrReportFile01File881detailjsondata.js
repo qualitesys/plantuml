@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "URLEncoder"
+ , "c1" : ""
+ , "c2" : "URLEncoder"
  , "c2" : "net.sourceforge.plantuml.code.AsciiEncoder"
 }} 
 ]

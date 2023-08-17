@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<UImage,Graphics2D>"
+ , "c1" : ""
+ , "c2" : "UDriver<UImage,Graphics2D>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.g2d.DriverImageG2d"
 }} 
 ]

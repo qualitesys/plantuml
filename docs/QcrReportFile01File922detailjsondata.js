@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Command<D>"
+ , "c1" : ""
+ , "c2" : "Command<D>"
  , "c2" : "net.sourceforge.plantuml.command.CommandDecoratorMultine"
 }} 
 ]

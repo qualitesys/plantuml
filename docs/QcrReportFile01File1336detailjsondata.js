@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "HtmlCommand"
+ , "c1" : ""
+ , "c2" : "HtmlCommand"
  , "c2" : "net.sourceforge.plantuml.graphic.FontChange"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : ""
+ , "c1" : "Exception"
+ , "c2" : ""
  , "c2" : "ext.plantuml.com.google.zxing.ReaderException"
 }} 
 ]

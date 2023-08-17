@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ElkObjectProxy"
+ , "c1" : ""
+ , "c2" : "ElkObjectProxy"
  , "c2" : "net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding"
 }} 
 ]

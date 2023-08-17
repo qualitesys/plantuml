@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "XmlDiagramTransformer"
+ , "c1" : "XmiClassDiagramAbstract"
+ , "c2" : "XmlDiagramTransformer"
  , "c2" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStar"
 }} 
 ]

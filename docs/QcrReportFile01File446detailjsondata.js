@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "MouseListener"
+ , "c1" : "Window"
+ , "c2" : "MouseListener,MouseMotionListener"
  , "c2" : "net.sourceforge.plantuml.Splash"
 }} 
 ]

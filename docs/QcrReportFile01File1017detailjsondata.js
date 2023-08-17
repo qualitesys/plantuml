@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<Stripe>"
+ , "c1" : ""
+ , "c2" : "Iterable<Stripe>"
  , "c2" : "net.sourceforge.plantuml.creole.Sheet"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<TextGrid.Cell>"
+ , "c1" : ""
+ , "c2" : "Iterable<TextGrid.Cell>"
  , "c2" : "org.stathissideris.ascii2image.text.CellSet"
 }} 
 ]

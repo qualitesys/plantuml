@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<ULine,Html5Drawer>"
+ , "c1" : ""
+ , "c2" : "UDriver<ULine,Html5Drawer>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.html5.DriverLineHtml5"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CucaDiagramFileMaker"
+ , "c1" : ""
+ , "c2" : "CucaDiagramFileMaker"
  , "c2" : "net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek"
 }} 
 ]

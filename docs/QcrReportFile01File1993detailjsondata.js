@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Pushable"
+ , "c1" : ""
+ , "c2" : "Pushable"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple"
 }} 
 ]

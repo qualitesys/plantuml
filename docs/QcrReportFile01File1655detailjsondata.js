@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Histogram"
+ , "c1" : ""
+ , "c2" : "Histogram,LoadPlanable"
  , "c2" : "net.sourceforge.plantuml.project.OpenClose"
 }} 
 ]

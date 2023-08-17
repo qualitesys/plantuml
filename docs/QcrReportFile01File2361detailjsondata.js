@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Scrollable"
+ , "c1" : "JLabel"
+ , "c2" : "Scrollable,MouseMotionListener"
  , "c2" : "net.sourceforge.plantuml.swing.ScrollablePicture"
 }} 
 ]

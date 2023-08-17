@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Bordered"
+ , "c1" : ""
+ , "c2" : "Bordered"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace"
 }} 
 ]

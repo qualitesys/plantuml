@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FileMaker"
+ , "c1" : ""
+ , "c2" : "FileMaker"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2"
 }} 
 ]

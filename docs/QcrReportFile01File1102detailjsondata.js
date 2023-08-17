@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SpecificBackcolorable"
+ , "c1" : ""
+ , "c2" : "SpecificBackcolorable,Hideable,Removeable,LineConfigurable"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.IEntity"
 }} 
 ]

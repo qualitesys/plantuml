@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UShape"
+ , "c1" : ""
+ , "c2" : "UShape"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.Snake"
 }} 
 ]

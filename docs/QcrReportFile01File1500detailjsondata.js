@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Finger"
+ , "c1" : ""
+ , "c2" : "Finger,UDrawable"
  , "c2" : "net.sourceforge.plantuml.mindmap.FingerImpl"
 }} 
 ]

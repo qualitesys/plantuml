@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FrontierStack"
+ , "c1" : ""
+ , "c2" : "FrontierStack"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl"
 }} 
 ]

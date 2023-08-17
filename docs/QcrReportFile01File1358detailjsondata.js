@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UShapeIgnorableForCompression"
+ , "c1" : ""
+ , "c2" : "UShapeIgnorableForCompression"
  , "c2" : "net.sourceforge.plantuml.graphic.SpecialText"
 }} 
 ]

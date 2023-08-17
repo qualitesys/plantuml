@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<URectangle,VisioGraphics>"
+ , "c1" : ""
+ , "c2" : "UDriver<URectangle,VisioGraphics>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.visio.DriverRectangleVdx"
 }} 
 ]

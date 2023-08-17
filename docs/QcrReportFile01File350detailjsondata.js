@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AFile"
+ , "c1" : ""
+ , "c2" : "AFile"
  , "c2" : "net.sourceforge.plantuml.AFileRegular"
 }} 
 ]

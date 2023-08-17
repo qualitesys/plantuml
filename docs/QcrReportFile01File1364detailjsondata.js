@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "FontChange"
+ , "c1" : ""
+ , "c2" : "FontChange"
  , "c2" : "net.sourceforge.plantuml.graphic.SvgAttributesChange"
 }} 
 ]

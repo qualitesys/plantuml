@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "AParentFolder"
+ , "c1" : ""
+ , "c2" : "AParentFolder"
  , "c2" : "net.sourceforge.plantuml.AParentFolderZip"
 }} 
 ]

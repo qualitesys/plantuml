@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "IGroup"
+ , "c1" : ""
+ , "c2" : "IGroup"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.GroupRoot"
 }} 
 ]

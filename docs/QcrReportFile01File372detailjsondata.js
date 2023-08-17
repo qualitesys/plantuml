@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PreprocessorModeSet"
+ , "c1" : ""
+ , "c2" : "PreprocessorModeSet"
  , "c2" : "net.sourceforge.plantuml.DefinitionsContainer"
 }} 
 ]

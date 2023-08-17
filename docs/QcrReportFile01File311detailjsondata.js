@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "CoordinateSystem"
+ , "c1" : ""
+ , "c2" : "CoordinateSystem"
  , "c2" : "jcckit.plot.CartesianCoordinateSystem"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<SimpleLine>"
+ , "c1" : ""
+ , "c2" : "Comparable<SimpleLine>"
  , "c2" : "net.sourceforge.plantuml.swing.SimpleLine"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Solver"
+ , "c1" : ""
+ , "c2" : "Solver"
  , "c2" : "net.sourceforge.plantuml.project.solver.AbstractSolver"
 }} 
 ]

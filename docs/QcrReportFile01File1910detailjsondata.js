@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Event"
+ , "c1" : "AbstractEvent"
+ , "c2" : "Event,Iterable<Note>"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.Notes"
 }} 
 ]

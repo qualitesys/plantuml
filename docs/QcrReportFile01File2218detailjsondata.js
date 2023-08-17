@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Moveable"
+ , "c1" : ""
+ , "c2" : "Moveable"
  , "c2" : "net.sourceforge.plantuml.svek.DotStringFactory"
 }} 
 ]

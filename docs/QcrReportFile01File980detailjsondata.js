@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SingleMultiFactoryCommand<AbstractEntityDiagram>"
+ , "c1" : ""
+ , "c2" : "SingleMultiFactoryCommand<AbstractEntityDiagram>"
  , "c2" : "net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity"
 }} 
 ]

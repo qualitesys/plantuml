@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<LineLocation>"
+ , "c1" : ""
+ , "c2" : "Comparable<LineLocation>"
  , "c2" : "net.sourceforge.plantuml.LineLocation"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Diagram"
+ , "c1" : "AbstractPSystem"
+ , "c2" : "Diagram,Annotated"
  , "c2" : "net.sourceforge.plantuml.TitledDiagram"
 }} 
 ]

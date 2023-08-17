@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDrawable"
+ , "c1" : ""
+ , "c2" : "UDrawable"
  , "c2" : "net.sourceforge.plantuml.timingdiagram.graphic.PentaBShape"
 }} 
 ]

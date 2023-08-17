@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : ""
+ , "c1" : "DiagramComponent"
+ , "c2" : ""
  , "c2" : "org.stathissideris.ascii2image.graphics.DiagramText"
 }} 
 ]

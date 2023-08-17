@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "InGroupable"
+ , "c1" : ""
+ , "c2" : "InGroupable"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox"
 }} 
 ]

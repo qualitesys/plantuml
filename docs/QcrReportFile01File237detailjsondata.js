@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SHAPE_INFO"
+ , "c1" : "UnsupportedStarStruct"
+ , "c2" : "SHAPE_INFO"
  , "c2" : "h.ST_field_t"
 }} 
 ]

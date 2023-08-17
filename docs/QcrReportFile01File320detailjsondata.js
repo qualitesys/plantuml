@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PlotListener"
+ , "c1" : ""
+ , "c2" : "PlotListener"
  , "c2" : "jcckit.plot.PlotCanvas"
 }} 
 ]

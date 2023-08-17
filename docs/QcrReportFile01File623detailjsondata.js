@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Stencil"
+ , "c1" : "AbstractFtile"
+ , "c2" : "Stencil,Styleable"
  , "c2" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone"
 }} 
 ]

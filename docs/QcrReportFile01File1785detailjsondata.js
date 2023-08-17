@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "RealOrigin"
+ , "c1" : "RealMoveable"
+ , "c2" : "RealOrigin"
  , "c2" : "net.sourceforge.plantuml.real.RealImpl"
 }} 
 ]

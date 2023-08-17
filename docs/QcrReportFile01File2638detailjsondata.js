@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<Slot>"
+ , "c1" : ""
+ , "c2" : "Iterable<Slot>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.comp.SlotSet"
 }} 
 ]

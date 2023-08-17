@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparator"
+ , "c1" : ""
+ , "c2" : "Comparator"
  , "c2" : "org.stathissideris.ascii2image.core.Shape3DOrderingComparator"
 }} 
 ]

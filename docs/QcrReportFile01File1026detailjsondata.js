@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Atom"
+ , "c1" : ""
+ , "c2" : "Atom"
  , "c2" : "net.sourceforge.plantuml.creole.atom.AbstractAtom"
 }} 
 ]

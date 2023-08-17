@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable<ChangeState>"
+ , "c1" : ""
+ , "c2" : "Comparable<ChangeState>"
  , "c2" : "net.sourceforge.plantuml.timingdiagram.ChangeState"
 }} 
 ]

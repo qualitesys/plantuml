@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ReadFilter"
+ , "c1" : ""
+ , "c2" : "ReadFilter"
  , "c2" : "net.sourceforge.plantuml.preproc2.ReadFilterMergeLines"
 }} 
 ]

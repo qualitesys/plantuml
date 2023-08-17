@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UDriver<UText,VisioGraphics>"
+ , "c1" : ""
+ , "c2" : "UDriver<UText,VisioGraphics>"
  , "c2" : "net.sourceforge.plantuml.ugraphic.visio.DriverTextVdx"
 }} 
 ]

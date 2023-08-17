@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "UParam"
+ , "c1" : ""
+ , "c2" : "UParam"
  , "c2" : "net.sourceforge.plantuml.ugraphic.UParamNull"
 }} 
 ]

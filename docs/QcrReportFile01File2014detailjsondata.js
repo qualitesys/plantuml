@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Tile"
+ , "c1" : ""
+ , "c2" : "Tile,UDrawable"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.teoz.CommonTile"
 }} 
 ]

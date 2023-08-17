@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<CharSequence>"
+ , "c1" : ""
+ , "c2" : "Iterable<CharSequence>"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.Display"
 }} 
 ]

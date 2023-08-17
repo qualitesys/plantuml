@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ISourceFileReader"
+ , "c1" : ""
+ , "c2" : "ISourceFileReader"
  , "c2" : "net.sourceforge.plantuml.SourceFileReaderAbstract"
 }} 
 ]

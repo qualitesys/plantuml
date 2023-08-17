@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Line"
+ , "c1" : "AbstractTextBlock"
+ , "c2" : "Line"
  , "c2" : "net.sourceforge.plantuml.graphic.SingleLine"
 }} 
 ]

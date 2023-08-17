@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Shadowable"
+ , "c1" : ""
+ , "c2" : "Shadowable"
  , "c2" : "net.sourceforge.plantuml.ugraphic.AbstractShadowable"
 }} 
 ]

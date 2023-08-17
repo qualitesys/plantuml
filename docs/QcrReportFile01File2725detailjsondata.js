@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterator<StringLocated>"
+ , "c1" : ""
+ , "c2" : "Iterator<StringLocated>"
  , "c2" : "net.sourceforge.plantuml.version.IteratorCounter2"
 }} 
 ]

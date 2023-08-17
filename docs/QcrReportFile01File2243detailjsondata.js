@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PointListIterator"
+ , "c1" : ""
+ , "c2" : "PointListIterator"
  , "c2" : "net.sourceforge.plantuml.svek.PointListIteratorImpl"
 }} 
 ]

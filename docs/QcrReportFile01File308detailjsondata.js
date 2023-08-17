@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Hint"
+ , "c1" : ""
+ , "c2" : "Hint"
  , "c2" : "jcckit.plot.AttributesHint"
 }} 
 ]

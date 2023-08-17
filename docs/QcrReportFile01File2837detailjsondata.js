@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : ""
+ , "c1" : "ArrayList<GridPattern>"
+ , "c2" : ""
  , "c2" : "org.stathissideris.ascii2image.text.GridPatternGroup"
 }} 
 ]

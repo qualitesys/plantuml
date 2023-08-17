@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<BNode>"
+ , "c1" : ""
+ , "c2" : "Iterable<BNode>"
  , "c2" : "net.sourceforge.plantuml.board.BArray"
 }} 
 ]

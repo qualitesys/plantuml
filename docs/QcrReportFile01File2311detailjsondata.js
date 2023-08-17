@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "MiddleFactory"
+ , "c1" : ""
+ , "c2" : "MiddleFactory"
  , "c2" : "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircleCircled"
 }} 
 ]

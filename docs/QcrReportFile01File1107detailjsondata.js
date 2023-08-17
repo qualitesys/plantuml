@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Hideable"
+ , "c1" : "WithLinkType"
+ , "c2" : "Hideable,Removeable"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.Link"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "DataSource"
+ , "c1" : ""
+ , "c2" : "DataSource"
  , "c2" : "net.sourceforge.plantuml.salt.DataSourceImpl"
 }} 
 ]

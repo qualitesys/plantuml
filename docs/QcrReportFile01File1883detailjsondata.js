@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "EventWithDeactivate"
+ , "c1" : "AbstractEvent"
+ , "c2" : "EventWithDeactivate,WithStyle"
  , "c2" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SecurityCredentialsContainer"
+ , "c1" : ""
+ , "c2" : "SecurityCredentialsContainer"
  , "c2" : "net.sourceforge.plantuml.security.authentication.SecurityCredentials"
 }} 
 ]

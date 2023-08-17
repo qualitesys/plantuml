@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "MDAEntity"
+ , "c1" : ""
+ , "c2" : "MDAEntity"
  , "c2" : "net.sourceforge.plantuml.mda.MDAEntityImpl"
 }} 
 ]

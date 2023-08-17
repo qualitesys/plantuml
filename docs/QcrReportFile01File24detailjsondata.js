@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Comparable"
+ , "c1" : ""
+ , "c2" : "Comparable"
  , "c2" : "ext.plantuml.com.ctreber.acearth.scanbit.ScanBit"
 }} 
 ]

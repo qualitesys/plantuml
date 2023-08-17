@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "TextBlock"
+ , "c1" : ""
+ , "c2" : "TextBlock"
  , "c2" : "net.sourceforge.plantuml.nwdiag.next.GridTextBlockSimple"
 }} 
 ]

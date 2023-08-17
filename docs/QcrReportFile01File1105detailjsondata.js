@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Code"
+ , "c1" : ""
+ , "c2" : "Code"
  , "c2" : "net.sourceforge.plantuml.cucadiagram.Ident"
 }} 
 ]

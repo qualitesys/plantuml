@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "ReadLineNumbered"
+ , "c1" : ""
+ , "c2" : "ReadLineNumbered"
  , "c2" : "net.sourceforge.plantuml.preproc2.Preprocessor"
 }} 
 ]

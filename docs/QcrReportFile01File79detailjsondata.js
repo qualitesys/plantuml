@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Writer"
+ , "c1" : ""
+ , "c2" : "Writer"
  , "c2" : "ext.plantuml.com.google.zxing.qrcode.QRCodeWriter"
 }} 
 ]

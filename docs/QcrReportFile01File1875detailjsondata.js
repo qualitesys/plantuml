@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "SecurityAuthorizeManager"
+ , "c1" : ""
+ , "c2" : "SecurityAuthorizeManager"
  , "c2" : "net.sourceforge.plantuml.security.authentication.oauth.AbstractOAuth2AccessAuthorizeManager"
 }} 
 ]

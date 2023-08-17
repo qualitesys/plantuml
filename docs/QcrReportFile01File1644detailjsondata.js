@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "Iterable<Day>"
+ , "c1" : ""
+ , "c2" : "Iterable<Day>"
  , "c2" : "net.sourceforge.plantuml.project.DaysAsDates"
 }} 
 ]

@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "PlacementStrategy"
+ , "c1" : ""
+ , "c2" : "PlacementStrategy"
  , "c2" : "net.sourceforge.plantuml.ugraphic.AbstractPlacementStrategy"
 }} 
 ]

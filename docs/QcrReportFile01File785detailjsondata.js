@@ -8,7 +8,8 @@ var maDataBlocs = {
 , 
 "data01" : [
 { "ligne" : { "" : ""
- , "c1" : "XShape"
+ , "c1" : ""
+ , "c2" : "XShape"
  , "c2" : "net.sourceforge.plantuml.awt.geom.XLine2D"
 }} 
 ]
