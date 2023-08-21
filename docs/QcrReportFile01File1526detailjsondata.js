@@ -233,7 +233,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NwGroup.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method getNbox arguments Map&lt;String ,?  extends NServer &gt;  servers"
+ , "c3" : "QC-JAV000006[00076] For method getNbox arguments Map&lt;String,?extendsNServer&gt;  servers"
 }} 
 ,
 { "ligne" : {"" : ""

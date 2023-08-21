@@ -182,7 +182,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method printTableCreole arguments List&lt;String &gt;  strings|StatsTable  table"
+ , "c3" : "QC-JAV000006[00076] For method printTableCreole arguments List&lt;String&gt;  strings|StatsTable  table"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -224,7 +224,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method getCreoleLine arguments Collection&lt;StatsColumn &gt;  headers|StatsLine  line|boolean  bold"
+ , "c3" : "QC-JAV000006[00088] For method getCreoleLine arguments Collection&lt;StatsColumn&gt;  headers|StatsLine  line|boolean  bold"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -350,7 +350,7 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/CreoleConverter.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method getCreoleHeader arguments Collection&lt;StatsColumn &gt;  headers"
+ , "c3" : "QC-JAV000006[00119] For method getCreoleHeader arguments Collection&lt;StatsColumn&gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -314,7 +314,7 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/gen/lib/pathplan/shortest__c.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method Pshortestpath arguments ST_Ppoly_t  polyp|CArray&lt;ST_pointf &gt;  eps|ST_Ppoly_t  output"
+ , "c3" : "QC-JAV000006[00092] For method Pshortestpath arguments ST_Ppoly_t  polyp|CArray&lt;ST_pointf&gt;  eps|ST_Ppoly_t  output"
 }} 
 ,
 { "ligne" : {"" : ""

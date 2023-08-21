@@ -119,7 +119,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#54"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00054] For method createLeaf arguments LeafType  type|Set&lt;VisibilityModifier &gt;  hides"
+ , "c3" : "QC-JAV000006[00054] For method createLeaf arguments LeafType  type|Set&lt;VisibilityModifier&gt;  hides"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -133,14 +133,14 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method createGroup arguments Set&lt;VisibilityModifier &gt;  hides"
+ , "c3" : "QC-JAV000006[00061] For method createGroup arguments Set&lt;VisibilityModifier&gt;  hides"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyFactory.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method create1 arguments HorizontalAlignment  align|List&lt;CharSequence &gt;  rawBody|ISkinParam  skinParam|Stereotype  stereotype|ILeaf  entity|Style  style"
+ , "c3" : "QC-JAV000006[00065] For method create1 arguments HorizontalAlignment  align|List&lt;CharSequence&gt;  rawBody|ISkinParam  skinParam|Stereotype  stereotype|ILeaf  entity|Style  style"
 }} 
 ,
 { "ligne" : {"" : ""

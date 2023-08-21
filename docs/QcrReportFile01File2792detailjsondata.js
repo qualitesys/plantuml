@@ -671,7 +671,7 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/XmiSequenceDiagramStandard.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00149] For method buildNote arguments Node  packagedElement|Note  note|HashSet&lt;String &gt;  annotated"
+ , "c3" : "QC-JAV000006[00149] For method buildNote arguments Node  packagedElement|Note  note|HashSet&lt;String&gt;  annotated"
 }} 
 ,
 { "ligne" : {"" : ""

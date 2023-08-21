@@ -238,7 +238,7 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/UGraphicDelegator.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method startGroup arguments Map&lt;UGroupType ,String &gt;  typeIdents"
+ , "c3" : "QC-JAV000006[00093] For method startGroup arguments Map&lt;UGroupType,String&gt;  typeIdents"
 }} 
 ,
 { "ligne" : {"" : ""

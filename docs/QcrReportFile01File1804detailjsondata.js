@@ -169,7 +169,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Positionner2.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method add arguments Terminated&lt;Element &gt;  element"
+ , "c3" : "QC-JAV000006[00056] For method add arguments Terminated&lt;Element&gt;  element"
 }} 
 ,
 { "ligne" : {"" : ""

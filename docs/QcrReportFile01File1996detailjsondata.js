@@ -236,7 +236,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Segment.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method cutSegmentIfNeed arguments Collection&lt;Segment &gt;  allDelays"
+ , "c3" : "QC-JAV000006[00097] For method cutSegmentIfNeed arguments Collection&lt;Segment&gt;  allDelays"
 }} 
 ,
 { "ligne" : {"" : ""

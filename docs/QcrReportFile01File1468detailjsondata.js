@@ -253,7 +253,7 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#143"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00143] For method manageOneNode arguments JsonValue  current|List&lt;String &gt;  highlighted"
+ , "c3" : "QC-JAV000006[00143] For method manageOneNode arguments JsonValue  current|List&lt;String&gt;  highlighted"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,7 +302,7 @@ var maDataBlocs = {
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method removeOneLevel arguments String  key|List&lt;String &gt;  list"
+ , "c3" : "QC-JAV000006[00163] For method removeOneLevel arguments String  key|List&lt;String&gt;  list"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -358,7 +358,7 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#178"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method drawMe arguments JsonValue  root|List&lt;String &gt;  highlighted"
+ , "c3" : "QC-JAV000006[00178] For method drawMe arguments JsonValue  root|List&lt;String&gt;  highlighted"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -386,7 +386,7 @@ var maDataBlocs = {
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/SmetanaForJson.java.html#202"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00202] For method initGraph arguments JsonValue  root|List&lt;String &gt;  highlighted"
+ , "c3" : "QC-JAV000006[00202] For method initGraph arguments JsonValue  root|List&lt;String&gt;  highlighted"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -182,7 +182,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/ULayoutGroup.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method tryOne arguments Set&lt;Entry&lt;TextBlock ,XPoint2D &gt; &gt;  all|String  member|StringBounder  stringBounder|InnerStrategy  mode"
+ , "c3" : "QC-JAV000006[00078] For method tryOne arguments Set&lt;Entry&lt;TextBlock,XPoint2D&gt;&gt;  all|String  member|StringBounder  stringBounder|InnerStrategy  mode"
 }} 
 ,
 { "ligne" : {"" : ""

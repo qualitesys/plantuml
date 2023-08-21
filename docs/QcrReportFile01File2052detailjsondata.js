@@ -106,7 +106,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileBuilder.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method buildSeveral arguments Iterator&lt;Event &gt;  it|TileArguments  tileArguments|Tile  parent|YGauge  currentY"
+ , "c3" : "QC-JAV000006[00065] For method buildSeveral arguments Iterator&lt;Event&gt;  it|TileArguments  tileArguments|Tile  parent|YGauge  currentY"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -162,7 +162,7 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/TileBuilder.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method buildOne arguments Iterator&lt;Event &gt;  it|TileArguments  tileArguments|Event  ev|Tile  parent|YGauge  currentY"
+ , "c3" : "QC-JAV000006[00082] For method buildOne arguments Iterator&lt;Event&gt;  it|TileArguments  tileArguments|Event  ev|Tile  parent|YGauge  currentY"
 }} 
 ,
 { "ligne" : {"" : ""

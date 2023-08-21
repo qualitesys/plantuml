@@ -2006,7 +2006,7 @@ var maDataBlocs = {
  , "c1" : "00756"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/CucaDiagram.java.html#756"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00756] For method hideOrShow arguments Set&lt;VisibilityModifier &gt;  visibilities|boolean  show"
+ , "c3" : "QC-JAV000006[00756] For method hideOrShow arguments Set&lt;VisibilityModifier&gt;  visibilities|boolean  show"
 }} 
 ,
 { "ligne" : {"" : ""

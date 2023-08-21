@@ -188,7 +188,7 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method getFoo2 arguments List&lt;Ftile &gt;  all"
+ , "c3" : "QC-JAV000006[00079] For method getFoo2 arguments List&lt;Ftile&gt;  all"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -314,7 +314,7 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00149] For method getSuppSpace1 arguments List&lt;Ftile &gt;  all|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00149] For method getSuppSpace1 arguments List&lt;Ftile&gt;  all|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -349,7 +349,7 @@ var maDataBlocs = {
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/ParallelBuilderFork.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00163] For method getSuppSpace2 arguments List&lt;Ftile &gt;  all|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00163] For method getSuppSpace2 arguments List&lt;Ftile&gt;  all|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""

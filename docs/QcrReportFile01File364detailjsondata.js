@@ -276,7 +276,7 @@ var maDataBlocs = {
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/BlockUml.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00105] For method convert arguments List&lt;String &gt;  strings"
+ , "c3" : "QC-JAV000006[00105] For method convert arguments List&lt;String&gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""

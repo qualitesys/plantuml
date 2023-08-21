@@ -184,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#68"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00068] For method getMinXY arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00068] For method getMinXY arguments List&lt;XPoint2D&gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -219,7 +219,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekUtils.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method getMaxXY arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00080] For method getMaxXY arguments List&lt;XPoint2D&gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -359,7 +359,7 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NServer.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method getLinkedElement arguments double  topMargin|Map&lt;Network ,String &gt;  conns|List&lt;Network &gt;  networks|ISkinParam  skinParam"
+ , "c3" : "QC-JAV000006[00110] For method getLinkedElement arguments double  topMargin|Map&lt;Network,String&gt;  conns|List&lt;Network&gt;  networks|ISkinParam  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -464,7 +464,7 @@ var maDataBlocs = {
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/core/NServer.java.html#144"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00144] For method updateProperties arguments Map&lt;String ,String &gt;  props"
+ , "c3" : "QC-JAV000006[00144] For method updateProperties arguments Map&lt;String,String&gt;  props"
 }} 
 ,
 { "ligne" : {"" : ""

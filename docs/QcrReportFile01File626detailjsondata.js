@@ -216,7 +216,7 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileSwitch.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method create arguments Swimlane  swimlane|HColor  borderColor|HColor  backColor|Rainbow  arrowColor|FtileFactory  ftileFactory|ConditionStyle  conditionStyle|List&lt;Branch &gt;  thens|FontConfiguration  fcArrow|LinkRendering  topInlinkRendering|LinkRendering  afterEndwhile|FontConfiguration  fcTest"
+ , "c3" : "QC-JAV000006[00098] For method create arguments Swimlane  swimlane|HColor  borderColor|HColor  backColor|Rainbow  arrowColor|FtileFactory  ftileFactory|ConditionStyle  conditionStyle|List&lt;Branch&gt;  thens|FontConfiguration  fcArrow|LinkRendering  topInlinkRendering|LinkRendering  afterEndwhile|FontConfiguration  fcTest"
 }} 
 ,
 { "ligne" : {"" : ""

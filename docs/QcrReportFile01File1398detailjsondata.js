@@ -345,7 +345,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#108"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00108] For method complex arguments Random  rnd|List&lt;XPoint2D &gt;  points|double  bubbleSize|XPoint2D  pointA|XPoint2D  pointB|XPoint2D  pointC|XPoint2D  pointD"
+ , "c3" : "QC-JAV000006[00108] For method complex arguments Random  rnd|List&lt;XPoint2D&gt;  points|double  bubbleSize|XPoint2D  pointA|XPoint2D  pointB|XPoint2D  pointC|XPoint2D  pointD"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -366,7 +366,7 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#121"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00121] For method simple arguments Random  rnd|List&lt;XPoint2D &gt;  points|double  bubbleSize|XPoint2D  pointA|XPoint2D  pointB|XPoint2D  pointC|XPoint2D  pointD"
+ , "c3" : "QC-JAV000006[00121] For method simple arguments Random  rnd|List&lt;XPoint2D&gt;  points|double  bubbleSize|XPoint2D  pointA|XPoint2D  pointB|XPoint2D  pointC|XPoint2D  pointD"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,7 +401,7 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#137"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00137] For method specialLine arguments double  bubbleSize|Random  rnd|List&lt;XPoint2D &gt;  points|XPoint2D  p1|XPoint2D  p2"
+ , "c3" : "QC-JAV000006[00137] For method specialLine arguments double  bubbleSize|Random  rnd|List&lt;XPoint2D&gt;  points|XPoint2D  p1|XPoint2D  p2"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -450,7 +450,7 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolCloud.java.html#151"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00151] For method bubbleLine arguments Random  rnd|List&lt;XPoint2D &gt;  points|XPoint2D  p1|XPoint2D  p2|double  bubbleSize"
+ , "c3" : "QC-JAV000006[00151] For method bubbleLine arguments Random  rnd|List&lt;XPoint2D&gt;  points|XPoint2D  p1|XPoint2D  p2|double  bubbleSize"
 }} 
 ,
 { "ligne" : {"" : ""

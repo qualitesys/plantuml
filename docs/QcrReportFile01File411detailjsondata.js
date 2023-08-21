@@ -113,7 +113,7 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/PSystemBuilder.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method createPSystem arguments List&lt;StringLocated &gt;  source|List&lt;StringLocated &gt;  rawSource|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00110] For method createPSystem arguments List&lt;StringLocated&gt;  source|List&lt;StringLocated&gt;  rawSource|Map&lt;String,String&gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""

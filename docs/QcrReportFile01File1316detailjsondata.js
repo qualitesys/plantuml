@@ -183,7 +183,7 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method drawMe arguments Collection&lt;GNode &gt;  gnodes"
+ , "c3" : "QC-JAV000006[00099] For method drawMe arguments Collection&lt;GNode&gt;  gnodes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -281,7 +281,7 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#132"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00132] For method initGraph arguments Collection&lt;GNode &gt;  gnodes"
+ , "c3" : "QC-JAV000006[00132] For method initGraph arguments Collection&lt;GNode&gt;  gnodes"
 }} 
 ,
 { "ligne" : {"" : ""

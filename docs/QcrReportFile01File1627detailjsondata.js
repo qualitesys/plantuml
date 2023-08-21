@@ -1222,7 +1222,7 @@ var maDataBlocs = {
  , "c1" : "00326"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Stdlib.java.html#326"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00326] For method addInfoVersion arguments List&lt;String &gt;  strings|boolean  details"
+ , "c3" : "QC-JAV000006[00326] For method addInfoVersion arguments List&lt;String&gt;  strings|boolean  details"
 }} 
 ,
 { "ligne" : {"" : ""

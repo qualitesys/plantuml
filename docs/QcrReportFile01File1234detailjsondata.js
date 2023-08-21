@@ -916,7 +916,7 @@ var maDataBlocs = {
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemColors.java.html#219"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00219] For method containsCaseInsensitive arguments Collection&lt;String &gt;  source|String  target"
+ , "c3" : "QC-JAV000006[00219] For method containsCaseInsensitive arguments Collection&lt;String&gt;  source|String  target"
 }} 
 ,
 { "ligne" : {"" : ""

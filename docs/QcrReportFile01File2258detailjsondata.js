@@ -168,7 +168,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/UGraphicForSnake.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method removeEndDecorationIfTouches arguments List&lt;PendingSnake &gt;  snakes"
+ , "c3" : "QC-JAV000006[00080] For method removeEndDecorationIfTouches arguments List&lt;PendingSnake&gt;  snakes"
 }} 
 ,
 { "ligne" : {"" : ""

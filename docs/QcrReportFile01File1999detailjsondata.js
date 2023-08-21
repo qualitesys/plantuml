@@ -196,7 +196,7 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramFileMakerPuma2.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00123] For method create arguments DrawableSet  drawableSet|Map&lt;Newpage ,Double &gt;  positions|boolean  showFootbox|Display  title"
+ , "c3" : "QC-JAV000006[00123] For method create arguments DrawableSet  drawableSet|Map&lt;Newpage,Double&gt;  positions|boolean  showFootbox|Display  title"
 }} 
 ,
 { "ligne" : {"" : ""

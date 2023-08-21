@@ -417,14 +417,14 @@ var maDataBlocs = {
  , "c1" : "00230"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.html#230"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00230] For method setCustomShapes arguments HashMap&lt;String ,CustomShapeDefinition &gt;  customShapes"
+ , "c3" : "QC-JAV000006[00230] For method setCustomShapes arguments HashMap&lt;String,CustomShapeDefinition&gt;  customShapes"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/core/ProcessingOptions.java.html#234"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00234] For method putAllInCustomShapes arguments HashMap&lt;String ,CustomShapeDefinition &gt;  customShapes"
+ , "c3" : "QC-JAV000006[00234] For method putAllInCustomShapes arguments HashMap&lt;String,CustomShapeDefinition&gt;  customShapes"
 }} 
 ,
 { "ligne" : {"" : ""

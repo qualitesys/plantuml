@@ -669,7 +669,7 @@ var maDataBlocs = {
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#265"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00265] For method encodeSprite arguments List&lt;String &gt;  result"
+ , "c3" : "QC-JAV000006[00265] For method encodeSprite arguments List&lt;String&gt;  result"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1453,7 +1453,7 @@ var maDataBlocs = {
  , "c1" : "00561"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Run.java.html#561"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00561] For method hasErrors arguments File  file|List&lt;GeneratedImage &gt;  list|ErrorStatus  error|Stdrpt  stdrpt"
+ , "c3" : "QC-JAV000006[00561] For method hasErrors arguments File  file|List&lt;GeneratedImage&gt;  list|ErrorStatus  error|Stdrpt  stdrpt"
 }} 
 ,
 { "ligne" : {"" : ""

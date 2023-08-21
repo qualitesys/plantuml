@@ -115,7 +115,7 @@ var maDataBlocs = {
  , "c1" : "00042"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/SquareMaker.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00042] For method putInSquare arguments List&lt;O &gt;  data|SquareLinker&lt;O &gt;  linker"
+ , "c3" : "QC-JAV000006[00042] For method putInSquare arguments List&lt;O&gt;  data|SquareLinker&lt;O&gt;  linker"
 }} 
 ,
 { "ligne" : {"" : ""

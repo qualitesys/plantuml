@@ -1600,7 +1600,7 @@ var maDataBlocs = {
  , "c1" : "00287"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/LanguageDescriptor.java.html#287"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00287] For method print arguments PrintStream  ps|String  name|Collection&lt;String &gt;  data"
+ , "c3" : "QC-JAV000006[00287] For method print arguments PrintStream  ps|String  name|Collection&lt;String&gt;  data"
 }} 
 ,
 { "ligne" : {"" : ""

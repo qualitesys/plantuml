@@ -148,7 +148,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/MyPattern.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method removeEldestEntry arguments Map.Entry&lt;K ,V &gt;  eldest"
+ , "c3" : "QC-JAV000006[00050] For method removeEldestEntry arguments Map.Entry&lt;K,V&gt;  eldest"
 }} 
 ,
 { "ligne" : {"" : ""

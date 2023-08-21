@@ -623,7 +623,7 @@ var maDataBlocs = {
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#164"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00164] For method depthFromTokens arguments Collection&lt;String &gt;  tokens"
+ , "c3" : "QC-JAV000006[00164] For method depthFromTokens arguments Collection&lt;String&gt;  tokens"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -819,7 +819,7 @@ var maDataBlocs = {
  , "c1" : "00230"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleSignatureBasic.java.html#230"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00230] For method mergeWith arguments List&lt;Style &gt;  others"
+ , "c3" : "QC-JAV000006[00230] For method mergeWith arguments List&lt;Style&gt;  others"
 }} 
 ,
 { "ligne" : {"" : ""

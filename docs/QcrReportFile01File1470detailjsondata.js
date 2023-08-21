@@ -331,7 +331,7 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/TextBlockJson.java.html#151"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00151] For method isHighlighted arguments String  key|List&lt;String &gt;  highlighted"
+ , "c3" : "QC-JAV000006[00151] For method isHighlighted arguments String  key|List&lt;String&gt;  highlighted"
 }} 
 ,
 { "ligne" : {"" : ""

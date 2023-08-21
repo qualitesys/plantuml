@@ -107,7 +107,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagramFactory.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00060] For method createSystem arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00060] For method createSystem arguments UmlSource  source|Map&lt;String,String&gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""

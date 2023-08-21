@@ -320,7 +320,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizWindowsOld.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method higherVersion arguments List&lt;File &gt;  dots"
+ , "c3" : "QC-JAV000006[00115] For method higherVersion arguments List&lt;File&gt;  dots"
 }} 
 ,
 { "ligne" : {"" : ""

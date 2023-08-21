@@ -330,7 +330,7 @@ var maDataBlocs = {
  , "c1" : "00236"
  , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#236"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00236] For method arrow_clip arguments ST_Agedge_s  fe|ST_Agnode_s  hn|CArray&lt;ST_pointf &gt;  ps|int[]  startp|int[]  endp|ST_bezier  spl|ST_splineInfo  info"
+ , "c3" : "QC-JAV000006[00236] For method arrow_clip arguments ST_Agedge_s  fe|ST_Agnode_s  hn|CArray&lt;ST_pointf&gt;  ps|int[]  startp|int[]  endp|ST_bezier  spl|ST_splineInfo  info"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -554,7 +554,7 @@ var maDataBlocs = {
  , "c1" : "01437"
  , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1437"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01437] For method bezier_clip arguments __ptr__  inside_context|__ptr__  inside|CArray&lt;ST_pointf &gt;  sp|boolean  left_inside"
+ , "c3" : "QC-JAV000006[01437] For method bezier_clip arguments __ptr__  inside_context|__ptr__  inside|CArray&lt;ST_pointf&gt;  sp|boolean  left_inside"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -820,7 +820,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method shape_clip0 arguments __ptr__  inside_context|ST_Agnode_s  n|CArray&lt;ST_pointf &gt;  curve|boolean  left_inside"
+ , "c3" : "QC-JAV000006[00001] For method shape_clip0 arguments __ptr__  inside_context|ST_Agnode_s  n|CArray&lt;ST_pointf&gt;  curve|boolean  left_inside"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -995,7 +995,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method clip_and_install arguments ST_Agedge_s  fe|ST_Agnode_s  hn|CArray&lt;ST_pointf &gt;  ps|int  pn|ST_splineInfo  info"
+ , "c3" : "QC-JAV000006[00001] For method clip_and_install arguments ST_Agedge_s  fe|ST_Agnode_s  hn|CArray&lt;ST_pointf&gt;  ps|int  pn|ST_splineInfo  info"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5559,7 +5559,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method selfRight arguments CArrayOfStar&lt;ST_Agedge_s &gt;  edges|int  ind|int  cnt|double  stepx|double  sizey|ST_splineInfo  sinfo"
+ , "c3" : "QC-JAV000006[00001] For method selfRight arguments CArrayOfStar&lt;ST_Agedge_s&gt;  edges|int  ind|int  cnt|double  stepx|double  sizey|ST_splineInfo  sinfo"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6336,7 +6336,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/splines__c.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method makeSelfEdge arguments ST_path  P|CArrayOfStar&lt;ST_Agedge_s &gt;  edges|int  ind|int  cnt|double  sizex|double  sizey|ST_splineInfo  sinfo"
+ , "c3" : "QC-JAV000006[00001] For method makeSelfEdge arguments ST_path  P|CArrayOfStar&lt;ST_Agedge_s&gt;  edges|int  ind|int  cnt|double  sizex|double  sizey|ST_splineInfo  sinfo"
 }} 
 ,
 { "ligne" : {"" : ""

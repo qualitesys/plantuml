@@ -203,7 +203,7 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#83"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00083] For method getHeight arguments List&lt;BufferedImage &gt;  flashcodes"
+ , "c3" : "QC-JAV000006[00083] For method getHeight arguments List&lt;BufferedImage&gt;  flashcodes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -217,7 +217,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/png/PngFlashcoder.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method getWidth arguments List&lt;BufferedImage &gt;  flashcodes"
+ , "c3" : "QC-JAV000006[00091] For method getWidth arguments List&lt;BufferedImage&gt;  flashcodes"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -339,14 +339,14 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method drawStringsLRSimple arguments Collection&lt;?  extends CharSequence &gt;  strings|int  x|int  y"
+ , "c3" : "QC-JAV000006[00119] For method drawStringsLRSimple arguments Collection&lt;?extendsCharSequence&gt;  strings|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/TranslatedCharArea.java.html#123"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00123] For method drawStringsLRUnicode arguments Collection&lt;?  extends CharSequence &gt;  strings|int  x|int  y"
+ , "c3" : "QC-JAV000006[00123] For method drawStringsLRUnicode arguments Collection&lt;?extendsCharSequence&gt;  strings|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""

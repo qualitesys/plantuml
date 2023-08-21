@@ -346,7 +346,7 @@ var maDataBlocs = {
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#157"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00157] For method exportDiagramError arguments OutputStream  os|Throwable  exception|FileFormatOption  fileFormat|long  seed|String  metadata|String  flash|List&lt;String &gt;  strings"
+ , "c3" : "QC-JAV000006[00157] For method exportDiagramError arguments OutputStream  os|Throwable  exception|FileFormatOption  fileFormat|long  seed|String  metadata|String  flash|List&lt;String&gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -416,7 +416,7 @@ var maDataBlocs = {
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#196"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00196] For method exportDiagramErrorText arguments OutputStream  os|Throwable  exception|List&lt;String &gt;  strings"
+ , "c3" : "QC-JAV000006[00196] For method exportDiagramErrorText arguments OutputStream  os|Throwable  exception|List&lt;String&gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -83,7 +83,7 @@ var maDataBlocs = {
  , "c1" : "00005"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/ObjectUtils.java.html#5"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00005] For method instanceOfAny arguments Object  object|Class&lt;? &gt;  ...classes"
+ , "c3" : "QC-JAV000006[00005] For method instanceOfAny arguments Object  object|Class&lt;?&gt;  ...classes"
 }} 
 ,
 { "ligne" : {"" : ""

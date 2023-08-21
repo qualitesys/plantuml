@@ -597,7 +597,7 @@ var maDataBlocs = {
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/StyleLoader.java.html#212"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00212] For method addPriorityForStereotype arguments Map&lt;PName ,Value &gt;  tmp"
+ , "c3" : "QC-JAV000006[00212] For method addPriorityForStereotype arguments Map&lt;PName,Value&gt;  tmp"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -100,7 +100,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorAddNote.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method addNote arguments Ftile  ftile|Swimlane  swimlane|Collection&lt;PositionedNote &gt;  notes|VerticalAlignment  verticalAlignment"
+ , "c3" : "QC-JAV000006[00056] For method addNote arguments Ftile  ftile|Swimlane  swimlane|Collection&lt;PositionedNote&gt;  notes|VerticalAlignment  verticalAlignment"
 }} 
 ,
 { "ligne" : {"" : ""

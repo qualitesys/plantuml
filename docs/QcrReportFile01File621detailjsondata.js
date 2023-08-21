@@ -298,7 +298,7 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method alignDiamonds arguments List&lt;Ftile &gt;  diamonds|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00106] For method alignDiamonds arguments List&lt;Ftile&gt;  diamonds|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -368,7 +368,7 @@ var maDataBlocs = {
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00142] For method create arguments Swimlane  swimlane|HColor  borderColor|HColor  backColor|Rainbow  arrowColor|FtileFactory  ftileFactory|ConditionStyle  conditionStyle|List&lt;Branch &gt;  thens|Branch  branch2|FontConfiguration  fcArrow|LinkRendering  topInlinkRendering|LinkRendering  afterEndwhile|FontConfiguration  fcTest"
+ , "c3" : "QC-JAV000006[00142] For method create arguments Swimlane  swimlane|HColor  borderColor|HColor  backColor|Rainbow  arrowColor|FtileFactory  ftileFactory|ConditionStyle  conditionStyle|List&lt;Branch&gt;  thens|Branch  branch2|FontConfiguration  fcArrow|LinkRendering  topInlinkRendering|LinkRendering  afterEndwhile|FontConfiguration  fcTest"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -998,7 +998,7 @@ var maDataBlocs = {
  , "c1" : "00506"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#506"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00506] For method getMinmax arguments StringBounder  stringBounder|double  width|List&lt;Ftile &gt;  allTiles|Swimlane  intoSw|List&lt;Swimlane &gt;  allSwimlanes"
+ , "c3" : "QC-JAV000006[00506] For method getMinmax arguments StringBounder  stringBounder|double  width|List&lt;Ftile&gt;  allTiles|Swimlane  intoSw|List&lt;Swimlane&gt;  allSwimlanes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1061,7 +1061,7 @@ var maDataBlocs = {
  , "c1" : "00539"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#539"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00539] For method getMinmaxSimple arguments StringBounder  stringBounder|double  width|List&lt;Ftile &gt;  allTiles"
+ , "c3" : "QC-JAV000006[00539] For method getMinmaxSimple arguments StringBounder  stringBounder|double  width|List&lt;Ftile&gt;  allTiles"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1103,7 +1103,7 @@ var maDataBlocs = {
  , "c1" : "00559"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#559"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00559] For method getFirstSwimlane arguments StringBounder  stringBounder|List&lt;Ftile &gt;  allTiles|List&lt;Swimlane &gt;  allSwimlanes"
+ , "c3" : "QC-JAV000006[00559] For method getFirstSwimlane arguments StringBounder  stringBounder|List&lt;Ftile&gt;  allTiles|List&lt;Swimlane&gt;  allSwimlanes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1124,7 +1124,7 @@ var maDataBlocs = {
  , "c1" : "00568"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#568"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00568] For method getLastSwimlane arguments StringBounder  stringBounder|List&lt;Ftile &gt;  allTiles|List&lt;Swimlane &gt;  allSwimlanes"
+ , "c3" : "QC-JAV000006[00568] For method getLastSwimlane arguments StringBounder  stringBounder|List&lt;Ftile&gt;  allTiles|List&lt;Swimlane&gt;  allSwimlanes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1152,7 +1152,7 @@ var maDataBlocs = {
  , "c1" : "00577"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongHorizontal.java.html#577"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00577] For method atLeastOne arguments StringBounder  stringBounder|Swimlane  intoSw|List&lt;Ftile &gt;  allTiles"
+ , "c3" : "QC-JAV000006[00577] For method atLeastOne arguments StringBounder  stringBounder|Swimlane  intoSw|List&lt;Ftile&gt;  allTiles"
 }} 
 ,
 { "ligne" : {"" : ""

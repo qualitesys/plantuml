@@ -201,7 +201,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method getModuleOrSomething arguments Iterator&lt;HclTerm &gt;  it"
+ , "c3" : "QC-JAV000006[00076] For method getModuleOrSomething arguments Iterator&lt;HclTerm&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -250,7 +250,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method getFunctionData arguments String  functionName|Iterator&lt;HclTerm &gt;  it"
+ , "c3" : "QC-JAV000006[00091] For method getFunctionData arguments String  functionName|Iterator&lt;HclTerm&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -397,7 +397,7 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00122] For method getBracketData arguments Iterator&lt;HclTerm &gt;  it"
+ , "c3" : "QC-JAV000006[00122] For method getBracketData arguments Iterator&lt;HclTerm&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -509,7 +509,7 @@ var maDataBlocs = {
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#150"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00150] For method getValue arguments Iterator&lt;HclTerm &gt;  it"
+ , "c3" : "QC-JAV000006[00150] For method getValue arguments Iterator&lt;HclTerm&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -523,7 +523,7 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#167"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00167] For method getArray arguments Iterator&lt;HclTerm &gt;  it"
+ , "c3" : "QC-JAV000006[00167] For method getArray arguments Iterator&lt;HclTerm&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -551,7 +551,7 @@ var maDataBlocs = {
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#187"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00187] For method parse arguments Iterator&lt;Character &gt;  it"
+ , "c3" : "QC-JAV000006[00187] For method parse arguments Iterator&lt;Character&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -628,7 +628,7 @@ var maDataBlocs = {
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/hcl/HclParser.java.html#218"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00218] For method eatUntilDoubleQuote arguments Iterator&lt;Character &gt;  it"
+ , "c3" : "QC-JAV000006[00218] For method eatUntilDoubleQuote arguments Iterator&lt;Character&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""

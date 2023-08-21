@@ -851,7 +851,7 @@ var maDataBlocs = {
  , "c1" : "00297"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SFile.java.html#297"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00297] For method isInAllowList arguments List&lt;SFile &gt;  allowlist"
+ , "c3" : "QC-JAV000006[00297] For method isInAllowList arguments List&lt;SFile&gt;  allowlist"
 }} 
 ,
 { "ligne" : {"" : ""

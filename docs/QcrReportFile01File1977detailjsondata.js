@@ -250,7 +250,7 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GroupingGraphicalElementHeader.java.html#113"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00113] For method addNotes arguments StringBounder  stringBounder|Collection&lt;Component &gt;  notes"
+ , "c3" : "QC-JAV000006[00113] For method addNotes arguments StringBounder  stringBounder|Collection&lt;Component&gt;  notes"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -330,7 +330,7 @@ var maDataBlocs = {
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#189"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00189] For method startGroup arguments Map&lt;UGroupType ,String &gt;  typeIdents"
+ , "c3" : "QC-JAV000006[00189] For method startGroup arguments Map&lt;UGroupType,String&gt;  typeIdents"
 }} 
 ,
 { "ligne" : {"" : ""

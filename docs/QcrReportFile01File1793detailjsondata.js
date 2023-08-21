@@ -156,7 +156,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method max arguments Collection&lt;Real &gt;  reals"
+ , "c3" : "QC-JAV000006[00057] For method max arguments Collection&lt;Real&gt;  reals"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -170,7 +170,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealUtils.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method min arguments Collection&lt;Real &gt;  reals"
+ , "c3" : "QC-JAV000006[00065] For method min arguments Collection&lt;Real&gt;  reals"
 }} 
 ]
 , 

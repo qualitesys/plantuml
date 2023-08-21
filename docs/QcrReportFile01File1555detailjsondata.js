@@ -216,7 +216,7 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#99"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00099] For method insertMissingLetter arguments List&lt;SvgCommand &gt;  commands"
+ , "c3" : "QC-JAV000006[00099] For method insertMissingLetter arguments List&lt;SvgCommand&gt;  commands"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -300,7 +300,7 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00125] For method checkArguments arguments List&lt;SvgCommand &gt;  commands"
+ , "c3" : "QC-JAV000006[00125] For method checkArguments arguments List&lt;SvgCommand&gt;  commands"
 }} 
 ,
 { "ligne" : {"" : ""

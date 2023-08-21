@@ -151,7 +151,7 @@ var maDataBlocs = {
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileUtils.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00046] For method addConnection arguments Ftile  ftile|Collection&lt;Connection &gt;  connections"
+ , "c3" : "QC-JAV000006[00046] For method addConnection arguments Ftile  ftile|Collection&lt;Connection&gt;  connections"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -342,7 +342,7 @@ var maDataBlocs = {
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#160"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00160] For method getCollWidth arguments StringBounder  stringBounder|Collection&lt;?  extends TextBlock &gt;  all"
+ , "c3" : "QC-JAV000006[00160] For method getCollWidth arguments StringBounder  stringBounder|Collection&lt;?extendsTextBlock&gt;  all"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -356,7 +356,7 @@ var maDataBlocs = {
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#168"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00168] For method getCollHeight arguments StringBounder  stringBounder|Collection&lt;?  extends TextBlock &gt;  all|double  deltay"
+ , "c3" : "QC-JAV000006[00168] For method getCollHeight arguments StringBounder  stringBounder|Collection&lt;?extendsTextBlock&gt;  all|double  deltay"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -480,7 +480,7 @@ var maDataBlocs = {
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionList.java.html#201"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00201] For method getSwimlanes2 arguments List&lt;?  extends Instruction &gt;  list"
+ , "c3" : "QC-JAV000006[00201] For method getSwimlanes2 arguments List&lt;?extendsInstruction&gt;  list"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -150,7 +150,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemLicense.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method getGraphicStrings arguments List&lt;String &gt;  strings"
+ , "c3" : "QC-JAV000006[00070] For method getGraphicStrings arguments List&lt;String&gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""

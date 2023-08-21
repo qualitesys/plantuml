@@ -3222,7 +3222,7 @@ var maDataBlocs = {
  , "c1" : "00366"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#366"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00366] For method GD_clust arguments ST_Agraph_s  g|CArrayOfStar&lt;ST_Agraph_s &gt;  v"
+ , "c3" : "QC-JAV000006[00366] For method GD_clust arguments ST_Agraph_s  g|CArrayOfStar&lt;ST_Agraph_s&gt;  v"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3614,7 +3614,7 @@ var maDataBlocs = {
  , "c1" : "00605"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#605"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00605] For method GD_rank arguments ST_Agraph_s  g|CArray&lt;ST_rank_t &gt;  v"
+ , "c3" : "QC-JAV000006[00605] For method GD_rank arguments ST_Agraph_s  g|CArray&lt;ST_rank_t&gt;  v"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3628,7 +3628,7 @@ var maDataBlocs = {
  , "c1" : "00617"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#617"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00617] For method GD_rankleader arguments ST_Agraph_s  g|CArrayOfStar&lt;ST_Agnode_s &gt;  v"
+ , "c3" : "QC-JAV000006[00617] For method GD_rankleader arguments ST_Agraph_s  g|CArrayOfStar&lt;ST_Agnode_s&gt;  v"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3852,7 +3852,7 @@ var maDataBlocs = {
  , "c1" : "00775"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#775"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00775] For method ND_in arguments ST_Agnode_s  n|__struct__&lt;ST_elist &gt;  v"
+ , "c3" : "QC-JAV000006[00775] For method ND_in arguments ST_Agnode_s  n|__struct__&lt;ST_elist&gt;  v"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4076,7 +4076,7 @@ var maDataBlocs = {
  , "c1" : "00898"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#898"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00898] For method ND_out arguments ST_Agnode_s  n|__struct__&lt;ST_elist &gt;  v"
+ , "c3" : "QC-JAV000006[00898] For method ND_out arguments ST_Agnode_s  n|__struct__&lt;ST_elist&gt;  v"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4181,7 +4181,7 @@ var maDataBlocs = {
  , "c1" : "00969"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#969"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00969] For method ND_save_in arguments ST_Agnode_s  n|__struct__&lt;ST_elist &gt;  v"
+ , "c3" : "QC-JAV000006[00969] For method ND_save_in arguments ST_Agnode_s  n|__struct__&lt;ST_elist&gt;  v"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4195,7 +4195,7 @@ var maDataBlocs = {
  , "c1" : "00978"
  , "c1link" : "./qc/src/smetana/core/Macro.java.html#978"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00978] For method ND_save_out arguments ST_Agnode_s  n|__struct__&lt;ST_elist &gt;  v"
+ , "c3" : "QC-JAV000006[00978] For method ND_save_out arguments ST_Agnode_s  n|__struct__&lt;ST_elist&gt;  v"
 }} 
 ,
 { "ligne" : {"" : ""

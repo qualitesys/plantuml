@@ -254,7 +254,7 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsImpl.java.html#139"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00139] For method getByDiagramType arguments String  name|Map&lt;String ,ParsedGenerated &gt;  data"
+ , "c3" : "QC-JAV000006[00139] For method getByDiagramType arguments String  name|Map&lt;String,ParsedGenerated&gt;  data"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -160,7 +160,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method solve arguments Cluster  root|Collection&lt;Path &gt;  paths"
+ , "c3" : "QC-JAV000006[00088] For method solve arguments Cluster  root|Collection&lt;Path&gt;  paths"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -447,7 +447,7 @@ var maDataBlocs = {
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#184"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00184] For method getMaxX arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00184] For method getMaxX arguments List&lt;XPoint2D&gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -475,7 +475,7 @@ var maDataBlocs = {
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#194"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00194] For method getMinX arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00194] For method getMinX arguments List&lt;XPoint2D&gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -503,7 +503,7 @@ var maDataBlocs = {
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#204"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00204] For method getMaxY arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00204] For method getMaxY arguments List&lt;XPoint2D&gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -531,7 +531,7 @@ var maDataBlocs = {
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#214"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00214] For method getMinY arguments List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00214] For method getMinY arguments List&lt;XPoint2D&gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -587,7 +587,7 @@ var maDataBlocs = {
  , "c1" : "00234"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/GraphvizSolverB.java.html#234"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00234] For method getPath arguments Collection&lt;Path &gt;  paths|int  start|int  end"
+ , "c3" : "QC-JAV000006[00234] For method getPath arguments Collection&lt;Path&gt;  paths|int  start|int  end"
 }} 
 ]
 , 

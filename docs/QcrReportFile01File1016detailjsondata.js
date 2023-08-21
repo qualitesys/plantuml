@@ -264,7 +264,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/Sea.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method exportAllPositions arguments Map&lt;Atom ,Position &gt;  destination"
+ , "c3" : "QC-JAV000006[00088] For method exportAllPositions arguments Map&lt;Atom,Position&gt;  destination"
 }} 
 ,
 { "ligne" : {"" : ""

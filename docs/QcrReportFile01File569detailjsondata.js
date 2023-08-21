@@ -430,7 +430,7 @@ var maDataBlocs = {
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#143"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00143] For method addNote arguments Ftile  ftile|Swimlane  swimlane|Collection&lt;PositionedNote &gt;  notes|VerticalAlignment  verticalAlignment"
+ , "c3" : "QC-JAV000006[00143] For method addNote arguments Ftile  ftile|Swimlane  swimlane|Collection&lt;PositionedNote&gt;  notes|VerticalAlignment  verticalAlignment"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -479,21 +479,21 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#177"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00177] For method createIf arguments Swimlane  swimlane|List&lt;Branch &gt;  thens|Branch  elseBranch|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Url  url"
+ , "c3" : "QC-JAV000006[00177] For method createIf arguments Swimlane  swimlane|List&lt;Branch&gt;  thens|Branch  elseBranch|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method createSwitch arguments Swimlane  swimlane|List&lt;Branch &gt;  branches|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Display  labelTest"
+ , "c3" : "QC-JAV000006[00182] For method createSwitch arguments Swimlane  swimlane|List&lt;Branch&gt;  branches|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Display  labelTest"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileFactoryDelegator.java.html#187"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00187] For method createParallel arguments List&lt;Ftile &gt;  all|ForkStyle  style|String  label|Swimlane  in|Swimlane  out"
+ , "c3" : "QC-JAV000006[00187] For method createParallel arguments List&lt;Ftile&gt;  all|ForkStyle  style|String  label|Swimlane  in|Swimlane  out"
 }} 
 ,
 { "ligne" : {"" : ""

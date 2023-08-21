@@ -601,7 +601,7 @@ var maDataBlocs = {
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhanced1.java.html#209"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00209] For method buildTreeOrTable arguments String  init|ListIterator&lt;CharSequence &gt;  it"
+ , "c3" : "QC-JAV000006[00209] For method buildTreeOrTable arguments String  init|ListIterator&lt;CharSequence&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""

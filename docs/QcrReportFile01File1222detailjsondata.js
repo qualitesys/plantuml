@@ -95,7 +95,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/PSystemEbnfFactory.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
+ , "c3" : "QC-JAV000006[00070] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String,String&gt;  skinParam"
 }} 
 ]
 , 

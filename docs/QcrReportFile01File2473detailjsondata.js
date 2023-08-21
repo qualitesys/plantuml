@@ -150,7 +150,7 @@ var maDataBlocs = {
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#105"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00105] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00105] For method canCover arguments int  nbArg|Set&lt;String&gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -178,7 +178,7 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00109] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue&gt;  values|Map&lt;String,TValue&gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -234,7 +234,7 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#134"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00134] For method getDefaultJson arguments List&lt;TValue &gt;  values"
+ , "c3" : "QC-JAV000006[00134] For method getDefaultJson arguments List&lt;TValue&gt;  values"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -262,7 +262,7 @@ var maDataBlocs = {
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/LoadJson.java.html#147"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method getCharset arguments List&lt;TValue &gt;  values"
+ , "c3" : "QC-JAV000006[00147] For method getCharset arguments List&lt;TValue&gt;  values"
 }} 
 ,
 { "ligne" : {"" : ""

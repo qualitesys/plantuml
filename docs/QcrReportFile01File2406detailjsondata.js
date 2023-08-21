@@ -475,14 +475,14 @@ var maDataBlocs = {
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TContext.java.html#243"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00243] For method buildCodeIterator arguments TMemory  memory|List&lt;StringLocated &gt;  body"
+ , "c3" : "QC-JAV000006[00243] For method buildCodeIterator arguments TMemory  memory|List&lt;StringLocated&gt;  body"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TContext.java.html#261"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00261] For method executeLines arguments TMemory  memory|List&lt;StringLocated &gt;  body|TFunctionType  ftype|boolean  modeSpecial"
+ , "c3" : "QC-JAV000006[00261] For method executeLines arguments TMemory  memory|List&lt;StringLocated&gt;  body|TFunctionType  ftype|boolean  modeSpecial"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -531,7 +531,7 @@ var maDataBlocs = {
  , "c1" : "00281"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TContext.java.html#281"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00281] For method executeLinesInternal arguments TMemory  memory|List&lt;StringLocated &gt;  body|TFunctionType  ftype"
+ , "c3" : "QC-JAV000006[00281] For method executeLinesInternal arguments TMemory  memory|List&lt;StringLocated&gt;  body|TFunctionType  ftype"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -567,14 +567,14 @@ var maDataBlocs = {
  , "c1" : "00263"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#263"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00263] For method printEntities arguments Collection&lt;ILeaf &gt;  entities"
+ , "c3" : "QC-JAV000006[00263] For method printEntities arguments Collection&lt;ILeaf&gt;  entities"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#272"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00272] For method exportEntities arguments ST_Agraph_s  g|Collection&lt;ILeaf &gt;  entities"
+ , "c3" : "QC-JAV000006[00272] For method exportEntities arguments ST_Agraph_s  g|Collection&lt;ILeaf&gt;  entities"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -826,14 +826,14 @@ var maDataBlocs = {
  , "c1" : "00332"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#332"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00332] For method createFile arguments OutputStream  os|List&lt;String &gt;  dotStrings|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00332] For method createFile arguments OutputStream  os|List&lt;String&gt;  dotStrings|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00342"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sdot/CucaDiagramFileMakerSmetana.java.html#342"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00342] For method createFileLocked arguments OutputStream  os|List&lt;String &gt;  dotStrings|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00342] For method createFileLocked arguments OutputStream  os|List&lt;String&gt;  dotStrings|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""

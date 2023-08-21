@@ -372,7 +372,7 @@ var maDataBlocs = {
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LivingSpace.java.html#146"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method useContinueLineBecauseOfDelay arguments List&lt;Event &gt;  events"
+ , "c3" : "QC-JAV000006[00146] For method useContinueLineBecauseOfDelay arguments List&lt;Event&gt;  events"
 }} 
 ,
 { "ligne" : {"" : ""

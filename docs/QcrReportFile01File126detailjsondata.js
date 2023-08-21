@@ -1140,7 +1140,7 @@ var maDataBlocs = {
  , "c1" : "00328"
  , "c1link" : "./qc/src/gen/lib/common/arrows__c.java.html#328"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00328] For method arrowEndClip arguments ST_Agedge_s  e|CArray&lt;ST_pointf &gt;  ps|int  startp|int  endp|ST_bezier  spl|int  eflag"
+ , "c3" : "QC-JAV000006[00328] For method arrowEndClip arguments ST_Agedge_s  e|CArray&lt;ST_pointf&gt;  ps|int  startp|int  endp|ST_bezier  spl|int  eflag"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1336,7 +1336,7 @@ var maDataBlocs = {
  , "c1" : "00921"
  , "c1link" : "./qc/src/gen/lib/common/arrows__c.java.html#921"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00921] For method arrowStartClip arguments ST_Agedge_s  e|CArray&lt;ST_pointf &gt;  ps|int  startp|int  endp|ST_bezier  spl|int  sflag"
+ , "c3" : "QC-JAV000006[00921] For method arrowStartClip arguments ST_Agedge_s  e|CArray&lt;ST_pointf&gt;  ps|int  startp|int  endp|ST_bezier  spl|int  sflag"
 }} 
 ,
 { "ligne" : {"" : ""

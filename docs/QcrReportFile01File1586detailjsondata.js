@@ -258,7 +258,7 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Cluster.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method addContentRecurse arguments Collection&lt;Block &gt;  result"
+ , "c3" : "QC-JAV000006[00084] For method addContentRecurse arguments Collection&lt;Block&gt;  result"
 }} 
 ,
 { "ligne" : {"" : ""

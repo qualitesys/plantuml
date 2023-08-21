@@ -518,7 +518,7 @@ var maDataBlocs = {
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/TitledDiagram.java.html#255"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00255] For method setAnimation arguments Iterable&lt;CharSequence &gt;  animationData"
+ , "c3" : "QC-JAV000006[00255] For method setAnimation arguments Iterable&lt;CharSequence&gt;  animationData"
 }} 
 ,
 { "ligne" : {"" : ""

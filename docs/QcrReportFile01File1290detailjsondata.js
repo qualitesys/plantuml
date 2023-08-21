@@ -124,14 +124,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method buildV2 arguments UmlSource  source|ErrorUml  singleError|List&lt;String &gt;  debugLines|List&lt;StringLocated &gt;  list"
+ , "c3" : "QC-JAV000006[00048] For method buildV2 arguments UmlSource  source|ErrorUml  singleError|List&lt;String&gt;  debugLines|List&lt;StringLocated&gt;  list"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#56"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00056] For method merge arguments Collection&lt;PSystemError &gt;  ps"
+ , "c3" : "QC-JAV000006[00056] For method merge arguments Collection&lt;PSystemError&gt;  ps"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -208,7 +208,7 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#84"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00084] For method mergeV2 arguments List&lt;PSystemErrorV2 &gt;  errorsV2"
+ , "c3" : "QC-JAV000006[00084] For method mergeV2 arguments List&lt;PSystemErrorV2&gt;  errorsV2"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -229,7 +229,7 @@ var maDataBlocs = {
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/error/PSystemErrorUtils.java.html#93"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00093] For method isDiagramError arguments Class&lt;?  extends Diagram &gt;  type"
+ , "c3" : "QC-JAV000006[00093] For method isDiagramError arguments Class&lt;?extendsDiagram&gt;  type"
 }} 
 ]
 , 

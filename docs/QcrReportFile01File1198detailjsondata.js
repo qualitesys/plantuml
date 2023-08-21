@@ -178,7 +178,7 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemSkinparameterList.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method getCols arguments List&lt;String &gt;  lines|int  nbCol"
+ , "c3" : "QC-JAV000006[00079] For method getCols arguments List&lt;String&gt;  lines|int  nbCol"
 }} 
 ,
 { "ligne" : {"" : ""

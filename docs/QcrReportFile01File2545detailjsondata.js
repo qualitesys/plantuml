@@ -204,7 +204,7 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method getSumWidth arguments Iterator&lt;XDimension2D &gt;  it"
+ , "c3" : "QC-JAV000006[00079] For method getSumWidth arguments Iterator&lt;XDimension2D&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -225,7 +225,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method getSumHeight arguments Iterator&lt;XDimension2D &gt;  it"
+ , "c3" : "QC-JAV000006[00087] For method getSumHeight arguments Iterator&lt;XDimension2D&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -246,7 +246,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method getMaxWidth arguments Iterator&lt;XDimension2D &gt;  it"
+ , "c3" : "QC-JAV000006[00095] For method getMaxWidth arguments Iterator&lt;XDimension2D&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -267,7 +267,7 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractPlacementStrategy.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method getMaxHeight arguments Iterator&lt;XDimension2D &gt;  it"
+ , "c3" : "QC-JAV000006[00103] For method getMaxHeight arguments Iterator&lt;XDimension2D&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""

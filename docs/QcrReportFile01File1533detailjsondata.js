@@ -228,7 +228,7 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NPlayField.java.html#103"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00103] For method fixGroups arguments List&lt;NwGroup &gt;  groups|Collection&lt;NServer &gt;  servers"
+ , "c3" : "QC-JAV000006[00103] For method fixGroups arguments List&lt;NwGroup&gt;  groups|Collection&lt;NServer&gt;  servers"
 }} 
 ,
 { "ligne" : {"" : ""

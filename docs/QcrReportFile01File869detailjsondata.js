@@ -262,7 +262,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method addVisibilities arguments String  token|EntityPortion  portion|Set&lt;VisibilityModifier &gt;  result"
+ , "c3" : "QC-JAV000006[00095] For method addVisibilities arguments String  token|EntityPortion  portion|Set&lt;VisibilityModifier&gt;  result"
 }} 
 ,
 { "ligne" : {"" : ""

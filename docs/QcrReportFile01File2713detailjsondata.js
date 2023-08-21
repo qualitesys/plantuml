@@ -465,7 +465,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/visio/VisioGraphics.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method text arguments String  text|double  x|double  y|String  family|int  fontSize|double  width|double  height|Map&lt;String ,String &gt;  attributes"
+ , "c3" : "QC-JAV000006[00115] For method text arguments String  text|double  x|double  y|String  family|int  fontSize|double  width|double  height|Map&lt;String,String&gt;  attributes"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -212,7 +212,7 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method comparePointer_ arguments CArrayOfStar&lt;O &gt;  other"
+ , "c3" : "QC-JAV000006[00074] For method comparePointer_ arguments CArrayOfStar&lt;O&gt;  other"
 }} 
 ,
 { "ligne" : {"" : ""

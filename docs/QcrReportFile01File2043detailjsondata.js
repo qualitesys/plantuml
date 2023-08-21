@@ -378,7 +378,7 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/PlayingSpace.java.html#134"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00134] For method getFromAnchor arguments List&lt;CommonTile &gt;  positionedTiles|String  anchor"
+ , "c3" : "QC-JAV000006[00134] For method getFromAnchor arguments List&lt;CommonTile&gt;  positionedTiles|String  anchor"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -111,7 +111,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemAbstractFactory.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method buildEmptyError arguments UmlSource  source|LineLocation  lineLocation|List&lt;StringLocated &gt;  trace"
+ , "c3" : "QC-JAV000006[00059] For method buildEmptyError arguments UmlSource  source|LineLocation  lineLocation|List&lt;StringLocated&gt;  trace"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -132,7 +132,7 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemAbstractFactory.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method buildExecutionError arguments UmlSource  source|String  stringError|LineLocation  lineLocation|List&lt;StringLocated &gt;  trace"
+ , "c3" : "QC-JAV000006[00066] For method buildExecutionError arguments UmlSource  source|String  stringError|LineLocation  lineLocation|List&lt;StringLocated&gt;  trace"
 }} 
 ,
 { "ligne" : {"" : ""

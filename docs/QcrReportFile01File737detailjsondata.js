@@ -299,7 +299,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/argon2/algorithm/FillMemory.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method joinThreads arguments Instance  instance|List&lt;Future&lt;? &gt; &gt;  futures"
+ , "c3" : "QC-JAV000006[00080] For method joinThreads arguments Instance  instance|List&lt;Future&lt;?&gt;&gt;  futures"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -299,7 +299,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#108"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00108] For method check_control_points arguments CArray&lt;ST_pointf &gt;  cp"
+ , "c3" : "QC-JAV000006[00108] For method check_control_points arguments CArray&lt;ST_pointf&gt;  cp"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -425,7 +425,7 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/gen/lib/common/emit__c.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method update_bb_bz arguments ST_boxf  bb|CArray&lt;ST_pointf &gt;  cp"
+ , "c3" : "QC-JAV000006[00130] For method update_bb_bz arguments ST_boxf  bb|CArray&lt;ST_pointf&gt;  cp"
 }} 
 ,
 { "ligne" : {"" : ""

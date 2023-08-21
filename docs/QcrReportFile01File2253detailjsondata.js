@@ -1482,7 +1482,7 @@ var maDataBlocs = {
  , "c1" : "00393"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#393"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00393] For method setPolygon arguments double  minX|double  minY|List&lt;XPoint2D &gt;  points"
+ , "c3" : "QC-JAV000006[00393] For method setPolygon arguments double  minX|double  minY|List&lt;XPoint2D&gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1552,7 +1552,7 @@ var maDataBlocs = {
  , "c1" : "00447"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#447"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00447] For method fixHoverlap arguments List&lt;Kal &gt;  list"
+ , "c3" : "QC-JAV000006[00447] For method fixHoverlap arguments List&lt;Kal&gt;  list"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1580,7 +1580,7 @@ var maDataBlocs = {
  , "c1" : "00460"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekNode.java.html#460"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00460] For method drawList arguments UGraphic  ug|List&lt;Kal &gt;  list"
+ , "c3" : "QC-JAV000006[00460] For method drawList arguments UGraphic  ug|List&lt;Kal&gt;  list"
 }} 
 ]
 , 

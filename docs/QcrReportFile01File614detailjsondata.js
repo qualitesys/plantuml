@@ -152,14 +152,14 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorSwitch.java.html#75"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00075] For method createSwitch arguments Swimlane  swimlane|List&lt;Branch &gt;  branches|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Display  labelTest"
+ , "c3" : "QC-JAV000006[00075] For method createSwitch arguments Swimlane  swimlane|List&lt;Branch&gt;  branches|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Display  labelTest"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorSwitch.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method createNude arguments Swimlane  swimlane|List&lt;Branch &gt;  branches"
+ , "c3" : "QC-JAV000006[00082] For method createNude arguments Swimlane  swimlane|List&lt;Branch&gt;  branches"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -173,7 +173,7 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorSwitch.java.html#90"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00090] For method createWithDiamonds arguments Swimlane  swimlane|List&lt;Branch &gt;  branches|Display  labelTest"
+ , "c3" : "QC-JAV000006[00090] For method createWithDiamonds arguments Swimlane  swimlane|List&lt;Branch&gt;  branches|Display  labelTest"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -208,7 +208,7 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorSwitch.java.html#101"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method createWithLinks arguments Swimlane  swimlane|List&lt;Branch &gt;  branches|Display  labelTest"
+ , "c3" : "QC-JAV000006[00101] For method createWithLinks arguments Swimlane  swimlane|List&lt;Branch&gt;  branches|Display  labelTest"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -118,7 +118,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#59"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00059] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00059] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue&gt;  args|Map&lt;String,TValue&gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""

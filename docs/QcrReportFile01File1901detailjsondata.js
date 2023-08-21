@@ -191,7 +191,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Message.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method setMulticast arguments List&lt;Participant &gt;  multicast"
+ , "c3" : "QC-JAV000006[00087] For method setMulticast arguments List&lt;Participant&gt;  multicast"
 }} 
 ]
 , 

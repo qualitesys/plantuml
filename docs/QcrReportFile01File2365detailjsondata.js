@@ -126,7 +126,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#55"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00055] For method checkSyntax arguments List&lt;String &gt;  source"
+ , "c3" : "QC-JAV000006[00055] For method checkSyntax arguments List&lt;String&gt;  source"
 }} 
 ,
 { "ligne" : {"" : ""

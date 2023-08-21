@@ -695,7 +695,7 @@ var maDataBlocs = {
  , "c1" : "00351"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#351"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00351] For method getBytes arguments Proxy  proxy|SecurityAuthentication  authentication|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00351] For method getBytes arguments Proxy  proxy|SecurityAuthentication  authentication|Map&lt;String,Object&gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -737,7 +737,7 @@ var maDataBlocs = {
  , "c1" : "00385"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#385"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00385] For method getBytesOnPost arguments Proxy  proxy|SecurityAuthentication  authentication|String  data|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00385] For method getBytesOnPost arguments Proxy  proxy|SecurityAuthentication  authentication|String  data|Map&lt;String,Object&gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -779,7 +779,7 @@ var maDataBlocs = {
  , "c1" : "00410"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#410"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00410] For method requestWithGetAndResponse arguments URL  url|Proxy  proxy|SecurityAuthentication  authentication|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00410] For method requestWithGetAndResponse arguments URL  url|Proxy  proxy|SecurityAuthentication  authentication|Map&lt;String,Object&gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -821,7 +821,7 @@ var maDataBlocs = {
  , "c1" : "00454"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#454"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00454] For method requestWithPostAndResponse arguments URL  url|Proxy  proxy|SecurityAuthentication  authentication|String  data|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00454] For method requestWithPostAndResponse arguments URL  url|Proxy  proxy|SecurityAuthentication  authentication|String  data|Map&lt;String,Object&gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1080,7 +1080,7 @@ var maDataBlocs = {
  , "c1" : "00616"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/SURL.java.html#616"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00616] For method applyAdditionalHeaders arguments URLConnection  http|Map&lt;String ,Object &gt;  headers"
+ , "c3" : "QC-JAV000006[00616] For method applyAdditionalHeaders arguments URLConnection  http|Map&lt;String,Object&gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""

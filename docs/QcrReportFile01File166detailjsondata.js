@@ -411,7 +411,7 @@ var maDataBlocs = {
  , "c1" : "00361"
  , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#361"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00361] For method xlnew arguments CArray&lt;ST_object_t &gt;  objs|int  n_objs|CArray&lt;ST_xlabel_t &gt;  lbls|int  n_lbls|ST_label_params_t  params"
+ , "c3" : "QC-JAV000006[00361] For method xlnew arguments CArray&lt;ST_object_t&gt;  objs|int  n_objs|CArray&lt;ST_xlabel_t&gt;  lbls|int  n_lbls|ST_label_params_t  params"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3211,7 +3211,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method placeLabels arguments CArray&lt;ST_object_t &gt;  objs|int  n_objs|CArray&lt;ST_xlabel_t &gt;  lbls|int  n_lbls|ST_label_params_t  params"
+ , "c3" : "QC-JAV000006[00001] For method placeLabels arguments CArray&lt;ST_object_t&gt;  objs|int  n_objs|CArray&lt;ST_xlabel_t&gt;  lbls|int  n_lbls|ST_label_params_t  params"
 }} 
 ,
 { "ligne" : {"" : ""

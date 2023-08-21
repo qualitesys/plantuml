@@ -132,7 +132,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/FileExists.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00057] For method canCover arguments int  nbArg|Set&lt;String&gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -146,7 +146,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/FileExists.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
+ , "c3" : "QC-JAV000006[00061] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue&gt;  values|Map&lt;String,TValue&gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""

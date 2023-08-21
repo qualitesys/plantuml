@@ -136,7 +136,7 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/SmallestEnclosingCircle.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method findSec arguments int  n|List&lt;XPoint2D &gt;  p|int  m|List&lt;XPoint2D &gt;  b"
+ , "c3" : "QC-JAV000006[00062] For method findSec arguments int  n|List&lt;XPoint2D&gt;  p|int  m|List&lt;XPoint2D&gt;  b"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -106,7 +106,7 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder4096.java.html#48"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00048] For method buildSprite arguments List&lt;String &gt;  strings"
+ , "c3" : "QC-JAV000006[00048] For method buildSprite arguments List&lt;String&gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""

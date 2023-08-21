@@ -290,7 +290,7 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#119"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00119] For method printCounter arguments Map&lt;PositiveForce ,Integer &gt;  counter"
+ , "c3" : "QC-JAV000006[00119] For method printCounter arguments Map&lt;PositiveForce,Integer&gt;  counter"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -325,7 +325,7 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#128"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00128] For method incCounter arguments Map&lt;PositiveForce ,Integer &gt;  counter|PositiveForce  f"
+ , "c3" : "QC-JAV000006[00128] For method incCounter arguments Map&lt;PositiveForce,Integer&gt;  counter|PositiveForce  f"
 }} 
 ,
 { "ligne" : {"" : ""

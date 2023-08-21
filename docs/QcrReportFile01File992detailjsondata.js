@@ -197,7 +197,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/RegexComposed.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method createPartialMatch arguments Iterator&lt;String &gt;  it"
+ , "c3" : "QC-JAV000006[00080] For method createPartialMatch arguments Iterator&lt;String&gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""

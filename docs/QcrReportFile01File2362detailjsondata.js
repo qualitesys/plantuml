@@ -163,7 +163,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/SimpleLine.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00050] For method fromFuture arguments File  file|Future&lt;List&lt;GeneratedImage &gt; &gt;  future"
+ , "c3" : "QC-JAV000006[00050] For method fromFuture arguments File  file|Future&lt;List&lt;GeneratedImage&gt;&gt;  future"
 }} 
 ,
 { "ligne" : {"" : ""
