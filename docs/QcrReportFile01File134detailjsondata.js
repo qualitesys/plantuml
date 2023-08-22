@@ -709,7 +709,7 @@ var maDataBlocs = {
  , "c1" : "00265"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#265"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00265] For method centerPt arguments CArray&lt;ST_xlabel_t&gt;  xlp"
+ , "c3" : "QC-JAV000006[00265] For method centerPt arguments CArray&lt;ST_xlabel_t &gt;  xlp"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -968,7 +968,7 @@ var maDataBlocs = {
  , "c1" : "00353"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#353"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00353] For method adjustBB arguments CArray&lt;ST_object_t&gt;  objp|ST_boxf  bb"
+ , "c3" : "QC-JAV000006[00353] For method adjustBB arguments CArray&lt;ST_object_t &gt;  objp|ST_boxf  bb"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1010,7 +1010,7 @@ var maDataBlocs = {
  , "c1" : "00361"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#361"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00361] For method adjustBB_ arguments CArray&lt;ST_object_t&gt;  objp|ST_boxf  bb"
+ , "c3" : "QC-JAV000006[00361] For method adjustBB_ arguments CArray&lt;ST_object_t &gt;  objp|ST_boxf  bb"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1073,7 +1073,7 @@ var maDataBlocs = {
  , "c1" : "00384"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#384"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00384] For method addXLabel arguments ST_textlabel_t  lp|CArray&lt;ST_object_t&gt;  objp|CArray&lt;ST_xlabel_t&gt;  xlp|int  initObj|ST_pointf  pos"
+ , "c3" : "QC-JAV000006[00384] For method addXLabel arguments ST_textlabel_t  lp|CArray&lt;ST_object_t &gt;  objp|CArray&lt;ST_xlabel_t &gt;  xlp|int  initObj|ST_pointf  pos"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1115,7 +1115,7 @@ var maDataBlocs = {
  , "c1" : "00392"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#392"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00392] For method addXLabel_ arguments ST_textlabel_t  lp|CArray&lt;ST_object_t&gt;  objp|CArray&lt;ST_xlabel_t&gt;  xlp|int  initObj|ST_pointf  pos"
+ , "c3" : "QC-JAV000006[00392] For method addXLabel_ arguments ST_textlabel_t  lp|CArray&lt;ST_object_t &gt;  objp|CArray&lt;ST_xlabel_t &gt;  xlp|int  initObj|ST_pointf  pos"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1241,7 +1241,7 @@ var maDataBlocs = {
  , "c1" : "00424"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#424"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00424] For method addLabelObj arguments ST_textlabel_t  lp|CArray&lt;ST_object_t&gt;  objp|ST_boxf  bb"
+ , "c3" : "QC-JAV000006[00424] For method addLabelObj arguments ST_textlabel_t  lp|CArray&lt;ST_object_t &gt;  objp|ST_boxf  bb"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1255,7 +1255,7 @@ var maDataBlocs = {
  , "c1" : "00428"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#428"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00428] For method addLabelObj_ arguments ST_textlabel_t  lp|CArray&lt;ST_object_t&gt;  objp|ST_boxf  bb"
+ , "c3" : "QC-JAV000006[00428] For method addLabelObj_ arguments ST_textlabel_t  lp|CArray&lt;ST_object_t &gt;  objp|ST_boxf  bb"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1381,7 +1381,7 @@ var maDataBlocs = {
  , "c1" : "00456"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#456"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00456] For method addNodeObj arguments ST_Agnode_s  np|CArray&lt;ST_object_t&gt;  objp|ST_boxf  bb"
+ , "c3" : "QC-JAV000006[00456] For method addNodeObj arguments ST_Agnode_s  np|CArray&lt;ST_object_t &gt;  objp|ST_boxf  bb"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1395,7 +1395,7 @@ var maDataBlocs = {
  , "c1" : "00462"
  , "c1link" : "./qc/src/gen/lib/common/postproc__c.java.html#462"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00462] For method addNodeObj_ arguments ST_Agnode_s  np|CArray&lt;ST_object_t&gt;  objp|ST_boxf  bb"
+ , "c3" : "QC-JAV000006[00462] For method addNodeObj_ arguments ST_Agnode_s  np|CArray&lt;ST_object_t &gt;  objp|ST_boxf  bb"
 }} 
 ,
 { "ligne" : {"" : ""

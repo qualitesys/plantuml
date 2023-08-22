@@ -192,7 +192,7 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/smetana/core/CArray.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method minus_ arguments CArray&lt;O&gt;  other"
+ , "c3" : "QC-JAV000006[00082] For method minus_ arguments CArray&lt;O &gt;  other"
 }} 
 ,
 { "ligne" : {"" : ""

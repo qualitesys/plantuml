@@ -241,7 +241,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method parse arguments Map&lt;String,Integer&gt;  labels"
+ , "c3" : "QC-JAV000006[00001] For method parse arguments Map&lt;String ,Integer &gt;  labels"
 }} 
 ,
 { "ligne" : {"" : ""

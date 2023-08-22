@@ -297,7 +297,7 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/Commit.java.html#96"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00096] For method addAbove arguments List&lt;CursorPosition&gt;  result|CursorPosition  here"
+ , "c3" : "QC-JAV000006[00096] For method addAbove arguments List&lt;CursorPosition &gt;  result|CursorPosition  here"
 }} 
 ,
 { "ligne" : {"" : ""

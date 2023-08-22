@@ -892,7 +892,7 @@ var maDataBlocs = {
  , "c1" : "00296"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#296"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00296] For method swap_bezier arguments CArray&lt;ST_bezier&gt;  old|CArray&lt;ST_bezier&gt;  new_"
+ , "c3" : "QC-JAV000006[00296] For method swap_bezier arguments CArray&lt;ST_bezier &gt;  old|CArray&lt;ST_bezier &gt;  new_"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2383,7 +2383,7 @@ var maDataBlocs = {
  , "c1" : "00788"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#788"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00788] For method edgecmp arguments CArrayOfStar&lt;ST_Agedge_s&gt;  ptr0|CArrayOfStar&lt;ST_Agedge_s&gt;  ptr1"
+ , "c3" : "QC-JAV000006[00788] For method edgecmp arguments CArrayOfStar&lt;ST_Agedge_s &gt;  ptr0|CArrayOfStar&lt;ST_Agedge_s &gt;  ptr1"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2558,7 +2558,7 @@ var maDataBlocs = {
  , "c1" : "00857"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#857"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00857] For method edgelblcmpfn arguments CArrayOfStar&lt;ST_Agedge_s&gt;  ptr0|CArrayOfStar&lt;ST_Agedge_s&gt;  ptr1"
+ , "c3" : "QC-JAV000006[00857] For method edgelblcmpfn arguments CArrayOfStar&lt;ST_Agedge_s &gt;  ptr0|CArrayOfStar&lt;ST_Agedge_s &gt;  ptr1"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2698,7 +2698,7 @@ var maDataBlocs = {
  , "c1" : "00899"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#899"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00899] For method makeSimpleFlatLabels arguments ST_Agnode_s  tn|ST_Agnode_s  hn|CArrayOfStar&lt;ST_Agedge_s&gt;  edges|int  ind|int  cnt|int  et|int  n_lbls"
+ , "c3" : "QC-JAV000006[00899] For method makeSimpleFlatLabels arguments ST_Agnode_s  tn|ST_Agnode_s  hn|CArrayOfStar&lt;ST_Agedge_s &gt;  edges|int  ind|int  cnt|int  et|int  n_lbls"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3552,7 +3552,7 @@ var maDataBlocs = {
  , "c1" : "01063"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1063"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01063] For method makeSimpleFlat arguments ST_Agnode_s  tn|ST_Agnode_s  hn|CArrayOfStar&lt;ST_Agedge_s&gt;  edges|int  ind|int  cnt|int  et"
+ , "c3" : "QC-JAV000006[01063] For method makeSimpleFlat arguments ST_Agnode_s  tn|ST_Agnode_s  hn|CArrayOfStar&lt;ST_Agedge_s &gt;  edges|int  ind|int  cnt|int  et"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3755,7 +3755,7 @@ var maDataBlocs = {
  , "c1" : "01115"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01115] For method make_flat_adj_edges arguments ST_Agraph_s  g|ST_path  P|CArrayOfStar&lt;ST_Agedge_s&gt;  edges|int  ind|int  cnt|ST_Agedge_s  e0|int  et"
+ , "c3" : "QC-JAV000006[01115] For method make_flat_adj_edges arguments ST_Agraph_s  g|ST_path  P|CArrayOfStar&lt;ST_Agedge_s &gt;  edges|int  ind|int  cnt|ST_Agedge_s  e0|int  et"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5463,7 +5463,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method make_flat_edge arguments ST_Agraph_s  g|ST_spline_info_t  sp|ST_path  P|CArrayOfStar&lt;ST_Agedge_s&gt;  edges|int  ind|int  cnt|int  et"
+ , "c3" : "QC-JAV000006[00001] For method make_flat_edge arguments ST_Agraph_s  g|ST_spline_info_t  sp|ST_path  P|CArrayOfStar&lt;ST_Agedge_s &gt;  edges|int  ind|int  cnt|int  et"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6373,7 +6373,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method make_regular_edge arguments ST_Agraph_s  g|ST_spline_info_t  sp|ST_path  P|CArrayOfStar&lt;ST_Agedge_s&gt;  edges|int  ind|int  cnt|int  et"
+ , "c3" : "QC-JAV000006[00001] For method make_regular_edge arguments ST_Agraph_s  g|ST_spline_info_t  sp|ST_path  P|CArrayOfStar&lt;ST_Agedge_s &gt;  edges|int  ind|int  cnt|int  et"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -8214,7 +8214,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/dotgen/dotsplines__c.java.html#1"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00001] For method straight_path arguments ST_Agedge_s  e|int  cnt|CArray&lt;ST_pointf&gt;  plist|int[]  np"
+ , "c3" : "QC-JAV000006[00001] For method straight_path arguments ST_Agedge_s  e|int  cnt|CArray&lt;ST_pointf &gt;  plist|int[]  np"
 }} 
 ,
 { "ligne" : {"" : ""

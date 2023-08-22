@@ -100,7 +100,7 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/eggs/PSystemWelcomeFactory.java.html#49"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00049] For method createSystem arguments UmlSource  source|Map&lt;String,String&gt;  skinParam"
+ , "c3" : "QC-JAV000006[00049] For method createSystem arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -367,7 +367,7 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GraphvizCrash.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method checkOldVersionWarning arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00109] For method checkOldVersionWarning arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -437,7 +437,7 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GraphvizCrash.java.html#118"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00118] For method pleaseGoTo arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00118] For method pleaseGoTo arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -472,7 +472,7 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GraphvizCrash.java.html#124"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00124] For method youShouldSendThisDiagram arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00124] For method youShouldSendThisDiagram arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -507,7 +507,7 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GraphvizCrash.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method thisMayBeCaused arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00130] For method thisMayBeCaused arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -682,7 +682,7 @@ var maDataBlocs = {
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GraphvizCrash.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00180] For method addDecodeHint arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00180] For method addDecodeHint arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -710,7 +710,7 @@ var maDataBlocs = {
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GraphvizCrash.java.html#185"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00185] For method addProperties arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00185] For method addProperties arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""

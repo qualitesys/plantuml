@@ -173,7 +173,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/yaml/SimpleYamlParser.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method parse arguments List&lt;String&gt;  lines"
+ , "c3" : "QC-JAV000006[00053] For method parse arguments List&lt;String &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""

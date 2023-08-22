@@ -620,7 +620,7 @@ var maDataBlocs = {
  , "c1" : "00191"
  , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#191"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00191] For method limitBoxes arguments ST_boxf[]  boxes|int  boxn|CArray&lt;ST_pointf&gt;  pps|int  pn|int  delta"
+ , "c3" : "QC-JAV000006[00191] For method limitBoxes arguments ST_boxf[]  boxes|int  boxn|CArray&lt;ST_pointf &gt;  pps|int  pn|int  delta"
 }} 
 ,
 { "ligne" : {"" : ""

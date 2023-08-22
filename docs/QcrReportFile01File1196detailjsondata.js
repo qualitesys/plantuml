@@ -185,7 +185,7 @@ var maDataBlocs = {
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/donors/PSystemDonors.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method getCols arguments List&lt;String&gt;  lines|int  nbCol|int  reserved"
+ , "c3" : "QC-JAV000006[00136] For method getCols arguments List&lt;String &gt;  lines|int  nbCol|int  reserved"
 }} 
 ,
 { "ligne" : {"" : ""

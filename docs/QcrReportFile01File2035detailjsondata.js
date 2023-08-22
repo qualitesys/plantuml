@@ -512,7 +512,7 @@ var maDataBlocs = {
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/LiveBoxes.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method nextButSkippingNotes arguments Iterator&lt;Event&gt;  it"
+ , "c3" : "QC-JAV000006[00182] For method nextButSkippingNotes arguments Iterator&lt;Event &gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""

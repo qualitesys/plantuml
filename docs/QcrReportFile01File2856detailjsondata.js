@@ -512,7 +512,7 @@ var maDataBlocs = {
  , "c1" : "00146"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#146"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00146] For method getTheMethod arguments Class&lt;?&gt;  theClass|String  methodName2"
+ , "c3" : "QC-JAV000006[00146] For method getTheMethod arguments Class&lt;? &gt;  theClass|String  methodName2"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -86,7 +86,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorCreateParallel.java.html#53"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00053] For method createParallel arguments List&lt;Ftile&gt;  all|ForkStyle  style|String  label|Swimlane  in|Swimlane  out"
+ , "c3" : "QC-JAV000006[00053] For method createParallel arguments List&lt;Ftile &gt;  all|ForkStyle  style|String  label|Swimlane  in|Swimlane  out"
 }} 
 ]
 , 

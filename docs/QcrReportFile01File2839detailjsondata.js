@@ -1541,7 +1541,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#91"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00091] For method addToMarkupTags arguments Collection&lt;String&gt;  tags"
+ , "c3" : "QC-JAV000006[00091] For method addToMarkupTags arguments Collection&lt;String &gt;  tags"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5727,7 +5727,7 @@ var maDataBlocs = {
  , "c1" : "01507"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1507"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01507] For method initialiseWithLines arguments ArrayList&lt;StringBuffer&gt;  lines|ProcessingOptions  options"
+ , "c3" : "QC-JAV000006[01507] For method initialiseWithLines arguments ArrayList&lt;StringBuffer &gt;  lines|ProcessingOptions  options"
 }} 
 ,
 { "ligne" : {"" : ""

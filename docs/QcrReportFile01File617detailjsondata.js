@@ -182,7 +182,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileForkInnerOverlapped.java.html#76"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00076] For method mergeSwimlanes arguments List&lt;Ftile&gt;  tiles"
+ , "c3" : "QC-JAV000006[00076] For method mergeSwimlanes arguments List&lt;Ftile &gt;  tiles"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -418,7 +418,7 @@ var maDataBlocs = {
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/PSystemSalt.java.html#196"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00196] For method createElement arguments List&lt;String&gt;  data"
+ , "c3" : "QC-JAV000006[00196] For method createElement arguments List&lt;String &gt;  data"
 }} 
 ,
 { "ligne" : {"" : ""

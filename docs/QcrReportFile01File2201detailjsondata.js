@@ -616,7 +616,7 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#178"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00178] For method getNodes arguments EnumSet&lt;EntityPosition&gt;  position"
+ , "c3" : "QC-JAV000006[00178] For method getNodes arguments EnumSet&lt;EntityPosition &gt;  position"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -630,7 +630,7 @@ var maDataBlocs = {
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#186"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00186] For method getNodesOrderedTop arguments Collection&lt;SvekLine&gt;  lines"
+ , "c3" : "QC-JAV000006[00186] For method getNodesOrderedTop arguments Collection&lt;SvekLine &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -665,7 +665,7 @@ var maDataBlocs = {
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#206"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00206] For method getNodesOrderedWithoutTop arguments Collection&lt;SvekLine&gt;  lines"
+ , "c3" : "QC-JAV000006[00206] For method getNodesOrderedWithoutTop arguments Collection&lt;SvekLine &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1064,7 +1064,7 @@ var maDataBlocs = {
  , "c1" : "00458"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#458"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00458] For method printCluster1 arguments StringBuilder  sb|Collection&lt;SvekLine&gt;  lines|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00458] For method printCluster1 arguments StringBuilder  sb|Collection&lt;SvekLine &gt;  lines|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1092,7 +1092,7 @@ var maDataBlocs = {
  , "c1" : "00468"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#468"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00468] For method printCluster2 arguments StringBuilder  sb|Collection&lt;SvekLine&gt;  lines|StringBounder  stringBounder|DotMode  dotMode|GraphvizVersion  graphvizVersion|UmlDiagramType  type"
+ , "c3" : "QC-JAV000006[00468] For method printCluster2 arguments StringBuilder  sb|Collection&lt;SvekLine &gt;  lines|StringBounder  stringBounder|DotMode  dotMode|GraphvizVersion  graphvizVersion|UmlDiagramType  type"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1120,7 +1120,7 @@ var maDataBlocs = {
  , "c1" : "00487"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#487"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00487] For method printCluster3_forKermor arguments StringBuilder  sb|Collection&lt;SvekLine&gt;  lines|StringBounder  stringBounder|DotMode  dotMode|GraphvizVersion  graphvizVersion|UmlDiagramType  type"
+ , "c3" : "QC-JAV000006[00487] For method printCluster3_forKermor arguments StringBuilder  sb|Collection&lt;SvekLine &gt;  lines|StringBounder  stringBounder|DotMode  dotMode|GraphvizVersion  graphvizVersion|UmlDiagramType  type"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1148,14 +1148,14 @@ var maDataBlocs = {
  , "c1" : "00503"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#503"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00503] For method printInternal arguments StringBuilder  sb|Collection&lt;SvekLine&gt;  lines|StringBounder  stringBounder|DotMode  dotMode|GraphvizVersion  graphvizVersion|UmlDiagramType  type"
+ , "c3" : "QC-JAV000006[00503] For method printInternal arguments StringBuilder  sb|Collection&lt;SvekLine &gt;  lines|StringBounder  stringBounder|DotMode  dotMode|GraphvizVersion  graphvizVersion|UmlDiagramType  type"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00508"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#508"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00508] For method appendRankSame arguments StringBuilder  sb|Collection&lt;SvekLine&gt;  lines"
+ , "c3" : "QC-JAV000006[00508] For method appendRankSame arguments StringBuilder  sb|Collection&lt;SvekLine &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1169,7 +1169,7 @@ var maDataBlocs = {
  , "c1" : "00515"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/Cluster.java.html#515"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00515] For method getRankSame arguments Collection&lt;SvekLine&gt;  lines"
+ , "c3" : "QC-JAV000006[00515] For method getRankSame arguments Collection&lt;SvekLine &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""

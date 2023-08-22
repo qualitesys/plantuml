@@ -199,7 +199,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/Reference.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method uniq arguments List&lt;Participant&gt;  all"
+ , "c3" : "QC-JAV000006[00088] For method uniq arguments List&lt;Participant &gt;  all"
 }} 
 ,
 { "ligne" : {"" : ""

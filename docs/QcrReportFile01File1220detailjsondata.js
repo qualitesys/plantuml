@@ -587,7 +587,7 @@ var maDataBlocs = {
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/EbnfExpression.java.html#180"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00180] For method getMainDrawing arguments ISkinParam  skinParam|Iterator&lt;Token&gt;  it"
+ , "c3" : "QC-JAV000006[00180] For method getMainDrawing arguments ISkinParam  skinParam|Iterator&lt;Token &gt;  it"
 }} 
 ,
 { "ligne" : {"" : ""

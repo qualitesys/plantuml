@@ -142,7 +142,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00065] For method load arguments List&lt;StringLocated&gt;  list"
+ , "c3" : "QC-JAV000006[00065] For method load arguments List&lt;StringLocated &gt;  list"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -170,7 +170,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TimLoader.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method changeLastLine arguments List&lt;StringLocated&gt;  list|String  message"
+ , "c3" : "QC-JAV000006[00078] For method changeLastLine arguments List&lt;StringLocated &gt;  list|String  message"
 }} 
 ,
 { "ligne" : {"" : ""

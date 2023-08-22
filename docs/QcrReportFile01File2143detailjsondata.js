@@ -280,7 +280,7 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method getCreoleLine arguments Collection&lt;StatsColumn&gt;  headers|StatsLine  line|boolean  bold"
+ , "c3" : "QC-JAV000006[00098] For method getCreoleLine arguments Collection&lt;StatsColumn &gt;  headers|StatsLine  line|boolean  bold"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -413,7 +413,7 @@ var maDataBlocs = {
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/HtmlConverter.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method getHtmlHeader arguments Collection&lt;StatsColumn&gt;  headers"
+ , "c3" : "QC-JAV000006[00133] For method getHtmlHeader arguments Collection&lt;StatsColumn &gt;  headers"
 }} 
 ,
 { "ligne" : {"" : ""

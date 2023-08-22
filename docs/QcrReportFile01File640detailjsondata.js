@@ -527,7 +527,7 @@ var maDataBlocs = {
  , "c1" : "00454"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithLinks.java.html#454"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00454] For method getMinmax arguments StringBounder  stringBounder|double  width|List&lt;Ftile&gt;  allTiles|Swimlane  intoSw|List&lt;Swimlane&gt;  allSwimlanes"
+ , "c3" : "QC-JAV000006[00454] For method getMinmax arguments StringBounder  stringBounder|double  width|List&lt;Ftile &gt;  allTiles|Swimlane  intoSw|List&lt;Swimlane &gt;  allSwimlanes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -583,7 +583,7 @@ var maDataBlocs = {
  , "c1" : "00487"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithLinks.java.html#487"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00487] For method getMinmaxSimple arguments StringBounder  stringBounder|double  width|List&lt;Ftile&gt;  allTiles"
+ , "c3" : "QC-JAV000006[00487] For method getMinmaxSimple arguments StringBounder  stringBounder|double  width|List&lt;Ftile &gt;  allTiles"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -618,7 +618,7 @@ var maDataBlocs = {
  , "c1" : "00507"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithLinks.java.html#507"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00507] For method getFirstSwimlane arguments StringBounder  stringBounder|List&lt;Ftile&gt;  allTiles|List&lt;Swimlane&gt;  allSwimlanes"
+ , "c3" : "QC-JAV000006[00507] For method getFirstSwimlane arguments StringBounder  stringBounder|List&lt;Ftile &gt;  allTiles|List&lt;Swimlane &gt;  allSwimlanes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -639,7 +639,7 @@ var maDataBlocs = {
  , "c1" : "00516"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithLinks.java.html#516"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00516] For method getLastSwimlane arguments StringBounder  stringBounder|List&lt;Ftile&gt;  allTiles|List&lt;Swimlane&gt;  allSwimlanes"
+ , "c3" : "QC-JAV000006[00516] For method getLastSwimlane arguments StringBounder  stringBounder|List&lt;Ftile &gt;  allTiles|List&lt;Swimlane &gt;  allSwimlanes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -667,7 +667,7 @@ var maDataBlocs = {
  , "c1" : "00525"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileIfWithLinks.java.html#525"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00525] For method atLeastOne arguments StringBounder  stringBounder|Swimlane  intoSw|List&lt;Ftile&gt;  allTiles"
+ , "c3" : "QC-JAV000006[00525] For method atLeastOne arguments StringBounder  stringBounder|Swimlane  intoSw|List&lt;Ftile &gt;  allTiles"
 }} 
 ,
 { "ligne" : {"" : ""

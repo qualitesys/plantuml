@@ -514,7 +514,7 @@ var maDataBlocs = {
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/FromSkinparamToStyle.java.html#317"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00317] For method readValue arguments String  read|List&lt;Data&gt;  datas|AutomaticCounter  counter"
+ , "c3" : "QC-JAV000006[00317] For method readValue arguments String  read|List&lt;Data &gt;  datas|AutomaticCounter  counter"
 }} 
 ,
 { "ligne" : {"" : ""

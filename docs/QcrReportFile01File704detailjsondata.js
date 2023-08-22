@@ -193,7 +193,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/anim/Animation.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method create arguments List&lt;String&gt;  descriptions"
+ , "c3" : "QC-JAV000006[00064] For method create arguments List&lt;String &gt;  descriptions"
 }} 
 ,
 { "ligne" : {"" : ""

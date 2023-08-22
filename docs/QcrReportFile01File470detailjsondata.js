@@ -93,7 +93,7 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram/ActivityDiagramFactory.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String,String&gt;  skinParam"
+ , "c3" : "QC-JAV000006[00062] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""

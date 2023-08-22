@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1234px" preserveAspectRatio="none" style="width:960px;height:1234px;background:#FFFFFF;" version="1.1" viewBox="0 0 960 1234" width="960px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="276" x="5" y="30.1074">Patience you must have my young padawan</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="272" x="5" y="58.0449">Diagram size: 661 lines / 17083 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 363 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.Branch.updateFtile(Branch.java:130)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="555" x="13" y="630.7637">net.sourceforge.plantuml.activitydiagram3.InstructionIf.createFtile(InstructionIf.java:136)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="644.7324">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="672.6699">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="686.6387">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="700.6074">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="714.5762">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="728.5449">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="742.5137">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="756.4824">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="770.4512">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="784.4199">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="798.3887">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="812.3574">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="826.3262">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="840.2949">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="854.2637">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="868.2324">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="882.2012">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="896.1699">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="910.1387">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="924.1074">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="938.0762">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="952.0449">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="966.0137">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="979.9824">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="993.9512">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="1007.9199">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="1021.8887">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="1035.8574">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1049.8262">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1063.7949">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1077.7637">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1091.7324">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1105.7012">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1119.6699">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1133.6387">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1147.6074">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1161.5762">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1175.5449">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1189.5137">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1203.4824">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1217.4512">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1231.4199">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="71" width="40" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAABHCAYAAAB1XAXiAAAEVUlEQVR4Xs2Zy3HrMAxF4yJcgWtICSnADWTvDtKBC/A+BWTvDlyDW0gZyjvOnDcIQ+pPhZjhSKZI4vICBCD56WlFud1u3efnZ5f2NyHdP2kaIHK9Xrv7/d4mQBlsGuDpdOrO5zO3bYEE0MfHR7fb7R4NJpsCCRjB0Q6HQ5sAAUbjvirAXKjI9SkCvFwu3fv7+yiAfeutLoB5eXl5tOPx2L2+vg4C3FQAwyER3NxDUo1VwGDa5+fnB4sE7DkAq4kAYY9Y2CxATYy5mwP49vb2YI/rUDZZ1dfSxdLfCGAABYOAJNz0AVwkOQBDAhhAyR7mrgZwjgAG3wMgQJuMgzAng1NNPMdqkwQw8YBwnQKwugCGAC1ADktTABH9jwPSx2B1c+YEpbBGAxwprwRwNcntNNeHUBzAHAySRbiWxm4uMEXuNZPgg4SZZl6eBAhzBmnu55RcVVgHBKBkzjDTTEUjg/idp5jWFEBYkzn9cCibLDLnlMmAAAyMmU3wwc0LhhJoGTTMxPtNAZYEEKQ5Tq3B2vtmAJreDNSYupmy3zQna6Q5+qamu5ILLRYOh4E6pjquf55NYCiW+piWYE1fVTOPpVv/A4ihBaAyWg3gWEE5gKxmonnpK4WasQQsFpQTYjwUxkH7/jTUoBgQgAIIZo3mBiS/HZvOryooRHn8qtrXNi8cUAZzKZBSqwawz5mJcXzu1e8ws3kY81rh7Pf74hpKn57ZAiMoBySAOCR+H/TKM8ZUYa9PUBjLK4AQVswqNPpkdk75v0hQhlLAkTn0sSj0GXr+BCCmiz4XAXAPg4Qb/XBTgLBjcM5lDO5lzuqG+7hGNUE5rFj35V6QuDdoWzSkm5gtQ0ceJZjMKqZkPtbBzG6iNG5VQYFMEIABAZs5xY7FtIKrXt2wOD5lEIbB0pcs+uI3Q0NObuwqoqPrUyj0PxGf25xjlvFLAwDTMYuFHbM4yswMNN/grKL99GZs9E8d+glDztMCq70OABDGPBCCAqz3Nk0Z+0x93ntwVgveMphWKEsbDK4GkN2yqGaKpvZ3bOkY5qa/VwWo+XzfwFT6mNc4xo9I0T9pPPOzSOn0TxLNa/lEQxEMcFU57MRySyYFxjjneGhMk4tBoojdurDmgQUaLLEJlMFuvAeYjOkmrmOZNhsgEzEZC/vlFGXs3OALCMfmhGdGAMYz199sjI2WMlGvMAEmAKRZrF4EFkH0ieN8qbe60Y/pn2VqTpvVSDQPzyYv9vQ9x02yNuyx9uRCgoHsFAY1K0ABOHqRgjwW6L4LDbOT/jnK1AywdjNusVOuPk/nTBXWsBTTMrrOKFPjG3FH/IbFwYkThLXM2Yjg0leHH8KD+OnM+DfJPyYIa8IeoNBloZEN4HToD4AEmAF21dIoCDot3wzc6LM0+wUypjHNy+RfA1cU1oYIBGCy+ePAcGM5FE/UUtOOZR4dmBpyaPg7TP73R3Nr2rK+kJGxQEqCjhIGSPsCw/2b+SOFM5UAAAAASUVORK5CYII=" y="6"/><!--MD5=[2ec3aa4f6570c2f05c8707b8dbb00332]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1234px" preserveAspectRatio="none" style="width:959px;height:1234px;background:#FFFFFF;" version="1.1" viewBox="0 0 959 1234" width="959px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="313" x="5" y="30.1074">I would rather die standing than live on my knees.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="272" x="5" y="58.0449">Diagram size: 659 lines / 16946 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 364 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.Branch.updateFtile(Branch.java:130)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="555" x="13" y="630.7637">net.sourceforge.plantuml.activitydiagram3.InstructionIf.createFtile(InstructionIf.java:136)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="644.7324">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="672.6699">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="686.6387">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="700.6074">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="714.5762">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="728.5449">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="742.5137">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="756.4824">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="770.4512">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="784.4199">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="798.3887">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="812.3574">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="826.3262">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="840.2949">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="854.2637">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="868.2324">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="882.2012">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="896.1699">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="910.1387">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="924.1074">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="938.0762">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="952.0449">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="966.0137">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="979.9824">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="993.9512">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="1007.9199">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="1021.8887">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="1035.8574">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1049.8262">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1063.7949">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1077.7637">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1091.7324">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1105.7012">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1119.6699">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1133.6387">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1147.6074">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1161.5762">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1175.5449">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1189.5137">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1203.4824">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1217.4512">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1231.4199">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="39" width="39" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAnCAYAAACMo1E1AAABDklEQVR4Xu3WMQ7CMBBEUR+LkoNxHEoOSBeqLXjSYm/iiCDypV/grHdGigS0dnLS2vPSlore3xXDe3p/Fwzdqvs34fKtun8Tj1tbPrncr2967r6pWEa/Ui4r4WftPTdnFT9dznPtPTevRFYiO9fec/NKWKIXZqlMc1bh0kOVE0tUdd9UDKvqvin4WsL4OfJ819cnhh6inGGalcvOQ3NW4VLNSmTnoTklXJbpXyF1Xs0dwiWZllHn1dwh/AoILRXnlvI87rnP3CFc8hPlDB3V+/9XztCq7jN3CJccqpwYotW5qRii1bkp+KWpzgfOqfOrcKk6HzinzpdwWab3AucyvTeESzK9FziX6b2Tk2/yAmR5BXOxVW60AAAAAElFTkSuQmCC" y="6"/><!--MD5=[f9089d7748de0ae32cde1ddbebdbc092]
 @startuml
 !pragma layout smetana
 start
 note right
-int decodeWindowBits(State s)
+intdecodeWindowBits(States)
 end note
 :BitReader.fillBitWindow(s);;
 if (BitReader.readFewBits(s,1)==0) then (yes) 
 :return 16;;
 stop
 endif 
-:int n=BitReader.readFewBits(s,3);;
+:intn=BitReader.readFewBits(s,3);;
 if (n!=0) then (yes) 
 :return 17+n;;
 stop
@@ -25,7 +25,7 @@ stop
 end
 start
 note right
-void initState(State s,InputStream input)
+void initState(States,InputStreaminput)
 end note
 if (s.runningState!=UNINITIALIZED) then (yes) 
 :throw new IllegalStateException("State MUST be uninitialized");;
@@ -34,7 +34,7 @@ endif
 :s.blockTrees=new int[6*HUFFMAN_TABLE_SIZE];;
 :s.input=input;;
 :BitReader.initBitReader(s);;
-:int windowBits=decodeWindowBits(s);;
+:intwindowBits=decodeWindowBits(s);;
 if (windowBits==9) then (yes) 
 :throw new BrotliRuntimeException("Invalid 'windowBits' code");;
 stop
@@ -45,7 +45,7 @@ endif
 end
 start
 note right
-void close(State s)
+void close(States)
 end note
 if (s.runningState==UNINITIALIZED) then (yes) 
 :throw new IllegalStateException("State MUST be initialized");;
@@ -63,11 +63,11 @@ endif
 end
 start
 note right
-int decodeVarLenUnsignedByte(State s)
+intdecodeVarLenUnsignedByte(States)
 end note
 :BitReader.fillBitWindow(s);;
 if (BitReader.readFewBits(s,1)!=0) then (yes) 
-:int n=BitReader.readFewBits(s,3);;
+:intn=BitReader.readFewBits(s,3);;
 if (n==0) then (yes) 
 :return 1;;
 stop
@@ -81,7 +81,7 @@ stop
 end
 start
 note right
-void decodeMetaBlockLength(State s)
+void decodeMetaBlockLength(States)
 end note
 :BitReader.fillBitWindow(s);;
 :s.inputEnd=BitReader.readFewBits(s,1);;
@@ -92,21 +92,20 @@ if ((s.inputEnd!=0)&&BitReader.readFewBits(s,1)!=0) then (yes)
 :return ;;
 stop
 endif 
-:int sizeNibbles=BitReader.readFewBits(s,
-2)+4;;
+:intsizeNibbles=BitReader.readFewBits(s,2)+4;;
 if (sizeNibbles==7) then (yes) 
 :s.isMetadata=1;;
 if (BitReader.readFewBits(s,1)!=0) then (yes) 
 :throw new BrotliRuntimeException("Corrupted reserved bit");;
 stop
 endif 
-:int sizeBytes=BitReader.readFewBits(s,2);;
+:intsizeBytes=BitReader.readFewBits(s,2);;
 if (sizeBytes==0) then (yes) 
 :return ;;
 stop
 endif 
 :BitReader.fillBitWindow(s);;
-:int bits=BitReader.readFewBits(s,8);;
+:intbits=BitReader.readFewBits(s,8);;
 if (bits==0&&i+1==sizeBytes&&sizeBytes>1) then (yes) 
 :throw new BrotliRuntimeException("Exuberant nibble");;
 stop
@@ -114,7 +113,7 @@ endif
 :s.metaBlockLength|=bits<<(i*8);;
 else (no)
 :BitReader.fillBitWindow(s);;
-:int bits=BitReader.readFewBits(s,4);;
+:intbits=BitReader.readFewBits(s,4);;
 if (bits==0&&i+1==sizeNibbles&&sizeNibbles>4) then (yes) 
 :throw new BrotliRuntimeException("Exuberant nibble");;
 stop
@@ -128,19 +127,19 @@ endif
 end
 start
 note right
-int readSymbol(int[] table,int offset,State s)
+intreadSymbol(int[]table,intoffset,States)
 end note
-:int val=BitReader.peekBits(s);;
+:intval=BitReader.peekBits(s);;
 :offset+=val&HUFFMAN_TABLE_MASK;;
-:int bits=table[offset]>>16;;
-:int sym=table[offset]&0xFFFF;;
+:intbits=table[offset]>>16;;
+:intsym=table[offset]&0xFFFF;;
 if (bits<=HUFFMAN_TABLE_BITS) then (yes) 
 :s.bitOffset+=bits;;
 :return sym;;
 stop
 endif 
 :offset+=sym;;
-:int mask=(1<<bits)-1;;
+:intmask=(1<<bits)-1;;
 :offset+=(val&mask)>>>HUFFMAN_TABLE_BITS;;
 :s.bitOffset+=((table[offset]>>16)+HUFFMAN_TABLE_BITS);;
 :return table[offset]&0xFFFF;;
@@ -148,20 +147,19 @@ stop
 end
 start
 note right
-int readBlockLength(int[] table,int offset,
-State s)
+intreadBlockLength(int[]table,intoffset,States)
 end note
 :BitReader.fillBitWindow(s);;
-:int code=readSymbol(table,offset,s);;
-:int n=BLOCK_LENGTH_N_BITS[code];;
+:intcode=readSymbol(table,offset,s);;
+:intn=BLOCK_LENGTH_N_BITS[code];;
 :BitReader.fillBitWindow(s);;
 :return BLOCK_LENGTH_OFFSET[code]+BitReader.readBits(s,n);;
 stop
 end
 start
 note right
-int translateShortCodes(int code,int[] ringBuffer,
-int index)
+inttranslateShortCodes(intcode,int[]ringBuffer,
+intindex)
 end note
 if (code<NUM_DISTANCE_SHORT_CODES) then (yes) 
 :index+=DISTANCE_SHORT_CODE_INDEX_OFFSET[code];;
@@ -174,44 +172,44 @@ stop
 end
 start
 note right
-void moveToFront(int[] v,int index)
+void moveToFront(int[]v,intindex)
 end note
-:int value=v[index];;
+:intvalue=v[index];;
 :v[index]=v[index-1];;
 :v[0]=value;;
 end
 start
 note right
-void inverseMoveToFrontTransform(byte[] v,
-int vLen)
+void inverseMoveToFrontTransform(byte[]v,
+intvLen)
 end note
-:int[] mtf=new int[256];;
+:int[]mtf=new int[256];;
 :mtf[i]=i;;
-:int index=v[i]&0xFF;;
-:v[i]=(byte )mtf[index];;
+:intindex=v[i]&0xFF;;
+:v[i]=(byte)mtf[index];;
 if (index!=0) then (yes) 
 :moveToFront(mtf,index);;
 endif 
 end
 start
 note right
-void readHuffmanCodeLengths(int[] codeLengthCodeLengths,
-int numSymbols,int[] codeLengths,State s)
+void readHuffmanCodeLengths(int[]codeLengthCodeLengths,
+intnumSymbols,int[]codeLengths,States)
 end note
-:int symbol=0;;
-:int prevCodeLen=DEFAULT_CODE_LENGTH;;
-:int repeat=0;;
-:int repeatCodeLen=0;;
-:int space=32768;;
-:int[] table=new int[32];;
+:intsymbol=0;;
+:intprevCodeLen=DEFAULT_CODE_LENGTH;;
+:intrepeat=0;;
+:intrepeatCodeLen=0;;
+:intspace=32768;;
+:int[]table=new int[32];;
 :Huffman.buildHuffmanTable(table,0,5,codeLengthCodeLengths,
 CODE_LENGTH_CODES);;
 while (symbol<numSymbols&&space>0)
 :BitReader.readMoreInput(s);;
 :BitReader.fillBitWindow(s);;
-:int p=BitReader.peekBits(s)&31;;
+:intp=BitReader.peekBits(s)&31;;
 :s.bitOffset+=table[p]>>16;;
-:int codeLen=table[p]&0xFFFF;;
+:intcodeLen=table[p]&0xFFFF;;
 if (codeLen<CODE_LENGTH_REPEAT_CODE) then (yes) 
 :repeat=0;;
 :codeLengths[symbol++]=codeLen;;
@@ -220,8 +218,8 @@ if (codeLen!=0) then (yes)
 :space-=32768>>codeLen;;
 endif 
 else (no)
-:int extraBits=codeLen-14;;
-:int newLen=0;;
+:intextraBits=codeLen-14;;
+:intnewLen=0;;
 if (codeLen==CODE_LENGTH_REPEAT_CODE) then (yes) 
 :newLen=prevCodeLen;;
 endif 
@@ -229,14 +227,14 @@ if (repeatCodeLen!=newLen) then (yes)
 :repeat=0;;
 :repeatCodeLen=newLen;;
 endif 
-:int oldRepeat=repeat;;
+:intoldRepeat=repeat;;
 if (repeat>0) then (yes) 
 :repeat-=2;;
 :repeat<<=extraBits;;
 endif 
 :BitReader.fillBitWindow(s);;
 :repeat+=BitReader.readFewBits(s,extraBits)+3;;
-:int repeatDelta=repeat-oldRepeat;;
+:intrepeatDelta=repeat-oldRepeat;;
 if (symbol+repeatDelta>numSymbols) then (yes) 
 :throw new BrotliRuntimeException("symbol +
  repeatDelta > numSymbols");;
@@ -257,7 +255,7 @@ numSymbols);;
 end
 start
 note right
-int checkDupes(int[] symbols,int length)
+intcheckDupes(int[]symbols,intlength)
 end note
 if (symbols[i]==symbols[j]) then (yes) 
 :return 0;;
@@ -268,20 +266,20 @@ stop
 end
 start
 note right
-void readHuffmanCode(int alphabetSize,int[] table,
-int offset,State s)
+void readHuffmanCode(intalphabetSize,int[]table,
+intoffset,States)
 end note
-:int ok=1;;
-:int simpleCodeOrSkip;;
+:intok=1;;
+:intsimpleCodeOrSkip;;
 :BitReader.readMoreInput(s);;
-:int[] codeLengths=new int[alphabetSize];;
+:int[]codeLengths=new int[alphabetSize];;
 :BitReader.fillBitWindow(s);;
 :simpleCodeOrSkip=BitReader.readFewBits(s,2);;
 if (simpleCodeOrSkip==1) then (yes) 
-:int maxBitsCounter=alphabetSize-1;;
-:int maxBits=0;;
-:int[] symbols=new int[4];;
-:int numSymbols=BitReader.readFewBits(s,2)+1;;
+:intmaxBitsCounter=alphabetSize-1;;
+:intmaxBits=0;;
+:int[]symbols=new int[4];;
+:intnumSymbols=BitReader.readFewBits(s,2)+1;;
 while (maxBitsCounter!=0)
 :maxBitsCounter>>=1;;
 :maxBits++;;
@@ -294,14 +292,14 @@ switch (switch numSymbols)
 endswitch
 :ok=checkDupes(symbols,numSymbols);;
 else (no)
-:int[] codeLengthCodeLengths=new int[CODE_LENGTH_CODES];;
-:int space=32;;
-:int numCodes=0;;
-:int codeLenIdx=CODE_LENGTH_CODE_ORDER[i];;
+:int[]codeLengthCodeLengths=new int[CODE_LENGTH_CODES];;
+:intspace=32;;
+:intnumCodes=0;;
+:intcodeLenIdx=CODE_LENGTH_CODE_ORDER[i];;
 :BitReader.fillBitWindow(s);;
-:int p=BitReader.peekBits(s)&15;;
+:intp=BitReader.peekBits(s)&15;;
 :s.bitOffset+=FIXED_TABLE[p]>>16;;
-:int v=FIXED_TABLE[p]&0xFFFF;;
+:intv=FIXED_TABLE[p]&0xFFFF;;
 :codeLengthCodeLengths[codeLenIdx]=v;;
 if (v!=0) then (yes) 
 :space-=(32>>v);;
@@ -322,35 +320,35 @@ codeLengths,alphabetSize);;
 end
 start
 note right
-int decodeContextMap(int contextMapSize,byte[] contextMap,
-State s)
+intdecodeContextMap(intcontextMapSize,byte[]contextMap,
+States)
 end note
 :BitReader.readMoreInput(s);;
-:int numTrees=decodeVarLenUnsignedByte(s)+1;;
+:intnumTrees=decodeVarLenUnsignedByte(s)+1;;
 if (numTrees==1) then (yes) 
 :Utils.fillBytesWithZeroes(contextMap,0,contextMapSize);;
 :return numTrees;;
 stop
 endif 
 :BitReader.fillBitWindow(s);;
-:int useRleForZeros=BitReader.readFewBits(s,1);;
-:int maxRunLengthPrefix=0;;
+:intuseRleForZeros=BitReader.readFewBits(s,1);;
+:intmaxRunLengthPrefix=0;;
 if (useRleForZeros!=0) then (yes) 
 :maxRunLengthPrefix=BitReader.readFewBits(s,
 4)+1;;
 endif 
-:int[] table=new int[HUFFMAN_TABLE_SIZE];;
+:int[]table=new int[HUFFMAN_TABLE_SIZE];;
 :readHuffmanCode(numTrees+maxRunLengthPrefix,
 table,0,s);;
 :BitReader.readMoreInput(s);;
 :BitReader.fillBitWindow(s);;
-:int code=readSymbol(table,0,s);;
+:intcode=readSymbol(table,0,s);;
 if (code==0) then (yes) 
 :contextMap[i]=0;;
 :i++;;
 else if (code<=maxRunLengthPrefix) then (yes) 
 :BitReader.fillBitWindow(s);;
-:int reps=(1<<code)+BitReader.readFewBits(s,
+:intreps=(1<<code)+BitReader.readFewBits(s,
 code);;
 while (reps!=0)
 if (i>=contextMapSize) then (yes) 
@@ -362,7 +360,7 @@ endif
 :reps- -;;
 endwhile
 else (no)
-:contextMap[i]=(byte )(code-maxRunLengthPrefix);;
+:contextMap[i]=(byte)(code-maxRunLengthPrefix);;
 :i++;;
 endif 
 :BitReader.fillBitWindow(s);;
@@ -374,14 +372,14 @@ stop
 end
 start
 note right
-int decodeBlockTypeAndLength(State s,int treeType,
-int numBlockTypes)
+intdecodeBlockTypeAndLength(States,inttreeType,
+intnumBlockTypes)
 end note
-:final int[] ringBuffers=s.rings;;
-:final int offset=4+treeType*2;;
+:final int[]ringBuffers=s.rings;;
+:final intoffset=4+treeType*2;;
 :BitReader.fillBitWindow(s);;
-:int blockType=readSymbol(s.blockTrees,treeType*HUFFMAN_TABLE_SIZE,s);;
-:int result=readBlockLength(s.blockTrees,(treeType+
+:intblockType=readSymbol(s.blockTrees,treeType*HUFFMAN_TABLE_SIZE,s);;
+:intresult=readBlockLength(s.blockTrees,(treeType+
 3)*HUFFMAN_TABLE_SIZE,s);;
 if (blockType==1) then (yes) 
 :blockType=ringBuffers[offset+1]+1;;
@@ -400,22 +398,22 @@ stop
 end
 start
 note right
-void decodeLiteralBlockSwitch(State s)
+void decodeLiteralBlockSwitch(States)
 end note
 :s.literalBlockLength=decodeBlockTypeAndLength(s,
 0,s.numLiteralBlockTypes);;
-:int literalBlockType=s.rings[5];;
+:intliteralBlockType=s.rings[5];;
 :s.contextMapSlice=literalBlockType<<LITERAL_CONTEXT_BITS;;
 :s.literalTreeIndex=s.contextMap[s.contextMapSlice]&0xFF;;
 :s.literalTree=s.hGroup0[s.literalTreeIndex];;
-:int contextMode=s.contextModes[literalBlockType];;
+:intcontextMode=s.contextModes[literalBlockType];;
 :s.contextLookupOffset1=contextMode<<9;;
 :s.contextLookupOffset2=s.contextLookupOffset1+
 256;;
 end
 start
 note right
-void decodeCommandBlockSwitch(State s)
+void decodeCommandBlockSwitch(States)
 end note
 :s.commandBlockLength=decodeBlockTypeAndLength(s,
 1,s.numCommandBlockTypes);;
@@ -423,7 +421,7 @@ end note
 end
 start
 note right
-void decodeDistanceBlockSwitch(State s)
+void decodeDistanceBlockSwitch(States)
 end note
 :s.distanceBlockLength=decodeBlockTypeAndLength(s,
 2,s.numDistanceBlockTypes);;
@@ -431,11 +429,11 @@ end note
 end
 start
 note right
-void maybeReallocateRingBuffer(State s)
+void maybeReallocateRingBuffer(States)
 end note
-:int newSize=s.maxRingBufferSize;;
+:intnewSize=s.maxRingBufferSize;;
 if (newSize>s.expectedTotalSize) then (yes) 
-:int minimalNewSize=s.expectedTotalSize;;
+:intminimalNewSize=s.expectedTotalSize;;
 while ((newSize>>1)>minimalNewSize)
 :newSize>>=1;;
 endwhile
@@ -447,8 +445,8 @@ if (newSize<=s.ringBufferSize) then (yes)
 :return ;;
 stop
 endif 
-:int ringBufferSizeWithSlack=newSize+MAX_TRANSFORMED_WORD_LENGTH;;
-:byte[] newBuffer=new byte[ringBufferSizeWithSlack];;
+:intringBufferSizeWithSlack=newSize+MAX_TRANSFORMED_WORD_LENGTH;;
+:byte[]newBuffer=new byte[ringBufferSizeWithSlack];;
 if (s.ringBuffer.length!=0) then (yes) 
 :System.arraycopy(s.ringBuffer,0,newBuffer,
 0,s.ringBufferSize);;
@@ -458,7 +456,7 @@ endif
 end
 start
 note right
-void readNextMetablockHeader(State s)
+void readNextMetablockHeader(States)
 end note
 if (s.inputEnd!=0) then (yes) 
 :s.nextRunningState=FINISHED;;
@@ -497,8 +495,8 @@ endif
 end
 start
 note right
-int readMetablockPartition(State s,int treeType,
-int numBlockTypes)
+intreadMetablockPartition(States,inttreeType,
+intnumBlockTypes)
 end note
 if (numBlockTypes<=1) then (yes) 
 :return 1<<28;;
@@ -514,7 +512,7 @@ stop
 end
 start
 note right
-void readMetablockHuffmanCodesAndContextMaps(State s)
+void readMetablockHuffmanCodesAndContextMaps(States)
 end note
 :s.numLiteralBlockTypes=decodeVarLenUnsignedByte(s)+1;;
 :s.literalBlockLength=readMetablockPartition(s,
@@ -531,16 +529,16 @@ end note
 :s.numDirectDistanceCodes=NUM_DISTANCE_SHORT_CODES+
 (BitReader.readFewBits(s,4)<<s.distancePostfixBits);;
 :s.distancePostfixMask=(1<<s.distancePostfixBits)-1;;
-:int numDistanceCodes=s.numDirectDistanceCodes+
+:intnumDistanceCodes=s.numDirectDistanceCodes+
 (48<<s.distancePostfixBits);;
 :s.contextModes=new byte[s.numLiteralBlockTypes];;
-:int limit=Math.min(i+96,s.numLiteralBlockTypes);;
+:intlimit=Math.min(i+96,s.numLiteralBlockTypes);;
 :BitReader.fillBitWindow(s);;
-:s.contextModes[i]=(byte )(BitReader.readFewBits(s,
+:s.contextModes[i]=(byte)(BitReader.readFewBits(s,
 2));;
 :BitReader.readMoreInput(s);;
 :s.contextMap=new byte[s.numLiteralBlockTypes<<LITERAL_CONTEXT_BITS];;
-:int numLiteralTrees=decodeContextMap(s.numLiteralBlockTypes<<LITERAL_CONTEXT_BITS,
+:intnumLiteralTrees=decodeContextMap(s.numLiteralBlockTypes<<LITERAL_CONTEXT_BITS,
 s.contextMap,s);;
 :s.trivialLiteralContext=1;;
 if (s.contextMap[j]!=j>>LITERAL_CONTEXT_BITS) then (yes) 
@@ -548,7 +546,7 @@ if (s.contextMap[j]!=j>>LITERAL_CONTEXT_BITS) then (yes)
 :break ;;
 endif 
 :s.distContextMap=new byte[s.numDistanceBlockTypes<<DISTANCE_CONTEXT_BITS];;
-:int numDistTrees=decodeContextMap(s.numDistanceBlockTypes<<DISTANCE_CONTEXT_BITS,
+:intnumDistTrees=decodeContextMap(s.numDistanceBlockTypes<<DISTANCE_CONTEXT_BITS,
 s.distContextMap,s);;
 :s.hGroup0=decodeHuffmanTreeGroup(NUM_LITERAL_CODES,
 numLiteralTrees,s);;
@@ -558,7 +556,7 @@ s.numCommandBlockTypes,s);;
 numDistTrees,s);;
 :s.contextMapSlice=0;;
 :s.distContextMapSlice=0;;
-:s.contextLookupOffset1=(int )(s.contextModes[0])<<9;;
+:s.contextLookupOffset1=(int)(s.contextModes[0])<<9;;
 :s.contextLookupOffset2=s.contextLookupOffset1+
 256;;
 :s.literalTreeIndex=0;;
@@ -573,16 +571,16 @@ numDistTrees,s);;
 end
 start
 note right
-void copyUncompressedData(State s)
+void copyUncompressedData(States)
 end note
-:final byte[] ringBuffer=s.ringBuffer;;
+:final byte[]ringBuffer=s.ringBuffer;;
 if (s.metaBlockLength<=0) then (yes) 
 :BitReader.reload(s);;
 :s.runningState=BLOCK_START;;
 :return ;;
 stop
 endif 
-:int chunkLength=Math.min(s.ringBufferSize-s.pos,
+:intchunkLength=Math.min(s.ringBufferSize-s.pos,
 s.metaBlockLength);;
 :BitReader.copyBytes(s,ringBuffer,s.pos,chunkLength);;
 :s.metaBlockLength-=chunkLength;;
@@ -600,9 +598,9 @@ endif
 end
 start
 note right
-int writeRingBuffer(State s)
+intwriteRingBuffer(States)
 end note
-:int toWrite=Math.min(s.outputLength-s.outputUsed,
+:inttoWrite=Math.min(s.outputLength-s.outputUsed,
 s.bytesToWrite-s.bytesWritten);;
 if (toWrite!=0) then (yes) 
 :System.arraycopy(s.ringBuffer,s.bytesWritten,s.output,s.outputOffset+
@@ -620,11 +618,11 @@ endif
 end
 start
 note right
-int[] decodeHuffmanTreeGroup(int alphabetSize,
-int n,State s)
+int[]decodeHuffmanTreeGroup(intalphabetSize,
+intn,States)
 end note
-:int[] group=new int[n+(n*HUFFMAN_TABLE_SIZE)];;
-:int next=n;;
+:int[]group=new int[n+(n*HUFFMAN_TABLE_SIZE)];;
+:intnext=n;;
 :group[i]=next;;
 :Decode.readHuffmanCode(alphabetSize,group,
 next,s);;
@@ -634,7 +632,7 @@ stop
 end
 start
 note right
-void decompress(State s)
+void decompress(States)
 end note
 if (s.runningState==UNINITIALIZED) then (yes) 
 :throw new IllegalStateException("Can't decompress until initialized");;
@@ -644,8 +642,8 @@ if (s.runningState==CLOSED) then (yes)
 :throw new IllegalStateException("Can't decompress after close");;
 stop
 endif 
-:int ringBufferMask=s.ringBufferSize-1;;
-:byte[] ringBuffer=s.ringBuffer;;
+:intringBufferMask=s.ringBufferSize-1;;
+:byte[]ringBuffer=s.ringBuffer;;
 while (s.runningState!=FINISHED)
 switch (switch s.runningState)
 endswitch

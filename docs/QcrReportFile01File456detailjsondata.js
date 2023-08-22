@@ -736,7 +736,7 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringUtils.java.html#125"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00125] For method isNotEmpty arguments List&lt;?extendsCharSequence&gt;  input"
+ , "c3" : "QC-JAV000006[00125] For method isNotEmpty arguments List&lt;?  extends CharSequence &gt;  input"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1730,7 +1730,7 @@ var maDataBlocs = {
  , "c1" : "00368"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StringUtils.java.html#368"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00368] For method getHeight arguments List&lt;?extendsCharSequence&gt;  stringsToDisplay"
+ , "c3" : "QC-JAV000006[00368] For method getHeight arguments List&lt;?  extends CharSequence &gt;  stringsToDisplay"
 }} 
 ,
 { "ligne" : {"" : ""

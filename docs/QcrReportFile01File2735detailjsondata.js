@@ -765,7 +765,7 @@ var maDataBlocs = {
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/version/PSystemVersion.java.html#232"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00232] For method add arguments List&lt;String&gt;  result|String  s|boolean  withTag"
+ , "c3" : "QC-JAV000006[00232] For method add arguments List&lt;String &gt;  result|String  s|boolean  withTag"
 }} 
 ,
 { "ligne" : {"" : ""

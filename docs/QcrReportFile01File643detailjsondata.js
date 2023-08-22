@@ -355,7 +355,7 @@ var maDataBlocs = {
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#317"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00317] For method addIngoingArrows arguments List&lt;Connection&gt;  conns"
+ , "c3" : "QC-JAV000006[00317] For method addIngoingArrows arguments List&lt;Connection &gt;  conns"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -418,7 +418,7 @@ var maDataBlocs = {
  , "c1" : "00326"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchWithManyLinks.java.html#326"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00326] For method addOutgoingArrows arguments StringBounder  stringBounder|List&lt;Connection&gt;  conns"
+ , "c3" : "QC-JAV000006[00326] For method addOutgoingArrows arguments StringBounder  stringBounder|List&lt;Connection &gt;  conns"
 }} 
 ,
 { "ligne" : {"" : ""

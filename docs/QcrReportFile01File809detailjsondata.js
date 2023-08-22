@@ -460,7 +460,7 @@ var maDataBlocs = {
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ChainImpl.java.html#184"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00184] For method ensureInternal arguments int  position|List&lt;O&gt;  list"
+ , "c3" : "QC-JAV000006[00184] For method ensureInternal arguments int  position|List&lt;O &gt;  list"
 }} 
 ,
 { "ligne" : {"" : ""

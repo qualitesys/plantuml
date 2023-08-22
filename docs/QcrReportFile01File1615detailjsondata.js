@@ -478,7 +478,7 @@ var maDataBlocs = {
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method createWithMap arguments Map&lt;String,String&gt;  init"
+ , "c3" : "QC-JAV000006[00136] For method createWithMap arguments Map&lt;String ,String &gt;  init"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -534,7 +534,7 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/Defines.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method define arguments String  name|List&lt;String&gt;  value|boolean  emptyParentheses|AParentFolder  currentDir"
+ , "c3" : "QC-JAV000006[00156] For method define arguments String  name|List&lt;String &gt;  value|boolean  emptyParentheses|AParentFolder  currentDir"
 }} 
 ,
 { "ligne" : {"" : ""

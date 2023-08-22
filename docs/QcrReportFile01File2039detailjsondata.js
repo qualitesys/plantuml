@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/MutingLine.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method useContinueLineBecauseOfDelay arguments List&lt;Event&gt;  events"
+ , "c3" : "QC-JAV000006[00074] For method useContinueLineBecauseOfDelay arguments List&lt;Event &gt;  events"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -176,7 +176,7 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/oauth/AbstractOAuth2AccessAuthorizeManager.java.html#114"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00114] For method toMap arguments Map&lt;String,Object&gt;  map|JsonObject  response|OAuth2Tokens  name"
+ , "c3" : "QC-JAV000006[00114] For method toMap arguments Map&lt;String ,Object &gt;  map|JsonObject  response|OAuth2Tokens  name"
 }} 
 ,
 { "ligne" : {"" : ""

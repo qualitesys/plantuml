@@ -268,7 +268,7 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileIfLongVertical.java.html#130"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00130] For method create arguments Swimlane  swimlane|HColor  borderColor|HColor  backColor|Rainbow  arrowColor|FtileFactory  ftileFactory|ConditionStyle  conditionStyle|List&lt;Branch&gt;  thens|Branch  branch2|FontConfiguration  fc|LinkRendering  topInlinkRendering|LinkRendering  afterEndwhile"
+ , "c3" : "QC-JAV000006[00130] For method create arguments Swimlane  swimlane|HColor  borderColor|HColor  backColor|Rainbow  arrowColor|FtileFactory  ftileFactory|ConditionStyle  conditionStyle|List&lt;Branch &gt;  thens|Branch  branch2|FontConfiguration  fc|LinkRendering  topInlinkRendering|LinkRendering  afterEndwhile"
 }} 
 ,
 { "ligne" : {"" : ""

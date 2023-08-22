@@ -490,7 +490,7 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#104"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00104] For method fromBeziers arguments List&lt;XCubicCurve2D&gt;  beziers"
+ , "c3" : "QC-JAV000006[00104] For method fromBeziers arguments List&lt;XCubicCurve2D &gt;  beziers"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -686,7 +686,7 @@ var maDataBlocs = {
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/DotPath.java.html#175"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00175] For method sample arguments XCubicCurve2D  bez|Set&lt;XPoint2D&gt;  result"
+ , "c3" : "QC-JAV000006[00175] For method sample arguments XCubicCurve2D  bez|Set&lt;XPoint2D &gt;  result"
 }} 
 ,
 { "ligne" : {"" : ""

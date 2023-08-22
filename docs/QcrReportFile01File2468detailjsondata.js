@@ -159,7 +159,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#57"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00057] For method canCover arguments int  nbArg|Set&lt;String&gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00057] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -180,7 +180,7 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#70"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00070] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue&gt;  args|Map&lt;String,TValue&gt;  named"
+ , "c3" : "QC-JAV000006[00070] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -229,7 +229,7 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue&gt;  values|Map&lt;String,TValue&gt;  named"
+ , "c3" : "QC-JAV000006[00082] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""

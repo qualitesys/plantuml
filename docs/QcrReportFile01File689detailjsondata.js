@@ -197,7 +197,7 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GtileIfHexagon.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method build arguments Swimlane  swimlane|List&lt;Gtile&gt;  gtiles|List&lt;Branch&gt;  branches"
+ , "c3" : "QC-JAV000006[00067] For method build arguments Swimlane  swimlane|List&lt;Gtile &gt;  gtiles|List&lt;Branch &gt;  branches"
 }} 
 ,
 { "ligne" : {"" : ""

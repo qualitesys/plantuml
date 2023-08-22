@@ -432,7 +432,7 @@ var maDataBlocs = {
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/Reflect.java.html#182"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00182] For method getStaticMethod arguments Class&lt;?&gt;  cl|String  method|int  nbArgs"
+ , "c3" : "QC-JAV000006[00182] For method getStaticMethod arguments Class&lt;? &gt;  cl|String  method|int  nbArgs"
 }} 
 ,
 { "ligne" : {"" : ""

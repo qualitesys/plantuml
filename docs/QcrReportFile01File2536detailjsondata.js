@@ -1230,7 +1230,7 @@ var maDataBlocs = {
  , "c1" : "00396"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Histogram.java.html#396"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00396] For method last arguments List&lt;String&gt;  list"
+ , "c3" : "QC-JAV000006[00396] For method last arguments List&lt;String &gt;  list"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -293,7 +293,7 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/TextBlockMap.java.html#117"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00117] For method getMaxWidth arguments StringBounder  stringBounder|Collection&lt;TextBlock&gt;  blocks"
+ , "c3" : "QC-JAV000006[00117] For method getMaxWidth arguments StringBounder  stringBounder|Collection&lt;TextBlock &gt;  blocks"
 }} 
 ,
 { "ligne" : {"" : ""

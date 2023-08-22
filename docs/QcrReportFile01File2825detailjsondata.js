@@ -1795,7 +1795,7 @@ var maDataBlocs = {
  , "c1" : "00651"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00651] For method removeObsoleteShapes arguments TextGrid  grid|ArrayList&lt;CellSet&gt;  sets"
+ , "c3" : "QC-JAV000006[00651] For method removeObsoleteShapes arguments TextGrid  grid|ArrayList&lt;CellSet &gt;  sets"
 }} 
 ,
 { "ligne" : {"" : ""

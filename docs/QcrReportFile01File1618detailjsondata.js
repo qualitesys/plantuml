@@ -575,7 +575,7 @@ var maDataBlocs = {
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/FileWithSuffix.java.html#188"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00188] For method convert arguments Set&lt;FileWithSuffix&gt;  all"
+ , "c3" : "QC-JAV000006[00188] For method convert arguments Set&lt;FileWithSuffix &gt;  all"
 }} 
 ,
 { "ligne" : {"" : ""

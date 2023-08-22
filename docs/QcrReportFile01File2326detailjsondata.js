@@ -414,7 +414,7 @@ var maDataBlocs = {
  , "c1" : "00235"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#235"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00235] For method hasSomeHorizontalLinkVisible arguments ILeaf  leaf|Collection&lt;Link&gt;  links"
+ , "c3" : "QC-JAV000006[00235] For method hasSomeHorizontalLinkVisible arguments ILeaf  leaf|Collection&lt;Link &gt;  links"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -449,7 +449,7 @@ var maDataBlocs = {
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#243"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00243] For method isThereADoubleLink arguments ILeaf  leaf|Collection&lt;Link&gt;  links"
+ , "c3" : "QC-JAV000006[00243] For method isThereADoubleLink arguments ILeaf  leaf|Collection&lt;Link &gt;  links"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -484,7 +484,7 @@ var maDataBlocs = {
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageDescription.java.html#257"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00257] For method hasSomeHorizontalLinkDoubleDecorated arguments ILeaf  leaf|Collection&lt;Link&gt;  links"
+ , "c3" : "QC-JAV000006[00257] For method hasSomeHorizontalLinkDoubleDecorated arguments ILeaf  leaf|Collection&lt;Link &gt;  links"
 }} 
 ,
 { "ligne" : {"" : ""

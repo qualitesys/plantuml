@@ -100,7 +100,7 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileFactoryDelegatorIf.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00067] For method createIf arguments Swimlane  swimlane|List&lt;Branch&gt;  thens|Branch  elseBranch|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Url  url"
+ , "c3" : "QC-JAV000006[00067] For method createIf arguments Swimlane  swimlane|List&lt;Branch &gt;  thens|Branch  elseBranch|LinkRendering  afterEndwhile|LinkRendering  topInlinkRendering|Url  url"
 }} 
 ,
 { "ligne" : {"" : ""

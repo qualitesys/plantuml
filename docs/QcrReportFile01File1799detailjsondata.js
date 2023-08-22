@@ -282,7 +282,7 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#109"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00109] For method copyAllFrom arguments Map&lt;String,String&gt;  other"
+ , "c3" : "QC-JAV000006[00109] For method copyAllFrom arguments Map&lt;String ,String &gt;  other"
 }} 
 ,
 { "ligne" : {"" : ""

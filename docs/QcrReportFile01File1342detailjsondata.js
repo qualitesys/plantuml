@@ -262,7 +262,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00078] For method createForError arguments List&lt;String&gt;  strings|boolean  useRed"
+ , "c3" : "QC-JAV000006[00078] For method createForError arguments List&lt;String &gt;  strings|boolean  useRed"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -297,7 +297,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method createGreenOnBlackMonospaced arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00097] For method createGreenOnBlackMonospaced arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -318,7 +318,7 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#102"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00102] For method createBlackOnWhite arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00102] For method createBlackOnWhite arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -339,7 +339,7 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method createBlackOnWhiteMonospaced arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00106] For method createBlackOnWhiteMonospaced arguments List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -360,7 +360,7 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/GraphicStrings.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method createBlackOnWhite arguments List&lt;String&gt;  strings|BufferedImage  image|GraphicPosition  position"
+ , "c3" : "QC-JAV000006[00110] For method createBlackOnWhite arguments List&lt;String &gt;  strings|BufferedImage  image|GraphicPosition  position"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -311,7 +311,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#115"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00115] For method executeInternal arguments WithSprite  system|RegexResult  line0|List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00115] For method executeInternal arguments WithSprite  system|RegexResult  line0|List&lt;String &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -507,7 +507,7 @@ var maDataBlocs = {
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandFactorySprite.java.html#144"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00144] For method concat arguments List&lt;String&gt;  strings"
+ , "c3" : "QC-JAV000006[00144] For method concat arguments List&lt;String &gt;  strings"
 }} 
 ]
 , 

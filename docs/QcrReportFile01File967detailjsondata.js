@@ -178,7 +178,7 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemBasicFactory.java.html#72"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00072] For method createSystem arguments UmlSource  source|Map&lt;String,String&gt;  skinParam"
+ , "c3" : "QC-JAV000006[00072] For method createSystem arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""

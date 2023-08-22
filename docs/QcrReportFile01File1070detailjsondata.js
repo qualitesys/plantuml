@@ -221,7 +221,7 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeTable.java.html#92"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00092] For method asAtom arguments List&lt;StripeSimple&gt;  cells|double  padding"
+ , "c3" : "QC-JAV000006[00092] For method asAtom arguments List&lt;StripeSimple &gt;  cells|double  padding"
 }} 
 ,
 { "ligne" : {"" : ""

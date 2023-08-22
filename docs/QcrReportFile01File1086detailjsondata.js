@@ -736,14 +736,14 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method createFoo arguments List&lt;StringLocated&gt;  data"
+ , "c3" : "QC-JAV000006[00156] For method createFoo arguments List&lt;StringLocated &gt;  data"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.html#166"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00166] For method create arguments Collection&lt;?extendsCharSequence&gt;  other"
+ , "c3" : "QC-JAV000006[00166] For method create arguments Collection&lt;?  extends CharSequence &gt;  other"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1023,7 +1023,7 @@ var maDataBlocs = {
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.html#248"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00248] For method manageEmbeddedDiagrams arguments Collection&lt;?extendsCharSequence&gt;  strings"
+ , "c3" : "QC-JAV000006[00248] For method manageEmbeddedDiagrams arguments Collection&lt;?  extends CharSequence &gt;  strings"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1835,7 +1835,7 @@ var maDataBlocs = {
  , "c1" : "00599"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Display.java.html#599"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00599] For method hasSeveralGuideLines arguments Collection&lt;?extendsCharSequence&gt;  all"
+ , "c3" : "QC-JAV000006[00599] For method hasSeveralGuideLines arguments Collection&lt;?  extends CharSequence &gt;  all"
 }} 
 ,
 { "ligne" : {"" : ""

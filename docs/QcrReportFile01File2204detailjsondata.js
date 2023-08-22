@@ -207,7 +207,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDotStringKermor.java.html#69"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00069] For method printInternal arguments StringBuilder  sb|Collection&lt;SvekLine&gt;  lines|StringBounder  stringBounder|DotMode  dotMode|GraphvizVersion  graphvizVersion|UmlDiagramType  type"
+ , "c3" : "QC-JAV000006[00069] For method printInternal arguments StringBuilder  sb|Collection&lt;SvekLine &gt;  lines|StringBounder  stringBounder|DotMode  dotMode|GraphvizVersion  graphvizVersion|UmlDiagramType  type"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -648,7 +648,7 @@ var maDataBlocs = {
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDotStringKermor.java.html#224"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00224] For method printRanks arguments String  rank|List&lt;?extendsSvekNode&gt;  entries|StringBuilder  sb|StringBounder  stringBounder"
+ , "c3" : "QC-JAV000006[00224] For method printRanks arguments String  rank|List&lt;?  extends SvekNode &gt;  entries|StringBuilder  sb|StringBounder  stringBounder"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -753,7 +753,7 @@ var maDataBlocs = {
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/ClusterDotStringKermor.java.html#275"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00275] For method isThereALinkFromOrToGroup arguments Collection&lt;SvekLine&gt;  lines"
+ , "c3" : "QC-JAV000006[00275] For method isThereALinkFromOrToGroup arguments Collection&lt;SvekLine &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""

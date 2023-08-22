@@ -753,7 +753,7 @@ var maDataBlocs = {
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskImpl.java.html#268"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00268] For method addAll arguments SortedSet&lt;Day&gt;  result|DayOfWeek  dayOfWeek"
+ , "c3" : "QC-JAV000006[00268] For method addAll arguments SortedSet&lt;Day &gt;  result|DayOfWeek  dayOfWeek"
 }} 
 ,
 { "ligne" : {"" : ""

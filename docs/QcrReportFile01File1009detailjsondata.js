@@ -317,7 +317,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method hasInitialSkinparam arguments List&lt;StringLocated&gt;  copy"
+ , "c3" : "QC-JAV000006[00088] For method hasInitialSkinparam arguments List&lt;StringLocated &gt;  copy"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -373,21 +373,21 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method create arguments List&lt;StringLocated&gt;  source|boolean  checkEndingBackslash"
+ , "c3" : "QC-JAV000006[00098] For method create arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#110"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00110] For method createWithRaw arguments List&lt;StringLocated&gt;  source|boolean  checkEndingBackslash|List&lt;StringLocated&gt;  rawSource"
+ , "c3" : "QC-JAV000006[00110] For method createWithRaw arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash|List&lt;StringLocated &gt;  rawSource"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/core/UmlSource.java.html#121"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00121] For method loadInternal arguments List&lt;StringLocated&gt;  source|boolean  checkEndingBackslash"
+ , "c3" : "QC-JAV000006[00121] For method loadInternal arguments List&lt;StringLocated &gt;  source|boolean  checkEndingBackslash"
 }} 
 ,
 { "ligne" : {"" : ""

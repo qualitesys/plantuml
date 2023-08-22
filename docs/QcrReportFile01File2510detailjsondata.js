@@ -571,7 +571,7 @@ var maDataBlocs = {
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#198"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00198] For method drawTimeAxis arguments UGraphic  ug|TimeAxisStategy  timeAxisStategy|Map&lt;String,TimeTick&gt;  codes"
+ , "c3" : "QC-JAV000006[00198] For method drawTimeAxis arguments UGraphic  ug|TimeAxisStategy  timeAxisStategy|Map&lt;String ,TimeTick &gt;  codes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -585,7 +585,7 @@ var maDataBlocs = {
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#217"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00217] For method drawTimeAxisManual arguments UGraphic  ug|Map&lt;String,TimeTick&gt;  codes"
+ , "c3" : "QC-JAV000006[00217] For method drawTimeAxisManual arguments UGraphic  ug|Map&lt;String ,TimeTick &gt;  codes"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -725,7 +725,7 @@ var maDataBlocs = {
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/TimingRuler.java.html#257"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00257] For method getLabel arguments TimeTick  tick|Map&lt;String,TimeTick&gt;  codes"
+ , "c3" : "QC-JAV000006[00257] For method getLabel arguments TimeTick  tick|Map&lt;String ,TimeTick &gt;  codes"
 }} 
 ,
 { "ligne" : {"" : ""

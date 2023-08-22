@@ -1794,7 +1794,7 @@ var maDataBlocs = {
  , "c1" : "00647"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#647"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00647] For method drawU arguments UGraphic  ug|Set&lt;String&gt;  ids|UStroke  suggestedStroke|Rainbow  rainbow"
+ , "c3" : "QC-JAV000006[00647] For method drawU arguments UGraphic  ug|Set&lt;String &gt;  ids|UStroke  suggestedStroke|Rainbow  rainbow"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2186,7 +2186,7 @@ var maDataBlocs = {
  , "c1" : "00817"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#817"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00817] For method uniq arguments Set&lt;String&gt;  ids|String  comment"
+ , "c3" : "QC-JAV000006[00817] For method uniq arguments Set&lt;String &gt;  ids|String  comment"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2228,7 +2228,7 @@ var maDataBlocs = {
  , "c1" : "00833"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#833"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00833] For method drawRainbow arguments UGraphic  ug|HColor  color|HColor  headColor|DotPath  todraw|List&lt;Colors&gt;  supplementaryColors|UStroke  stroke"
+ , "c3" : "QC-JAV000006[00833] For method drawRainbow arguments UGraphic  ug|HColor  color|HColor  headColor|DotPath  todraw|List&lt;Colors &gt;  supplementaryColors|UStroke  stroke"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2375,7 +2375,7 @@ var maDataBlocs = {
  , "c1" : "00930"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/SvekLine.java.html#930"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00930] For method manageCollision arguments Collection&lt;SvekNode&gt;  allNodes"
+ , "c3" : "QC-JAV000006[00930] For method manageCollision arguments Collection&lt;SvekNode &gt;  allNodes"
 }} 
 ,
 { "ligne" : {"" : ""

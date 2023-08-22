@@ -239,7 +239,7 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method getFoo2 arguments List&lt;Ftile&gt;  all"
+ , "c3" : "QC-JAV000006[00082] For method getFoo2 arguments List&lt;Ftile &gt;  all"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -281,7 +281,7 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/AbstractParallelFtilesBuilder.java.html#101"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00101] For method computeMaxHeight arguments List&lt;Ftile&gt;  all"
+ , "c3" : "QC-JAV000006[00101] For method computeMaxHeight arguments List&lt;Ftile &gt;  all"
 }} 
 ,
 { "ligne" : {"" : ""

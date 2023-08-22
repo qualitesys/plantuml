@@ -238,7 +238,7 @@ var maDataBlocs = {
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method skip arguments List&lt;String&gt;  lines"
+ , "c3" : "QC-JAV000006[00133] For method skip arguments List&lt;String &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -259,7 +259,7 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#137"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00137] For method getJComponent arguments List&lt;String&gt;  lines"
+ , "c3" : "QC-JAV000006[00137] For method getJComponent arguments List&lt;String &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""

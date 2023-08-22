@@ -183,7 +183,7 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/LicenseWindow.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00112] For method getJComponent arguments List&lt;String&gt;  lines"
+ , "c3" : "QC-JAV000006[00112] For method getJComponent arguments List&lt;String &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""

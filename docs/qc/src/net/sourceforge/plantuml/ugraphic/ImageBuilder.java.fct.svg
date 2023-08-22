@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1193px" preserveAspectRatio="none" style="width:952px;height:1193px;background:#FFFFFF;" version="1.1" viewBox="0 0 952 1193" width="952px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="191" x="5" y="30.1074">I thought you were on my side</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="272" x="5" y="58.0449">Diagram size: 467 lines / 12111 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 363 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="630.7637">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="644.7324">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="672.6699">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="686.6387">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="700.6074">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="714.5762">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="728.5449">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="742.5137">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="756.4824">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="770.4512">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="784.4199">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="798.3887">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="812.3574">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="826.3262">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="840.2949">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="854.2637">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="868.2324">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="882.2012">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="896.1699">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="910.1387">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="924.1074">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="938.0762">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="952.0449">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="966.0137">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="979.9824">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="993.9512">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1007.9199">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1021.8887">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1035.8574">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1049.8262">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1063.7949">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1077.7637">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1091.7324">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1105.7012">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1119.6699">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1133.6387">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1147.6074">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1161.5762">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1175.5449">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1189.5137">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="31" width="32" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAfCAYAAACGVs+MAAAAuElEQVR4Xu2QwQnDQAwEr4L0kP4rSRNpI0+ZA28eExbdOfYRggb0kHyzEm6tKIpf5f5s0YvzeNyil76rV/G9y0lx4uUHSKAY7RW93OL3fH+X5VmcsOwAQYFB7gDnqR+GIhcsO8AtzIo+81MYwAVZ0Wf+NAzmQhb9r1l+AH/h7AH0mZ/CAAZzIYs+81MocjF7zumpH4YiF7LnnJ76FAlOHF3M9+77B5lw+QFiWjAczjksgrNyiuJ/2QDV/YPHerGVDQAAAABJRU5ErkJggg==" y="6"/><!--MD5=[af201019c3ab2f0f36b1d64af64b0cf7]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1193px" preserveAspectRatio="none" style="width:964px;height:1193px;background:#FFFFFF;" version="1.1" viewBox="0 0 964 1193" width="964px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="317" x="5" y="30.1074">You ever have second thoughts about something ?</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="272" x="5" y="58.0449">Diagram size: 467 lines / 11980 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 364 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="630.7637">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="644.7324">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="672.6699">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="686.6387">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="700.6074">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="714.5762">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="728.5449">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="742.5137">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="756.4824">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="770.4512">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="784.4199">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="798.3887">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="812.3574">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="826.3262">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="840.2949">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="854.2637">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="868.2324">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="882.2012">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="896.1699">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="910.1387">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="924.1074">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="938.0762">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="952.0449">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="966.0137">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="979.9824">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="993.9512">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1007.9199">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1021.8887">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1035.8574">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1049.8262">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1063.7949">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1077.7637">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1091.7324">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1105.7012">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1119.6699">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1133.6387">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1147.6074">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1161.5762">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1175.5449">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1189.5137">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="43" width="44" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAArCAYAAAADgWq5AAABt0lEQVR4Xu3XgU3DMBAFUI/ACB2lI7BCRsoIrNARGIERWKTIqS/8/J6dO8t2IuiXTi3J2X41Jioh/OdcLu93ecX3266TJMLePsICja/4Hj/A4REMI7WfT4FmoAbFXT4UzSit+DeA13i+rsEdY5C1hqIFepvnpWrhQ9CI/f68rSVwRuVKeruiGartNMNK1RWNWMHhPS8W0bhOk+R2FkuuM6hUQ7C4w3zPeixkLK/VJIzaqxK6GbQ0iYAtaPzjQ7QVaulZQaXmElquI5SL59NicSyJDXHhvUZZHIGMDNf5Hqav3bm0WB32xhQEInJT198PwuNzMTukkXdrr1QoF8D3So7bMncpsQHP5NOiBFiL7+XK0IvrtwXH8oINVQW2HokqsOFouI6E6XES0nOyAmyd2+p4QIxxo9Pu8jxarH2ueMFdEJ68wL3zAveOF+x5SnSJGzwduMsb7F8GH3YsqsHTAbv8hHWizwFWYNkaeSxUrAedeoeCtSqCE1Arnr9p4gL8nzJ/4d/AAYr9UubvvDXJYVVAArvGtA4vzgtLrbucdtc8pmV44RJAdozHcJ82htetjgB6F69byg+rCLOGYu8SQAAAAABJRU5ErkJggg==" y="6"/><!--MD5=[cbd47b6f30dec794d8297abfa6c20dcc]
 @startuml
 !pragma layout smetana
 start
 note right
-ImageBuilder imageBuilder(FileFormatOption fileFormatOption)
+ImageBuilderimageBuilder(FileFormatOptionfileFormatOption)
 end note
 :return new ImageBuilder(fileFormatOption);;
 stop
 end
 start
 note right
-ImageBuilder plainImageBuilder(UDrawable drawable,
-FileFormatOption fileFormatOption)
+ImageBuilderplainImageBuilder(UDrawabledrawable,
+FileFormatOptionfileFormatOption)
 end note
 :return imageBuilder(fileFormatOption).drawable(drawable);;
 stop
 end
 start
 note right
-ImageBuilder plainPngBuilder(UDrawable drawable)
+ImageBuilderplainPngBuilder(UDrawabledrawable)
 end note
 :return imageBuilder(new FileFormatOption(FileFormat.PNG))
 .drawable(drawable);;
@@ -26,14 +26,14 @@ stop
 end
 start
 note right
-constructor ImageBuilder(FileFormatOption fileFormatOption)
+constructor ImageBuilder(FileFormatOptionfileFormatOption)
 end note
 :this.fileFormatOption=fileFormatOption;;
 :this.stringBounder=fileFormatOption.getDefaultStringBounder(SvgCharSizeHack.NO_HACK);;
 end
 start
 note right
-ImageBuilder annotations(boolean annotations)
+ImageBuilderannotations(booleanannotations)
 end note
 :this.annotations=annotations;;
 :return this;;
@@ -41,7 +41,7 @@ stop
 end
 start
 note right
-ImageBuilder backcolor(HColor backcolor)
+ImageBuilderbackcolor(HColorbackcolor)
 end note
 :this.backcolor=backcolor;;
 :return this;;
@@ -49,14 +49,14 @@ stop
 end
 start
 note right
-ImageBuilder blackBackcolor()
+ImageBuilderblackBackcolor()
 end note
 :return backcolor(HColors.BLACK);;
 stop
 end
 start
 note right
-ImageBuilder dimension(XDimension2D dimension)
+ImageBuilderdimension(XDimension2Ddimension)
 end note
 :this.dimension=dimension;;
 :return this;;
@@ -64,18 +64,18 @@ stop
 end
 start
 note right
-int getDpi()
+intgetDpi()
 end note
 :return skinParam==null ? 96:skinParam.getDpi();;
 stop
 end
 start
 note right
-ImageBuilder drawable(UDrawable drawable)
+ImageBuilderdrawable(UDrawabledrawable)
 end note
 :this.udrawable=drawable;;
-if (backcolor==null &&drawable instanceof TextBlockBackcolored ) then (yes) 
-:backcolor=((TextBlockBackcolored )drawable)
+if (backcolor==null &&drawable instanceof TextBlockBackcolored) then (yes) 
+:backcolor=((TextBlockBackcolored)drawable)
 .getBackcolor();;
 endif 
 :return this;;
@@ -83,7 +83,7 @@ stop
 end
 start
 note right
-ImageBuilder margin(ClockwiseTopRightBottomLeft margin)
+ImageBuildermargin(ClockwiseTopRightBottomLeftmargin)
 end note
 :this.margin=margin;;
 :return this;;
@@ -91,7 +91,7 @@ stop
 end
 start
 note right
-ImageBuilder metadata(String metadata)
+ImageBuildermetadata(Stringmetadata)
 end note
 :this.metadata=metadata;;
 :return this;;
@@ -99,7 +99,7 @@ stop
 end
 start
 note right
-ImageBuilder randomPixel()
+ImageBuilderrandomPixel()
 end note
 :this.randomPixel=true;;
 :return this;;
@@ -107,7 +107,7 @@ stop
 end
 start
 note right
-ImageBuilder seed(long seed)
+ImageBuilderseed(longseed)
 end note
 :this.seed=seed;;
 :return this;;
@@ -115,7 +115,7 @@ stop
 end
 start
 note right
-ImageBuilder status(int status)
+ImageBuilderstatus(intstatus)
 end note
 :this.status=status;;
 :return this;;
@@ -123,7 +123,7 @@ stop
 end
 start
 note right
-String getSvgLinkTarget()
+StringgetSvgLinkTarget()
 end note
 if (fileFormatOption.getSvgLinkTarget()!=null ) then (yes) 
 :return fileFormatOption.getSvgLinkTarget();;
@@ -138,7 +138,7 @@ endif
 end
 start
 note right
-ImageBuilder warningOrError(String warningOrError)
+ImageBuilderwarningOrError(StringwarningOrError)
 end note
 :this.warningOrError=warningOrError;;
 :return this;;
@@ -146,7 +146,7 @@ stop
 end
 start
 note right
-ImageBuilder styled(TitledDiagram diagram)
+ImageBuilderstyled(TitledDiagramdiagram)
 end note
 :skinParam=diagram.getSkinParam();;
 :stringBounder=fileFormatOption.getDefaultStringBounder(skinParam);;
@@ -163,25 +163,25 @@ stop
 end
 start
 note right
-ImageData write(OutputStream os)
+ImageDatawrite(OutputStreamos)
 end note
 if (annotations&&titledDiagram!=null ) then (yes) 
-if (!(udrawable instanceof TextBlock )) then (yes) 
+if (!(udrawable instanceof TextBlock)) then (yes) 
 :throw new IllegalStateException("udrawable is not a TextBlock");;
 stop
 endif 
-:final AnnotatedBuilder builder=new AnnotatedBuilder(titledDiagram,
+:final AnnotatedBuilderbuilder=new AnnotatedBuilder(titledDiagram,
 skinParam,stringBounder);;
-:final AnnotatedWorker annotatedWorker=new AnnotatedWorker(titledDiagram,
+:final AnnotatedWorkerannotatedWorker=new AnnotatedWorker(titledDiagram,
 skinParam,stringBounder,builder);;
-:udrawable=annotatedWorker.addAdd((TextBlock )udrawable);;
+:udrawable=annotatedWorker.addAdd((TextBlock)udrawable);;
 endif 
 switch (switch fileFormatOption.getFileFormat())
 endswitch
 end
 start
 note right
-byte[] writeByteArray()
+byte[]writeByteArray()
 end note
 switch (try/catch block)
 case (try)
@@ -192,27 +192,27 @@ endswitch
 end
 start
 note right
-ImageData writeImageInternal(OutputStream os,
-Animation animationArg)
+ImageDatawriteImageInternal(OutputStreamos,
+AnimationanimationArg)
 end note
-:XDimension2D dim=getFinalDimension();;
-:double dx=0;;
-:double dy=0;;
+:XDimension2Ddim=getFinalDimension();;
+:doubledx=0;;
+:doubledy=0;;
 if (animationArg!=null ) then (yes) 
-:final MinMax minmax=animationArg.getMinMax(dim);;
+:final MinMaxminmax=animationArg.getMinMax(dim);;
 :animationArg.setDimension(dim);;
 :dim=minmax.getDimension();;
 :dx=-minmax.getMinX();;
 :dy=-minmax.getMinY();;
 endif 
-:final Scale scale=titledDiagram==null ? null :titledDiagram.getScale();;
-:final double scaleFactor=(scale==null ? 1:scale.getScale(dim.getWidth(),
+:final Scalescale=titledDiagram==null ? null :titledDiagram.getScale();;
+:final doublescaleFactor=(scale==null ? 1:scale.getScale(dim.getWidth(),
 dim.getHeight()))*getDpi()/96.0;;
 if (scaleFactor<=0) then (yes) 
 :throw new IllegalStateException("Bad scaleFactor");;
 stop
 endif 
-:UGraphic ug=createUGraphic(dim,animationArg,
+:UGraphicug=createUGraphic(dim,animationArg,
 dx,dy,scaleFactor,titledDiagram==null ? new Pragma():titledDiagram.getPragma());;
 :maybeDrawBorder(ug,dim);;
 if (randomPixel) then (yes) 
@@ -224,10 +224,10 @@ margin.getTop())));;
 :ug.flushUg();;
 :ug.writeToStream(os,metadata,96);;
 :os.flush();;
-if (ug instanceof UGraphicG2d ) then (yes) 
-:final Set<Url> urls=((UGraphicG2d )ug).getAllUrlsEncountered();;
+if (ug instanceof UGraphicG2d) then (yes) 
+:final Set<Url>urls=((UGraphicG2d)ug).getAllUrlsEncountered();;
 if (urls.size()>0) then (yes) 
-:final CMapData cmap=CMapData.cmapString(urls,
+:final CMapDatacmap=CMapData.cmapString(urls,
 scaleFactor);;
 :return new ImageDataComplex(dim,cmap,warningOrError,
 status);;
@@ -239,15 +239,15 @@ stop
 end
 start
 note right
-void maybeDrawBorder(UGraphic ug,XDimension2D dim)
+void maybeDrawBorder(UGraphicug,XDimension2Ddim)
 end note
 if (skinParam==null ) then (yes) 
 :return ;;
 stop
 endif 
-:final HColor color=new Rose().getHtmlColor(skinParam,
+:final HColorcolor=new Rose().getHtmlColor(skinParam,
 ColorParam.diagramBorder);;
-:UStroke stroke=skinParam.getThickness(LineParam.diagramBorder,
+:UStrokestroke=skinParam.getThickness(LineParam.diagramBorder,
 null );;
 if (stroke==null &&color!=null ) then (yes) 
 :stroke=new UStroke();;
@@ -256,7 +256,7 @@ if (stroke==null ) then (yes)
 :return ;;
 stop
 endif 
-:final URectangle rectangle=new URectangle(dim.getWidth()-stroke.getThickness(),
+:final URectanglerectangle=new URectangle(dim.getWidth()-stroke.getThickness(),
 dim.getHeight()-stroke.getThickness()).rounded(skinParam.getRoundCorner(CornerParam.diagramBorder,
 null ));;
 :ug.apply(color==null ? HColors.BLACK:color)
@@ -264,23 +264,23 @@ null ));;
 end
 start
 note right
-void drawRandomPoint(UGraphic ug2)
+void drawRandomPoint(UGraphicug2)
 end note
-:final Random rnd=new Random();;
-:final int red=rnd.nextInt(40);;
-:final int green=rnd.nextInt(40);;
-:final int blue=rnd.nextInt(40);;
-:final Color c=new Color(red,green,blue);;
-:final HColor color=HColors.simple(c);;
+:final Randomrnd=new Random();;
+:final intred=rnd.nextInt(40);;
+:final intgreen=rnd.nextInt(40);;
+:final intblue=rnd.nextInt(40);;
+:final Colorc=new Color(red,green,blue);;
+:final HColorcolor=HColors.simple(c);;
 :ug2.apply(color).apply(color.bg()).draw(new URectangle(1,
 1));;
 end
 start
 note right
-XDimension2D getFinalDimension()
+XDimension2DgetFinalDimension()
 end note
 if (dimension==null ) then (yes) 
-:final LimitFinder limitFinder=LimitFinder.create(stringBounder,
+:final LimitFinderlimitFinder=LimitFinder.create(stringBounder,
 true);;
 :udrawable.drawU(limitFinder);;
 :dimension=new XDimension2D(limitFinder.getMaxX()+
@@ -292,7 +292,7 @@ stop
 end
 start
 note right
-UGraphic handwritten(UGraphic ug)
+UGraphichandwritten(UGraphicug)
 end note
 if (skinParam!=null &&skinParam.handwritten()) then (yes) 
 :return new UGraphicHandwritten(ug);;
@@ -303,15 +303,15 @@ stop
 end
 start
 note right
-ImageData writeImageMjpeg(OutputStream os)
+ImageDatawriteImageMjpeg(OutputStreamos)
 end note
-:final XDimension2D dim=getFinalDimension();;
-:final SFile f=new SFile("c:/tmp.avi");;
-:final int nbframe=100;;
-:final MJPEGGenerator m=new MJPEGGenerator(f,
+:final XDimension2Ddim=getFinalDimension();;
+:final SFilef=new SFile("c:/tmp.avi");;
+:final intnbframe=100;;
+:final MJPEGGeneratorm=new MJPEGGenerator(f,
 getAviImage(null ).getWidth(null ),getAviImage(null ).getHeight(null ),
 12.0,nbframe);;
-:AffineTransform at=AffineTransform.getTranslateInstance(dim.getWidth()/2,
+:AffineTransformat=AffineTransform.getTranslateInstance(dim.getWidth()/2,
 dim.getHeight()/2);;
 :at.rotate(90.0*Math.PI/180.0*i/100);;
 :at.translate(-dim.getWidth()/2,-dim.getHeight()/2);;
@@ -324,25 +324,25 @@ stop
 end
 start
 note right
-ImageData writeImageAnimatedGif(OutputStream os)
+ImageDatawriteImageAnimatedGif(OutputStreamos)
 end note
-:final XDimension2D dim=getFinalDimension();;
-:final MinMax minmax=animation.getMinMax(dim);;
-:final AnimatedGifEncoder e=new AnimatedGifEncoder();;
+:final XDimension2Ddim=getFinalDimension();;
+:final MinMaxminmax=animation.getMinMax(dim);;
+:final AnimatedGifEncodere=new AnimatedGifEncoder();;
 :e.setRepeat(0);;
 :e.start(os);;
 :e.setDelay(60);;
-:final ImageIcon ii=new ImageIcon(getAviImage(at));;
-:e.addFrame((BufferedImage )ii.getImage());;
+:final ImageIconii=new ImageIcon(getAviImage(at));;
+:e.addFrame((BufferedImage)ii.getImage());;
 :e.finish();;
 :return createImageData(dim);;
 stop
 end
 start
 note right
-Image getAviImage(AffineTransformation affineTransform)
+ImagegetAviImage(AffineTransformationaffineTransform)
 end note
-:final ByteArrayOutputStream baos=new ByteArrayOutputStream();;
+:final ByteArrayOutputStreambaos=new ByteArrayOutputStream();;
 :writeImageInternal(baos,Animation.singleton(affineTransform));;
 :baos.close();;
 :return SImageIO.read(baos.toByteArray());;
@@ -350,25 +350,25 @@ stop
 end
 start
 note right
-UGraphic createUGraphic(final XDimension2D dim,
-Animation animationArg,double dx,double dy,
-double scaleFactor,Pragma pragma)
+UGraphiccreateUGraphic(final XDimension2Ddim,
+AnimationanimationArg,doubledx,doubledy,doublescaleFactor,
+Pragmapragma)
 end note
-:final ColorMapper colorMapper=fileFormatOption.getColorMapper();;
+:final ColorMappercolorMapper=fileFormatOption.getColorMapper();;
 switch (switch fileFormatOption.getFileFormat())
 endswitch
 end
 start
 note right
-UGraphic createUGraphicSVG(double scaleFactor,
-XDimension2D dim,boolean interactive)
+UGraphiccreateUGraphicSVG(doublescaleFactor,
+XDimension2Ddim,booleaninteractive)
 end note
-:final String hoverPathColorRGB=getHoverPathColorRGB();;
-:final LengthAdjust lengthAdjust=skinParam==null ? LengthAdjust.defaultValue():skinParam.getlengthAdjust();;
-:final String preserveAspectRatio=getPreserveAspectRatio();;
-:final boolean svgDimensionStyle=skinParam==null ||skinParam.svgDimensionStyle();;
-:final String svgLinkTarget=getSvgLinkTarget();;
-:final UGraphicSvg ug=new UGraphicSvg(backcolor,
+:final StringhoverPathColorRGB=getHoverPathColorRGB();;
+:final LengthAdjustlengthAdjust=skinParam==null ? LengthAdjust.defaultValue():skinParam.getlengthAdjust();;
+:final StringpreserveAspectRatio=getPreserveAspectRatio();;
+:final booleansvgDimensionStyle=skinParam==null ||skinParam.svgDimensionStyle();;
+:final StringsvgLinkTarget=getSvgLinkTarget();;
+:final UGraphicSvgug=new UGraphicSvg(backcolor,
 svgDimensionStyle,dim,fileFormatOption.getColorMapper(),
 false,scaleFactor,svgLinkTarget,hoverPathColorRGB,
 seed,preserveAspectRatio,stringBounder,lengthAdjust,
@@ -378,28 +378,28 @@ stop
 end
 start
 note right
-UGraphic createUGraphicPNG(double scaleFactor,
-final XDimension2D dim,Animation affineTransforms,
-double dx,double dy,String watermark)
+UGraphiccreateUGraphicPNG(doublescaleFactor,
+final XDimension2Ddim,AnimationaffineTransforms,
+doubledx,doubledy,Stringwatermark)
 end note
-:Color pngBackColor=new Color(0,0,0,0);;
-if (this.backcolor instanceof HColorSimple ) then (yes) 
+:ColorpngBackColor=new Color(0,0,0,0);;
+if (this.backcolor instanceof HColorSimple) then (yes) 
 :pngBackColor=this.backcolor.toColor(fileFormatOption.getColorMapper());;
 endif 
 if (OptionFlags.getInstance().isReplaceWhiteBackgroundByTransparent()&&(Color.WHITE.equals(pngBackColor)||Color.BLACK.equals(pngBackColor))) then (yes) 
 :pngBackColor=new Color(0,0,0,0);;
 endif 
-:final EmptyImageBuilder builder=new EmptyImageBuilder(watermark,
-(int )(dim.getWidth()*scaleFactor),(int )(dim.getHeight()*scaleFactor),
+:final EmptyImageBuilderbuilder=new EmptyImageBuilder(watermark,
+(int)(dim.getWidth()*scaleFactor),(int)(dim.getHeight()*scaleFactor),
 pngBackColor,stringBounder);;
-:final Graphics2D graphics2D=builder.getGraphics2D();;
-:final UGraphicG2d ug=new UGraphicG2d(backcolor,
+:final Graphics2Dgraphics2D=builder.getGraphics2D();;
+:final UGraphicG2dug=new UGraphicG2d(backcolor,
 fileFormatOption.getColorMapper(),stringBounder,
 graphics2D,scaleFactor,affineTransforms==null ? null :affineTransforms.getFirst(),
 dx,dy);;
 :ug.setBufferedImage(builder.getBufferedImage());;
-:final BufferedImage im=ug.getBufferedImage();;
-if (this.backcolor instanceof HColorGradient ) then (yes) 
+:final BufferedImageim=ug.getBufferedImage();;
+if (this.backcolor instanceof HColorGradient) then (yes) 
 :ug.apply(this.backcolor.bg()).draw(new URectangle(im.getWidth()/scaleFactor,
 im.getHeight()/scaleFactor));;
 endif 
@@ -408,20 +408,20 @@ stop
 end
 start
 note right
-HColor getDefaultHBackColor()
+HColorgetDefaultHBackColor()
 end note
 :return HColors.WHITE;;
 stop
 end
 start
 note right
-String getHoverPathColorRGB()
+StringgetHoverPathColorRGB()
 end note
 if (fileFormatOption.getHoverColor()!=null ) then (yes) 
 :return fileFormatOption.getHoverColor();;
 stop
 else if (skinParam!=null ) then (yes) 
-:final HColor color=skinParam.hoverPathColor();;
+:final HColorcolor=skinParam.hoverPathColor();;
 if (color!=null ) then (yes) 
 :return color.toRGB(fileFormatOption.getColorMapper());;
 stop
@@ -432,9 +432,9 @@ stop
 end
 start
 note right
-ClockwiseTopRightBottomLeft calculateMargin(TitledDiagram diagram)
+ClockwiseTopRightBottomLeftcalculateMargin(TitledDiagramdiagram)
 end note
-:final Style style=StyleSignatureBasic.of(SName.root,
+:final Stylestyle=StyleSignatureBasic.of(SName.root,
 SName.document).getMergedStyle(diagram.getSkinParam().getCurrentStyleBuilder());;
 if (style.hasValue(PName.Margin)) then (yes) 
 :return style.getMargin();;
@@ -445,7 +445,7 @@ stop
 end
 start
 note right
-String getPreserveAspectRatio()
+StringgetPreserveAspectRatio()
 end note
 if (fileFormatOption.getPreserveAspectRatio()!=null ) then (yes) 
 :return fileFormatOption.getPreserveAspectRatio();;
@@ -460,7 +460,7 @@ endif
 end
 start
 note right
-ImageDataSimple createImageData(XDimension2D dim)
+ImageDataSimplecreateImageData(XDimension2Ddim)
 end note
 :return new ImageDataSimple(dim,status);;
 stop

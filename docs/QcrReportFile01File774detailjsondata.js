@@ -488,7 +488,7 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#74"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00074] For method drawStringsLRSimple arguments Collection&lt;?extendsCharSequence&gt;  strings|int  x|int  y"
+ , "c3" : "QC-JAV000006[00074] For method drawStringsLRSimple arguments Collection&lt;?  extends CharSequence &gt;  strings|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -530,7 +530,7 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#88"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00088] For method drawStringsLRUnicode arguments Collection&lt;?extendsCharSequence&gt;  strings|int  x|int  y"
+ , "c3" : "QC-JAV000006[00088] For method drawStringsLRUnicode arguments Collection&lt;?  extends CharSequence &gt;  strings|int  x|int  y"
 }} 
 ,
 { "ligne" : {"" : ""

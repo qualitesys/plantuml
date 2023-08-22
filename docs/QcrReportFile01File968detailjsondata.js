@@ -170,14 +170,14 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#61"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00061] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String,String&gt;  skinParam"
+ , "c3" : "QC-JAV000006[00061] For method createEmptyDiagram arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/PSystemCommandFactory.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00073] For method createSystem arguments UmlSource  source|Map&lt;String,String&gt;  skinParam"
+ , "c3" : "QC-JAV000006[00073] For method createSystem arguments UmlSource  source|Map&lt;String ,String &gt;  skinParam"
 }} 
 ,
 { "ligne" : {"" : ""

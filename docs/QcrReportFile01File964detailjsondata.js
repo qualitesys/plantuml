@@ -126,14 +126,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#52"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00052] For method addCommonCommands1 arguments List&lt;Command&gt;  cmds"
+ , "c3" : "QC-JAV000006[00052] For method addCommonCommands1 arguments List&lt;Command &gt;  cmds"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method addCommonCommands2 arguments List&lt;Command&gt;  cmds"
+ , "c3" : "QC-JAV000006[00058] For method addCommonCommands2 arguments List&lt;Command &gt;  cmds"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -154,7 +154,7 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#89"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00089] For method addCommonHides arguments List&lt;Command&gt;  cmds"
+ , "c3" : "QC-JAV000006[00089] For method addCommonHides arguments List&lt;Command &gt;  cmds"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -168,7 +168,7 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommonCommands.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00095] For method addTitleCommands arguments List&lt;Command&gt;  cmds"
+ , "c3" : "QC-JAV000006[00095] For method addTitleCommands arguments List&lt;Command &gt;  cmds"
 }} 
 ,
 { "ligne" : {"" : ""

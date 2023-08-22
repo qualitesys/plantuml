@@ -537,7 +537,7 @@ var maDataBlocs = {
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/SecurityCredentials.java.html#266"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00266] For method buildProperties arguments String  prefix|JsonValue  fromValue|Map&lt;String,Object&gt;  toMap"
+ , "c3" : "QC-JAV000006[00266] For method buildProperties arguments String  prefix|JsonValue  fromValue|Map&lt;String ,Object &gt;  toMap"
 }} 
 ,
 { "ligne" : {"" : ""

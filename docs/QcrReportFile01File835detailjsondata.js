@@ -385,7 +385,7 @@ var maDataBlocs = {
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/braille/BrailleGrid.java.html#166"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00166] For method drawPolygon arguments List&lt;XPoint2D&gt;  points"
+ , "c3" : "QC-JAV000006[00166] For method drawPolygon arguments List&lt;XPoint2D &gt;  points"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -4130,7 +4130,7 @@ var maDataBlocs = {
  , "c1" : "01425"
  , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1425"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01425] For method postorder arguments ST_Agraph_s  g|ST_Agnode_s  v|CArrayOfStar&lt;ST_Agnode_s&gt;  list|int  r"
+ , "c3" : "QC-JAV000006[01425] For method postorder arguments ST_Agraph_s  g|ST_Agnode_s  v|CArrayOfStar&lt;ST_Agnode_s &gt;  list|int  r"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6006,7 +6006,7 @@ var maDataBlocs = {
  , "c1" : "01922"
  , "c1link" : "./qc/src/gen/lib/dotgen/mincross__c.java.html#1922"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01922] For method nodeposcmpf arguments CArrayOfStar&lt;ST_Agnode_s&gt;  n0|CArrayOfStar&lt;ST_Agnode_s&gt;  n1"
+ , "c3" : "QC-JAV000006[01922] For method nodeposcmpf arguments CArrayOfStar&lt;ST_Agnode_s &gt;  n0|CArrayOfStar&lt;ST_Agnode_s &gt;  n1"
 }} 
 ,
 { "ligne" : {"" : ""

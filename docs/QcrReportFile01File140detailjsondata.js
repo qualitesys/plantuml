@@ -1147,14 +1147,14 @@ var maDataBlocs = {
  , "c1" : "00424"
  , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#424"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00424] For method Bezier arguments CArray&lt;ST_pointf&gt;  V|int  degree|double  t|CArray&lt;ST_pointf&gt;  Left|CArray&lt;ST_pointf&gt;  Right"
+ , "c3" : "QC-JAV000006[00424] For method Bezier arguments CArray&lt;ST_pointf &gt;  V|int  degree|double  t|CArray&lt;ST_pointf &gt;  Left|CArray&lt;ST_pointf &gt;  Right"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00428"
  , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#428"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00428] For method Bezier_w_ arguments CArray&lt;ST_pointf&gt;  V|int  degree|double  t|CArray&lt;ST_pointf&gt;  Left|CArray&lt;ST_pointf&gt;  Right"
+ , "c3" : "QC-JAV000006[00428] For method Bezier_w_ arguments CArray&lt;ST_pointf &gt;  V|int  degree|double  t|CArray&lt;ST_pointf &gt;  Left|CArray&lt;ST_pointf &gt;  Right"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -240,7 +240,7 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#71"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00071] For method canCover arguments int  nbArg|Set&lt;String&gt;  namedArguments"
+ , "c3" : "QC-JAV000006[00071] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArguments"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -303,7 +303,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method getNewMemory arguments TMemory  memory|List&lt;TValue&gt;  values|Map&lt;String,TValue&gt;  namedArguments"
+ , "c3" : "QC-JAV000006[00097] For method getNewMemory arguments TMemory  memory|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  namedArguments"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,7 +401,7 @@ var maDataBlocs = {
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#147"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00147] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue&gt;  args|Map&lt;String,TValue&gt;  named"
+ , "c3" : "QC-JAV000006[00147] For method executeProcedureInternal arguments TContext  context|TMemory  memory|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -422,7 +422,7 @@ var maDataBlocs = {
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#156"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00156] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue&gt;  args|Map&lt;String,TValue&gt;  named"
+ , "c3" : "QC-JAV000006[00156] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  args|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -464,7 +464,7 @@ var maDataBlocs = {
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TFunctionImpl.java.html#172"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00172] For method executeReturnLegacyDefine arguments LineLocation  location|TContext  context|TMemory  memory|List&lt;TValue&gt;  args"
+ , "c3" : "QC-JAV000006[00172] For method executeReturnLegacyDefine arguments LineLocation  location|TContext  context|TMemory  memory|List&lt;TValue &gt;  args"
 }} 
 ,
 { "ligne" : {"" : ""

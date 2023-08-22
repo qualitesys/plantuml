@@ -731,14 +731,14 @@ var maDataBlocs = {
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#248"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00248] For method createLeaf arguments Ident  ident|Code  code|Display  display|LeafType  entityType|IGroup  parentContainer|Set&lt;VisibilityModifier&gt;  hides|String  namespaceSeparator"
+ , "c3" : "QC-JAV000006[00248] For method createLeaf arguments Ident  ident|Code  code|Display  display|LeafType  entityType|IGroup  parentContainer|Set&lt;VisibilityModifier &gt;  hides|String  namespaceSeparator"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#265"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00265] For method createGroup arguments Ident  ident|Code  code|Display  display|Code  namespace|GroupType  groupType|IGroup  parentContainer|Set&lt;VisibilityModifier&gt;  hides|String  namespaceSeparator"
+ , "c3" : "QC-JAV000006[00265] For method createGroup arguments Ident  ident|Code  code|Display  display|Code  namespace|GroupType  groupType|IGroup  parentContainer|Set&lt;VisibilityModifier &gt;  hides|String  namespaceSeparator"
 }} 
 ,
 { "ligne" : {"" : ""

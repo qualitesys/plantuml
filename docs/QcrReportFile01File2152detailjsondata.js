@@ -135,7 +135,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#64"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00064] For method onceMoreParse arguments long  duration|Class&lt;?extendsDiagram&gt;  type"
+ , "c3" : "QC-JAV000006[00064] For method onceMoreParse arguments long  duration|Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -156,7 +156,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#80"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00080] For method onceMoreGenerate arguments long  duration|Class&lt;?extendsDiagram&gt;  type|FileFormat  fileFormat"
+ , "c3" : "QC-JAV000006[00080] For method onceMoreGenerate arguments long  duration|Class&lt;?  extends Diagram &gt;  type|FileFormat  fileFormat"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -191,7 +191,7 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#102"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00102] For method getByTypeCurrent arguments Class&lt;?extendsDiagram&gt;  type"
+ , "c3" : "QC-JAV000006[00102] For method getByTypeCurrent arguments Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -205,7 +205,7 @@ var maDataBlocs = {
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#112"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00112] For method getByTypeEver arguments Class&lt;?extendsDiagram&gt;  type"
+ , "c3" : "QC-JAV000006[00112] For method getByTypeEver arguments Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -233,7 +233,7 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/StatsUtilsIncrement.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00122] For method name arguments Class&lt;?extendsDiagram&gt;  type"
+ , "c3" : "QC-JAV000006[00122] For method name arguments Class&lt;?  extends Diagram &gt;  type"
 }} 
 ,
 { "ligne" : {"" : ""

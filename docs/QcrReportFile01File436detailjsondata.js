@@ -892,7 +892,7 @@ var maDataBlocs = {
  , "c1" : "00377"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SkinParamDelegator.java.html#377"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00377] For method copyAllFrom arguments Map&lt;String,String&gt;  other"
+ , "c3" : "QC-JAV000006[00377] For method copyAllFrom arguments Map&lt;String ,String &gt;  other"
 }} 
 ,
 { "ligne" : {"" : ""

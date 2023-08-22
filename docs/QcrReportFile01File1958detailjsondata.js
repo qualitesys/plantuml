@@ -1101,7 +1101,7 @@ var maDataBlocs = {
  , "c1" : "00429"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSet.java.html#429"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00429] For method getFirst arguments Collection&lt;Participant&gt;  someParticipants"
+ , "c3" : "QC-JAV000006[00429] For method getFirst arguments Collection&lt;Participant &gt;  someParticipants"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1129,7 +1129,7 @@ var maDataBlocs = {
  , "c1" : "00442"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/DrawableSet.java.html#442"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00442] For method getLast arguments Collection&lt;Participant&gt;  someParticipants"
+ , "c3" : "QC-JAV000006[00442] For method getLast arguments Collection&lt;Participant &gt;  someParticipants"
 }} 
 ,
 { "ligne" : {"" : ""

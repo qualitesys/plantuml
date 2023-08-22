@@ -359,7 +359,7 @@ var maDataBlocs = {
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#135"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00135] For method sortBySize arguments Collection&lt;String&gt;  all"
+ , "c3" : "QC-JAV000006[00135] For method sortBySize arguments Collection&lt;String &gt;  all"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -436,7 +436,7 @@ var maDataBlocs = {
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#174"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00174] For method getElected arguments String  cs|Collection&lt;String&gt;  shortNames"
+ , "c3" : "QC-JAV000006[00174] For method getElected arguments String  cs|Collection&lt;String &gt;  shortNames"
 }} 
 ,
 { "ligne" : {"" : ""

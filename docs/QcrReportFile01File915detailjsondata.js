@@ -487,7 +487,7 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#82"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00082] For method from arguments List&lt;StringLocated&gt;  lines"
+ , "c3" : "QC-JAV000006[00082] For method from arguments List&lt;StringLocated &gt;  lines"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -704,7 +704,7 @@ var maDataBlocs = {
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/BlocLines.java.html#226"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00226] For method firstColumnRemovable arguments List&lt;StringLocated&gt;  data"
+ , "c3" : "QC-JAV000006[00226] For method firstColumnRemovable arguments List&lt;StringLocated &gt;  data"
 }} 
 ,
 { "ligne" : {"" : ""

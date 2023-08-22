@@ -224,7 +224,7 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#98"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00098] For method addOneLevel arguments Collection&lt;IGroup&gt;  currents"
+ , "c3" : "QC-JAV000006[00098] For method addOneLevel arguments Collection&lt;IGroup &gt;  currents"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -245,7 +245,7 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierState.java.html#106"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00106] For method reverse arguments Collection&lt;IGroup&gt;  source"
+ , "c3" : "QC-JAV000006[00106] For method reverse arguments Collection&lt;IGroup &gt;  source"
 }} 
 ,
 { "ligne" : {"" : ""

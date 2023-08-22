@@ -254,7 +254,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/TMemoryGlobal.java.html#97"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00097] For method forkFromGlobal arguments Map&lt;String,TValue&gt;  input"
+ , "c3" : "QC-JAV000006[00097] For method forkFromGlobal arguments Map&lt;String ,TValue &gt;  input"
 }} 
 ]
 , 

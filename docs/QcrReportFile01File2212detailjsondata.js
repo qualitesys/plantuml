@@ -143,7 +143,7 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00066] For method createFile arguments OutputStream  os|List&lt;String&gt;  dotStrings|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00066] For method createFile arguments OutputStream  os|List&lt;String &gt;  dotStrings|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -157,7 +157,7 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#87"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00087] For method createFileInternal arguments OutputStream  os|List&lt;String&gt;  dotStrings|FileFormatOption  fileFormatOption"
+ , "c3" : "QC-JAV000006[00087] For method createFileInternal arguments OutputStream  os|List&lt;String &gt;  dotStrings|FileFormatOption  fileFormatOption"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -227,7 +227,7 @@ var maDataBlocs = {
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/CucaDiagramFileMakerSvek.java.html#136"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00136] For method addLinkNew arguments List&lt;Link&gt;  result|Link  link"
+ , "c3" : "QC-JAV000006[00136] For method addLinkNew arguments List&lt;Link &gt;  result|Link  link"
 }} 
 ,
 { "ligne" : {"" : ""

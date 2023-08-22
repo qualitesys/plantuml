@@ -584,7 +584,7 @@ var maDataBlocs = {
  , "c1" : "00249"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00249] For method fillPositionelTiles arguments StringBounder  stringBounder|TimeHook  y|List&lt;Tile&gt;  tiles|List&lt;CommonTile&gt;  local|List&lt;CommonTile&gt;  full"
+ , "c3" : "QC-JAV000006[00249] For method fillPositionelTiles arguments StringBounder  stringBounder|TimeHook  y|List&lt;Tile &gt;  tiles|List&lt;CommonTile &gt;  local|List&lt;CommonTile &gt;  full"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -661,7 +661,7 @@ var maDataBlocs = {
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#272"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00272] For method mergeParallel arguments StringBounder  stringBounder|List&lt;Tile&gt;  tiles"
+ , "c3" : "QC-JAV000006[00272] For method mergeParallel arguments StringBounder  stringBounder|List&lt;Tile &gt;  tiles"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -752,14 +752,14 @@ var maDataBlocs = {
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#304"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00304] For method removeEmptyCloseToParallel arguments List&lt;Tile&gt;  tiles"
+ , "c3" : "QC-JAV000006[00304] For method removeEmptyCloseToParallel arguments List&lt;Tile &gt;  tiles"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00316"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#316"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00316] For method removeHeadEmpty arguments List&lt;Tile&gt;  tiles"
+ , "c3" : "QC-JAV000006[00316] For method removeHeadEmpty arguments List&lt;Tile &gt;  tiles"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -822,7 +822,7 @@ var maDataBlocs = {
  , "c1" : "00326"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/GroupingTile.java.html#326"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00326] For method addYNewPages arguments Collection&lt;Double&gt;  yNewPages"
+ , "c3" : "QC-JAV000006[00326] For method addYNewPages arguments Collection&lt;Double &gt;  yNewPages"
 }} 
 ,
 { "ligne" : {"" : ""

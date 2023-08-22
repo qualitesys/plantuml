@@ -2036,7 +2036,7 @@ var maDataBlocs = {
  , "c1" : "00508"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#508"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00508] For method text arguments String  text|double  x|double  y|String  fontFamily|int  fontSize|String  fontWeight|String  fontStyle|String  textDecoration|double  textLength|Map&lt;String,String&gt;  attributes|String  textBackColor"
+ , "c3" : "QC-JAV000006[00508] For method text arguments String  text|double  x|double  y|String  fontFamily|int  fontSize|String  fontWeight|String  fontStyle|String  textDecoration|double  textLength|Map&lt;String ,String &gt;  attributes|String  textBackColor"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4997,7 +4997,7 @@ var maDataBlocs = {
  , "c1" : "01060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svg/SvgGraphics.java.html#1060"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[01060] For method startGroup arguments Map&lt;UGroupType,String&gt;  typeIdents"
+ , "c3" : "QC-JAV000006[01060] For method startGroup arguments Map&lt;UGroupType ,String &gt;  typeIdents"
 }} 
 ,
 { "ligne" : {"" : ""

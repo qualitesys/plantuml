@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1234px" preserveAspectRatio="none" style="width:947px;height:1234px;background:#FFFFFF;" version="1.1" viewBox="0 0 947 1234" width="947px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="273" x="5" y="30.1074">The will to go on when I'm hurt deep inside.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="280" x="5" y="58.0449">Diagram size: 2048 lines / 58412 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 363 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.Branch.updateFtile(Branch.java:130)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="630.7637">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="644.7324">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="672.6699">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="686.6387">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="700.6074">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="714.5762">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="728.5449">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="742.5137">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="756.4824">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="770.4512">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="784.4199">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="798.3887">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="812.3574">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="826.3262">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="840.2949">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="854.2637">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="868.2324">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="882.2012">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="896.1699">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="910.1387">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="924.1074">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="938.0762">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="952.0449">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="966.0137">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="979.9824">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="993.9512">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="1007.9199">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="1021.8887">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="1035.8574">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1049.8262">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1063.7949">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1077.7637">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1091.7324">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1105.7012">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1119.6699">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1133.6387">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1147.6074">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1161.5762">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1175.5449">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1189.5137">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1203.4824">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1217.4512">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1231.4199">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="22" width="27" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAWCAYAAAAxSueLAAAAeklEQVR4Xu2MQQqAMBAD+/9n+Dp/obBQcIeNNLUHQQdy6GbS1r7Hth+RUVw/4Y4tX8nq3lG9ugeqVPeO6tU9YNnfbrgvYclPRsN9CUeUeXf7BCXKvLt9gtKqlFBalVsoz2YIjmZj4Y5cP+GOXT+YGl2w9pZc8HT/8ypOuULm0PvCOIIAAAAASUVORK5CYII=" y="6"/><!--MD5=[3209812dcc8388de32e85f71787140d1]
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1234px" preserveAspectRatio="none" style="width:959px;height:1234px;background:#FFFFFF;" version="1.1" viewBox="0 0 959 1234" width="959px" zoomAndPan="magnify"><defs/><g><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="603" x="5" y="16.1387">An error has occured : java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="289" x="5" y="30.1074">Y'en a qu'ont essaye, ils ont eu des problemes</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="44.0762"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="280" x="5" y="58.0449">Diagram size: 2048 lines / 58037 characters.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="72.0137"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="374" x="5" y="85.9824">PlantUML (1.2022.7) cannot parse result from dot/GraphViz.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="99.9512"> </text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="390" x="5" y="113.9199">This version of PlantUML is 364 days old, so you should</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="398" x="5" y="127.8887">consider upgrading from https://plantuml.com/download</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="141.8574"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="492" x="5" y="155.8262">Please go to https://plantuml.com/graphviz-dot to check your GraphViz version.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="169.7949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="277" x="5" y="183.7637">Java Runtime: OpenJDK Runtime Environment</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="187" x="5" y="197.7324">JVM: OpenJDK 64-Bit Server VM</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="211.7012">Default Encoding: UTF-8</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="86" x="5" y="225.6699">Language: en</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="78" x="5" y="239.6387">Country: null</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="253.6074"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="172" x="5" y="267.5762">PLANTUML_LIMIT_SIZE: 4096</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="281.5449"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="150" x="5" y="295.5137">This may be caused by :</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="120" x="9" y="309.4824">- a bug in PlantUML</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="144" x="9" y="323.4512">- a problem in GraphViz</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="337.4199"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="300" x="5" y="351.3887">You should send this diagram and this image to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="145" x="309" y="351.3887">plantuml@gmail.com</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="13" x="458" y="351.3887">or</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="45" x="5" y="365.3574">post to</text><text fill="#000000" font-family="sans-serif" font-size="12" font-weight="bold" lengthAdjust="spacing" textLength="168" x="54" y="365.3574">https://plantuml.com/qa</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="117" x="226" y="365.3574">to solve this issue.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="405" x="5" y="379.3262">You can try to turn arround this issue by simplifing your diagram.</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="4" x="5" y="393.2949"> </text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="458" x="5" y="407.2637">java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="477" x="13" y="421.2324">java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="548" x="13" y="435.2012">java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="474" x="13" y="449.1699">java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="351" x="13" y="463.1387">java.base/java.util.Objects.checkIndex(Objects.java:372)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="314" x="13" y="477.1074">java.base/java.util.ArrayList.get(ArrayList.java:459)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="878" x="13" y="491.0762">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createWithLinks(FtileFactoryDelegatorSwitch.java:103)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="852" x="13" y="505.0449">net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileFactoryDelegatorSwitch.createSwitch(FtileFactoryDelegatorSwitch.java:79)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="519.0137">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="532.9824">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="546.9512">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="560.9199">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="716" x="13" y="574.8887">net.sourceforge.plantuml.activitydiagram3.ftile.FtileFactoryDelegator.createSwitch(FtileFactoryDelegator.java:185)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="588.8574">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:119)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="602.8262">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="616.7949">net.sourceforge.plantuml.activitydiagram3.Branch.updateFtile(Branch.java:130)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="630.7637">net.sourceforge.plantuml.activitydiagram3.InstructionSwitch.createFtile(InstructionSwitch.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="583" x="13" y="644.7324">net.sourceforge.plantuml.activitydiagram3.InstructionList.createFtile(InstructionList.java:131)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="536" x="13" y="658.7012">net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU(Swimlanes.java:229)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="805" x="13" y="672.6699">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.getPiecewiseAffineTransform(CompressionXorYBuilder.java:51)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="655" x="13" y="686.6387">net.sourceforge.plantuml.ugraphic.comp.CompressionXorYBuilder.build(CompressionXorYBuilder.java:44)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="686" x="13" y="700.6074">net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3.exportDiagramInternal(ActivityDiagram3.java:210)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="714.5762">net.sourceforge.plantuml.UmlDiagram.exportDiagramNow(UmlDiagram.java:135)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="538" x="13" y="728.5449">net.sourceforge.plantuml.AbstractPSystem.exportDiagram(AbstractPSystem.java:178)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="742.5137">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:172)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="566" x="13" y="756.4824">net.sourceforge.plantuml.SourceStringReader.outputImage(SourceStringReader.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="693" x="13" y="770.4512">com.qualitesys.qcrmavenplugin.commun.QcrCommunPlantUml.genererFichierSvg(QcrCommunPlantUml.java:82)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="585" x="13" y="784.4199">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lireFichier(QcrReporting01Mojo.java:927)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="556" x="13" y="798.3887">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.lister(QcrReporting01Mojo.java:453)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="591" x="13" y="812.3574">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.doReport(QcrReporting01Mojo.java:2037)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="625" x="13" y="826.3262">com.qualitesys.qcrmavenplugin.QcrReporting01Mojo.executeReport(QcrReporting01Mojo.java:1739)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="582" x="13" y="840.2949">org.apache.maven.reporting.AbstractMavenReport.generate(AbstractMavenReport.java:251)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="748" x="13" y="854.2637">org.apache.maven.plugins.site.render.ReportDocumentRenderer.renderDocument(ReportDocumentRenderer.java:226)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="607" x="13" y="868.2324">org.apache.maven.doxia.siterenderer.DefaultSiteRenderer.render(DefaultSiteRenderer.java:348)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="882.2012">org.apache.maven.plugins.site.render.SiteMojo.renderLocale(SiteMojo.java:194)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="470" x="13" y="896.1699">org.apache.maven.plugins.site.render.SiteMojo.execute(SiteMojo.java:143)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="649" x="13" y="910.1387">org.apache.maven.plugin.DefaultBuildPluginManager.executeMojo(DefaultBuildPluginManager.java:137)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="924.1074">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute2(MojoExecutor.java:370)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="531" x="13" y="938.0762">org.apache.maven.lifecycle.internal.MojoExecutor.doExecute(MojoExecutor.java:351)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="952.0449">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:215)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="966.0137">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:171)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="515" x="13" y="979.9824">org.apache.maven.lifecycle.internal.MojoExecutor.execute(MojoExecutor.java:163)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="651" x="13" y="993.9512">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:117)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="643" x="13" y="1007.9199">org.apache.maven.lifecycle.internal.LifecycleModuleBuilder.buildProject(LifecycleModuleBuilder.java:81)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="747" x="13" y="1021.8887">org.apache.maven.lifecycle.internal.builder.singlethreaded.SingleThreadedBuilder.build(SingleThreadedBuilder.java:56)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="539" x="13" y="1035.8574">org.apache.maven.lifecycle.internal.LifecycleStarter.execute(LifecycleStarter.java:128)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1049.8262">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:299)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="428" x="13" y="1063.7949">org.apache.maven.DefaultMaven.doExecute(DefaultMaven.java:193)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="412" x="13" y="1077.7637">org.apache.maven.DefaultMaven.execute(DefaultMaven.java:106)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="367" x="13" y="1091.7324">org.apache.maven.cli.MavenCli.execute(MavenCli.java:963)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="362" x="13" y="1105.7012">org.apache.maven.cli.MavenCli.doMain(MavenCli.java:296)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="347" x="13" y="1119.6699">org.apache.maven.cli.MavenCli.main(MavenCli.java:199)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="502" x="13" y="1133.6387">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="621" x="13" y="1147.6074">java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="679" x="13" y="1161.5762">java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="373" x="13" y="1175.5449">java.base/java.lang.reflect.Method.invoke(Method.java:566)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="562" x="13" y="1189.5137">org.codehaus.plexus.classworlds.launcher.Launcher.launchEnhanced(Launcher.java:282)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="499" x="13" y="1203.4824">org.codehaus.plexus.classworlds.launcher.Launcher.launch(Launcher.java:225)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="568" x="13" y="1217.4512">org.codehaus.plexus.classworlds.launcher.Launcher.mainWithExitCode(Launcher.java:406)</text><text fill="#000000" font-family="sans-serif" font-size="12" lengthAdjust="spacing" textLength="487" x="13" y="1231.4199">org.codehaus.plexus.classworlds.launcher.Launcher.main(Launcher.java:347)</text><image height="29" width="39" x="920" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACcAAAAdCAYAAAApQnX+AAAAqklEQVR4Xu2Oyw2AMAxDOwvzsCwTgjgUoYestCmfCOVJPjSNHZeSJMkY0zKvuzgPQchytRTFvU9gqSzXCkuFKMcyIUpVWOrTcqoE5/x/BXWcc/4/ijqq5q3/t6COqHnr/6PccZwZSvSZDAeUa4YSfSYM8ATRY72bYSlPED3W+wKPU2rvnKGgR4m+Ay5Sau+coaBHib5uPIHctd5uflvOEn3deALpUaIv8bABelniyGc9jNIAAAAASUVORK5CYII=" y="6"/><!--MD5=[a12d43ab37ddfbc432cf62d0590ebae1]
 @startuml
 !pragma layout smetana
 start
 note right
-ST_boxf boxfof(double llx,double lly,double urx,
-double ury)
+ST_boxfboxfof(doublellx,doublelly,doubleurx,
+doubleury)
 end note
 :return boxfof_w_(llx,lly,urx,ury).copy();;
 stop
 end
 start
 note right
-ST_boxf boxfof_w_(double llx,double lly,double urx,
-double ury)
+ST_boxfboxfof_w_(doublellx,doublelly,doubleurx,
+doubleury)
 end note
 :ENTERING("1vvsta5i8of59frav6uymguav","boxfof");;
 switch (try/catch block)
 case (try)
-:final ST_boxf b=new ST_boxf();;
+:final ST_boxfb=new ST_boxf();;
 :b.LL.x=llx;;
 :b.LL.y=lly;;
 :b.UR.x=urx;;
@@ -28,12 +28,12 @@ endswitch
 end
 start
 note right
-ST_Agedge_s getmainedge(ST_Agedge_s e)
+ST_Agedge_sgetmainedge(ST_Agedge_se)
 end note
 :ENTERING("dobhmc46zwtvv8rg3ywntl91j","getmainedge");;
 switch (try/catch block)
 case (try)
-:ST_Agedge_s le=e;;
+:ST_Agedge_sle=e;;
 while (ED_to_virt(le)!=null )
 :le=ED_to_virt(le);;
 endwhile
@@ -46,7 +46,7 @@ endswitch
 end
 start
 note right
-boolean spline_merge(ST_Agnode_s n)
+booleanspline_merge(ST_Agnode_sn)
 end note
 :ENTERING("ddeny5ht7w8b16ztj5zt840ld","spline_merge");;
 switch (try/catch block)
@@ -58,7 +58,7 @@ endswitch
 end
 start
 note right
-boolean swap_ends_p(ST_Agedge_s e)
+booleanswap_ends_p(ST_Agedge_se)
 end note
 :ENTERING("36ofw2qfqlh5ci8gc8cfkqgg3","swap_ends_p");;
 switch (try/catch block)
@@ -84,19 +84,19 @@ endswitch
 end
 start
 note right
-int portcmp(final ST_port p0,final ST_port p1)
+intportcmp(final ST_portp0,final ST_portp1)
 end note
 :return portcmp_w_(p0.copy(),p1.copy());;
 stop
 end
 start
 note right
-int portcmp_w_(final ST_port p0,final ST_port p1)
+intportcmp_w_(final ST_portp0,final ST_portp1)
 end note
 :ENTERING("3krohso3quojiv4fveh1en7o6","portcmp");;
 switch (try/catch block)
 case (try)
-:int rv;;
+:intrv;;
 if (p1.defined==false) then (yes) 
 :return (p0.defined? 1:0);;
 stop
@@ -105,9 +105,9 @@ if (p0.defined==false) then (yes)
 :return -1;;
 stop
 endif 
-:rv=(int )(p0.p.x-p1.p.x);;
+:rv=(int)(p0.p.x-p1.p.x);;
 if (rv==0) then (yes) 
-:rv=(int )(p0.p.y-p1.p.y);;
+:rv=(int)(p0.p.y-p1.p.y);;
 endif 
 :return rv;;
 stop
@@ -115,17 +115,17 @@ endswitch
 end
 start
 note right
-void swap_bezier(CArray<ST_bezier> old,CArray<ST_bezier> new_)
+void swap_bezier(CArray<ST_bezier>old,CArray<ST_bezier>new_)
 end note
 :ENTERING("10wbtt4gwnxgqutinpj4ymjpk","swap_bezier");;
 switch (try/catch block)
 case (try)
-:CArray<ST_pointf> list;;
-:CArray<ST_pointf> lp;;
-:CArray<ST_pointf> olp;;
-:int i,sz;;
+:CArray<ST_pointf>list;;
+:CArray<ST_pointf>lp;;
+:CArray<ST_pointf>olp;;
+:inti,sz;;
 :sz=old.get__(0).size;;
-:list=CArray.<ST_pointf >ALLOC__(sz,ST_pointf.class );;
+:list=CArray.<ST_pointf>ALLOC__(sz,ST_pointf.class );;
 :lp=list;;
 :olp=old.get__(0).list.plus_(sz-1);;
 :lp.get__(0).___(olp.get__(0));;
@@ -141,17 +141,17 @@ endswitch
 end
 start
 note right
-void swap_spline(ST_splines s)
+void swap_spline(ST_spliness)
 end note
 :ENTERING("3256l3e2huarsy29dd97vqj85","swap_spline");;
 switch (try/catch block)
 case (try)
-:CArray<ST_bezier> list;;
-:CArray<ST_bezier> lp;;
-:CArray<ST_bezier> olp;;
-:int i,sz;;
+:CArray<ST_bezier>list;;
+:CArray<ST_bezier>lp;;
+:CArray<ST_bezier>olp;;
+:inti,sz;;
 :sz=s.size;;
-:list=CArray.<ST_bezier >ALLOC__(sz,ST_bezier.class );;
+:list=CArray.<ST_bezier>ALLOC__(sz,ST_bezier.class );;
 :lp=list;;
 :olp=s.list.plus_(sz-1);;
 :swap_bezier(olp,lp);;
@@ -164,21 +164,21 @@ endswitch
 end
 start
 note right
-void edge_normalize(ST_Agraph_s g)
+void edge_normalize(ST_Agraph_sg)
 end note
 :ENTERING("dgkssqjj566ifra0xy7m46qsb","edge_normalize");;
 switch (try/catch block)
 case (try)
-:ST_Agedge_s e;;
-:ST_Agnode_s n;;
-if ((Boolean )Z.z().sinfo.swapEnds.exe(e)&&ED_spl(e)!=null ) then (yes) 
+:ST_Agedge_se;;
+:ST_Agnode_sn;;
+if ((Boolean)Z.z().sinfo.swapEnds.exe(e)&&ED_spl(e)!=null ) then (yes) 
 :swap_spline(ED_spl(e));;
 endif 
 endswitch
 end
 start
 note right
-Object resetRW(Object ... arg_)
+ObjectresetRW(Object... arg_)
 end note
 :UNSUPPORTED("e2z2o5ybnr5tgpkt8ty7hwan1");;
 :UNSUPPORTED("c4vqsmfolc1meewxoebfkyppx");;
@@ -197,22 +197,22 @@ stop
 end
 start
 note right
-void _dot_splines(ST_Agraph_s g,int normalize)
+void _dot_splines(ST_Agraph_sg,intnormalize)
 end note
 :ENTERING("6agx6m2qof9lg57co232lwakj","_dot_splines");;
 switch (try/catch block)
 case (try)
-:int i,j,k,n_nodes,n_edges,ind,cnt;;
-:ST_Agnode_s n;;
-:final ST_Agedgeinfo_t fwdedgeai=new ST_Agedgeinfo_t(),
+:inti,j,k,n_nodes,n_edges,ind,cnt;;
+:ST_Agnode_sn;;
+:final ST_Agedgeinfo_tfwdedgeai=new ST_Agedgeinfo_t(),
 fwdedgebi=new ST_Agedgeinfo_t();;
-:final ST_Agedgepair_s fwdedgea=new ST_Agedgepair_s(),
+:final ST_Agedgepair_sfwdedgea=new ST_Agedgepair_s(),
 fwdedgeb=new ST_Agedgepair_s();;
-:ST_Agedge_s e,e0,e1,ea,eb,le0,le1;;
-:CArrayOfStar<ST_Agedge_s> edges;;
-:ST_path P;;
-:final ST_spline_info_t sd=new ST_spline_info_t();;
-:int et=(GD_flags(g)&(7<<1));;
+:ST_Agedge_se,e0,e1,ea,eb,le0,le1;;
+:CArrayOfStar<ST_Agedge_s>edges;;
+:ST_pathP;;
+:final ST_spline_info_tsd=new ST_spline_info_t();;
+:intet=(GD_flags(g)&(7<<1));;
 :fwdedgea.out.base.data=fwdedgeai;;
 :fwdedgeb.out.base.data=fwdedgebi;;
 if (et==ET_NONE) then (yes) 
@@ -235,30 +235,30 @@ endif
 :P=new ST_path();;
 :sd.Splinesep=GD_nodesep(g)/4;;
 :sd.Multisep=GD_nodesep(g);;
-:edges=CArrayOfStar.<ST_Agedge_s >ALLOC(CHUNK,
+:edges=CArrayOfStar.<ST_Agedge_s>ALLOC(CHUNK,
 ST_Agedge_s.class );;
 :sd.RightBound=0;;
 :sd.LeftBound=0;;
 :n_edges=n_nodes=0;;
 :n_nodes+=GD_rank(g).get__(i).n;;
 if ((n=GD_rank(g).get__(i).v.get_(0))!=null ) then (yes) 
-:sd.LeftBound=(int )MIN(sd.LeftBound,(ND_coord(n)
+:sd.LeftBound=(int)MIN(sd.LeftBound,(ND_coord(n)
 .x-ND_lw(n)));;
 endif 
 if (GD_rank(g).get__(i).n!=0&&(n=GD_rank(g).get__(i).v.get_(GD_rank(g).get__(i).n-1))!=null ) then (yes) 
-:sd.RightBound=(int )MAX(sd.RightBound,(ND_coord(n).x+
+:sd.RightBound=(int)MAX(sd.RightBound,(ND_coord(n).x+
 ND_rw(n)));;
 endif 
 :sd.LeftBound-=MINW;;
 :sd.RightBound+=MINW;;
 :n=GD_rank(g).get__(i).v.get_(j);;
 if (ND_alg(n)!=null ) then (yes) 
-:ST_Agedge_s fe=(ST_Agedge_s )ND_alg(n);;
+:ST_Agedge_sfe=(ST_Agedge_s)ND_alg(n);;
 :assert (ED_label(fe)!=null );;
 :ED_label(fe).pos.___(ND_coord(n));;
 :ED_label(fe).set=NOTI(false);;
 endif 
-if ((ND_node_type(n)!=NORMAL)&&((Boolean )Z.z().sinfo.splineMerge.exe(n)==false)) then (yes) 
+if ((ND_node_type(n)!=NORMAL)&&((Boolean)Z.z().sinfo.splineMerge.exe(n)==false)) then (yes) 
 :continue ;;
 endif 
 if ((ED_edge_type(e)==FLATORDER)||(ED_edge_type(e)==IGNORED)) then (yes) 
@@ -267,27 +267,27 @@ endif
 :setflags(e,REGULAREDGE,FWDEDGE,MAINGRAPH);;
 :edges.set_(n_edges++,e);;
 if (n_edges%CHUNK==0) then (yes) 
-:edges=CArrayOfStar.<ST_Agedge_s >REALLOC(n_edges+
+:edges=CArrayOfStar.<ST_Agedge_s>REALLOC(n_edges+
 CHUNK,edges,ST_Agedge_s.class );;
 endif 
 if (ND_flat_out(n).list!=null ) then (yes) 
 :setflags(e,FLATEDGE,0,AUXGRAPH);;
 :edges.set_(n_edges++,e);;
 if (n_edges%CHUNK==0) then (yes) 
-:edges=CArrayOfStar.<ST_Agedge_s >REALLOC(n_edges+
+:edges=CArrayOfStar.<ST_Agedge_s>REALLOC(n_edges+
 CHUNK,edges,ST_Agedge_s.class );;
 endif 
 endif 
 if (ND_other(n).list!=null ) then (yes) 
 if (ND_node_type(n)==NORMAL) then (yes) 
-:double tmp=ND_rw(n);;
+:doubletmp=ND_rw(n);;
 :ND_rw(n,ND_mval(n));;
 :ND_mval(n,tmp);;
 endif 
 :setflags(e,0,0,AUXGRAPH);;
 :edges.set_(n_edges++,e);;
 if (n_edges%CHUNK==0) then (yes) 
-:edges=CArrayOfStar.<ST_Agedge_s >REALLOC(n_edges+
+:edges=CArrayOfStar.<ST_Agedge_s>REALLOC(n_edges+
 CHUNK,edges,ST_Agedge_s.class );;
 endif 
 endif 
@@ -300,7 +300,7 @@ if ((ND_node_type(n)==VIRTUAL)&&(ND_label(n)!=null )) then (yes)
 :place_vnlabel(n);;
 endif 
 endif 
-:boolean havePorts;;
+:booleanhavePorts;;
 :ind=i;;
 :le0=getmainedge((e0=edges.get_(i++)));;
 if (ED_tail_port(e0).defined||ED_head_port(e0).defined) then (yes) 
@@ -350,23 +350,23 @@ if ((ED_tree_index(edges.get_(i))&MAINGRAPH)!=0) then (yes)
 :break ;;
 endif 
 if (EQ(agtail(e0),aghead(e0))) then (yes) 
-:int b,sizey,r;;
+:intb,sizey,r;;
 :n=agtail(e0);;
 :r=ND_rank(n);;
 if (r==GD_maxrank(g)) then (yes) 
 if (r>0) then (yes) 
-:sizey=(int )(ND_coord(GD_rank(g).get__(r-1)
+:sizey=(int)(ND_coord(GD_rank(g).get__(r-1)
 .v.get_(0)).y-ND_coord(n).y);;
 else (no)
-:sizey=(int )ND_ht(n);;
+:sizey=(int)ND_ht(n);;
 endif 
 else if (r==GD_minrank(g)) then (yes) 
-:sizey=(int )(ND_coord(n).y-ND_coord(GD_rank(g).get__(r+
+:sizey=(int)(ND_coord(n).y-ND_coord(GD_rank(g).get__(r+
 1).v.get_(0)).y);;
 else (no)
-:int upy=(int )(ND_coord(GD_rank(g).get__(r-1)
+:intupy=(int)(ND_coord(GD_rank(g).get__(r-1)
 .v.get_(0)).y-ND_coord(n).y);;
-:int dwny=(int )(ND_coord(n).y-ND_coord(GD_rank(g).get__(r+
+:intdwny=(int)(ND_coord(n).y-ND_coord(GD_rank(g).get__(r+
 1).v.get_(0)).y);;
 :sizey=MIN(upy,dwny);;
 endif 
@@ -420,7 +420,7 @@ endswitch
 end
 start
 note right
-void dot_splines(ST_Agraph_s g)
+void dot_splines(ST_Agraph_sg)
 end note
 :ENTERING("5n306wbdfjbfnimdo9lg6jjaa","dot_splines");;
 switch (try/catch block)
@@ -430,14 +430,14 @@ endswitch
 end
 start
 note right
-void place_vnlabel(ST_Agnode_s n)
+void place_vnlabel(ST_Agnode_sn)
 end note
 :ENTERING("8jja9ukzsq8tlb9yy7uzavg91","place_vnlabel");;
 switch (try/catch block)
 case (try)
-:final ST_pointf dimen=new ST_pointf();;
-:double width;;
-:ST_Agedge_s e;;
+:final ST_pointfdimen=new ST_pointf();;
+:doublewidth;;
+:ST_Agedge_se;;
 if (ND_in(n).size==0) then (yes) 
 :return ;;
 stop
@@ -452,13 +452,13 @@ endswitch
 end
 start
 note right
-void setflags(ST_Agedge_s e,int hint1,int hint2,
-int f3)
+void setflags(ST_Agedge_se,inthint1,inthint2,
+intf3)
 end note
 :ENTERING("598jn37hjkm7j0kcg2nmdvlwq","setflags");;
 switch (try/catch block)
 case (try)
-:int f1,f2;;
+:intf1,f2;;
 if (hint1!=0) then (yes) 
 :f1=hint1;;
 else (no)
@@ -490,19 +490,19 @@ endswitch
 end
 start
 note right
-int edgecmp(CArrayOfStar<ST_Agedge_s> ptr0,
-CArrayOfStar<ST_Agedge_s> ptr1)
+intedgecmp(CArrayOfStar<ST_Agedge_s>ptr0,
+CArrayOfStar<ST_Agedge_s>ptr1)
 end note
 :ENTERING("1nf1s6wkn35ptjn884ii56fh","edgecmp");;
 switch (try/catch block)
 case (try)
-:final ST_Agedgeinfo_t fwdedgeai=new ST_Agedgeinfo_t(),
+:final ST_Agedgeinfo_tfwdedgeai=new ST_Agedgeinfo_t(),
 fwdedgebi=new ST_Agedgeinfo_t();;
-:final ST_Agedgepair_s fwdedgea=new ST_Agedgepair_s(),
+:final ST_Agedgepair_sfwdedgea=new ST_Agedgepair_s(),
 fwdedgeb=new ST_Agedgepair_s();;
-:ST_Agedge_s e0,e1,ea,eb,le0,le1;;
-:int et0,et1,v0,v1,rv;;
-:double t0,t1;;
+:ST_Agedge_se0,e1,ea,eb,le0,le1;;
+:intet0,et1,v0,v1,rv;;
+:doublet0,t1;;
 :fwdedgea.out.base.data=fwdedgeai;;
 :fwdedgeb.out.base.data=fwdedgebi;;
 :e0=ptr0.get_(0);;
@@ -517,16 +517,16 @@ endif
 :le1=getmainedge(e1);;
 :t0=ND_rank(agtail(le0))-ND_rank(aghead(le0));;
 :t1=ND_rank(agtail(le1))-ND_rank(aghead(le1));;
-:v0=ABS((int )t0);;
-:v1=ABS((int )t1);;
+:v0=ABS((int)t0);;
+:v1=ABS((int)t1);;
 if (v0!=v1) then (yes) 
 :return (v0-v1);;
 stop
 endif 
 :t0=ND_coord(agtail(le0)).x-ND_coord(aghead(le0)).x;;
 :t1=ND_coord(agtail(le1)).x-ND_coord(aghead(le1)).x;;
-:v0=ABS((int )t0);;
-:v1=ABS((int )t1);;
+:v0=ABS((int)t0);;
+:v1=ABS((int)t1);;
 if (v0!=v1) then (yes) 
 :return (v0-v1);;
 stop
@@ -539,13 +539,13 @@ endif
 .defined)? e0:le0;;
 if ((ED_tree_index(ea)&32)!=0) then (yes) 
 :MAKEFWDEDGE(fwdedgea.out,ea);;
-:ea=(ST_Agedge_s )fwdedgea.out;;
+:ea=(ST_Agedge_s)fwdedgea.out;;
 endif 
 :eb=(ED_tail_port(e1).defined||ED_head_port(e1)
 .defined)? e1:le1;;
 if ((ED_tree_index(eb)&32)!=0) then (yes) 
 :MAKEFWDEDGE(fwdedgeb.out,eb);;
-:eb=(ST_Agedge_s )fwdedgeb.out;;
+:eb=(ST_Agedge_s)fwdedgeb.out;;
 endif 
 if ((rv=portcmp(ED_tail_port(ea),ED_tail_port(eb)))!=0) then (yes) 
 :return rv;;
@@ -570,14 +570,14 @@ endswitch
 end
 start
 note right
-int edgelblcmpfn(CArrayOfStar<ST_Agedge_s> ptr0,
-CArrayOfStar<ST_Agedge_s> ptr1)
+intedgelblcmpfn(CArrayOfStar<ST_Agedge_s>ptr0,
+CArrayOfStar<ST_Agedge_s>ptr1)
 end note
 :ENTERING("bmsa24i3avg14po4sp17yh89k","edgelblcmpfn");;
 switch (try/catch block)
 case (try)
-:ST_Agedge_s e0,e1;;
-:final ST_pointf sz0=new ST_pointf(),sz1=new ST_pointf();;
+:ST_Agedge_se0,e1;;
+:final ST_pointfsz0=new ST_pointf(),sz1=new ST_pointf();;
 :e0=ptr0.get_(0);;
 :e1=ptr1.get_(0);;
 if (ED_label(e0)!=null ) then (yes) 
@@ -615,26 +615,26 @@ endswitch
 end
 start
 note right
-void makeSimpleFlatLabels(ST_Agnode_s tn,
-ST_Agnode_s hn,CArrayOfStar<ST_Agedge_s> edges,
-int ind,int cnt,int et,int n_lbls)
+void makeSimpleFlatLabels(ST_Agnode_stn,ST_Agnode_shn,
+CArrayOfStar<ST_Agedge_s>edges,intind,intcnt,
+intet,intn_lbls)
 end note
 :ENTERING("3xmylrnypvoqrj2yrxnomsj5k","makeSimpleFlatLabels");;
 switch (try/catch block)
 case (try)
-:CArray<ST_pointf> ps;;
-:final ST_Ppoly_t poly=new ST_Ppoly_t();;
-:int pn[]=new int[1];;
-:ST_Agedge_s e=edges.get_(ind);;
-:final CArray<ST_pointf> points=CArray.<ST_pointf >ALLOC__(10,
+:CArray<ST_pointf>ps;;
+:final ST_Ppoly_tpoly=new ST_Ppoly_t();;
+:intpn[]=new int[1];;
+:ST_Agedge_se=edges.get_(ind);;
+:final CArray<ST_pointf>points=CArray.<ST_pointf>ALLOC__(10,
 ST_pointf.class );;
-:final ST_pointf tp=new ST_pointf(),hp=new ST_pointf();;
-:int i,pointn;;
-:double leftend,rightend,ctrx=0,ctry=0,miny,
+:final ST_pointftp=new ST_pointf(),hp=new ST_pointf();;
+:inti,pointn;;
+:doubleleftend,rightend,ctrx=0,ctry=0,miny,
 maxy;;
-:double uminx=0,umaxx=0;;
-:double lminx=0,lmaxx=0;;
-:CArrayOfStar<ST_Agedge_s> earray=CArrayOfStar.<ST_Agedge_s >ALLOC(cnt,
+:doubleuminx=0,umaxx=0;;
+:doublelminx=0,lmaxx=0;;
+:CArrayOfStar<ST_Agedge_s>earray=CArrayOfStar.<ST_Agedge_s>ALLOC(cnt,
 ST_Agedge_s.class );;
 :earray.set_(i,edges.get_(ind+i));;
 :qsort1(earray,cnt,dotsplines__c.edgelblcmpfn);;
@@ -767,24 +767,24 @@ endswitch
 end
 start
 note right
-void makeSimpleFlat(ST_Agnode_s tn,ST_Agnode_s hn,
-CArrayOfStar<ST_Agedge_s> edges,int ind,int cnt,
-int et)
+void makeSimpleFlat(ST_Agnode_stn,ST_Agnode_shn,
+CArrayOfStar<ST_Agedge_s>edges,intind,intcnt,
+intet)
 end note
 :ENTERING("8kqyzk43ovc2sq6jegua6ytp","makeSimpleFlat");;
 switch (try/catch block)
 case (try)
-:ST_Agedge_s e=edges.get_(ind);;
-:final CArray<ST_pointf> points=CArray.<ST_pointf >ALLOC__(10,
+:ST_Agedge_se=edges.get_(ind);;
+:final CArray<ST_pointf>points=CArray.<ST_pointf>ALLOC__(10,
 ST_pointf.class );;
-:final ST_pointf tp=new ST_pointf(),hp=new ST_pointf();;
-:int i,pointn;;
-:double stepy,dy;;
+:final ST_pointftp=new ST_pointf(),hp=new ST_pointf();;
+:inti,pointn;;
+:doublestepy,dy;;
 :tp.___(add_pointf(ND_coord(tn),ED_tail_port(e)
 .p));;
 :hp.___(add_pointf(ND_coord(hn),ED_head_port(e)
 .p));;
-:stepy=(cnt>1)? ND_ht(tn)/(double )(cnt-1):0.;;
+:stepy=(cnt>1)? ND_ht(tn)/(double)(cnt-1):0.;;
 :dy=tp.y-((cnt>1)? ND_ht(tn)/2.:0.);;
 :e=edges.get_(ind+i);;
 :pointn=0;;
@@ -814,25 +814,25 @@ endswitch
 end
 start
 note right
-void make_flat_adj_edges(ST_Agraph_s g,ST_path P,
-CArrayOfStar<ST_Agedge_s> edges,int ind,int cnt,
-ST_Agedge_s e0,int et)
+void make_flat_adj_edges(ST_Agraph_sg,ST_pathP,
+CArrayOfStar<ST_Agedge_s>edges,intind,intcnt,
+ST_Agedge_se0,intet)
 end note
 :ENTERING("bhnjospwghq4plid12757c928","make_flat_adj_edges");;
 switch (try/catch block)
 case (try)
-:ST_Agnode_s n;;
-:ST_Agnode_s tn,hn;;
-:ST_Agedge_s e;;
-:int labels=0,ports=0;;
-:ST_Agraph_s auxg;;
-:ST_Agraph_s subg;;
-:ST_Agnode_s auxt,auxh;;
-:ST_Agedge_s auxe;;
-:int i,j,midx,midy,leftx,rightx;;
-:final ST_pointf del=new ST_pointf();;
-:ST_Agedge_s hvye=null ;;
-:__ptr__ attrs;;
+:ST_Agnode_sn;;
+:ST_Agnode_stn,hn;;
+:ST_Agedge_se;;
+:intlabels=0,ports=0;;
+:ST_Agraph_sauxg;;
+:ST_Agraph_ssubg;;
+:ST_Agnode_sauxt,auxh;;
+:ST_Agedge_sauxe;;
+:inti,j,midx,midy,leftx,rightx;;
+:final ST_pointfdel=new ST_pointf();;
+:ST_Agedge_shvye=null ;;
+:__ptr__attrs;;
 :tn=agtail(e0);;
 :hn=aghead(e0);;
 :e=edges.get_(ind+i);;
@@ -957,14 +957,14 @@ endswitch
 end
 start
 note right
-void makeFlatEnd(ST_Agraph_s g,ST_spline_info_t sp,
-ST_path P,ST_Agnode_s n,ST_Agedge_s e,ST_pathend_t endp,
-boolean isBegin)
+void makeFlatEnd(ST_Agraph_sg,ST_spline_info_tsp,
+ST_pathP,ST_Agnode_sn,ST_Agedge_se,ST_pathend_tendp,
+booleanisBegin)
 end note
 :ENTERING("fybar4mljnmkh3kure5k1eod","makeFlatEnd");;
 switch (try/catch block)
 case (try)
-:final ST_boxf b=new ST_boxf();;
+:final ST_boxfb=new ST_boxf();;
 :b.___(maximal_bbox(g,sp,n,null ,e));;
 :endp.nb.___(b);;
 :endp.sidemask=(1<<2);;
@@ -975,7 +975,7 @@ else (no)
 endif 
 :b.UR.y=endp.boxes[endp.boxn[0]-1].UR.y;;
 :b.LL.y=endp.boxes[endp.boxn[0]-1].LL.y;;
-:b.___(makeregularend((ST_boxf )b,(1<<2),ND_coord(n).y+
+:b.___(makeregularend((ST_boxf)b,(1<<2),ND_coord(n).y+
 GD_rank(g).get__(ND_rank(n)).ht2));;
 if (b.LL.x<b.UR.x&&b.LL.y<b.UR.y) then (yes) 
 :UNSUPPORTED("cmjm4y40vf7wklmgz0ae4k36v");;
@@ -984,22 +984,22 @@ endswitch
 end
 start
 note right
-void make_flat_labeled_edge(ST_Agraph_s g,
-ST_spline_info_t sp,ST_path P,ST_Agedge_s e,
-int et)
+void make_flat_labeled_edge(ST_Agraph_sg,
+ST_spline_info_tsp,ST_pathP,ST_Agedge_se,
+intet)
 end note
 :ENTERING("w8ptjibydq995d2lexg85mku","make_flat_labeled_edge");;
 switch (try/catch block)
 case (try)
-:ST_Agnode_s tn,hn,ln;;
-:CArray<ST_pointf> ps=null ;;
-:final ST_pathend_t tend=new ST_pathend_t(),
+:ST_Agnode_stn,hn,ln;;
+:CArray<ST_pointf>ps=null ;;
+:final ST_pathend_ttend=new ST_pathend_t(),
 hend=new ST_pathend_t();;
-:final ST_boxf lb=new ST_boxf();;
-:int boxn,i,ydelta;;
-:int pn[]=new int[1];;
-:ST_Agedge_s f;;
-:final CArray<ST_pointf> points=CArray.<ST_pointf >ALLOC__(7,
+:final ST_boxflb=new ST_boxf();;
+:intboxn,i,ydelta;;
+:intpn[]=new int[1];;
+:ST_Agedge_sf;;
+:final CArray<ST_pointf>points=CArray.<ST_pointf>ALLOC__(7,
 ST_pointf.class );;
 :tn=agtail(e);;
 :hn=aghead(e);;
@@ -1022,9 +1022,9 @@ else (no)
 :lb.LL.x=ND_coord(ln).x-ND_lw(ln);;
 :lb.UR.x=ND_coord(ln).x+ND_rw(ln);;
 :lb.UR.y=ND_coord(ln).y+ND_ht(ln)/2;;
-:ydelta=(int )(ND_coord(ln).y-GD_rank(g).get__(ND_rank(tn)).ht1-ND_coord(tn).y+
+:ydelta=(int)(ND_coord(ln).y-GD_rank(g).get__(ND_rank(tn)).ht1-ND_coord(tn).y+
 GD_rank(g).get__(ND_rank(tn)).ht2);;
-:ydelta=(int )(ydelta/6.);;
+:ydelta=(int)(ydelta/6.);;
 :lb.LL.y=lb.UR.y-MAX(5.,ydelta);;
 :boxn=0;;
 :makeFlatEnd(g,sp,P,tn,e,tend,true);;
@@ -1063,7 +1063,7 @@ endswitch
 end
 start
 note right
-Object make_flat_bottom_edges(Object ... arg_)
+Objectmake_flat_bottom_edges(Object... arg_)
 end note
 :UNSUPPORTED("e2z2o5ybnr5tgpkt8ty7hwan1");;
 :UNSUPPORTED("bkp39vt080is6iiqobsw59sk9");;
@@ -1129,30 +1129,30 @@ stop
 end
 start
 note right
-void make_flat_edge(ST_Agraph_s g,ST_spline_info_t sp,
-ST_path P,CArrayOfStar<ST_Agedge_s> edges,
-int ind,int cnt,int et)
+void make_flat_edge(ST_Agraph_sg,ST_spline_info_tsp,
+ST_pathP,CArrayOfStar<ST_Agedge_s>edges,intind,
+intcnt,intet)
 end note
 :ENTERING("6yr3jfkljl5w0z6dv354ryx63","make_flat_edge");;
 switch (try/catch block)
 case (try)
-:ST_Agnode_s tn,hn;;
-:final ST_Agedgeinfo_t fwdedgei=new ST_Agedgeinfo_t();;
-:final ST_Agedgepair_s fwdedge=new ST_Agedgepair_s();;
-:ST_Agedge_s e;;
-:int j,i,r,isAdjacent;;
-:double stepx,stepy,vspace;;
-:int tside,hside;;
-:int pn[]=new int[]{0};;
-:CArray<ST_pointf> ps;;
-:final ST_pathend_t tend=new ST_pathend_t(),
+:ST_Agnode_stn,hn;;
+:final ST_Agedgeinfo_tfwdedgei=new ST_Agedgeinfo_t();;
+:final ST_Agedgepair_sfwdedge=new ST_Agedgepair_s();;
+:ST_Agedge_se;;
+:intj,i,r,isAdjacent;;
+:doublestepx,stepy,vspace;;
+:inttside,hside;;
+:intpn[]=new int[]{0};;
+:CArray<ST_pointf>ps;;
+:final ST_pathend_ttend=new ST_pathend_t(),
 hend=new ST_pathend_t();;
 :fwdedge.out.base.data=fwdedgei;;
 :e=edges.get_(ind);;
 :isAdjacent=ED_adjacent(e);;
 if ((ED_tree_index(e)&32)!=0) then (yes) 
 :MAKEFWDEDGE(fwdedge.out,e);;
-:e=(ST_Agedge_s )fwdedge.out;;
+:e=(ST_Agedge_s)fwdedge.out;;
 endif 
 if (ED_adjacent(edges.get_(ind+i))!=0) then (yes) 
 :isAdjacent=1;;
@@ -1187,7 +1187,7 @@ endif
 :hn=aghead(e);;
 :r=ND_rank(tn);;
 if (r>0) then (yes) 
-:CArray<ST_rank_t> prevr;;
+:CArray<ST_rank_t>prevr;;
 if ((GD_has_labels(g)&(1<<0))!=0) then (yes) 
 :prevr=GD_rank(g).plus_(r-2);;
 else (no)
@@ -1201,8 +1201,8 @@ endif
 :(cnt+1);;
 :makeFlatEnd(g,sp,P,tn,e,tend,true);;
 :makeFlatEnd(g,sp,P,hn,e,hend,false);;
-:int boxn;;
-:final ST_boxf b=new ST_boxf();;
+:intboxn;;
+:final ST_boxfb=new ST_boxf();;
 :e=edges.get_(ind+i);;
 :boxn=0;;
 :b.___(tend.boxes[tend.boxn[0]-1]);;
@@ -1246,8 +1246,8 @@ endswitch
 end
 start
 note right
-int makeLineEdge(ST_Agraph_s g,ST_Agedge_s fe,
-__ptr__ points,__ptr__ hp)
+intmakeLineEdge(ST_Agraph_sg,ST_Agedge_sfe,
+__ptr__points,__ptr__hp)
 end note
 :ENTERING("2n9bpvx34fnukqu1f9u4v7v6n","makeLineEdge");;
 switch (try/catch block)
@@ -1316,34 +1316,34 @@ endswitch
 end
 start
 note right
-void make_regular_edge(ST_Agraph_s g,ST_spline_info_t sp,
-ST_path P,CArrayOfStar<ST_Agedge_s> edges,
-int ind,int cnt,int et)
+void make_regular_edge(ST_Agraph_sg,ST_spline_info_tsp,
+ST_pathP,CArrayOfStar<ST_Agedge_s>edges,intind,
+intcnt,intet)
 end note
 :ENTERING("30wfq1dby4t07hft9io52nq6z","make_regular_edge");;
 switch (try/catch block)
 case (try)
-:ST_Agnode_s tn,hn=null ;;
-:final ST_Agedgeinfo_t fwdedgeai=new ST_Agedgeinfo_t(),
+:ST_Agnode_stn,hn=null ;;
+:final ST_Agedgeinfo_tfwdedgeai=new ST_Agedgeinfo_t(),
 fwdedgebi=new ST_Agedgeinfo_t(),fwdedgei=new ST_Agedgeinfo_t();;
-:final ST_Agedgepair_s fwdedgea=new ST_Agedgepair_s(),
+:final ST_Agedgepair_sfwdedgea=new ST_Agedgepair_s(),
 fwdedgeb=new ST_Agedgepair_s(),fwdedge=new ST_Agedgepair_s();;
-:ST_Agedge_s e,fe,le,segfirst;;
-:CArray<ST_pointf> ps=null ;;
-:final ST_pathend_t tend=new ST_pathend_t(),
+:ST_Agedge_se,fe,le,segfirst;;
+:CArray<ST_pointf>ps=null ;;
+:final ST_pathend_ttend=new ST_pathend_t(),
 hend=new ST_pathend_t();;
-:final ST_boxf b=new ST_boxf();;
-:int boxn,sl,si,i,j,dx,hackflag,longedge;;
-:boolean smode;;
-:int pn[]=new int[]{0};;
-:int pointn[]=new int[]{0};;
+:final ST_boxfb=new ST_boxf();;
+:intboxn,sl,si,i,j,dx,hackflag,longedge;;
+:booleansmode;;
+:intpn[]=new int[]{0};;
+:intpointn[]=new int[]{0};;
 :fwdedgea.out.base.data=fwdedgeai;;
 :fwdedgeb.out.base.data=fwdedgebi;;
 :fwdedge.out.base.data=fwdedgei;;
 if (N(Z.z().pointfs)) then (yes) 
-:Z.z().pointfs=CArray.<ST_pointf >ALLOC__(NUMPTS,
+:Z.z().pointfs=CArray.<ST_pointf>ALLOC__(NUMPTS,
 ST_pointf.class );;
-:Z.z().pointfs2=CArray.<ST_pointf >ALLOC__(NUMPTS,
+:Z.z().pointfs2=CArray.<ST_pointf>ALLOC__(NUMPTS,
 ST_pointf.class );;
 :Z.z().numpts=NUMPTS;;
 :Z.z().numpts2=NUMPTS;;
@@ -1384,7 +1384,7 @@ endif
 :fe=e;;
 if ((et==ET_LINE)&&(pointn[0]=makeLineEdge(g,fe,Z.z().pointfs,hn.unsupported()))!=0) then (yes) 
 else (no)
-:boolean splines=(et==ET_SPLINE);;
+:booleansplines=(et==ET_SPLINE);;
 :boxn=0;;
 :pointn[0]=0;;
 :segfirst=e;;
@@ -1403,7 +1403,7 @@ endif
 :longedge=0;;
 :smode=false;;
 :si=-1;;
-while (ND_node_type(hn)==VIRTUAL&&N(((Boolean )Z.z().sinfo.splineMerge.exe(hn)).booleanValue()))
+while (ND_node_type(hn)==VIRTUAL&&N(((Boolean)Z.z().sinfo.splineMerge.exe(hn)).booleanValue()))
 :longedge=1;;
 :Z.z().boxes[boxn++].___(rank_box(sp,g,ND_rank(tn)));;
 if (N(smode)&&((sl=straight_len(hn))>=((GD_has_labels(g)&EDGE_LABEL)!=0? 4+1:2+1))) then (yes) 
@@ -1451,14 +1451,14 @@ if (pointn[0]+pn[0]>Z.z().numpts) then (yes)
 :UNSUPPORTED("8kbxhk7qirj3tr7hn1ukwar3h");;
 endif 
 :Z.z().pointfs.get__(pointn[0]++).___(ps.get__(i));;
-:e=straight_path((ST_Agedge_s )ND_out(hn).list.get_(0),
+:e=straight_path((ST_Agedge_s)ND_out(hn).list.get_(0),
 sl,Z.z().pointfs,pointn);;
 :recover_slack(segfirst,P);;
 :segfirst=e;;
 :tn=agtail(e);;
 :hn=aghead(e);;
 :boxn=0;;
-:tend.nb.___(maximal_bbox(g,sp,tn,(ST_Agedge_s )ND_in(tn).list.get_(0),
+:tend.nb.___(maximal_bbox(g,sp,tn,(ST_Agedge_s)ND_in(tn).list.get_(0),
 e));;
 :beginpath(P,e,1,tend,spline_merge(tn));;
 :b.___(makeregularend(tend.boxes[tend.boxn[0]-1],
@@ -1473,7 +1473,7 @@ endwhile
 :Z.z().boxes[boxn++].___(rank_box(sp,g,ND_rank(tn)));;
 :b.___(maximal_bbox(g,sp,hn,e,null ));;
 :hend.nb.___(b);;
-:endpath(P,(ST_Agedge_s )(hackflag!=0? fwdedgeb.out:e),
+:endpath(P,(ST_Agedge_s)(hackflag!=0? fwdedgeb.out:e),
 1,hend,spline_merge(aghead(e)));;
 :b.UR.y=hend.boxes[hend.boxn[0]-1].UR.y;;
 :b.LL.y=hend.boxes[hend.boxn[0]-1].LL.y;;
@@ -1538,18 +1538,18 @@ endswitch
 end
 start
 note right
-void completeregularpath(ST_path P,ST_Agedge_s first,
-ST_Agedge_s last,ST_pathend_t tendp,ST_pathend_t hendp,
-ST_boxf[] boxes,int boxn,int flag)
+void completeregularpath(ST_pathP,ST_Agedge_sfirst,
+ST_Agedge_slast,ST_pathend_ttendp,ST_pathend_thendp,
+ST_boxf[]boxes,intboxn,intflag)
 end note
 :ENTERING("va61hggynvb6z6j34w7otmab","completeregularpath");;
 switch (try/catch block)
 case (try)
-:ST_Agedge_s uleft,uright,lleft,lright;;
-:int i,fb,lb;;
-:ST_splines spl;;
-:CArray<ST_pointf> pp;;
-:int pn;;
+:ST_Agedge_suleft,uright,lleft,lright;;
+:inti,fb,lb;;
+:ST_splinesspl;;
+:CArray<ST_pointf>pp;;
+:intpn;;
 :fb=lb=-1;;
 :uleft=uright=null ;;
 :uleft=top_bound(first,-1);;
@@ -1599,8 +1599,8 @@ endswitch
 end
 start
 note right
-ST_boxf makeregularend(final ST_boxf b,int side,
-double y)
+ST_boxfmakeregularend(final ST_boxfb,intside,
+doubley)
 end note
 :return makeregularend_w_(b.copy(),side,y)
 .copy();;
@@ -1608,13 +1608,13 @@ stop
 end
 start
 note right
-ST_boxf makeregularend_w_(final ST_boxf b,
-int side,double y)
+ST_boxfmakeregularend_w_(final ST_boxfb,intside,
+doubley)
 end note
 :ENTERING("3wwhczhpkcnflwr1l9wcga7tq","makeregularend");;
 switch (try/catch block)
 case (try)
-:final ST_boxf newb=new ST_boxf();;
+:final ST_boxfnewb=new ST_boxf();;
 switch (switch side)
 endswitch
 :return newb;;
@@ -1623,29 +1623,29 @@ endswitch
 end
 start
 note right
-void adjustregularpath(ST_path P,int fb,int lb)
+void adjustregularpath(ST_pathP,intfb,intlb)
 end note
 :ENTERING("88xrlzjovkxcnay9b2y5zyiid","adjustregularpath");;
 switch (try/catch block)
 case (try)
-:ST_boxf bp1,bp2;;
-:int i,x;;
-:bp1=(ST_boxf )P.boxes[i];;
+:ST_boxfbp1,bp2;;
+:inti,x;;
+:bp1=(ST_boxf)P.boxes[i];;
 if ((i-fb)%2==0) then (yes) 
 if (bp1.LL.x>=bp1.UR.x) then (yes) 
-:x=(int )((bp1.LL.x+bp1.UR.x)/2);;
+:x=(int)((bp1.LL.x+bp1.UR.x)/2);;
 :bp1.LL.x=x-8;;
 :bp1.UR.x=x+8;;
 endif 
 else (no)
 if (bp1.LL.x+16>bp1.UR.x) then (yes) 
-:x=(int )((bp1.LL.x+bp1.UR.x)/2);;
+:x=(int)((bp1.LL.x+bp1.UR.x)/2);;
 :bp1.LL.x=x-8;;
 :bp1.UR.x=x+8;;
 endif 
 endif 
-:bp1=(ST_boxf )P.boxes[i];;
-:bp2=(ST_boxf )P.boxes[i+1];;
+:bp1=(ST_boxf)P.boxes[i];;
+:bp2=(ST_boxf)P.boxes[i+1];;
 if (i>=fb&&i<=lb&&(i-fb)%2==0) then (yes) 
 if (bp1.LL.x+16>bp2.UR.x) then (yes) 
 :bp2.UR.x=bp1.LL.x+16;;
@@ -1665,26 +1665,26 @@ endswitch
 end
 start
 note right
-ST_boxf rank_box(ST_spline_info_t sp,ST_Agraph_s g,
-int r)
+ST_boxfrank_box(ST_spline_info_tsp,ST_Agraph_sg,
+intr)
 end note
 :return rank_box_w_(sp,g,r).copy();;
 stop
 end
 start
 note right
-ST_boxf rank_box_w_(ST_spline_info_t sp,ST_Agraph_s g,
-int r)
+ST_boxfrank_box_w_(ST_spline_info_tsp,ST_Agraph_sg,
+intr)
 end note
 :ENTERING("bajn5vx0isu427n6dh131b985","rank_box");;
 switch (try/catch block)
 case (try)
-:final ST_boxf b=new ST_boxf();;
-:ST_Agnode_s left0,left1;;
+:final ST_boxfb=new ST_boxf();;
+:ST_Agnode_sleft0,left1;;
 :b.___(sp.Rank_box[r]);;
 if (b.LL.x==b.UR.x) then (yes) 
-:left0=(ST_Agnode_s )GD_rank(g).get__(r).v.get_(0);;
-:left1=(ST_Agnode_s )GD_rank(g).get__(r+1)
+:left0=(ST_Agnode_s)GD_rank(g).get__(r).v.get_(0);;
+:left1=(ST_Agnode_s)GD_rank(g).get__(r+1)
 .v.get_(0);;
 :b.LL.x=sp.LeftBound;;
 :b.LL.y=ND_coord(left1).y+GD_rank(g).get__(r+
@@ -1700,16 +1700,16 @@ endswitch
 end
 start
 note right
-int straight_len(ST_Agnode_s n)
+intstraight_len(ST_Agnode_sn)
 end note
 :ENTERING("6qwcnugx2ytjrvi5rgxzyzg5i","straight_len");;
 switch (try/catch block)
 case (try)
-:int cnt=0;;
-:ST_Agnode_s v;;
+:intcnt=0;;
+:ST_Agnode_sv;;
 :v=n;;
 while (true)
-:v=(ST_Agnode_s )aghead(ND_out(v).list.get_(0));;
+:v=(ST_Agnode_s)aghead(ND_out(v).list.get_(0));;
 if (ND_node_type(v)!=1) then (yes) 
 :break ;;
 endif 
@@ -1727,16 +1727,16 @@ endswitch
 end
 start
 note right
-ST_Agedge_s straight_path(ST_Agedge_s e,int cnt,
-CArray<ST_pointf> plist,int[] np)
+ST_Agedge_sstraight_path(ST_Agedge_se,intcnt,
+CArray<ST_pointf>plist,int[]np)
 end note
 :ENTERING("15pgjjuil2c1rjldu29j07gbz","straight_path");;
 switch (try/catch block)
 case (try)
-:int n=np[0];;
-:ST_Agedge_s f=e;;
+:intn=np[0];;
+:ST_Agedge_sf=e;;
 while ((cnt- -)!=0)
-:f=(ST_Agedge_s )ND_out(aghead(f)).list.get_(0);;
+:f=(ST_Agedge_s)ND_out(aghead(f)).list.get_(0);;
 endwhile
 :plist.get__(np[0]++).___(plist.get__(n-1));;
 :plist.get__(np[0]++).___(plist.get__(n-1));;
@@ -1747,13 +1747,13 @@ endswitch
 end
 start
 note right
-void recover_slack(ST_Agedge_s e,ST_path p)
+void recover_slack(ST_Agedge_se,ST_pathp)
 end note
 :ENTERING("4ilkzqtegd5uffawb4qcjthu1","recover_slack");;
 switch (try/catch block)
 case (try)
-:int b;;
-:ST_Agnode_s vn;;
+:intb;;
+:ST_Agnode_svn;;
 :b=0;;
 while ((b<p.nbox)&&(p.boxes[b].LL.y>ND_coord(vn).y))
 :b++;;
@@ -1765,18 +1765,18 @@ if (p.boxes[b].UR.y<ND_coord(vn).y) then (yes)
 :continue ;;
 endif 
 if (ND_label(vn)!=null ) then (yes) 
-:resize_vn(vn,(int )p.boxes[b].LL.x,(int )p.boxes[b].UR.x,(int )(p.boxes[b].UR.x+
+:resize_vn(vn,(int)p.boxes[b].LL.x,(int)p.boxes[b].UR.x,(int)(p.boxes[b].UR.x+
 ND_rw(vn)));;
 else (no)
-:resize_vn(vn,(int )p.boxes[b].LL.x,(int )((p.boxes[b].LL.x+
-p.boxes[b].UR.x)/2),(int )p.boxes[b].UR.x);;
+:resize_vn(vn,(int)p.boxes[b].LL.x,(int)((p.boxes[b].LL.x+
+p.boxes[b].UR.x)/2),(int)p.boxes[b].UR.x);;
 endif 
 endswitch
 end
 start
 note right
-void resize_vn(ST_Agnode_s vn,int lx,int cx,
-int rx)
+void resize_vn(ST_Agnode_svn,intlx,intcx,
+intrx)
 end note
 :ENTERING("3vmg1q1r0eb14etvjdk4cukpd","resize_vn");;
 switch (try/catch block)
@@ -1788,13 +1788,13 @@ endswitch
 end
 start
 note right
-ST_Agedge_s top_bound(ST_Agedge_s e,int side)
+ST_Agedge_stop_bound(ST_Agedge_se,intside)
 end note
 :ENTERING("9t0v5wicmjuc3ij9hko6iawle","top_bound");;
 switch (try/catch block)
 case (try)
-:ST_Agedge_s f,ans=null ;;
-:int i;;
+:ST_Agedge_sf,ans=null ;;
+:inti;;
 if (side*(ND_order(aghead(f))-ND_order(aghead(e)))<=0) then (yes) 
 :continue ;;
 endif 
@@ -1810,13 +1810,13 @@ endswitch
 end
 start
 note right
-ST_Agedge_s bot_bound(ST_Agedge_s e,int side)
+ST_Agedge_sbot_bound(ST_Agedge_se,intside)
 end note
 :ENTERING("9fsg0uiyhtrayd4mimmc0i25e","bot_bound");;
 switch (try/catch block)
 case (try)
-:ST_Agedge_s f,ans=null ;;
-:int i;;
+:ST_Agedge_sf,ans=null ;;
+:inti;;
 if (side*(ND_order(agtail(f))-ND_order(agtail(e)))<=0) then (yes) 
 :continue ;;
 endif 
@@ -1832,27 +1832,27 @@ endswitch
 end
 start
 note right
-boolean cl_vninside(ST_Agraph_s cl,ST_Agnode_s n)
+booleancl_vninside(ST_Agraph_scl,ST_Agnode_sn)
 end note
 :ENTERING("65uvkv1mextaah5m997ibe3qs","cl_vninside");;
 switch (try/catch block)
 case (try)
-:return (BETWEEN(GD_bb(cl).LL.x,(double )(ND_coord(n).x),
-GD_bb(cl).UR.x)&&BETWEEN(GD_bb(cl).LL.y,(double )(ND_coord(n).y),
+:return (BETWEEN(GD_bb(cl).LL.x,(double)(ND_coord(n).x),
+GD_bb(cl).UR.x)&&BETWEEN(GD_bb(cl).LL.y,(double)(ND_coord(n).y),
 GD_bb(cl).UR.y));;
 stop
 endswitch
 end
 start
 note right
-ST_Agraph_s cl_bound(ST_Agraph_s g,ST_Agnode_s n,
-ST_Agnode_s adj)
+ST_Agraph_scl_bound(ST_Agraph_sg,ST_Agnode_sn,
+ST_Agnode_sadj)
 end note
 :ENTERING("dzvvmxkya868w5x78lkvchigk","cl_bound");;
 switch (try/catch block)
 case (try)
-:ST_Agraph_s rv,cl,tcl,hcl;;
-:ST_Agedge_s orig;;
+:ST_Agraph_srv,cl,tcl,hcl;;
+:ST_Agedge_sorig;;
 :rv=null ;;
 if (ND_node_type(n)==0) then (yes) 
 :tcl=hcl=ND_clust(n);;
@@ -1884,35 +1884,35 @@ endswitch
 end
 start
 note right
-ST_boxf maximal_bbox(ST_Agraph_s g,ST_spline_info_t sp,
-ST_Agnode_s vn,ST_Agedge_s ie,ST_Agedge_s oe)
+ST_boxfmaximal_bbox(ST_Agraph_sg,ST_spline_info_tsp,
+ST_Agnode_svn,ST_Agedge_sie,ST_Agedge_soe)
 end note
 :return maximal_bbox_w_(g,sp,vn,ie,oe).copy();;
 stop
 end
 start
 note right
-ST_boxf maximal_bbox_w_(ST_Agraph_s g,ST_spline_info_t sp,
-ST_Agnode_s vn,ST_Agedge_s ie,ST_Agedge_s oe)
+ST_boxfmaximal_bbox_w_(ST_Agraph_sg,ST_spline_info_tsp,
+ST_Agnode_svn,ST_Agedge_sie,ST_Agedge_soe)
 end note
 :ENTERING("6qwgl36ugfnduc5x59ohuewv1","maximal_bbox");;
 switch (try/catch block)
 case (try)
-:double b,nb;;
-:ST_Agraph_s left_cl,right_cl;;
-:ST_Agnode_s left,right;;
-:final ST_boxf rv=new ST_boxf();;
+:doubleb,nb;;
+:ST_Agraph_sleft_cl,right_cl;;
+:ST_Agnode_sleft,right;;
+:final ST_boxfrv=new ST_boxf();;
 :left_cl=right_cl=null ;;
-:b=(double )(ND_coord(vn).x-ND_lw(vn)-FUDGE);;
+:b=(double)(ND_coord(vn).x-ND_lw(vn)-FUDGE);;
 if ((left=neighbor(g,vn,ie,oe,-1))!=null ) then (yes) 
 if ((left_cl=cl_bound(g,vn,left))!=null ) then (yes) 
-:nb=GD_bb(left_cl).UR.x+(double )(sp.Splinesep);;
+:nb=GD_bb(left_cl).UR.x+(double)(sp.Splinesep);;
 else (no)
-:nb=(double )(ND_coord(left).x+ND_mval(left));;
+:nb=(double)(ND_coord(left).x+ND_mval(left));;
 if (ND_node_type(left)==NORMAL) then (yes) 
 :nb+=GD_nodesep(g)/2.;;
 else (no)
-:nb+=(double )(sp.Splinesep);;
+:nb+=(double)(sp.Splinesep);;
 endif 
 endif 
 if (nb<b) then (yes) 
@@ -1923,19 +1923,19 @@ else (no)
 :rv.LL.x=MIN(ROUND(b),sp.LeftBound);;
 endif 
 if ((ND_node_type(vn)==VIRTUAL)&&(ND_label(vn)!=null )) then (yes) 
-:b=(double )(ND_coord(vn).x+10);;
+:b=(double)(ND_coord(vn).x+10);;
 else (no)
-:b=(double )(ND_coord(vn).x+ND_rw(vn)+FUDGE);;
+:b=(double)(ND_coord(vn).x+ND_rw(vn)+FUDGE);;
 endif 
 if ((right=neighbor(g,vn,ie,oe,1))!=null ) then (yes) 
 if ((right_cl=cl_bound(g,vn,right))!=null ) then (yes) 
-:nb=GD_bb(right_cl).LL.x-(double )(sp.Splinesep);;
+:nb=GD_bb(right_cl).LL.x-(double)(sp.Splinesep);;
 else (no)
 :nb=ND_coord(right).x-ND_lw(right);;
 if (ND_node_type(right)==NORMAL) then (yes) 
 :nb-=GD_nodesep(g)/2.;;
 else (no)
-:nb-=(double )(sp.Splinesep);;
+:nb-=(double)(sp.Splinesep);;
 endif 
 endif 
 if (nb>b) then (yes) 
@@ -1961,15 +1961,15 @@ endswitch
 end
 start
 note right
-ST_Agnode_s neighbor(ST_Agraph_s g,ST_Agnode_s vn,
-ST_Agedge_s ie,ST_Agedge_s oe,int dir)
+ST_Agnode_sneighbor(ST_Agraph_sg,ST_Agnode_svn,
+ST_Agedge_sie,ST_Agedge_soe,intdir)
 end note
 :ENTERING("18pm6r3xcy90f0xi5hpm9jdhk","neighbor");;
 switch (try/catch block)
 case (try)
-:int i;;
-:ST_Agnode_s n,rv=null ;;
-:CArray<ST_rank_t> rank=GD_rank(g).plus_(ND_rank(vn));;
+:inti;;
+:ST_Agnode_sn,rv=null ;;
+:CArray<ST_rank_t>rank=GD_rank(g).plus_(ND_rank(vn));;
 :n=rank.get__(0).v.get_(i);;
 if ((ND_node_type(n)==1)&&(ND_label(n)!=null )) then (yes) 
 :rv=n;;
@@ -1989,16 +1989,16 @@ endswitch
 end
 start
 note right
-boolean pathscross(ST_Agnode_s n0,ST_Agnode_s n1,
-ST_Agedge_s ie1,ST_Agedge_s oe1)
+booleanpathscross(ST_Agnode_sn0,ST_Agnode_sn1,
+ST_Agedge_sie1,ST_Agedge_soe1)
 end note
 :ENTERING("f4q0oqe165s9pl5k0th5noeyv","pathscross");;
 switch (try/catch block)
 case (try)
-:ST_Agedge_s e0,e1;;
-:ST_Agnode_s na,nb;;
-:boolean order;;
-:int cnt;;
+:ST_Agedge_se0,e1;;
+:ST_Agnode_sna,nb;;
+:booleanorder;;
+:intcnt;;
 :order=(ND_order(n0)>ND_order(n1));;
 if ((ND_out(n0).size!=1)&&(ND_out(n0).size!=1)) then (yes) 
 :return false;;
@@ -2006,7 +2006,7 @@ stop
 endif 
 :e1=oe1;;
 if (ND_out(n0).size==1&&e1!=null ) then (yes) 
-:e0=(ST_Agedge_s )ND_out(n0).list.get_(0);;
+:e0=(ST_Agedge_s)ND_out(n0).list.get_(0);;
 if (EQ(na=aghead(e0),nb=aghead(e1))) then (yes) 
 :break ;;
 endif 
@@ -2017,15 +2017,15 @@ endif
 if ((ND_out(na).size!=1)||(ND_node_type(na)==0)) then (yes) 
 :break ;;
 endif 
-:e0=(ST_Agedge_s )ND_out(na).list.get_(0);;
+:e0=(ST_Agedge_s)ND_out(na).list.get_(0);;
 if ((ND_out(nb).size!=1)||(ND_node_type(nb)==0)) then (yes) 
 :break ;;
 endif 
-:e1=(ST_Agedge_s )ND_out(nb).list.get_(0);;
+:e1=(ST_Agedge_s)ND_out(nb).list.get_(0);;
 endif 
 :e1=ie1;;
 if (ND_in(n0).size==1&&e1!=null ) then (yes) 
-:e0=(ST_Agedge_s )ND_in(n0).list.get_(0);;
+:e0=(ST_Agedge_s)ND_in(n0).list.get_(0);;
 if (EQ(na=agtail(e0),nb=agtail(e1))) then (yes) 
 :break ;;
 endif 
@@ -2036,11 +2036,11 @@ endif
 if ((ND_in(na).size!=1)||(ND_node_type(na)==0)) then (yes) 
 :break ;;
 endif 
-:e0=(ST_Agedge_s )ND_in(na).list.get_(0);;
+:e0=(ST_Agedge_s)ND_in(na).list.get_(0);;
 if ((ND_in(nb).size!=1)||(ND_node_type(nb)==0)) then (yes) 
 :break ;;
 endif 
-:e1=(ST_Agedge_s )ND_in(nb).list.get_(0);;
+:e1=(ST_Agedge_s)ND_in(nb).list.get_(0);;
 endif 
 :return false;;
 stop

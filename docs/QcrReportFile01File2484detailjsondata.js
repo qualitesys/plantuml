@@ -123,7 +123,7 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#58"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00058] For method canCover arguments int  nbArg|Set&lt;String&gt;  namedArgument"
+ , "c3" : "QC-JAV000006[00058] For method canCover arguments int  nbArg|Set&lt;String &gt;  namedArgument"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -137,7 +137,7 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Size.java.html#62"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00062] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue&gt;  values|Map&lt;String,TValue&gt;  named"
+ , "c3" : "QC-JAV000006[00062] For method executeReturnFunction arguments TContext  context|TMemory  memory|LineLocation  location|List&lt;TValue &gt;  values|Map&lt;String ,TValue &gt;  named"
 }} 
 ,
 { "ligne" : {"" : ""

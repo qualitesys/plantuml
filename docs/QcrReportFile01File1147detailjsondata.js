@@ -588,7 +588,7 @@ var maDataBlocs = {
  , "c1" : "00211"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#211"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00211] For method addDotStatus arguments List&lt;String&gt;  result|boolean  withRichText"
+ , "c3" : "QC-JAV000006[00211] For method addDotStatus arguments List&lt;String &gt;  result|boolean  withRichText"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -411,7 +411,7 @@ var maDataBlocs = {
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#140"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00140] For method isMethod arguments int  i|List&lt;CharSequence&gt;  rawBody"
+ , "c3" : "QC-JAV000006[00140] For method isMethod arguments int  i|List&lt;CharSequence &gt;  rawBody"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -516,7 +516,7 @@ var maDataBlocs = {
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierLikeClassOrObject.java.html#169"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00169] For method removeFinalEmptyMembers arguments List&lt;Member&gt;  result"
+ , "c3" : "QC-JAV000006[00169] For method removeFinalEmptyMembers arguments List&lt;Member &gt;  result"
 }} 
 ,
 { "ligne" : {"" : ""

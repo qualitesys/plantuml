@@ -289,7 +289,7 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/CMapData.java.html#79"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00079] For method cmapString arguments Set&lt;Url&gt;  allUrlEncountered|double  scale"
+ , "c3" : "QC-JAV000006[00079] For method cmapString arguments Set&lt;Url &gt;  allUrlEncountered|double  scale"
 }} 
 ,
 { "ligne" : {"" : ""

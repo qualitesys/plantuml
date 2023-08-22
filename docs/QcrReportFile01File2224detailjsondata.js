@@ -305,14 +305,14 @@ var maDataBlocs = {
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#133"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00133] For method createEntityImageBlock arguments ILeaf  leaf|ISkinParam  skinParam|boolean  isHideEmptyDescriptionForState|PortionShower  portionShower|Bibliotekon  bibliotekon|GraphvizVersion  graphvizVersion|UmlDiagramType  umlDiagramType|Collection&lt;Link&gt;  links"
+ , "c3" : "QC-JAV000006[00133] For method createEntityImageBlock arguments ILeaf  leaf|ISkinParam  skinParam|boolean  isHideEmptyDescriptionForState|PortionShower  portionShower|Bibliotekon  bibliotekon|GraphvizVersion  graphvizVersion|UmlDiagramType  umlDiagramType|Collection&lt;Link &gt;  links"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00142] For method createEntityImageBlockInternal arguments ILeaf  leaf|ISkinParam  skinParam|boolean  isHideEmptyDescriptionForState|PortionShower  portionShower|Bibliotekon  bibliotekon|GraphvizVersion  graphvizVersion|UmlDiagramType  umlDiagramType|Collection&lt;Link&gt;  links"
+ , "c3" : "QC-JAV000006[00142] For method createEntityImageBlockInternal arguments ILeaf  leaf|ISkinParam  skinParam|boolean  isHideEmptyDescriptionForState|PortionShower  portionShower|Bibliotekon  bibliotekon|GraphvizVersion  graphvizVersion|UmlDiagramType  umlDiagramType|Collection&lt;Link &gt;  links"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1061,7 +1061,7 @@ var maDataBlocs = {
  , "c1" : "00520"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GeneralImageBuilder.java.html#520"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000006[00520] For method printEntities arguments DotStringFactory  dotStringFactory|Collection&lt;ILeaf&gt;  entities2"
+ , "c3" : "QC-JAV000006[00520] For method printEntities arguments DotStringFactory  dotStringFactory|Collection&lt;ILeaf &gt;  entities2"
 }} 
 ,
 { "ligne" : {"" : ""
