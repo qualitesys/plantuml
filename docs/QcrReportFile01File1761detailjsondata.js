@@ -109,14 +109,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.SubjectSeparator.toRegex@POLYN164995 the MagicNumber/String  'SUBJECT' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.SubjectSeparator.toRegex@POLYN165587 the MagicNumber/String  'SUBJECT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectSeparator.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.SubjectSeparator.toRegex@POLYN164995 the MagicNumber/String  'separator' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.project.lang.SubjectSeparator.toRegex@POLYN165587 the MagicNumber/String  'separator' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

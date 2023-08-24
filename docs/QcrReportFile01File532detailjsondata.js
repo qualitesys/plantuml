@@ -109,70 +109,70 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  'if' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  'if' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  '\\(' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  '\\(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  'TEST' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  'TEST' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  '(.+?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  '(.+?)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  '\\)' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  '\\)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  'then' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  'then' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  'when' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  'when' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  'WHEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  'WHEN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  '(.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  '(.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN161942 the MagicNumber/String  ';?' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.getRegexConcat@POLYN162534 the MagicNumber/String  ';?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -200,42 +200,42 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN162907 the MagicNumber/String  'TEST' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN163499 the MagicNumber/String  'TEST' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN162907 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN163499 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN162907 the MagicNumber/String  'WHEN' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN163499 the MagicNumber/String  'WHEN' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN162907 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN163499 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN162907 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN163499 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandIfLegacy1.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN162907 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1.executeArg@POLYN163499 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

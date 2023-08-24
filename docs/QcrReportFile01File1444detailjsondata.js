@@ -142,14 +142,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.LinkHtmlPrinter@POLYN180091 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.LinkHtmlPrinter@POLYN180683 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.LinkHtmlPrinter@POLYN180091 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.LinkHtmlPrinter@POLYN180683 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -170,154 +170,154 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  '&amp;lt;i&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  '&amp;lt;i&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  '&amp;lt;/i&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  '&amp;lt;/i&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  '&amp;lt;i&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  '&amp;lt;i&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  '&amp;lt;/i&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  '&amp;lt;/i&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ' (' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ' (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ') ' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ') ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ' (' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ' (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ' (' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ' (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN180626 the MagicNumber/String  '&amp;nbsp;:&amp;nbsp;' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.printLink@POLYN181218 the MagicNumber/String  '&amp;nbsp;:&amp;nbsp;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -331,84 +331,84 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' is linked to ' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' is linked to ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' is extended by ' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' is extended by ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' extends ' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' extends ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' is aggregated by  ' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' is aggregated by  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' aggregates ' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' aggregates ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' is composed by ' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' is composed by ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' composes ' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' composes ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' is navigable from  ' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' is navigable from  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' navigates to  ' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' navigates to  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183283 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtml@POLYN183875 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -422,84 +422,84 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' is linked to ' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' is linked to ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' extends ' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' extends ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' is extended by ' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' is extended by ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' aggregates ' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' aggregates ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' is aggregated by ' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' is aggregated by ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' composes ' should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' composes ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' is composed by ' should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' is composed by ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' navigates to  ' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' navigates to  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' is navigable from  ' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' is navigable from  ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN185467 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.getHtmlChiral@POLYN186059 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -520,21 +520,21 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.htmlLink@POLYN187651 the MagicNumber/String  '&amp;lt;a href=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.htmlLink@POLYN188243 the MagicNumber/String  '&amp;lt;a href=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.htmlLink@POLYN187651 the MagicNumber/String  '\'&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.htmlLink@POLYN188243 the MagicNumber/String  '\'&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.htmlLink@POLYN187651 the MagicNumber/String  '&amp;lt;/a&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.htmlLink@POLYN188243 the MagicNumber/String  '&amp;lt;/a&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -555,21 +555,21 @@ var maDataBlocs = {
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.urlOf@POLYN188311 the MagicNumber/String  '[-\\w_ .]+' should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.urlOf@POLYN188903 the MagicNumber/String  '[-\\w_ .]+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.urlOf@POLYN188311 the MagicNumber/String  '.html' should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.urlOf@POLYN188903 the MagicNumber/String  '.html' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/html/LinkHtmlPrinter.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.urlOf@POLYN188311 the MagicNumber/String  '.html' should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.html.LinkHtmlPrinter.urlOf@POLYN188903 the MagicNumber/String  '.html' should be converted to const"
 }} 
 ]
 , 

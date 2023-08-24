@@ -404,28 +404,28 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.tim.Eater.eatExpression@POLYN202064 the MagicNumber/String  '{' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.tim.Eater.eatExpression@POLYN202656 the MagicNumber/String  '{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.Eater.eatTokenStack@POLYN202723 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.Eater.eatTokenStack@POLYN203315 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.tim.Eater.eatTokenStack@POLYN202723 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.tim.Eater.eatTokenStack@POLYN203315 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.tim.Eater.eatTokenStack@POLYN202723 the MagicNumber/String  'Missing expression' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.tim.Eater.eatTokenStack@POLYN203315 the MagicNumber/String  'Missing expression' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -439,7 +439,7 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.tim.Eater.eatExpressionStopAtColon@POLYN203164 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.tim.Eater.eatExpressionStopAtColon@POLYN203756 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -467,189 +467,189 @@ var maDataBlocs = {
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.tim.Eater.addIntoTokenStack@POLYN203579 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.tim.Eater.addIntoTokenStack@POLYN204171 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.tim.Eater.addIntoTokenStack@POLYN203579 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.tim.Eater.addIntoTokenStack@POLYN204171 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.tim.Eater.eatAndGetQuotedString@POLYN204028 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.tim.Eater.eatAndGetQuotedString@POLYN204620 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.tim.Eater.eatAndGetQuotedString@POLYN204028 the MagicNumber/String  'quote10' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.tim.Eater.eatAndGetQuotedString@POLYN204620 the MagicNumber/String  'quote10' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  'until001' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  'until001' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN204706 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.tim.Eater.eatAndGetOptionalQuotedString@POLYN205298 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.tim.Eater.eatAndGetNumber@POLYN206022 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.tim.Eater.eatAndGetNumber@POLYN206614 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.Eater.eatAndGetNumber@POLYN206022 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.Eater.eatAndGetNumber@POLYN206614 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.Eater.eatAndGetNumber@POLYN206022 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.tim.Eater.eatAndGetNumber@POLYN206614 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.tim.Eater.eatAndGetSpaces@POLYN206598 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.tim.Eater.eatAndGetSpaces@POLYN207190 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.tim.Eater.eatAndGetSpaces@POLYN206598 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.tim.Eater.eatAndGetSpaces@POLYN207190 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.tim.Eater.eatAndGetSpaces@POLYN206598 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.tim.Eater.eatAndGetSpaces@POLYN207190 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.tim.Eater.eatAndGetVarname@POLYN207174 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.tim.Eater.eatAndGetVarname@POLYN207766 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.tim.Eater.eatAndGetVarname@POLYN207174 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.tim.Eater.eatAndGetVarname@POLYN207766 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.tim.Eater.eatAndGetVarname@POLYN207174 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.tim.Eater.eatAndGetVarname@POLYN207766 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.tim.Eater.eatAndGetVarname@POLYN207174 the MagicNumber/String  'a002' should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.tim.Eater.eatAndGetVarname@POLYN207766 the MagicNumber/String  'a002' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.tim.Eater.eatAndGetFunctionName@POLYN207726 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.tim.Eater.eatAndGetFunctionName@POLYN208318 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.tim.Eater.eatAndGetFunctionName@POLYN207726 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.tim.Eater.eatAndGetFunctionName@POLYN208318 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.tim.Eater.eatAndGetFunctionName@POLYN207726 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.tim.Eater.eatAndGetFunctionName@POLYN208318 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.tim.Eater.eatAndGetFunctionName@POLYN207726 the MagicNumber/String  'a003' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.tim.Eater.eatAndGetFunctionName@POLYN208318 the MagicNumber/String  'a003' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -663,35 +663,35 @@ var maDataBlocs = {
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.tim.Eater.peekChar@POLYN208837 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.tim.Eater.peekChar@POLYN209429 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.tim.Eater.matchAffectation@POLYN209096 the MagicNumber/String  '^\\$?[_\\p{L}][_\\p{L}0-9]*\\s*=.*' should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.tim.Eater.matchAffectation@POLYN209688 the MagicNumber/String  '^\\$?[_\\p{L}][_\\p{L}0-9]*\\s*=.*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.tim.Eater.peekCharN2@POLYN209391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.tim.Eater.peekCharN2@POLYN209983 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.tim.Eater.peekCharN2@POLYN209391 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method net.sourceforge.plantuml.tim.Eater.peekCharN2@POLYN209983 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00230"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.tim.Eater.peekCharN2@POLYN209391 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.tim.Eater.peekCharN2@POLYN209983 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -705,7 +705,7 @@ var maDataBlocs = {
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.tim.Eater.checkAndEatChar@POLYN210052 the MagicNumber/String  'a001' should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.tim.Eater.checkAndEatChar@POLYN210644 the MagicNumber/String  'a001' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -719,14 +719,14 @@ var maDataBlocs = {
  , "c1" : "00252"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#252"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.tim.Eater.safeCheckAndEatChar@POLYN210428 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00252] In method net.sourceforge.plantuml.tim.Eater.safeCheckAndEatChar@POLYN211020 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.tim.Eater.safeCheckAndEatChar@POLYN210428 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.tim.Eater.safeCheckAndEatChar@POLYN211020 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -747,7 +747,7 @@ var maDataBlocs = {
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.tim.Eater.checkAndEatChar@POLYN211198 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.tim.Eater.checkAndEatChar@POLYN211790 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -768,7 +768,7 @@ var maDataBlocs = {
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.tim.Eater.addUpToLastLetterOrUnderscoreOrDigit@POLYN211564 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.tim.Eater.addUpToLastLetterOrUnderscoreOrDigit@POLYN212156 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -817,77 +817,77 @@ var maDataBlocs = {
  , "c1" : "00312"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#312"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00312"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#312"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00316"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  'Missing opening parenthesis' should be converted to const"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  'Missing opening parenthesis' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00318"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#318"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00318] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00325"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#325"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00325] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00332"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00335"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#335"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00335] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00337"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#337"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00337] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00338"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#338"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00338] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00341"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN212529 the MagicNumber/String  'Error in function definition' should be converted to const"
+ , "c3" : "QC-JAV000010[00341] In method net.sourceforge.plantuml.tim.Eater.eatDeclareFunction@POLYN213121 the MagicNumber/String  'Error in function definition' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -901,49 +901,49 @@ var maDataBlocs = {
  , "c1" : "00350"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#350"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN214972 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00350] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN215564 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00352"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#352"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN214972 the MagicNumber/String  'r' should be converted to const"
+ , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN215564 the MagicNumber/String  'r' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00353"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#353"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN214972 the MagicNumber/String  'return' should be converted to const"
+ , "c3" : "QC-JAV000010[00353] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN215564 the MagicNumber/String  'return' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00355"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#355"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN214972 the MagicNumber/String  '!return ' should be converted to const"
+ , "c3" : "QC-JAV000010[00355] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN215564 the MagicNumber/String  '!return ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00357"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#357"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN214972 the MagicNumber/String  '!' should be converted to const"
+ , "c3" : "QC-JAV000010[00357] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN215564 the MagicNumber/String  '!' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00358"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#358"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN214972 the MagicNumber/String  '!return' should be converted to const"
+ , "c3" : "QC-JAV000010[00358] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN215564 the MagicNumber/String  '!return' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00360"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#360"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN214972 the MagicNumber/String  '!return ' should be converted to const"
+ , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.tim.Eater.eatDeclareReturnFunctionWithOptionalReturn@POLYN215564 the MagicNumber/String  '!return ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -957,7 +957,7 @@ var maDataBlocs = {
  , "c1" : "00368"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/Eater.java.html#368"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00368] In method net.sourceforge.plantuml.tim.Eater.eatDeclareProcedure@POLYN216244 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00368] In method net.sourceforge.plantuml.tim.Eater.eatDeclareProcedure@POLYN216836 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

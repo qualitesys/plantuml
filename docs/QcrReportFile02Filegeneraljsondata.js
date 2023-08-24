@@ -607,6 +607,7 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml.anim" , "classe":"Animation" , "nbMethodes":"7" , "nbComplexite":"1.86"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.anim" , "classe":"AnimationDecoder" , "nbMethodes":"2" , "nbComplexite":"4.50"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.anim" , "classe":"AnimationScript" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
+' { "namespace":"net.sourceforge.plantuml.ant" , "classe":"CheckZipTask" , "nbMethodes":"8" , "nbComplexite":"1.88"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.ant" , "classe":"PlantUmlTask" , "nbMethodes":"32" , "nbComplexite":"2.38"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.api" , "classe":"CountRate" , "nbMethodes":"8" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.api" , "classe":"INumberAnalyzed" , "nbMethodes":"6" , "nbComplexite":"1.00"} ,' + 
@@ -769,6 +770,7 @@ var mavar =
 ' { "namespace":"net.sourceforge.plantuml.code" , "classe":"Base64Coder" , "nbMethodes":"12" , "nbComplexite":"2.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.code" , "classe":"ByteArray" , "nbMethodes":"6" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.code" , "classe":"Compression" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
+' { "namespace":"net.sourceforge.plantuml.code" , "classe":"CompressionBrotli" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.code" , "classe":"CompressionHuffman" , "nbMethodes":"2" , "nbComplexite":"1.50"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.code" , "classe":"CompressionNone" , "nbMethodes":"2" , "nbComplexite":"1.00"} ,' + 
 ' { "namespace":"net.sourceforge.plantuml.code" , "classe":"CompressionZlib" , "nbMethodes":"3" , "nbComplexite":"2.34"} ,' + 

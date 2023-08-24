@@ -148,7 +148,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core3/HistogramSimple.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.core3.HistogramSimple.getValueAt@POLYN161181 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.project.core3.HistogramSimple.getValueAt@POLYN161773 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

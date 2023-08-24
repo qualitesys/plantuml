@@ -154,84 +154,84 @@ var maDataBlocs = {
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN175660 the MagicNumber/String  'About PlantUML (' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN176252 the MagicNumber/String  'About PlantUML (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN175660 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN176252 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN175660 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN176252 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN175660 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN176252 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN175660 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.swing.AboutWindow.AboutWindow@POLYN176252 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.swing.AboutWindow.getNorthLabel@POLYN176931 the MagicNumber/String  'PlantUML (' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.swing.AboutWindow.getNorthLabel@POLYN177523 the MagicNumber/String  'PlantUML (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.swing.AboutWindow.getNorthLabel@POLYN176931 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.swing.AboutWindow.getNorthLabel@POLYN177523 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.swing.AboutWindow.getNorthLabel@POLYN176931 the MagicNumber/String  20.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.swing.AboutWindow.getNorthLabel@POLYN177523 the MagicNumber/String  20.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.swing.AboutWindow.getSouthLabel@POLYN178059 the MagicNumber/String  'License' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.swing.AboutWindow.getSouthLabel@POLYN178651 the MagicNumber/String  'License' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.swing.AboutWindow.getSouthLabel@POLYN178059 the MagicNumber/String  'OK' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.swing.AboutWindow.getSouthLabel@POLYN178651 the MagicNumber/String  'OK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.swing.AboutWindow.getInfoVersion@POLYN178993 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.swing.AboutWindow.getInfoVersion@POLYN179585 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.swing.AboutWindow.getInfoAuthors@POLYN179363 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.swing.AboutWindow.getInfoAuthors@POLYN179955 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -252,7 +252,7 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.swing.AboutWindow.skip@POLYN179754 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.swing.AboutWindow.skip@POLYN180346 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -266,98 +266,98 @@ var maDataBlocs = {
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  '&amp;lt;html&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  '&amp;lt;html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  '&amp;lt;/b&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/u&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  '&amp;lt;/b&amp;gt;&amp;lt;/i&amp;gt;&amp;lt;/u&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  '&amp;lt;br&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  '&amp;lt;br&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  '&amp;lt;/html&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  'text/html' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  'text/html' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/swing/AboutWindow.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN179966 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.swing.AboutWindow.getJComponent@POLYN180558 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

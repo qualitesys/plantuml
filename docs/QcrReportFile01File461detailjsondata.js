@@ -325,14 +325,14 @@ var maDataBlocs = {
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramNow@POLYN205160 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramNow@POLYN205752 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramNow@POLYN205160 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramNow@POLYN205752 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -374,42 +374,42 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207100 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207692 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207100 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207692 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207100 the MagicNumber/String  'Issue in flashcode generation ' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207692 the MagicNumber/String  'Issue in flashcode generation ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207100 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207692 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207100 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207692 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207100 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramError@POLYN207692 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -430,28 +430,28 @@ var maDataBlocs = {
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramErrorText@POLYN209661 the MagicNumber/String  '\\&amp;lt;/?\\w+?\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramErrorText@POLYN210253 the MagicNumber/String  '\\&amp;lt;/?\\w+?\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramErrorText@POLYN209661 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramErrorText@POLYN210253 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.UmlDiagram.getFlashData@POLYN210398 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.UmlDiagram.getFlashData@POLYN210990 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00211"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.UmlDiagram.getFlashData@POLYN210398 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.UmlDiagram.getFlashData@POLYN210990 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -465,63 +465,63 @@ var maDataBlocs = {
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  'PlantUML (' should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  'PlantUML (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  ') cannot parse result from dot/GraphViz.' should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  ') cannot parse result from dot/GraphViz.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00220"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  'Because dot/GraphViz returns an empty string.' should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  'Because dot/GraphViz returns an empty string.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#223"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00223] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00224"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#224"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00224] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  'GraphViz version used : ' should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  'GraphViz version used : ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00233"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN210697 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.UmlDiagram.getFailureText1@POLYN211289 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -535,28 +535,28 @@ var maDataBlocs = {
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.UmlDiagram.getFailureText2@POLYN212105 the MagicNumber/String  'PlantUML (' should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.UmlDiagram.getFailureText2@POLYN212697 the MagicNumber/String  'PlantUML (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.UmlDiagram.getFailureText2@POLYN212105 the MagicNumber/String  ') has crashed.' should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.UmlDiagram.getFailureText2@POLYN212697 the MagicNumber/String  ') has crashed.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.UmlDiagram.getFailureText2@POLYN212105 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.UmlDiagram.getFailureText2@POLYN212697 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.UmlDiagram.getFailureText2@POLYN212105 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.UmlDiagram.getFailureText2@POLYN212697 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -598,56 +598,56 @@ var maDataBlocs = {
  , "c1" : "00248"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#248"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN212801 the MagicNumber/String  'c:/test.avi' should be converted to const"
+ , "c3" : "QC-JAV000010[00248] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN213393 the MagicNumber/String  'c:/test.avi' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#249"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN212801 the MagicNumber/String  150 should be converted to const"
+ , "c3" : "QC-JAV000010[00249] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN213393 the MagicNumber/String  150 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN212801 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN213393 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN212801 the MagicNumber/String  640 should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN213393 the MagicNumber/String  640 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN212801 the MagicNumber/String  480 should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN213393 the MagicNumber/String  480 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN212801 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN213393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN212801 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN213393 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN212801 the MagicNumber/String  1.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalMjpeg@POLYN213393 the MagicNumber/String  1.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -661,28 +661,28 @@ var maDataBlocs = {
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalPdf@POLYN214237 the MagicNumber/String  'pdf' should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalPdf@POLYN214829 the MagicNumber/String  'pdf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalPdf@POLYN214237 the MagicNumber/String  '.svf' should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalPdf@POLYN214829 the MagicNumber/String  '.svf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalPdf@POLYN214237 the MagicNumber/String  'pdf' should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalPdf@POLYN214829 the MagicNumber/String  'pdf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00272"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#272"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalPdf@POLYN214237 the MagicNumber/String  '.pdf' should be converted to const"
+ , "c3" : "QC-JAV000010[00272] In method net.sourceforge.plantuml.UmlDiagram.exportDiagramInternalPdf@POLYN214829 the MagicNumber/String  '.pdf' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -717,21 +717,21 @@ var maDataBlocs = {
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.UmlDiagram.exportCmap@POLYN215316 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.UmlDiagram.exportCmap@POLYN215908 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.UmlDiagram.exportCmap@POLYN215316 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.UmlDiagram.exportCmap@POLYN215908 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00293"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#293"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.UmlDiagram.exportCmap@POLYN215316 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00293] In method net.sourceforge.plantuml.UmlDiagram.exportCmap@POLYN215908 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -752,112 +752,112 @@ var maDataBlocs = {
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.UmlDiagram.changeName@POLYN216169 the MagicNumber/String  '(?i)\\.\\w{3}$' should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.UmlDiagram.changeName@POLYN216761 the MagicNumber/String  '(?i)\\.\\w{3}$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.UmlDiagram.changeName@POLYN216169 the MagicNumber/String  '.cmapx' should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.UmlDiagram.changeName@POLYN216761 the MagicNumber/String  '.cmapx' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00308"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  'widthwarning' should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  'widthwarning' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00311"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#311"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00311] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00312"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#312"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00312] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00314"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#314"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  '\\d+' should be converted to const"
+ , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  '\\d+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00314"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#314"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00314] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00315"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#315"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00319"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#319"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  'The image is ' should be converted to const"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  'The image is ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00319"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#319"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  ' pixel width. (Warning limit is ' should be converted to const"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  ' pixel width. (Warning limit is ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00319"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#319"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00321"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/UmlDiagram.java.html#321"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00321] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216356 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00321] In method net.sourceforge.plantuml.UmlDiagram.getWarningOrError@POLYN216948 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

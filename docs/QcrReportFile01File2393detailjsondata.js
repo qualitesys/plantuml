@@ -109,21 +109,21 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN156605 the MagicNumber/String  '!definelong' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN157197 the MagicNumber/String  '!definelong' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN156605 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN157197 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/EaterLegacyDefineLong.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN156605 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.tim.EaterLegacyDefineLong.analyze@POLYN157197 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

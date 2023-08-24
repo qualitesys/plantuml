@@ -253,7 +253,7 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.toString@POLYN184777 the MagicNumber/String  'PB' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.toString@POLYN185369 the MagicNumber/String  'PB' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -267,7 +267,7 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.getMaxX@POLYN184995 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.getMaxX@POLYN185587 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -281,7 +281,7 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.getCenterX@POLYN185210 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.getCenterX@POLYN185802 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -295,7 +295,7 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.getHeadHeight@POLYN185425 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.getHeadHeight@POLYN186017 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -323,7 +323,7 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.getTailHeight@POLYN185951 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.getTailHeight@POLYN186543 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -351,56 +351,56 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186292 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186884 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186292 the MagicNumber/String  'setTopStartingY cannot be zero' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186884 the MagicNumber/String  'setTopStartingY cannot be zero' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186292 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186884 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186292 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186884 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186292 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186884 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186292 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186884 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186292 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186884 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186292 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawHeadTailU@POLYN186884 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -421,7 +421,7 @@ var maDataBlocs = {
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawParticipantHead@POLYN188076 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawParticipantHead@POLYN188668 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -442,21 +442,21 @@ var maDataBlocs = {
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLineU22@POLYN188630 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLineU22@POLYN189222 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLineU22@POLYN188630 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLineU22@POLYN189222 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLineU22@POLYN188630 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLineU22@POLYN189222 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -491,14 +491,14 @@ var maDataBlocs = {
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLine@POLYN191014 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLine@POLYN191606 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLine@POLYN191014 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.drawLine@POLYN191606 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -512,7 +512,7 @@ var maDataBlocs = {
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBox.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.magicMargin@POLYN191680 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox.magicMargin@POLYN192272 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

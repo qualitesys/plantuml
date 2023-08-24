@@ -233,14 +233,14 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.asBlockMemberImpl@POLYN203673 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.asBlockMemberImpl@POLYN204265 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.asBlockMemberImpl@POLYN203673 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.asBlockMemberImpl@POLYN204265 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -268,42 +268,42 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN204964 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN205556 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN204964 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN205556 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN204964 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN205556 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN204964 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN205556 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN204964 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN205556 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN204964 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.hasSmallIcon@POLYN205556 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -331,28 +331,28 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.calculateDimension@POLYN205524 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.calculateDimension@POLYN206116 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.calculateDimension@POLYN205524 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.calculateDimension@POLYN206116 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.calculateDimension@POLYN205524 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.calculateDimension@POLYN206116 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.calculateDimension@POLYN205524 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.calculateDimension@POLYN206116 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -366,7 +366,7 @@ var maDataBlocs = {
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.sortBySize@POLYN206568 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.sortBySize@POLYN207160 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,14 +401,14 @@ var maDataBlocs = {
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getPorts@POLYN207393 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getPorts@POLYN207985 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getPorts@POLYN207393 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getPorts@POLYN207985 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -429,7 +429,7 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.convert@POLYN208521 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.convert@POLYN209113 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -443,14 +443,14 @@ var maDataBlocs = {
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getElected@POLYN208814 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getElected@POLYN209406 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getElected@POLYN208814 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getElected@POLYN209406 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -471,35 +471,35 @@ var maDataBlocs = {
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209313 the MagicNumber/String  '.*\\b' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209905 the MagicNumber/String  '.*\\b' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209313 the MagicNumber/String  '\\b.*' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209905 the MagicNumber/String  '\\b.*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209313 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209905 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209313 the MagicNumber/String  50 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209905 the MagicNumber/String  50 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209313 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getScore@POLYN209905 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -520,21 +520,21 @@ var maDataBlocs = {
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.createTextBlock@POLYN209712 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.createTextBlock@POLYN210304 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.createTextBlock@POLYN209712 the MagicNumber/String  '#' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.createTextBlock@POLYN210304 the MagicNumber/String  '#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.createTextBlock@POLYN209712 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.createTextBlock@POLYN210304 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -555,14 +555,14 @@ var maDataBlocs = {
  , "c1" : "00235"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#235"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.TextBlockTracer.drawU@POLYN212029 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00235] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.TextBlockTracer.drawU@POLYN212621 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.TextBlockTracer.drawU@POLYN212029 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.TextBlockTracer.drawU@POLYN212621 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -590,42 +590,42 @@ var maDataBlocs = {
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN212877 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN213469 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN212877 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN213469 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN212877 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN213469 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00270"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#270"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN212877 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00270] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN213469 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN212877 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN213469 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00281"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#281"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN212877 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getUBlock@POLYN213469 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -653,21 +653,21 @@ var maDataBlocs = {
  , "c1" : "00288"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#288"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.contains@POLYN214437 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00288] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.contains@POLYN215029 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00289"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#289"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.contains@POLYN214437 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00289] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.contains@POLYN215029 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.contains@POLYN214437 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.contains@POLYN215029 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -730,21 +730,21 @@ var maDataBlocs = {
  , "c1" : "00306"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#306"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getLayout@POLYN215357 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00306] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getLayout@POLYN215949 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getLayout@POLYN215357 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getLayout@POLYN215949 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/MethodsOrFieldsArea.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getLayout@POLYN215357 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea.getLayout@POLYN215949 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

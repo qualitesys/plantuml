@@ -137,63 +137,63 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN168769 the MagicNumber/String  'No while related to this endwhile' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.peek@POLYN169361 the MagicNumber/String  'No while related to this endwhile' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -214,7 +214,7 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/iterator/CodeIteratorWhile.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.executeWhile@POLYN171014 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.tim.iterator.CodeIteratorWhile.executeWhile@POLYN171606 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

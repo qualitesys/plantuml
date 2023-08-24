@@ -138,14 +138,14 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.ParticipantBoxSimple@POLYN158603 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.ParticipantBoxSimple@POLYN159195 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.toString@POLYN158982 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.toString@POLYN159574 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -173,7 +173,7 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/ParticipantBoxSimple.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.getPreferredWidth@POLYN159379 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple.getPreferredWidth@POLYN159971 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

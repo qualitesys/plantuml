@@ -109,42 +109,42 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandCaption.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN161454 the MagicNumber/String  'caption' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN162046 the MagicNumber/String  'caption' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandCaption.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN161454 the MagicNumber/String  '(?:[%s]*:[%s]*|[%s]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN162046 the MagicNumber/String  '(?:[%s]*:[%s]*|[%s]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandCaption.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN161454 the MagicNumber/String  'DISPLAY1' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN162046 the MagicNumber/String  'DISPLAY1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandCaption.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN161454 the MagicNumber/String  '[%g](.*)[%g]' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN162046 the MagicNumber/String  '[%g](.*)[%g]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandCaption.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN161454 the MagicNumber/String  'DISPLAY2' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN162046 the MagicNumber/String  'DISPLAY2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandCaption.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN161454 the MagicNumber/String  '(.*[%pLN_.].*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandCaption.getRegexConcat@POLYN162046 the MagicNumber/String  '(.*[%pLN_.].*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -172,14 +172,14 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandCaption.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandCaption.executeArg@POLYN162041 the MagicNumber/String  'DISPLAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandCaption.executeArg@POLYN162633 the MagicNumber/String  'DISPLAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandCaption.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandCaption.executeArg@POLYN162041 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandCaption.executeArg@POLYN162633 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

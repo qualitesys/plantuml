@@ -2130,6 +2130,10 @@ Complexity :1.00
 }
 }
 package net.sourceforge.plantuml.ant {
+class "net.sourceforge.plantuml.ant.CheckZipTask" {
+Nb methods :8
+Complexity :1.88
+}
 class "net.sourceforge.plantuml.ant.PlantUmlTask" {
 Nb methods :32
 Complexity :2.38
@@ -2833,6 +2837,10 @@ Nb methods :6
 Complexity :1.00
 }
 class "net.sourceforge.plantuml.code.Compression" {
+Nb methods :2
+Complexity :1.00
+}
+class "net.sourceforge.plantuml.code.CompressionBrotli" {
 Nb methods :2
 Complexity :1.00
 }

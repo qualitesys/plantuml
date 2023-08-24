@@ -105,63 +105,63 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc2/ReadFilterMergeLines.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN161413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.preproc2.ReadFilterMergeLines.applyFilter@POLYN162005 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

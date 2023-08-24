@@ -283,273 +283,273 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.lang.Verbs.are@POLYN168885 the MagicNumber/String  'are' should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.project.lang.Verbs.are@POLYN169477 the MagicNumber/String  'are' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.lang.Verbs.areColored@POLYN169016 the MagicNumber/String  'are[%s]+colou?red' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.project.lang.Verbs.areColored@POLYN169608 the MagicNumber/String  'are[%s]+colou?red' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.Verbs.displayOnSameRowAs@POLYN169147 the MagicNumber/String  'displays?[%s]+on[%s]+same[%s]+row[%s]+as' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.Verbs.displayOnSameRowAs@POLYN169739 the MagicNumber/String  'displays?[%s]+on[%s]+same[%s]+row[%s]+as' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.lang.Verbs.ends@POLYN169278 the MagicNumber/String  'ends' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.lang.Verbs.ends@POLYN169870 the MagicNumber/String  'ends' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.lang.Verbs.ends2@POLYN169409 the MagicNumber/String  'ends[%s]*(the[%s]*|on[%s]*|at[%s]*)*' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.lang.Verbs.ends2@POLYN170001 the MagicNumber/String  'ends[%s]*(the[%s]*|on[%s]*|at[%s]*)*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.Verbs.happens@POLYN169540 the MagicNumber/String  'happens?[%s]*(at[%s]*|the[%s]*|on[%s]*)*' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.Verbs.happens@POLYN170132 the MagicNumber/String  'happens?[%s]*(at[%s]*|the[%s]*|on[%s]*)*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.project.lang.Verbs.pauses@POLYN169671 the MagicNumber/String  'pauses?[%s]*(at[%s]*|the[%s]*|on[%s]*|from[%s]*)*' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.project.lang.Verbs.pauses@POLYN170263 the MagicNumber/String  'pauses?[%s]*(at[%s]*|the[%s]*|on[%s]*|from[%s]*)*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.lang.Verbs.isDeleted@POLYN169802 the MagicNumber/String  'is[%s]+deleted' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.lang.Verbs.isDeleted@POLYN170394 the MagicNumber/String  'is[%s]+deleted' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.project.lang.Verbs.is@POLYN169933 the MagicNumber/String  'is' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.project.lang.Verbs.is@POLYN170525 the MagicNumber/String  'is' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.lang.Verbs.isColored@POLYN170064 the MagicNumber/String  'is[%s]+colou?red' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.lang.Verbs.isColored@POLYN170656 the MagicNumber/String  'is[%s]+colou?red' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.project.lang.Verbs.isColoredForCompletion@POLYN170195 the MagicNumber/String  'is[%s]+colou?red[%s]+for[%s]+completion' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.project.lang.Verbs.isColoredForCompletion@POLYN170787 the MagicNumber/String  'is[%s]+colou?red[%s]+for[%s]+completion' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170326 the MagicNumber/String  'is' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170918 the MagicNumber/String  'is' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170326 the MagicNumber/String  'off' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170918 the MagicNumber/String  'off' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170326 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170918 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170326 the MagicNumber/String  'for' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170918 the MagicNumber/String  'for' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170326 the MagicNumber/String  'the' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170918 the MagicNumber/String  'the' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170326 the MagicNumber/String  'at' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.project.lang.Verbs.isOff@POLYN170918 the MagicNumber/String  'at' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN170927 the MagicNumber/String  'is' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN171519 the MagicNumber/String  'is' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN170927 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN171519 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN170927 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN171519 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN170927 the MagicNumber/String  'for' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN171519 the MagicNumber/String  'for' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN170927 the MagicNumber/String  'the' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN171519 the MagicNumber/String  'the' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN170927 the MagicNumber/String  'at' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.project.lang.Verbs.isOn@POLYN171519 the MagicNumber/String  'at' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.project.lang.Verbs.isOrAre@POLYN171528 the MagicNumber/String  '(is|are)' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.project.lang.Verbs.isOrAre@POLYN172120 the MagicNumber/String  '(is|are)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.lang.Verbs.isOrAreNamed@POLYN171659 the MagicNumber/String  '(is|are)[%s]+named' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.project.lang.Verbs.isOrAreNamed@POLYN172251 the MagicNumber/String  '(is|are)[%s]+named' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.project.lang.Verbs.lasts@POLYN171790 the MagicNumber/String  '(lasts|requires)' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.project.lang.Verbs.lasts@POLYN172382 the MagicNumber/String  '(lasts|requires)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.lang.Verbs.linksTo@POLYN171921 the MagicNumber/String  'links to' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.lang.Verbs.linksTo@POLYN172513 the MagicNumber/String  'links to' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.lang.Verbs.occurs@POLYN172052 the MagicNumber/String  'occurs?' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.lang.Verbs.occurs@POLYN172644 the MagicNumber/String  'occurs?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.project.lang.Verbs.starts3@POLYN172183 the MagicNumber/String  'starts[%s]*(the[%s]*|on[%s]*|at[%s]*)*' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.project.lang.Verbs.starts3@POLYN172775 the MagicNumber/String  'starts[%s]*(the[%s]*|on[%s]*|at[%s]*)*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.project.lang.Verbs.starts2@POLYN172314 the MagicNumber/String  'starts' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.project.lang.Verbs.starts2@POLYN172906 the MagicNumber/String  'starts' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN172445 the MagicNumber/String  'start' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN173037 the MagicNumber/String  'start' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN172445 the MagicNumber/String  's' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN173037 the MagicNumber/String  's' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN172445 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN173037 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN172445 the MagicNumber/String  'for' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN173037 the MagicNumber/String  'for' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN172445 the MagicNumber/String  'the' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN173037 the MagicNumber/String  'the' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN172445 the MagicNumber/String  'at' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.project.lang.Verbs.starts@POLYN173037 the MagicNumber/String  'at' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.project.lang.Verbs.just@POLYN173080 the MagicNumber/String  'just' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.project.lang.Verbs.just@POLYN173672 the MagicNumber/String  'just' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.project.lang.Verbs.justBefore@POLYN173211 the MagicNumber/String  'just[%s]*before' should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.project.lang.Verbs.justBefore@POLYN173803 the MagicNumber/String  'just[%s]*before' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/Verbs.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.project.lang.Verbs.justAfter@POLYN173342 the MagicNumber/String  'just[%s]*after' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.project.lang.Verbs.justAfter@POLYN173934 the MagicNumber/String  'just[%s]*after' should be converted to const"
 }} 
 ]
 , 

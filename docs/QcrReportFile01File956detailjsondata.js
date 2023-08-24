@@ -109,42 +109,42 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN160688 the MagicNumber/String  'scale' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN161280 the MagicNumber/String  'scale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN160688 the MagicNumber/String  'WIDTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN161280 the MagicNumber/String  'WIDTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN160688 the MagicNumber/String  '([0-9.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN161280 the MagicNumber/String  '([0-9.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN160688 the MagicNumber/String  '[*x]' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN161280 the MagicNumber/String  '[*x]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN160688 the MagicNumber/String  'HEIGHT' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN161280 the MagicNumber/String  'HEIGHT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN160688 the MagicNumber/String  '([0-9.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.getRegexConcat@POLYN161280 the MagicNumber/String  '([0-9.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -172,28 +172,28 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN161363 the MagicNumber/String  'WIDTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN161955 the MagicNumber/String  'WIDTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN161363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN161955 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN161363 the MagicNumber/String  'HEIGHT' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN161955 the MagicNumber/String  'HEIGHT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleWidthAndHeight.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN161363 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.command.CommandScaleWidthAndHeight.executeArg@POLYN161955 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

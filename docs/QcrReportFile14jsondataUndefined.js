@@ -355,18 +355,22 @@ var datadependUndefined = { "lesdatas" : [
    {"caller" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard"} ,
    ]},
    { "undefinedclass" : "org.apache.tools.ant.BuildException" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.ant.CheckZipTask"} ,
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
    ]},
    { "undefinedclass" : "org.apache.tools.ant.DirectoryScanner" , "callers" : [
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
    ]},
    { "undefinedclass" : "org.apache.tools.ant.Task" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.ant.CheckZipTask"} ,
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
    ]},
    { "undefinedclass" : "org.apache.tools.ant.types.FileList" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.ant.CheckZipTask"} ,
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
    ]},
    { "undefinedclass" : "org.apache.tools.ant.types.FileSet" , "callers" : [
+   {"caller" : "net.sourceforge.plantuml.ant.CheckZipTask"} ,
    {"caller" : "net.sourceforge.plantuml.ant.PlantUmlTask"} ,
    ]},
    { "undefinedclass" : "org.w3c.dom.CDATASection" , "callers" : [

@@ -134,105 +134,105 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  'note' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  'note' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  'POSITION' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  'POSITION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  '(right|left)' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  '(right|left)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  'of' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  'of' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  ')?' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  ')?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  '\\{' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  '\\{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  'note' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  'note' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  'POSITION' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  'POSITION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  '(right|left)' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  '(right|left)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  'of' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  'of' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183278 the MagicNumber/String  ')?' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.getRegexConcatMultiLine@POLYN183870 the MagicNumber/String  ')?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -246,77 +246,77 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  '^(\\})$' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  '^(\\})$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  '^[%s]*(end[%s]?note)$' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  '^[%s]*(end[%s]?note)$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  'topurl' should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  'topurl' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN185416 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.createMultiLine@POLYN186008 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -351,112 +351,112 @@ var maDataBlocs = {
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  'POSITION' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  'POSITION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  'ENTITY' should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  'ENTITY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  'ENTITY' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  'ENTITY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  'Nothing to note to' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  'Nothing to note to' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  '$$$' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  '$$$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/note/CommandFactoryTipOnEntity.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187056 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.command.note.CommandFactoryTipOnEntity.executeInternal@POLYN187648 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

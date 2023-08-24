@@ -109,21 +109,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN159402 the MagicNumber/String  '!transformation' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN159994 the MagicNumber/String  '!transformation' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN159402 the MagicNumber/String  'ANIMATION' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN159994 the MagicNumber/String  'ANIMATION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN159402 the MagicNumber/String  '([^{}]*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandAffineTransform.getRegexConcat@POLYN159994 the MagicNumber/String  '([^{}]*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -151,14 +151,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandAffineTransform.executeArg@POLYN159845 the MagicNumber/String  'ANIMATION' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandAffineTransform.executeArg@POLYN160437 the MagicNumber/String  'ANIMATION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandAffineTransform.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandAffineTransform.executeArg@POLYN159845 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandAffineTransform.executeArg@POLYN160437 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

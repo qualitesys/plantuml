@@ -86,35 +86,35 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.font.PSystemListFonts.PSystemListFonts@POLYN157312 the MagicNumber/String  '   &amp;lt;b&amp;gt;&amp;lt;size:16&amp;gt;Fonts available:' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.font.PSystemListFonts.PSystemListFonts@POLYN157904 the MagicNumber/String  '   &amp;lt;b&amp;gt;&amp;lt;size:16&amp;gt;Fonts available:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.font.PSystemListFonts.PSystemListFonts@POLYN157312 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.font.PSystemListFonts.PSystemListFonts@POLYN157904 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.font.PSystemListFonts.PSystemListFonts@POLYN157312 the MagicNumber/String  ' : &amp;lt;font:' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.font.PSystemListFonts.PSystemListFonts@POLYN157904 the MagicNumber/String  ' : &amp;lt;font:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.font.PSystemListFonts.PSystemListFonts@POLYN157312 the MagicNumber/String  '&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.font.PSystemListFonts.PSystemListFonts@POLYN157904 the MagicNumber/String  '&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/font/PSystemListFonts.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.font.PSystemListFonts.getDescription@POLYN157963 the MagicNumber/String  '(List fonts)' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.font.PSystemListFonts.getDescription@POLYN158555 the MagicNumber/String  '(List fonts)' should be converted to const"
 }} 
 ]
 , 

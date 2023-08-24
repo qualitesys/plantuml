@@ -159,42 +159,42 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN175482 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN176074 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN175482 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN176074 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN175482 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN176074 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN175482 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN176074 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN175482 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN176074 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN175482 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.ComponentRoseDivider@POLYN176074 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -222,35 +222,35 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN176659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN177251 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN176659 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN177251 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN176659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN177251 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN176659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN177251 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN176659 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawInternalU@POLYN177251 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -271,7 +271,7 @@ var maDataBlocs = {
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawSep@POLYN179031 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawSep@POLYN179623 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -292,7 +292,7 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawRectLong@POLYN179471 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawRectLong@POLYN180063 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -313,21 +313,21 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawDoubleLine@POLYN179976 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawDoubleLine@POLYN180568 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawDoubleLine@POLYN179976 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawDoubleLine@POLYN180568 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawDoubleLine@POLYN179976 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.drawDoubleLine@POLYN180568 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -341,7 +341,7 @@ var maDataBlocs = {
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.getPreferredHeight@POLYN180715 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.getPreferredHeight@POLYN181307 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -355,7 +355,7 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/rose/ComponentRoseDivider.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.getPreferredWidth@POLYN180892 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.skin.rose.ComponentRoseDivider.getPreferredWidth@POLYN181484 the MagicNumber/String  30 should be converted to const"
 }} 
 ]
 , 

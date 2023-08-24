@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.logo.TinyJavaLogo.error@POLYN179099 the MagicNumber/String  'Error: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.logo.TinyJavaLogo.error@POLYN179691 the MagicNumber/String  'Error: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -182,175 +182,175 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'FORWARD requires distance' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'FORWARD requires distance' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'BACK requires distance' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'BACK requires distance' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'LEFT requires turn angle' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'LEFT requires turn angle' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'RIGHT requires turn angle' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'RIGHT requires turn angle' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'REPEAT requires positive integer count' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'REPEAT requires positive integer count' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'REPEAT requires block in []' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'REPEAT requires block in []' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'TO requires name for new definition' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'TO requires name for new definition' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'Defining new command ' should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'Defining new command ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'Redefining command ' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'Redefining command ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'Undefined command ' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'Undefined command ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'Unrecognized color name' should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'Unrecognized color name' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  '[' should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  '[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00211"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  '] without matching [' should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  '] without matching [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179257 the MagicNumber/String  'Unrecognized symbol in input' should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method net.sourceforge.plantuml.logo.TinyJavaLogo.parseCommandBlock@POLYN179849 the MagicNumber/String  'Unrecognized symbol in input' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -364,7 +364,7 @@ var maDataBlocs = {
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.logo.TinyJavaLogo.doCommandLine@POLYN186760 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.logo.TinyJavaLogo.doCommandLine@POLYN187352 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2754,6 +2754,7 @@ var maDataBlocs = {
   { "child"  : "(1) net.sourceforge.plantuml.code.AsciiEncoder" }, 
   { "child"  : "(1) net.sourceforge.plantuml.code.AsciiEncoderBase64" }, 
   { "child"  : "(1) net.sourceforge.plantuml.code.AsciiEncoderHex" }, 
+  { "child"  : "(1) net.sourceforge.plantuml.code.CompressionBrotli" }, 
   { "child"  : "(1) net.sourceforge.plantuml.code.CompressionHuffman" }, 
   { "child"  : "(1) net.sourceforge.plantuml.code.CompressionNone" }, 
   { "child"  : "(1) net.sourceforge.plantuml.code.CompressionZlib" }, 
@@ -3478,6 +3479,7 @@ var maDataBlocs = {
    "classe"  : "(2) Task" ,
 "children" : [
   { "child"  : "(5) " }, 
+  { "child"  : "(1) net.sourceforge.plantuml.ant.CheckZipTask" }, 
   { "child"  : "(1) net.sourceforge.plantuml.ant.PlantUmlTask" }, 
 ]
 }},
@@ -9436,6 +9438,11 @@ var maDataBlocs = {
 ]
 }},
 {"ligne" : {
+   "classe"  : "(1) net.sourceforge.plantuml.ant.CheckZipTask" ,
+"children" : [
+]
+}},
+{"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.ant.PlantUmlTask" ,
 "children" : [
 ]
@@ -10297,6 +10304,11 @@ var maDataBlocs = {
 }},
 {"ligne" : {
    "classe"  : "(1) net.sourceforge.plantuml.code.Compression" ,
+"children" : [
+]
+}},
+{"ligne" : {
+   "classe"  : "(1) net.sourceforge.plantuml.code.CompressionBrotli" ,
 "children" : [
 ]
 }},

@@ -321,21 +321,21 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN214719 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN215311 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN214719 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN215311 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN214719 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.bpm.Grid.getCell@POLYN215311 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -363,21 +363,21 @@ var maDataBlocs = {
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN215646 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN216238 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN215646 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN216238 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN215646 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.bpm.Grid.getById@POLYN216238 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -447,28 +447,28 @@ var maDataBlocs = {
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN218275 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN218867 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00217"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#217"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN218275 the MagicNumber/String  'col=' should be converted to const"
+ , "c3" : "QC-JAV000010[00217] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN218867 the MagicNumber/String  'col=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN218275 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN218867 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00220"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN218275 the MagicNumber/String  'line=' should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.bpm.Grid.toArray@POLYN218867 the MagicNumber/String  'line=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -489,14 +489,14 @@ var maDataBlocs = {
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.bpm.Grid.usedColsOf@POLYN219833 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.bpm.Grid.usedColsOf@POLYN220425 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.bpm.Grid.usedColsOf@POLYN219833 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.bpm.Grid.usedColsOf@POLYN220425 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -524,21 +524,21 @@ var maDataBlocs = {
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN220689 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN221281 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN220689 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN221281 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN220689 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.bpm.Grid.removeLine@POLYN221281 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -573,14 +573,14 @@ var maDataBlocs = {
  , "c1" : "00317"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#317"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.bpm.Grid.addConnections@POLYN221906 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00317] In method net.sourceforge.plantuml.bpm.Grid.addConnections@POLYN222498 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00319"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#319"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.bpm.Grid.addConnections@POLYN221906 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00319] In method net.sourceforge.plantuml.bpm.Grid.addConnections@POLYN222498 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -622,84 +622,84 @@ var maDataBlocs = {
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00345"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  'NS' should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  'NS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00351"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#351"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  'EW' should be converted to const"
+ , "c3" : "QC-JAV000010[00351] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  'EW' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00356"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#356"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00356] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00359"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#359"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00359] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00360"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#360"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  'N' should be converted to const"
+ , "c3" : "QC-JAV000010[00360] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  'N' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00362"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#362"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00362] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000010[00362] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  'S' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00364"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#364"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00364] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00364] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00365"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#365"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00365] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  'E' should be converted to const"
+ , "c3" : "QC-JAV000010[00365] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  'E' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00367"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#367"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00367] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  'W' should be converted to const"
+ , "c3" : "QC-JAV000010[00367] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  'W' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00369"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#369"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN222985 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00369] In method net.sourceforge.plantuml.bpm.Grid.drawStartVertical@POLYN223577 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -741,84 +741,84 @@ var maDataBlocs = {
  , "c1" : "00380"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#380"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00380] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00383"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#383"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00383] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00383] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00388"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  'EW' should be converted to const"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  'EW' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00395"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#395"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  'NS' should be converted to const"
+ , "c3" : "QC-JAV000010[00395] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  'NS' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00400"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#400"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00400] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00400] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00403"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#403"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00404"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#404"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  'W' should be converted to const"
+ , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  'W' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00406"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  'E' should be converted to const"
+ , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  'E' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00408"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#408"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00408] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00409"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#409"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000010[00409] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  'S' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00411"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#411"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  'N' should be converted to const"
+ , "c3" : "QC-JAV000010[00411] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  'N' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00413"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN226992 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.bpm.Grid.drawStartHorizontal@POLYN227584 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -832,7 +832,7 @@ var maDataBlocs = {
  , "c1" : "00420"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/Grid.java.html#420"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.bpm.Grid.addPuzzle@POLYN230999 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00420] In method net.sourceforge.plantuml.bpm.Grid.addPuzzle@POLYN231591 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

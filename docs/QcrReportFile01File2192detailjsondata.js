@@ -161,7 +161,7 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/AbstractEntityImage.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.svek.AbstractEntityImage.getOverscanX@POLYN161008 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.svek.AbstractEntityImage.getOverscanX@POLYN161600 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

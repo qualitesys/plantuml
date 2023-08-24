@@ -177,21 +177,21 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN164600 the MagicNumber/String  '*Array offset=' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN165192 the MagicNumber/String  '*Array offset=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN164600 the MagicNumber/String  ' [' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN165192 the MagicNumber/String  ' [' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN164600 the MagicNumber/String  ']' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method smetana.core.CArrayOfStar.toString@POLYN165192 the MagicNumber/String  ']' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -247,21 +247,21 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method smetana.core.CArrayOfStar.realloc@POLYN166654 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method smetana.core.CArrayOfStar.realloc@POLYN167246 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method smetana.core.CArrayOfStar.realloc@POLYN166654 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method smetana.core.CArrayOfStar.realloc@POLYN167246 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method smetana.core.CArrayOfStar.realloc@POLYN166654 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method smetana.core.CArrayOfStar.realloc@POLYN167246 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -282,49 +282,49 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method smetana.core.CArrayOfStar._swap@POLYN167312 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method smetana.core.CArrayOfStar._swap@POLYN167904 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.CArrayOfStar._swap@POLYN167312"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.CArrayOfStar._swap@POLYN167904"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.CArrayOfStar.realloc@POLYN166654"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.CArrayOfStar.realloc@POLYN167246"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#103"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00103] In the recursive method smetana.core.CArrayOfStar._swap@POLYN167312 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00103] In the recursive method smetana.core.CArrayOfStar._swap@POLYN167904 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#90"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00090] In the recursive method smetana.core.CArrayOfStar.realloc@POLYN166654 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00090] In the recursive method smetana.core.CArrayOfStar.realloc@POLYN167246 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#93"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00093] In the recursive method smetana.core.CArrayOfStar.realloc@POLYN166654 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00093] In the recursive method smetana.core.CArrayOfStar.realloc@POLYN167246 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/smetana/core/CArrayOfStar.java.html#94"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00094] In the recursive method smetana.core.CArrayOfStar.realloc@POLYN166654 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00094] In the recursive method smetana.core.CArrayOfStar.realloc@POLYN167246 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 
