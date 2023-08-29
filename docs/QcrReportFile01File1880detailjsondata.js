@@ -133,21 +133,21 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN161498 the MagicNumber/String  'headers.' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN162698 the MagicNumber/String  'headers.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN161498 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN162698 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/security/authentication/token/TokenAuthAccessInterceptor.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN161498 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.security.authentication.token.TokenAuthAccessInterceptor.apply@POLYN162698 the MagicNumber/String  8 should be converted to const"
 }} 
 ]
 , 

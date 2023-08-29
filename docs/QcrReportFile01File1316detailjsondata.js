@@ -232,14 +232,14 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getSize@POLYN189485 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getSize@POLYN190685 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getSize@POLYN189485 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getSize@POLYN190685 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,28 +253,28 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getPosition@POLYN189961 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getPosition@POLYN191161 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getPosition@POLYN189961 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getPosition@POLYN191161 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getPosition@POLYN189961 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getPosition@POLYN191161 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getPosition@POLYN189961 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.getPosition@POLYN191161 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -330,63 +330,63 @@ var maDataBlocs = {
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  'g' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  'g' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  'ranksep' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  'ranksep' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  '0.35' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  '0.35' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN190716 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.initGraph@POLYN191916 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -400,98 +400,98 @@ var maDataBlocs = {
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  'arrowsize' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  'arrowsize' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  '.7' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  '.7' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  'arrowtail' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  'arrowtail' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  'none' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  'none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  'arrowhead' should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  'arrowhead' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  'normal' should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  'normal' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN193108 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createEdge@POLYN194308 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -512,112 +512,112 @@ var maDataBlocs = {
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  72 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  72 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  'N' should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  'N' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  'N ' should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  'N ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  'shape' should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  'shape' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  'box' should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  'box' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  'height' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  'height' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  'width' should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  'width' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/gitlog/SmetanaForGit.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN194532 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.gitlog.SmetanaForGit.createNode@POLYN195732 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

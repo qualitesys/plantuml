@@ -127,14 +127,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.startingChars@POLYN161794 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.startingChars@POLYN162994 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.create@POLYN161932 the MagicNumber/String  '^(\'\'(.*?)\'\')' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.create@POLYN163132 the MagicNumber/String  '^(\'\'(.*?)\'\')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -148,21 +148,21 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.matchingSize@POLYN162221 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.matchingSize@POLYN163421 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.matchingSize@POLYN162221 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.matchingSize@POLYN163421 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.matchingSize@POLYN162221 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.matchingSize@POLYN163421 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -190,21 +190,21 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.executeAndGetRemaining@POLYN162622 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.executeAndGetRemaining@POLYN163822 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.executeAndGetRemaining@POLYN162622 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.executeAndGetRemaining@POLYN163822 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleMonospaced.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.executeAndGetRemaining@POLYN162622 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.creole.command.CommandCreoleMonospaced.executeAndGetRemaining@POLYN163822 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

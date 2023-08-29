@@ -109,35 +109,35 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN161597 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN162797 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN161597 the MagicNumber/String  '(hide|manual)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN162797 the MagicNumber/String  '(hide|manual)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN161597 the MagicNumber/String  'time' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN162797 the MagicNumber/String  'time' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN161597 the MagicNumber/String  '.?' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN162797 the MagicNumber/String  '.?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN161597 the MagicNumber/String  'axis' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.getRegexConcat@POLYN162797 the MagicNumber/String  'axis' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -165,21 +165,21 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.executeArg@POLYN162169 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.executeArg@POLYN163369 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.executeArg@POLYN162169 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.executeArg@POLYN163369 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/command/CommandHideTimeAxis.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.executeArg@POLYN162169 the MagicNumber/String  'MANUAL' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis.executeArg@POLYN163369 the MagicNumber/String  'MANUAL' should be converted to const"
 }} 
 ]
 , 

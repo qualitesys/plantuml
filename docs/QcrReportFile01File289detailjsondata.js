@@ -129,7 +129,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/jcckit/graphic/FontStyle.java.html#65"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00065] For method getFontStyle list of called methods Object monObjet|java.lang.String config_getN162481"
+ , "c3" : "QC-JAV000007[00065] For method getFontStyle list of called methods Object monObjet|java.lang.String config_getN163681"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -143,28 +143,28 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/jcckit/graphic/FontStyle.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method jcckit.graphic.FontStyle.getFontStyle@POLYN162275 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method jcckit.graphic.FontStyle.getFontStyle@POLYN163475 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/jcckit/graphic/FontStyle.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method jcckit.graphic.FontStyle.getFontStyle@POLYN162275 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method jcckit.graphic.FontStyle.getFontStyle@POLYN163475 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/jcckit/graphic/FontStyle.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method jcckit.graphic.FontStyle.getFontStyle@POLYN162275 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method jcckit.graphic.FontStyle.getFontStyle@POLYN163475 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/jcckit/graphic/FontStyle.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.graphic.FontStyle.getFontStyle@POLYN162275 the MagicNumber/String  'Invalid font style.' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.graphic.FontStyle.getFontStyle@POLYN163475 the MagicNumber/String  'Invalid font style.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -187,77 +187,77 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String  '/*' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String  '/*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String  ', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String  ', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#78"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00078] For method processCurve list of called methods Object monObjet|int getValueN169740|int getValueN169838"
+ , "c3" : "QC-JAV000007[00078] For method processCurve list of called methods Object monObjet|int getValueN170940|int getValueN171038"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN169662 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN170862 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN169662 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN170862 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN169662 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN170862 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN169662 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN170862 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN169662 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method ext.plantuml.com.ctreber.acearth.MapDataReader.processCurve@POLYN170862 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -271,49 +271,49 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.getValue@POLYN171537"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.getValue@POLYN172737"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#56"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00056] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String '/*' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00056] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String '/*' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#61"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00061] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String ', ' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00061] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String ', ' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#70"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00070] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00070] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#71"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00071] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00071] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#75"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00075] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN168218 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00075] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169418 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -206,14 +206,14 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN180637 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN181837 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN180637 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN181837 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -227,14 +227,14 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN180977 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.infinite@POLYN182177 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.isDouble@POLYN181335 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.isDouble@POLYN182535 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -262,21 +262,21 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN181437 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN182637 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN181437 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN182637 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN181437 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawLineInternal@POLYN182637 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -311,7 +311,7 @@ var maDataBlocs = {
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.firstHalf@POLYN183608 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.firstHalf@POLYN184808 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -332,7 +332,7 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.secondHalf@POLYN184528 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.secondHalf@POLYN185728 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -346,14 +346,14 @@ var maDataBlocs = {
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawHLine@POLYN185435 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawHLine@POLYN186635 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawHLine@POLYN185435 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawHLine@POLYN186635 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -395,28 +395,28 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN186482 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN187682 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN186482 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN187682 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN186482 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN187682 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN186482 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.drawTitleInternal@POLYN187682 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -437,49 +437,49 @@ var maDataBlocs = {
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN187924 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN189124 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN187924 the MagicNumber/String  '=' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN189124 the MagicNumber/String  '=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN187924 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN189124 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN187924 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN189124 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN187924 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN189124 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN187924 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN189124 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UHorizontalLine.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN187924 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.ugraphic.UHorizontalLine.getStroke@POLYN189124 the MagicNumber/String  '-' should be converted to const"
 }} 
 ]
 , 

@@ -102,7 +102,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/CommandListSprite.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sprite.CommandListSprite.getRegexConcat@POLYN159496 the MagicNumber/String  'listsprites?' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sprite.CommandListSprite.getRegexConcat@POLYN160696 the MagicNumber/String  'listsprites?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

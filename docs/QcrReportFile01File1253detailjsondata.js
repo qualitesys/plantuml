@@ -86,7 +86,7 @@ var maDataBlocs = {
  , "c1" : "00011"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/core/math/ElkPadding.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding.ElkPadding@POLYN147796 the MagicNumber/String  'org.eclipse.elk.core.math.ElkPadding' should be converted to const"
+ , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.elk.proxy.core.math.ElkPadding.ElkPadding@POLYN148996 the MagicNumber/String  'org.eclipse.elk.core.math.ElkPadding' should be converted to const"
 }} 
 ]
 , 

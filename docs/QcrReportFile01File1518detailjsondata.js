@@ -109,21 +109,21 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.nwdiag.CommandNwDiagInit.getRegexConcat@POLYN159700 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.nwdiag.CommandNwDiagInit.getRegexConcat@POLYN160900 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.nwdiag.CommandNwDiagInit.getRegexConcat@POLYN159700 the MagicNumber/String  'nwdiag' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.nwdiag.CommandNwDiagInit.getRegexConcat@POLYN160900 the MagicNumber/String  'nwdiag' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandNwDiagInit.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.nwdiag.CommandNwDiagInit.getRegexConcat@POLYN159700 the MagicNumber/String  '\\{' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.nwdiag.CommandNwDiagInit.getRegexConcat@POLYN160900 the MagicNumber/String  '\\{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

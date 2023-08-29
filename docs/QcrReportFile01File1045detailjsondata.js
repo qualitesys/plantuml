@@ -127,7 +127,7 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleEmoji.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.startingChars@POLYN161146 the MagicNumber/String  '&amp;lt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.startingChars@POLYN162346 the MagicNumber/String  '&amp;lt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -141,21 +141,21 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleEmoji.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.matchingSize@POLYN161553 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.matchingSize@POLYN162753 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleEmoji.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.matchingSize@POLYN161553 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.matchingSize@POLYN162753 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleEmoji.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.matchingSize@POLYN161553 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.matchingSize@POLYN162753 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -183,28 +183,28 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleEmoji.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.executeAndGetRemaining@POLYN161936 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.executeAndGetRemaining@POLYN163136 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleEmoji.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.executeAndGetRemaining@POLYN161936 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.executeAndGetRemaining@POLYN163136 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleEmoji.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.executeAndGetRemaining@POLYN161936 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.executeAndGetRemaining@POLYN163136 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/command/CommandCreoleEmoji.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.executeAndGetRemaining@POLYN161936 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.creole.command.CommandCreoleEmoji.executeAndGetRemaining@POLYN163136 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

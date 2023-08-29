@@ -174,42 +174,42 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN188334 the MagicNumber/String  '[a-zA-Z]' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN189534 the MagicNumber/String  '[a-zA-Z]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN188334 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN189534 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN188334 the MagicNumber/String  'Z' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN189534 the MagicNumber/String  'Z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN188334 the MagicNumber/String  'S' should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN189534 the MagicNumber/String  'S' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN188334 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN189534 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN188334 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.openiconic.SvgPath.SvgPath@POLYN189534 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -279,21 +279,21 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.openiconic.SvgPath.insertMissingLetter@POLYN190573 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.openiconic.SvgPath.insertMissingLetter@POLYN191773 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.openiconic.SvgPath.insertMissingLetter@POLYN190573 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.openiconic.SvgPath.insertMissingLetter@POLYN191773 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.openiconic.SvgPath.insertMissingLetter@POLYN190573 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.openiconic.SvgPath.insertMissingLetter@POLYN191773 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -356,28 +356,28 @@ var maDataBlocs = {
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.openiconic.SvgPath.checkArguments@POLYN192081 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.openiconic.SvgPath.checkArguments@POLYN193281 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.openiconic.SvgPath.toSvg@POLYN192796 the MagicNumber/String  '&amp;lt;path d=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.openiconic.SvgPath.toSvg@POLYN193996 the MagicNumber/String  '&amp;lt;path d=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.openiconic.SvgPath.toSvg@POLYN192796 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.openiconic.SvgPath.toSvg@POLYN193996 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.openiconic.SvgPath.toSvg@POLYN192796 the MagicNumber/String  '\'/&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.openiconic.SvgPath.toSvg@POLYN193996 the MagicNumber/String  '\'/&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -412,98 +412,98 @@ var maDataBlocs = {
  , "c1" : "00151"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#151"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00151] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  'C' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  'C' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  'L' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  'L' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  'Z' should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  'Z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  'letter ' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  'letter ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN193318 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN194518 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -552,98 +552,98 @@ var maDataBlocs = {
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  'M' should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  'M' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  'C' should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  'C' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  'L' should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  'L' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  'A' should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  'A' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  'Z' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  'Z' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  'letter ' should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  'letter ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/SvgPath.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN196219 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.openiconic.SvgPath.toUPath@POLYN197419 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

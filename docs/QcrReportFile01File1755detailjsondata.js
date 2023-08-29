@@ -159,42 +159,42 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN172092 the MagicNumber/String  'BDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN173292 the MagicNumber/String  'BDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN172092 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN173292 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN172092 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN173292 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN172092 the MagicNumber/String  'ECOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN173292 the MagicNumber/String  'ECOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN172092 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN173292 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN172092 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.getMe@POLYN173292 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -215,42 +215,42 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN172754 the MagicNumber/String  'BDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN173954 the MagicNumber/String  'BDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN172754 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN173954 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN172754 the MagicNumber/String  'BMONTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN173954 the MagicNumber/String  'BMONTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN172754 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN173954 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN172754 the MagicNumber/String  'BYEAR' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN173954 the MagicNumber/String  'BYEAR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN172754 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultB@POLYN173954 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -278,14 +278,14 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultE@POLYN173443 the MagicNumber/String  'ECOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultE@POLYN174643 the MagicNumber/String  'ECOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultE@POLYN173443 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.resultE@POLYN174643 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -334,77 +334,77 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN176005 the MagicNumber/String  'BYEAR' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN177205 the MagicNumber/String  'BYEAR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN176005 the MagicNumber/String  '([\\d]{4})' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN177205 the MagicNumber/String  '([\\d]{4})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN176005 the MagicNumber/String  '\\D' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN177205 the MagicNumber/String  '\\D' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN176005 the MagicNumber/String  'BMONTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN177205 the MagicNumber/String  'BMONTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN176005 the MagicNumber/String  '([\\d]{1,2})' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN177205 the MagicNumber/String  '([\\d]{1,2})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN176005 the MagicNumber/String  '\\D' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN177205 the MagicNumber/String  '\\D' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN176005 the MagicNumber/String  'BDAY' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN177205 the MagicNumber/String  'BDAY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN176005 the MagicNumber/String  '([\\d]{1,2})' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexB@POLYN177205 the MagicNumber/String  '([\\d]{1,2})' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexE@POLYN176489 the MagicNumber/String  '[dD]\\+' should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexE@POLYN177689 the MagicNumber/String  '[dD]\\+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexE@POLYN176489 the MagicNumber/String  'ECOUNT' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexE@POLYN177689 the MagicNumber/String  'ECOUNT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectDayAsDate.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexE@POLYN176489 the MagicNumber/String  '([\\d]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.project.lang.SubjectDayAsDate.toRegexE@POLYN177689 the MagicNumber/String  '([\\d]+)' should be converted to const"
 }} 
 ]
 , 

@@ -100,7 +100,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/PlacementStrategyY1Y2Right.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right.getPositions@POLYN160481 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.ugraphic.PlacementStrategyY1Y2Right.getPositions@POLYN161681 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

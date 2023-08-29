@@ -182,7 +182,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ant.CheckZipTask.execute@POLYN170262 the MagicNumber/String  'Check ' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.ant.CheckZipTask.execute@POLYN171462 the MagicNumber/String  'Check ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -203,35 +203,35 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN170873 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN172073 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN170873 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN172073 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN170873 the MagicNumber/String  'Missing ' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN172073 the MagicNumber/String  'Missing ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN170873 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN172073 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN170873 the MagicNumber/String  'Some entries are missing in the zipfile' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.ant.CheckZipTask.manageFileList@POLYN172073 the MagicNumber/String  'Some entries are missing in the zipfile' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -266,49 +266,49 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN171834 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN173034 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN171834 the MagicNumber/String  'tmp.txt' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN173034 the MagicNumber/String  'tmp.txt' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN171834 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN173034 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN171834 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN173034 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN171834 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN173034 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN171834 the MagicNumber/String  '&amp;lt;file name=\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN173034 the MagicNumber/String  '&amp;lt;file name=\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ant/CheckZipTask.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN171834 the MagicNumber/String  '\' /&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.ant.CheckZipTask.loadZipFile@POLYN173034 the MagicNumber/String  '\' /&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

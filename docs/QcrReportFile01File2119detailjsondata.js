@@ -134,42 +134,42 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN164238 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN165438 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN164238 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN165438 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN164238 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN165438 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN164238 the MagicNumber/String  '0123456789ABCDEF' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN165438 the MagicNumber/String  '0123456789ABCDEF' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN164238 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN165438 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN164238 the MagicNumber/String  0xFFFFFF should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.buildSprite@POLYN165438 the MagicNumber/String  0xFFFFFF should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -197,21 +197,21 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN165872 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN167072 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN165872 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN167072 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/SpriteColorBuilder.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN165872 the MagicNumber/String  0xFFFFFF should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.sprite.SpriteColorBuilder.encodeColor@POLYN167072 the MagicNumber/String  0xFFFFFF should be converted to const"
 }} 
 ]
 , 

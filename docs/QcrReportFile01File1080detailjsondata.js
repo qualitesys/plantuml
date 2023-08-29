@@ -186,105 +186,105 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '--' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '--' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '--' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '--' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '==' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '==' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '==' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '==' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '..' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '..' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '..' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '..' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '...' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '...' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '__' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '__' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  '__' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  '__' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN170742 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.isBlockSeparator@POLYN171942 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -319,28 +319,28 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.getTitle@POLYN172091 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.getTitle@POLYN173291 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.getTitle@POLYN172091 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.getTitle@POLYN173291 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.getTitle@POLYN172091 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.getTitle@POLYN173291 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.getTitle@POLYN172091 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.getTitle@POLYN173291 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -361,77 +361,77 @@ var maDataBlocs = {
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodyEnhancedAbstract.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN172792 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.BodyEnhancedAbstract.decorate@POLYN173992 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

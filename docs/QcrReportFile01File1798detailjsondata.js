@@ -215,49 +215,49 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN168219 the MagicNumber/String  '\\{(?:[-+^#!*/]|S-|SI|S)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN169419 the MagicNumber/String  '\\{(?:[-+^#!*/]|S-|SI|S)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN168219 the MagicNumber/String  '|}' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN169419 the MagicNumber/String  '|}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN168219 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN169419 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN168219 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN169419 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN168219 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN169419 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN168219 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN169419 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN168219 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.salt.DataSourceImpl.DataSourceImpl@POLYN169419 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -271,7 +271,7 @@ var maDataBlocs = {
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.salt.DataSourceImpl.addInternal@POLYN170585 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.salt.DataSourceImpl.addInternal@POLYN171785 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -285,21 +285,21 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN171688 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN172888 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN171688 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN172888 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/DataSourceImpl.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN171688 the MagicNumber/String  '$$$' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.salt.DataSourceImpl.toString@POLYN172888 the MagicNumber/String  '$$$' should be converted to const"
 }} 
 ]
 , 

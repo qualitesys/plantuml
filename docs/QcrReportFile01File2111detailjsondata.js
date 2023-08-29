@@ -109,21 +109,21 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/CommandStdlib.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sprite.CommandStdlib.getRegexConcat@POLYN160077 the MagicNumber/String  'stdlib' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.sprite.CommandStdlib.getRegexConcat@POLYN161277 the MagicNumber/String  'stdlib' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/CommandStdlib.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.CommandStdlib.getRegexConcat@POLYN160077 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.CommandStdlib.getRegexConcat@POLYN161277 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/CommandStdlib.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.CommandStdlib.getRegexConcat@POLYN160077 the MagicNumber/String  '([-\\w]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sprite.CommandStdlib.getRegexConcat@POLYN161277 the MagicNumber/String  '([-\\w]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -151,14 +151,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/CommandStdlib.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sprite.CommandStdlib.executeArg@POLYN160520 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sprite.CommandStdlib.executeArg@POLYN161720 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sprite/CommandStdlib.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sprite.CommandStdlib.executeArg@POLYN160520 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sprite.CommandStdlib.executeArg@POLYN161720 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

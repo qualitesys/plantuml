@@ -132,7 +132,7 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockSprited.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.TextBlockSprited.getCircledCharacterWithAndMargin@POLYN161049 the MagicNumber/String  6.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.graphic.TextBlockSprited.getCircledCharacterWithAndMargin@POLYN162249 the MagicNumber/String  6.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

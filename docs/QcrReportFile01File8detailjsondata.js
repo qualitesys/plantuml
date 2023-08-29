@@ -173,7 +173,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/gui/PixelCanvas.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.ctreber.acearth.gui.PixelCanvas.saveToImage@POLYN155759 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method ext.plantuml.com.ctreber.acearth.gui.PixelCanvas.saveToImage@POLYN156959 the MagicNumber/String  'png' should be converted to const"
 }} 
 ]
 , 

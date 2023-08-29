@@ -116,70 +116,70 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN173056 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.SequenceDiagramTxtMaker@POLYN174256 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -193,28 +193,28 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.createOne@POLYN176053 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.createOne@POLYN177253 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.createOne@POLYN176053 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.createOne@POLYN177253 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.createOne@POLYN176053 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.createOne@POLYN177253 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/SequenceDiagramTxtMaker.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.getNbPages@POLYN176818 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker.getNbPages@POLYN178018 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

@@ -109,21 +109,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.getRegexConcat@POLYN160527 the MagicNumber/String  'autoactivate' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.getRegexConcat@POLYN161727 the MagicNumber/String  'autoactivate' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.getRegexConcat@POLYN160527 the MagicNumber/String  'ON' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.getRegexConcat@POLYN161727 the MagicNumber/String  'ON' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.getRegexConcat@POLYN160527 the MagicNumber/String  '(off|on)' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.getRegexConcat@POLYN161727 the MagicNumber/String  '(off|on)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -151,21 +151,21 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.executeArg@POLYN160970 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.executeArg@POLYN162170 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.executeArg@POLYN160970 the MagicNumber/String  'ON' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.executeArg@POLYN162170 the MagicNumber/String  'ON' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandAutoactivate.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.executeArg@POLYN160970 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate.executeArg@POLYN162170 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

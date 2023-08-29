@@ -258,14 +258,14 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.TaskDrawRegular@POLYN207561 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.TaskDrawRegular@POLYN208761 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.TaskDrawRegular@POLYN207561 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.TaskDrawRegular@POLYN208761 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -300,14 +300,14 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawTitle@POLYN209616 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawTitle@POLYN210816 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawTitle@POLYN209616 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawTitle@POLYN210816 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -321,28 +321,28 @@ var maDataBlocs = {
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOutPosition@POLYN212253 the MagicNumber/String  18 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOutPosition@POLYN213453 the MagicNumber/String  18 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOutPosition@POLYN212253 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOutPosition@POLYN213453 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.isThereRightArrow@POLYN212488 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.isThereRightArrow@POLYN213688 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.isThereRightArrow@POLYN212488 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.isThereRightArrow@POLYN213688 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -377,7 +377,7 @@ var maDataBlocs = {
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawNote@POLYN213905 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawNote@POLYN215105 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -391,14 +391,14 @@ var maDataBlocs = {
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getHeightMax@POLYN214145 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getHeightMax@POLYN215345 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOpaleNote@POLYN214499 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getOpaleNote@POLYN215699 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -419,14 +419,14 @@ var maDataBlocs = {
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getFingerPrintNote@POLYN216771 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getFingerPrintNote@POLYN217971 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getFingerPrintNote@POLYN216771 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.getFingerPrintNote@POLYN217971 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -447,7 +447,7 @@ var maDataBlocs = {
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.applyColors@POLYN217434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.applyColors@POLYN218634 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -482,14 +482,14 @@ var maDataBlocs = {
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawShape@POLYN219050 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawShape@POLYN220250 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00291"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawRegular.java.html#291"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawShape@POLYN219050 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00291] In method net.sourceforge.plantuml.project.draw.TaskDrawRegular.drawShape@POLYN220250 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

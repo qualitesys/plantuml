@@ -138,14 +138,14 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.dedication.Dedications.load@POLYN167219 the MagicNumber/String  '.png' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.dedication.Dedications.load@POLYN168419 the MagicNumber/String  '.png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.dedication.Dedications.load@POLYN167219 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.dedication.Dedications.load@POLYN168419 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -173,14 +173,14 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.dedication.Dedications.get@POLYN167740 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.dedication.Dedications.get@POLYN168940 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/dedication/Dedications.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.dedication.Dedications.get@POLYN167740 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.dedication.Dedications.get@POLYN168940 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

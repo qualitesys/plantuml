@@ -95,7 +95,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicalElement.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method jcckit.graphic.BasicGraphicalElement.isClosed@POLYN157509 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method jcckit.graphic.BasicGraphicalElement.isClosed@POLYN158709 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

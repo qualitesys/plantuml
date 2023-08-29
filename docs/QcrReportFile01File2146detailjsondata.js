@@ -105,21 +105,21 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN157426 the MagicNumber/String  '(?i)^stats\\s*$' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN158626 the MagicNumber/String  '(?i)^stats\\s*$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN157426 the MagicNumber/String  'Error ' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN158626 the MagicNumber/String  'Error ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/PSystemStatsFactory.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN157426 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.stats.PSystemStatsFactory.executeLine@POLYN158626 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

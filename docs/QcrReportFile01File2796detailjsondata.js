@@ -160,70 +160,70 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  '1.0' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  '1.0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  'scxml' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  'scxml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  'xmlns' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  'xmlns' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  'http://www.w3.org/2005/07/scxml' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  'http://www.w3.org/2005/07/scxml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  'version' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  'version' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  '1.0' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  '1.0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  'initial' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  'initial' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN180706 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.ScxmlStateDiagramStandard@POLYN181906 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -251,7 +251,7 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.getInitial@POLYN182957 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.getInitial@POLYN184157 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -279,77 +279,77 @@ var maDataBlocs = {
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  'state' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  'state' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  'stereotype' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  'stereotype' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  'note' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  'note' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  'id' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  'id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  'id' should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  'id' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  'stereotype' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  'stereotype' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN183414 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.createState@POLYN184614 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -377,35 +377,35 @@ var maDataBlocs = {
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN185493 the MagicNumber/String  'transition' should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN186693 the MagicNumber/String  'transition' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN185493 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN186693 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN185493 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN186693 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN185493 the MagicNumber/String  'event' should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN186693 the MagicNumber/String  'event' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN185493 the MagicNumber/String  'target' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.addLink@POLYN186693 the MagicNumber/String  'target' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -426,21 +426,21 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.getId@POLYN186324 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.getId@POLYN187524 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.getId@POLYN186324 the MagicNumber/String  '\\*' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.getId@POLYN187524 the MagicNumber/String  '\\*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.getId@POLYN186324 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.getId@POLYN187524 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -454,7 +454,7 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmlsc/ScxmlStateDiagramStandard.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.transformerXml@POLYN186681 the MagicNumber/String  'yes' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard.transformerXml@POLYN187881 the MagicNumber/String  'yes' should be converted to const"
 }} 
 ]
 , 

@@ -146,7 +146,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.preproc.EvalBoolean.nextChar@POLYN165183 the MagicNumber/String  '\0' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.preproc.EvalBoolean.nextChar@POLYN166383 the MagicNumber/String  '\0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -160,112 +160,112 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.preproc.EvalBoolean.eat@POLYN165531 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.preproc.EvalBoolean.eat@POLYN166731 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc.EvalBoolean.eat@POLYN165531 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.preproc.EvalBoolean.eat@POLYN166731 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.preproc.EvalBoolean.eat@POLYN165531 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.preproc.EvalBoolean.eat@POLYN166731 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseExpression@POLYN165914 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseExpression@POLYN167114 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseExpression@POLYN165914 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseExpression@POLYN167114 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseExpression@POLYN165914 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseExpression@POLYN167114 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseTerm@POLYN166380 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseTerm@POLYN167580 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseTerm@POLYN166380 the MagicNumber/String  '&amp;' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseTerm@POLYN167580 the MagicNumber/String  '&amp;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseTerm@POLYN166380 the MagicNumber/String  '&amp;' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseTerm@POLYN167580 the MagicNumber/String  '&amp;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseFactor@POLYN166846 the MagicNumber/String  '!' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseFactor@POLYN168046 the MagicNumber/String  '!' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseFactor@POLYN166846 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseFactor@POLYN168046 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseFactor@POLYN166846 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseFactor@POLYN168046 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseFactor@POLYN166846 the MagicNumber/String  'Unexpected: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.preproc.EvalBoolean.parseFactor@POLYN168046 the MagicNumber/String  'Unexpected: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.EvalBoolean.isIdentifier@POLYN167925 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.EvalBoolean.isIdentifier@POLYN169125 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.EvalBoolean.isIdentifier@POLYN167925 the MagicNumber/String  '$' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.preproc.EvalBoolean.isIdentifier@POLYN169125 the MagicNumber/String  '$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/EvalBoolean.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.EvalBoolean.eval@POLYN168142 the MagicNumber/String  'Unexpected: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.preproc.EvalBoolean.eval@POLYN169342 the MagicNumber/String  'Unexpected: ' should be converted to const"
 }} 
 ]
 , 

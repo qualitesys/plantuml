@@ -114,14 +114,14 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolBoundary.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.graphic.USymbolBoundary.getDrawing@POLYN156586 the MagicNumber/String  4.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.graphic.USymbolBoundary.getDrawing@POLYN157786 the MagicNumber/String  4.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbolBoundary.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.graphic.USymbolBoundary.getDrawing@POLYN156586 the MagicNumber/String  0.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.graphic.USymbolBoundary.getDrawing@POLYN157786 the MagicNumber/String  0.0 should be converted to const"
 }} 
 ]
 , 

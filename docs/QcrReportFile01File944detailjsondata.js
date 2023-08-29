@@ -109,70 +109,70 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  'namespace' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  'namespace' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  '([%pLN_][-%pLN_.:\\\\]*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  '([%pLN_][-%pLN_.:\\\\]*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  'STEREOTYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  'STEREOTYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  '(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  '(\\&amp;lt;\\&amp;lt;.*\\&amp;gt;\\&amp;gt;)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  ')?' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  ')?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  '\\{' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  '\\{' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN171444 the MagicNumber/String  '\\}' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.getRegexConcat@POLYN172644 the MagicNumber/String  '\\}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -200,84 +200,84 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  'STEREOTYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  'STEREOTYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00093"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#93"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00093] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  'URL' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  'URL' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  'topurl' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  'topurl' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  'COLOR' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  'COLOR' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandNamespaceEmpty.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN172501 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.command.CommandNamespaceEmpty.executeArg@POLYN173701 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

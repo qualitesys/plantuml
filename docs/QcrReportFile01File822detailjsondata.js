@@ -202,14 +202,14 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.toString@POLYN169289 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.toString@POLYN170489 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.toString@POLYN169289 the MagicNumber/String  'NONE' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.toString@POLYN170489 the MagicNumber/String  'NONE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -223,14 +223,14 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.getDimension@POLYN169550 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.getDimension@POLYN170750 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.getDimension@POLYN169550 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.getDimension@POLYN170750 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -272,70 +272,70 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN170379 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.drawLine@POLYN171579 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -349,14 +349,14 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.calculateDimension@POLYN171617 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.calculateDimension@POLYN172817 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.calculateDimension@POLYN171617 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.calculateDimension@POLYN172817 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -377,7 +377,7 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/ConnectorPuzzleEmpty.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.getInnerPosition@POLYN171916 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.bpm.ConnectorPuzzleEmpty.getInnerPosition@POLYN173116 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

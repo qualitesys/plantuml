@@ -201,21 +201,21 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pragma.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.Pragma.horizontalLineBetweenDifferentPackageAllowed@POLYN161154 the MagicNumber/String  'horizontallinebetweendifferentpackageallowed' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.Pragma.horizontalLineBetweenDifferentPackageAllowed@POLYN162354 the MagicNumber/String  'horizontallinebetweendifferentpackageallowed' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pragma.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.Pragma.backToLegacyPackage@POLYN161273 the MagicNumber/String  'backtolegacypackage' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.Pragma.backToLegacyPackage@POLYN162473 the MagicNumber/String  'backtolegacypackage' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pragma.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.Pragma.useNewPackage@POLYN161392 the MagicNumber/String  'usenewpackage' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.Pragma.useNewPackage@POLYN162592 the MagicNumber/String  'usenewpackage' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -229,35 +229,35 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pragma.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.Pragma.isTrue@POLYN161511 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.Pragma.isTrue@POLYN162711 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pragma.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.Pragma.isTrue@POLYN161511 the MagicNumber/String  'on' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.Pragma.isTrue@POLYN162711 the MagicNumber/String  'on' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pragma.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.Pragma.useVerticalIf@POLYN161804 the MagicNumber/String  'useverticalif' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.Pragma.useVerticalIf@POLYN163004 the MagicNumber/String  'useverticalif' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pragma.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.Pragma.useTeozLayout@POLYN161954 the MagicNumber/String  'teoz' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.Pragma.useTeozLayout@POLYN163154 the MagicNumber/String  'teoz' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Pragma.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.Pragma.useKermor@POLYN162104 the MagicNumber/String  'kermor' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.Pragma.useKermor@POLYN163304 the MagicNumber/String  'kermor' should be converted to const"
 }} 
 ]
 , 

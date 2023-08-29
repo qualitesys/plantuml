@@ -166,56 +166,56 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN177097 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN178297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN177097 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN178297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN177097 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN178297 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN177097 the MagicNumber/String  0.6 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN178297 the MagicNumber/String  0.6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN177097 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN178297 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN177097 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN178297 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN177097 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN178297 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/jcckit/plot/PlotCanvas.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN177097 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method jcckit.plot.PlotCanvas.PlotCanvas@POLYN178297 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -214,35 +214,35 @@ var maDataBlocs = {
  , "c1" : "00012"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.awt.geom.XPoint2D.XPoint2D@POLYN156917 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.awt.geom.XPoint2D.XPoint2D@POLYN158117 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.awt.geom.XPoint2D.XPoint2D@POLYN156917 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.awt.geom.XPoint2D.XPoint2D@POLYN158117 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XPoint2D.toString@POLYN157063 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XPoint2D.toString@POLYN158263 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XPoint2D.toString@POLYN157063 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XPoint2D.toString@POLYN158263 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00017"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XPoint2D.java.html#17"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XPoint2D.toString@POLYN157063 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.awt.geom.XPoint2D.toString@POLYN158263 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

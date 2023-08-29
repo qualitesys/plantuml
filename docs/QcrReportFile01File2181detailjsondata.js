@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueAbstract.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.style.ValueAbstract.asString@POLYN159469 the MagicNumber/String  'Class=' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.style.ValueAbstract.asString@POLYN160669 the MagicNumber/String  'Class=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -161,49 +161,49 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueAbstract.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.style.ValueAbstract.asColor@POLYN159629 the MagicNumber/String  'Class=' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.style.ValueAbstract.asColor@POLYN160829 the MagicNumber/String  'Class=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueAbstract.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.style.ValueAbstract.asInt@POLYN159811 the MagicNumber/String  'Class=' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.style.ValueAbstract.asInt@POLYN161011 the MagicNumber/String  'Class=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueAbstract.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.style.ValueAbstract.asDouble@POLYN159971 the MagicNumber/String  'Class=' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.style.ValueAbstract.asDouble@POLYN161171 the MagicNumber/String  'Class=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueAbstract.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.style.ValueAbstract.asBoolean@POLYN160131 the MagicNumber/String  'Class=' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.style.ValueAbstract.asBoolean@POLYN161331 the MagicNumber/String  'Class=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueAbstract.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.style.ValueAbstract.asFontStyle@POLYN160291 the MagicNumber/String  'Class=' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.style.ValueAbstract.asFontStyle@POLYN161491 the MagicNumber/String  'Class=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueAbstract.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.style.ValueAbstract.asHorizontalAlignment@POLYN160451 the MagicNumber/String  'Class=' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.style.ValueAbstract.asHorizontalAlignment@POLYN161651 the MagicNumber/String  'Class=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueAbstract.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.style.ValueAbstract.getPriority@POLYN160611 the MagicNumber/String  'Class=' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.style.ValueAbstract.getPriority@POLYN161811 the MagicNumber/String  'Class=' should be converted to const"
 }} 
 ]
 , 

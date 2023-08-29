@@ -132,42 +132,42 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingTail.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN162587 the MagicNumber/String  '\u255a' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN163787 the MagicNumber/String  '\u255a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingTail.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN162587 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN163787 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingTail.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN162587 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN163787 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingTail.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN162587 the MagicNumber/String  '\u255d' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN163787 the MagicNumber/String  '\u255d' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingTail.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN162587 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN163787 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingTail.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN162587 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.drawU@POLYN163787 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -181,7 +181,7 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingTail.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.getPreferredHeight@POLYN163505 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.getPreferredHeight@POLYN164705 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -195,7 +195,7 @@ var maDataBlocs = {
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/ComponentTextGroupingTail.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.getPreferredWidth@POLYN163615 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.asciiart.ComponentTextGroupingTail.getPreferredWidth@POLYN164815 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

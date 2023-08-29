@@ -235,7 +235,7 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.dpiFactor@POLYN182007 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.dpiFactor@POLYN183207 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -256,14 +256,14 @@ var maDataBlocs = {
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.manageHiddenAutomatically@POLYN183704 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.manageHiddenAutomatically@POLYN184904 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.afterDraw@POLYN183968 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.afterDraw@POLYN185168 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -277,28 +277,28 @@ var maDataBlocs = {
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN186424 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN187624 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN186424 the MagicNumber/String  'onmouseinteractivefooter.css' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN187624 the MagicNumber/String  'onmouseinteractivefooter.css' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN186424 the MagicNumber/String  'https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.0/dist/svg.min.js' should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN187624 the MagicNumber/String  'https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.0/dist/svg.min.js' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN186424 the MagicNumber/String  'onmouseinteractivefooter.js' should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.writeToStream@POLYN187624 the MagicNumber/String  'onmouseinteractivefooter.js' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -354,14 +354,14 @@ var maDataBlocs = {
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.matchesProperty@POLYN188120 the MagicNumber/String  'SVG' should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.matchesProperty@POLYN189320 the MagicNumber/String  'SVG' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/UGraphicSvg.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.matchesProperty@POLYN188120 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.ugraphic.svg.UGraphicSvg.matchesProperty@POLYN189320 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

@@ -146,56 +146,56 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN167219 the MagicNumber/String  'data' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN168419 the MagicNumber/String  'data' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN167219 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN168419 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN167219 the MagicNumber/String  'graphical' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN168419 the MagicNumber/String  'graphical' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN167219 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN168419 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN167219 the MagicNumber/String  'data' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN168419 the MagicNumber/String  'data' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN167219 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN168419 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN167219 the MagicNumber/String  'graphical' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN168419 the MagicNumber/String  'graphical' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN167219 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method jcckit.transformation.CartesianTransformation.CartesianTransformation@POLYN168419 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -209,28 +209,28 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method jcckit.transformation.CartesianTransformation.check@POLYN169233 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method jcckit.transformation.CartesianTransformation.check@POLYN170433 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method jcckit.transformation.CartesianTransformation.check@POLYN169233 the MagicNumber/String  'The ' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method jcckit.transformation.CartesianTransformation.check@POLYN170433 the MagicNumber/String  'The ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method jcckit.transformation.CartesianTransformation.check@POLYN169233 the MagicNumber/String  ' reference points in ' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method jcckit.transformation.CartesianTransformation.check@POLYN170433 the MagicNumber/String  ' reference points in ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/jcckit/transformation/CartesianTransformation.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method jcckit.transformation.CartesianTransformation.check@POLYN169233 the MagicNumber/String  ' must be different; both are ' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method jcckit.transformation.CartesianTransformation.check@POLYN170433 the MagicNumber/String  ' must be different; both are ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

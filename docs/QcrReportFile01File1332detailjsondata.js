@@ -109,14 +109,14 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/ColorChange.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.graphic.ColorChange.ColorChange@POLYN159401 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.graphic.ColorChange.ColorChange@POLYN160601 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/ColorChange.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.graphic.ColorChange.ColorChange@POLYN159401 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.graphic.ColorChange.ColorChange@POLYN160601 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

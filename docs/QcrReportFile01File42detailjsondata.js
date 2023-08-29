@@ -149,7 +149,7 @@ var maDataBlocs = {
  , "c1" : "00035"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#35"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.degsToRads@POLYN164165 the MagicNumber/String  360 should be converted to const"
+ , "c3" : "QC-JAV000010[00035] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.degsToRads@POLYN165365 the MagicNumber/String  360 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -163,7 +163,7 @@ var maDataBlocs = {
  , "c1" : "00040"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.radsToDegs@POLYN164324 the MagicNumber/String  360 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.radsToDegs@POLYN165524 the MagicNumber/String  360 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -184,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.fmod@POLYN164793 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.fmod@POLYN165993 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -212,84 +212,84 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  '.- ' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  '.- ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  50 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  50 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Toolkit.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN166149 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method ext.plantuml.com.ctreber.acearth.util.Toolkit.intelligentCapitalize@POLYN167349 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

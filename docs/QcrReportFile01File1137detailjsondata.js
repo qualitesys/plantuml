@@ -141,21 +141,21 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN161439 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN162639 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN161439 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN162639 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/CucaDiagramSimplifierActivity.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN161439 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity.CucaDiagramSimplifierActivity@POLYN162639 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

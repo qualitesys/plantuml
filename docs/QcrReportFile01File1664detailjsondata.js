@@ -109,98 +109,98 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '\\[' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '\\[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  'TASK1' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  'TASK1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '([^\\[\\]]+?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '([^\\[\\]]+?)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '\\]' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '\\]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '(-+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '(-+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  'ARROW_STYLE' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  'ARROW_STYLE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '(?:\\[(' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '(?:\\[(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  ')\\])?' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  ')\\])?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '(-*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '(-*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '\\&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '\\&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '\\[' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '\\[' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  'TASK2' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  'TASK2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '([^\\[\\]]+?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '([^\\[\\]]+?)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN164752 the MagicNumber/String  '\\]' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.getRegexConcat@POLYN165952 the MagicNumber/String  '\\]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -228,70 +228,70 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  'TASK1' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  'TASK1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  'TASK2' should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  'TASK2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  'ARROW_STYLE' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  'ARROW_STYLE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandGanttArrow2.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN165877 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.project.command.CommandGanttArrow2.executeArg@POLYN167077 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

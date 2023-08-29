@@ -168,56 +168,56 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getPureInnerLinks@POLYN179458 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getPureInnerLinks@POLYN180658 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getPureInnerLinks@POLYN179458 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getPureInnerLinks@POLYN180658 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN180544 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN181744 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN180544 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN181744 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN180544 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN181744 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN180544 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN181744 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN180544 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN181744 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/GroupPngMakerActivity.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN180544 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.svek.GroupPngMakerActivity.getImage@POLYN181744 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

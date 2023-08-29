@@ -134,28 +134,28 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageSynchroBar.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.image.EntityImageSynchroBar.calculateDimension@POLYN166479 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.image.EntityImageSynchroBar.calculateDimension@POLYN167679 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageSynchroBar.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.image.EntityImageSynchroBar.calculateDimension@POLYN166479 the MagicNumber/String  80 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.svek.image.EntityImageSynchroBar.calculateDimension@POLYN167679 the MagicNumber/String  80 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageSynchroBar.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.image.EntityImageSynchroBar.calculateDimension@POLYN166479 the MagicNumber/String  80 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.image.EntityImageSynchroBar.calculateDimension@POLYN167679 the MagicNumber/String  80 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageSynchroBar.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.image.EntityImageSynchroBar.calculateDimension@POLYN166479 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.svek.image.EntityImageSynchroBar.calculateDimension@POLYN167679 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

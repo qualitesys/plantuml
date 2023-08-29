@@ -117,14 +117,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.Stereostyles.build@POLYN160245 the MagicNumber/String  '\\&amp;lt;{3}(.*?)\\&amp;gt;{3}' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.cucadiagram.Stereostyles.build@POLYN161445 the MagicNumber/String  '\\&amp;lt;{3}(.*?)\\&amp;gt;{3}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/Stereostyles.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.Stereostyles.build@POLYN160245 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.cucadiagram.Stereostyles.build@POLYN161445 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

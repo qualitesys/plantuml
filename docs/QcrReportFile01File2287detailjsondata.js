@@ -116,7 +116,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityFactoryExtendsLike.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtendsLike.createUDrawable@POLYN161240 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.extremity.ExtremityFactoryExtendsLike.createUDrawable@POLYN162440 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ]
 , 

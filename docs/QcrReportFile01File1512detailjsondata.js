@@ -102,14 +102,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandComment.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.nwdiag.CommandComment.getRegexConcat@POLYN159514 the MagicNumber/String  '//' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.nwdiag.CommandComment.getRegexConcat@POLYN160714 the MagicNumber/String  '//' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/CommandComment.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.nwdiag.CommandComment.getRegexConcat@POLYN159514 the MagicNumber/String  '.*' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.nwdiag.CommandComment.getRegexConcat@POLYN160714 the MagicNumber/String  '.*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

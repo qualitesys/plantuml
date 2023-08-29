@@ -257,7 +257,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.setSpecificColor@POLYN172778 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.setSpecificColor@POLYN173978 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -271,7 +271,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.setSpecificColor@POLYN172933 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.setSpecificColor@POLYN174133 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -292,14 +292,14 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.goHidden@POLYN174149 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.goHidden@POLYN175349 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.goSingle@POLYN174418 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.goSingle@POLYN175618 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -320,21 +320,21 @@ var maDataBlocs = {
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyStyle@POLYN174611 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyStyle@POLYN175811 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyStyle@POLYN174611 the MagicNumber/String  ';' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyStyle@POLYN175811 the MagicNumber/String  ';' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyStyle@POLYN174611 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyStyle@POLYN175811 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -362,70 +362,70 @@ var maDataBlocs = {
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'dashed' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'dashed' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'bold' should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'bold' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'dotted' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'dotted' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'hidden' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'hidden' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'single' should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'single' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'plain' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'plain' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'norank' should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'norank' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'thickness=' should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'thickness=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/WithLinkType.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN175223 the MagicNumber/String  'thickness=' should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.cucadiagram.WithLinkType.applyOneStyle@POLYN176423 the MagicNumber/String  'thickness=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

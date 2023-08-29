@@ -259,7 +259,7 @@ var maDataBlocs = {
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.isWindows@POLYN193928 the MagicNumber/String  '\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.isWindows@POLYN195128 the MagicNumber/String  '\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -273,14 +273,14 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.setDotExecutable@POLYN194189 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.setDotExecutable@POLYN195389 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.setDotExecutable@POLYN194189 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.setDotExecutable@POLYN195389 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -294,28 +294,28 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.createForSystemDot@POLYN194409 the MagicNumber/String  'Using ' should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.createForSystemDot@POLYN195609 the MagicNumber/String  'Using ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.createForSystemDot@POLYN194409 the MagicNumber/String  'Error with file ' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.createForSystemDot@POLYN195609 the MagicNumber/String  'Error with file ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.createForSystemDot@POLYN194409 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.createForSystemDot@POLYN195609 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.createForSystemDot@POLYN194409 the MagicNumber/String  'Using ' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.createForSystemDot@POLYN195609 the MagicNumber/String  'Using ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,28 +329,28 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.create@POLYN195690 the MagicNumber/String  'Using ' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.create@POLYN196890 the MagicNumber/String  'Using ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.create@POLYN195690 the MagicNumber/String  'Error with file ' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.create@POLYN196890 the MagicNumber/String  'Error with file ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.create@POLYN195690 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.create@POLYN196890 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.create@POLYN195690 the MagicNumber/String  'Using ' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.create@POLYN196890 the MagicNumber/String  'Using ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -364,63 +364,63 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.useVizJs@POLYN196971 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.useVizJs@POLYN198171 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.useVizJs@POLYN196971 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.useVizJs@POLYN198171 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.useVizJs@POLYN196971 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.useVizJs@POLYN198171 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.useVizJs@POLYN196971 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.useVizJs@POLYN198171 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getDotExe@POLYN197425 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getDotExe@POLYN198625 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getDotExe@POLYN197425 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getDotExe@POLYN198625 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvGraphvizDot@POLYN197593 the MagicNumber/String  'GRAPHVIZ_DOT' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvGraphvizDot@POLYN198793 the MagicNumber/String  'GRAPHVIZ_DOT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvGraphvizDot@POLYN197593 the MagicNumber/String  'GRAPHVIZ_DOT' should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvGraphvizDot@POLYN198793 the MagicNumber/String  'GRAPHVIZ_DOT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvGraphvizDot@POLYN197593 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvGraphvizDot@POLYN198793 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -434,91 +434,91 @@ var maDataBlocs = {
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvImageLimit@POLYN198690 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvImageLimit@POLYN199890 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvImageLimit@POLYN198690 the MagicNumber/String  'PLANTUML_LIMIT_SIZE' should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvImageLimit@POLYN199890 the MagicNumber/String  'PLANTUML_LIMIT_SIZE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvImageLimit@POLYN198690 the MagicNumber/String  '\\d+' should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvImageLimit@POLYN199890 the MagicNumber/String  '\\d+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvImageLimit@POLYN198690 the MagicNumber/String  4096 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvImageLimit@POLYN199890 the MagicNumber/String  4096 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvDefaultConfigFilename@POLYN199267 the MagicNumber/String  'PLANTUML_DEFAULT_CONFIG_FILENAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvDefaultConfigFilename@POLYN200467 the MagicNumber/String  'PLANTUML_DEFAULT_CONFIG_FILENAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvLogData@POLYN199399 the MagicNumber/String  'PLANTUML_LOGDATA' should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getenvLogData@POLYN200599 the MagicNumber/String  'PLANTUML_LOGDATA' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.dotVersion@POLYN199604 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.dotVersion@POLYN200804 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.dotVersion@POLYN199604 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.dotVersion@POLYN200804 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#178"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.dotVersion@POLYN199604 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00178] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.dotVersion@POLYN200804 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.dotVersion@POLYN199604 the MagicNumber/String  'Error:' should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.dotVersion@POLYN200804 the MagicNumber/String  'Error:' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.graphviz244onWindows@POLYN200289 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.graphviz244onWindows@POLYN201489 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.graphviz244onWindows@POLYN200289 the MagicNumber/String  'png' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.graphviz244onWindows@POLYN201489 the MagicNumber/String  'png' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.graphviz244onWindows@POLYN200289 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.graphviz244onWindows@POLYN201489 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -532,56 +532,56 @@ var maDataBlocs = {
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN200631 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN201831 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN200631 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN201831 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN200631 the MagicNumber/String  '\\s(\\d)\\.(\\d\\d?)\\D' should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN201831 the MagicNumber/String  '\\s(\\d)\\.(\\d\\d?)\\D' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN200631 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN201831 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN200631 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN201831 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN200631 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN201831 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN200631 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN201831 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00204"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#204"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN200631 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00204] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.retrieveVersion@POLYN201831 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -602,266 +602,266 @@ var maDataBlocs = {
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00213"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  '&amp;lt;b&amp;gt;&amp;lt;color:red&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  '&amp;lt;b&amp;gt;&amp;lt;color:red&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  '&amp;lt;b&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  '&amp;lt;b&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00221"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#221"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00221] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00222"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#222"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'VizJs library is used!' should be converted to const"
+ , "c3" : "QC-JAV000010[00222] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'VizJs library is used!' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Installation seems OK. File generation OK' should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Installation seems OK. File generation OK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00233"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'The environment variable GRAPHVIZ_DOT has not been set' should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'The environment variable GRAPHVIZ_DOT has not been set' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#244"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'The environment variable GRAPHVIZ_DOT has been set to ' should be converted to const"
+ , "c3" : "QC-JAV000010[00244] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'The environment variable GRAPHVIZ_DOT has been set to ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Dot executable is ' should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Dot executable is ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Dot version: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Dot version: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00256"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#256"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Warning : cannot determine dot version' should be converted to const"
+ , "c3" : "QC-JAV000010[00256] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Warning : cannot determine dot version' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00259"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#259"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Warning : Your dot installation seems old' should be converted to const"
+ , "c3" : "QC-JAV000010[00259] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Warning : Your dot installation seems old' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00260"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#260"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Some diagrams may have issues' should be converted to const"
+ , "c3" : "QC-JAV000010[00260] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Some diagrams may have issues' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00261"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#261"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00261] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00264"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#264"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00264] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00265"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#265"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Installation seems OK. File generation OK' should be converted to const"
+ , "c3" : "QC-JAV000010[00265] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Installation seems OK. File generation OK' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00274"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#274"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00274] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Error: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Error: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00278"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#278"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  'Error: only sequence diagrams will be generated' should be converted to const"
+ , "c3" : "QC-JAV000010[00278] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  'Error: only sequence diagrams will be generated' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00279"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#279"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN201534 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00279] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.addDotStatus@POLYN202734 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  'digraph foo { test; }' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  'digraph foo { test; }' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00286"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#286"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  'svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00286] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  'svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00290"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#290"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  'Error: timeout ' should be converted to const"
+ , "c3" : "QC-JAV000010[00290] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  'Error: timeout ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00294"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  'Error: dot generates empty file. Check you dot installation.' should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  'Error: dot generates empty file. Check you dot installation.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  '&amp;lt;svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  '&amp;lt;svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00298"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#298"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00298] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00299"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#299"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  'Error: dot generates unreadable SVG file. Check you dot installation.' should be converted to const"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  'Error: dot generates unreadable SVG file. Check you dot installation.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00301"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/dot/GraphvizUtils.java.html#301"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN205489 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00301] In method net.sourceforge.plantuml.cucadiagram.dot.GraphvizUtils.getTestCreateSimpleFile@POLYN206689 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

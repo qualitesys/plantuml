@@ -127,63 +127,63 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  '(partition|package|rectangle|card|group)' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  '(partition|package|rectangle|card|group)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  'BACK1' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  'BACK1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  '([%g][^%g]+[%g]|.*?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  '([%g][^%g]+[%g]|.*?)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  'BACK2' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  'BACK2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  'STEREO' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  'STEREO' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  '(\\&amp;lt;{2}.*\\&amp;gt;{2})?' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  '(\\&amp;lt;{2}.*\\&amp;gt;{2})?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN175091 the MagicNumber/String  '\\{?' should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getRegexConcat@POLYN176291 the MagicNumber/String  '\\{?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -197,35 +197,35 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN176162 the MagicNumber/String  'partition' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN177362 the MagicNumber/String  'partition' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN176162 the MagicNumber/String  'package' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN177362 the MagicNumber/String  'package' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN176162 the MagicNumber/String  'rectangle' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN177362 the MagicNumber/String  'rectangle' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN176162 the MagicNumber/String  'card' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN177362 the MagicNumber/String  'card' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN176162 the MagicNumber/String  'group' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.getUSymbol@POLYN177362 the MagicNumber/String  'group' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -260,98 +260,98 @@ var maDataBlocs = {
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  'NAME' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  'NAME' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  'BACK1' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  'BACK1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  'BACK2' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  'BACK2' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  'BACK1' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  'BACK1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  'TYPE' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  'TYPE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  'STEREO' should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  'STEREO' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/command/CommandPartition3.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN177260 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3.executeArg@POLYN178460 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

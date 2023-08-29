@@ -90,7 +90,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/log/Logme.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.log.Logme.error@POLYN157764 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.log.Logme.error@POLYN158964 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

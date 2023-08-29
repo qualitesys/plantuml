@@ -169,7 +169,7 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.mindmap.StripeFrontier.isEmpty@POLYN172488 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.mindmap.StripeFrontier.isEmpty@POLYN173688 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -204,21 +204,21 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN173626 the MagicNumber/String  'x1=' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN174826 the MagicNumber/String  'x1=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN173626 the MagicNumber/String  'x2=' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN174826 the MagicNumber/String  'x2=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN173626 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.mindmap.StripeFrontier.addSegment@POLYN174826 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -239,49 +239,49 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN176376 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN177576 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN176376 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN177576 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN176376 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN177576 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN176376 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN177576 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN176376 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN177576 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN176376 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN177576 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/StripeFrontier.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN176376 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.mindmap.StripeFrontier.checkConsistent@POLYN177576 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

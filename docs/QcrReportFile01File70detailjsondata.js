@@ -108,35 +108,35 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/ECI.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN153612 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN154812 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00043"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/ECI.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN153612 the MagicNumber/String  999999 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN154812 the MagicNumber/String  999999 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/ECI.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN153612 the MagicNumber/String  'Bad ECI value: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN154812 the MagicNumber/String  'Bad ECI value: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/ECI.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN153612 the MagicNumber/String  900 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN154812 the MagicNumber/String  900 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/ECI.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN153612 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.google.zxing.common.ECI.getECIByValue@POLYN154812 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

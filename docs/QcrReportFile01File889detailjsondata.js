@@ -107,7 +107,7 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.code.CompressionHuffman.compress@POLYN161497 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.code.CompressionHuffman.compress@POLYN162697 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -128,7 +128,7 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/code/CompressionHuffman.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.CompressionHuffman.decompress@POLYN162349 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.code.CompressionHuffman.decompress@POLYN163549 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

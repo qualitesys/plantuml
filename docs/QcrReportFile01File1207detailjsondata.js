@@ -118,21 +118,21 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getRegexConcat@POLYN160602 the MagicNumber/String  'LINE' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getRegexConcat@POLYN161802 the MagicNumber/String  'LINE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getRegexConcat@POLYN160602 the MagicNumber/String  '(\\w[-\\w]*[%s]*=.*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getRegexConcat@POLYN161802 the MagicNumber/String  '(\\w[-\\w]*[%s]*=.*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getPatternEnd@POLYN160941 the MagicNumber/String  '^(.*);$' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.getPatternEnd@POLYN162141 the MagicNumber/String  '^(.*);$' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -153,14 +153,14 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.executeNow@POLYN161043 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.executeNow@POLYN162243 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandEbnfMultilines.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.executeNow@POLYN161043 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.CommandEbnfMultilines.executeNow@POLYN162243 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

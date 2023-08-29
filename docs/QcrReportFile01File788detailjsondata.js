@@ -224,14 +224,14 @@ var maDataBlocs = {
  , "c1" : "00037"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XRectangle2D.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.getCenterX@POLYN155620 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.getCenterX@POLYN156820 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XRectangle2D.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.getCenterY@POLYN155752 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.getCenterY@POLYN156952 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -287,28 +287,28 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XRectangle2D.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.intersects@POLYN156557 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.intersects@POLYN157757 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XRectangle2D.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.intersects@POLYN156557 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.intersects@POLYN157757 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XRectangle2D.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.intersects@POLYN156557 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.intersects@POLYN157757 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XRectangle2D.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.intersects@POLYN156557 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.intersects@POLYN157757 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,14 +329,14 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XRectangle2D.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.contains@POLYN157389 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.contains@POLYN158589 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XRectangle2D.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.contains@POLYN157389 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.awt.geom.XRectangle2D.contains@POLYN158589 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

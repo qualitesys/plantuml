@@ -118,14 +118,14 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconic.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconic.getDescription@POLYN160223 the MagicNumber/String  '(Open iconic)' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconic.getDescription@POLYN161423 the MagicNumber/String  '(Open iconic)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/openiconic/PSystemOpenIconic.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconic.getDefaultMargins@POLYN160363 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.openiconic.PSystemOpenIconic.getDefaultMargins@POLYN161563 the MagicNumber/String  5 should be converted to const"
 }} 
 ]
 , 
