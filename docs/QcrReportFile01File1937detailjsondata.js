@@ -109,28 +109,28 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.getRegexConcat@POLYN162496 the MagicNumber/String  '\\|\\|' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.getRegexConcat@POLYN162752 the MagicNumber/String  '\\|\\|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.getRegexConcat@POLYN162496 the MagicNumber/String  'VALUE' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.getRegexConcat@POLYN162752 the MagicNumber/String  'VALUE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.getRegexConcat@POLYN162496 the MagicNumber/String  '(\\d+)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.getRegexConcat@POLYN162752 the MagicNumber/String  '(\\d+)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.getRegexConcat@POLYN162496 the MagicNumber/String  '\\|+' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.getRegexConcat@POLYN162752 the MagicNumber/String  '\\|+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -158,14 +158,14 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.executeArg@POLYN162959 the MagicNumber/String  'VALUE' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.executeArg@POLYN163215 the MagicNumber/String  'VALUE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/command/CommandHSpace.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.executeArg@POLYN162959 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.command.CommandHSpace.executeArg@POLYN163215 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

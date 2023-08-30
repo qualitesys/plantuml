@@ -154,14 +154,14 @@ var maDataBlocs = {
  , "c1" : "00086"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#86"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.graphic.USymbol.suppHeightBecauseOfShape@POLYN163716 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00086] In method net.sourceforge.plantuml.graphic.USymbol.suppHeightBecauseOfShape@POLYN163972 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/USymbol.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.graphic.USymbol.suppWidthBecauseOfShape@POLYN163804 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.graphic.USymbol.suppWidthBecauseOfShape@POLYN164060 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

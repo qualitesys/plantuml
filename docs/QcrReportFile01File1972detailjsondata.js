@@ -141,7 +141,7 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalHSpace.getPreferredWidth@POLYN159609 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalHSpace.getPreferredWidth@POLYN159865 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -155,7 +155,7 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalHSpace.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalHSpace.getStartingX@POLYN159733 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalHSpace.getStartingX@POLYN159989 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

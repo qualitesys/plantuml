@@ -109,7 +109,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectToday.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.SubjectToday.toRegex@POLYN164870 the MagicNumber/String  'today' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.lang.SubjectToday.toRegex@POLYN165126 the MagicNumber/String  'today' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

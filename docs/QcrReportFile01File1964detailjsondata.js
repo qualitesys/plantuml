@@ -152,14 +152,14 @@ var maDataBlocs = {
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.create@POLYN165094 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.create@POLYN165350 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.create@POLYN165094 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.create@POLYN165350 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -208,7 +208,7 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/FrontierComplex.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.mergeMax@POLYN167386 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.sequencediagram.graphic.FrontierComplex.mergeMax@POLYN167642 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -284,7 +284,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method org.stathissideris.ascii2image.graphics.ShapeEdge.getDistanceFromOrigin@POLYN182713 the MagicNumber/String  'Cannot calculate distance of sloped edge from origin' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method org.stathissideris.ascii2image.graphics.ShapeEdge.getDistanceFromOrigin@POLYN182969 the MagicNumber/String  'Cannot calculate distance of sloped edge from origin' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -298,91 +298,91 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#66"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00066] For method moveInwardsBy list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.ShapePoint getMiddleN183537|java.awt.geom.GeneralPath owner_makeIntoPathN183606"
+ , "c3" : "QC-JAV000007[00066] For method moveInwardsBy list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.ShapePoint getMiddleN183793|java.awt.geom.GeneralPath owner_makeIntoPathN183862"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  'Cannot move a sloped egde inwards: ' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  'Cannot move a sloped egde inwards: ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  0.05f should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  0.05f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  0.05f should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  0.05f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  0.05f should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  0.05f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  0.05f should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  0.05f should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  'Moved edge ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  'Moved edge ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  ' by ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  ' by ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183100 the MagicNumber/String  ', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method org.stathissideris.ascii2image.graphics.ShapeEdge.moveInwardsBy@POLYN183356 the MagicNumber/String  ', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -396,14 +396,14 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method org.stathissideris.ascii2image.graphics.ShapeEdge.getMiddle@POLYN185712 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method org.stathissideris.ascii2image.graphics.ShapeEdge.getMiddle@POLYN185968 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method org.stathissideris.ascii2image.graphics.ShapeEdge.getMiddle@POLYN185712 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method org.stathissideris.ascii2image.graphics.ShapeEdge.getMiddle@POLYN185968 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -438,28 +438,28 @@ var maDataBlocs = {
  , "c1" : "00162"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method org.stathissideris.ascii2image.graphics.ShapeEdge.equals@POLYN187151 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method org.stathissideris.ascii2image.graphics.ShapeEdge.equals@POLYN187407 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method org.stathissideris.ascii2image.graphics.ShapeEdge.equals@POLYN187151 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method org.stathissideris.ascii2image.graphics.ShapeEdge.equals@POLYN187407 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method org.stathissideris.ascii2image.graphics.ShapeEdge.equals@POLYN187151 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method org.stathissideris.ascii2image.graphics.ShapeEdge.equals@POLYN187407 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method org.stathissideris.ascii2image.graphics.ShapeEdge.equals@POLYN187151 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method org.stathissideris.ascii2image.graphics.ShapeEdge.equals@POLYN187407 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -480,98 +480,98 @@ var maDataBlocs = {
  , "c1" : "00172"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN187871 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN188127 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN187871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN188127 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN187871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN188127 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN187871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN188127 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN187871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN188127 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN187871 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN188127 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00211"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN187871 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN188127 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN187871 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method org.stathissideris.ascii2image.graphics.ShapeEdge.touchesWith@POLYN188127 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00234"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#234"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00234] In method org.stathissideris.ascii2image.graphics.ShapeEdge.fixDirection@POLYN190211 the MagicNumber/String  'Cannot fix direction of sloped egde' should be converted to const"
+ , "c3" : "QC-JAV000010[00234] In method org.stathissideris.ascii2image.graphics.ShapeEdge.fixDirection@POLYN190467 the MagicNumber/String  'Cannot fix direction of sloped egde' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method org.stathissideris.ascii2image.graphics.ShapeEdge.isHorizontal@POLYN190915 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method org.stathissideris.ascii2image.graphics.ShapeEdge.isHorizontal@POLYN191171 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00246"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method org.stathissideris.ascii2image.graphics.ShapeEdge.isHorizontal@POLYN190915 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method org.stathissideris.ascii2image.graphics.ShapeEdge.isHorizontal@POLYN191171 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00250"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#250"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00250] In method org.stathissideris.ascii2image.graphics.ShapeEdge.isVertical@POLYN191110 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00250] In method org.stathissideris.ascii2image.graphics.ShapeEdge.isVertical@POLYN191366 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00251"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#251"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00251] In method org.stathissideris.ascii2image.graphics.ShapeEdge.isVertical@POLYN191110 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00251] In method org.stathissideris.ascii2image.graphics.ShapeEdge.isVertical@POLYN191366 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method org.stathissideris.ascii2image.graphics.ShapeEdge.toString@POLYN191305 the MagicNumber/String  ' -&amp;gt; ' should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method org.stathissideris.ascii2image.graphics.ShapeEdge.toString@POLYN191561 the MagicNumber/String  ' -&amp;gt; ' should be converted to const"
 }} 
 ]
 , 

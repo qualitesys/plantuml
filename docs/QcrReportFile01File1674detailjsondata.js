@@ -109,21 +109,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandSeparator.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.command.CommandSeparator.getRegexConcat@POLYN161613 the MagicNumber/String  '--' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.project.command.CommandSeparator.getRegexConcat@POLYN161869 the MagicNumber/String  '--' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandSeparator.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandSeparator.getRegexConcat@POLYN161613 the MagicNumber/String  'COMMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandSeparator.getRegexConcat@POLYN161869 the MagicNumber/String  'COMMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandSeparator.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandSeparator.getRegexConcat@POLYN161613 the MagicNumber/String  '((.+?)[%s]*--)?' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.project.command.CommandSeparator.getRegexConcat@POLYN161869 the MagicNumber/String  '((.+?)[%s]*--)?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -151,14 +151,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandSeparator.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.command.CommandSeparator.executeArg@POLYN162056 the MagicNumber/String  'COMMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.command.CommandSeparator.executeArg@POLYN162312 the MagicNumber/String  'COMMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/command/CommandSeparator.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.command.CommandSeparator.executeArg@POLYN162056 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.project.command.CommandSeparator.executeArg@POLYN162312 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

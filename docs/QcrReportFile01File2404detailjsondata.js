@@ -201,21 +201,21 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.FunctionsSet.getFunctionSmart@POLYN177620 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.FunctionsSet.getFunctionSmart@POLYN177876 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.FunctionsSet.getFunctionSmart@POLYN177620 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.tim.FunctionsSet.getFunctionSmart@POLYN177876 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.FunctionsSet.getFunctionSmart@POLYN177620 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.FunctionsSet.getFunctionSmart@POLYN177876 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -243,14 +243,14 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.tim.FunctionsSet.addFunction@POLYN178897 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.tim.FunctionsSet.addFunction@POLYN179153 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.FunctionsSet.executeEndfunction@POLYN179423 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.tim.FunctionsSet.executeEndfunction@POLYN179679 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -264,21 +264,21 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefine@POLYN179609 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefine@POLYN179865 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefine@POLYN179609 the MagicNumber/String  'already0048' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefine@POLYN179865 the MagicNumber/String  'already0048' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefine@POLYN179609 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefine@POLYN179865 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -292,14 +292,14 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefineLong@POLYN180447 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefineLong@POLYN180703 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefineLong@POLYN180447 the MagicNumber/String  'already0068' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.tim.FunctionsSet.executeLegacyDefineLong@POLYN180703 the MagicNumber/String  'already0068' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -313,28 +313,28 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareReturnFunction@POLYN181019 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareReturnFunction@POLYN181275 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareReturnFunction@POLYN181019 the MagicNumber/String  'already0068' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareReturnFunction@POLYN181275 the MagicNumber/String  'already0068' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareReturnFunction@POLYN181019 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareReturnFunction@POLYN181275 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareReturnFunction@POLYN181019 the MagicNumber/String  'This function is already defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareReturnFunction@POLYN181275 the MagicNumber/String  'This function is already defined' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -348,28 +348,28 @@ var maDataBlocs = {
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareProcedure@POLYN182484 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareProcedure@POLYN182740 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareProcedure@POLYN182484 the MagicNumber/String  'already0068' should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareProcedure@POLYN182740 the MagicNumber/String  'already0068' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareProcedure@POLYN182484 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareProcedure@POLYN182740 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/FunctionsSet.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareProcedure@POLYN182484 the MagicNumber/String  'This function is already defined' should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.tim.FunctionsSet.executeDeclareProcedure@POLYN182740 the MagicNumber/String  'This function is already defined' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

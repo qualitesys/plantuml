@@ -150,14 +150,14 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder.getMinMax@POLYN165650 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder.getMinMax@POLYN165906 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder.getMinMax@POLYN165650 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder.getMinMax@POLYN165906 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -171,7 +171,7 @@ var maDataBlocs = {
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/comp/PiecewiseAffineOnXorYBuilder.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder.getBackcolor@POLYN166592 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineOnXorYBuilder.getBackcolor@POLYN166848 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

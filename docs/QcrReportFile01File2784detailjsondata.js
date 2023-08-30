@@ -118,35 +118,35 @@ var maDataBlocs = {
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN159651 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN159907 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00041"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#41"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN159651 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00041] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN159907 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN159651 the MagicNumber/String  '1.0' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN159907 the MagicNumber/String  '1.0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN159651 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.createOne@POLYN159907 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.getNbPages@POLYN161068 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.getNbPages@POLYN161324 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -160,7 +160,7 @@ var maDataBlocs = {
  , "c1" : "00081"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/xmi/SequenceDiagramXmiMaker.java.html#81"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.writeDocument@POLYN161148 the MagicNumber/String  'yes' should be converted to const"
+ , "c3" : "QC-JAV000010[00081] In method net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker.writeDocument@POLYN161404 the MagicNumber/String  'yes' should be converted to const"
 }} 
 ]
 , 

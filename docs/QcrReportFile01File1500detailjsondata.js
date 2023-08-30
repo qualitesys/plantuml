@@ -326,14 +326,14 @@ var maDataBlocs = {
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.mindmap.FingerImpl.FingerImpl@POLYN202399 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.mindmap.FingerImpl.FingerImpl@POLYN202655 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.mindmap.FingerImpl.FingerImpl@POLYN202399 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.mindmap.FingerImpl.FingerImpl@POLYN202655 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -382,70 +382,70 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN202879 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawU@POLYN203135 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -480,28 +480,28 @@ var maDataBlocs = {
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN206447 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN206703 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN206447 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN206703 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN206447 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN206703 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN206447 the MagicNumber/String  25 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.mindmap.FingerImpl.drawLine@POLYN206703 the MagicNumber/String  25 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -515,7 +515,7 @@ var maDataBlocs = {
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.mindmap.FingerImpl.getTetris@POLYN208333 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.mindmap.FingerImpl.getTetris@POLYN208589 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -529,35 +529,35 @@ var maDataBlocs = {
  , "c1" : "00180"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN208870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN209126 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN208870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN209126 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN208870 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method net.sourceforge.plantuml.mindmap.FingerImpl.asSymetricalTee@POLYN209126 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.mindmap.FingerImpl.getX2@POLYN209971 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.mindmap.FingerImpl.getX2@POLYN210227 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.mindmap.FingerImpl.getX2@POLYN209971 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.mindmap.FingerImpl.getX2@POLYN210227 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -578,126 +578,126 @@ var maDataBlocs = {
  , "c1" : "00219"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#219"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00219] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00220"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00220"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#220"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00220] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00230"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00230"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00238"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#238"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00238] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00239"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#239"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00239] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00240"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#240"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00240] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00242"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#242"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211039 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00242] In method net.sourceforge.plantuml.mindmap.FingerImpl.getPhalanx@POLYN211295 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -732,7 +732,7 @@ var maDataBlocs = {
  , "c1" : "00275"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/mindmap/FingerImpl.java.html#275"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.mindmap.FingerImpl.doNotDrawFirstPhalanx@POLYN214427 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00275] In method net.sourceforge.plantuml.mindmap.FingerImpl.doNotDrawFirstPhalanx@POLYN214683 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

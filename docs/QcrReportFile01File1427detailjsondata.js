@@ -115,7 +115,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphml/CucaDiagramGraphmlMaker.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker.getModel@POLYN162660 the MagicNumber/String  'model1' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker.getModel@POLYN162916 the MagicNumber/String  'model1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

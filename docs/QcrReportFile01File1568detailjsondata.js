@@ -147,7 +147,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.oregon.SmartKeyboard.input@POLYN160810 the MagicNumber/String  '&amp;lt;i&amp;gt;? ' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.oregon.SmartKeyboard.input@POLYN161066 the MagicNumber/String  '&amp;lt;i&amp;gt;? ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -168,21 +168,21 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN161178 the MagicNumber/String  '\\d+' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN161434 the MagicNumber/String  '\\d+' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN161178 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN161434 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/SmartKeyboard.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN161178 the MagicNumber/String  'Please enter a valid number instead of ' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.oregon.SmartKeyboard.inputInt@POLYN161434 the MagicNumber/String  'Please enter a valid number instead of ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

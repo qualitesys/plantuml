@@ -169,7 +169,7 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.RectangleTask.RectangleTask@POLYN194404 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.project.draw.RectangleTask.RectangleTask@POLYN194660 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -211,21 +211,21 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawRect@POLYN195540 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawRect@POLYN195796 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawRect@POLYN195540 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawRect@POLYN195796 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawRect@POLYN195540 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawRect@POLYN195796 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,77 +253,77 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN196762 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.project.draw.RectangleTask.draw@POLYN197018 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -351,35 +351,35 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200127 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200383 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200127 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200383 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200127 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200383 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200127 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200383 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200127 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithRound@POLYN200383 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -407,63 +407,63 @@ var maDataBlocs = {
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201665 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201921 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201665 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201921 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201665 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201921 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#149"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201665 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00149] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201921 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201665 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201921 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201665 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201921 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201665 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201921 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201665 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawWithoutRound@POLYN201921 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.project.draw.RectangleTask.getFullSegmentsLength@POLYN204001 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method net.sourceforge.plantuml.project.draw.RectangleTask.getFullSegmentsLength@POLYN204257 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -484,56 +484,56 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204271 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204527 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204271 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204527 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204271 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204527 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204271 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204527 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204271 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204527 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204271 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204527 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204271 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204527 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204271 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawIntermediateDotted@POLYN204527 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -561,35 +561,35 @@ var maDataBlocs = {
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205382 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205638 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205382 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205638 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205382 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205638 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205382 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205638 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/RectangleTask.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205382 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method net.sourceforge.plantuml.project.draw.RectangleTask.drawPartly@POLYN205638 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

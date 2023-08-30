@@ -180,7 +180,7 @@ var maDataBlocs = {
  , "c1" : "00042"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#42"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00042] For method create list of called methods Object monObjet|java.lang.String config_getN190634"
+ , "c3" : "QC-JAV000007[00042] For method create list of called methods Object monObjet|java.lang.String config_getN190890"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -194,28 +194,28 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method jcckit.util.Format.create@POLYN190451 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method jcckit.util.Format.create@POLYN190707 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method jcckit.util.Format.create@POLYN190451 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method jcckit.util.Format.create@POLYN190707 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method jcckit.util.Format.create@POLYN190451 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method jcckit.util.Format.create@POLYN190707 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method jcckit.util.Format.create@POLYN190451 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method jcckit.util.Format.create@POLYN190707 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -236,112 +236,112 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00120"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  '%' should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  '%' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method jcckit.util.Format.Format@POLYN192701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method jcckit.util.Format.Format@POLYN192957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -355,21 +355,21 @@ var maDataBlocs = {
  , "c1" : "00157"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method jcckit.util.Format.form@POLYN195971 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method jcckit.util.Format.form@POLYN196227 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method jcckit.util.Format.form@POLYN195971 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method jcckit.util.Format.form@POLYN196227 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method jcckit.util.Format.form@POLYN195971 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method jcckit.util.Format.form@POLYN196227 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -383,21 +383,21 @@ var maDataBlocs = {
  , "c1" : "00175"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method jcckit.util.Format.form@POLYN196718 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method jcckit.util.Format.form@POLYN196974 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method jcckit.util.Format.form@POLYN196718 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method jcckit.util.Format.form@POLYN196974 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method jcckit.util.Format.form@POLYN196718 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method jcckit.util.Format.form@POLYN196974 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -418,7 +418,7 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method jcckit.util.Format.appendRest@POLYN197253 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method jcckit.util.Format.appendRest@POLYN197509 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -432,21 +432,21 @@ var maDataBlocs = {
  , "c1" : "00200"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method jcckit.util.Format.form@POLYN197961 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method jcckit.util.Format.form@POLYN198217 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.util.Format.form@POLYN197961"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.util.Format.form@POLYN198217"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/jcckit/util/Format.java.html#200"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00200] In the recursive method jcckit.util.Format.form@POLYN197961 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00200] In the recursive method jcckit.util.Format.form@POLYN198217 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
 , 

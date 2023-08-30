@@ -77,7 +77,7 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageDeepHistory.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.svek.image.EntityImageDeepHistory.EntityImageDeepHistory@POLYN157595 the MagicNumber/String  'H*' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.svek.image.EntityImageDeepHistory.EntityImageDeepHistory@POLYN157851 the MagicNumber/String  'H*' should be converted to const"
 }} 
 ]
 , 

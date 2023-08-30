@@ -114,7 +114,7 @@ var maDataBlocs = {
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorScheme.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.color.HColorScheme.getAppropriateColor@POLYN158843 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.ugraphic.color.HColorScheme.getAppropriateColor@POLYN159099 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

@@ -109,28 +109,28 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ebnf.CommandComment.getRegexConcat@POLYN161887 the MagicNumber/String  '\\(\\*' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ebnf.CommandComment.getRegexConcat@POLYN162143 the MagicNumber/String  '\\(\\*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ebnf.CommandComment.getRegexConcat@POLYN161887 the MagicNumber/String  'COMMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ebnf.CommandComment.getRegexConcat@POLYN162143 the MagicNumber/String  'COMMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ebnf.CommandComment.getRegexConcat@POLYN161887 the MagicNumber/String  '(.*[^%s].*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.ebnf.CommandComment.getRegexConcat@POLYN162143 the MagicNumber/String  '(.*[^%s].*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ebnf.CommandComment.getRegexConcat@POLYN161887 the MagicNumber/String  '\\*\\)' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ebnf.CommandComment.getRegexConcat@POLYN162143 the MagicNumber/String  '\\*\\)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -158,21 +158,21 @@ var maDataBlocs = {
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ebnf.CommandComment.executeArg@POLYN162434 the MagicNumber/String  'COMMENT' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ebnf.CommandComment.executeArg@POLYN162690 the MagicNumber/String  'COMMENT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ebnf.CommandComment.executeArg@POLYN162434 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.ebnf.CommandComment.executeArg@POLYN162690 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/CommandComment.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.CommandComment.executeArg@POLYN162434 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.ebnf.CommandComment.executeArg@POLYN162690 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

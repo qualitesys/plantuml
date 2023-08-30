@@ -147,126 +147,126 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  '@startuml\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  '@startuml\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  'No @startuml/@enduml found' should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  'No @startuml/@enduml found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  '@enduml\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  '@enduml\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  '@enduml' should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  '@enduml' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  'No @enduml found' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  'No @enduml found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  'No @enduml found' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  'No @enduml found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179162 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntax@POLYN179418 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -280,35 +280,35 @@ var maDataBlocs = {
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182280 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182536 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182280 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182536 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182280 the MagicNumber/String  'No @enduml found' should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182536 the MagicNumber/String  'No @enduml found' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182280 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182536 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182280 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.syntax.SyntaxChecker.checkSyntaxFair@POLYN182536 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,21 +329,21 @@ var maDataBlocs = {
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber@POLYN184387 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber@POLYN184643 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber@POLYN184387 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber@POLYN184643 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber@POLYN184387 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber@POLYN184643 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -364,28 +364,28 @@ var maDataBlocs = {
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber2@POLYN184895 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber2@POLYN185151 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber2@POLYN184895 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber2@POLYN185151 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber2@POLYN184895 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber2@POLYN185151 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/syntax/SyntaxChecker.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber2@POLYN184895 the MagicNumber/String  '\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.syntax.SyntaxChecker.lastLineNumber2@POLYN185151 the MagicNumber/String  '\n' should be converted to const"
 }} 
 ]
 , 

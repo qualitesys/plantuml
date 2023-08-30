@@ -116,56 +116,56 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN165822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN166078 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN165822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN166078 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN165822 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN166078 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN165822 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN166078 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN165822 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN166078 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN165822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN166078 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN165822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN166078 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN165822 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.ExtremityStateLine2@POLYN166078 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -186,21 +186,21 @@ var maDataBlocs = {
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.drawU@POLYN167108 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.drawU@POLYN167364 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.drawU@POLYN167108 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.drawU@POLYN167364 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityStateLine2.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.drawU@POLYN167108 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.svek.extremity.ExtremityStateLine2.drawU@POLYN167364 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

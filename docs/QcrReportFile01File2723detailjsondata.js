@@ -90,14 +90,14 @@ var maDataBlocs = {
  , "c1" : "00008"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/ObjectUtils.java.html#8"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00008] In method net.sourceforge.plantuml.utils.ObjectUtils.instanceOfAny@POLYN147719 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00008] In method net.sourceforge.plantuml.utils.ObjectUtils.instanceOfAny@POLYN147975 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00010"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/ObjectUtils.java.html#10"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.utils.ObjectUtils.instanceOfAny@POLYN147719 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00010] In method net.sourceforge.plantuml.utils.ObjectUtils.instanceOfAny@POLYN147975 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

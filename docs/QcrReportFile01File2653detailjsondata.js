@@ -119,14 +119,14 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d.draw@POLYN161445 the MagicNumber/String  0.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d.draw@POLYN161701 the MagicNumber/String  0.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/g2d/DriverCenteredCharacterG2d.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d.draw@POLYN161445 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.ugraphic.g2d.DriverCenteredCharacterG2d.draw@POLYN161701 the MagicNumber/String  '' should be converted to const"
 }} 
 ]
 , 

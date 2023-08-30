@@ -140,287 +140,287 @@ var maDataBlocs = {
  , "c1" : "00037"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.BitMatrixParser@POLYN177964 the MagicNumber/String  21 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.BitMatrixParser@POLYN178220 the MagicNumber/String  21 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.BitMatrixParser@POLYN177964 the MagicNumber/String  0x03 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.BitMatrixParser@POLYN178220 the MagicNumber/String  0x03 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00037"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#37"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00037] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.BitMatrixParser@POLYN177964 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00037] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.BitMatrixParser@POLYN178220 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#50"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00050] For method readFormatInformation list of called methods Object monObjet|int copyBitN179024|int copyBitN179158|int copyBitN179291|int copyBitN179424|int copyBitN179720|int bitMatrix_getHeightN179857|int copyBitN180254|int copyBitN180571|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation FormatInformation_decodeFormatInformationN180705"
+ , "c3" : "QC-JAV000007[00050] For method readFormatInformation list of called methods Object monObjet|int copyBitN179280|int copyBitN179414|int copyBitN179547|int copyBitN179680|int copyBitN179976|int bitMatrix_getHeightN180113|int copyBitN180510|int copyBitN180827|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation FormatInformation_decodeFormatInformationN180961"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178607 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readFormatInformation@POLYN178863 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#95"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00095] For method readVersion list of called methods Object monObjet|int bitMatrix_getHeightN181354|int copyBitN182189|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN182324|int copyBitN182992|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN183127"
+ , "c3" : "QC-JAV000007[00095] For method readVersion list of called methods Object monObjet|int bitMatrix_getHeightN181610|int copyBitN182445|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN182580|int copyBitN183248|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN183383"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  17 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  17 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  9 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  9 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181156 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readVersion@POLYN181412 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -434,154 +434,154 @@ var maDataBlocs = {
  , "c1" : "00138"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.copyBit@POLYN183425 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.copyBit@POLYN183681 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.copyBit@POLYN183425 the MagicNumber/String  0x1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.copyBit@POLYN183681 the MagicNumber/String  0x1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.copyBit@POLYN183425 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.copyBit@POLYN183681 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00149] For method readCodewords list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation readFormatInformationN184099|ext.plantuml.com.google.zxing.qrcode.decoder.Version readVersionN184168|ext.plantuml.com.google.zxing.qrcode.decoder.DataMask DataMask_forReferenceN184237|int bitMatrix_getHeightN184372|byte[] version_buildFunctionPatternN184542"
+ , "c3" : "QC-JAV000007[00149] For method readCodewords list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation readFormatInformationN184355|ext.plantuml.com.google.zxing.qrcode.decoder.Version readVersionN184424|ext.plantuml.com.google.zxing.qrcode.decoder.DataMask DataMask_forReferenceN184493|int bitMatrix_getHeightN184628|byte[] version_buildFunctionPatternN184798"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  6 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  6 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00176"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#176"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00176] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00176] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00184"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#184"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00184] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00184] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  8 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  8 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184010 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.readCodewords@POLYN184266 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

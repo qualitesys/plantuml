@@ -303,14 +303,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.UPolygon.UPolygon@POLYN175301 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.ugraphic.UPolygon.UPolygon@POLYN175557 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UPolygon.UPolygon@POLYN175417 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UPolygon.UPolygon@POLYN175673 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -359,56 +359,56 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176113 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176369 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00073"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176369 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176369 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176113 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176369 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176113 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176369 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176369 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176113 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176369 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176113 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.ugraphic.UPolygon.checkMiddleContactForSpecificTriangle@POLYN176369 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -457,7 +457,7 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.ugraphic.UPolygon.rotate@POLYN178576 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.ugraphic.UPolygon.rotate@POLYN178832 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -471,21 +471,21 @@ var maDataBlocs = {
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.UPolygon.affine@POLYN178813 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.ugraphic.UPolygon.affine@POLYN179069 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.UPolygon.toString@POLYN179235 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.ugraphic.UPolygon.toString@POLYN179491 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.UPolygon.toString@POLYN179235 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.ugraphic.UPolygon.toString@POLYN179491 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -499,14 +499,14 @@ var maDataBlocs = {
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.ugraphic.UPolygon.getPointArray@POLYN180204 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.ugraphic.UPolygon.getPointArray@POLYN180460 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPolygon.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.ugraphic.UPolygon.getPointArray@POLYN180204 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.ugraphic.UPolygon.getPointArray@POLYN180460 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

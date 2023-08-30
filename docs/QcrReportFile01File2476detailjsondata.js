@@ -109,14 +109,14 @@ var maDataBlocs = {
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Lower.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.stdlib.Lower.getSignature@POLYN160239 the MagicNumber/String  '%lower' should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.stdlib.Lower.getSignature@POLYN160495 the MagicNumber/String  '%lower' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Lower.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.stdlib.Lower.getSignature@POLYN160239 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.tim.stdlib.Lower.getSignature@POLYN160495 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -130,7 +130,7 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Lower.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.Lower.canCover@POLYN160389 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.tim.stdlib.Lower.canCover@POLYN160645 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -151,7 +151,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/Lower.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Lower.executeReturnFunction@POLYN160567 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.tim.stdlib.Lower.executeReturnFunction@POLYN160823 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

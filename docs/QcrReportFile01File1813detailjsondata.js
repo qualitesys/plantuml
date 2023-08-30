@@ -100,14 +100,14 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementEmpty.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.salt.element.ElementEmpty.getPreferredDimension@POLYN157958 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.salt.element.ElementEmpty.getPreferredDimension@POLYN158214 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/element/ElementEmpty.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.salt.element.ElementEmpty.getPreferredDimension@POLYN157958 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.salt.element.ElementEmpty.getPreferredDimension@POLYN158214 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

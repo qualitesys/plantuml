@@ -109,21 +109,21 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandRankDir.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandRankDir.getRegexConcat@POLYN162274 the MagicNumber/String  'DIRECTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandRankDir.getRegexConcat@POLYN162530 the MagicNumber/String  'DIRECTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandRankDir.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandRankDir.getRegexConcat@POLYN162274 the MagicNumber/String  '(left[%s]to[%s]right|top[%s]to[%s]bottom)' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.command.CommandRankDir.getRegexConcat@POLYN162530 the MagicNumber/String  '(left[%s]to[%s]right|top[%s]to[%s]bottom)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandRankDir.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandRankDir.getRegexConcat@POLYN162274 the MagicNumber/String  'direction' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.command.CommandRankDir.getRegexConcat@POLYN162530 the MagicNumber/String  'direction' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -151,28 +151,28 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandRankDir.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN162717 the MagicNumber/String  'DIRECTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN162973 the MagicNumber/String  'DIRECTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandRankDir.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN162717 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN162973 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandRankDir.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN162717 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN162973 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandRankDir.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN162717 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.command.CommandRankDir.executeArg@POLYN162973 the MagicNumber/String  '_' should be converted to const"
 }} 
 ]
 , 

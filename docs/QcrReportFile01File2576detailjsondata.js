@@ -233,42 +233,42 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UClip.enlarge@POLYN177477 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UClip.enlarge@POLYN177733 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UClip.enlarge@POLYN177477 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.ugraphic.UClip.enlarge@POLYN177733 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN177839 the MagicNumber/String  'CLIP x=' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN178095 the MagicNumber/String  'CLIP x=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN177839 the MagicNumber/String  ' y=' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN178095 the MagicNumber/String  ' y=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN177839 the MagicNumber/String  ' w=' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN178095 the MagicNumber/String  ' w=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN177839 the MagicNumber/String  ' h=' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.ugraphic.UClip.toString@POLYN178095 the MagicNumber/String  ' h=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -317,35 +317,35 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179134 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179390 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179134 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179390 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179134 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179390 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179134 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179390 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179134 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.ugraphic.UClip.isInside@POLYN179390 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -373,28 +373,28 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN180575 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN180831 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN180575 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN180831 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN180575 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN180831 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UClip.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN180575 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.ugraphic.UClip.getClippedLine@POLYN180831 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -109,14 +109,14 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.getSignature@POLYN163122 the MagicNumber/String  '%call_user_func' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.getSignature@POLYN163378 the MagicNumber/String  '%call_user_func' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.getSignature@POLYN163122 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.getSignature@POLYN163378 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -130,7 +130,7 @@ var maDataBlocs = {
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.canCover@POLYN163272 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.canCover@POLYN163528 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -158,28 +158,28 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN163450 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN163706 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN163450 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN163706 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN163450 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN163706 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/CallUserFunction.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN163450 the MagicNumber/String  'Cannot find void function ' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.tim.stdlib.CallUserFunction.executeReturnFunction@POLYN163706 the MagicNumber/String  'Cannot find void function ' should be converted to const"
 }} 
 ]
 , 

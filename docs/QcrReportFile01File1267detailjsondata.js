@@ -140,14 +140,14 @@ var maDataBlocs = {
  , "c1" : "00011"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createLabel@POLYN151975 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
+ , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createLabel@POLYN152231 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00011"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createLabel@POLYN151975 the MagicNumber/String  'createLabel' should be converted to const"
+ , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createLabel@POLYN152231 the MagicNumber/String  'createLabel' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -168,14 +168,14 @@ var maDataBlocs = {
  , "c1" : "00015"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createLabel@POLYN152221 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createLabel@POLYN152477 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00015"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createLabel@POLYN152221 the MagicNumber/String  'createLabel' should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createLabel@POLYN152477 the MagicNumber/String  'createLabel' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -196,14 +196,14 @@ var maDataBlocs = {
  , "c1" : "00019"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createNode@POLYN152467 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createNode@POLYN152723 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00019"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#19"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createNode@POLYN152467 the MagicNumber/String  'createNode' should be converted to const"
+ , "c3" : "QC-JAV000010[00019] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createNode@POLYN152723 the MagicNumber/String  'createNode' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -231,28 +231,28 @@ var maDataBlocs = {
  , "c1" : "00023"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createSimpleEdge@POLYN152713 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createSimpleEdge@POLYN152969 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00023"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#23"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createSimpleEdge@POLYN152713 the MagicNumber/String  'createSimpleEdge' should be converted to const"
+ , "c3" : "QC-JAV000010[00023] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createSimpleEdge@POLYN152969 the MagicNumber/String  'createSimpleEdge' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00028"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createGraph@POLYN153014 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createGraph@POLYN153270 the MagicNumber/String  'org.eclipse.elk.graph.util.ElkGraphUtil' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00028"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/elk/proxy/graph/util/ElkGraphUtil.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createGraph@POLYN153014 the MagicNumber/String  'createGraph' should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method net.sourceforge.plantuml.elk.proxy.graph.util.ElkGraphUtil.createGraph@POLYN153270 the MagicNumber/String  'createGraph' should be converted to const"
 }} 
 ]
 , 

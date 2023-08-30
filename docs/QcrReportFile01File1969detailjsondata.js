@@ -162,7 +162,7 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDivider.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDivider.getStartingX@POLYN163321 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDivider.getStartingX@POLYN163577 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -109,49 +109,49 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN162780 the MagicNumber/String  'scale' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN163036 the MagicNumber/String  'scale' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN162780 the MagicNumber/String  'max' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN163036 the MagicNumber/String  'max' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN162780 the MagicNumber/String  'WIDTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN163036 the MagicNumber/String  'WIDTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN162780 the MagicNumber/String  '([0-9.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN163036 the MagicNumber/String  '([0-9.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN162780 the MagicNumber/String  '[*x]' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN163036 the MagicNumber/String  '[*x]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN162780 the MagicNumber/String  'HEIGHT' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN163036 the MagicNumber/String  'HEIGHT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN162780 the MagicNumber/String  '([0-9.]+)' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.getRegexConcat@POLYN163036 the MagicNumber/String  '([0-9.]+)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -179,28 +179,28 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.executeArg@POLYN163559 the MagicNumber/String  'WIDTH' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.executeArg@POLYN163815 the MagicNumber/String  'WIDTH' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.executeArg@POLYN163559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.executeArg@POLYN163815 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.executeArg@POLYN163559 the MagicNumber/String  'HEIGHT' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.executeArg@POLYN163815 the MagicNumber/String  'HEIGHT' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/command/CommandScaleMaxWidthAndHeight.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.executeArg@POLYN163559 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.command.CommandScaleMaxWidthAndHeight.executeArg@POLYN163815 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

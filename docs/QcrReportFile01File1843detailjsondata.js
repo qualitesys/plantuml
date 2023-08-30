@@ -95,49 +95,49 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.create@POLYN162389 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.create@POLYN162645 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.create@POLYN162389 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.create@POLYN162645 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.create@POLYN162389 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.create@POLYN162645 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.create@POLYN162389 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.create@POLYN162645 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.ready@POLYN163191 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.ready@POLYN163447 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.ready@POLYN163191 the MagicNumber/String  '^' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.ready@POLYN163447 the MagicNumber/String  '^' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/factory/ElementFactoryDroplist.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.ready@POLYN163191 the MagicNumber/String  '^' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.salt.factory.ElementFactoryDroplist.ready@POLYN163447 the MagicNumber/String  '^' should be converted to const"
 }} 
 ]
 , 

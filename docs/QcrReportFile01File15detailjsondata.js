@@ -166,7 +166,7 @@ var maDataBlocs = {
  , "c1" : "00024"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.isVisible@POLYN156045 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.isVisible@POLYN156301 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -180,14 +180,14 @@ var maDataBlocs = {
  , "c1" : "00027"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#27"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00027] For method getLocation list of called methods Object monObjet|double inverseFinalizeXN156326|double inverseFinalizeYN156419"
+ , "c3" : "QC-JAV000007[00027] For method getLocation list of called methods Object monObjet|double inverseFinalizeXN156582|double inverseFinalizeYN156675"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.getLocation@POLYN156197 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.getLocation@POLYN156453 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -222,14 +222,14 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN157600 the MagicNumber/String  0.99 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN157856 the MagicNumber/String  0.99 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/ProjectionOrtho.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN157600 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method ext.plantuml.com.ctreber.acearth.projection.ProjectionOrtho.setScale@POLYN157856 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

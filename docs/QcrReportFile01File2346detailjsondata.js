@@ -204,28 +204,28 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN201676 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN201932 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN201676 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN201932 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN201676 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN201932 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN201676 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.EntityImageUseCase@POLYN201932 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -253,49 +253,49 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN203950 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN204206 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN203950 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN204206 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN203950 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN204206 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN203950 the MagicNumber/String  'elem ' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN204206 the MagicNumber/String  'elem ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN203950 the MagicNumber/String  ' selected' should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN204206 the MagicNumber/String  ' selected' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00139"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#139"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN203950 the MagicNumber/String  'elem_' should be converted to const"
+ , "c3" : "QC-JAV000010[00139] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN204206 the MagicNumber/String  'elem_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN203950 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.drawU@POLYN204206 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -316,28 +316,28 @@ var maDataBlocs = {
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN206340 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN206596 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN206340 the MagicNumber/String  20.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN206596 the MagicNumber/String  20.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN206340 the MagicNumber/String  180 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN206596 the MagicNumber/String  180 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN206340 the MagicNumber/String  0.99 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness@POLYN206596 the MagicNumber/String  0.99 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -358,21 +358,21 @@ var maDataBlocs = {
  , "c1" : "00166"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN207231 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN207487 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00167"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#167"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN207231 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00167] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN207487 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN207231 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.specialBusiness0@POLYN207487 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -414,14 +414,14 @@ var maDataBlocs = {
  , "c1" : "00183"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#183"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.getBackColor@POLYN208873 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00183] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.getBackColor@POLYN209129 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.getLineColor@POLYN210042 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.getLineColor@POLYN210298 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -491,14 +491,14 @@ var maDataBlocs = {
  , "c1" : "00267"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#267"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.MyUGraphicEllipse.drawHline@POLYN212887 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00267] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.MyUGraphicEllipse.drawHline@POLYN213143 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00268"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/image/EntityImageUseCase.java.html#268"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.MyUGraphicEllipse.drawHline@POLYN212887 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00268] In method net.sourceforge.plantuml.svek.image.EntityImageUseCase.MyUGraphicEllipse.drawHline@POLYN213143 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

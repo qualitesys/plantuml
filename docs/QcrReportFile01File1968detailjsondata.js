@@ -150,14 +150,14 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.drawInternalU@POLYN165034 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.drawInternalU@POLYN165290 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.drawInternalU@POLYN165034 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.drawInternalU@POLYN165290 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -185,7 +185,7 @@ var maDataBlocs = {
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/GraphicalDelayText.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.getStartingX@POLYN166531 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText.getStartingX@POLYN166787 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

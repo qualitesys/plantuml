@@ -130,28 +130,28 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.SubjectResource.getMe@POLYN172857 the MagicNumber/String  'RESOURCE' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.SubjectResource.getMe@POLYN173113 the MagicNumber/String  'RESOURCE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.SubjectResource.getMe@POLYN172857 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.project.lang.SubjectResource.getMe@POLYN173113 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectResource.toRegex@POLYN173530 the MagicNumber/String  'RESOURCE' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectResource.toRegex@POLYN173786 the MagicNumber/String  'RESOURCE' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/SubjectResource.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectResource.toRegex@POLYN173530 the MagicNumber/String  '\\{([^{}]+)\\}' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.project.lang.SubjectResource.toRegex@POLYN173786 the MagicNumber/String  '\\{([^{}]+)\\}' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

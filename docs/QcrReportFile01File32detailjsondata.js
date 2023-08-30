@@ -98,42 +98,42 @@ var maDataBlocs = {
  , "c1" : "00014"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderDefault.java.html#14"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00014] For method getShadedColors list of called methods Object monObjet|java.awt.Color getShadedColorForTypeN156253"
+ , "c3" : "QC-JAV000007[00014] For method getShadedColors list of called methods Object monObjet|java.awt.Color getShadedColorForTypeN156509"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00030"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderDefault.java.html#30"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154561 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00030] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154817 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00031"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderDefault.java.html#31"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00031] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154561 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00031] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154817 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00032"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderDefault.java.html#32"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154561 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00032] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154817 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00036"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderDefault.java.html#36"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154561 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00036] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154817 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderDefault.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154561 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.ctreber.acearth.shader.ShaderDefault.getShadedColors@POLYN154817 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -192,14 +192,14 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.UImage.UImage@POLYN163673 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.UImage.UImage@POLYN163929 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.UImage.UImage@POLYN163673 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.ugraphic.UImage.UImage@POLYN163929 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -234,14 +234,14 @@ var maDataBlocs = {
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.UImage.getWidth@POLYN165124 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.ugraphic.UImage.getWidth@POLYN165380 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UImage.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.UImage.getHeight@POLYN165274 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.ugraphic.UImage.getHeight@POLYN165530 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

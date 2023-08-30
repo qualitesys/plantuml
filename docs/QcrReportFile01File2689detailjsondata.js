@@ -146,28 +146,28 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverRectangleSvg.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.draw@POLYN170647 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.draw@POLYN170903 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverRectangleSvg.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.draw@POLYN170647 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.draw@POLYN170903 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverRectangleSvg.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.draw@POLYN170647 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.draw@POLYN170903 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverRectangleSvg.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.draw@POLYN170647 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.draw@POLYN170903 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -195,14 +195,14 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverRectangleSvg.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.applyFillColor@POLYN172617 the MagicNumber/String  'url(#' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.applyFillColor@POLYN172873 the MagicNumber/String  'url(#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverRectangleSvg.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.applyFillColor@POLYN172617 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.applyFillColor@POLYN172873 the MagicNumber/String  ')' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -230,14 +230,14 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverRectangleSvg.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.applyStrokeColor@POLYN173497 the MagicNumber/String  'url(#' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.applyStrokeColor@POLYN173753 the MagicNumber/String  'url(#' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/svg/DriverRectangleSvg.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.applyStrokeColor@POLYN173497 the MagicNumber/String  ')' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.ugraphic.svg.DriverRectangleSvg.applyStrokeColor@POLYN173753 the MagicNumber/String  ')' should be converted to const"
 }} 
 ]
 , 

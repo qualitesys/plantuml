@@ -321,70 +321,70 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180460 the MagicNumber/String  'PlantUML version ' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180716 the MagicNumber/String  'PlantUML version ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180460 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180716 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180460 the MagicNumber/String  ')\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180716 the MagicNumber/String  ')\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180460 the MagicNumber/String  '(' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180716 the MagicNumber/String  '(' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00080"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#80"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180460 the MagicNumber/String  ' source distribution)\n' should be converted to const"
+ , "c3" : "QC-JAV000010[00080] In method net.sourceforge.plantuml.AbstractPSystem.getVersion@POLYN180716 the MagicNumber/String  ' source distribution)\n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.AbstractPSystem.getMetadata@POLYN181341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.AbstractPSystem.getMetadata@POLYN181597 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.AbstractPSystem.getMetadata@POLYN181341 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.AbstractPSystem.getMetadata@POLYN181597 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.AbstractPSystem.seed@POLYN182158 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.AbstractPSystem.seed@POLYN182414 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.AbstractPSystem.seed@POLYN182158 the MagicNumber/String  42 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.AbstractPSystem.seed@POLYN182414 the MagicNumber/String  42 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.AbstractPSystem.getNbImages@POLYN182387 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.AbstractPSystem.getNbImages@POLYN182643 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -405,28 +405,28 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.AbstractPSystem.getTitle@POLYN182929 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.AbstractPSystem.getTitle@POLYN183185 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.AbstractPSystem.getWarningOrError@POLYN183362 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.AbstractPSystem.getWarningOrError@POLYN183618 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.AbstractPSystem.checkFinalError@POLYN183450 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.AbstractPSystem.checkFinalError@POLYN183706 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00152"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#152"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.AbstractPSystem.isOk@POLYN183579 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00152] In method net.sourceforge.plantuml.AbstractPSystem.isOk@POLYN183835 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -447,7 +447,7 @@ var maDataBlocs = {
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.AbstractPSystem.hasUrl@POLYN184072 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.AbstractPSystem.hasUrl@POLYN184328 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -503,14 +503,14 @@ var maDataBlocs = {
  , "c1" : "00211"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.AbstractPSystem.getDefaultMargins@POLYN185638 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method net.sourceforge.plantuml.AbstractPSystem.getDefaultMargins@POLYN185894 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.AbstractPSystem.getTitleDisplay@POLYN185779 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.AbstractPSystem.getTitleDisplay@POLYN186035 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

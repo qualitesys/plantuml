@@ -178,175 +178,175 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#132"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00132] For method calculateTics list of called methods Object monObjet|double Util_logN288056|double Util_logN288174|double Util_expN288723|double adjustN288916|double adjustN289107"
+ , "c3" : "QC-JAV000007[00132] For method calculateTics list of called methods Object monObjet|double Util_logN288312|double Util_logN288430|double Util_expN288979|double adjustN289172|double adjustN289363"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method jcckit.plot.AxisParameters.calculateTics@POLYN287711 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method jcckit.plot.AxisParameters.calculateTics@POLYN287967 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  199.9999 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  199.9999 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  199 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  199 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  200.0001 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  200.0001 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  200 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  200 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  199.69 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  199.69 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  200 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  200 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  0.2 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  0.2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00164"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#164"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00164] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00164] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  999999.999999 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  999999.999999 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  999999 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  999999 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  1000000.000001 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  1000000.000001 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00166"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#166"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00166] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  1000000 should be converted to const"
+ , "c3" : "QC-JAV000010[00166] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  1000000 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289274 the MagicNumber/String  11 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530 the MagicNumber/String  11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -360,245 +360,245 @@ var maDataBlocs = {
  , "c1" : "00179"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method jcckit.plot.AxisParameters.adjust@POLYN291631 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method jcckit.plot.AxisParameters.adjust@POLYN291887 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method jcckit.plot.AxisParameters.adjust@POLYN291631 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method jcckit.plot.AxisParameters.adjust@POLYN291887 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00179"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#179"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00179] In method jcckit.plot.AxisParameters.adjust@POLYN291631 the MagicNumber/String  1e-11 should be converted to const"
+ , "c3" : "QC-JAV000010[00179] In method jcckit.plot.AxisParameters.adjust@POLYN291887 the MagicNumber/String  1e-11 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  'false' should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  'false' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00190"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#190"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00190] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '0' should be converted to const"
+ , "c3" : "QC-JAV000010[00190] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '1' should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '1' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '0.8' should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '0.8' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00193"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#193"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00193] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00193] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '0 -0.05' should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '0 -0.05' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00200"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#200"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00200] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  'center' should be converted to const"
+ , "c3" : "QC-JAV000010[00200] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  'center' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00202"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '0.01' should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '0.01' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00203"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00205"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#205"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00205] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '0 -0.01' should be converted to const"
+ , "c3" : "QC-JAV000010[00205] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '0 -0.01' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#206"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00206] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '%1.1f' should be converted to const"
+ , "c3" : "QC-JAV000010[00206] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '%1.1f' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00209"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#209"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00209] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00209] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00210"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#210"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00210] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  'center' should be converted to const"
+ , "c3" : "QC-JAV000010[00210] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  'center' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00211"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#211"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00211] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00211] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  'top' should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  'top' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00213"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#213"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00213] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  'false' should be converted to const"
+ , "c3" : "QC-JAV000010[00213] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  'false' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#214"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00214] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292072 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00214] In method jcckit.plot.AxisParameters.createDefaultAxisProperties@POLYN292328 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00223"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#223"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00223] For method createDefaultXAxisProperties list of called methods Object monObjet|java.util.Properties createDefaultAxisPropertiesN294782"
+ , "c3" : "QC-JAV000007[00223] For method createDefaultXAxisProperties list of called methods Object monObjet|java.util.Properties createDefaultAxisPropertiesN295038"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  'x' should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  'x' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00226"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#226"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00226] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  '0 -0.05' should be converted to const"
+ , "c3" : "QC-JAV000010[00226] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  '0 -0.05' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00227"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#227"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00227] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00227] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00228"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#228"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00228] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  'top' should be converted to const"
+ , "c3" : "QC-JAV000010[00228] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  'top' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00229"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#229"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00229] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  '0 -0.01' should be converted to const"
+ , "c3" : "QC-JAV000010[00229] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  '0 -0.01' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00230"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#230"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00230] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00230] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00231"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  'center' should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  'center' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00232"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00233"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#233"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00233] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294705 the MagicNumber/String  'top' should be converted to const"
+ , "c3" : "QC-JAV000010[00233] In method jcckit.plot.AxisParameters.createDefaultXAxisProperties@POLYN294961 the MagicNumber/String  'top' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -612,91 +612,91 @@ var maDataBlocs = {
  , "c1" : "00335"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#335"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00335] For method createDefaultYAxisProperties list of called methods Object monObjet|java.util.Properties createDefaultAxisPropertiesN301016"
+ , "c3" : "QC-JAV000007[00335] For method createDefaultYAxisProperties list of called methods Object monObjet|java.util.Properties createDefaultAxisPropertiesN301272"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00337"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#337"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00337] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  '0.45' should be converted to const"
+ , "c3" : "QC-JAV000010[00337] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  '0.45' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00338"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#338"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00338] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  'y' should be converted to const"
+ , "c3" : "QC-JAV000010[00338] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  'y' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00339"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#339"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00339] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  '-0.1 0' should be converted to const"
+ , "c3" : "QC-JAV000010[00339] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  '-0.1 0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00340"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#340"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00340] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00340] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00341"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#341"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00341] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  'bottom' should be converted to const"
+ , "c3" : "QC-JAV000010[00341] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  'bottom' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00342"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#342"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00342] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00342] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00343"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#343"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00343] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  '90' should be converted to const"
+ , "c3" : "QC-JAV000010[00343] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  '90' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00344"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#344"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00344] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  '-0.01 0' should be converted to const"
+ , "c3" : "QC-JAV000010[00344] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  '-0.01 0' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00345"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#345"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00345] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00345] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00346"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#346"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00346] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  'right' should be converted to const"
+ , "c3" : "QC-JAV000010[00346] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  'right' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00347"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#347"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00347] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  '/' should be converted to const"
+ , "c3" : "QC-JAV000010[00347] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  '/' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00348"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#348"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00348] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN300939 the MagicNumber/String  'center' should be converted to const"
+ , "c3" : "QC-JAV000010[00348] In method jcckit.plot.AxisParameters.createDefaultYAxisProperties@POLYN301195 the MagicNumber/String  'center' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -717,7 +717,7 @@ var maDataBlocs = {
  , "c1" : "00446"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#446"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00446] For method createAxis list of called methods Object monObjet|boolean c_getBooleanN307923|double c_getDoubleN308024|double c_getDoubleN308125|double c_getDoubleN308226|java.lang.String c_getN308486|double c_getDoubleN308885|boolean c_getBooleanN308986|double c_getDoubleN309205|double c_getDoubleN309336|int c_getIntN309467|jcckit.util.TicLabelFormat createTicLabelFormatN309760|boolean c_getBooleanN310151"
+ , "c3" : "QC-JAV000007[00446] For method createAxis list of called methods Object monObjet|boolean c_getBooleanN308179|double c_getDoubleN308280|double c_getDoubleN308381|double c_getDoubleN308482|java.lang.String c_getN308742|double c_getDoubleN309141|boolean c_getBooleanN309242|double c_getDoubleN309461|double c_getDoubleN309592|int c_getIntN309723|jcckit.util.TicLabelFormat createTicLabelFormatN310016|boolean c_getBooleanN310407"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -731,21 +731,21 @@ var maDataBlocs = {
  , "c1" : "00487"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#487"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00487] For method createTicLabelFormat list of called methods Object monObjet|jcckit.util.Format Format_createN310519|jcckit.util.ConfigParameters c_getNodeN310637"
+ , "c3" : "QC-JAV000007[00487] For method createTicLabelFormat list of called methods Object monObjet|jcckit.util.Format Format_createN310775|jcckit.util.ConfigParameters c_getNodeN310893"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00491"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#491"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00491] In method jcckit.plot.AxisParameters.createTicLabelFormat@POLYN310420 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00491] In method jcckit.plot.AxisParameters.createTicLabelFormat@POLYN310676 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00491"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#491"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00491] In method jcckit.plot.AxisParameters.createTicLabelFormat@POLYN310420 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00491] In method jcckit.plot.AxisParameters.createTicLabelFormat@POLYN310676 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

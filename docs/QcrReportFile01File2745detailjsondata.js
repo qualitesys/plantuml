@@ -216,7 +216,7 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.wbs.ITFComposed.getw1@POLYN187867 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.wbs.ITFComposed.getw1@POLYN188123 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -230,7 +230,7 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.wbs.ITFComposed.getT1@POLYN188323 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.wbs.ITFComposed.getT1@POLYN188579 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -251,14 +251,14 @@ var maDataBlocs = {
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.wbs.ITFComposed.getF1@POLYN189102 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.wbs.ITFComposed.getF1@POLYN189358 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wbs.ITFComposed.getF1@POLYN189102 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wbs.ITFComposed.getF1@POLYN189358 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -272,14 +272,14 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.wbs.ITFComposed.getF2@POLYN189641 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.wbs.ITFComposed.getF2@POLYN189897 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.wbs.ITFComposed.getF2@POLYN189641 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.wbs.ITFComposed.getF2@POLYN189897 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -293,14 +293,14 @@ var maDataBlocs = {
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.wbs.ITFComposed.calculateDimension@POLYN190180 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.wbs.ITFComposed.calculateDimension@POLYN190436 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.wbs.ITFComposed.calculateDimension@POLYN190180 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.wbs.ITFComposed.calculateDimension@POLYN190436 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -335,7 +335,7 @@ var maDataBlocs = {
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.wbs.ITFComposed.drawU@POLYN191242 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.wbs.ITFComposed.drawU@POLYN191498 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -349,7 +349,7 @@ var maDataBlocs = {
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wbs.ITFComposed.getCollWidth@POLYN194260 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wbs.ITFComposed.getCollWidth@POLYN194516 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -363,7 +363,7 @@ var maDataBlocs = {
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wbs/ITFComposed.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wbs.ITFComposed.getCollHeight@POLYN194735 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wbs.ITFComposed.getCollHeight@POLYN194991 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

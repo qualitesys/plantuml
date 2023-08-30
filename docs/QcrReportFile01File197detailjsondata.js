@@ -190,21 +190,21 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#73"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00073] In method h.ST_Agraph_s.toString@POLYN169467 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00073] In method h.ST_Agraph_s.toString@POLYN169723 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method h.ST_Agraph_s.ST_Agraph_s@POLYN169606 the MagicNumber/String  'G' should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method h.ST_Agraph_s.ST_Agraph_s@POLYN169862 the MagicNumber/String  'G' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00079"
  , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method h.ST_Agraph_s.ST_Agraph_s@POLYN169606 the MagicNumber/String  'creation ' should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method h.ST_Agraph_s.ST_Agraph_s@POLYN169862 the MagicNumber/String  'creation ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -218,21 +218,21 @@ var maDataBlocs = {
  , "c1" : "00085"
  , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method h.ST_Agraph_s.getTheField@POLYN169887 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method h.ST_Agraph_s.getTheField@POLYN170143 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method h.ST_Agraph_s.getTheField@POLYN169887 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method h.ST_Agraph_s.getTheField@POLYN170143 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/h/ST_Agraph_s.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method h.ST_Agraph_s.getTheField@POLYN169887 the MagicNumber/String  'link' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method h.ST_Agraph_s.getTheField@POLYN170143 the MagicNumber/String  'link' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

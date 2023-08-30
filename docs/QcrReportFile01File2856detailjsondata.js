@@ -191,40 +191,40 @@ var maDataBlocs = {
 "data12a" : [
 { "ligne" :  "R0:smetana.core.debug.Purify.this" }
 ,
-{ "ligne" :  "R1:smetana.core.debug.Purify.entering@POLYN184863.signature" }
+{ "ligne" :  "R1:smetana.core.debug.Purify.entering@POLYN185119.signature" }
 ,
-{ "ligne" :  "R2:smetana.core.debug.Purify.entering@POLYN184863.methodNameDeclared" }
+{ "ligne" :  "R2:smetana.core.debug.Purify.entering@POLYN185119.methodNameDeclared" }
 ,
-{ "ligne" :  "R3:smetana.core.debug.Purify.logline@POLYN184521.s" }
+{ "ligne" :  "R3:smetana.core.debug.Purify.logline@POLYN184777.s" }
 ,
-{ "ligne" :  "R4:smetana.core.debug.Purify.leaving@POLYN185939.signature" }
+{ "ligne" :  "R4:smetana.core.debug.Purify.leaving@POLYN186195.signature" }
 ,
-{ "ligne" :  "R5:smetana.core.debug.Purify.leaving@POLYN185939.methodName" }
+{ "ligne" :  "R5:smetana.core.debug.Purify.leaving@POLYN186195.methodName" }
 ]
 ,
 "data12b" : [
 { "sequence" : { "noseq" : "0" , "pas" : [
-{ "ligne" : "S0:smetana.core.debug.Purify.entering@POLYN184863 (R0 in line [00077],R1 in line [00077],R2 in line [00077])" }
+{ "ligne" : "S0:smetana.core.debug.Purify.entering@POLYN185119 (R0 in line [00077],R1 in line [00077],R2 in line [00077])" }
 ,
-{ "ligne" : "S0:smetana.core.debug.Purify.recordMe@POLYN186829 (R0 in line [00111])" }
+{ "ligne" : "S0:smetana.core.debug.Purify.recordMe@POLYN187085 (R0 in line [00111])" }
 ,
-{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN188939 (R0 in line [00146])" }
+{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN189195 (R0 in line [00146])" }
 ,
-{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN188939.dummymethode_00149" }
+{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN189195.dummymethode_00149" }
  ]
  } }
 ,
 { "sequence" : { "noseq" : "1" , "pas" : [
-{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN184521 (R0 in line [00069],R3 in line [00069])" }
+{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN184777 (R0 in line [00069],R3 in line [00069])" }
 ,
-{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN184521.dummymethode_00070" }
+{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN184777.dummymethode_00070" }
  ]
  } }
 ,
 { "sequence" : { "noseq" : "2" , "pas" : [
-{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN185939 (R0 in line [00095],R4 in line [00095],R5 in line [00095])" }
+{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN186195 (R0 in line [00095],R4 in line [00095],R5 in line [00095])" }
 ,
-{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN185939.dummymethode_00096" }
+{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN186195.dummymethode_00096" }
  ]
  } }
 ]
@@ -295,7 +295,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method smetana.core.debug.Purify.Purify@POLYN184073 the MagicNumber/String  'CREATING ' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method smetana.core.debug.Purify.Purify@POLYN184329 the MagicNumber/String  'CREATING ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -316,7 +316,7 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method smetana.core.debug.Purify.logline@POLYN184521 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method smetana.core.debug.Purify.logline@POLYN184777 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -337,28 +337,28 @@ var maDataBlocs = {
  , "c1" : "00078"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method smetana.core.debug.Purify.entering@POLYN184863 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method smetana.core.debug.Purify.entering@POLYN185119 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method smetana.core.debug.Purify.entering@POLYN184863 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method smetana.core.debug.Purify.entering@POLYN185119 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method smetana.core.debug.Purify.entering@POLYN184863 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method smetana.core.debug.Purify.entering@POLYN185119 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method smetana.core.debug.Purify.entering@POLYN184863 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method smetana.core.debug.Purify.entering@POLYN185119 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -386,14 +386,14 @@ var maDataBlocs = {
  , "c1" : "00101"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method smetana.core.debug.Purify.traceCall@POLYN186064 the MagicNumber/String  '(%02d) %-26.26s [%-10.10s] %s' should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method smetana.core.debug.Purify.traceCall@POLYN186320 the MagicNumber/String  '(%02d) %-26.26s [%-10.10s] %s' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method smetana.core.debug.Purify.traceCall@POLYN186064 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method smetana.core.debug.Purify.traceCall@POLYN186320 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -414,7 +414,7 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#111"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00111] For method recordMe list of called methods Object monObjet|java.lang.reflect.Method getTheMethodN187666|java.lang.reflect.Method getTheMethodN187925"
+ , "c3" : "QC-JAV000007[00111] For method recordMe list of called methods Object monObjet|java.lang.reflect.Method getTheMethodN187922|java.lang.reflect.Method getTheMethodN188181"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -428,21 +428,21 @@ var maDataBlocs = {
  , "c1" : "00114"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method smetana.core.debug.Purify.recordMe@POLYN186829 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method smetana.core.debug.Purify.recordMe@POLYN187085 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method smetana.core.debug.Purify.recordMe@POLYN186829 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method smetana.core.debug.Purify.recordMe@POLYN187085 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method smetana.core.debug.Purify.recordMe@POLYN186829 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method smetana.core.debug.Purify.recordMe@POLYN187085 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -470,35 +470,35 @@ var maDataBlocs = {
  , "c1" : "00137"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#137"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00137] In method smetana.core.debug.Purify.checkWarning@POLYN188412 the MagicNumber/String  '_' should be converted to const"
+ , "c3" : "QC-JAV000010[00137] In method smetana.core.debug.Purify.checkWarning@POLYN188668 the MagicNumber/String  '_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method smetana.core.debug.Purify.checkWarning@POLYN188412 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method smetana.core.debug.Purify.checkWarning@POLYN188668 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00140"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method smetana.core.debug.Purify.checkWarning@POLYN188412 the MagicNumber/String  '_w_' should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method smetana.core.debug.Purify.checkWarning@POLYN188668 the MagicNumber/String  '_w_' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method smetana.core.debug.Purify.checkWarning@POLYN188412 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method smetana.core.debug.Purify.checkWarning@POLYN188668 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method smetana.core.debug.Purify.checkWarning@POLYN188412 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method smetana.core.debug.Purify.checkWarning@POLYN188668 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -526,14 +526,14 @@ var maDataBlocs = {
  , "c1" : "00155"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method smetana.core.debug.Purify.getTheMethod@POLYN188939 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method smetana.core.debug.Purify.getTheMethod@POLYN189195 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#163"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00163] For method printMe list of called methods Object monObjet|java.lang.String getReviewedWhenN190302|java.lang.String getVersionN190395|java.lang.String getPathN190488"
+ , "c3" : "QC-JAV000007[00163] For method printMe list of called methods Object monObjet|java.lang.String getReviewedWhenN190558|java.lang.String getVersionN190651|java.lang.String getPathN190744"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -582,21 +582,21 @@ var maDataBlocs = {
  , "c1" : "00172"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method smetana.core.debug.Purify.printMe@POLYN189690 the MagicNumber/String  '*' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method smetana.core.debug.Purify.printMe@POLYN189946 the MagicNumber/String  '*' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method smetana.core.debug.Purify.printMe@POLYN189690 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method smetana.core.debug.Purify.printMe@POLYN189946 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method smetana.core.debug.Purify.printMe@POLYN189690 the MagicNumber/String  '%-8s %-26s %-12s %s %-30s %s%n' should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method smetana.core.debug.Purify.printMe@POLYN189946 the MagicNumber/String  '%-8s %-26s %-12s %s %-30s %s%n' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -617,14 +617,14 @@ var maDataBlocs = {
  , "c1" : "00180"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#180"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00180] In method smetana.core.debug.Purify.getVersion@POLYN191007 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00180] In method smetana.core.debug.Purify.getVersion@POLYN191263 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00181"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method smetana.core.debug.Purify.getVersion@POLYN191007 the MagicNumber/String  'XX' should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method smetana.core.debug.Purify.getVersion@POLYN191263 the MagicNumber/String  'XX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -645,14 +645,14 @@ var maDataBlocs = {
  , "c1" : "00187"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method smetana.core.debug.Purify.getPath@POLYN191339 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method smetana.core.debug.Purify.getPath@POLYN191595 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method smetana.core.debug.Purify.getPath@POLYN191339 the MagicNumber/String  'XX' should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method smetana.core.debug.Purify.getPath@POLYN191595 the MagicNumber/String  'XX' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -673,14 +673,14 @@ var maDataBlocs = {
  , "c1" : "00194"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method smetana.core.debug.Purify.getReviewedWhen@POLYN191671 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method smetana.core.debug.Purify.getReviewedWhen@POLYN191927 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method smetana.core.debug.Purify.getReviewedWhen@POLYN191671 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method smetana.core.debug.Purify.getReviewedWhen@POLYN191927 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -701,7 +701,7 @@ var maDataBlocs = {
  , "c1" : "00202"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#202"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00202] In method smetana.core.debug.Purify.hasND_Rank@POLYN192021 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00202] In method smetana.core.debug.Purify.hasND_Rank@POLYN192277 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -722,14 +722,14 @@ var maDataBlocs = {
  , "c1" : "00207"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#207"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00207] In method smetana.core.debug.Purify.getKey@POLYN192264 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00207] In method smetana.core.debug.Purify.getKey@POLYN192520 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#208"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00208] In method smetana.core.debug.Purify.getKey@POLYN192264 the MagicNumber/String  '?' should be converted to const"
+ , "c3" : "QC-JAV000010[00208] In method smetana.core.debug.Purify.getKey@POLYN192520 the MagicNumber/String  '?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -757,35 +757,35 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R1 : smetana.core.debug.Purify.entering@POLYN184863.signature"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R1 : smetana.core.debug.Purify.entering@POLYN185119.signature"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R2 : smetana.core.debug.Purify.entering@POLYN184863.methodNameDeclared"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R2 : smetana.core.debug.Purify.entering@POLYN185119.methodNameDeclared"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R3 : smetana.core.debug.Purify.logline@POLYN184521.s"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R3 : smetana.core.debug.Purify.logline@POLYN184777.s"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R4 : smetana.core.debug.Purify.leaving@POLYN185939.signature"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R4 : smetana.core.debug.Purify.leaving@POLYN186195.signature"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R5 : smetana.core.debug.Purify.leaving@POLYN185939.methodName"
+ , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R5 : smetana.core.debug.Purify.leaving@POLYN186195.methodName"
 }} 
 ]
 , 

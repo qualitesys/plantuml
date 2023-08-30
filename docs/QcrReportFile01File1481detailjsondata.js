@@ -108,133 +108,133 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'org.apache.batik.dom.GenericDOMImplementation' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'org.apache.batik.dom.GenericDOMImplementation' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'getDOMImplementation' should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'getDOMImplementation' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'http://www.w3.org/2000/svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'http://www.w3.org/2000/svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'svg' should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'svg' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'org.apache.batik.svggen.SVGGeneratorContext' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'org.apache.batik.svggen.SVGGeneratorContext' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'createDefault' should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'createDefault' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'org.apache.batik.svggen.SVGGraphics2D' should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'org.apache.batik.svggen.SVGGraphics2D' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'setSVGCanvasSize' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'setSVGCanvasSize' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/math/ConverterSvg.java.html#116"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171062 the MagicNumber/String  'stream' should be converted to const"
+ , "c3" : "QC-JAV000010[00116] In method net.sourceforge.plantuml.math.ConverterSvg.getSvg@POLYN171318 the MagicNumber/String  'stream' should be converted to const"
 }} 
 ]
 , 

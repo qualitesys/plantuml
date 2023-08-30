@@ -179,7 +179,7 @@ var maDataBlocs = {
  , "c1" : "00079"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#79"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.BodierJSon.hasUrl@POLYN163688 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00079] In method net.sourceforge.plantuml.cucadiagram.BodierJSon.hasUrl@POLYN163944 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

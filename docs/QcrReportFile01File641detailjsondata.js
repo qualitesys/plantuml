@@ -186,14 +186,14 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.FtileSwitchNude@POLYN170917 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.FtileSwitchNude@POLYN171173 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.getSwimlanes@POLYN171465 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.getSwimlanes@POLYN171721 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -221,7 +221,7 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.getTranslateNude@POLYN172514 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.getTranslateNude@POLYN172770 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -256,42 +256,42 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN173933 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN174189 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN173933 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN174189 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN173933 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN174189 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN173933 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN174189 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN173933 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN174189 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/cond/FtileSwitchNude.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN173933 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude.calculateDimensionInternalSlow@POLYN174189 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -245,14 +245,14 @@ var maDataBlocs = {
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.getDescription@POLYN194298 the MagicNumber/String  'Flow Diagram' should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.getDescription@POLYN194554 the MagicNumber/String  'Flow Diagram' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00092"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#92"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.FlowDiagram@POLYN194413 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00092] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.FlowDiagram@POLYN194669 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -266,7 +266,7 @@ var maDataBlocs = {
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.lineSimple@POLYN194591 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.lineSimple@POLYN194847 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -301,7 +301,7 @@ var maDataBlocs = {
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.createImageBuilder@POLYN196244 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.createImageBuilder@POLYN196500 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -392,70 +392,70 @@ var maDataBlocs = {
  , "c1" : "00140"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#140"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00140] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  7 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  7 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197018 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.drawU@POLYN197274 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -490,28 +490,28 @@ var maDataBlocs = {
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.movePoint@POLYN201307 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.movePoint@POLYN201563 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#192"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.movePoint@POLYN201307 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00192] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.movePoint@POLYN201563 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.movePoint@POLYN201307 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.movePoint@POLYN201563 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00198"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#198"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.movePoint@POLYN201307 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00198] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.movePoint@POLYN201563 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -532,7 +532,7 @@ var maDataBlocs = {
  , "c1" : "00225"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#225"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.getDefaultMargins@POLYN203471 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.getDefaultMargins@POLYN203727 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

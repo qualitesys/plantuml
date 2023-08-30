@@ -120,35 +120,35 @@ var maDataBlocs = {
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.JsonDiagram@POLYN173372 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.JsonDiagram@POLYN173628 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.JsonDiagram@POLYN173372 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.JsonDiagram@POLYN173628 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getDescription@POLYN174222 the MagicNumber/String  '(Yaml)' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getDescription@POLYN174478 the MagicNumber/String  '(Yaml)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getDescription@POLYN174222 the MagicNumber/String  '(HCL)' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getDescription@POLYN174478 the MagicNumber/String  '(HCL)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getDescription@POLYN174222 the MagicNumber/String  '(Json)' should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getDescription@POLYN174478 the MagicNumber/String  '(Json)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -169,70 +169,70 @@ var maDataBlocs = {
  , "c1" : "00098"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#98"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN174943 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00098] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN175199 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN174943 the MagicNumber/String  'Your data does not sound like ' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN175199 the MagicNumber/String  'Your data does not sound like ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN174943 the MagicNumber/String  ' data' should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN175199 the MagicNumber/String  ' data' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN174943 the MagicNumber/String  14 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN175199 the MagicNumber/String  14 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN174943 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN175199 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN174943 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.drawInternal@POLYN175199 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00118"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#118"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getTextBlock@POLYN175949 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00118] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getTextBlock@POLYN176205 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getTextBlock@POLYN175949 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getTextBlock@POLYN176205 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getTextBlock@POLYN175949 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getTextBlock@POLYN176205 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jsondiagram/JsonDiagram.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getTextBlock@POLYN175949 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.jsondiagram.JsonDiagram.getTextBlock@POLYN176205 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

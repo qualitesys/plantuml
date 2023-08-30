@@ -118,21 +118,21 @@ var maDataBlocs = {
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.color.HColorMiddle.toColor@POLYN161506 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.ugraphic.color.HColorMiddle.toColor@POLYN161762 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.color.HColorMiddle.toColor@POLYN161506 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method net.sourceforge.plantuml.ugraphic.color.HColorMiddle.toColor@POLYN161762 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/color/HColorMiddle.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.color.HColorMiddle.toColor@POLYN161506 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.ugraphic.color.HColorMiddle.toColor@POLYN161762 the MagicNumber/String  2 should be converted to const"
 }} 
 ]
 , 

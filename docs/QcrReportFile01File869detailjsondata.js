@@ -136,42 +136,42 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176048 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176304 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176048 the MagicNumber/String  '(hide|show)' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176304 the MagicNumber/String  '(hide|show)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176048 the MagicNumber/String  'VISIBILITY' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176304 the MagicNumber/String  'VISIBILITY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176048 the MagicNumber/String  '((?:public|private|protected|package)?(?:[,%s]+(?:public|private|protected|package))*)' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176304 the MagicNumber/String  '((?:public|private|protected|package)?(?:[,%s]+(?:public|private|protected|package))*)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176048 the MagicNumber/String  'PORTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176304 the MagicNumber/String  'PORTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176048 the MagicNumber/String  '(members?|attributes?|fields?|methods?)' should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getRegexConcat@POLYN176304 the MagicNumber/String  '(members?|attributes?|fields?|methods?)' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -206,56 +206,56 @@ var maDataBlocs = {
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN176994 the MagicNumber/String  'PORTION' should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN177250 the MagicNumber/String  'PORTION' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00082"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#82"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN176994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00082] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN177250 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN176994 the MagicNumber/String  'VISIBILITY' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN177250 the MagicNumber/String  'VISIBILITY' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN176994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN177250 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN176994 the MagicNumber/String  ' ,' should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN177250 the MagicNumber/String  ' ,' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN176994 the MagicNumber/String  'COMMAND' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN177250 the MagicNumber/String  'COMMAND' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN176994 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN177250 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN176994 the MagicNumber/String  'show' should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.executeArgClass@POLYN177250 the MagicNumber/String  'show' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -283,56 +283,56 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178080 the MagicNumber/String  'public' should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178336 the MagicNumber/String  'public' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178080 the MagicNumber/String  'public' should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178336 the MagicNumber/String  'public' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178080 the MagicNumber/String  'private' should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178336 the MagicNumber/String  'private' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178080 the MagicNumber/String  'private' should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178336 the MagicNumber/String  'private' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178080 the MagicNumber/String  'protected' should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178336 the MagicNumber/String  'protected' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178080 the MagicNumber/String  'protected' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178336 the MagicNumber/String  'protected' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178080 the MagicNumber/String  'package' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178336 the MagicNumber/String  'package' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178080 the MagicNumber/String  'package' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.addVisibilities@POLYN178336 the MagicNumber/String  'package' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -346,42 +346,42 @@ var maDataBlocs = {
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180606 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180862 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180606 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180862 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180606 the MagicNumber/String  'met' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180862 the MagicNumber/String  'met' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180606 the MagicNumber/String  'mem' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180862 the MagicNumber/String  'mem' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180606 the MagicNumber/String  'att' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180862 the MagicNumber/String  'att' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/CommandHideShowByVisibility.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180606 the MagicNumber/String  'fie' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility.getEntityPortion@POLYN180862 the MagicNumber/String  'fie' should be converted to const"
 }} 
 ]
 , 

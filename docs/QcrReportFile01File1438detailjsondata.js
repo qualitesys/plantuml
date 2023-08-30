@@ -109,14 +109,14 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.getRegexConcat@POLYN162551 the MagicNumber/String  'help' should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.getRegexConcat@POLYN162807 the MagicNumber/String  'help' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#57"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.getRegexConcat@POLYN162551 the MagicNumber/String  'skinparams?' should be converted to const"
+ , "c3" : "QC-JAV000010[00057] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.getRegexConcat@POLYN162807 the MagicNumber/String  'skinparams?' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -137,49 +137,49 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN162970 the MagicNumber/String  '&amp;lt;b&amp;gt;Help on skinparam' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN163226 the MagicNumber/String  '&amp;lt;b&amp;gt;Help on skinparam' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN162970 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN163226 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN162970 the MagicNumber/String  'The code of this command is located in &amp;lt;i&amp;gt;net.sourceforge.plantuml.help&amp;lt;/i&amp;gt; package.' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN163226 the MagicNumber/String  'The code of this command is located in &amp;lt;i&amp;gt;net.sourceforge.plantuml.help&amp;lt;/i&amp;gt; package.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN162970 the MagicNumber/String  'You may improve it on &amp;lt;i&amp;gt;https://github.com/plantuml/plantuml/tree/master/src/net/sourceforge/plantuml/help&amp;lt;/i&amp;gt;' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN163226 the MagicNumber/String  'You may improve it on &amp;lt;i&amp;gt;https://github.com/plantuml/plantuml/tree/master/src/net/sourceforge/plantuml/help&amp;lt;/i&amp;gt;' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN162970 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN163226 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN162970 the MagicNumber/String  ' The possible skinparam are :' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN163226 the MagicNumber/String  ' The possible skinparam are :' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/help/CommandHelpSkinparam.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN162970 the MagicNumber/String  '* ' should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method net.sourceforge.plantuml.help.CommandHelpSkinparam.executeArg@POLYN163226 the MagicNumber/String  '* ' should be converted to const"
 }} 
 ]
 , 

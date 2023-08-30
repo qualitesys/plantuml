@@ -296,28 +296,28 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN170954 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN171210 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN170954 the MagicNumber/String  'DiagramText cannot be initialised with a null string' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN171210 the MagicNumber/String  'DiagramText cannot be initialised with a null string' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN170954 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN171210 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN170954 the MagicNumber/String  'DiagramText cannot be initialised with a null font' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method org.stathissideris.ascii2image.graphics.DiagramText.DiagramText@POLYN171210 the MagicNumber/String  'DiagramText cannot be initialised with a null font' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -345,21 +345,21 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00060] For method centerHorizontallyBetween list of called methods Object monObjet|int fontMeasurer_getWidthForN172208"
+ , "c3" : "QC-JAV000007[00060] For method centerHorizontallyBetween list of called methods Object monObjet|int fontMeasurer_getWidthForN172464"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method org.stathissideris.ascii2image.graphics.DiagramText.centerHorizontallyBetween@POLYN172088 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method org.stathissideris.ascii2image.graphics.DiagramText.centerHorizontallyBetween@POLYN172344 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method org.stathissideris.ascii2image.graphics.DiagramText.centerHorizontallyBetween@POLYN172088 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method org.stathissideris.ascii2image.graphics.DiagramText.centerHorizontallyBetween@POLYN172344 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -373,21 +373,21 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#67"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00067] For method centerVerticallyBetween list of called methods Object monObjet|int fontMeasurer_getZHeightN172695"
+ , "c3" : "QC-JAV000007[00067] For method centerVerticallyBetween list of called methods Object monObjet|int fontMeasurer_getZHeightN172951"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00069"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#69"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00069] In method org.stathissideris.ascii2image.graphics.DiagramText.centerVerticallyBetween@POLYN172575 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00069] In method org.stathissideris.ascii2image.graphics.DiagramText.centerVerticallyBetween@POLYN172831 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00070"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#70"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00070] In method org.stathissideris.ascii2image.graphics.DiagramText.centerVerticallyBetween@POLYN172575 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00070] In method org.stathissideris.ascii2image.graphics.DiagramText.centerVerticallyBetween@POLYN172831 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -401,7 +401,7 @@ var maDataBlocs = {
  , "c1" : "00073"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#73"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00073] For method alignRightEdgeTo list of called methods Object monObjet|int fontMeasurer_getWidthForN173135"
+ , "c3" : "QC-JAV000007[00073] For method alignRightEdgeTo list of called methods Object monObjet|int fontMeasurer_getWidthForN173391"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -443,49 +443,49 @@ var maDataBlocs = {
  , "c1" : "00149"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#149"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00149] For method getBounds list of called methods Object monObjet|java.awt.geom.Rectangle2D fontMeasurer_getBoundsForN174692"
+ , "c3" : "QC-JAV000007[00149] For method getBounds list of called methods Object monObjet|java.awt.geom.Rectangle2D fontMeasurer_getBoundsForN174948"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175080 the MagicNumber/String  'DiagramText, at (' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175336 the MagicNumber/String  'DiagramText, at (' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175080 the MagicNumber/String  ', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175336 the MagicNumber/String  ', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175080 the MagicNumber/String  '), within ' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175336 the MagicNumber/String  '), within ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175080 the MagicNumber/String  ' '' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175336 the MagicNumber/String  ' '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175080 the MagicNumber/String  '', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175336 the MagicNumber/String  '', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175080 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method org.stathissideris.ascii2image.graphics.DiagramText.toString@POLYN175336 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -165,7 +165,7 @@ var maDataBlocs = {
  , "c1" : "00068"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#68"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.getLHeader@POLYN166114 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00068] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.getLHeader@POLYN166370 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -179,28 +179,28 @@ var maDataBlocs = {
  , "c1" : "00074"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#74"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.addAndCheckTermination@POLYN166216 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00074] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.addAndCheckTermination@POLYN166472 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.addAndCheckTermination@POLYN166216 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.addAndCheckTermination@POLYN166472 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00078"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#78"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.addAndCheckTermination@POLYN166216 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00078] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.addAndCheckTermination@POLYN166472 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.getAtom@POLYN166704 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.getAtom@POLYN166960 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -221,7 +221,7 @@ var maDataBlocs = {
  , "c1" : "00099"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/legacy/StripeLatex.java.html#99"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.getStartingAltitude@POLYN167322 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00099] In method net.sourceforge.plantuml.creole.legacy.StripeLatex.getStartingAltitude@POLYN167578 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

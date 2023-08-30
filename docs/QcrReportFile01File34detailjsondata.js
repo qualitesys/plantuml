@@ -107,28 +107,28 @@ var maDataBlocs = {
  , "c1" : "00016"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00016] For method getShadedColors list of called methods Object monObjet|double[] computeXValuesN155343|java.awt.Color getShadedColorForTypeN156600"
+ , "c3" : "QC-JAV000007[00016] For method getShadedColors list of called methods Object monObjet|double[] computeXValuesN155599|java.awt.Color getShadedColorForTypeN156856"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00018"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#18"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00018] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN155143 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00018] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN155399 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00024"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#24"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN155143 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00024] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN155399 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00028"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#28"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN155143 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00028] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.getShadedColors@POLYN155399 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -142,7 +142,7 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.computeXValues@POLYN156813 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method ext.plantuml.com.ctreber.acearth.shader.ShaderOrtho.computeXValues@POLYN157069 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

@@ -130,7 +130,7 @@ var maDataBlocs = {
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/AddStyle.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.graphic.AddStyle.apply@POLYN159515 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.graphic.AddStyle.apply@POLYN159771 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

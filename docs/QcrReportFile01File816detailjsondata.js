@@ -109,14 +109,14 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.bpm.CommandEndBranch.getRegexConcat@POLYN160708 the MagicNumber/String  'end' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.bpm.CommandEndBranch.getRegexConcat@POLYN160964 the MagicNumber/String  'end' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00056"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/bpm/CommandEndBranch.java.html#56"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandEndBranch.getRegexConcat@POLYN160708 the MagicNumber/String  'branch' should be converted to const"
+ , "c3" : "QC-JAV000010[00056] In method net.sourceforge.plantuml.bpm.CommandEndBranch.getRegexConcat@POLYN160964 the MagicNumber/String  'branch' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -90,21 +90,21 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#47"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN158138 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00047] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN158394 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN158138 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN158394 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/classdiagram/command/GenericRegexProducer.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN158138 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer.getGenericRegex@POLYN158394 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

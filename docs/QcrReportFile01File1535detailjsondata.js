@@ -117,28 +117,28 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN161905 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN162161 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN161905 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN162161 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN161905 the MagicNumber/String  100 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.nwdiag.next.NTetris.add@POLYN162161 the MagicNumber/String  100 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/NTetris.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.nwdiag.next.NTetris.getNWidth@POLYN162716 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.nwdiag.next.NTetris.getNWidth@POLYN162972 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

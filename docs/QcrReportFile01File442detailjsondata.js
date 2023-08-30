@@ -114,7 +114,7 @@ var maDataBlocs = {
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.SourceFileReaderCopyCat@POLYN160583 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.SourceFileReaderCopyCat@POLYN160839 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -135,7 +135,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/SourceFileReaderCopyCat.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.getSuggestedFile@POLYN161354 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.SourceFileReaderCopyCat.getSuggestedFile@POLYN161610 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

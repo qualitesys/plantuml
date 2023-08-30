@@ -191,28 +191,28 @@ var maDataBlocs = {
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawLinks@POLYN186526 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawLinks@POLYN186782 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawLinks@POLYN186526 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawLinks@POLYN186782 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00088"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#88"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawLinks@POLYN186526 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawLinks@POLYN186782 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawLinks@POLYN186526 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawLinks@POLYN186782 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -268,56 +268,56 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188137 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188393 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188137 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188137 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188137 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188137 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188393 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00110"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188137 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188393 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188137 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188393 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188137 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawGroups@POLYN188393 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -338,28 +338,28 @@ var maDataBlocs = {
  , "c1" : "00126"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#126"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.isThereALink@POLYN190099 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00126] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.isThereALink@POLYN190355 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.isThereALink@POLYN190099 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.isThereALink@POLYN190355 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.isThereALink@POLYN190099 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.isThereALink@POLYN190355 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.isThereALink@POLYN190099 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.isThereALink@POLYN190355 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -422,35 +422,35 @@ var maDataBlocs = {
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN190924 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN191180 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN190924 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN191180 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN190924 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN191180 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN190924 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN191180 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN190924 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.drawNetworkTube@POLYN191180 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -478,42 +478,42 @@ var maDataBlocs = {
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193405 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193661 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/GridTextBlockDecorated.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193405 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated.computeMixMax@POLYN193661 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -159,42 +159,42 @@ var maDataBlocs = {
  , "c1" : "00042"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.compareTo@POLYN154599 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.compareTo@POLYN154855 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.compareTo@POLYN154599 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.compareTo@POLYN154855 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00042"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#42"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.compareTo@POLYN154599 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00042] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.compareTo@POLYN154855 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.compareTo@POLYN154599 the MagicNumber/String  'Can't compare to ' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.compareTo@POLYN154855 the MagicNumber/String  'Can't compare to ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.toString@POLYN155409 the MagicNumber/String  ', ' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.toString@POLYN155665 the MagicNumber/String  ', ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/ScanDot.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.toString@POLYN155409 the MagicNumber/String  ': ' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method ext.plantuml.com.ctreber.acearth.scandot.ScanDot.toString@POLYN155665 the MagicNumber/String  ': ' should be converted to const"
 }} 
 ]
 , 

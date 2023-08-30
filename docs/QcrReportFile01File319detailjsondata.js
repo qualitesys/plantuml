@@ -281,14 +281,14 @@ var maDataBlocs = {
  , "c1" : "00110"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#110"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00110] In method jcckit.plot.Plot.Plot@POLYN227288 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00110] In method jcckit.plot.Plot.Plot@POLYN227544 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method jcckit.plot.Plot.Plot@POLYN227288 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method jcckit.plot.Plot.Plot@POLYN227544 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,7 +302,7 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00122] For method setCoordinateSystem list of called methods Object monObjet|jcckit.graphic.GraphicalElement coordinateSystem_getViewN228490|jcckit.graphic.ClippingShape coordinateSystem_getClippingShapeN228564|jcckit.transformation.Transformation coordinateSystem_getTransformationN228638"
+ , "c3" : "QC-JAV000007[00122] For method setCoordinateSystem list of called methods Object monObjet|jcckit.graphic.GraphicalElement coordinateSystem_getViewN228746|jcckit.graphic.ClippingShape coordinateSystem_getClippingShapeN228820|jcckit.transformation.Transformation coordinateSystem_getTransformationN228894"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -316,14 +316,14 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method jcckit.plot.Plot.setCoordinateSystem@POLYN228398 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method jcckit.plot.Plot.setCoordinateSystem@POLYN228654 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method jcckit.plot.Plot.setCoordinateSystem@POLYN228398 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method jcckit.plot.Plot.setCoordinateSystem@POLYN228654 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -358,7 +358,7 @@ var maDataBlocs = {
  , "c1" : "00158"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method jcckit.plot.Plot.notifyListeners@POLYN229550 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method jcckit.plot.Plot.notifyListeners@POLYN229806 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -372,14 +372,14 @@ var maDataBlocs = {
  , "c1" : "00181"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#181"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00181] In method jcckit.plot.Plot.connect@POLYN230597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00181] In method jcckit.plot.Plot.connect@POLYN230853 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method jcckit.plot.Plot.connect@POLYN230597 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method jcckit.plot.Plot.connect@POLYN230853 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -393,28 +393,28 @@ var maDataBlocs = {
  , "c1" : "00211"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#211"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00211] For method getCompletePlot list of called methods Object monObjet|jcckit.graphic.GraphicalElement[] getCurvesN232067"
+ , "c3" : "QC-JAV000007[00211] For method getCompletePlot list of called methods Object monObjet|jcckit.graphic.GraphicalElement[] getCurvesN232323"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method jcckit.plot.Plot.getCompletePlot@POLYN231816 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method jcckit.plot.Plot.getCompletePlot@POLYN232072 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00215"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#215"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00215] In method jcckit.plot.Plot.getCompletePlot@POLYN231816 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00215] In method jcckit.plot.Plot.getCompletePlot@POLYN232072 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00218"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#218"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00218] In method jcckit.plot.Plot.getCompletePlot@POLYN231816 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00218] In method jcckit.plot.Plot.getCompletePlot@POLYN232072 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -435,7 +435,7 @@ var maDataBlocs = {
  , "c1" : "00236"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#236"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00236] In method jcckit.plot.Plot.getCurves@POLYN232791 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00236] In method jcckit.plot.Plot.getCurves@POLYN233047 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -484,35 +484,35 @@ var maDataBlocs = {
  , "c1" : "00294"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#294"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00294] In method jcckit.plot.Plot.dataChanged@POLYN235029 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00294] In method jcckit.plot.Plot.dataChanged@POLYN235285 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method jcckit.plot.Plot.dataChanged@POLYN235029 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method jcckit.plot.Plot.dataChanged@POLYN235285 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00307"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#307"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00307] In method jcckit.plot.Plot.dataChanged@POLYN235029 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00307] In method jcckit.plot.Plot.dataChanged@POLYN235285 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00308"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#308"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00308] In method jcckit.plot.Plot.dataChanged@POLYN235029 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00308] In method jcckit.plot.Plot.dataChanged@POLYN235285 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method jcckit.plot.Plot.dataChanged@POLYN235029 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method jcckit.plot.Plot.dataChanged@POLYN235285 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -526,7 +526,7 @@ var maDataBlocs = {
  , "c1" : "00328"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#328"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00328] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN237643|jcckit.plot.Curve _curveFactory_createN237808"
+ , "c3" : "QC-JAV000007[00328] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN237899|jcckit.plot.Curve _curveFactory_createN238064"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -568,28 +568,28 @@ var maDataBlocs = {
  , "c1" : "00330"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#330"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00330] In method jcckit.plot.Plot.generateCurves@POLYN237118 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00330] In method jcckit.plot.Plot.generateCurves@POLYN237374 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00332"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#332"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00332] In method jcckit.plot.Plot.generateCurves@POLYN237118 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00332] In method jcckit.plot.Plot.generateCurves@POLYN237374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00333"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#333"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method jcckit.plot.Plot.generateCurves@POLYN237118 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00333] In method jcckit.plot.Plot.generateCurves@POLYN237374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00334"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#334"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00334] In method jcckit.plot.Plot.generateCurves@POLYN237118 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00334] In method jcckit.plot.Plot.generateCurves@POLYN237374 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -603,7 +603,7 @@ var maDataBlocs = {
  , "c1" : "00347"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#347"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00347] For method fillCurve list of called methods Object monObjet|int dataCurve_getNumberOfElementsN239026"
+ , "c3" : "QC-JAV000007[00347] For method fillCurve list of called methods Object monObjet|int dataCurve_getNumberOfElementsN239282"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -624,14 +624,14 @@ var maDataBlocs = {
  , "c1" : "00351"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#351"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00351] In method jcckit.plot.Plot.fillCurve@POLYN238570 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00351] In method jcckit.plot.Plot.fillCurve@POLYN238826 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00355"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#355"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00355] In method jcckit.plot.Plot.fillCurve@POLYN238570 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00355] In method jcckit.plot.Plot.fillCurve@POLYN238826 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -645,14 +645,14 @@ var maDataBlocs = {
  , "c1" : "00361"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#361"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00361] In method jcckit.plot.Plot.getHintForNextCurve@POLYN239512 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00361] In method jcckit.plot.Plot.getHintForNextCurve@POLYN239768 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00365"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#365"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00365] In method jcckit.plot.Plot.getHintForNextCurve@POLYN239512 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00365] In method jcckit.plot.Plot.getHintForNextCurve@POLYN239768 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

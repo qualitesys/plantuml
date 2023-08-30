@@ -144,14 +144,14 @@ var maDataBlocs = {
  , "c1" : "00071"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#71"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.wire.WLinkHorizontal.WLinkHorizontal@POLYN190783 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00071] In method net.sourceforge.plantuml.wire.WLinkHorizontal.WLinkHorizontal@POLYN191039 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00083"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#83"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.wire.WLinkHorizontal.getTextBlock@POLYN191814 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00083] In method net.sourceforge.plantuml.wire.WLinkHorizontal.getTextBlock@POLYN192070 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -172,56 +172,56 @@ var maDataBlocs = {
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192164 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192420 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192164 the MagicNumber/String  20 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192420 the MagicNumber/String  20 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192164 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192420 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00105"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#105"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192164 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192420 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00108"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#108"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192164 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00108] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192420 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192164 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192420 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192164 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192420 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192164 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawMe@POLYN192420 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -242,441 +242,441 @@ var maDataBlocs = {
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00132"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#132"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00132] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00133"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#133"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00133] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00138"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#138"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00138] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#141"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00141] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00142"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#142"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#143"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00143] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00144"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#144"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00144] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00145"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#145"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00145] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00146"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#146"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00146] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00147"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#147"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00147] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#148"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00148] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00150"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#150"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00150] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00153"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#153"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00153] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#155"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00155] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00156"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#156"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00156] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#158"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00158] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00159"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#159"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00159] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00162"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#162"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00162] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00165"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#165"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00165] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00168"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#168"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00168] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00169"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#169"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00169] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#170"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00170] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00171"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#171"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00171] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00172"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#172"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00172] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00174"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#174"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  15 should be converted to const"
+ , "c3" : "QC-JAV000010[00174] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  15 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#175"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00175] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00177"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#177"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN194859 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00177] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawBusArrow@POLYN195115 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -697,133 +697,133 @@ var maDataBlocs = {
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#182"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00182] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00185"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#185"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00185] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#186"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00186] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00187"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#187"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00187] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00194"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#194"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00194] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00195"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#195"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00195] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00196"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#196"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00196] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#197"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00197] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00199"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#199"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00199] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/wire/WLinkHorizontal.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199731 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.wire.WLinkHorizontal.drawNormalArrow@POLYN199987 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

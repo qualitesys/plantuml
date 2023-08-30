@@ -163,28 +163,28 @@ var maDataBlocs = {
  , "c1" : "00096"
  , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#96"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00096] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN196772 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00096] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN197028 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN196772 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN197028 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN196772 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN197028 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/jcckit/graphic/BasicGraphicAttributes.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN196772 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN197028 the MagicNumber/String  0 should be converted to const"
 }} 
 ]
 , 

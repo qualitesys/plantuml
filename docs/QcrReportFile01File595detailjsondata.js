@@ -350,28 +350,28 @@ var maDataBlocs = {
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlanesSpecial@POLYN233931 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlanesSpecial@POLYN234187 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00113"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#113"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlanesSpecial@POLYN233931 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00113] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlanesSpecial@POLYN234187 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlanesSpecial@POLYN233931 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlanesSpecial@POLYN234187 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getStyle@POLYN234944 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getStyle@POLYN235200 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -392,14 +392,14 @@ var maDataBlocs = {
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlane@POLYN236308 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlane@POLYN236564 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00157"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#157"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlane@POLYN236308 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00157] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.swimlane@POLYN236564 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -420,21 +420,21 @@ var maDataBlocs = {
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.Cross.draw@POLYN237557 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.Cross.draw@POLYN237813 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#189"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.Cross.draw@POLYN237557 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00189] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.Cross.draw@POLYN237813 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#201"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.Cross.draw@POLYN237557 the MagicNumber/String  'CROSS IN SWIMLANES' should be converted to const"
+ , "c3" : "QC-JAV000010[00201] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.Cross.draw@POLYN237813 the MagicNumber/String  'CROSS IN SWIMLANES' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -455,7 +455,7 @@ var maDataBlocs = {
  , "c1" : "00216"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#216"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSize@POLYN239311 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00216] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSize@POLYN239567 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -476,7 +476,7 @@ var maDataBlocs = {
  , "c1" : "00232"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#232"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU@POLYN239830 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00232] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawU@POLYN240086 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -497,7 +497,7 @@ var maDataBlocs = {
  , "c1" : "00246"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#246"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawGtile@POLYN240696 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00246] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawGtile@POLYN240952 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -518,7 +518,7 @@ var maDataBlocs = {
  , "c1" : "00262"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#262"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitle@POLYN241424 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00262] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitle@POLYN241680 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -532,21 +532,21 @@ var maDataBlocs = {
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitleHeightTranslate@POLYN242461 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitleHeightTranslate@POLYN242717 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitleHeightTranslate@POLYN242461 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitleHeightTranslate@POLYN242717 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitleHeightTranslate@POLYN242461 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitleHeightTranslate@POLYN242717 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -567,7 +567,7 @@ var maDataBlocs = {
  , "c1" : "00281"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#281"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitlesHeight@POLYN242793 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getTitlesHeight@POLYN243049 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -623,35 +623,35 @@ var maDataBlocs = {
  , "c1" : "00296"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#296"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243308 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00296] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243564 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00297"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#297"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243308 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00297] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243564 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243308 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243564 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243308 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243564 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00304"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#304"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243308 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00304] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawWhenSwimlanes@POLYN243564 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -672,42 +672,42 @@ var maDataBlocs = {
  , "c1" : "00331"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#331"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00331] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246395 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00331] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246651 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00333"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#333"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246395 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246651 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00333"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#333"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246395 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246651 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00333"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#333"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246395 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246651 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00333"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#333"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246395 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00333] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246651 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00336"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#336"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246395 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00336] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.drawTitlesBackground@POLYN246651 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -784,7 +784,7 @@ var maDataBlocs = {
  , "c1" : "00352"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#352"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeDrawingWidths@POLYN248225 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00352] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeDrawingWidths@POLYN248481 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -833,42 +833,42 @@ var maDataBlocs = {
  , "c1" : "00374"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#374"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00374] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249079 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00374] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249335 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00384"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#384"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249079 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00384] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249335 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00385"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#385"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00385] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249079 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00385] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249335 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00388"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#388"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249079 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00388] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249335 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00394"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#394"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00394] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249079 the MagicNumber/String  2.0 should be converted to const"
+ , "c3" : "QC-JAV000010[00394] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249335 the MagicNumber/String  2.0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00399"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#399"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00399] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249079 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00399] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.computeSizeInternal@POLYN249335 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -882,49 +882,49 @@ var maDataBlocs = {
  , "c1" : "00403"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#403"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252135 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00403] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252391 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00404"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#404"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252135 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00404] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252391 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00406"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#406"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252135 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00406] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252391 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00410"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#410"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00410] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252135 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00410] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252391 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00413"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252135 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252391 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00413"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252135 the MagicNumber/String  5 should be converted to const"
+ , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252391 the MagicNumber/String  5 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00413"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#413"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252135 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00413] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getHalfMissingSpace@POLYN252391 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -973,14 +973,14 @@ var maDataBlocs = {
  , "c1" : "00448"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#448"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getMinMax@POLYN254154 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00448] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getMinMax@POLYN254410 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00449"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/Swimlanes.java.html#449"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00449] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getMinMax@POLYN254154 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00449] In method net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes.getMinMax@POLYN254410 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

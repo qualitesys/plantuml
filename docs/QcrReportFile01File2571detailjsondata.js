@@ -205,7 +205,7 @@ var maDataBlocs = {
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/TextLimitFinder.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.TextLimitFinder.drawText@POLYN168552 the MagicNumber/String  1.5 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.ugraphic.TextLimitFinder.drawText@POLYN168808 the MagicNumber/String  1.5 should be converted to const"
 }} 
 ]
 , 

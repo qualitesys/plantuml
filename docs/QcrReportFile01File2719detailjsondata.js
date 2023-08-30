@@ -90,21 +90,21 @@ var maDataBlocs = {
  , "c1" : "00011"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/CharsetUtils.java.html#11"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.utils.CharsetUtils.charsetOrDefault@POLYN148495 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00011] In method net.sourceforge.plantuml.utils.CharsetUtils.charsetOrDefault@POLYN148751 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00012"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/CharsetUtils.java.html#12"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.utils.CharsetUtils.charsetOrDefault@POLYN148495 the MagicNumber/String  'Using default charset' should be converted to const"
+ , "c3" : "QC-JAV000010[00012] In method net.sourceforge.plantuml.utils.CharsetUtils.charsetOrDefault@POLYN148751 the MagicNumber/String  'Using default charset' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00015"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/utils/CharsetUtils.java.html#15"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.utils.CharsetUtils.charsetOrDefault@POLYN148495 the MagicNumber/String  'Using charset ' should be converted to const"
+ , "c3" : "QC-JAV000010[00015] In method net.sourceforge.plantuml.utils.CharsetUtils.charsetOrDefault@POLYN148751 the MagicNumber/String  'Using charset ' should be converted to const"
 }} 
 ]
 , 

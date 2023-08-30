@@ -155,7 +155,7 @@ var maDataBlocs = {
  , "c1" : "00085"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/graphic/TextBlockRecentred.java.html#85"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.graphic.TextBlockRecentred.getBackcolor@POLYN162660 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00085] In method net.sourceforge.plantuml.graphic.TextBlockRecentred.getBackcolor@POLYN162916 the MagicNumber/String  null should be converted to const"
 }} 
 ]
 , 

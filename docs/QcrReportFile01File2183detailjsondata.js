@@ -231,7 +231,7 @@ var maDataBlocs = {
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.style.ValueImpl.dark@POLYN171595 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.style.ValueImpl.dark@POLYN171851 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -252,7 +252,7 @@ var maDataBlocs = {
  , "c1" : "00055"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#55"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.ValueImpl.regular@POLYN171914 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00055] In method net.sourceforge.plantuml.style.ValueImpl.regular@POLYN172170 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -266,7 +266,7 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.style.ValueImpl.regular@POLYN172233 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.style.ValueImpl.regular@POLYN172489 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -280,7 +280,7 @@ var maDataBlocs = {
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.style.ValueImpl.mergeWith@POLYN172527 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.style.ValueImpl.mergeWith@POLYN172783 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -308,77 +308,77 @@ var maDataBlocs = {
  , "c1" : "00094"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#94"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.style.ValueImpl.asColor@POLYN173711 the MagicNumber/String  'none' should be converted to const"
+ , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.style.ValueImpl.asColor@POLYN173967 the MagicNumber/String  'none' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.style.ValueImpl.asColor@POLYN173711 the MagicNumber/String  'transparent' should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.style.ValueImpl.asColor@POLYN173967 the MagicNumber/String  'transparent' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.style.ValueImpl.asColor@POLYN173711 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.style.ValueImpl.asColor@POLYN173967 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.style.ValueImpl.asColor@POLYN173711 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.style.ValueImpl.asColor@POLYN173967 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.style.ValueImpl.asBoolean@POLYN174774 the MagicNumber/String  'true' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.style.ValueImpl.asBoolean@POLYN175030 the MagicNumber/String  'true' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.style.ValueImpl.asInt@POLYN174960 the MagicNumber/String  '[^0-9]' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.style.ValueImpl.asInt@POLYN175216 the MagicNumber/String  '[^0-9]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00117"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#117"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.style.ValueImpl.asInt@POLYN174960 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00117] In method net.sourceforge.plantuml.style.ValueImpl.asInt@POLYN175216 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.style.ValueImpl.asDouble@POLYN175281 the MagicNumber/String  '[^.0-9]' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.style.ValueImpl.asDouble@POLYN175537 the MagicNumber/String  '[^.0-9]' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00123"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#123"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.style.ValueImpl.asDouble@POLYN175281 the MagicNumber/String  '' should be converted to const"
+ , "c3" : "QC-JAV000010[00123] In method net.sourceforge.plantuml.style.ValueImpl.asDouble@POLYN175537 the MagicNumber/String  '' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.style.ValueImpl.asFontStyle@POLYN175602 the MagicNumber/String  'bold' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.style.ValueImpl.asFontStyle@POLYN175858 the MagicNumber/String  'bold' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/style/ValueImpl.java.html#131"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.ValueImpl.asFontStyle@POLYN175602 the MagicNumber/String  'italic' should be converted to const"
+ , "c3" : "QC-JAV000010[00131] In method net.sourceforge.plantuml.style.ValueImpl.asFontStyle@POLYN175858 the MagicNumber/String  'italic' should be converted to const"
 }} 
 ]
 , 

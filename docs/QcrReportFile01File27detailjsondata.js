@@ -116,28 +116,28 @@ var maDataBlocs = {
  , "c1" : "00039"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#39"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN158452 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00039] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN158708 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00040"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#40"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN158452 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00040] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN158708 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN158452 the MagicNumber/String  4 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN158708 the MagicNumber/String  4 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00050"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#50"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN158452 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00050] In method ext.plantuml.com.ctreber.acearth.scandot.DotGeneratorLines.generateScanDots@POLYN158708 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -151,7 +151,7 @@ var maDataBlocs = {
  , "c1" : "00060"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scandot/DotGeneratorLines.java.html#60"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00060] For method transformAndAddDot list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D fProjection_rotateN160129|ext.plantuml.com.ctreber.acearth.util.Point2D fProjection_finalizeN160333"
+ , "c3" : "QC-JAV000007[00060] For method transformAndAddDot list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D fProjection_rotateN160385|ext.plantuml.com.ctreber.acearth.util.Point2D fProjection_finalizeN160589"
 }} 
 ,
 { "ligne" : {"" : ""

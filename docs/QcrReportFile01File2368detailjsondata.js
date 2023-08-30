@@ -118,14 +118,14 @@ var maDataBlocs = {
  , "c1" : "00043"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#43"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN157434 the MagicNumber/String  4242 should be converted to const"
+ , "c3" : "QC-JAV000010[00043] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN157690 the MagicNumber/String  4242 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00044"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/telnet/TelnetServer.java.html#44"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN157434 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00044] In method net.sourceforge.plantuml.telnet.TelnetServer.main@POLYN157690 the MagicNumber/String  true should be converted to const"
 }} 
 ]
 , 

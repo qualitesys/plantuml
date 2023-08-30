@@ -359,14 +359,14 @@ var maDataBlocs = {
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.Ribbon@POLYN215609 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.Ribbon@POLYN215865 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00084"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#84"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.Ribbon@POLYN215609 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00084] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.Ribbon@POLYN215865 the MagicNumber/String  24 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -380,28 +380,28 @@ var maDataBlocs = {
  , "c1" : "00095"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#95"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN216369 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00095] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN216625 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#97"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN216369 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00097] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN216625 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00100"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#100"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN216369 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00100] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN216625 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00101"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#101"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN216369 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00101] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getTimeProjection@POLYN216625 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -443,14 +443,14 @@ var maDataBlocs = {
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getPart1@POLYN218345 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getPart1@POLYN218601 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00135"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#135"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getPart1@POLYN218345 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00135] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getPart1@POLYN218601 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -478,14 +478,14 @@ var maDataBlocs = {
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawNotes@POLYN219701 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawNotes@POLYN219957 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00154"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#154"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawNotes@POLYN219701 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00154] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawNotes@POLYN219957 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -499,21 +499,21 @@ var maDataBlocs = {
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#160"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN220355 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00160] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN220611 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00161"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#161"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN220355 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00161] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN220611 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00163"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#163"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN220355 the MagicNumber/String  24 should be converted to const"
+ , "c3" : "QC-JAV000010[00163] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getInitialWidth@POLYN220611 the MagicNumber/String  24 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -548,7 +548,7 @@ var maDataBlocs = {
  , "c1" : "00173"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#173"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawFlat@POLYN221067 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00173] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawFlat@POLYN221323 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -583,14 +583,14 @@ var maDataBlocs = {
  , "c1" : "00188"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#188"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPentaA@POLYN222054 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00188] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPentaA@POLYN222310 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00191"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#191"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPentaA@POLYN222054 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00191] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPentaA@POLYN222310 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -611,14 +611,14 @@ var maDataBlocs = {
  , "c1" : "00203"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#203"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getHeightForNotes@POLYN223210 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00203] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getHeightForNotes@POLYN223466 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00212"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#212"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getMarginX@POLYN223691 the MagicNumber/String  12 should be converted to const"
+ , "c3" : "QC-JAV000010[00212] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getMarginX@POLYN223947 the MagicNumber/String  12 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -646,7 +646,7 @@ var maDataBlocs = {
  , "c1" : "00231"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#231"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getBottomMargin@POLYN224565 the MagicNumber/String  10 should be converted to const"
+ , "c3" : "QC-JAV000010[00231] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getBottomMargin@POLYN224821 the MagicNumber/String  10 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -667,21 +667,21 @@ var maDataBlocs = {
  , "c1" : "00241"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#241"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN224645 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00241] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN224901 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00243"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#243"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN224645 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00243] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN224901 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#245"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN224645 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00245] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawPart2@POLYN224901 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -702,28 +702,28 @@ var maDataBlocs = {
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN226185 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN226441 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00253"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#253"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN226185 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00253] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN226441 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00255"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#255"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN226185 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00255] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN226441 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00257"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#257"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN226185 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00257] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroState@POLYN226441 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -744,14 +744,14 @@ var maDataBlocs = {
  , "c1" : "00263"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#263"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroStateLabel@POLYN226925 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00263] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroStateLabel@POLYN227181 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00266"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#266"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroStateLabel@POLYN226925 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00266] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawBeforeZeroStateLabel@POLYN227181 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -772,49 +772,49 @@ var maDataBlocs = {
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227629 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227885 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00271"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#271"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227629 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00271] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227885 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00273"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#273"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227629 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00273] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227885 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00277"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#277"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227629 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00277] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227885 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00280"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#280"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227629 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00280] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227885 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00281"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#281"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227629 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00281] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227885 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00285"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#285"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227629 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00285] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStates@POLYN227885 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -870,70 +870,70 @@ var maDataBlocs = {
  , "c1" : "00292"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#292"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00292] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00295"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#295"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00295] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00299"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#299"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00299] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00302"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#302"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00302] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00303"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#303"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00303] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00305"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#305"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00305] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#310"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN229859 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00310] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.drawStatesLabels@POLYN230115 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -954,21 +954,21 @@ var maDataBlocs = {
  , "c1" : "00315"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#315"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN232201 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00315] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN232457 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00316"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN232201 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN232457 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00316"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#316"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN232201 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00316] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getCommentTopBlock@POLYN232457 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -982,7 +982,7 @@ var maDataBlocs = {
  , "c1" : "00322"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/timingdiagram/graphic/Ribbon.java.html#322"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getHeightForTopComment@POLYN232539 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00322] In method net.sourceforge.plantuml.timingdiagram.graphic.Ribbon.getHeightForTopComment@POLYN232795 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

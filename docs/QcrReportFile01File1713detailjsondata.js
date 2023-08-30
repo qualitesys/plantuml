@@ -144,7 +144,7 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.lang.CenterBorderColor.CenterBorderColor@POLYN162900 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.project.lang.CenterBorderColor.CenterBorderColor@POLYN163156 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -165,21 +165,21 @@ var maDataBlocs = {
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.lang.CenterBorderColor.apply@POLYN163401 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.project.lang.CenterBorderColor.apply@POLYN163657 the MagicNumber/String  false should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00063"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#63"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.lang.CenterBorderColor.apply@POLYN163401 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.project.lang.CenterBorderColor.apply@POLYN163657 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/lang/CenterBorderColor.java.html#72"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.lang.CenterBorderColor.isOk@POLYN164043 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00072] In method net.sourceforge.plantuml.project.lang.CenterBorderColor.isOk@POLYN164299 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

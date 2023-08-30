@@ -187,56 +187,56 @@ var maDataBlocs = {
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.getEmpty@POLYN167623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.getEmpty@POLYN167879 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.getEmpty@POLYN167623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.getEmpty@POLYN167879 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.getEmpty@POLYN167623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.getEmpty@POLYN167879 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.getEmpty@POLYN167623 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.getEmpty@POLYN167879 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.toString@POLYN168212 the MagicNumber/String  'X=' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.toString@POLYN168468 the MagicNumber/String  'X=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.toString@POLYN168212 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.toString@POLYN168468 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.toString@POLYN168212 the MagicNumber/String  ' Y=' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.toString@POLYN168468 the MagicNumber/String  ' Y=' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00060"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#60"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.toString@POLYN168212 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00060] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.toString@POLYN168468 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -257,7 +257,7 @@ var maDataBlocs = {
  , "c1" : "00102"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/MinMaxMutable.java.html#102"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.fromMax@POLYN170302 the MagicNumber/String  true should be converted to const"
+ , "c3" : "QC-JAV000010[00102] In method net.sourceforge.plantuml.ugraphic.MinMaxMutable.fromMax@POLYN170558 the MagicNumber/String  true should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""

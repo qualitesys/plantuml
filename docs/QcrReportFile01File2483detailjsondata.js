@@ -125,7 +125,7 @@ var maDataBlocs = {
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction.isUnquoted@POLYN161295 the MagicNumber/String  false should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction.isUnquoted@POLYN161551 the MagicNumber/String  false should be converted to const"
 }} 
 ]
 , 

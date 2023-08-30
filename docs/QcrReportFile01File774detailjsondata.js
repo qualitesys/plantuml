@@ -159,154 +159,154 @@ var maDataBlocs = {
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00045"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#45"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00045] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00046"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#46"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00046] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#48"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00048] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00049"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#49"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00049] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#51"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00051] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  '.' should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  '.' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00052"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#52"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00052] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00053"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#53"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00053] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#54"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN177771 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00054] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimple@POLYN178027 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -320,154 +320,154 @@ var maDataBlocs = {
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  '\u2500' should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  '\u2500' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#58"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00058] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  '\u2500' should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  '\u2500' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00059"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#59"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00059] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  '\u2502' should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  '\u2502' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00061"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#61"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00061] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  '\u2502' should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  '\u2502' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#62"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00062] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#64"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  '\u250c' should be converted to const"
+ , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  '\u250c' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  '\u2510' should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  '\u2510' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#65"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  '\u2514' should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  '\u2514' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00066"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#66"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00066] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  '\u2518' should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  '\u2518' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#67"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179473 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00067] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawBoxSimpleUnicode@POLYN179729 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -509,21 +509,21 @@ var maDataBlocs = {
  , "c1" : "00075"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#75"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRSimple@POLYN181401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00075] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRSimple@POLYN181657 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00076"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#76"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRSimple@POLYN181401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00076] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRSimple@POLYN181657 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00077"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#77"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRSimple@POLYN181401 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00077] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRSimple@POLYN181657 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -537,21 +537,21 @@ var maDataBlocs = {
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRUnicode@POLYN182184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRUnicode@POLYN182440 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00090"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#90"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRUnicode@POLYN182184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00090] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRUnicode@POLYN182440 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00091"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#91"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRUnicode@POLYN182184 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00091] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawStringsLRUnicode@POLYN182440 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -565,175 +565,175 @@ var maDataBlocs = {
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00103"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#103"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00103] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  '-' should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  '-' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#104"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00104] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00106"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#106"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00106] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  '|' should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  '|' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#107"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00107] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00109"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#109"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  ',' should be converted to const"
+ , "c3" : "QC-JAV000010[00109] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  ',' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  '!. ' should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  '!. ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#111"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00111] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  '|_\\' should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  '|_\\' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  3 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  3 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00112"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#112"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00112] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  ' ' should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  ' ' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00114"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#114"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  '\'' should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  '\'' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00115"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#115"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN182784 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00115] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimple@POLYN183040 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -747,203 +747,203 @@ var maDataBlocs = {
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2591' should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2591' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  2 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  2 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00119"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#119"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00119] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2550' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2550' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2502' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2502' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#121"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2567' should be converted to const"
+ , "c3" : "QC-JAV000010[00121] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2567' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2550' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2550' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2502' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2502' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00122"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#122"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2564' should be converted to const"
+ , "c3" : "QC-JAV000010[00122] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2564' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2551' should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2551' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2551' should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2551' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00125"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#125"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00125] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00127"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#127"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2554' should be converted to const"
+ , "c3" : "QC-JAV000010[00127] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2554' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u2557' should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u2557' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00128"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#128"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00128] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u255a' should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u255a' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#129"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00129] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  '\u255d' should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  '\u255d' should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00130"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/asciiart/UmlCharAreaImpl.java.html#130"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184671 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00130] In method net.sourceforge.plantuml.asciiart.UmlCharAreaImpl.drawNoteSimpleUnicode@POLYN184927 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 

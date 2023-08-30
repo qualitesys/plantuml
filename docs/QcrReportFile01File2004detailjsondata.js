@@ -190,14 +190,14 @@ var maDataBlocs = {
  , "c1" : "00087"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#87"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.prepareMessage@POLYN177485 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00087] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.prepareMessage@POLYN177741 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00089"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#89"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.prepareMessage@POLYN177485 the MagicNumber/String  30 should be converted to const"
+ , "c3" : "QC-JAV000010[00089] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.prepareMessage@POLYN177741 the MagicNumber/String  30 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -218,14 +218,14 @@ var maDataBlocs = {
  , "c1" : "00120"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#120"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.createArrow@POLYN179803 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00120] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.createArrow@POLYN180059 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00124"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#124"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.createArrow@POLYN179803 the MagicNumber/String  0 should be converted to const"
+ , "c3" : "QC-JAV000010[00124] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.createArrow@POLYN180059 the MagicNumber/String  0 should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -239,14 +239,14 @@ var maDataBlocs = {
  , "c1" : "00134"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#134"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.getArrowType@POLYN180878 the MagicNumber/String  null should be converted to const"
+ , "c3" : "QC-JAV000010[00134] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.getArrowType@POLYN181134 the MagicNumber/String  null should be converted to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00136"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/graphic/Step1MessageExo.java.html#136"
  , "c2" : "MAJOR"
- , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.getArrowType@POLYN180878 the MagicNumber/String  1 should be converted to const"
+ , "c3" : "QC-JAV000010[00136] In method net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo.getArrowType@POLYN181134 the MagicNumber/String  1 should be converted to const"
 }} 
 ]
 , 
