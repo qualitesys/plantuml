@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/routespl__c.java.html" 
- , "texte" : "File src/gen/lib/common/routespl__c.java 528 rule violations " 
+ , "texte" : "File src/gen/lib/common/routespl__c.java 522 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -184,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "114"
+ , "c4" : "108"
 }}
 ,
 { "ligne" : { "" : ""
@@ -3126,7 +3126,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.overlap@POLYN369852"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.overlap@POLYN369270"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3701,48 +3701,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#703"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00703] In the recursive method gen.lib.common.routespl__c.checkpath@POLYN371196 the MagicNumber/String 'dxqjhiid5f58b9gjxp0v3j97b' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#527"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00527] In the recursive method gen.lib.common.routespl__c.overlap@POLYN369852 the MagicNumber/String '65qv6x7ghwyt6hey5qd8cgizn' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00527"
- , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#527"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00527] In the recursive method gen.lib.common.routespl__c.overlap@POLYN369852 the MagicNumber/String 'overlap' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00531"
- , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#531"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00531] In the recursive method gen.lib.common.routespl__c.overlap@POLYN369852 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00533"
- , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#533"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00533] In the recursive method gen.lib.common.routespl__c.overlap@POLYN369852 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00540"
- , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#540"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00540] In the recursive method gen.lib.common.routespl__c.overlap@POLYN369852 the MagicNumber/String '65qv6x7ghwyt6hey5qd8cgizn' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00540"
- , "c1link" : "./qc/src/gen/lib/common/routespl__c.java.html#540"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00540] In the recursive method gen.lib.common.routespl__c.overlap@POLYN369852 the MagicNumber/String 'overlap' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""

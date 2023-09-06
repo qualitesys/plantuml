@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/aa__all_files.java.html" 
- , "texte" : "File src/aa__all_files.java 387 rule violations " 
+ , "texte" : "File src/aa__all_files.java 391 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -107,7 +107,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "326"
+ , "c4" : "330"
 }}
  ] 
 ,
@@ -200,6 +200,13 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fillContinuousArea@POLYN515570"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.AbstractionGrid.getDistinctShapes@POLYN188630"
 }} 
 ,
@@ -221,7 +228,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN498867"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN495735"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -263,6 +270,13 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.clear@POLYN443956"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN472867"
 }} 
 ,
@@ -291,6 +305,20 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.getCellMinX@POLYN340099"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.getCellMaxX@POLYN340835"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getZHeight@POLYN172078"
 }} 
 ,
@@ -298,7 +326,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN171028"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN170272"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -697,6 +725,13 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agmakeattrs@POLYN274707"
 }} 
 ,
@@ -712,13 +747,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.attr__c.agxset@POLYN292863"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -781,6 +809,13 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.chooseMode@POLYN252455"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.initQRCode@POLYN256341"
 }} 
 ,
@@ -830,20 +865,6 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.checkpath@POLYN371196"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.overlap@POLYN369852"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvtextlayout__c.gvtextlayout_select@POLYN168168"
 }} 
 ,
@@ -880,13 +901,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.DiagramShape.getBounds@POLYN337326"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.clear@POLYN443956"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1369,6 +1383,20 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.checkpath@POLYN371196"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.routespl__c.overlap@POLYN369270"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.fastgr__c.ffe_w_@POLYN240649"
 }} 
 ,
@@ -1600,13 +1628,6 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN170272"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.geom__c.ccwrotatepf_w_@POLYN188200"
 }} 
 ,
@@ -1650,6 +1671,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.GridPatternGroup.isAnyMatchedBy@POLYN190806"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.gui.MonitoredObject.fireValueChanged@POLYN152893"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1733,14 +1761,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fillCellsWith@POLYN514901"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.gui.MonitoredObject.fireValueChanged@POLYN152893"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_port@POLYN434279"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1776,6 +1797,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.DiagramShape.getPoint@POLYN331832"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fillCellsWith@POLYN514901"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1936,6 +1964,13 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.gui.PixelCanvas.setPixel@POLYN156396"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311"
 }} 
 ,
@@ -1999,6 +2034,13 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.FontMeasurer.getWidthFor@POLYN171028"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.ShapePoint.isEastOf@POLYN169890"
 }} 
 ,
@@ -2055,14 +2097,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN539781"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN527099"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN527099"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isBoundary@POLYN483175"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/aa__all_files.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN491163"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2076,14 +2125,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isNormalCorner@POLYN512387"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isRoundCorner@POLYN512780"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isLinesEnd@POLYN486107"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2154,13 +2196,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_label@POLYN433832"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.ED_head_port@POLYN434279"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2805,13 +2840,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/aa__all_files.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro._DTKEY@POLYN470716"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/aa__all_files.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Macro.streq@POLYN473092"
 }} 
 ,
 { "ligne" : {"" : ""

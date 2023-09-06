@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/ACearth.java 113 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/ACearth.java 114 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -181,7 +181,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "3"
 }}
  ] 
 ,
@@ -569,6 +569,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#282"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00282] For method getOrbitPosition arguments long  pTimeMillis"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00282"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#282"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00282] For method getOrbitPosition list of called methods Object monObjet|double Toolkit_degsToRadsN229268"
 }} 
 ,
 { "ligne" : {"" : ""
