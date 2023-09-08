@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java 37 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java 33 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -125,30 +125,7 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
@@ -161,13 +138,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "2"
 }}
  ] 
 ,
@@ -313,13 +283,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#105"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00105] For method decodeFormatInformation list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation doDecodeFormatInformationN177202"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#107"
  , "c2" : "MAJOR"
@@ -331,13 +294,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#117"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00117] For method doDecodeFormatInformation arguments int  maskedFormatInfo1|int  maskedFormatInfo2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#117"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00117] For method doDecodeFormatInformation list of called methods Object monObjet|int numBitsDifferingN178349|int numBitsDifferingN178740"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -415,20 +371,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#164"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00164] In method ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation.equals@POLYN179582 the MagicNumber/String  false should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation.hashCode@POLYN179389"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#159"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00159] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation.hashCode@POLYN179389 the MagicNumber/String 3 MUST BE CONVERTED to const"
 }} 
 ]
 , 

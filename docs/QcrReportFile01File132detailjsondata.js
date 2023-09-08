@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/memory__c.java.html" 
- , "texte" : "File src/gen/lib/common/memory__c.java 31 rule violations " 
+ , "texte" : "File src/gen/lib/common/memory__c.java 23 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -80,35 +80,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "7"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -286,62 +263,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#111"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00111] In method gen.lib.common.memory__c.grealloc@POLYN173862 the MagicNumber/String  'grealloc' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.memory__c.gmalloc@POLYN172960"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#83"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00083] In the recursive method gen.lib.common.memory__c.gmalloc@POLYN172960 the MagicNumber/String '4mfikqpmxyxrke46i5xakatmc' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00083"
- , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#83"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00083] In the recursive method gen.lib.common.memory__c.gmalloc@POLYN172960 the MagicNumber/String 'gmalloc' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#87"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00087] In the recursive method gen.lib.common.memory__c.gmalloc@POLYN172960 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#89"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00089] In the recursive method gen.lib.common.memory__c.gmalloc@POLYN172960 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#90"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00090] In the recursive method gen.lib.common.memory__c.gmalloc@POLYN172960 the MagicNumber/String 'out of memory' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#94"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00094] In the recursive method gen.lib.common.memory__c.gmalloc@POLYN172960 the MagicNumber/String '4mfikqpmxyxrke46i5xakatmc' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/gen/lib/common/memory__c.java.html#94"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00094] In the recursive method gen.lib.common.memory__c.gmalloc@POLYN172960 the MagicNumber/String 'gmalloc' MUST BE CONVERTED to const"
 }} 
 ]
 , 

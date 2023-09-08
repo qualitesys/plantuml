@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java 37 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java 27 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -107,30 +107,7 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "9"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
@@ -341,76 +318,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#167"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00167] In method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00144"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#144"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00144] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#151"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00151] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00151"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#151"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00151] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00155"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#155"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00155] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#158"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 0.5 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#158"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00161"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#161"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00161] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#163"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00163] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/ScanBuf.java.html#167"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00167] In the recursive method ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf.getScanbits@POLYN174311 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
 , 

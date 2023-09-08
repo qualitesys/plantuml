@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractionGrid.java 48 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractionGrid.java 46 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -152,15 +152,6 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
@@ -174,13 +165,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -202,13 +186,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
 }}
  ] 
 ,
@@ -424,13 +401,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#150"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00150] For method getDistinctShapes list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet grid_getAllNonBlankN188783|java.util.ArrayList nonBlank_breakIntoDistinctBoundariesN188860"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00158"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#158"
  , "c2" : "MAJOR"
@@ -540,13 +510,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#43"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00043] Public method makeUsingBuffer is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.AbstractionGrid.getDistinctShapes@POLYN188630"
 }} 
 ]
 , 

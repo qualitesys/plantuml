@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java 140 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java 99 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -107,15 +107,6 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
@@ -125,24 +116,10 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "36"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "10"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -164,13 +141,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "7"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "3"
 }}
  ] 
 ,
@@ -201,13 +171,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00074] For method render arguments Diagram  diagram|BufferedImage  image|RenderingOptions  options"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#74"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00074] For method render list of called methods Object monObjet|java.util.ArrayList diagram_getAllDiagramShapesN219421|java.awt.geom.GeneralPath shape_makeIntoRenderPathN220134|float diagram_getMinimumOfCellDimensionN220230|float diagram_getMinimumOfCellDimensionN222798|java.awt.geom.GeneralPath shape_makeIntoRenderPathN224276|java.awt.geom.GeneralPath shape_makeIntoRenderPathN226167|java.awt.geom.GeneralPath shape_makeIntoRenderPathN227554|int diagram_getCellWidthN230231|int diagram_getCellHeightN230593"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -675,13 +638,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00366"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#366"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00366] For method renderCustomShape list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.CustomShapeDefinition shape_getDefinitionN233449|java.awt.Rectangle shape_getBoundsN233526"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00366"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#366"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00366] The argument shape is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -712,13 +668,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#394"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00394] For method renderCustomPNGShape arguments DiagramShape  shape|Graphics2D  g2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00394"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#394"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00394] For method renderCustomPNGShape list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.CustomShapeDefinition shape_getDefinitionN235327|java.awt.Rectangle shape_getBoundsN235404"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -887,272 +836,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#440"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00440] Public method isColorDark is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.renderTextLayer@POLYN230891"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 10 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#86"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00086] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 10 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#90"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00090] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#94"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00094] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String ' shapes -groups flattened-' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00094"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#94"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00094] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 'Rendering ' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00109"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#109"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00109] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 3.333f MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#111"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00111] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00118] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 150 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00118] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 150 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#118"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00118] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 150 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00127"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#127"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00127] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String true MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#128"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00128] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 6 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#131"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00131] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 1.0f MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00133"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#133"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00133] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00139"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#139"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00139] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#159"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00159] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#162"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00162] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 10 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#177"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00177] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#179"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00179] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00214"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#214"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00214] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00255"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#255"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00255] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00256"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#256"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00256] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00301"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#301"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00301] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00302"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#302"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00302] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00303"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#303"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00303] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00304"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#304"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00304] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00313"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#313"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00313] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00318] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 170 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00318] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 170 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00318"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#318"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00318] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 170 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#320"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00320] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00321"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#321"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00321] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00322"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#322"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00322] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00323"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#323"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00323] In the recursive method org.stathissideris.ascii2image.graphics.BitmapRenderer.render@POLYN218243 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
 , 

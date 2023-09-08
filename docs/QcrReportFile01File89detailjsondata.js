@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java 213 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java 198 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -251,35 +251,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "5"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "23"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -302,13 +279,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "21"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "8"
-}}
  ] 
 ,
 "data13b" : [
@@ -317,13 +287,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#57"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00057] For method calculateMaskPenalty arguments ByteMatrix  matrix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00057] For method calculateMaskPenalty list of called methods Object monObjet|int MaskUtil_applyMaskPenaltyRule1N247796|int MaskUtil_applyMaskPenaltyRule2N247889|int MaskUtil_applyMaskPenaltyRule3N247982|int MaskUtil_applyMaskPenaltyRule4N248075"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -352,13 +315,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#82"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00082] For method encode arguments String  content|ErrorCorrectionLevel  ecLevel|Hashtable  hints|QRCode  qrCode"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00082] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Mode chooseModeN249368|int dataBits_getSizeInBytesN249683|ext.plantuml.com.google.zxing.common.CharacterSetECI CharacterSetECI_getCharacterSetECIByNameN250114"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -635,13 +591,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#204"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00204] For method chooseMaskPattern list of called methods Object monObjet|int calculateMaskPenaltyN255955"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#208"
  , "c2" : "MAJOR"
@@ -660,13 +609,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#225"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00225] For method initQRCode arguments int  numInputBytes|ErrorCorrectionLevel  ecLevel|Mode  mode|QRCode  qrCode"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#225"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00225] For method initQRCode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_getVersionForNumberN256828|int version_getTotalCodewordsN256924"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -723,13 +665,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#264"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00264] For method terminateBits arguments int  numDataBytes|BitArray  bits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#264"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00264] For method terminateBits list of called methods Object monObjet|int bits_getSizeN258783"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -940,13 +875,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#349"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00349] For method interleaveWithECBytes arguments BitArray  bits|int  numTotalBytes|int  numDataBytes|int  numRSBlocks|BitArray  result"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00349"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#349"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00349] For method interleaveWithECBytes list of called methods Object monObjet|byte[] generateECBytesN263784"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1211,13 +1139,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00437"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#437"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00437] For method appendLengthInfo list of called methods Object monObjet|int mode_getCharacterCountBitsN267945"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00437"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#437"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00437] The argument mode is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -1437,13 +1358,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#488"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00488] For method appendAlphanumericBytes arguments String  content|BitArray  bits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00488"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#488"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00488] For method appendAlphanumericBytes list of called methods Object monObjet|int getAlphanumericCodeN271612|int getAlphanumericCodeN271971"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1752,55 +1666,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#554"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00554] In method ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.appendECI@POLYN275243 the MagicNumber/String  8 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.chooseMode@POLYN252455"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.initQRCode@POLYN256341"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#152"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00152] In the recursive method ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.chooseMode@POLYN252455 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#231"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00231] In the recursive method ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.initQRCode@POLYN256341 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#231"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00231] In the recursive method ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.initQRCode@POLYN256341 the MagicNumber/String 40 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#245"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00245] In the recursive method ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.initQRCode@POLYN256341 the MagicNumber/String 3 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00258"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#258"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00258] In the recursive method ext.plantuml.com.google.zxing.qrcode.encoder.Encoder.initQRCode@POLYN256341 the MagicNumber/String 'Cannot find proper rs block info -input data too big?-' MUST BE CONVERTED to const"
 }} 
 ]
 , 

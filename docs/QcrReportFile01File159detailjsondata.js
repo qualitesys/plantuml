@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/gvc/gvlayout__c.java.html" 
- , "texte" : "File src/gen/lib/gvc/gvlayout__c.java 48 rule violations " 
+ , "texte" : "File src/gen/lib/gvc/gvlayout__c.java 29 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -71,35 +71,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "18"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -319,139 +296,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#165"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00165] In method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String  'gvLayoutJobs' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#123"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00123] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String '991b7t7n0x8ifkp49zotjs78x' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00123"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#123"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00123] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 'gvLayoutJobs' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00126"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#126"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00126] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#128"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00128] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 'Agraphinfo_t' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00128"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#128"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00128] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String true MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#131"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 'ah9ygbaap1fyxr97z734juk0j' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00146"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#146"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00146] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 'return -1;' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#149"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00149] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#150"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00150] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#152"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00152] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00152"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#152"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00152] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#157"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00157] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#158"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#159"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00159] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 'WARNING WE CHEAT GD_cleanup-g- is NULL' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00162"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#162"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00162] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#163"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00163] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#165"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00165] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String '991b7t7n0x8ifkp49zotjs78x' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00165"
- , "c1link" : "./qc/src/gen/lib/gvc/gvlayout__c.java.html#165"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00165] In the recursive method gen.lib.gvc.gvlayout__c.gvLayoutJobs@POLYN186202 the MagicNumber/String 'gvLayoutJobs' MUST BE CONVERTED to const"
 }} 
 ]
 , 

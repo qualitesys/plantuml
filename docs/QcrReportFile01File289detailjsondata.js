@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/FontStyle.java.html" 
- , "texte" : "File src/jcckit/graphic/FontStyle.java 8 rule violations " 
+ , "texte" : "File src/jcckit/graphic/FontStyle.java 7 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -108,13 +108,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -123,13 +116,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/graphic/FontStyle.java.html#65"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00065] For method getFontStyle arguments ConfigParameters  config|String  key|FontStyle  defaultValue"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00065"
- , "c1link" : "./qc/src/jcckit/graphic/FontStyle.java.html#65"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00065] For method getFontStyle list of called methods Object monObjet|java.lang.String config_getN163937"
 }} 
 ,
 { "ligne" : {"" : ""

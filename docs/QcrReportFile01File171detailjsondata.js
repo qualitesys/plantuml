@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/pathplan/util__c.java.html" 
- , "texte" : "File src/gen/lib/pathplan/util__c.java 37 rule violations " 
+ , "texte" : "File src/gen/lib/pathplan/util__c.java 21 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -71,35 +71,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "15"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -270,118 +247,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#98"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00098] In method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String  'make_polyline_' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.pathplan.util__c.make_polyline_@POLYN174593"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#70"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00070] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 'ct6tszngugakbl42zkaqrt7p1' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00070"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#70"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00070] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 'make_polyline_' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#74"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00074] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#74"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00074] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 3 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00074"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#74"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00074] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 4 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00081"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#81"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00081] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#82"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00082] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#84"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00086"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#86"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00086] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00087"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#87"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00087] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00088"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#88"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00088] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00090"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#90"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00090] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 3 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#92"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00092] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#98"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00098] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 'ct6tszngugakbl42zkaqrt7p1' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00098"
- , "c1link" : "./qc/src/gen/lib/pathplan/util__c.java.html#98"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00098] In the recursive method gen.lib.pathplan.util__c.make_polyline_@POLYN174593 the MagicNumber/String 'make_polyline_' MUST BE CONVERTED to const"
 }} 
 ]
 , 

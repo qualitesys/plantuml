@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramShape.java 255 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramShape.java 239 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -549,28 +549,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "19"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -599,13 +583,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "37"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "14"
 }}
  ] 
 ,
@@ -842,13 +819,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#194"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00194] For method scale list of called methods Object monObjet|java.util.Iterator getPointsIteratorN327877"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00197"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#197"
  , "c2" : "MAJOR"
@@ -991,13 +961,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00244"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#244"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00244] For method isSmallerThan list of called methods Object monObjet|java.awt.Rectangle getBoundsN330245|java.awt.Rectangle other_getBoundsN330314"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00244"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#244"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00244] The argument other is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -1070,13 +1033,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#320"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00320] For method equals arguments Object  object"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00320"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#320"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00320] For method equals list of called methods Object monObjet|java.util.Iterator getPointsIteratorN333014|java.util.Iterator shape_getPointsIteratorN333935"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1362,13 +1318,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00395"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#395"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00395] For method makeIntoRenderPath list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell diagram_getCellForN339705|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN340613|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN340742|org.stathissideris.ascii2image.text.TextGrid.Cell diagram_getCellForN341846|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN342457|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN342586|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgePointBetweenN343282"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00395"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#395"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00395] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -1612,13 +1561,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00538"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#538"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00538] For method getCellEdgePointBetween list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell diagram_getCellForN346339"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00539"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#539"
  , "c2" : "MAJOR"
@@ -1714,13 +1656,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#590"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00590] For method getCellEdgeProjectionPointBetween arguments ShapePoint  pointInCell|ShapePoint  otherPoint|Diagram  diagram"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00590"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#590"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00590] For method getCellEdgeProjectionPointBetween list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell diagram_getCellForN348797"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1836,13 +1771,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00622"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#622"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00622] For method contains list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN350372"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00624"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#624"
  , "c2" : "MAJOR"
@@ -1864,13 +1792,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00628"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#628"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00628] For method contains list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN350681"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00630"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#630"
  , "c2" : "MAJOR"
@@ -1889,13 +1810,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#634"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00634] For method intersects arguments Rectangle2D  rect"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00634"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#634"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00634] For method intersects list of called methods Object monObjet|java.awt.geom.GeneralPath makeIntoPathN350990"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1931,13 +1845,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#661"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00661] For method moveEndsToCellEdges arguments TextGrid  grid|Diagram  diagram"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00661"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#661"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00661] For method moveEndsToCellEdges list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgeProjectionPointBetweenN352155|org.stathissideris.ascii2image.graphics.ShapePoint getCellEdgeProjectionPointBetweenN352667"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2011,13 +1918,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00699"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#699"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00699] For method connectEndToAnchors list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell getPossibleAnchorCellN354112|int diagram_getCellMidXN354337|int diagram_getCellMidYN354438|int diagram_getCellMidXN354761|int diagram_getCellMidYN354862"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#700"
  , "c2" : "CRITICAL"
@@ -2088,13 +1988,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00751"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#751"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00751] For method toString list of called methods Object monObjet|java.util.Iterator getPointsIteratorN356655"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00755"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#755"
  , "c2" : "MAJOR"
@@ -2141,13 +2034,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#776"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00776] For method makeStoragePath arguments Diagram  diagram"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00776"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#776"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00776] For method makeStoragePath list of called methods Object monObjet|int diagram_getCellHeightN359049"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2342,13 +2228,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00924"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#924"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00924] For method makeIOPath list of called methods Object monObjet|int diagram_getCellWidthN371309"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00924"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#924"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00924] The argument diagram is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -2379,20 +2258,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#948"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00948] For method setDefinition arguments CustomShapeDefinition  definition"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.DiagramShape.getBounds@POLYN337326"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramShape.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.DiagramShape.getPoint@POLYN331832"
 }} 
 ]
 , 

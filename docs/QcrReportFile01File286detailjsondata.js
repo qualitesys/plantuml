@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/ClippingRectangle.java.html" 
- , "texte" : "File src/jcckit/graphic/ClippingRectangle.java 8 rule violations " 
+ , "texte" : "File src/jcckit/graphic/ClippingRectangle.java 7 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -161,13 +161,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -176,13 +169,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#44"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00044] For method isInside arguments GraphPoint  point"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#44"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00044] For method isInside list of called methods Object monObjet|double point_getXN160427|double point_getYN160504"
 }} 
 ,
 { "ligne" : {"" : ""
