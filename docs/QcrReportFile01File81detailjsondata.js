@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java 17 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java 33 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -89,11 +89,34 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "14"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
  , "c4" : "1"
 }}
 ,
@@ -117,6 +140,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
+}}
  ] 
 ,
 "data13b" : [
@@ -125,6 +155,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#47"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00047] For method getDataBlocks arguments byte[]  rawCodewords|Version  version|ErrorCorrectionLevel  ecLevel"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00047"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#47"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00047] For method getDataBlocks list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock[] version_getECBlocksForLevelN168858"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -237,6 +274,111 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#108"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00108] In method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#60"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00060] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#62"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00062] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#68"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00068] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#69"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00069] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#71"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00071] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00080"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#80"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00080] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#81"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00081] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00082"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#82"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00082] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#94"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00094] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#95"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00095] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#96"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00096] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#105"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00105] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#107"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00107] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#108"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00108] In the recursive method ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock.getDataBlocks@POLYN168541 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
 , 

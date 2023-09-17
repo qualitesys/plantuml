@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java 16 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java 17 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -102,6 +102,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "3"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
+}}
  ] 
 ,
 "data13b" : [
@@ -173,6 +180,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html#71"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00071] For method renderResult arguments QRCode  code|int  multiple"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/QRCodeWriter.java.html#71"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00071] For method renderResult list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.encoder.ByteMatrix code_getMatrixN166024|int input_getWidthN166101|int input_getHeightN166178"
 }} 
 ,
 { "ligne" : {"" : ""

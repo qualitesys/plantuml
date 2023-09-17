@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/common/BitArray.java 87 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/common/BitArray.java 89 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -268,6 +268,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "12"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
+}}
  ] 
 ,
 "data13b" : [
@@ -318,6 +325,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#51"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00051] For method ensureCapacity arguments int  size"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00051"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#51"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00051] For method ensureCapacity list of called methods Object monObjet|int[] makeArrayN187566"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -668,6 +682,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#170"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00170] For method appendBitArray arguments BitArray  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/BitArray.java.html#170"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00170] For method appendBitArray list of called methods Object monObjet|int other_getSizeN193280"
 }} 
 ,
 { "ligne" : {"" : ""

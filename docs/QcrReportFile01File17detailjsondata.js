@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java 13 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java 16 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -125,11 +125,27 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
  , "c4" : "2"
 }}
 ,
@@ -153,6 +169,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "5"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
+}}
  ] 
 ,
 "data13b" : [
@@ -168,6 +191,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#32"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000001[00032] Avoid declaring class instance within loop, performance impact"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00038"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#38"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00038] For method renderRows list of called methods Object monObjet|int[] getPixelTypesN160225"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -245,6 +275,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#89"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00089] Public method addRowTypeRenderer is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.renderer.Renderer.render@POLYN159578"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.renderer.Renderer.getPixelTypes@POLYN160514"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/Legend.java.html" 
- , "texte" : "File src/jcckit/plot/Legend.java 38 rule violations " 
+ , "texte" : "File src/jcckit/plot/Legend.java 39 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -127,6 +127,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "4"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -332,6 +339,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#208"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00208] For method createSymbol arguments int  curveIndex|int  numberOfCurves|SymbolFactory  factory|boolean  withLine|GraphicAttributes  lineAttributes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00208"
+ , "c1link" : "./qc/src/jcckit/plot/Legend.java.html#208"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00208] For method createSymbol list of called methods Object monObjet|double calculateBaseLineN220158"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 771 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 897 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -1448,7 +1448,23 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999995"
+ , "c3" : "Recursivity with depth over 1 between method xx and method yy"
+ , "c4" : "6"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000003"
@@ -1457,10 +1473,24 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "58"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "53"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "16"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1496,6 +1526,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "135"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "46"
 }}
  ] 
 ,
@@ -1540,6 +1577,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#113"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00113] The argument otherGrid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#120"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00120] For method clear list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN444029|int getHeightN444161"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2203,6 +2247,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00273"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#273"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00273] For method add list of called methods Object monObjet|int getWidthN454879|int getHeightN454948"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#273"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00273] The argument grid is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -2254,6 +2305,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#283"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00283] In method org.stathissideris.ascii2image.text.TextGrid.add@POLYN454581 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#292"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00292] For method replaceTypeOnLine list of called methods Object monObjet|int getWidthN455834|int getHeightN455903|char getN456294"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2331,6 +2389,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#309"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00309] In method org.stathissideris.ascii2image.text.TextGrid.replaceTypeOnLine@POLYN455761 the MagicNumber/String  '' with |' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#316"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00316] For method replacePointMarkersOnLine list of called methods Object monObjet|int getWidthN457744|int getHeightN457813|char getN458204"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2467,6 +2532,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00353"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#353"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00353] For method getPointMarkersOnLine list of called methods Object monObjet|int getWidthN460640|int getHeightN460709|char getN461100"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00357"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#357"
  , "c2" : "MAJOR"
@@ -2478,6 +2550,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#358"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00358] In method org.stathissideris.ascii2image.text.TextGrid.getPointMarkersOnLine@POLYN460487 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#370"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00370] For method replaceHumanColorCodes list of called methods Object monObjet|int getHeightN461647"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2586,6 +2665,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00396"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#396"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00396] For method replaceAll list of called methods Object monObjet|int getWidthN463132|int getHeightN463201|char getN463592"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00399"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#399"
  , "c2" : "MAJOR"
@@ -2597,6 +2683,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#400"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00400] In method org.stathissideris.ascii2image.text.TextGrid.replaceAll@POLYN463012 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00407"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#407"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00407] For method hasBlankCells list of called methods Object monObjet|int getWidthN464000|int getHeightN464069"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2642,6 +2735,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00421"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#421"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00421] For method getAllNonBlank list of called methods Object monObjet|int getWidthN464847|int getHeightN464916"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00427"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#427"
  , "c2" : "MAJOR"
@@ -2667,6 +2767,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#426"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00426] In method org.stathissideris.ascii2image.text.TextGrid.getAllNonBlank@POLYN464694 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00434"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#434"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00434] For method getAllBoundaries list of called methods Object monObjet|int getWidthN465737|int getHeightN465806"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2698,6 +2805,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#448"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00448] For method getAllBlanksBetweenCharacters list of called methods Object monObjet|int getWidthN466618|int getHeightN466687"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00454"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#454"
  , "c2" : "MAJOR"
@@ -2723,6 +2837,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#453"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00453] In method org.stathissideris.ascii2image.text.TextGrid.getAllBlanksBetweenCharacters@POLYN466465 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00471"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#471"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00471] For method findStrings list of called methods Object monObjet|int getWidthN467745|int getHeightN467814|char getN468582|char getN468908|char getN469027"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2824,6 +2945,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00505"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#505"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00505] For method hasEntryPoint list of called methods Object monObjet|char getN469935"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00506"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#506"
  , "c2" : "MAJOR"
@@ -2908,6 +3036,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00562"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#562"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00562] For method removeArrowheads list of called methods Object monObjet|int getWidthN472164|int getHeightN472233"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00567"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#567"
  , "c2" : "MAJOR"
@@ -2940,6 +3075,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#568"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00568] In method org.stathissideris.ascii2image.text.TextGrid.removeArrowheads@POLYN472091 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00573"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#573"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00573] For method removeColorCodes list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN473312|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN473473|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN473634"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2982,6 +3124,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#580"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00580] In method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN472867 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00584"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#584"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00584] For method removeBoundaries list of called methods Object monObjet|int getWidthN473918|int getHeightN473987"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3034,6 +3183,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00606"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#606"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00606] For method findArrowheads list of called methods Object monObjet|int getWidthN475098|int getHeightN475167"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00612"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#612"
  , "c2" : "MAJOR"
@@ -3066,6 +3222,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#616"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00616] In method org.stathissideris.ascii2image.text.TextGrid.findArrowheads@POLYN474945 the MagicNumber/String  ' arrowheads found' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00621"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#621"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00621] For method findColorCodes list of called methods Object monObjet|int getWidthN476295|int getHeightN476364|java.lang.String getStringAtN476896"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3213,6 +3376,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#642"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00642] In method org.stathissideris.ascii2image.text.TextGrid.findColorCodes@POLYN476004 the MagicNumber/String  ' color codes found' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00646"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#646"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00646] For method findMarkupTags list of called methods Object monObjet|int getWidthN478716|int getHeightN478785|char getN479317"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3440,6 +3610,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00699"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#699"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00699] For method isOnHorizontalLine list of called methods Object monObjet|char getN481836|char getN481970"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00700"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#700"
  , "c2" : "MAJOR"
@@ -3489,6 +3666,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#707"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00707] For method isOnVerticalLine list of called methods Object monObjet|char getN482569|char getN482703"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00708"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#708"
  , "c2" : "MAJOR"
@@ -3535,6 +3719,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#719"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00719] For method isBoundary arguments Cell  cell"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00719"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#719"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00719] For method isBoundary list of called methods Object monObjet|char getN483498"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3643,6 +3834,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00747"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#747"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00747] For method isHorizontalLine list of called methods Object monObjet|char getN485086"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00749"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#749"
  , "c2" : "MAJOR"
@@ -3682,6 +3880,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#757"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00757] For method isVerticalLine arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00757"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#757"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00757] For method isVerticalLine list of called methods Object monObjet|char getN485834"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3738,6 +3943,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#795"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00795] For method containsAtLeastOneDashedLine arguments CellSet  set"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00795"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#795"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00795] For method containsAtLeastOneDashedLine list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN487331"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3960,6 +4172,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00901"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#901"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00901] For method isBullet list of called methods Object monObjet|char getN491486"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00901"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#901"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00901] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -3990,6 +4209,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#908"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00908] In method org.stathissideris.ascii2image.text.TextGrid.isBullet@POLYN491387 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00911"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#911"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00911] For method replaceBullets list of called methods Object monObjet|int getWidthN492089|int getHeightN492158"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4072,6 +4298,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00949"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#949"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00949] For method otherStringsStartInTheSameColumn list of called methods Object monObjet|int getHeightN493880"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00949"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#949"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00949] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -4114,6 +4347,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00962"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#962"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00962] For method otherStringsEndInTheSameColumn list of called methods Object monObjet|int getHeightN494704"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00962"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#962"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00962] The argument cell is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -4151,6 +4391,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#975"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00975] For method isColumnBlank arguments int  x"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00975"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#975"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00975] For method isColumnBlank list of called methods Object monObjet|int getHeightN495360"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4200,6 +4447,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#992"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00992] For method followIntersection arguments Cell  cell|Cell  blocked"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00992"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#992"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00992] For method followIntersection list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getNorthN496431|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getSouthN496508|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN496585|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getWestN496662"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4270,6 +4524,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1029"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01029] For method followLine arguments Cell  cell|Cell  blocked"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01029"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1029"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01029] For method followLine list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet followLineN498991"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4504,6 +4765,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "01111"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1111"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01111] For method followCell list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid getTestingSubGridN506200"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "01117"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1117"
  , "c2" : "MAJOR"
@@ -4700,6 +4968,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "01160"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1160"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01160] For method isOutOfBounds list of called methods Object monObjet|char getN509090"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "01162"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1162"
  , "c2" : "MAJOR"
@@ -4728,6 +5003,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "01166"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1166"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01166] For method isBlank list of called methods Object monObjet|char getN509403"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "01168"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1168"
  , "c2" : "MAJOR"
@@ -4753,6 +5035,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1172"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01172] For method isBlank arguments int  x|int  y"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01172"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1172"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01172] For method isBlank list of called methods Object monObjet|char getN509741"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4802,6 +5091,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1186"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01186] For method matchesAny arguments Cell  cell|GridPatternGroup  criteria"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01186"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1186"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01186] For method matchesAny list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid getTestingSubGridN510561"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4919,6 +5215,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "01249"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01249] For method copyCellsTo list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; cells_iteratorN513509"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01249"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[01249] The argument cells is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -4949,6 +5252,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1257"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01257] For method equals arguments TextGrid  grid"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01257"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1257"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01257] For method equals list of called methods Object monObjet|int grid_getHeightN514188"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5050,6 +5360,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "01322"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1322"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01322] For method seedFill list of called methods Object monObjet|char getN516387|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getNorthN517094|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getSouthN517171|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN517248|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getWestN517325"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "01334"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1334"
  , "c2" : "MAJOR"
@@ -5099,6 +5416,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "01353"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1353"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01353] For method seedFillOld list of called methods Object monObjet|char getN518526|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getNorthN519318|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getSouthN519395|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN519472|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getWestN519549"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "01365"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1365"
  , "c2" : "MAJOR"
@@ -5145,6 +5469,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1393"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01393] For method findBoundariesExpandingFrom arguments Cell  seed"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01393"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1393"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01393] For method findBoundariesExpandingFrom list of called methods Object monObjet|char getN520591|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getNorthN521282|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getSouthN521359|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN521436|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getWestN521513"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5229,6 +5560,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1433"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01433] For method seedFillLine arguments Cell  cell|char  newChar"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01433"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1433"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01433] For method seedFillLine list of called methods Object monObjet|char getN523138"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5351,6 +5689,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "01491"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1491"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01491] For method cellContainsDashedLineChar list of called methods Object monObjet|char getN526941"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "01497"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1497"
  , "c2" : "MINOR"
@@ -5383,6 +5728,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1507"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01507] For method initialiseWithLines arguments ArrayList&lt;StringBuffer &gt;  lines|ProcessingOptions  options"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01507"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1507"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01507] For method initialiseWithLines list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN530379"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5509,6 +5861,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1583"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01583] For method fixTabs arguments int  tabSize"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01583"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1583"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[01583] For method fixTabs list of called methods Object monObjet|java.lang.String StringUtils_repeatStringN532662"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -6895,6 +7254,566 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1287"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[01287] Public method fillCellsWith is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN531538"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN454319 ending with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN454319"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.followLine@POLYN498867"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN472867"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN473769"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN480400"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 ending with method org.stathissideris.ascii2image.text.TextGrid.toString@POLYN454319"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999995[00001] +--+--org.stathissideris.ascii2image.text.TextGrid.toString@POLYN454319"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.fillCellsWith@POLYN514901"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN538835"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN539781"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.clear@POLYN443956"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN527099"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isIntersection@POLYN513173"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isNormalCorner@POLYN512387"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.TextGrid.isRoundCorner@POLYN512780"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01585"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1585"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01585] In the recursive method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN531538 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01593"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1593"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01593] In the recursive method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN531538 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01594"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1594"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01594] In the recursive method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN531538 the MagicNumber/String '\t' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01597"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1597"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01597] In the recursive method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN531538 the MagicNumber/String 'Found tab. Spaces left: ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01599"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1599"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01599] In the recursive method org.stathissideris.ascii2image.text.TextGrid.fixTabs@POLYN531538 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#245"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00245] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00247"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#247"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00247] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String '    ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00248] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String '0123456789' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00248] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String '\n' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00248] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00248"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#248"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00248] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String 10 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#252"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00252] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00252"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#252"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00252] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String 10 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#253"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00253] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String '\\\\n' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#253"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00253] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String '\n' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#254"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00254] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String '\\\\r' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#254"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00254] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String '\r' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#255"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00255] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String ' -' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#255"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00255] In the recursive method org.stathissideris.ascii2image.text.TextGrid.getDebugString@POLYN452843 the MagicNumber/String '-\n' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01518"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1518"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01518] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01526"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1526"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01526] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01528"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1528"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01528] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01529"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1529"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01529] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01531"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1531"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01531] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01537"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1537"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01537] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01551"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1551"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01551] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01551"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1551"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01551] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01559"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1559"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01559] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01564"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1564"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01564] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01569"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1569"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01569] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String '  ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01569"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1569"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01569] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String '  ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01580"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1580"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01580] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithLines@POLYN527809 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00229"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#229"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00229] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#231"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00231] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String '    ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#232"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00232] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String '0123456789' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#232"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00232] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#232"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00232] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String 10 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#236"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00236] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00236"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#236"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00236] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String 10 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#237"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00237] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String ' -' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00237"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#237"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00237] In the recursive method org.stathissideris.ascii2image.text.TextGrid.printDebug@POLYN451746 the MagicNumber/String '-' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00577"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#577"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00577] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN472867 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00578"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#578"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00578] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN472867 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00579"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#579"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00579] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN472867 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00580"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#580"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00580] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeColorCodes@POLYN472867 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00589"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#589"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00589] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN473769 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00590"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#590"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00590] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN473769 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00602"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#602"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00602] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeBoundaries@POLYN473769 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00677"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#677"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00677] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN480400 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00678"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#678"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00678] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN480400 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00679"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#679"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00679] In the recursive method org.stathissideris.ascii2image.text.TextGrid.removeMarkupTags@POLYN480400 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01726"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1726"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01726] In the recursive method org.stathissideris.ascii2image.text.TextGrid.Cell.hashCode@POLYN538835 the MagicNumber/String 16 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1737"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01737] In the recursive method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN539781 the MagicNumber/String 'cell cannot be null' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01737"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1737"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01737] In the recursive method org.stathissideris.ascii2image.text.TextGrid.Cell.isNextTo@POLYN539781 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#121"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00121] In the recursive method org.stathissideris.ascii2image.text.TextGrid.clear@POLYN443956 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#124"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00124] In the recursive method org.stathissideris.ascii2image.text.TextGrid.clear@POLYN443956 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01500"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1500"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01500] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN527099 the MagicNumber/String '-\r-?\n' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01501"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1501"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01501] In the recursive method org.stathissideris.ascii2image.text.TextGrid.initialiseWithText@POLYN527099 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/CellSet.java 198 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/CellSet.java 233 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -423,12 +423,35 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "20"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "9"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "6"
 }}
 ,
 { "ligne" : { "" : ""
@@ -450,6 +473,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "22"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "9"
 }}
  ] 
 ,
@@ -548,6 +578,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#121"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00121] For method copyCellSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN250525"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#121"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00121] The argument set is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -581,6 +618,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#141"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00141] For method getType list of called methods Object monObjet|int getTypeAccordingToTraceMethodN251562|int getTypeAccordingToFillMethodN252198"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#143"
  , "c2" : "MAJOR"
@@ -606,6 +650,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#179"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00179] For method getTypeAccordingToTraceMethod arguments TextGrid  grid"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00179"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#179"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00179] For method getTypeAccordingToTraceMethod list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid TextGrid_makeSameSizeAsN252873|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN253848|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN254496"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -767,6 +818,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#253"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00253] For method getTypeAccordingToFillMethod arguments TextGrid  grid"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00253"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#253"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00253] For method getTypeAccordingToFillMethod list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet copyCellSetN255947|org.stathissideris.ascii2image.text.TextGrid grid_getSubGridN256228|org.stathissideris.ascii2image.text.TextGrid abstraction_getCopyOfInternalBufferN256651|int temp_getWidthN256862|int temp_getHeightN256939"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1213,6 +1271,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00407"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#407"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00407] For method appendSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN264385"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00407"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#407"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00407] The argument set is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -1250,6 +1315,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#416"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00416] For method subtractSet arguments CellSet  set"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00416"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#416"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00416] For method subtractSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN264917|org.stathissideris.ascii2image.text.TextGrid.Cell findN265183"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1372,6 +1444,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00477"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#477"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00477] For method remove list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell findN267903"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00478"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#478"
  , "c2" : "MAJOR"
@@ -1484,6 +1563,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00515"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#515"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00515] For method breakIntoDistinctBoundaries list of called methods Object monObjet|java.util.ArrayList temp_getDistinctShapesN269670"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00544"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#544"
  , "c2" : "MAJOR"
@@ -1537,6 +1623,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#582"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00582] For method breakTrulyMixedBoundaries arguments TextGrid  grid"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00582"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#582"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00582] For method breakTrulyMixedBoundaries list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid TextGrid_makeSameSizeAsN271602|java.util.ArrayList iteratorN271974|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN272913|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN273801"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1838,6 +1931,188 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#683"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00683] In method org.stathissideris.ascii2image.text.CellSet.makeScaledOneThirdEquivalent@POLYN275851 the MagicNumber/String  '---&amp;gt; made into grid:' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.find@POLYN258799"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.getFirst@POLYN248134"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.hasCommonCells@POLYN259714"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.printDebug@POLYN248654"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.text.CellSet.removeDuplicateSets@POLYN268369"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00590"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#590"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00590] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 'Breaking truly mixed boundaries below:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00600"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#600"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00600] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 'Starting new subshape:' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00604"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#604"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00604] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 'Added boundary ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00607"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#607"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00607] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00609"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#609"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00609] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00610"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#610"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00610] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 'This shape is either open but multipart or has only one cell, and cannot be processed by this method' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00613"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#613"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00613] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 'Added boundary ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00615"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#615"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00615] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String false MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00623"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#623"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00623] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00625"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#625"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00625] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 'Added boundary ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00632"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#632"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00632] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00634"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#634"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00634] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00635"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#635"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00635] In the recursive method org.stathissideris.ascii2image.text.CellSet.breakTrulyMixedBoundaries@POLYN271351 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#307"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00307] In the recursive method org.stathissideris.ascii2image.text.CellSet.find@POLYN258799 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#333"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00333] In the recursive method org.stathissideris.ascii2image.text.CellSet.hasCommonCells@POLYN259714 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#335"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00335] In the recursive method org.stathissideris.ascii2image.text.CellSet.hasCommonCells@POLYN259714 the MagicNumber/String false MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#94"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00094] In the recursive method org.stathissideris.ascii2image.text.CellSet.printDebug@POLYN248654 the MagicNumber/String ' ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00496"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#496"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00496] In the recursive method org.stathissideris.ascii2image.text.CellSet.removeDuplicateSets@POLYN268369 the MagicNumber/String true MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00501"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#501"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00501] In the recursive method org.stathissideris.ascii2image.text.CellSet.removeDuplicateSets@POLYN268369 the MagicNumber/String false MUST BE CONVERTED to const"
 }} 
 ]
 , 

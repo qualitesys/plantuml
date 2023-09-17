@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/GraphicsPlotCanvas.java.html" 
- , "texte" : "File src/jcckit/GraphicsPlotCanvas.java 19 rule violations " 
+ , "texte" : "File src/jcckit/GraphicsPlotCanvas.java 23 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -144,12 +144,28 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "5"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -164,6 +180,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "6"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -187,6 +210,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#109"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00109] In method jcckit.GraphicsPlotCanvas.GraphicsPlotCanvas@POLYN190205 the MagicNumber/String  'jcckit.renderer.Graphics2DRenderer' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00126"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#126"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00126] For method paint list of called methods Object monObjet|jcckit.plot.Plot getPlotN191749"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -229,6 +259,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#142"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00142] For method drawPlot arguments Plot  plot"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00142"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#142"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00142] For method drawPlot list of called methods Object monObjet|jcckit.graphic.Renderer createRendererN192232|jcckit.graphic.GraphicalElement[] plot_getCurvesN192307|jcckit.graphic.GraphicalElement plot_getAnnotationN192656"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -299,6 +336,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#224"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00224] For method setMarker arguments GraphicalElement  marker"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.drawCoordinateSystem@POLYN193137"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.createRenderer@POLYN194016"
 }} 
 ]
 , 

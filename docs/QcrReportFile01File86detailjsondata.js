@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java 1021 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java 1023 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -196,6 +196,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "4"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
+}}
  ] 
 ,
 "data13b" : [
@@ -326,6 +333,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#114"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00114] For method decodeVersionInformation list of called methods Object monObjet|int FormatInformation_numBitsDifferingN288806"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#116"
  , "c2" : "MAJOR"
@@ -365,6 +379,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#137"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00137] In method ext.plantuml.com.google.zxing.qrcode.decoder.Version.decodeVersionInformation@POLYN288166 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00143"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/Version.java.html#143"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00143] For method buildFunctionPattern list of called methods Object monObjet|int getDimensionForVersionN289397"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java 232 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java 235 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -164,6 +164,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "8"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "3"
+}}
  ] 
 ,
 "data13b" : [
@@ -212,6 +219,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00058"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#58"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00058] For method readVersion list of called methods Object monObjet|int bitMatrix_getHeightN224717"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00058"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#58"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00058] The argument bitMatrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -221,6 +235,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#60"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00060] In method ext.plantuml.com.google.zxing.datamatrix.decoder.BitMatrixParser.readVersion@POLYN224497 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00079"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#79"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00079] For method readCodewords list of called methods Object monObjet|int mappingBitMatrix_getHeightN225555"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1719,6 +1740,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#406"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00406] For method extractDataRegion arguments BitMatrix  bitMatrix"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00406"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/BitMatrixParser.java.html#406"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00406] For method extractDataRegion list of called methods Object monObjet|ext.plantuml.com.google.zxing.common.BitMatrix version_getSymbolSizeColumnsN245605|ext.plantuml.com.google.zxing.common.BitMatrix version_getDataRegionSizeRowsN245849|ext.plantuml.com.google.zxing.common.BitMatrix version_getDataRegionSizeColumnsN245926"
 }} 
 ,
 { "ligne" : {"" : ""

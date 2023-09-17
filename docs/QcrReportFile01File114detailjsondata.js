@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/cgraph/edge__c.java.html" 
- , "texte" : "File src/gen/lib/cgraph/edge__c.java 171 rule violations " 
+ , "texte" : "File src/gen/lib/cgraph/edge__c.java 207 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -242,12 +242,35 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "32"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "4"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1475,6 +1498,258 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00001] In method gen.lib.cgraph.edge__c.agopp@POLYN284519 the MagicNumber/String  'agopp' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.installedge@POLYN266258"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.newedge@POLYN269047"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536 the MagicNumber/String 'agfindedge_by_key' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536 the MagicNumber/String 'agfindedge_by_key' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536 the MagicNumber/String 'c175o6j61jqmfnl4o1g1h1mie' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536 the MagicNumber/String 'c175o6j61jqmfnl4o1g1h1mie' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.agfindedge_by_key_w_@POLYN262536 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.installedge@POLYN266258 the MagicNumber/String '8kizmg7gziussfgx8zs3qvkfw' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.installedge@POLYN266258 the MagicNumber/String 'installedge' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.installedge@POLYN266258 the MagicNumber/String '8kizmg7gziussfgx8zs3qvkfw' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.installedge@POLYN266258 the MagicNumber/String 'installedge' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.installedge@POLYN266258 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00618"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#618"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00618] In the recursive method gen.lib.cgraph.edge__c.installedge@POLYN266258 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.newedge@POLYN269047 the MagicNumber/String '4rzjui6oo0k009o64bxwgjmvq' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.newedge@POLYN269047 the MagicNumber/String '4rzjui6oo0k009o64bxwgjmvq' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.newedge@POLYN269047 the MagicNumber/String 'newedge' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.newedge@POLYN269047 the MagicNumber/String 'newedge' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.newedge@POLYN269047 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.newedge@POLYN269047 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.newedge@POLYN269047 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.newedge@POLYN269047 the MagicNumber/String false MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String '1ufxhg5xnmll1pe5339477823' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String '1ufxhg5xnmll1pe5339477823' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String 'ok_to_make_edge' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String 'ok_to_make_edge' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String false MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String false MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cgraph/edge__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.cgraph.edge__c.ok_to_make_edge@POLYN271733 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

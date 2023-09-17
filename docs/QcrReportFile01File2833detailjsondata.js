@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractCell.java 78 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractCell.java 84 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -174,6 +174,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
  , "c4" : "77"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "6"
 }}
  ] 
 ,
@@ -564,6 +571,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00084"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#84"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00084] For method makeT list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeHorizontalLineN171361"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#86"
  , "c2" : "MAJOR"
@@ -582,6 +596,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#86"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00086] In method org.stathissideris.ascii2image.text.AbstractCell.makeT@POLYN171284 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00090"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#90"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00090] For method makeInverseT list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeHorizontalLineN171646"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -606,6 +627,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#96"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00096] For method makeK list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeVerticalLineN171931"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00098"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#98"
  , "c2" : "MAJOR"
@@ -627,6 +655,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00102"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#102"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00102] For method makeInverseK list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeVerticalLineN172216"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00104"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#104"
  , "c2" : "MAJOR"
@@ -645,6 +680,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#104"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00104] In method org.stathissideris.ascii2image.text.AbstractCell.makeInverseK@POLYN172139 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#108"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00108] For method makeCross list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeVerticalLineN172501"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -687,6 +729,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#111"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00111] In method org.stathissideris.ascii2image.text.AbstractCell.makeCross@POLYN172424 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractCell.java.html#115"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00115] For method makeStar list of called methods Object monObjet|org.stathissideris.ascii2image.text.AbstractCell AbstractCell_makeVerticalLineN172908"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/label/xlabels__c.java.html" 
- , "texte" : "File src/gen/lib/label/xlabels__c.java 431 rule violations " 
+ , "texte" : "File src/gen/lib/label/xlabels__c.java 451 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -269,12 +269,35 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "16"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "17"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -324,6 +347,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "24"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -1913,6 +1943,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00001] For method xlintersections_ list of called methods Object monObjet|double aabbaabbN329213|double recordointrsxN329393|double aabbaabbN329984|double recordlintrsxN330164"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00001] The argument xlp is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -3343,6 +3380,139 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00001] In method gen.lib.label.xlabels__c.placeLabels@POLYN348067 the MagicNumber/String  'placeLabels' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xlnew@POLYN302890"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xladjust@POLYN330773"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.xlabels__c.xlintersections@POLYN326340"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00845"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#845"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00845] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN302890 the MagicNumber/String '88mbfm305igsr7cew5qx6yldp' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00887"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#887"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00887] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN302890 the MagicNumber/String 'xlnew' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00893"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#893"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00893] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN302890 the MagicNumber/String '3m406diamp5s5kwcqtwo4pshf' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00893"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#893"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00893] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN302890 the MagicNumber/String '3m406diamp5s5kwcqtwo4pshf' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00893"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#893"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00893] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN302890 the MagicNumber/String '4t1y5iinm4310lkpvbal1spve' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00893"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#893"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00893] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN302890 the MagicNumber/String '4t1y5iinm4310lkpvbal1spve' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00893"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#893"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00893] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN302890 the MagicNumber/String '88mbfm305igsr7cew5qx6yldp' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00893"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#893"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00893] In the recursive method gen.lib.label.xlabels__c.xlnew@POLYN302890 the MagicNumber/String 'xlnew' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xladjust@POLYN330773 the MagicNumber/String '8rxvucqsqnqej6h8p1osfnk4b' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xladjust@POLYN330773 the MagicNumber/String '8rxvucqsqnqej6h8p1osfnk4b' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xladjust@POLYN330773 the MagicNumber/String 'xladjust' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xladjust@POLYN330773 the MagicNumber/String 'xladjust' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xlintersections@POLYN326340 the MagicNumber/String '2td62i5hus8obwt8j1lo3ddj9' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xlintersections@POLYN326340 the MagicNumber/String '2td62i5hus8obwt8j1lo3ddj9' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xlintersections@POLYN326340 the MagicNumber/String 'xlintersections' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.label.xlabels__c.xlintersections@POLYN326340 the MagicNumber/String 'xlintersections' MUST BE CONVERTED to const"
 }} 
 ]
 , 

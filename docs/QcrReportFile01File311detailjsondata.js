@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html" 
- , "texte" : "File src/jcckit/plot/CartesianCoordinateSystem.java 47 rule violations " 
+ , "texte" : "File src/jcckit/plot/CartesianCoordinateSystem.java 49 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -163,6 +163,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "4"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
+}}
  ] 
 ,
 "data13b" : [
@@ -220,6 +227,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#106"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00106] For method createView arguments GraphPoint  origin|AxisParameters  xAxisParameters|AxisParameters  yAxisParameters"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#106"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00106] For method createView list of called methods Object monObjet|double origin_getXN194025|double origin_getYN194189"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -297,6 +311,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#138"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00138] For method createTicsAndGrid arguments boolean  isXAxis|double  low|double  high|AxisParameters  parameters"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/jcckit/plot/CartesianCoordinateSystem.java.html#138"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00138] For method createTicsAndGrid list of called methods Object monObjet|double[] parameters_calculateTicsN196681|jcckit.graphic.GraphPoint _transformation_transformToGraphN197354|double gPoint1_getXN197600|double gPoint1_getYN197705|double parameters_ticLabelPosition_getXN199334|double parameters_ticLabelPosition_getYN199447"
 }} 
 ,
 { "ligne" : {"" : ""

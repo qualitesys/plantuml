@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html" 
- , "texte" : "File src/jcckit/plot/ShapeAttributesHint.java 22 rule violations " 
+ , "texte" : "File src/jcckit/plot/ShapeAttributesHint.java 23 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -135,6 +135,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -270,6 +277,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#113"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00113] In method jcckit.plot.ShapeAttributesHint.ShapeAttributesHint@POLYN179910 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/jcckit/plot/ShapeAttributesHint.java.html#120"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00120] For method getNextHint list of called methods Object monObjet|float[] incrementColorN181270|float[] incrementColorN181385"
 }} 
 ,
 { "ligne" : {"" : ""

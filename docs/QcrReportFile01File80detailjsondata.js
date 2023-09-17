@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java 62 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java 65 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -119,6 +119,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "3"
+}}
  ] 
 ,
 "data13b" : [
@@ -148,6 +155,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#37"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00037] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.BitMatrixParser@POLYN178220 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#50"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00050] For method readFormatInformation list of called methods Object monObjet|int copyBitN179280|int copyBitN179414|int copyBitN179547|int copyBitN179680|int copyBitN179976|int bitMatrix_getHeightN180113|int copyBitN180510|int copyBitN180827|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation FormatInformation_decodeFormatInformationN180961"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -298,6 +312,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#95"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00095] For method readVersion list of called methods Object monObjet|int bitMatrix_getHeightN181610|int copyBitN182445|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN182580|int copyBitN183248|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_decodeVersionInformationN183383"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00097"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#97"
  , "c2" : "MAJOR"
@@ -428,6 +449,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#138"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00138] In method ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser.copyBit@POLYN183681 the MagicNumber/String  1 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/BitMatrixParser.java.html#149"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00149] For method readCodewords list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation readFormatInformationN184355|ext.plantuml.com.google.zxing.qrcode.decoder.Version readVersionN184424|ext.plantuml.com.google.zxing.qrcode.decoder.DataMask DataMask_forReferenceN184493|int bitMatrix_getHeightN184628|byte[] version_buildFunctionPatternN184798"
 }} 
 ,
 { "ligne" : {"" : ""

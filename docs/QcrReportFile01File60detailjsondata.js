@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/ResultPoint.java 36 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/ResultPoint.java 38 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -162,6 +162,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "4"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
+}}
  ] 
 ,
 "data13b" : [
@@ -219,6 +226,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#69"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00069] For method orderBestPatterns arguments ResultPoint[]  patterns"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#69"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00069] For method orderBestPatterns list of called methods Object monObjet|float distanceN169057|float distanceN169229|float distanceN169401"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -359,6 +373,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#111"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00111] For method distance arguments ResultPoint  pattern1|ResultPoint  pattern2"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00111"
+ , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/ResultPoint.java.html#111"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00111] For method distance list of called methods Object monObjet|float pattern1_getXN171359|float pattern1_getYN171478"
 }} 
 ,
 { "ligne" : {"" : ""

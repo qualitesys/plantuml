@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/MapDataReader.java 18 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/MapDataReader.java 26 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -80,7 +80,30 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "5"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "2"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000001"
@@ -99,6 +122,13 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
  , "c4" : "1"
 }}
  ] 
@@ -189,6 +219,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00078"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#78"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00078] For method processCurve list of called methods Object monObjet|int getValueN171196|int getValueN171294"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00086"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#86"
  , "c2" : "MAJOR"
@@ -228,6 +265,55 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#104"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00104] For method getValue arguments int  pIndex"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169674"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.MapDataReader.getValue@POLYN172993"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#56"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00056] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169674 the MagicNumber/String '/*' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00061"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#61"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00061] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169674 the MagicNumber/String ', ' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00070"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#70"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00070] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169674 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00071"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#71"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00071] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169674 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00075"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#75"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00075] In the recursive method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169674 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ]
 , 

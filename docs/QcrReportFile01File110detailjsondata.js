@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/cdt/dtview__c.java.html" 
- , "texte" : "File src/gen/lib/cdt/dtview__c.java 71 rule violations " 
+ , "texte" : "File src/gen/lib/cdt/dtview__c.java 120 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -71,12 +71,35 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "48"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -618,6 +641,349 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#224"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00224] In method gen.lib.cdt.dtview__c.dtview@POLYN199742 the MagicNumber/String  'dtview' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cdt.dtview__c.dtvsearch@POLYN193355"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#92"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00092] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '6spidg45w8teb64726drdswaa' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00092"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#92"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00092] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'dtvsearch' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#95"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00095] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00101"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#101"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00101] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00105"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#105"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00105] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00106"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#106"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00106] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#107"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00107] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00108"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#108"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00108] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#115"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00115] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00117"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#117"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00117] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#120"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00120] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00120"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#120"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00120] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#121"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00121] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#131"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00131] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#133"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00133] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00133"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#133"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00133] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#134"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00134] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00134"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#134"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00134] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#135"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00135] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '5o3u9aaanyd9yh74sjfkkofmo' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00147"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#147"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00147] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '36qdhpbcwst6tc1gvwcyvg91u' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#148"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '5p6q7ip4om6y4nrsjz07ua456' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00149"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#149"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00149] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'bx84jj9durkqzcrq4l9h1b0za' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#150"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00150] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'eh58afn12udc5q8yzr25advls' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00151"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#151"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00151] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'de5yx4s0nsbgshd9seabcy2g9' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00152"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#152"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00152] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '1dhrv6aj5eq8ntuvb7qbs8aot' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00153"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#153"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00153] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '66mzv36wy2mflr2u2a5pwa2vg' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00154"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#154"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00154] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'd4pllgr7b2ohssrhtxxtd1fbb' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00155"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#155"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00155] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'aihzmr4oo3tuh6kkxwtn9tlbd' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#156"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'flupwh3kosf3fkhkxllllt1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#157"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00157] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '6he3c07r1xjfepuku37yav920' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#158"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'd7hiatjof3gfyx3ab27oq4d74' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#159"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00159] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '44tdztkynd140cqbaafbbxvqn' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#160"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '72t51pabtpfsnn4qrcjvd6gkb' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#161"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00161] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '4an2jpd7xs9lm1jlfrbualsrv' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#162"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00162] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'bndt77eukkw8dnhl8sce4ts3d' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00163"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#163"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00163] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '6ioth986rfbv208dp59shjy15' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00164"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#164"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00164] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '3to5h0rvqxdeqs38mhv47mm3o' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#165"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00165] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '5bx9ax8tembk4pweu41m5yw43' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#166"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00166] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '6eq5kf0bj692bokt0bixy1ixh' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#167"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00167] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '3diupilxwbi5nroolxiy7e8b0' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#168"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00168] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'aihzmr4oo3tuh6kkxwtn9tlbd' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00169"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#169"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00169] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'esje2igec9cwwteta36lbrdvc' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#170"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00170] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'aeh2pn8gp2xj4lehv52n4hp6b' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#171"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00171] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '1lfqka4p8e7w15b16wquy0vjx' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#172"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00172] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'flupwh3kosf3fkhkxllllt1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#173"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00173] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'c24nfmv9i7o5eoqaymbibp7m7' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#177"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00177] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String '6spidg45w8teb64726drdswaa' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00177"
+ , "c1link" : "./qc/src/gen/lib/cdt/dtview__c.java.html#177"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00177] In the recursive method gen.lib.cdt.dtview__c.dtvsearch@POLYN193355 the MagicNumber/String 'dtvsearch' MUST BE CONVERTED to const"
 }} 
 ]
 , 

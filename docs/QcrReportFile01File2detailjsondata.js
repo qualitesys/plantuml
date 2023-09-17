@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/ACearth.java 81 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/ACearth.java 113 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -125,11 +125,34 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "29"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
  , "c4" : "1"
 }}
 ,
@@ -151,6 +174,13 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
  , "c4" : "2"
 }}
  ] 
@@ -395,6 +425,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00231"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#231"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00231] For method computePositions list of called methods Object monObjet|int fConf_getIntN225692|ext.plantuml.com.ctreber.acearth.util.Coordinate fConf_getViewPosN226131|ext.plantuml.com.ctreber.acearth.util.Coordinate getSunRelativePositionN226319|ext.plantuml.com.ctreber.acearth.util.Coordinate getOrbitPositionN226499|ext.plantuml.com.ctreber.acearth.util.Coordinate getRandomPositionN226698|ext.plantuml.com.ctreber.acearth.util.Coordinate SunPositionCalculator_getMoonPositionOnEarthN226878|double fConf_getDoubleN227427"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00233"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#233"
  , "c2" : "MAJOR"
@@ -518,6 +555,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#265"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00265] In method ext.plantuml.com.ctreber.acearth.ACearth.computePositions@POLYN225415 the MagicNumber/String  'viewRotation' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00275"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#275"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00275] For method getSunRelativePosition list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Coordinate fConf_getSunPosN227711"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -721,6 +765,216 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#368"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00368] Public method getConf is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00135"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#135"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00135] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00136"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#136"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00136] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00137"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#137"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00137] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#138"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00138] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'Cylindrical' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00138"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#138"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00138] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'projection' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#144"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00144] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'Mercator' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#144"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00144] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'projection' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#150"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00150] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'Orthographic' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00150"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#150"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00150] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'projection' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#157"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00157] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'imageWidth' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00158"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#158"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00158] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'imageHeight' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00159"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#159"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00159] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'shiftX' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#160"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00160] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'shiftY' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00161"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#161"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00161] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'viewMagnification' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#165"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00165] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'imageWidth' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00166"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#166"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00166] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'imageHeight' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00173"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#173"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00173] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'starsP' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#174"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00174] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'imageWidth' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#175"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00175] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'bigStars' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#175"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00175] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'imageHeight' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#175"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00175] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'starFrequency' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00180"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#180"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00180] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'gridP' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00181"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#181"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00181] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'gridDivision' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#182"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00182] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'gridPixelDivision' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#188"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00188] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00191"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#191"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00191] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'shadeP' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00196"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#196"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00196] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'daySideBrightness' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#197"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00197] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'terminatorDiscontinuity' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00198"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#198"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00198] In the recursive method ext.plantuml.com.ctreber.acearth.ACearth.update@POLYN219546 the MagicNumber/String 'nightSideBrightness' MUST BE CONVERTED to const"
 }} 
 ]
 , 

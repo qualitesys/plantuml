@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/ShapeEdge.java 42 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/ShapeEdge.java 43 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -263,6 +263,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "7"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
+}}
  ] 
 ,
 "data13b" : [
@@ -285,6 +292,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#66"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00066] For method moveInwardsBy arguments float  offset"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/ShapeEdge.java.html#66"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00066] For method moveInwardsBy list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.ShapePoint getMiddleN183793|java.awt.geom.GeneralPath owner_makeIntoPathN183862"
 }} 
 ,
 { "ligne" : {"" : ""

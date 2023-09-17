@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/projection/Projection.java 40 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/projection/Projection.java 42 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -322,6 +322,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "22"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
+}}
  ] 
 ,
 "data13b" : [
@@ -489,6 +496,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00249"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00249] For method rotate list of called methods Object monObjet|double pPoint_getXN189810|double pPoint_getYN189887|double pPoint_getZN189964"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00249] The argument pPoint is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -498,6 +512,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00249] For method rotateReverse arguments Point3D  pPoint"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00249"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/projection/Projection.java.html#249"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00249] For method rotateReverse list of called methods Object monObjet|double pPoint_getXN192596|double pPoint_getYN192673|double pPoint_getZN192750"
 }} 
 ,
 { "ligne" : {"" : ""

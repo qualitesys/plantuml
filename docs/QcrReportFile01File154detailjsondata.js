@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/dotgen/position__c.java.html" 
- , "texte" : "File src/gen/lib/dotgen/position__c.java 597 rule violations " 
+ , "texte" : "File src/gen/lib/dotgen/position__c.java 671 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -341,7 +341,30 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "67"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "7"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE481"
@@ -4556,6 +4579,524 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1461"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[01461] In method gen.lib.dotgen.position__c.contain_nodes@POLYN498610 the MagicNumber/String  'contain_nodes' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.clust_ht@POLYN460366"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.contain_subclust@POLYN447253"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.separate_subclust@POLYN449119"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.set_xcoords@POLYN458640"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.position__c.rec_bb@POLYN478186"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00884"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#884"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00884] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String 'clust_ht' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00884"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#884"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00884] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String 'emtrqv582hdma5aajqtjd76m1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00890"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#890"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00890] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00895"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#895"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00895] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00901"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#901"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00901] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00912"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#912"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00912] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00913"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#913"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00913] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00929"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#929"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00929] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String 'clust_ht' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00929"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#929"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00929] In the recursive method gen.lib.dotgen.position__c.clust_ht@POLYN460366 the MagicNumber/String 'emtrqv582hdma5aajqtjd76m1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00566"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#566"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00566] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String '79v3omwzni0nm3h05l3onjsbz' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00566"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#566"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00566] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String 'contain_clustnodes' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00572"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#572"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00572] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00573"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#573"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00573] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String 128 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00575"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#575"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00575] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00575"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#575"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00575] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String 128 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00577"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#577"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00577] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00580"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#580"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00580] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String '79v3omwzni0nm3h05l3onjsbz' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00580"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#580"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00580] In the recursive method gen.lib.dotgen.position__c.contain_clustnodes@POLYN440530 the MagicNumber/String 'contain_clustnodes' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00616"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#616"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00616] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String '73cdgjl47ohty2va766evbo4' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00616"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#616"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00616] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 'keepout_othernodes' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00620"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#620"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00620] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00620"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#620"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00620] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 8 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00622"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#622"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00622] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00624"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#624"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00624] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00625"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#625"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00625] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00627"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#627"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00627] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00627"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#627"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00627] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00630"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#630"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00630] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00631"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#631"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00631] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00638"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#638"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00638] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00639"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#639"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00639] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00644"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#644"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00644] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00647"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#647"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00647] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String '73cdgjl47ohty2va766evbo4' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00647"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#647"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00647] In the recursive method gen.lib.dotgen.position__c.keepout_othernodes@POLYN443545 the MagicNumber/String 'keepout_othernodes' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00659"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#659"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00659] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 'c734mx1638sfqtl7vh7itaxyx' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00659"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#659"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00659] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 'contain_subclust' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00663"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#663"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00663] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00663"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#663"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00663] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 8 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00665"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#665"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00665] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00669"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#669"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00669] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00669"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#669"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00669] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 3 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00671"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#671"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00671] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00671"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#671"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00671] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00675"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#675"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00675] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 'c734mx1638sfqtl7vh7itaxyx' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00675"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#675"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00675] In the recursive method gen.lib.dotgen.position__c.contain_subclust@POLYN447253 the MagicNumber/String 'contain_subclust' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00687"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#687"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00687] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String '6oruu1p1b7kxr5moh3kmcmvr3' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00687"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#687"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00687] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 'separate_subclust' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00692"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#692"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00692] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00692"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#692"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00692] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 8 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00693"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#693"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00693] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00695"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#695"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00695] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00696"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#696"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00696] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00706"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#706"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00706] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00707"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#707"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00707] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00714"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#714"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00714] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00719"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#719"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00719] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String '6oruu1p1b7kxr5moh3kmcmvr3' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00719"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#719"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00719] In the recursive method gen.lib.dotgen.position__c.separate_subclust@POLYN449119 the MagicNumber/String 'separate_subclust' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00852"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#852"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00852] In the recursive method gen.lib.dotgen.position__c.set_xcoords@POLYN458640 the MagicNumber/String '1oobmglea9t819y95xeel37h8' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00852"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#852"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00852] In the recursive method gen.lib.dotgen.position__c.set_xcoords@POLYN458640 the MagicNumber/String 'set_xcoords' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00858"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#858"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00858] In the recursive method gen.lib.dotgen.position__c.set_xcoords@POLYN458640 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00865"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#865"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00865] In the recursive method gen.lib.dotgen.position__c.set_xcoords@POLYN458640 the MagicNumber/String '1oobmglea9t819y95xeel37h8' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00865"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#865"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00865] In the recursive method gen.lib.dotgen.position__c.set_xcoords@POLYN458640 the MagicNumber/String 'set_xcoords' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01118"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1118"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01118] In the recursive method gen.lib.dotgen.position__c.rec_bb@POLYN478186 the MagicNumber/String 'dlbpiimh9g9ff9w7wjoabf817' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01118"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1118"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01118] In the recursive method gen.lib.dotgen.position__c.rec_bb@POLYN478186 the MagicNumber/String 'rec_bb' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01121"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1121"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01121] In the recursive method gen.lib.dotgen.position__c.rec_bb@POLYN478186 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01125"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1125"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01125] In the recursive method gen.lib.dotgen.position__c.rec_bb@POLYN478186 the MagicNumber/String 'dlbpiimh9g9ff9w7wjoabf817' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01125"
+ , "c1link" : "./qc/src/gen/lib/dotgen/position__c.java.html#1125"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[01125] In the recursive method gen.lib.dotgen.position__c.rec_bb@POLYN478186 the MagicNumber/String 'rec_bb' MUST BE CONVERTED to const"
 }} 
 ]
 , 

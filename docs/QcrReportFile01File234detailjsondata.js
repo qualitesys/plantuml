@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_dtlink_s.java.html" 
- , "texte" : "File src/h/ST_dtlink_s.java 10 rule violations " 
+ , "texte" : "File src/h/ST_dtlink_s.java 17 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -108,7 +108,30 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "4"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "2"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
@@ -128,6 +151,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -182,6 +212,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00094"
+ , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#94"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00094] For method getTheField list of called methods Object monObjet|smetana.core.OFFSET offset_negativeN170935"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00095"
  , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#95"
  , "c2" : "MAJOR"
@@ -200,6 +237,48 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#98"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00098] In method h.ST_dtlink_s.getTheField@POLYN170429 the MagicNumber/String  's' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for h.ST_dtlink_s.castTo@POLYN169854"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for h.ST_dtlink_s.getTheField@POLYN170429"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#87"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00087] In the recursive method h.ST_dtlink_s.castTo@POLYN169854 the MagicNumber/String 'dest=' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#95"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00095] In the recursive method h.ST_dtlink_s.getTheField@POLYN170429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#95"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00095] In the recursive method h.ST_dtlink_s.getTheField@POLYN170429 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00098"
+ , "c1link" : "./qc/src/h/ST_dtlink_s.java.html#98"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00098] In the recursive method h.ST_dtlink_s.getTheField@POLYN170429 the MagicNumber/String 's' MUST BE CONVERTED to const"
 }} 
 ]
 , 

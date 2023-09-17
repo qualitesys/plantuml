@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/gvc/gvc__c.java.html" 
- , "texte" : "File src/gen/lib/gvc/gvc__c.java 11 rule violations " 
+ , "texte" : "File src/gen/lib/gvc/gvc__c.java 22 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -62,7 +62,30 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "10"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "1"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
@@ -154,6 +177,83 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#81"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00081] In method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String  'gvContext' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.gvc.gvc__c.gvContext@POLYN169267"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#69"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00069] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String 'f3vdhir2c7dz3pvmx9d3m4lx1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00069"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#69"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00069] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String 'gvContext' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#72"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00072] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String '\\N' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#72"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00072] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String 'label' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#72"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00072] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#74"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00074] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#74"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00074] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#76"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00076] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#81"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00081] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String 'f3vdhir2c7dz3pvmx9d3m4lx1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/gen/lib/gvc/gvc__c.java.html#81"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00081] In the recursive method gen.lib.gvc.gvc__c.gvContext@POLYN169267 the MagicNumber/String 'gvContext' MUST BE CONVERTED to const"
 }} 
 ]
 , 

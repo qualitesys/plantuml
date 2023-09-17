@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java 24 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java 33 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -98,6 +98,15 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
+"data12a" : [
+]
+,
+"data12b" : [
+]
+,
+"data12c" : [
+]
+, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
@@ -107,10 +116,24 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV999993"
+ , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "6"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "CRITICAL"
+ , "c2" : "QC-JAV999994"
+ , "c3" : "Recursivity with depth  1 for method xx"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -126,6 +149,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "3"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "2"
+}}
  ] 
 ,
 "data13b" : [
@@ -134,6 +164,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#77"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00077] For method createFromLine arguments String  pLine"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00077"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#77"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00077] For method createFromLine list of called methods Object monObjet|java.util.List StringParser_parseN168395"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -230,6 +267,13 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00141"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#141"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00141] For method render list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D pProjection_rotateN170417|ext.plantuml.com.ctreber.acearth.util.Point2D pProjection_finalizeN170725|java.awt.Graphics2D pCanvas_getGraphics2DN171062"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00141"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#141"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00141] The argument pCanvas is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -295,6 +339,55 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#184"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00184] Public method loadMarkerFile is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN170292"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00144"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#144"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00144] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN170292 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#162"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00162] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN170292 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#171"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00171] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN170292 the MagicNumber/String '' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#171"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00171] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN170292 the MagicNumber/String 9 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#172"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00172] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN170292 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/plugins/markers/Marker.java.html#172"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00172] In the recursive method ext.plantuml.com.ctreber.acearth.plugins.markers.Marker.render@POLYN170292 the MagicNumber/String 2 MUST BE CONVERTED to const"
 }} 
 ]
 , 

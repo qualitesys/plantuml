@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/util/ConfigParameters.java.html" 
- , "texte" : "File src/jcckit/util/ConfigParameters.java 51 rule violations " 
+ , "texte" : "File src/jcckit/util/ConfigParameters.java 58 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -279,6 +279,13 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "21"
 }}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "MINOR"
+ , "c2" : "QC-JAV000007"
+ , "c3" : "List of methods called in the body"
+ , "c4" : "7"
+}}
  ] 
 ,
 "data13b" : [
@@ -297,6 +304,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#72"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00072] For method get list of called methods Object monObjet|java.lang.String _configData_getN220950"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00074"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#74"
  , "c2" : "MAJOR"
@@ -308,6 +322,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#87"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00087] For method get arguments String  key|String  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#87"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00087] For method get list of called methods Object monObjet|java.lang.String _configData_getN221626"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,6 +350,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#114"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00114] For method getBoolean arguments String  key|boolean  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00114"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#114"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00114] For method getBoolean list of called methods Object monObjet|java.lang.String _configData_getN222832"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -430,6 +458,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00168"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#168"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00168] For method getInt list of called methods Object monObjet|java.lang.String _configData_getN225280"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00170"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#170"
  , "c2" : "MAJOR"
@@ -465,6 +500,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00204"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#204"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00204] For method getDouble list of called methods Object monObjet|java.lang.String _configData_getN226865"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00206"
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#206"
  , "c2" : "MAJOR"
@@ -497,6 +539,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#243"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00243] For method getDoubleArray arguments String  key|double[]  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00243"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#243"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00243] For method getDoubleArray list of called methods Object monObjet|java.lang.String _configData_getN228544"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -539,6 +588,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#291"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00291] For method getColor arguments String  key|Color  defaultValue"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/jcckit/util/ConfigParameters.java.html#291"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00291] For method getColor list of called methods Object monObjet|java.lang.String _configData_getN230961"
 }} 
 ,
 { "ligne" : {"" : ""
