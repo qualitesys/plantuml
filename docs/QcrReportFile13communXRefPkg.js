@@ -11,6 +11,7 @@ function doInitXRefPkg() {
    for (var liInd=0; liInd<datadepend.lesnoeuds.length; liInd++) {
       if (0==liInd%1000) console.log("doInitXRefPkg02 "+liInd);
       var leVal1 = datadepend.lesdatas[liInd];
+      if (leVal1) {
       // On cherche valeur du rang dans lesPkg dans la HashMap
       const resul1 = lesPkgXRefPkgHashMap.get(leVal1.start);
       const resul2 = lesPkgXRefPkgHashMap.get(leVal1.end);
@@ -26,6 +27,9 @@ function doInitXRefPkg() {
       } else {
          lesPkgXRefPkg[resul2].methodesappellantes.push(leVal1.start);
       }
+      } else {
+        console.log("doInitXRefPkg03 attention erreur sur "+liInd);
+      }
    }
    lesPkgXRefPkg.sort((a, b) => a.nom > b.nom);
    console.log("doInitXRefPkg99 end");
@@ -37,6 +41,7 @@ function doDessinerXRefPkg() {
    lsStr+="<tr><td>Caller packages</td><td>package</td><td>Called packages</td></tr>";
    for (liInd=0; liInd<lesPkgXRefPkg.length; liInd++) {
       lsStr+="<tr><td>";
+      if (lesPkgXRefPkg[liInd]) {
       lesPkgXRefPkg[liInd].methodesappellantes.sort();
       for (liInd1=0; liInd1<lesPkgXRefPkg[liInd].methodesappellantes.length; liInd1++) {
          lsStr+="<a href='#"+lesPkgXRefPkg[liInd].methodesappellantes[liInd1]+"'>"+lesPkgXRefPkg[liInd].methodesappellantes[liInd1]+"<a/><br />";
@@ -47,6 +52,9 @@ function doDessinerXRefPkg() {
          lsStr+="<a href='#"+lesPkgXRefPkg[liInd].methodesappellees[liInd1]+"'>"+lesPkgXRefPkg[liInd].methodesappellees[liInd1]+"<a/><br />";
       }
       lsStr+="</td></tr>";
+      } else {
+        console.log("doDessinerXRefPkg03 attention erreur sur "+liInd);
+      }
    }
    lsStr+="</table>";
    var theDivBloc = document.getElementById("maDivXRefPkg");  

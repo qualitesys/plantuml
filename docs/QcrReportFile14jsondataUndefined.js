@@ -441,7 +441,5 @@ var datadependUndefined = { "lesdatas" : [
    { "undefinedclass" : "org.xml.sax.helpers.XMLReaderFactory" , "callers" : [
    {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter"} ,
    {"caller" : "org.stathissideris.ascii2image.core.DocBookConverter.HowToHandler"} ,
-   ]
-   }
 ]
 } ;
