@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java 26 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java 27 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -200,7 +200,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -217,6 +217,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#47"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00047] For method scanPolygon arguments ScanBuf  pScanBuf|Point3D[]  pPoints3D|Point2D[]  pPoints2D|int  pIndex"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMap.java.html#57"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00057] For method generateScanBits list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.scanbit.ScanBuf scanOutlineN168121"
 }} 
 ,
 { "ligne" : {"" : ""

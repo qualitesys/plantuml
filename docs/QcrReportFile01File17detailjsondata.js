@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java 16 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java 17 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -174,7 +174,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "1"
+ , "c4" : "2"
 }}
  ] 
 ,
@@ -233,6 +233,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#73"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00073] For method renderRow arguments int  pRowNo|int[]  pPixelTypes"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#73"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00073] For method renderRow list of called methods Object monObjet|java.awt.Color[] fShader_getShadedColorsN161328"
 }} 
 ,
 { "ligne" : {"" : ""
