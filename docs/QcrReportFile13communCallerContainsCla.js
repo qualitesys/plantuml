@@ -163,10 +163,10 @@ function doDessinerCallerContainsCla() {
       lsStr+="<table border='1'>";
       for (var liInd1=0; liInd1<datadependCallerContainsCla.lescycles.length; liInd1++) {
          //console.log("main07 cycle "+liInd1);
-         lsStr+="<tr><td>Cycle "+liInd1+"</td><td>Step</td></tr>";
+         lsStr+="<tr><td>Cycle "+liInd1+"</td><td>Step</td><td>Annotations</td></tr>";
          for (var liInd2=0; liInd2<datadependCallerContainsCla.lescycles[liInd1].uncycle.length; liInd2++) {
             //console.log("main08    etape "+liInd2+"  "+datadependCallerContainsCla.lescycles[liInd1].uncycle[liInd2].etape);
-            lsStr+="<tr><td></td><td>"+datadependCallerContainsCla.lescycles[liInd1].uncycle[liInd2].etape+"</td></tr>";
+            lsStr+="<tr><td></td><td>"+datadependCallerContainsCla.lescycles[liInd1].uncycle[liInd2].etape+"</td><td>"+datadependCallerContainsCla.lescycles[liInd1].uncycle[liInd2].annotations+"</td></tr>";
          }
       }
       lsStr+="</table>";

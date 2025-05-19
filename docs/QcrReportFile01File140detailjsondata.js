@@ -4087,6 +4087,13 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.Bezier_w_@POLYN362109"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
+ , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.addLabelBB_w_@POLYN392429"
 }} 
 ,
@@ -4105,10 +4112,199 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.Bezier_w_@POLYN362109"
+ , "c1" : "00429"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#429"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00429] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String '6p0ey2c2ujk2o7h221p0b4xon' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00429"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#429"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00429] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 'Bezier' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00432"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#432"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00432] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00433"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#433"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00433] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00434"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#434"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00434] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00435"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#435"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00435] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00436"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#436"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00436] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00437"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#437"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00437] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00440"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#440"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00440] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00441"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#441"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00441] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00445"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#445"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00445] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00446"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#446"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00446] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#448"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00448] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#448"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00448] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#448"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00448] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00448"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#448"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00448] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1.0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00450"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#450"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00450] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00450"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#450"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00450] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00450"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#450"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00450] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00450"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#450"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00450] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1.0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00453"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#453"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00453] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00454"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#454"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00454] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00455"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#455"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00455] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00456"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#456"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00456] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00457"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#457"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00457] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00459"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#459"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00459] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00461"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#461"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00461] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String '6p0ey2c2ujk2o7h221p0b4xon' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00461"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#461"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00461] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 'Bezier' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4368,202 +4564,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#521"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00521] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 'mapBool' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00429"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#429"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00429] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String '6p0ey2c2ujk2o7h221p0b4xon' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00429"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#429"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00429] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 'Bezier' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00432"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#432"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00432] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00433"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#433"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00433] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00434"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#434"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00434] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00435"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#435"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00435] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00436"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#436"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00436] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00437"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#437"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00437] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00440"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#440"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00440] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00441"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#441"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00441] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00445"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#445"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00445] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00446"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#446"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00446] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00448"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#448"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00448] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00448"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#448"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00448] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00448"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#448"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00448] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00448"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#448"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00448] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1.0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00450"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#450"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00450] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00450"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#450"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00450] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00450"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#450"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00450] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00450"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#450"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00450] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 1.0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00453"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#453"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00453] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00454"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#454"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00454] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00455"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#455"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00455] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00456"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#456"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00456] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00457"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#457"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00457] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00459"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#459"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00459] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00461"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#461"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00461] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String '6p0ey2c2ujk2o7h221p0b4xon' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00461"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#461"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00461] In the recursive method gen.lib.common.utils__c.Bezier_w_@POLYN362109 the MagicNumber/String 'Bezier' MUST BE CONVERTED to const"
 }} 
 ]
 , 
