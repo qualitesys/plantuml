@@ -98,7 +98,7 @@ var maDataBlocs = {
  , "c1" : "00014"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderDefault.java.html#14"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00014] For method getShadedColors list of called methods Object monObjet|double fProjection_inverseProjectYN154952|java.awt.Color getShadedColorForTypeN156509"
+ , "c3" : "QC-JAV000007[00014] For method getShadedColors list of called methods Object monObjet|java.awt.Color getShadedColorForTypeN156509"
 }} 
 ,
 { "ligne" : {"" : ""

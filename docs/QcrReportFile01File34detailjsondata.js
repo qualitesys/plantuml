@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java 8 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java 7 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -91,7 +91,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "2"
+ , "c4" : "1"
 }}
  ] 
 ,
@@ -107,7 +107,7 @@ var maDataBlocs = {
  , "c1" : "00016"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#16"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00016] For method getShadedColors list of called methods Object monObjet|double[] computeXValuesN155599|double fProjection_inverseProjectYN155703|java.awt.Color getShadedColorForTypeN156856"
+ , "c3" : "QC-JAV000007[00016] For method getShadedColors list of called methods Object monObjet|double[] computeXValuesN155599|java.awt.Color getShadedColorForTypeN156856"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -136,13 +136,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#44"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00044] For method computeXValues arguments int  pWidth"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00044"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/shader/ShaderOrtho.java.html#44"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00044] For method computeXValues list of called methods Object monObjet|double fProjection_inverseProjectXN157459"
 }} 
 ,
 { "ligne" : {"" : ""
