@@ -666,7 +666,7 @@ var maDataBlocs = {
  , "c1" : "00225"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#225"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00225] For method initQRCode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_getVersionForNumberN256828|int version_getTotalCodewordsN256924"
+ , "c3" : "QC-JAV000007[00225] For method initQRCode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_getVersionForNumberN256828|int version_getTotalCodewordsN256924|int ecBlocks_getTotalECCodewordsN257105|int ecBlocks_getNumBlocksN257182"
 }} 
 ,
 { "ligne" : {"" : ""

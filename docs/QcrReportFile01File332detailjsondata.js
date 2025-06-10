@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html" 
- , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 83 rule violations " 
+ , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 81 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -184,7 +184,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "7"
+ , "c4" : "5"
 }}
  ] 
 ,
@@ -255,13 +255,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00116"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#116"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00116] For method render list of called methods Object monObjet|int polygon_getNumberOfPointsN208908"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00116"
- , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#116"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00116] The argument polygon is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -299,13 +292,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#136"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00136] For method render arguments Rectangle  rectangle"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00136"
- , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#136"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00136] For method render list of called methods Object monObjet|jcckit.graphic.GraphPoint rectangle_getCenterN210377|double rectangle_getWidthN210454|double rectangle_getHeightN210531"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -375,7 +361,7 @@ var maDataBlocs = {
  , "c1" : "00159"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#159"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00159] For method drawShape list of called methods Object monObjet|jcckit.graphic.GraphicAttributes element_getGraphicAttributesN211979|double[] la_getLinePatternN212896|java.awt.Color la_getLineColorN213928"
+ , "c3" : "QC-JAV000007[00159] For method drawShape list of called methods Object monObjet|jcckit.graphic.GraphicAttributes element_getGraphicAttributesN211979|double[] la_getLinePatternN212896|net.sourceforge.plantuml.awt.Color la_getLineColorN213928"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -459,7 +445,7 @@ var maDataBlocs = {
  , "c1" : "00205"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#205"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00205] For method render list of called methods Object monObjet|jcckit.graphic.GraphicAttributes text_getGraphicAttributesN214754|java.awt.Color ta_getTextColorN215059|java.lang.String text_getTextN215444|double ta_getFontSizeN215688|java.awt.Font createFontN215933"
+ , "c3" : "QC-JAV000007[00205] For method render list of called methods Object monObjet|net.sourceforge.plantuml.awt.Color ta_getTextColorN215059|java.lang.String text_getTextN215444|double ta_getFontSizeN215688|net.sourceforge.plantuml.awt.Font createFontN215933"
 }} 
 ,
 { "ligne" : {"" : ""

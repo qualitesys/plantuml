@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/CellSet.java 233 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/CellSet.java 234 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -479,7 +479,7 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000007"
  , "c3" : "List of methods called in the body"
- , "c4" : "9"
+ , "c4" : "10"
 }}
  ] 
 ,
@@ -579,7 +579,7 @@ var maDataBlocs = {
  , "c1" : "00121"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#121"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00121] For method copyCellSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN250525"
+ , "c3" : "QC-JAV000007[00121] For method copyCellSet list of called methods Object monObjet|java.util.Iterator&lt;org.stathissideris.ascii2image.text.TextGrid.Cell&gt; set_iteratorN250525"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1115,6 +1115,13 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
+ , "c1" : "00347"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#347"
+ , "c2" : "MINOR"
+ , "c3" : "QC-JAV000007[00347] For method getFilledEquivalent list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN262349"
+}} 
+,
+{ "ligne" : {"" : ""
  , "c1" : "00349"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#349"
  , "c2" : "MAJOR"
@@ -1272,7 +1279,7 @@ var maDataBlocs = {
  , "c1" : "00407"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#407"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00407] For method appendSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN264385"
+ , "c3" : "QC-JAV000007[00407] For method appendSet list of called methods Object monObjet|java.util.Iterator&lt;org.stathissideris.ascii2image.text.TextGrid.Cell&gt; set_iteratorN264385"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1321,7 +1328,7 @@ var maDataBlocs = {
  , "c1" : "00416"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#416"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00416] For method subtractSet list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN264917|org.stathissideris.ascii2image.text.TextGrid.Cell findN265183"
+ , "c3" : "QC-JAV000007[00416] For method subtractSet list of called methods Object monObjet|java.util.Iterator&lt;org.stathissideris.ascii2image.text.TextGrid.Cell&gt; set_iteratorN264917|org.stathissideris.ascii2image.text.TextGrid.Cell findN265183"
 }} 
 ,
 { "ligne" : {"" : ""

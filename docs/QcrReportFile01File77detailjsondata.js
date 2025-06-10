@@ -138,7 +138,7 @@ var maDataBlocs = {
  , "c1" : "00046"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/datamatrix/decoder/DataBlock.java.html#46"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00046] For method getDataBlocks list of called methods Object monObjet|ext.plantuml.com.google.zxing.datamatrix.decoder.Version.ECBlocks version_getECBlocksN168298|ext.plantuml.com.google.zxing.datamatrix.decoder.DataBlock[] version_getVersionNumberN170605"
+ , "c3" : "QC-JAV000007[00046] For method getDataBlocks list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Version.ECBlocks version_getECBlocksN168298|ext.plantuml.com.google.zxing.qrcode.decoder.Version.ECB[] ecBlocks_getECBlocksN168448|int ecBlock_getDataCodewordsN169402|ext.plantuml.com.google.zxing.datamatrix.decoder.DataBlock[] version_getVersionNumberN170605"
 }} 
 ,
 { "ligne" : {"" : ""

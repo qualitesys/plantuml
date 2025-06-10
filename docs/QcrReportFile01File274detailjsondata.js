@@ -265,7 +265,7 @@ var maDataBlocs = {
  , "c1" : "00142"
  , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#142"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00142] For method drawPlot list of called methods Object monObjet|jcckit.graphic.Renderer createRendererN192232|jcckit.graphic.GraphicalElement[] plot_getCurvesN192307|jcckit.graphic.GraphicalElement plot_getAnnotationN192656"
+ , "c3" : "QC-JAV000007[00142] For method drawPlot list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.renderer.Renderer createRendererN192232|jcckit.graphic.GraphicalElement[] plot_getCurvesN192307|jcckit.graphic.GraphicalElement plot_getAnnotationN192656"
 }} 
 ,
 { "ligne" : {"" : ""

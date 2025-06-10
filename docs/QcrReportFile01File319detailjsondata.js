@@ -302,7 +302,7 @@ var maDataBlocs = {
  , "c1" : "00122"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#122"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00122] For method setCoordinateSystem list of called methods Object monObjet|jcckit.graphic.GraphicalElement coordinateSystem_getViewN228746|jcckit.graphic.ClippingShape coordinateSystem_getClippingShapeN228820|jcckit.transformation.Transformation coordinateSystem_getTransformationN228894"
+ , "c3" : "QC-JAV000007[00122] For method setCoordinateSystem list of called methods Object monObjet|jcckit.graphic.GraphicalElement coordinateSystem_getViewN228746|jcckit.graphic.ClippingShape coordinateSystem_getClippingShapeN228820|jcckit.renderer.Transformation coordinateSystem_getTransformationN228894"
 }} 
 ,
 { "ligne" : {"" : ""

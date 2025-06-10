@@ -3949,7 +3949,7 @@ var maDataBlocs = {
  , "c1" : "00795"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#795"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00795] For method containsAtLeastOneDashedLine list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; set_iteratorN487331"
+ , "c3" : "QC-JAV000007[00795] For method containsAtLeastOneDashedLine list of called methods Object monObjet|java.util.Iterator&lt;org.stathissideris.ascii2image.text.TextGrid.Cell&gt; set_iteratorN487331"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -5216,7 +5216,7 @@ var maDataBlocs = {
  , "c1" : "01249"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1249"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[01249] For method copyCellsTo list of called methods Object monObjet|java.util.Iterator&lt;TextGrid.Cell&gt; cells_iteratorN513509"
+ , "c3" : "QC-JAV000007[01249] For method copyCellsTo list of called methods Object monObjet|java.util.Iterator&lt;org.stathissideris.ascii2image.text.TextGrid.Cell&gt; cells_iteratorN513509"
 }} 
 ,
 { "ligne" : {"" : ""

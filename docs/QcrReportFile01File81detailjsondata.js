@@ -161,7 +161,7 @@ var maDataBlocs = {
  , "c1" : "00047"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#47"
  , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00047] For method getDataBlocks list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock[] version_getECBlocksForLevelN168858"
+ , "c3" : "QC-JAV000007[00047] For method getDataBlocks list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock[] version_getECBlocksForLevelN168858|ext.plantuml.com.google.zxing.qrcode.decoder.Version.ECB[] ecBlocks_getECBlocksN169027|int ecBlock_getDataCodewordsN169981|int ecBlocks_getECCodewordsPerBlockN170058"
 }} 
 ,
 { "ligne" : {"" : ""
