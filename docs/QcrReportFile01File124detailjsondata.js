@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/cgraph/subg__c.java.html" 
- , "texte" : "File src/gen/lib/cgraph/subg__c.java 63 rule violations " 
+ , "texte" : "File src/gen/lib/cgraph/subg__c.java 52 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -107,30 +107,7 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "9"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE481"
@@ -516,83 +493,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#189"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00189] In method gen.lib.cgraph.subg__c.agparent@POLYN192504 the MagicNumber/String  'agparent' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.subg__c.agfindsubg_by_id@POLYN186234"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.cgraph.subg__c.agfstsubg@POLYN191002"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#77"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00077] In the recursive method gen.lib.cgraph.subg__c.agfindsubg_by_id@POLYN186234 the MagicNumber/String '11ezyrsjsotjz9b3cyvb4ie8p' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#77"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00077] In the recursive method gen.lib.cgraph.subg__c.agfindsubg_by_id@POLYN186234 the MagicNumber/String 'agfindsubg_by_id' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#82"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00082] In the recursive method gen.lib.cgraph.subg__c.agfindsubg_by_id@POLYN186234 the MagicNumber/String 0000004 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#84"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.cgraph.subg__c.agfindsubg_by_id@POLYN186234 the MagicNumber/String '11ezyrsjsotjz9b3cyvb4ie8p' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#84"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00084] In the recursive method gen.lib.cgraph.subg__c.agfindsubg_by_id@POLYN186234 the MagicNumber/String 'agfindsubg_by_id' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#154"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00154] In the recursive method gen.lib.cgraph.subg__c.agfstsubg@POLYN191002 the MagicNumber/String '51eksrs0lhkgohunejlpwyc4k' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00154"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#154"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00154] In the recursive method gen.lib.cgraph.subg__c.agfstsubg@POLYN191002 the MagicNumber/String 'agfstsubg' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#158"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.cgraph.subg__c.agfstsubg@POLYN191002 the MagicNumber/String '51eksrs0lhkgohunejlpwyc4k' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00158"
- , "c1link" : "./qc/src/gen/lib/cgraph/subg__c.java.html#158"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00158] In the recursive method gen.lib.cgraph.subg__c.agfstsubg@POLYN191002 the MagicNumber/String 'agfstsubg' MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/utils__c.java.html" 
- , "texte" : "File src/gen/lib/common/utils__c.java 590 rule violations " 
+ , "texte" : "File src/gen/lib/common/utils__c.java 573 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -382,7 +382,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "65"
+ , "c4" : "49"
 }}
 ,
 { "ligne" : { "" : ""
@@ -396,7 +396,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "4"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -4094,13 +4094,6 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.addLabelBB_w_@POLYN392429"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.chkPort_w_@POLYN383435"
 }} 
 ,
@@ -4108,7 +4101,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.mapBool@POLYN368007"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.utils__c.addLabelBB_w_@POLYN392429"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -4308,62 +4301,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String '3mkqvtbyq9j8ktzil6t7vakg5' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String '3mkqvtbyq9j8ktzil6t7vakg5' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 'addLabelBB' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 'addLabelBB' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 2. MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 2. MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 2. MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 2. MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "01119"
  , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1119"
  , "c2" : "BLOCKER"
@@ -4455,115 +4392,59 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00504"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#504"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00504] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String '4esyuq2yqdaqoddgfqs24m5m3' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String '3mkqvtbyq9j8ktzil6t7vakg5' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00504"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#504"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00504] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 'mapBool' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String '3mkqvtbyq9j8ktzil6t7vakg5' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00506"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#506"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00506] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String '\0' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 'addLabelBB' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00506"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#506"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00506] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 'addLabelBB' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00508"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#508"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00508] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 'false' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 2. MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00509"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#509"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00509] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String false MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 2. MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00510"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#510"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00510] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 'no' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 2. MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00511"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#511"
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00511] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String false MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00512"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#512"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00512] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 'true' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00513"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#513"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00513] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00514"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#514"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00514] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 'yes' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00515"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#515"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00515] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00516"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#516"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00516] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00517"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#517"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00517] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00521"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#521"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00521] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String '4esyuq2yqdaqoddgfqs24m5m3' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00521"
- , "c1link" : "./qc/src/gen/lib/common/utils__c.java.html#521"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00521] In the recursive method gen.lib.common.utils__c.mapBool@POLYN368007 the MagicNumber/String 'mapBool' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.utils__c.addLabelBB_w_@POLYN392429 the MagicNumber/String 2. MUST BE CONVERTED to const"
 }} 
 ]
 , 

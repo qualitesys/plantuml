@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/shapes__c.java.html" 
- , "texte" : "File src/gen/lib/common/shapes__c.java 1533 rule violations " 
+ , "texte" : "File src/gen/lib/common/shapes__c.java 1693 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -488,16 +488,9 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999995"
- , "c3" : "Recursivity with depth over 1 between method xx and method yy"
- , "c4" : "12"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "148"
+ , "c4" : "321"
 }}
 ,
 { "ligne" : { "" : ""
@@ -518,7 +511,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "10"
+ , "c4" : "9"
 }}
 ,
 { "ligne" : { "" : ""
@@ -10124,56 +10117,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.cvtPt@POLYN675465"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.pos_reclbl@POLYN639891 ending with method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.pos_reclbl@POLYN639891"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.pos_reclbl_@POLYN640139"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.resize_reclbl@POLYN636859 ending with method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.resize_reclbl@POLYN636859"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.resize_reclbl_@POLYN637107"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.resize_reclbl_@POLYN637107"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.poly_port_w_@POLYN601675"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -10187,35 +10131,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.poly_port_w_@POLYN601675"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_port@POLYN650401"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 ending with method gen.lib.common.shapes__c.resize_reclbl@POLYN636859"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.resize_reclbl_@POLYN637107"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.resize_reclbl@POLYN636859"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.poly_init@POLYN542429"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -10223,27 +10139,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.poly_inside_w_@POLYN570819"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] Recursive call with depth 2 starting with method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 ending with method gen.lib.common.shapes__c.pos_reclbl@POLYN639891"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--gen.lib.common.shapes__c.pos_reclbl_@POLYN640139"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999995[00001] +--+--gen.lib.common.shapes__c.pos_reclbl@POLYN639891"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -10257,14 +10152,21 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.same_side_w_@POLYN538239"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_path@POLYN654978"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.record_path@POLYN654978"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.resize_reclbl_@POLYN637107"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "CRITICAL"
+ , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.shapes__c.same_side_w_@POLYN538239"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -10306,119 +10208,161 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 the MagicNumber/String 'rvq6ubzk0rezd88243ailv84' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '17pbmb7rfq2rdapm13ww6pefz' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '5k2b9gfpwm2tj3zmzniuz9azt' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '5k2b9gfpwm2tj3zmzniuz9azt' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '89cj6b362bd80f627mp67yjh0' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '_' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'cmo03yl2q1wgn0c1r45y1ay5e' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'cw5grwj6gbj94jcztvnp2ooyj' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.pos_reclbl_@POLYN640139 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'dl6n43wu7irkeiaxb6wed3388' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 'blo8etwhtlcsld8ox0vryznfw' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'en2xpqtprfng8gmc77dzq7klv' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 'blo8etwhtlcsld8ox0vryznfw' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'etss3zom716xdeasxnytjb8db' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 'resize_reclbl' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'flupwh3kosf3fkhkxllllt1' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 'resize_reclbl' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'poly_port' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'poly_port' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '\0' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -10590,234 +10534,1340 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#222"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '17pbmb7rfq2rdapm13ww6pefz' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00222] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'a11xv6duihbr3d6gkgo2ye2j5' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00222"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#222"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '5k2b9gfpwm2tj3zmzniuz9azt' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00222] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'poly_init' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00227"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#227"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '5k2b9gfpwm2tj3zmzniuz9azt' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00227] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#232"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '89cj6b362bd80f627mp67yjh0' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00232] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00232"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#232"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '_' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00232] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#233"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'cmo03yl2q1wgn0c1r45y1ay5e' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00233] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00233"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#233"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'cw5grwj6gbj94jcztvnp2ooyj' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00233] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#245"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'dl6n43wu7irkeiaxb6wed3388' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00245] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'regular' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00255"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#255"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'en2xpqtprfng8gmc77dzq7klv' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00255] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '637wuscax8bj094m73fwq3n00' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00256"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#256"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'etss3zom716xdeasxnytjb8db' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00256] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6wtpde1bxbwd70jz3vuemuvqe' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00257"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#257"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'flupwh3kosf3fkhkxllllt1' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00257] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'c4cn28kuy1f86y4d8rbxy1a4g' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#258"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'poly_port' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00258] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '8k75h069sv2k9b6tgz77dscwd' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00259"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#259"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 'poly_port' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00259] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'mafr2nmpj8xgeranqldzxhtb' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00260"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#260"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String '\0' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00260] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'l2a1m5p66005ftc6gdbosugj' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00261"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#261"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00261] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '61qxt5l8ums7d9os9ungn3rao' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00262"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#262"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00262] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'flupwh3kosf3fkhkxllllt1' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00269"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#269"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00269] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#270"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String 1 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00270] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0.0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#270"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00270] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 360.0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00271"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#271"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00271] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00272"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#272"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00272] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'dd178b113cb8130tl6q70lcp3' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00273"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#273"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00273] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'cp83hdn3dp0a7rp9bauc3bgki' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#274"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.poly_port_w_@POLYN601675 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00274] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'abmuc3vqirf3i48480fj0k14g' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#283"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String '_' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00283] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00283"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#283"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String 'cmo03yl2q1wgn0c1r45y1ay5e' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00283] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#285"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String 'cw5grwj6gbj94jcztvnp2ooyj' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00285] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'margin' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00285"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#285"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String 'en2xpqtprfng8gmc77dzq7klv' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00285] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#286"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String '\0' MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00286] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '4dlqwm3pklzgz2e777dm56n03' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00287"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#287"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String 0 MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00287] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'r186dwelv54pq63p2yo4czig' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00288"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#288"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00288] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'bjp5a2wbzhormf75ov5fumqto' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00289"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#289"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00289] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '3tsws28ifjzq7ju8xs3ye4x18' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00290"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#290"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00290] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7gfecwqgqof787z8u1mgh7qoj' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c1" : "00291"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#291"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_port@POLYN650401 the MagicNumber/String null MUST BE CONVERTED to const"
+ , "c3" : "QC-JAV999993[00291] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1xpqznf0i4ljd2b5j81ipsvtg' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#292"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00292] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1lcx62wzgnn34tk5li0sgoqwm' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00293"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#293"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00293] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'dau1s6m0w92gp7bvqz3f63wnp' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00294"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#294"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00294] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '79iqlz01of88ftxysvivw2hgw' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#295"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00295] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6opppos2hcjet4cn76130ykba' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00296"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#296"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00296] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7e1uy5mzei37p66t8jp01r3mk' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00297"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#297"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00297] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '8bwwxn4jop0urcsfnygjofg9s' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00298"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#298"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00298] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'afk9bpom7x393euamnvwwkx6b' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00299"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#299"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00299] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '87bdwkkwbzyswxnepdd9bj8mb' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00307"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#307"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00307] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0.0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00308"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#308"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00308] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '3nqb0s5rkwj3igt71vooj8asd' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00309"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#309"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00309] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '5fxtqwy8liyvnx1yvsou5hb4o' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00310"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#310"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00310] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'et885f1jcqpske6ip856arouv' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00314"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#314"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00314] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00320"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#320"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00320] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7jbvoylyb27di8f54ufxj4mbk' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00321"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#321"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00321] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'cnfv2ayyl46ohdl5p4pc75swz' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00322"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#322"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00322] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6llro6gigojo2r8oo6c4k320o' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00323"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#323"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00323] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '3ngt3ika8ppq3m9vbgf2q5lu1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00324"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#324"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00324] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '5l8jenkv77ax02t47zzxyv1k0' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#325"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00325] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7hgyav5bbs1v4kts1oocozork' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00326"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#326"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00326] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '34s5a4xy12nydt3idmis4np67' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00327"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#327"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00327] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'apwtbaz0akr5pg5p6uwcroaan' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00328"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#328"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00328] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '175pyfe8j8mbhdwvrbx3gmew9' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00329"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#329"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00329] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '4xiqgw4br039sl4r32gg5jv6k' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#330"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00330] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '3nl4wsbxuqlad4tcg8vmg99rx' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00331"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#331"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00331] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'da00oaavfp6fwqwgshhrodz2r' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00332"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#332"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00332] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6t98dcecgbvbvtpycwiq2ynnj' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00333"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#333"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00333] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'flupwh3kosf3fkhkxllllt1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00334"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#334"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00334] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'image' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00334"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#334"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00334] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '\0' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00334"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#334"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00334] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00334"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#334"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00334] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00335"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#335"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00335] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '76t38i30025xohbzg8w9z4pn9' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00336"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#336"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00336] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'b8spvmvtuxcciaejq8j1xhu5s' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00337"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#337"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00337] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'cw5grwj6gbj94jcztvnp2ooyj' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00338"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#338"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00338] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '68jdsrao22ymfpb8e1rdezyez' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00339"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#339"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00339] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '5lmxoq1rboqrxrchjf5ubg6w5' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#340"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00340] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7wmzbnczyvj4oocepujtghrka' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00341"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#341"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00341] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7yhr8hn3r6wohafwxrt85b2j2' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00342"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#342"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00342] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '71mfu0uflnm85dbt8g2oxs9rd' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00343"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#343"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00343] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '286u48muwmjkomlzqufoqm5cw' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00344"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#344"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00344] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1x57knvrmlciu7odfroo3paso' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00345"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#345"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00345] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'flupwh3kosf3fkhkxllllt1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#356"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00356] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#356"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00356] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00356"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#356"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00356] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00357"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#357"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00357] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 120 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00362"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#362"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00362] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'labelloc' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00363"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#363"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00363] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'b' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00363"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#363"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00363] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 't' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00363"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#363"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00363] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00363"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#363"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00363] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00363"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#363"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00363] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00364"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#364"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00364] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00366"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#366"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00366] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'c' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#370"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00370] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#370"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00370] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 4 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00370"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#370"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00370] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 90 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00371"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#371"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00371] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00371"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#371"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00371] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00374"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#374"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00374] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00375"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#375"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00375] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '4adqsyjwqwzs50ggjp57ok6u7' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00376"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#376"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00376] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1fjwgzo5xkijo98ycmzhal8yv' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00383"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#383"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00383] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'c' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00387"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#387"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00387] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00387"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#387"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00387] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00392"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#392"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00392] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00408"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#408"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00408] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'false' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00409"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#409"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00409] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'shape' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00409"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#409"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00409] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 's' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00409"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#409"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00409] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00417"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#417"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00417] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'node '%s', graph '%s' size too small for label\n' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00436"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#436"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00436] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'false' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00441"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#441"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00441] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1.0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00451"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#451"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00451] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00460"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#460"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00460] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00461"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#461"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00461] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00462"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#462"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00462] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 3 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00463"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#463"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00463] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00465"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#465"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00465] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00466"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#466"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00466] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00467"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#467"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00467] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00468"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#468"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00468] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00469"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#469"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00469] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00472"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#472"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00472] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00473"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#473"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00473] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '4ofenmfgj7cgyf624qmugcx77' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00474"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#474"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00474] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '458w3r6n3nidn2j2b154phpzt' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00475"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#475"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00475] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '24bcrwtjsfswpmtwxnadf0cn1' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00476"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#476"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00476] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'byrwdiqkace7e10l3pibk54wg' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00477"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#477"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00477] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'bicdgzzy9pdopb03hn9l48yns' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00478"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#478"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00478] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'en9fjm2thtauyxn9t7v4j2xgl' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00479"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#479"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00479] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '2pejlnamuvmi1m7339vzctpnb' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00480"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#480"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00480] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'dy64x78vvm5nufbuxsn0bi8ng' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00481"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#481"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00481] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'en9fjm2thtauyxn9t7v4j2xgl' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00482"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#482"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00482] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6t98dcecgbvbvtpycwiq2ynnj' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00483"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#483"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00483] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6g6b8zsanvqyc953c4jh1j7iy' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00484"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#484"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00484] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'b5z0hw4dacenv33xsaex70g8d' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00500"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#500"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00500] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00501"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#501"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00501] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '3ghle84ieryaenfnlbzrfv7bw' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00502"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#502"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00502] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '227lpcg9dt83m2bm8yshb4djf' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00503"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#503"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00503] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'cc3jvnwvbhjhro4adeet363yd' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00504"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#504"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00504] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '39rdmp8vl9muqtv7xs1xwtrwk' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00506"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#506"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00506] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00507"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#507"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00507] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00508"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#508"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00508] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00509"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#509"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00509] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00510"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#510"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00510] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00511"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#511"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00511] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00513"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#513"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00513] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String .5 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00514"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#514"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00514] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String .5 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00515"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#515"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00515] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00516"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#516"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00516] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00520"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#520"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00520] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00555"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#555"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00555] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00556"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#556"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00556] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00557"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#557"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00557] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00558"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#558"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00558] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00559"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#559"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00559] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 3 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00560"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#560"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00560] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 3 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00569"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#569"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00569] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00570"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#570"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00570] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 2. MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00577"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#577"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00577] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00583"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#583"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00583] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00584"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#584"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00584] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '3x6t3unoi91ezbh3iz168cm2t' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00585"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#585"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00585] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '8cm8js7jdmpakzujw3wo4h6jk' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00586"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#586"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00586] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '5zpv8twf25wr8n71ql3lh8ku2' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00587"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#587"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00587] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '9mlrumbikcvketd18jx1ox7k7' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00588"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#588"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00588] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'gkm8nb6f6ispdzj0ausiv1fe' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00589"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#589"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00589] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '8tp61rvblb9bmqfwgyknlk906' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00590"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#590"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00590] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1ls3xc8rwvn3763c32mx1wzsd' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00591"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#591"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00591] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1zrelve2mvbnzah086dkomf6k' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00592"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#592"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00592] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'bgx8ee996r89memnp0ea0b80m' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00593"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#593"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00593] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '5p9jzpcd51evtwqyugnwk50vf' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00594"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#594"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00594] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'dwskcoivmu9pc5kth75x0ersl' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00595"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#595"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00595] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'cmm5tvlcafe2aso9bkk3kl7of' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00596"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#596"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00596] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'bebwurfm1a1h1bywf9kf5ueug' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00597"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#597"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00597] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1mtgr15b978d0tdunbpj2pkdp' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00598"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#598"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00598] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '28mxt6c4230xruf63s6u415y9' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00599"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#599"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00599] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1fxw0fz2b6iq6p6qy58mx9mwu' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00600"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#600"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00600] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '8j7vx250v0icumolzos2p5qa8' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00601"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#601"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00601] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '35ed1mrpnziq164g6cg4stt5w' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00602"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#602"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00602] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'eu3ptwi3s2200v4253yk1x69t' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00603"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#603"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00603] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7lc5jxgzj6z4lq7sd9y2b6vex' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00604"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#604"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00604] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '86nzalouete6viryy967d5g9u' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00605"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#605"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00605] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'dautpj9jyj2qwa8jpujdh3436' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00606"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#606"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00606] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7p6tl6s20kdual1ysfoxl8wku' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00607"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#607"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00607] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '1yw9xq85ss81cogn9jrg24ojc' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00608"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#608"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00608] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6eq5kf0bj692bokt0bixy1ixh' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00609"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#609"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00609] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6t98dcecgbvbvtpycwiq2ynnj' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00610"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#610"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00610] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '9mlrumbikcvketd18jx1ox7k7' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00611"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#611"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00611] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'aa5s79go4kwos2as72rcsdrxf' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00612"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#612"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00612] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7ee9ageu4efyramsg9jn6klpb' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00613"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#613"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00613] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'lklvdmn7xiqbxhpgdeufcvjj' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00614"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#614"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00614] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '6t98dcecgbvbvtpycwiq2ynnj' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00626"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#626"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00626] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00628"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#628"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00628] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '7kk8oru3b3copylmq3gssx6qx' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00629"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#629"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00629] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String '8oouzms2x039fhfcfxm7yc4su' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00636"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#636"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00636] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'a11xv6duihbr3d6gkgo2ye2j5' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00636"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#636"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00636] In the recursive method gen.lib.common.shapes__c.poly_init@POLYN542429 the MagicNumber/String 'poly_init' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -11185,48 +12235,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#148"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 'eb4jyrh981apg1fy13fczexdl' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00148"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#148"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 'same_side' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00156"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#156"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00157"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#157"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00157] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#160"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 'eb4jyrh981apg1fy13fczexdl' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00160"
- , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#160"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 'same_side' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
@@ -11301,6 +12309,111 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.record_path@POLYN654978 the MagicNumber/String 2 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 'blo8etwhtlcsld8ox0vryznfw' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 'blo8etwhtlcsld8ox0vryznfw' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 'resize_reclbl' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 'resize_reclbl' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String 1 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00001] In the recursive method gen.lib.common.shapes__c.resize_reclbl_@POLYN637107 the MagicNumber/String null MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#148"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 'eb4jyrh981apg1fy13fczexdl' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00148"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#148"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00148] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 'same_side' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00156"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#156"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00156] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00157"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#157"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00157] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 0 MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#160"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 'eb4jyrh981apg1fy13fczexdl' MUST BE CONVERTED to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00160"
+ , "c1link" : "./qc/src/gen/lib/common/shapes__c.java.html#160"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV999993[00160] In the recursive method gen.lib.common.shapes__c.same_side_w_@POLYN538239 the MagicNumber/String 'same_side' MUST BE CONVERTED to const"
 }} 
 ]
 , 

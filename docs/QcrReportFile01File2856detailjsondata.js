@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/debug/Purify.java.html" 
- , "texte" : "File src/smetana/core/debug/Purify.java 71 rule violations " 
+ , "texte" : "File src/smetana/core/debug/Purify.java 65 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -188,58 +188,7 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-{ "ligne" :  "R0:smetana.core.debug.Purify.this" }
-,
-{ "ligne" :  "R1:smetana.core.debug.Purify.entering@POLYN185119.signature" }
-,
-{ "ligne" :  "R2:smetana.core.debug.Purify.entering@POLYN185119.methodNameDeclared" }
-,
-{ "ligne" :  "R3:smetana.core.debug.Purify.logline@POLYN184777.s" }
-,
-{ "ligne" :  "R4:smetana.core.debug.Purify.leaving@POLYN186195.signature" }
-,
-{ "ligne" :  "R5:smetana.core.debug.Purify.leaving@POLYN186195.methodName" }
-]
-,
-"data12b" : [
-{ "sequence" : { "noseq" : "0" , "pas" : [
-{ "ligne" : "S0:smetana.core.debug.Purify.entering@POLYN185119 (R0 in line [00077],R1 in line [00077],R2 in line [00077])" }
-,
-{ "ligne" : "S0:smetana.core.debug.Purify.recordMe@POLYN187085 (R0 in line [00111])" }
-,
-{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN189195 (R0 in line [00146])" }
-,
-{ "ligne" : "S0:smetana.core.debug.Purify.getTheMethod@POLYN189195.dummymethode_00149" }
- ]
- } }
-,
-{ "sequence" : { "noseq" : "1" , "pas" : [
-{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN184777 (R0 in line [00069],R3 in line [00069])" }
-,
-{ "ligne" : "S1:smetana.core.debug.Purify.logline@POLYN184777.dummymethode_00070" }
- ]
- } }
-,
-{ "sequence" : { "noseq" : "2" , "pas" : [
-{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN186195 (R0 in line [00095],R4 in line [00095],R5 in line [00095])" }
-,
-{ "ligne" : "S2:smetana.core.debug.Purify.leaving@POLYN186195.dummymethode_00096" }
- ]
- } }
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAVCWE833"
- , "c3" : "Potential deadlock between at least two ressources"
- , "c4" : "6"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000003"
@@ -744,48 +693,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#163"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00163] Public method printMe is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R0 : smetana.core.debug.Purify.this"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R1 : smetana.core.debug.Purify.entering@POLYN185119.signature"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R2 : smetana.core.debug.Purify.entering@POLYN185119.methodNameDeclared"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R3 : smetana.core.debug.Purify.logline@POLYN184777.s"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R4 : smetana.core.debug.Purify.leaving@POLYN186195.signature"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#1"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAVCWE833[00001] Deadlock ressource definition of R5 : smetana.core.debug.Purify.leaving@POLYN186195.methodName"
 }} 
 ]
 , 

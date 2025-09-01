@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java 140 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java 139 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -142,7 +142,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -887,13 +887,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#440"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00440] Public method isColorDark is dealing with none of the public properties of the class. Risk of useless strong coupling"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/BitmapRenderer.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.BitmapRenderer.renderTextLayer@POLYN230891"
 }} 
 ,
 { "ligne" : {"" : ""

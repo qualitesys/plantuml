@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/GraphicsPlotCanvas.java.html" 
- , "texte" : "File src/jcckit/GraphicsPlotCanvas.java 23 rule violations " 
+ , "texte" : "File src/jcckit/GraphicsPlotCanvas.java 21 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -144,28 +144,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "5"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -336,20 +320,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#224"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00224] For method setMarker arguments GraphicalElement  marker"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.drawCoordinateSystem@POLYN193137"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/jcckit/GraphicsPlotCanvas.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for jcckit.GraphicsPlotCanvas.createRenderer@POLYN194016"
 }} 
 ]
 , 

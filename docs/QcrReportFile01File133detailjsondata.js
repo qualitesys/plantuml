@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/common/ns__c.java.html" 
- , "texte" : "File src/gen/lib/common/ns__c.java 445 rule violations " 
+ , "texte" : "File src/gen/lib/common/ns__c.java 402 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -301,14 +301,14 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "48"
+ , "c4" : "9"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "5"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -3100,34 +3100,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_cutval@POLYN415541"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.common.ns__c.rerank@POLYN386229"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "01076"
  , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1076"
  , "c2" : "BLOCKER"
@@ -3188,279 +3160,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1093"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[01093] In the recursive method gen.lib.common.ns__c.dfs_range@POLYN417287 the MagicNumber/String 'dfs_range' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01052"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1052"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01052] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String 'ah65iqmwa5j0qwotm6amhijlg' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01052"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1052"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01052] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String 'dfs_cutval' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01057"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1057"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01057] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01057"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1057"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01057] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01060"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1060"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01060] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01060"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1060"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01060] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01063"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1063"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01063] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01066"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1066"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01066] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String 'ah65iqmwa5j0qwotm6amhijlg' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "01066"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#1066"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[01066] In the recursive method gen.lib.common.ns__c.dfs_cutval@POLYN415541 the MagicNumber/String 'dfs_cutval' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00334"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#334"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00334] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String '10lkpr4y40luvy2idlozfiva3' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00334"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#334"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00334] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String 'dfs_enter_outedge' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00338"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#338"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00338] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00338"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#338"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00338] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00339"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#339"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00339] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String false MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00342"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#342"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00342] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00350"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#350"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00350] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00350"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#350"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00350] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00350"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#350"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00350] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00354"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#354"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00354] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String '10lkpr4y40luvy2idlozfiva3' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00354"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#354"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00354] In the recursive method gen.lib.common.ns__c.dfs_enter_outedge@POLYN368386 the MagicNumber/String 'dfs_enter_outedge' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00366"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#366"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00366] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String '2z9nii6380p8qlql8nznzgvof' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00366"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#366"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00366] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String 'dfs_enter_inedge' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00370"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#370"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00370] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00370"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#370"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00370] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00371"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#371"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00371] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String false MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00374"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#374"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00374] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00382"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#382"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00382] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00382"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#382"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00382] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00382"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#382"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00382] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#386"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00386] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String '2z9nii6380p8qlql8nznzgvof' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00386"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#386"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00386] In the recursive method gen.lib.common.ns__c.dfs_enter_inedge@POLYN371020 the MagicNumber/String 'dfs_enter_inedge' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00589"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#589"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00589] In the recursive method gen.lib.common.ns__c.rerank@POLYN386229 the MagicNumber/String 'e66n8gern1fejjsn8nefypo0g' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00589"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#589"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00589] In the recursive method gen.lib.common.ns__c.rerank@POLYN386229 the MagicNumber/String 'rerank' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#594"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00594] In the recursive method gen.lib.common.ns__c.rerank@POLYN386229 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00594"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#594"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00594] In the recursive method gen.lib.common.ns__c.rerank@POLYN386229 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#597"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00597] In the recursive method gen.lib.common.ns__c.rerank@POLYN386229 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00597"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#597"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00597] In the recursive method gen.lib.common.ns__c.rerank@POLYN386229 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00601"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#601"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00601] In the recursive method gen.lib.common.ns__c.rerank@POLYN386229 the MagicNumber/String 'e66n8gern1fejjsn8nefypo0g' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00601"
- , "c1link" : "./qc/src/gen/lib/common/ns__c.java.html#601"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00601] In the recursive method gen.lib.common.ns__c.rerank@POLYN386229 the MagicNumber/String 'rerank' MUST BE CONVERTED to const"
 }} 
 ]
 , 

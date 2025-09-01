@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/dotgen/rank__c.java.html" 
- , "texte" : "File src/gen/lib/dotgen/rank__c.java 375 rule violations " 
+ , "texte" : "File src/gen/lib/dotgen/rank__c.java 368 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -272,7 +272,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "56"
+ , "c4" : "51"
 }}
 ,
 { "ligne" : { "" : ""
@@ -286,7 +286,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "4"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -2485,13 +2485,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.set_minmax@POLYN304836"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#1"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999995[00001] Recursive call with depth 3 starting with method gen.lib.dotgen.rank__c.dot1_rank@POLYN315952 ending with method gen.lib.dotgen.rank__c.collapse_cluster@POLYN301060"
 }} 
@@ -2550,13 +2543,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#1"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.minmax_edges2_w_@POLYN309007"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.dotgen.rank__c.minmax_edges@POLYN306203"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2760,41 +2746,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#453"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV999993[00453] In the recursive method gen.lib.dotgen.rank__c.collapse_sets@POLYN302430 the MagicNumber/String 'din4qnipewrwnelaimzvlplft' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00484"
- , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#484"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00484] In the recursive method gen.lib.dotgen.rank__c.set_minmax@POLYN304836 the MagicNumber/String '12fw0esv4unfin6waf9mknc1o' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00484"
- , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#484"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00484] In the recursive method gen.lib.dotgen.rank__c.set_minmax@POLYN304836 the MagicNumber/String 'set_minmax' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00490"
- , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#490"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00490] In the recursive method gen.lib.dotgen.rank__c.set_minmax@POLYN304836 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00493"
- , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#493"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00493] In the recursive method gen.lib.dotgen.rank__c.set_minmax@POLYN304836 the MagicNumber/String '12fw0esv4unfin6waf9mknc1o' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00493"
- , "c1link" : "./qc/src/gen/lib/dotgen/rank__c.java.html#493"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00493] In the recursive method gen.lib.dotgen.rank__c.set_minmax@POLYN304836 the MagicNumber/String 'set_minmax' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""

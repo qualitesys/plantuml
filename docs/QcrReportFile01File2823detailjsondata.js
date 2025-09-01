@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java 122 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java 95 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -153,35 +153,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "25"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "6"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -877,195 +854,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#306"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000001[00306] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectEndsToAnchors@POLYN206874"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00175"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#175"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00175] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00186"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#186"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00186] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00187"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#187"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00187] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00188"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#188"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00188] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#189"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00189] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00189"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#189"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00189] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00190"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#190"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00190] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00191"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#191"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00191] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00192"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#192"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00192] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#194"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00194] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00194"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#194"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00194] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00195"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#195"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00195] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00196"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#196"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00196] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00197"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#197"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00197] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#199"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00199] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00199"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#199"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00199] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00200"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#200"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00200] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#201"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00201] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00202"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#202"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00202] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#204"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00204] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#204"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00204] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#205"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00205] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00206"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#206"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00206] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00207"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#207"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00207] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00209"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#209"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00209] In the recursive method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.connectLines@POLYN203600 the MagicNumber/String null MUST BE CONVERTED to const"
 }} 
 ]
 , 

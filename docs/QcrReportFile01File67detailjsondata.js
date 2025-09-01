@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java 62 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java 55 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -117,35 +117,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "5"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -547,55 +524,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html#104"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00104] In method ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByName@POLYN168969 the MagicNumber/String  null should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByName@POLYN168969"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByValue@POLYN168342"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00104"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html#104"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00104] In the recursive method ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByName@POLYN168969 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00089"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html#89"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00089] In the recursive method ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByValue@POLYN168342 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html#92"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00092] In the recursive method ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByValue@POLYN168342 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00092"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html#92"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00092] In the recursive method ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByValue@POLYN168342 the MagicNumber/String 900 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00093"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/common/CharacterSetECI.java.html#93"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00093] In the recursive method ext.plantuml.com.google.zxing.common.CharacterSetECI.getCharacterSetECIByValue@POLYN168342 the MagicNumber/String 'Bad ECI value: ' MUST BE CONVERTED to const"
 }} 
 ]
 , 

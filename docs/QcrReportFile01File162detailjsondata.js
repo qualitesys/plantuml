@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/label/index__c.java.html" 
- , "texte" : "File src/gen/lib/label/index__c.java 172 rule violations " 
+ , "texte" : "File src/gen/lib/label/index__c.java 156 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -157,7 +157,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "33"
+ , "c4" : "18"
 }}
 ,
 { "ligne" : { "" : ""
@@ -171,7 +171,7 @@ var maDataBlocs = {
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAV999994"
  , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "2"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1167,119 +1167,7 @@ var maDataBlocs = {
  , "c1" : "00001"
  , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#1"
  , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.index__c.RTreeSearch@POLYN219407"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#1"
- , "c2" : "CRITICAL"
  , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for gen.lib.label.index__c.RTreeInsert2@POLYN225172"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00267"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#267"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00267] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 'RTreeSearch' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00267"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#267"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00267] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 'aa69m7d7qc06m8id896e60lkg' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00270"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#270"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00270] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00276"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#276"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00276] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00278"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#278"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00278] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00279"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#279"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00279] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00279"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#279"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00279] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 64 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00280"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#280"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00280] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00283"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#283"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00283] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00285"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#285"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00285] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#292"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00292] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00292"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#292"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00292] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 64 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00293"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#293"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00293] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#300"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00300] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 'RTreeSearch' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00300"
- , "c1link" : "./qc/src/gen/lib/label/index__c.java.html#300"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00300] In the recursive method gen.lib.label.index__c.RTreeSearch@POLYN219407 the MagicNumber/String 'aa69m7d7qc06m8id896e60lkg' MUST BE CONVERTED to const"
 }} 
 ,
 { "ligne" : {"" : ""
