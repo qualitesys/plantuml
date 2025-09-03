@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/Diagram.java 328 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/Diagram.java 330 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -333,6 +333,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "2"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
@@ -2531,6 +2538,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#961"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00961] In method org.stathissideris.ascii2image.graphics.Diagram.getCellFor@POLYN342313 the MagicNumber/String  'ShapePoint cannot be null' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#48"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00048] Valued method width is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00049"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#49"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00049] Valued method cellWidth is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""

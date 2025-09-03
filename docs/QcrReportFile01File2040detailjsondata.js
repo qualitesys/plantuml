@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java 4 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java 6 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -128,6 +128,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -176,6 +183,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#63"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00063] In method net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile.getPreferredHeight@POLYN161217 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#59"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00059] Valued method drawU is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NewpageTile.java.html#66"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00066] Valued method addConstraints is empty or contains only a return."
 }} 
 ]
 , 

@@ -91,8 +91,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -130,14 +130,14 @@ var maDataBlocs = {
  , "c1" : "00039"
  , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#39"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00039] Void method setContainer is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00039] Valued method setContainer is empty or contains only a return. Interface segregation for DataElement"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00039"
  , "c1link" : "./qc/src/jcckit/data/DataPoint.java.html#39"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00039] Void method setContainer is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00039] In the class DataPoint which implements the interface(s) DataElement, the method setContainer is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedDataElement"
 }} 
 ]
 , 

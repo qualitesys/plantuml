@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/OptionFlags.java 78 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/OptionFlags.java 79 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -572,6 +572,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "13"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1162,6 +1169,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#317"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00317] Public method setTimeoutMs is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00062"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/OptionFlags.java.html#62"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00062] Valued method setMaxPixel is empty or contains only a return."
 }} 
 ]
 , 

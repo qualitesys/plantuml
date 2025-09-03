@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java 45 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java 43 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -190,20 +190,6 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000004"
- , "c3" : "You must segregate your interface"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
@@ -533,20 +519,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#225"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00225] In method net.sourceforge.plantuml.flowdiagram.FlowDiagram.getDefaultMargins@POLYN203727 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#95"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00095] Void method lineSimple is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00095"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/flowdiagram/FlowDiagram.java.html#95"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00095] Void method lineSimple is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

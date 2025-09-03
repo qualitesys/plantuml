@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/salt/Dictionary.java 13 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/salt/Dictionary.java 15 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -200,6 +200,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -304,6 +318,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#121"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00121] For method transformStringForSizeHack arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#109"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00109] Valued method copyAllFrom is empty or contains only a return. Interface segregation for SpriteContainer,ISkinSimple"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/salt/Dictionary.java.html#109"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00109] In the class Dictionary which implements the interface(s) SpriteContainer,ISkinSimple, the method copyAllFrom is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedSpriteContainer,ISkinSimple"
 }} 
 ]
 , 

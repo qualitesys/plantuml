@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/NullOutputStream.java 3 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/NullOutputStream.java 6 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -83,6 +83,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -110,6 +117,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#64"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00064] For method write arguments byte[]  b|int  off|int  len"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00048"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#48"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00048] Valued method write is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#56"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00056] Valued method write is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00064"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/NullOutputStream.java.html#64"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00064] Valued method write is empty or contains only a return."
 }} 
 ]
 , 

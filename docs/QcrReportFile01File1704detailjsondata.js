@@ -244,8 +244,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -493,14 +493,14 @@ var maDataBlocs = {
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#207"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00207] Void method setColorsAndCompletion is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00207] Valued method setColorsAndCompletion is empty or contains only a return. Interface segregation for TaskDraw"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00207"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/draw/TaskDrawSeparator.java.html#207"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00207] Void method setColorsAndCompletion is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00207] In the class TaskDrawSeparator which implements the interface(s) TaskDraw, the method setColorsAndCompletion is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTaskDraw"
 }} 
 ]
 , 

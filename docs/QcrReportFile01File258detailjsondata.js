@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_rank_t.java.html" 
- , "texte" : "File src/h/ST_rank_t.java 15 rule violations " 
+ , "texte" : "File src/h/ST_rank_t.java 17 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -73,6 +73,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "2"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
@@ -199,6 +206,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_rank_t.java.html#86"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00086] For method ___ arguments __struct__  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00072"
+ , "c1link" : "./qc/src/h/ST_rank_t.java.html#72"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00072] Valued method ht1 is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/h/ST_rank_t.java.html#73"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00073] Valued method pht1 is empty or contains only a return."
 }} 
 ]
 , 

@@ -91,8 +91,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -137,14 +137,14 @@ var maDataBlocs = {
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00054] Void method close is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00054] Valued method close is empty or contains only a return. Interface segregation for ReadLine"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/preproc/ReadLineList.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00054] Void method close is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00054] In the class ReadLineList which implements the interface(s) ReadLine, the method close is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedReadLine"
 }} 
 ]
 , 

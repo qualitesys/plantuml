@@ -208,8 +208,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -695,14 +695,14 @@ var maDataBlocs = {
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#310"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00310] Void method drawU is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00310] Valued method drawU is empty or contains only a return. Interface segregation for ConnectionTranslatable"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00310"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/vcompact/FtileRepeat.java.html#310"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00310] Void method drawU is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00310] In the class ConnectionBackComplex1 which implements the interface(s) ConnectionTranslatable, the method drawU is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedConnectionTranslatable"
 }} 
 ,
 { "ligne" : {"" : ""

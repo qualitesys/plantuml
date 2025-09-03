@@ -136,8 +136,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -217,14 +217,14 @@ var maDataBlocs = {
  , "c1" : "00027"
  , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#27"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00027] Valued method _minX is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00027] Valued method _minX is empty or contains only a return. Interface segregation for ClippingShape"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00027"
  , "c1link" : "./qc/src/jcckit/graphic/ClippingRectangle.java.html#27"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00027] Valued method _minX is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00027] In the class ClippingRectangle which implements the interface(s) ClippingShape, the method _minX is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedClippingShape"
 }} 
 ]
 , 

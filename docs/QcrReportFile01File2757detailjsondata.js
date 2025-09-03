@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/webp/Segment.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/webp/Segment.java 8 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/webp/Segment.java 10 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -63,6 +63,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "2"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
@@ -126,6 +133,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/Segment.java.html#17"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00017] In method net.sourceforge.plantuml.webp.Segment.toString@POLYN153397 the MagicNumber/String  ' ' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/Segment.java.html#17"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00017] Valued method P0 is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00017"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/Segment.java.html#17"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00017] Valued method Q0 is empty or contains only a return."
 }} 
 ]
 , 

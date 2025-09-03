@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/jasic/Jasic.java 93 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/jasic/Jasic.java 96 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -86,6 +86,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDI"
+ , "c3" : "The class does not respect the SOLID principle Interface Segregation"
+ , "c4" : "3"
 }}
 ,
 { "ligne" : { "" : ""
@@ -590,6 +597,20 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00001"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDI[00001] The interface Statement does not respect the SOLID Interface Segregation principle. Must contain only one method declaration"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDI[00001] The interface Expression does not respect the SOLID Interface Segregation principle. Must contain only one method declaration"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE390[00001] Detection of error condition without action (see http://cwe.mitre.org/data/definitions/390.html)"
 }} 
@@ -760,6 +781,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00001] In method net.sourceforge.plantuml.jasic.Jasic.OperatorExpression.evaluate@POLYN297878 the MagicNumber/String  'Unknown operator.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/jasic/Jasic.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDI[00001] The interface Value does not respect the SOLID Interface Segregation principle. Must contain only one method declaration"
 }} 
 ,
 { "ligne" : {"" : ""

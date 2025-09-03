@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ebnf/ETileEmpty.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ebnf/ETileEmpty.java 8 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/ebnf/ETileEmpty.java 9 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -101,6 +101,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -170,6 +177,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileEmpty.java.html#64"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00064] In method net.sourceforge.plantuml.ebnf.ETileEmpty.getH2@POLYN159083 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00044"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ebnf/ETileEmpty.java.html#44"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00044] Valued method drawU is empty or contains only a return."
 }} 
 ]
 , 

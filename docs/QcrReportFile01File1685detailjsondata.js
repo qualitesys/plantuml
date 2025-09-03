@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/project/core/TaskGroup.java 22 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/project/core/TaskGroup.java 42 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -221,14 +221,14 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000004"
  , "c3" : "You must segregate your interface"
- , "c4" : "1"
+ , "c4" : "11"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "11"
 }}
 ,
 { "ligne" : { "" : ""
@@ -388,17 +388,157 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00131"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#131"
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#83"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00131] Void method setNote is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00083] Valued method setStart is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#83"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00083] In the class TaskGroup which implements the interface(s) Task, the method setStart is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#87"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00087] Valued method setEnd is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00087"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#87"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00087] In the class TaskGroup which implements the interface(s) Task, the method setEnd is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#91"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00091] Valued method setColors is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00091"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#91"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00091] In the class TaskGroup which implements the interface(s) Task, the method setColors is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#95"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00095] Valued method addResource is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00095"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#95"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00095] In the class TaskGroup which implements the interface(s) Task, the method addResource is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#103"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00103] Valued method setLoad is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00103"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#103"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00103] In the class TaskGroup which implements the interface(s) Task, the method setLoad is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#107"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00107] Valued method setDiamond is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00107"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#107"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00107] In the class TaskGroup which implements the interface(s) Task, the method setDiamond is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#115"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00115] Valued method setCompletion is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00115"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#115"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00115] In the class TaskGroup which implements the interface(s) Task, the method setCompletion is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#119"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00119] Valued method setUrl is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00119"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#119"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00119] In the class TaskGroup which implements the interface(s) Task, the method setUrl is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#123"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00123] Valued method addPause is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00123"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#123"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00123] In the class TaskGroup which implements the interface(s) Task, the method addPause is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#127"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00127] Valued method addPause is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00127"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#127"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00127] In the class TaskGroup which implements the interface(s) Task, the method addPause is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00131"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#131"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00131] Void method setNote is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00131] Valued method setNote is empty or contains only a return. Interface segregation for Task"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00131"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/project/core/TaskGroup.java.html#131"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00131] In the class TaskGroup which implements the interface(s) Task, the method setNote is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTask"
 }} 
 ]
 , 

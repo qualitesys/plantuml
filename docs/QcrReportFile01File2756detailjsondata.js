@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/webp/MacroBlock.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/webp/MacroBlock.java 470 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/webp/MacroBlock.java 471 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -392,6 +392,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "6"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -3719,6 +3726,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/MacroBlock.java.html#1"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00001] Public method dequantMacroBlock is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00753"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/webp/MacroBlock.java.html#753"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00753] Valued method x is empty or contains only a return."
 }} 
 ]
 , 

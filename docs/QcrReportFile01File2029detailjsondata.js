@@ -136,8 +136,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "2"
 }}
 ,
@@ -189,28 +189,28 @@ var maDataBlocs = {
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#64"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00064] Void method drawU is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00064] Valued method drawU is empty or contains only a return. Interface segregation for Tile"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00064"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#64"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00064] Void method drawU is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00064] In the class EmptyTile which implements the interface(s) Tile, the method drawU is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTile"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#72"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00072] Void method addConstraints is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00072] Valued method addConstraints is empty or contains only a return. Interface segregation for Tile"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00072"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/EmptyTile.java.html#72"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00072] Void method addConstraints is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00072] In the class EmptyTile which implements the interface(s) Tile, the method addConstraints is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTile"
 }} 
 ]
 , 

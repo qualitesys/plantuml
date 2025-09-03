@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 817 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/TextGrid.java 819 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -1454,6 +1454,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "129"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -6321,6 +6328,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1745"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[01745] For method scale arguments int  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01648"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1648"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[01648] Valued method x is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01753"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/TextGrid.java.html#1753"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[01753] Valued method x1 is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""

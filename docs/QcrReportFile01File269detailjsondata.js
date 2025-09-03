@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_textlabel_t.java.html" 
- , "texte" : "File src/h/ST_textlabel_t.java 10 rule violations " 
+ , "texte" : "File src/h/ST_textlabel_t.java 11 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -73,6 +73,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
@@ -164,6 +171,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#79"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00079] For method isSameThan arguments __ptr__  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00055"
+ , "c1link" : "./qc/src/h/ST_textlabel_t.java.html#55"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00055] Valued method text is empty or contains only a return."
 }} 
 ]
 , 

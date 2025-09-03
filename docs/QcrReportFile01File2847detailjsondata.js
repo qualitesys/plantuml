@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/JUtils.java.html" 
- , "texte" : "File src/smetana/core/JUtils.java 128 rule violations " 
+ , "texte" : "File src/smetana/core/JUtils.java 130 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -369,6 +369,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "2"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
@@ -1314,6 +1321,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/JUtils.java.html#301"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00301] The argument theClass is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00167"
+ , "c1link" : "./qc/src/smetana/core/JUtils.java.html#167"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00167] Valued method LOG is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00171"
+ , "c1link" : "./qc/src/smetana/core/JUtils.java.html#171"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00171] Valued method LOG2 is empty or contains only a return."
 }} 
 ]
 , 

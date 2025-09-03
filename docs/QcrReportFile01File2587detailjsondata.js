@@ -109,8 +109,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "2"
 }}
 ,
@@ -155,28 +155,28 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00062] Void method writeToStream is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00062] Valued method writeToStream is empty or contains only a return. Interface segregation for EnsureVisible"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00062] Void method writeToStream is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00062] In the class UGraphicNull which implements the interface(s) EnsureVisible, the method writeToStream is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedEnsureVisible"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00065] Void method ensureVisible is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00065] Valued method ensureVisible is empty or contains only a return. Interface segregation for EnsureVisible"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00065"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UGraphicNull.java.html#65"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00065] Void method ensureVisible is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00065] In the class UGraphicNull which implements the interface(s) EnsureVisible, the method ensureVisible is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedEnsureVisible"
 }} 
 ]
 , 

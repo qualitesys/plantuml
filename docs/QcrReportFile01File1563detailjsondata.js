@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/oregon/OregonBasicGame.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/oregon/OregonBasicGame.java 519 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/oregon/OregonBasicGame.java 521 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -365,14 +365,14 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000004"
  , "c3" : "You must segregate your interface"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -4018,17 +4018,31 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00606"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/OregonBasicGame.java.html#606"
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/OregonBasicGame.java.html#316"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00606] Void method hunt1200 is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00316] Valued method madeIt3190 is empty or contains only a return. Interface segregation for BasicGame"
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00606"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/OregonBasicGame.java.html#606"
+ , "c1" : "00316"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/OregonBasicGame.java.html#316"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00606] Void method hunt1200 is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00316] In the class OregonBasicGame which implements the interface(s) BasicGame, the method madeIt3190 is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedBasicGame"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00555"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/OregonBasicGame.java.html#555"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00555] Valued method print3110 is empty or contains only a return. Interface segregation for BasicGame"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00555"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/oregon/OregonBasicGame.java.html#555"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00555] In the class OregonBasicGame which implements the interface(s) BasicGame, the method print3110 is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedBasicGame"
 }} 
 ]
 , 

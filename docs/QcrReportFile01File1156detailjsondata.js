@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java 114 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java 115 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -464,6 +464,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "15"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1292,6 +1299,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#507"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00507] Public method removeLink is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00317"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/entity/EntityFactory.java.html#317"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00317] Valued method bigError is empty or contains only a return."
 }} 
 ]
 , 

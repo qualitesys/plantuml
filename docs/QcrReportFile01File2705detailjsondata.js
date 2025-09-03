@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java 11 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java 9 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -137,20 +137,6 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000004"
- , "c3" : "You must segregate your interface"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -234,20 +220,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#114"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00114] In method net.sourceforge.plantuml.ugraphic.txt.UGraphicTxt.writeToStream@POLYN172420 the MagicNumber/String  true should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#77"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00077] Void method draw is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00077"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/txt/UGraphicTxt.java.html#77"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00077] Void method draw is empty or contains only a return. Interface segregation"
 }} 
 ]
 , 

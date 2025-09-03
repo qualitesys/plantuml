@@ -172,8 +172,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -274,14 +274,14 @@ var maDataBlocs = {
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#67"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00067] Void method drawBackgroundInternalU is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00067] Valued method drawBackgroundInternalU is empty or contains only a return. Interface segregation for Component"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00067"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/skin/AbstractComponent.java.html#67"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00067] Void method drawBackgroundInternalU is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00067] In the class AbstractComponent which implements the interface(s) Component, the method drawBackgroundInternalU is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedComponent"
 }} 
 ]
 , 

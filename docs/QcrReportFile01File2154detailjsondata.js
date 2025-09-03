@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/stats/TextTable.java 36 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/stats/TextTable.java 37 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -109,6 +109,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDI"
+ , "c3" : "The class does not respect the SOLID principle Interface Segregation"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -138,6 +145,13 @@ var maDataBlocs = {
  ] 
 ,
 "data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#50"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDI[00050] The interface TextLine does not respect the SOLID Interface Segregation principle. Must contain only one method declaration"
+}} 
+,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/stats/TextTable.java.html#62"

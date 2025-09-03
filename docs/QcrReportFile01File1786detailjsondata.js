@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/real/RealLine.java 29 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/real/RealLine.java 32 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -155,7 +155,7 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000004"
  , "c3" : "You must segregate your interface"
- , "c4" : "1"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -163,6 +163,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000005"
  , "c3" : "Empty method"
  , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "2"
 }}
 ,
 { "ligne" : { "" : ""
@@ -381,14 +388,28 @@ var maDataBlocs = {
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00155] Void method printCreationStackTrace is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00155] Valued method printCreationStackTrace is empty or contains only a return. Interface segregation for Real"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00155] Void method printCreationStackTrace is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00155] In the class AbstractAbsolute which implements the interface(s) Real, the method printCreationStackTrace is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedReal"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#170"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00170] Valued method ensureBiggerThan is empty or contains only a return. Interface segregation for Real"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00170"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#170"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00170] In the class AbstractAbsolute which implements the interface(s) Real, the method ensureBiggerThan is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedReal"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -396,6 +417,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#71"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00071] Public method addForce is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealLine.java.html#53"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00053] Valued method register is empty or contains only a return."
 }} 
 ]
 , 

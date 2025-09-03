@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/UnsupportedStarStruct.java.html" 
- , "texte" : "File src/smetana/core/UnsupportedStarStruct.java 9 rule violations " 
+ , "texte" : "File src/smetana/core/UnsupportedStarStruct.java 11 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -119,6 +119,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -209,6 +223,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#73"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00073] For method ___ arguments __struct__  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#73"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00073] Valued method ___ is empty or contains only a return. Interface segregation for __struct__,__ptr__"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/smetana/core/UnsupportedStarStruct.java.html#73"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00073] In the class UnsupportedStarStruct which implements the interface(s) __struct__,__ptr__, the method ___ is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respected__struct__,__ptr__"
 }} 
 ]
 , 

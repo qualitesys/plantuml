@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/Memory.java.html" 
- , "texte" : "File src/smetana/core/Memory.java 17 rule violations " 
+ , "texte" : "File src/smetana/core/Memory.java 18 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -108,6 +108,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
@@ -255,6 +262,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#75"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00075] In method smetana.core.Memory.fromIdentityHashCode@POLYN162208 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/smetana/core/Memory.java.html#53"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00053] Valued method free is empty or contains only a return."
 }} 
 ]
 , 

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_Agraphinfo_t.java.html" 
- , "texte" : "File src/h/ST_Agraphinfo_t.java 30 rule violations " 
+ , "texte" : "File src/h/ST_Agraphinfo_t.java 35 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -56,6 +56,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "5"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
@@ -273,6 +280,41 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#185"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[00185] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00132"
+ , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#132"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00132] Valued method ht1 is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00162"
+ , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#162"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00162] Valued method minset is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00165"
+ , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#165"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00165] Valued method minrank is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00174"
+ , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#174"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00174] Valued method nodesep is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00175"
+ , "c1link" : "./qc/src/h/ST_Agraphinfo_t.java.html#175"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00175] Valued method ln is empty or contains only a return."
 }} 
 ]
 , 

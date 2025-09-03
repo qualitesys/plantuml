@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java 1 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java 2 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -65,6 +65,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
@@ -78,6 +85,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.html#5"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00005] For method append arguments XCubicCurve2D  bez|boolean  b"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00005"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/awt/geom/XGeneralPath.java.html#5"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00005] Valued method append is empty or contains only a return."
 }} 
 ]
 , 

@@ -199,8 +199,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -350,14 +350,14 @@ var maDataBlocs = {
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#175"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00175] Void method endSwitch is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00175] Valued method endSwitch is empty or contains only a return. Interface segregation for Instruction,InstructionCollection"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/InstructionSwitch.java.html#175"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00175] Void method endSwitch is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00175] In the class InstructionSwitch which implements the interface(s) Instruction,InstructionCollection, the method endSwitch is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedInstruction,InstructionCollection"
 }} 
 ]
 , 

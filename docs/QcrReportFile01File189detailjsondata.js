@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_Agedgeinfo_t.java.html" 
- , "texte" : "File src/h/ST_Agedgeinfo_t.java 16 rule violations " 
+ , "texte" : "File src/h/ST_Agedgeinfo_t.java 18 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -64,6 +64,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "2"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
@@ -190,6 +197,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_Agedgeinfo_t.java.html#76"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00076] For method ___ arguments __struct__  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_Agedgeinfo_t.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00054] Valued method label is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/h/ST_Agedgeinfo_t.java.html#68"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00068] Valued method cutvalue is empty or contains only a return."
 }} 
 ]
 , 

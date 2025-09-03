@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_Agnodeinfo_t.java.html" 
- , "texte" : "File src/h/ST_Agnodeinfo_t.java 23 rule violations " 
+ , "texte" : "File src/h/ST_Agnodeinfo_t.java 31 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -56,6 +56,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "8"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
@@ -224,6 +231,62 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#97"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[00097] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00054] Valued method width is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#57"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00057] Valued method ht is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00066"
+ , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#66"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00066] Valued method id is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00073"
+ , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#73"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00073] Valued method node_type is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00074"
+ , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#74"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00074] Valued method ranktype is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00088"
+ , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#88"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00088] Valued method inleaf is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00089"
+ , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#89"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00089] Valued method rank is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/h/ST_Agnodeinfo_t.java.html#96"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00096] Valued method low is empty or contains only a return."
 }} 
 ]
 , 

@@ -352,8 +352,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "2"
 }}
 ,
@@ -636,28 +636,28 @@ var maDataBlocs = {
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#148"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00148] Void method closePath is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00148] Valued method closePath is empty or contains only a return. Interface segregation for Iterable<USegment>,UShapeIgnorableForCompression"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#148"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00148] Void method closePath is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00148] In the class UPath which implements the interface(s) Iterable<USegment>,UShapeIgnorableForCompression, the method closePath is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIterable<USegment>,UShapeIgnorableForCompression"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#201"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00201] Void method drawWhenCompressed is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00201] Valued method drawWhenCompressed is empty or contains only a return. Interface segregation for Iterable<USegment>,UShapeIgnorableForCompression"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/UPath.java.html#201"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00201] Void method drawWhenCompressed is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00201] In the class UPath which implements the interface(s) Iterable<USegment>,UShapeIgnorableForCompression, the method drawWhenCompressed is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIterable<USegment>,UShapeIgnorableForCompression"
 }} 
 ]
 , 

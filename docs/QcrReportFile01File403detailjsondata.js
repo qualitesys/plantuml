@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/Log.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/Log.java 21 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/Log.java 24 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -108,6 +108,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "3"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
@@ -276,6 +283,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Log.java.html#109"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00109] For method header arguments String  s"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00042"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Log.java.html#42"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00042] Valued method debug is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00099"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Log.java.html#99"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00099] Valued method println is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00109"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/Log.java.html#109"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00109] Valued method header is empty or contains only a return."
 }} 
 ]
 , 

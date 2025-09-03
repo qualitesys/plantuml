@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramText.java 31 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/DiagramText.java 32 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -263,6 +263,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -507,6 +514,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#189"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00189] For method setOutlineColor arguments Color  outlineColor"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/DiagramText.java.html#37"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00037] Valued method xPos is empty or contains only a return."
 }} 
 ]
 , 

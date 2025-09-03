@@ -181,8 +181,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -283,14 +283,14 @@ var maDataBlocs = {
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#160"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00160] Void method addConstraints is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00160] Valued method addConstraints is empty or contains only a return. Interface segregation for Tile"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00160"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sequencediagram/teoz/NoteTile.java.html#160"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00160] Void method addConstraints is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00160] In the class NoteTile which implements the interface(s) Tile, the method addConstraints is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTile"
 }} 
 ]
 , 

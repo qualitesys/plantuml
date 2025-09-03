@@ -235,8 +235,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "5"
 }}
 ,
@@ -351,70 +351,70 @@ var maDataBlocs = {
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#178"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00178] Void method flushUg is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00178] Valued method flushUg is empty or contains only a return. Interface segregation for UGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00178"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#178"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00178] Void method flushUg is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00178] In the class AbstractCommonUGraphic which implements the interface(s) UGraphic, the method flushUg is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedUGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#182"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00182] Void method startUrl is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00182] Valued method startUrl is empty or contains only a return. Interface segregation for UGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00182"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#182"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00182] Void method startUrl is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00182] In the class AbstractCommonUGraphic which implements the interface(s) UGraphic, the method startUrl is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedUGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#186"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00186] Void method closeUrl is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00186] Valued method closeUrl is empty or contains only a return. Interface segregation for UGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00186"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#186"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00186] Void method closeUrl is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00186] In the class AbstractCommonUGraphic which implements the interface(s) UGraphic, the method closeUrl is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedUGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#189"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00189] Void method startGroup is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00189] Valued method startGroup is empty or contains only a return. Interface segregation for UGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00189"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#189"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00189] Void method startGroup is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00189] In the class AbstractCommonUGraphic which implements the interface(s) UGraphic, the method startGroup is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedUGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#192"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00192] Void method closeGroup is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00192] Valued method closeGroup is empty or contains only a return. Interface segregation for UGraphic"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00192"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractCommonUGraphic.java.html#192"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00192] Void method closeGroup is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00192] In the class AbstractCommonUGraphic which implements the interface(s) UGraphic, the method closeGroup is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedUGraphic"
 }} 
 ]
 , 

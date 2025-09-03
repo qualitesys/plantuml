@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierMap.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/BodierMap.java 19 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/BodierMap.java 21 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -145,6 +145,20 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
@@ -299,6 +313,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierMap.java.html#114"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00114] The argument style is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierMap.java.html#60"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00060] Valued method muteClassToObject is empty or contains only a return. Interface segregation for Bodier"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00060"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierMap.java.html#60"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00060] In the class BodierMap which implements the interface(s) Bodier, the method muteClassToObject is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedBodier"
 }} 
 ]
 , 

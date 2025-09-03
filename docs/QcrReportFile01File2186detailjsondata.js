@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/sudoku/DLXEngine.java 472 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/sudoku/DLXEngine.java 479 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -204,6 +204,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "7"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1809,6 +1816,34 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#551"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00551] In method net.sourceforge.plantuml.sudoku.dlx_solver.shuffle@POLYN378878 the MagicNumber/String  0 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00050"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#50"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00050] Valued method min is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00052"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#52"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00052] Valued method nodes is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#53"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00053] Valued method xx is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00054] Valued method q is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""
@@ -3496,6 +3531,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#783"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00783] Public method generate is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00580"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#580"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00580] Valued method c2 is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00581"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#581"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00581] Valued method b is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00582"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/sudoku/DLXEngine.java.html#582"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00582] Valued method mi1 is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""

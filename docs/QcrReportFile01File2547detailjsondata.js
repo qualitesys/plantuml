@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java 7 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java 10 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -119,6 +119,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "3"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -188,6 +195,27 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#118"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00118] For method drawComment arguments UComment  shape"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#118"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00118] Valued method drawComment is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00121"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#121"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00121] Valued method beforeDraw is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00124"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/ugraphic/AbstractUGraphic.java.html#124"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00124] Valued method afterDraw is empty or contains only a return."
 }} 
 ]
 , 

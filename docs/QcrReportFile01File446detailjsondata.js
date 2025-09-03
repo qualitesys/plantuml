@@ -235,8 +235,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "2"
 }}
 ,
@@ -799,28 +799,28 @@ var maDataBlocs = {
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Splash.java.html#129"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00129] Void method mouseReleased is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00129] Valued method mouseReleased is empty or contains only a return. Interface segregation for MouseListener,MouseMotionListener"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00129"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Splash.java.html#129"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00129] Void method mouseReleased is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00129] In the class Splash which implements the interface(s) MouseListener,MouseMotionListener, the method mouseReleased is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedMouseListener,MouseMotionListener"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Splash.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00155] Void method mouseEntered is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00155] Valued method mouseEntered is empty or contains only a return. Interface segregation for MouseListener,MouseMotionListener"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00155"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/Splash.java.html#155"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00155] Void method mouseEntered is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00155] In the class Splash which implements the interface(s) MouseListener,MouseMotionListener, the method mouseEntered is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedMouseListener,MouseMotionListener"
 }} 
 ]
 , 

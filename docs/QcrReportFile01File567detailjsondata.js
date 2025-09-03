@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileEmpty.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileEmpty.java 12 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileEmpty.java 13 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -164,6 +164,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -261,6 +268,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileEmpty.java.html#105"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00105] In method net.sourceforge.plantuml.activitydiagram3.ftile.FtileEmpty.getSwimlanes@POLYN166727 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00083"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/ftile/FtileEmpty.java.html#83"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00083] Valued method drawU is empty or contains only a return."
 }} 
 ]
 , 

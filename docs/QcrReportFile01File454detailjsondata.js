@@ -118,8 +118,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "3"
 }}
 ,
@@ -276,42 +276,42 @@ var maDataBlocs = {
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#48"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00048] Void method finalMessage is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00048] Valued method finalMessage is empty or contains only a return. Interface segregation for Stdrpt"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00048"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#48"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00048] Void method finalMessage is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00048] In the class StdrptV2 which implements the interface(s) Stdrpt, the method finalMessage is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedStdrpt"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#51"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00051] Void method finalMessage is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00051] Valued method finalMessage is empty or contains only a return. Interface segregation for Stdrpt"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00051"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#51"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00051] Void method finalMessage is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00051] In the class StdrptV2 which implements the interface(s) Stdrpt, the method finalMessage is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedStdrpt"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00054] Void method errorLine is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00054] Valued method errorLine is empty or contains only a return. Interface segregation for Stdrpt"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00054"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/StdrptV2.java.html#54"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00054] Void method errorLine is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00054] In the class StdrptV2 which implements the interface(s) Stdrpt, the method errorLine is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedStdrpt"
 }} 
 ]
 , 

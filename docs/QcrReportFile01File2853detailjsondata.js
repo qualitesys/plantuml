@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/Z.java.html" 
- , "texte" : "File src/smetana/core/Z.java 188 rule violations " 
+ , "texte" : "File src/smetana/core/Z.java 200 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -122,6 +122,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "15"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "12"
 }}
 ,
 { "ligne" : { "" : ""
@@ -1461,6 +1468,90 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/Z.java.html#343"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00343] Public method close is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00178"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#178"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00178] Valued method G_activepencolor is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00182"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#182"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00182] Valued method N_height is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00188"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#188"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00188] Valued method E_weight is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00195"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#195"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00195] Valued method N_nodes is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00197"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#197"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00197] Valued method Minrank is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00209"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#209"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00209] Valued method Low is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00217"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#217"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00217] Valued method nedges is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00241"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#241"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00241] Valued method GlobalMinRank is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00254"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#254"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00254] Valued method trin is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00258"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#258"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00258] Valued method pnln is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00292"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#292"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00292] Valued method last is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/smetana/core/Z.java.html#295"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00295] Valued method xsize is empty or contains only a return."
 }} 
 ]
 , 

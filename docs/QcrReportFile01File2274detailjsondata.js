@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java 19 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java 20 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -91,6 +91,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
@@ -217,6 +224,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java.html#142"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00142] In method net.sourceforge.plantuml.svek.extremity.ExtremityExtendsLike.DefinedBy.drawU@POLYN184513 the MagicNumber/String  null should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00118"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/svek/extremity/ExtremityExtendsLike.java.html#118"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00118] Valued method pos1 is empty or contains only a return."
 }} 
 ,
 { "ligne" : {"" : ""

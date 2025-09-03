@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/graphic/GraphicalComposite.java.html" 
- , "texte" : "File src/jcckit/graphic/GraphicalComposite.java 11 rule violations " 
+ , "texte" : "File src/jcckit/graphic/GraphicalComposite.java 13 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -129,8 +129,22 @@ var maDataBlocs = {
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
  , "c2" : "QC-JAV999993"
  , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -225,6 +239,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#104"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00104] In method jcckit.graphic.GraphicalComposite.renderWith@POLYN167495 the MagicNumber/String  ' does not implements GraphicalCompositeRenderer.' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#81"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00081] Valued method throwNullPointerException is empty or contains only a return. Interface segregation for GraphicalElement"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00081"
+ , "c1link" : "./qc/src/jcckit/graphic/GraphicalComposite.java.html#81"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00081] In the class GraphicalComposite which implements the interface(s) GraphicalElement, the method throwNullPointerException is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedGraphicalElement"
 }} 
 ,
 { "ligne" : {"" : ""

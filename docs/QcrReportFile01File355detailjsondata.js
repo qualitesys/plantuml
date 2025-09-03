@@ -289,8 +289,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -517,14 +517,14 @@ var maDataBlocs = {
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#148"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00148] Void method makeDiagramReady is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00148] Valued method makeDiagramReady is empty or contains only a return. Interface segregation for Diagram"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00148"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AbstractPSystem.java.html#148"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00148] Void method makeDiagramReady is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00148] In the class AbstractPSystem which implements the interface(s) Diagram, the method makeDiagramReady is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedDiagram"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java 3 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java 7 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -92,6 +92,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -126,6 +140,34 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#65"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00065] In method net.sourceforge.plantuml.tim.stdlib.SimpleReturnFunction.isUnquoted@POLYN161551 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00054] Valued method executeProcedure is empty or contains only a return. Interface segregation for TFunction"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00054] In the class SimpleReturnFunction which implements the interface(s) TFunction, the method executeProcedure is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTFunction"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#59"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00059] Valued method executeProcedureInternal is empty or contains only a return. Interface segregation for TFunction"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00059"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/SimpleReturnFunction.java.html#59"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00059] In the class SimpleReturnFunction which implements the interface(s) TFunction, the method executeProcedureInternal is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTFunction"
 }} 
 ]
 , 

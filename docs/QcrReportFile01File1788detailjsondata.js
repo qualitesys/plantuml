@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/real/RealMiddle.java 10 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/real/RealMiddle.java 14 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -128,6 +128,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "2"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -218,6 +232,34 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#73"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00073] In method net.sourceforge.plantuml.real.RealMiddle.getName@POLYN162581 the MagicNumber/String  ']' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#68"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00068] Valued method ensureBiggerThan is empty or contains only a return. Interface segregation for Real"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00068"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#68"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00068] In the class RealMiddle which implements the interface(s) Real, the method ensureBiggerThan is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedReal"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#76"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00076] Valued method printCreationStackTrace is empty or contains only a return. Interface segregation for Real"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00076"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMiddle.java.html#76"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00076] In the class RealMiddle which implements the interface(s) Real, the method printCreationStackTrace is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedReal"
 }} 
 ]
 , 

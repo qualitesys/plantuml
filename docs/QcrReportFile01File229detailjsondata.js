@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_deque_t.java.html" 
- , "texte" : "File src/h/ST_deque_t.java 8 rule violations " 
+ , "texte" : "File src/h/ST_deque_t.java 9 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -73,6 +73,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
@@ -150,6 +157,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_deque_t.java.html#70"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00070] In method h.ST_deque_t.realloc@POLYN166049 the MagicNumber/String  true should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/h/ST_deque_t.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00054] Valued method pnlpn is empty or contains only a return."
 }} 
 ]
 , 

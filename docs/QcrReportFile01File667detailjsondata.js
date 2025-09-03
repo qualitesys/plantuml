@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java 6 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java 8 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -128,6 +128,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -183,6 +197,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#94"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00094] In method net.sourceforge.plantuml.activitydiagram3.gtile.GAbstractConnection.skinParam@POLYN167562 the MagicNumber/String  'wip' should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#85"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00085] Valued method drawTranslate is empty or contains only a return. Interface segregation for GConnection"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00085"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/activitydiagram3/gtile/GAbstractConnection.java.html#85"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00085] In the class GAbstractConnection which implements the interface(s) GConnection, the method drawTranslate is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedGConnection"
 }} 
 ]
 , 

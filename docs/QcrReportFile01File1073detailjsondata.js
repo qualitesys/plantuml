@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java 6 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java 8 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -146,6 +146,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -208,6 +222,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#98"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00098] For method setJson arguments JsonValue  json"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00054] Valued method muteClassToObject is empty or contains only a return. Interface segregation for Bodier"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00054"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/BodierJSon.java.html#54"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00054] In the class BodierJSon which implements the interface(s) Bodier, the method muteClassToObject is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedBodier"
 }} 
 ]
 , 

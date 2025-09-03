@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/renderer/Transformation.java.html" 
- , "texte" : "File src/jcckit/renderer/Transformation.java 17 rule violations " 
+ , "texte" : "File src/jcckit/renderer/Transformation.java 18 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -135,6 +135,13 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
@@ -275,6 +282,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#101"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00101] For method apply arguments Graphics2D  g"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00039"
+ , "c1link" : "./qc/src/jcckit/renderer/Transformation.java.html#39"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00039] Valued method _scale is empty or contains only a return."
 }} 
 ]
 , 

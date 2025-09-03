@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/AnimatedGifEncoder.java 325 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/AnimatedGifEncoder.java 326 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -438,6 +438,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "7"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -2757,6 +2764,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1310"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[01310] In method net.sourceforge.plantuml.LZWEncoder.output@POLYN378388 the MagicNumber/String  8 should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "01034"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/AnimatedGifEncoder.java.html#1034"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[01034] Valued method imgW is empty or contains only a return."
 }} 
 ]
 , 

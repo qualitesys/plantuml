@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java 32 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java 64 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -545,14 +545,14 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000004"
  , "c3" : "You must segregate your interface"
- , "c4" : "1"
+ , "c4" : "17"
 }}
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
- , "c4" : "1"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "17"
 }}
 ,
 { "ligne" : { "" : ""
@@ -782,17 +782,241 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00245"
- , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#245"
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#96"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00245] Void method setConcurrentSeparator is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00096] Valued method setDisplay is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00096"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#96"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00096] In the class GroupRoot which implements the interface(s) IGroup, the method setDisplay is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#125"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00125] Valued method setStereotype is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00125"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#125"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00125] In the class GroupRoot which implements the interface(s) IGroup, the method setStereotype is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#140"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00140] Valued method addUrl is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00140"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#140"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00140] In the class GroupRoot which implements the interface(s) IGroup, the method addUrl is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#172"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00172] Valued method moveEntitiesTo is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00172"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#172"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00172] In the class GroupRoot which implements the interface(s) IGroup, the method moveEntitiesTo is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#199"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00199] Valued method overrideImage is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00199"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#199"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00199] In the class GroupRoot which implements the interface(s) IGroup, the method overrideImage is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#215"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00215] Valued method setUSymbol is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00215"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#215"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00215] In the class GroupRoot which implements the interface(s) IGroup, the method setUSymbol is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00245"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#245"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00245] Void method setConcurrentSeparator is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAV000004[00245] Valued method setConcurrentSeparator is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00245"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#245"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00245] In the class GroupRoot which implements the interface(s) IGroup, the method setConcurrentSeparator is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#250"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00250] Valued method putTip is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00250"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#250"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00250] In the class GroupRoot which implements the interface(s) IGroup, the method putTip is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#270"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00270] Valued method setColors is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00270"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#270"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00270] In the class GroupRoot which implements the interface(s) IGroup, the method setColors is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#274"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00274] Valued method setSpecificColorTOBEREMOVED is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00274"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#274"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00274] In the class GroupRoot which implements the interface(s) IGroup, the method setSpecificColorTOBEREMOVED is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#278"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00278] Valued method setSpecificLineStroke is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00278"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#278"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00278] In the class GroupRoot which implements the interface(s) IGroup, the method setSpecificLineStroke is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#286"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00286] Valued method addStereotag is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00286"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#286"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00286] In the class GroupRoot which implements the interface(s) IGroup, the method addStereotag is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#295"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00295] Valued method setLegend is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00295"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#295"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00295] In the class GroupRoot which implements the interface(s) IGroup, the method setLegend is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00315"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#315"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00315] Valued method setThisIsTogether is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00315"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#315"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00315] In the class GroupRoot which implements the interface(s) IGroup, the method setThisIsTogether is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#325"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00325] Valued method setCodeLine is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00325"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#325"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00325] In the class GroupRoot which implements the interface(s) IGroup, the method setCodeLine is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#330"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00330] Valued method setStereostyle is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00330"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#330"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00330] In the class GroupRoot which implements the interface(s) IGroup, the method setStereostyle is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#340"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00340] Valued method addNote is empty or contains only a return. Interface segregation for IGroup"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00340"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/cucadiagram/GroupRoot.java.html#340"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00340] In the class GroupRoot which implements the interface(s) IGroup, the method addNote is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIGroup"
 }} 
 ]
 , 

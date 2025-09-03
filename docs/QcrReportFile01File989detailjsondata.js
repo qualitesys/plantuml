@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/command/regex/MatcherIterator.java 0 rule violation " 
+ , "texte" : "File src/net/sourceforge/plantuml/command/regex/MatcherIterator.java 2 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -88,6 +88,38 @@ var maDataBlocs = {
 ]
 , 
 "data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.html#57"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00057] Valued method remove is empty or contains only a return. Interface segregation for Iterator<String>"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00057"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/command/regex/MatcherIterator.java.html#57"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00057] In the class MatcherIterator which implements the interface(s) Iterator<String>, the method remove is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedIterator<String>"
+}} 
 ]
 , 
 "data15" : {

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/nwdiag/next/Staged.java 0 rule violation " 
+ , "texte" : "File src/net/sourceforge/plantuml/nwdiag/next/Staged.java 1 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -87,6 +87,24 @@ var maDataBlocs = {
 ]
 , 
 "data14" : [
+]
+, 
+"data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDI"
+ , "c3" : "The class does not respect the SOLID principle Interface Segregation"
+ , "c4" : "1"
+}}
+ ] 
+,
+"data13b" : [
+{ "ligne" : {"" : ""
+ , "c1" : "00037"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/nwdiag/next/Staged.java.html#37"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDI[00037] The interface Staged does not respect the SOLID Interface Segregation principle. Must contain only one method declaration"
+}} 
 ]
 , 
 "data15" : {

@@ -109,8 +109,8 @@ var maDataBlocs = {
 ,
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
- , "c2" : "QC-JAV000005"
- , "c3" : "Empty method"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
  , "c4" : "1"
 }}
 ,
@@ -176,14 +176,14 @@ var maDataBlocs = {
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000005[00062] Void method drawU is empty or contains only a return."
+ , "c3" : "QC-JAV000004[00062] Valued method drawU is empty or contains only a return. Interface segregation for Atom"
 }} 
 ,
 { "ligne" : {"" : ""
  , "c1" : "00062"
  , "c1link" : "./qc/src/net/sourceforge/plantuml/creole/atom/AtomSpace.java.html#62"
  , "c2" : "BLOCKER"
- , "c3" : "QC-JAV000004[00062] Void method drawU is empty or contains only a return. Interface segregation"
+ , "c3" : "QC-JAVSOLIDL[00062] In the class AtomSpace which implements the interface(s) Atom, the method drawU is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedAtom"
 }} 
 ]
 , 

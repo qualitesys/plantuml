@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/h/ST_spline_info_t.java.html" 
- , "texte" : "File src/h/ST_spline_info_t.java 2 rule violations " 
+ , "texte" : "File src/h/ST_spline_info_t.java 3 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -57,6 +57,13 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAVCWE493"
  , "c3" : "Critical public variable without final modifier"
@@ -77,6 +84,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/h/ST_spline_info_t.java.html#54"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAVCWE493[00054] Critical public variable without final modifier (see http://cwe.mitre.org/data/definitions/493.html)"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00053"
+ , "c1link" : "./qc/src/h/ST_spline_info_t.java.html#53"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00053] Valued method LeftBound is empty or contains only a return."
 }} 
 ]
 , 

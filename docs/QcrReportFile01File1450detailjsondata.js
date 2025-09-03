@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/json/JsonHandler.java 31 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/json/JsonHandler.java 47 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -230,6 +230,13 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
  , "c4" : "18"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
+ , "c4" : "16"
 }}
 ,
 { "ligne" : { "" : ""
@@ -463,6 +470,118 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00001] Public method endObjectValue is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method startNull is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endNull is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method startBoolean is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endBoolean is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method startString is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endString is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method startNumber is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endNumber is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endArray is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method startArrayValue is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endArrayValue is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endObject is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method startObjectName is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endObjectName is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method startObjectValue is empty or contains only a return."
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00001"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/json/JsonHandler.java.html#1"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00001] Valued method endObjectValue is empty or contains only a return."
 }} 
 ]
 , 

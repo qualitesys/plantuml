@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/logo/TinyJavaLogo.java 35 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/logo/TinyJavaLogo.java 36 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -103,6 +103,13 @@ var maDataBlocs = {
  , "c1" : "BLOCKER"
  , "c2" : "QC-JAV000003"
  , "c3" : "High risk of strong class coupling"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000005"
+ , "c3" : "Empty method"
  , "c4" : "1"
 }}
 ,
@@ -372,6 +379,13 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#224"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000003[00224] Public method doCommandLine is dealing with none of the public properties of the class. Risk of useless strong coupling"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00056"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/logo/TinyJavaLogo.java.html#56"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000005[00056] Valued method message is empty or contains only a return."
 }} 
 ]
 , 

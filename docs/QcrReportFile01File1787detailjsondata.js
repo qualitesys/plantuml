@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/real/RealMax.java 13 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/real/RealMax.java 15 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -128,6 +128,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
@@ -246,6 +260,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#93"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00093] For method ensureBiggerThan arguments Real  other"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#93"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00093] Valued method ensureBiggerThan is empty or contains only a return. Interface segregation for Real"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00093"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/real/RealMax.java.html#93"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00093] In the class RealMax which implements the interface(s) Real, the method ensureBiggerThan is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedReal"
 }} 
 ]
 , 

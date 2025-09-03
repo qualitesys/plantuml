@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/posimo/Block.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/posimo/Block.java 9 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/posimo/Block.java 11 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -164,6 +164,20 @@ var maDataBlocs = {
 , 
 "data13a" : [
 { "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -240,6 +254,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Block.java.html#100"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00100] For method moveSvek arguments double  deltaX|double  deltaY"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Block.java.html#100"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00100] Valued method moveSvek is empty or contains only a return. Interface segregation for Clusterable"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00100"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/posimo/Block.java.html#100"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00100] In the class Block which implements the interface(s) Clusterable, the method moveSvek is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedClusterable"
 }} 
 ]
 , 

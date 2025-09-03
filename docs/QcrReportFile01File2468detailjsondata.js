@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html" 
- , "texte" : "File src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java 14 rule violations " 
+ , "texte" : "File src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java 16 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -118,6 +118,20 @@ var maDataBlocs = {
 ]
 , 
 "data13a" : [
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAV000004"
+ , "c3" : "You must segregate your interface"
+ , "c4" : "1"
+}}
+,
+{ "ligne" : { "" : ""
+ , "c1" : "BLOCKER"
+ , "c2" : "QC-JAVSOLIDL"
+ , "c3" : "The class does not respect the SOLID principle Liskov Substitution"
+ , "c4" : "1"
+}}
+,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
@@ -237,6 +251,20 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#88"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00088] In method net.sourceforge.plantuml.tim.stdlib.InvokeProcedure.isUnquoted@POLYN167651 the MagicNumber/String  false should be converted to const"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#65"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAV000004[00065] Valued method executeProcedure is empty or contains only a return. Interface segregation for TFunction"
+}} 
+,
+{ "ligne" : {"" : ""
+ , "c1" : "00065"
+ , "c1link" : "./qc/src/net/sourceforge/plantuml/tim/stdlib/InvokeProcedure.java.html#65"
+ , "c2" : "BLOCKER"
+ , "c3" : "QC-JAVSOLIDL[00065] In the class InvokeProcedure which implements the interface(s) TFunction, the method executeProcedure is empty or contains only a return or triggers an exception. The SOLID Liskov Segregation principle is not respectedTFunction"
 }} 
 ]
 , 
