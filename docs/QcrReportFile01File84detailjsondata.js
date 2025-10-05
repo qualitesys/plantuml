@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java 35 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java 33 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -138,13 +138,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "2"
 }}
  ] 
 ,
@@ -290,13 +283,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#105"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00105] For method decodeFormatInformation list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation doDecodeFormatInformationN177202"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00107"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#107"
  , "c2" : "MAJOR"
@@ -308,13 +294,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#117"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00117] For method doDecodeFormatInformation arguments int  maskedFormatInfo1|int  maskedFormatInfo2"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00117"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/FormatInformation.java.html#117"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00117] For method doDecodeFormatInformation list of called methods Object monObjet|int numBitsDifferingN178349|int numBitsDifferingN178740"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java 67 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java 63 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -138,23 +138,9 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "5"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "4"
-}}
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#32"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00032] For method scanOutline list of called methods Object monObjet|double fProjection_finalizeXN184650|double fProjection_finalizeXN184768|double fProjection_finalizeYN184877|double fProjection_finalizeYN184980"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00039"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#39"
@@ -174,13 +160,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#58"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00058] For method scanPolygon arguments ScanBuf  pScanBuf|Point3D[]  pPoints3D|Point2D[]  pPoints2D|int  pIndex"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00058"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#58"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00058] For method scanPolygon list of called methods Object monObjet|double lCurr_getXN186311|double getYMidPointN187000"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -272,13 +251,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#118"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00118] For method getYMidPoint arguments Point3D  pPrev|Point3D  pCurr"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00118"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#118"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00118] For method getYMidPoint list of called methods Object monObjet|double pPrev_getYN189437|double pPrev_getZN189575|double pCurr_getYN189732|double pCurr_getZN189806"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -398,13 +370,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#177"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00177] For method addEdgeToScanbuf arguments ScanBuf  pScanBuf|EdgeCrossing  from|EdgeCrossing  to"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00177"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapDefault.java.html#177"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00177] For method addEdgeToScanbuf list of called methods Object monObjet|double fProjection_finalizeXN192013|double fProjection_finalizeYN192129|double fProjection_finalizeXN192611|double fProjection_finalizeYN192712|double fProjection_finalizeXN192914|double fProjection_finalizeYN193024|double fProjection_finalizeXN193226|double fProjection_finalizeYN193336|double fProjection_finalizeXN193547|double fProjection_finalizeYN193648"
 }} 
 ,
 { "ligne" : {"" : ""

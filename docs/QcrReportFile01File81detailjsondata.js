@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java 18 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java 17 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -117,13 +117,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -132,13 +125,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#47"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00047] For method getDataBlocks arguments byte[]  rawCodewords|Version  version|ErrorCorrectionLevel  ecLevel"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00047"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/decoder/DataBlock.java.html#47"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00047] For method getDataBlocks list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.DataBlock[] version_getECBlocksForLevelN168858|ext.plantuml.com.google.zxing.qrcode.decoder.Version.ECB[] ecBlocks_getECBlocksN169027|int ecBlock_getDataCodewordsN169981|int ecBlocks_getECCodewordsPerBlockN170058"
 }} 
 ,
 { "ligne" : {"" : ""

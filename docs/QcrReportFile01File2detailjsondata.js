@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/ACearth.java 83 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/ACearth.java 81 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -151,13 +151,6 @@ var maDataBlocs = {
  , "c1" : "MINOR"
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
  , "c4" : "2"
 }}
  ] 
@@ -402,13 +395,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00231"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#231"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00231] For method computePositions list of called methods Object monObjet|int fConf_getIntN225692|ext.plantuml.com.ctreber.acearth.util.Coordinate fConf_getViewPosN226131|ext.plantuml.com.ctreber.acearth.util.Coordinate getSunRelativePositionN226319|ext.plantuml.com.ctreber.acearth.util.Coordinate getOrbitPositionN226499|ext.plantuml.com.ctreber.acearth.util.Coordinate getRandomPositionN226698|ext.plantuml.com.ctreber.acearth.util.Coordinate SunPositionCalculator_getMoonPositionOnEarthN226878|double fConf_getDoubleN227427"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00233"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#233"
  , "c2" : "MAJOR"
@@ -532,13 +518,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#265"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00265] In method ext.plantuml.com.ctreber.acearth.ACearth.computePositions@POLYN225415 the MagicNumber/String  'viewRotation' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00275"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/ACearth.java.html#275"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00275] For method getSunRelativePosition list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Coordinate fConf_getSunPosN227711"
 }} 
 ,
 { "ligne" : {"" : ""

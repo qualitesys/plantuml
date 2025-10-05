@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/MapDataReader.java 19 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/MapDataReader.java 18 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -101,13 +101,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "1"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -193,13 +186,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#75"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00075] In method ext.plantuml.com.ctreber.acearth.MapDataReader.readMapData@POLYN169674 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00078"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/MapDataReader.java.html#78"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00078] For method processCurve list of called methods Object monObjet|int getValueN171196|int getValueN171294"
 }} 
 ,
 { "ligne" : {"" : ""

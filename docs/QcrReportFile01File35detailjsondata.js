@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java 29 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java 28 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -200,13 +200,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "2"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -264,13 +257,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#52"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00052] In method ext.plantuml.com.ctreber.acearth.util.Coordinate.renderAsXML@POLYN168927 the MagicNumber/String  '&amp;lt;/Coordinate&amp;gt;\n' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/Coordinate.java.html#55"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00055] For method getPoint3D list of called methods Object monObjet|double Toolkit_degsToRadsN169476|double Toolkit_degsToRadsN169577"
 }} 
 ,
 { "ligne" : {"" : ""

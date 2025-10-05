@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/gen/lib/label/xlabels__c.java.html" 
- , "texte" : "File src/gen/lib/label/xlabels__c.java 432 rule violations " 
+ , "texte" : "File src/gen/lib/label/xlabels__c.java 431 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -324,13 +324,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "24"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
 }}
  ] 
 ,
@@ -1915,13 +1908,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00001] For method xlintersections_ arguments ST_XLabels_t  xlp|ST_object_t  objp|ST_object_t[]  intrsx"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/gen/lib/label/xlabels__c.java.html#1"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00001] For method xlintersections_ list of called methods Object monObjet|double aabbaabbN329213|double recordointrsxN329393|double aabbaabbN329984|double recordlintrsxN330164"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractionGrid.java 47 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/AbstractionGrid.java 46 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -186,13 +186,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
 }}
  ] 
 ,
@@ -405,13 +398,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#143"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00143] In method org.stathissideris.ascii2image.text.AbstractionGrid.getAsTextGrid@POLYN187337 the MagicNumber/String  '...as text grid:' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00150"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/AbstractionGrid.java.html#150"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00150] For method getDistinctShapes list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet grid_getAllNonBlankN188783|java.util.ArrayList nonBlank_breakIntoDistinctBoundariesN188860"
 }} 
 ,
 { "ligne" : {"" : ""

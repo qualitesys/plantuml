@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java 164 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java 158 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -263,13 +263,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "20"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "6"
-}}
  ] 
 ,
 "data13b" : [
@@ -313,13 +306,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#170"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00170] For method embedTypeInfo arguments ErrorCorrectionLevel  ecLevel|int  maskPattern|ByteMatrix  matrix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00170"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#170"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00170] For method embedTypeInfo list of called methods Object monObjet|boolean typeInfoBits_getN245726|int matrix_getWidthN246302|int matrix_getHeightN246677"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -409,13 +395,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00201"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#201"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00201] For method maybeEmbedVersionInfo list of called methods Object monObjet|boolean versionInfoBits_getN247764"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00201"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#201"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00201] The argument matrix is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -495,13 +474,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#225"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00225] For method embedDataBits arguments BitArray  dataBits|int  maskPattern|ByteMatrix  matrix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#225"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00225] For method embedDataBits list of called methods Object monObjet|int matrix_getWidthN248522|int matrix_getHeightN248623|boolean dataBits_getN249598"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -659,13 +631,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00311"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#311"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00311] For method calculateBCHCode list of called methods Object monObjet|int findMSBSetN251152"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00317"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#317"
  , "c2" : "MAJOR"
@@ -677,13 +642,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#329"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00329] For method makeTypeInfoBits arguments ErrorCorrectionLevel  ecLevel|int  maskPattern|BitArray  bits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00329"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#329"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00329] For method makeTypeInfoBits list of called methods Object monObjet|int calculateBCHCodeN252150"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -754,13 +712,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#351"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00351] For method makeVersionInfoBits arguments int  version|BitArray  bits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00351"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/MatrixUtil.java.html#351"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00351] For method makeVersionInfoBits list of called methods Object monObjet|int calculateBCHCodeN253008"
 }} 
 ,
 { "ligne" : {"" : ""

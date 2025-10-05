@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java 39 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java 27 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -90,35 +90,12 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
-{ "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "11"
-}}
-,
 { "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "3"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -324,90 +301,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#90"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00090] In method ext.plantuml.com.ctreber.aclib.sort.QuickSort.insertionSort@POLYN163858 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00025"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#25"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00025] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 4 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00032"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#32"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00032] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00033"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#33"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00033] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#37"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00037] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00041"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#41"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00041] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00046"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#46"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00046] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00050"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#50"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00050] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String true MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00052"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#52"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00052] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00055"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#55"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00055] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 0 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00064"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#64"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00064] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 1 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00066"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/aclib/sort/QuickSort.java.html#66"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00066] In the recursive method ext.plantuml.com.ctreber.aclib.sort.QuickSort.qsort@POLYN160634 the MagicNumber/String 1 MUST BE CONVERTED to const"
 }} 
 ]
 , 

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html" 
- , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java 206 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java 198 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -279,13 +279,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "21"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "8"
-}}
  ] 
 ,
 "data13b" : [
@@ -294,13 +287,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#57"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00057] For method calculateMaskPenalty arguments ByteMatrix  matrix"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00057] For method calculateMaskPenalty list of called methods Object monObjet|int MaskUtil_applyMaskPenaltyRule1N247796|int MaskUtil_applyMaskPenaltyRule2N247889|int MaskUtil_applyMaskPenaltyRule3N247982|int MaskUtil_applyMaskPenaltyRule4N248075"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -329,13 +315,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#82"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00082] For method encode arguments String  content|ErrorCorrectionLevel  ecLevel|Hashtable  hints|QRCode  qrCode"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00082"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#82"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00082] For method encode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Mode chooseModeN249368|int dataBits_getSizeInBytesN249683|ext.plantuml.com.google.zxing.common.CharacterSetECI CharacterSetECI_getCharacterSetECIByNameN250114"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -612,13 +591,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00204"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#204"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00204] For method chooseMaskPattern list of called methods Object monObjet|int calculateMaskPenaltyN255955"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00208"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#208"
  , "c2" : "MAJOR"
@@ -637,13 +609,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#225"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00225] For method initQRCode arguments int  numInputBytes|ErrorCorrectionLevel  ecLevel|Mode  mode|QRCode  qrCode"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00225"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#225"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00225] For method initQRCode list of called methods Object monObjet|ext.plantuml.com.google.zxing.qrcode.decoder.Version Version_getVersionForNumberN256828|int version_getTotalCodewordsN256924|int ecBlocks_getTotalECCodewordsN257105|int ecBlocks_getNumBlocksN257182"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -700,13 +665,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#264"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00264] For method terminateBits arguments int  numDataBytes|BitArray  bits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00264"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#264"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00264] For method terminateBits list of called methods Object monObjet|int bits_getSizeN258783"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -917,13 +875,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#349"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00349] For method interleaveWithECBytes arguments BitArray  bits|int  numTotalBytes|int  numDataBytes|int  numRSBlocks|BitArray  result"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00349"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#349"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00349] For method interleaveWithECBytes list of called methods Object monObjet|byte[] generateECBytesN263784"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1188,13 +1139,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00437"
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#437"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00437] For method appendLengthInfo list of called methods Object monObjet|int mode_getCharacterCountBitsN267945"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00437"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#437"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00437] The argument mode is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -1414,13 +1358,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#488"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00488] For method appendAlphanumericBytes arguments String  content|BitArray  bits"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00488"
- , "c1link" : "./qc/src/ext/plantuml/com/google/zxing/qrcode/encoder/Encoder.java.html#488"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00488] For method appendAlphanumericBytes list of called methods Object monObjet|int getAlphanumericCodeN271612|int getAlphanumericCodeN271971"
 }} 
 ,
 { "ligne" : {"" : ""

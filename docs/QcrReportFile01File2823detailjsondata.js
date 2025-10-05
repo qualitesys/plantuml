@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java 96 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java 92 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -188,13 +188,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "8"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "4"
-}}
  ] 
 ,
 "data13b" : [
@@ -224,13 +217,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#57"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00057] For method createOpenFromBoundaryCells arguments TextGrid  grid|CellSet  boundaryCells|int  cellWidth|int  cellHeight|boolean  allRound"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00057"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#57"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00057] For method createOpenFromBoundaryCells list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN199176"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -315,13 +301,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#105"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00105] For method growEdgesFromCell arguments TextGrid  workGrid|int  cellWidth|int  cellHeight|boolean  allRound|TextGrid.Cell  cell|TextGrid.Cell  previousCell|CellSet  visitedCells"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00105"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#105"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00105] For method growEdgesFromCell list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN202473"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -483,13 +462,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#150"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00150] In method org.stathissideris.ascii2image.graphics.CompositeDiagramShape.growEdgesFromCell@POLYN200064 the MagicNumber/String  'finished shape' should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00167"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#167"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00167] For method connectLines list of called methods Object monObjet|org.stathissideris.ascii2image.graphics.ShapePoint line1_getPointN205126|org.stathissideris.ascii2image.graphics.ShapePoint line1_getPointN205221|org.stathissideris.ascii2image.graphics.ShapePoint line2_getPointN205316|org.stathissideris.ascii2image.graphics.ShapePoint line1_getPointN205584|org.stathissideris.ascii2image.graphics.ShapePoint line1_getPointN205679|org.stathissideris.ascii2image.graphics.ShapePoint line2_getPointN205774|org.stathissideris.ascii2image.graphics.ShapePoint line1_getPointN206042|org.stathissideris.ascii2image.graphics.ShapePoint line1_getPointN206137|org.stathissideris.ascii2image.graphics.ShapePoint line2_getPointN206232|org.stathissideris.ascii2image.graphics.ShapePoint line1_getPointN206500|org.stathissideris.ascii2image.graphics.ShapePoint line1_getPointN206595|org.stathissideris.ascii2image.graphics.ShapePoint line2_getPointN206690"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -840,13 +812,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#303"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00303] For method scale arguments float  factor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00303"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/CompositeDiagramShape.java.html#303"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00303] For method scale list of called methods Object monObjet|java.util.Iterator getShapesIteratorN212017"
 }} 
 ,
 { "ligne" : {"" : ""

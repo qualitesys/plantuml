@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/debug/Purify.java.html" 
- , "texte" : "File src/smetana/core/debug/Purify.java 65 rule violations " 
+ , "texte" : "File src/smetana/core/debug/Purify.java 63 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -225,13 +225,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "2"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "INFO"
  , "c2" : "QC-JAV000019"
  , "c3" : "Lock statement"
@@ -362,13 +355,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00111"
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#111"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00111] For method recordMe list of called methods Object monObjet|java.lang.reflect.Method getTheMethodN187922|java.lang.reflect.Method getTheMethodN188181"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00111"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#111"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00111] The argument methodNameDeclared is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -476,13 +462,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#155"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00155] In method smetana.core.debug.Purify.getTheMethod@POLYN189195 the MagicNumber/String  0 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00163"
- , "c1link" : "./qc/src/smetana/core/debug/Purify.java.html#163"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00163] For method printMe list of called methods Object monObjet|java.lang.String getReviewedWhenN190558|java.lang.String getVersionN190651|java.lang.String getPathN190744"
 }} 
 ,
 { "ligne" : {"" : ""

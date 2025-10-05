@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/graphics/Diagram.java 330 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/graphics/Diagram.java 306 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -323,15 +323,6 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
@@ -341,24 +332,10 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "BLOCKER"
- , "c2" : "QC-JAV999993"
- , "c3" : "In the recursive method xxx the Magic Number / String must be converted to const"
- , "c4" : "20"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "CRITICAL"
  , "c2" : "QC-JAVCWE476"
  , "c3" : "Null pointer reference"
  , "c4" : "11"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
 }}
 ,
 { "ligne" : { "" : ""
@@ -380,13 +357,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "18"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "3"
 }}
  ] 
 ,
@@ -1808,13 +1778,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00651"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00651] For method removeObsoleteShapes list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet set_getFilledEquivalentN329508|boolean common_iteratorN331114|boolean common_iteratorN332061"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00651"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#651"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00651] The argument sets is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -2179,13 +2142,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00785"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#785"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00785] For method separateCommonEdges list of called methods Object monObjet|float getMinimumOfCellDimensionN335342"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00785"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#785"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00785] The argument shapes is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -2286,13 +2242,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#803"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000010[00803] In method org.stathissideris.ascii2image.graphics.Diagram.separateCommonEdges@POLYN335247 the MagicNumber/String  1 should be converted to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00838"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#838"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00838] For method removeDuplicateShapes list of called methods Object monObjet|java.util.Iterator getShapesIteratorN338027"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -2552,153 +2501,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#49"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000005[00049] Valued method cellWidth is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00653"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#653"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00653] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String '******* Removing obsolete shapes *******' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00655"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#655"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00655] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String false MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00662"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#662"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00662] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String '******* Sets before *******' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00675"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#675"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00675] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String null MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00676"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#676"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00676] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String false MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00686"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#686"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00686] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String '*** Deciding if the following should be removed:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00701"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#701"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00701] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00714"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#714"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00714] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 'Largest:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00722"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#722"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00722] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00722"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#722"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00722] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00728"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#728"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00728] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 'One of smalls:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00731"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#731"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00731] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String '*' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00734"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#734"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00734] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 'Sum of smalls:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00737"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#737"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00737] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00737"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#737"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00737] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 2 MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00738"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#738"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00738] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String '*' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00745"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#745"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00745] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 'Decided to remove set:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00749"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#749"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00749] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String 'This set WILL NOT be removed:' MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00765"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#765"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00765] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String true MUST BE CONVERTED to const"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00770"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/graphics/Diagram.java.html#770"
- , "c2" : "BLOCKER"
- , "c3" : "QC-JAV999993[00770] In the recursive method org.stathissideris.ascii2image.graphics.Diagram.removeObsoleteShapes@POLYN328379 the MagicNumber/String '******* Sets after *******' MUST BE CONVERTED to const"
 }} 
 ]
 , 

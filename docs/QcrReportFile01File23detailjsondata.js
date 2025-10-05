@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java 44 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java 41 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -138,13 +138,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "5"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "3"
-}}
  ] 
 ,
 "data13b" : [
@@ -200,13 +193,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00037"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#37"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00037] For method addArcToScanbuf list of called methods Object monObjet|double fProjection_finalizeXN177351|double fProjection_finalizeYN177447|double fProjection_finalizeXN178295|double fProjection_finalizeYN178388|double fProjection_finalizeXN179218|double fProjection_finalizeYN179311"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00037"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#37"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00037] The argument pScanBuf is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -244,13 +230,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#84"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00084] For method scanPolygon arguments ScanBuf  pScanBuf|Point3D[]  pPoints3D|Point2D[]  pPoints2D|int  pIndex"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00084"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#84"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00084] For method scanPolygon list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Point3D findEdgeCrossingN180307|ext.plantuml.com.ctreber.acearth.util.Point3D findEdgeCrossingN180918"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -321,13 +300,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#122"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00122] For method findEdgeCrossing arguments Point3D  pPrev|Point3D  pCurr"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/scanbit/BitGeneratorMapOrtho.java.html#122"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00122] For method findEdgeCrossing list of called methods Object monObjet|double pCurr_getZN181899|double pCurr_getXN182087|double pCurr_getYN182297"
 }} 
 ,
 { "ligne" : {"" : ""

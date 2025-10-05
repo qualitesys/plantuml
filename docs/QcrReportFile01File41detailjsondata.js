@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java 74 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java 69 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -139,13 +139,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "8"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "5"
-}}
  ] 
 ,
 "data13b" : [
@@ -154,13 +147,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#68"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00068] For method getMeanSunLongitude arguments double  pDays"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00068"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#68"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00068] For method getMeanSunLongitude list of called methods Object monObjet|double Toolkit_fmodN196299"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -189,13 +175,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#96"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00096] For method getSunEclipticLongitude arguments long  pMillis"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#96"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00096] For method getSunEclipticLongitude list of called methods Object monObjet|double daysSinceEpochN197090|double getMeanSunLongitudeN197183|double doKeplerN197276"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -374,13 +353,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00173"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#173"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00173] For method getGST list of called methods Object monObjet|double getJulianDateN200745|double Toolkit_fmodN201388|double Toolkit_fmodN202056"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00175"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#175"
  , "c2" : "MAJOR"
@@ -514,13 +486,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00212"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#212"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00212] For method getSunPositionOnEarth list of called methods Object monObjet|ext.plantuml.com.ctreber.acearth.util.Coordinate lSunPosEc_eclipticToEquatorialN202805|double Toolkit_limitRadsN202887"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00214"
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#214"
  , "c2" : "MAJOR"
@@ -539,13 +504,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#232"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00232] For method getMoonPositionOnEarth arguments long  pMillis"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00232"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/util/SunPositionCalculator.java.html#232"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00232] For method getMoonPositionOnEarth list of called methods Object monObjet|double daysSinceEpochN203674|double getSunEclipticLongitudeN203762|double getMeanSunLongitudeN203855|double Toolkit_limitRadsN203943|double Toolkit_limitRadsN204200|double Toolkit_limitRadsN204403|double Toolkit_degsToRadsN204589|double Toolkit_degsToRadsN204843|double Toolkit_degsToRadsN205207|double Toolkit_degsToRadsN205609|double Toolkit_degsToRadsN205833|double Toolkit_limitRadsN206043|double Toolkit_limitRadsN207097"
 }} 
 ,
 { "ligne" : {"" : ""

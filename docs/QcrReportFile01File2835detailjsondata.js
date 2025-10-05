@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html" 
- , "texte" : "File src/org/stathissideris/ascii2image/text/CellSet.java 208 rule violations " 
+ , "texte" : "File src/org/stathissideris/ascii2image/text/CellSet.java 198 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -451,13 +451,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "22"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "10"
-}}
  ] 
 ,
 "data13b" : [
@@ -555,13 +548,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00121"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#121"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00121] For method copyCellSet list of called methods Object monObjet|java.util.Iterator&lt;org.stathissideris.ascii2image.text.TextGrid.Cell&gt; set_iteratorN250525"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00121"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#121"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00121] The argument set is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -595,13 +581,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00141"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#141"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00141] For method getType list of called methods Object monObjet|int getTypeAccordingToTraceMethodN251562|int getTypeAccordingToFillMethodN252198"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00143"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#143"
  , "c2" : "MAJOR"
@@ -627,13 +606,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#179"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00179] For method getTypeAccordingToTraceMethod arguments TextGrid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00179"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#179"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00179] For method getTypeAccordingToTraceMethod list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid TextGrid_makeSameSizeAsN252873|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN253848|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN254496"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -795,13 +767,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#253"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00253] For method getTypeAccordingToFillMethod arguments TextGrid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00253"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#253"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00253] For method getTypeAccordingToFillMethod list of called methods Object monObjet|org.stathissideris.ascii2image.text.CellSet copyCellSetN255947|org.stathissideris.ascii2image.text.TextGrid grid_getSubGridN256228|org.stathissideris.ascii2image.text.TextGrid abstraction_getCopyOfInternalBufferN256651|int temp_getWidthN256862|int temp_getHeightN256939"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1092,13 +1057,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00347"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#347"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00347] For method getFilledEquivalent list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell cell_getEastN262349"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00349"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#349"
  , "c2" : "MAJOR"
@@ -1255,13 +1213,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00407"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#407"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00407] For method appendSet list of called methods Object monObjet|java.util.Iterator&lt;org.stathissideris.ascii2image.text.TextGrid.Cell&gt; set_iteratorN264385"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00407"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#407"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00407] The argument set is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -1299,13 +1250,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#416"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00416] For method subtractSet arguments CellSet  set"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00416"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#416"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00416] For method subtractSet list of called methods Object monObjet|java.util.Iterator&lt;org.stathissideris.ascii2image.text.TextGrid.Cell&gt; set_iteratorN264917|org.stathissideris.ascii2image.text.TextGrid.Cell findN265183"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -1428,13 +1372,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00477"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#477"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00477] For method remove list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid.Cell findN267903"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00478"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#478"
  , "c2" : "MAJOR"
@@ -1547,13 +1484,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00515"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#515"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00515] For method breakIntoDistinctBoundaries list of called methods Object monObjet|java.util.ArrayList temp_getDistinctShapesN269670"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00544"
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#544"
  , "c2" : "MAJOR"
@@ -1607,13 +1537,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#582"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00582] For method breakTrulyMixedBoundaries arguments TextGrid  grid"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00582"
- , "c1link" : "./qc/src/org/stathissideris/ascii2image/text/CellSet.java.html#582"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00582] For method breakTrulyMixedBoundaries list of called methods Object monObjet|org.stathissideris.ascii2image.text.TextGrid TextGrid_makeSameSizeAsN271602|java.util.ArrayList iteratorN271974|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN272913|org.stathissideris.ascii2image.text.CellSet workGrid_followCellN273801"
 }} 
 ,
 { "ligne" : {"" : ""

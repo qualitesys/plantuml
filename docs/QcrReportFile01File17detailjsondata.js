@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html" 
- , "texte" : "File src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java 14 rule violations " 
+ , "texte" : "File src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java 13 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -153,13 +153,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "5"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -175,13 +168,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#32"
  , "c2" : "MAJOR"
  , "c3" : "QC-JAV000001[00032] Avoid declaring class instance within loop, performance impact"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00038"
- , "c1link" : "./qc/src/ext/plantuml/com/ctreber/acearth/renderer/Renderer.java.html#38"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00038] For method renderRows list of called methods Object monObjet|int[] getPixelTypesN160225"
 }} 
 ,
 { "ligne" : {"" : ""
