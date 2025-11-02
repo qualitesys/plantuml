@@ -147,12 +147,12 @@ var mesDatas = {
 , { "classe" : "ext.plantuml.com.google.zxing.common.StringUtils", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "ext.plantuml.com.google.zxing.common.reedsolomon.GF256", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly | ext.plantuml.com.google.zxing.common.reedsolomon.GF256"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder | ext.plantuml.com.google.zxing.common.reedsolomon.GF256 | ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonException", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -266,7 +266,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "gen.lib.cgraph.apply__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "gen.lib.cgraph.attr__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "gen.lib.cgraph.attr__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "gen.lib.cgraph.edge__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -300,7 +300,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "gen.lib.common.htmltable__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "gen.lib.common.input__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "gen.lib.common.input__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "gen.lib.common.labels__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -312,7 +312,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "gen.lib.common.routespl__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "gen.lib.common.shapes__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "gen.lib.common.shapes__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "gen.lib.common.splines__c", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -402,13 +402,13 @@ var mesDatas = {
 ]} 
 , { "classe" : "h.SHAPE_INFO", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agattr_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agattr_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_Agcbstack_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_Agclos_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agdatadict_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 20 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agdatadict_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_Agdesc_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -416,11 +416,11 @@ var mesDatas = {
 ]} 
 , { "classe" : "h.ST_Agdstate_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agedge_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 25 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agedge_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 45 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agedgeinfo_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agedgeinfo_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agedgepair_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agedgepair_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_Agiddisc_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -429,21 +429,21 @@ var mesDatas = {
 , { "classe" : "h.ST_Agmemdisc_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_Agnode_s", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "h.ST_Agsubnode_s | h.ST_Agnode_s"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agnodeinfo_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agnodeinfo_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agobj_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agobj_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agraph_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agraph_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agraphinfo_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agraphinfo_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agrec_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agrec_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agsubnode_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agsubnode_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_Agsym_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_Agsym_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_Agtag_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -453,11 +453,11 @@ var mesDatas = {
 ]} 
 , { "classe" : "h.ST_GVCOMMON_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_GVC_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 20 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_GVC_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_HDict_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_IMapEntry_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_IMapEntry_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_LeafList_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -475,17 +475,17 @@ var mesDatas = {
 ]} 
 , { "classe" : "h.ST_Rect_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_STheap_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_STheap_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_SplitQ_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_XLabels_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_XLabels_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_adjmatrix_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_arrowdir_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_arrowname_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_arrowname_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_arrowtype_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -493,11 +493,11 @@ var mesDatas = {
 ]} 
 , { "classe" : "h.ST_bezier", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_blk_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 25 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_blk_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 45 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_boxf", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_cinfo_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_cinfo_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_deque_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -513,38 +513,38 @@ var mesDatas = {
 ]} 
 , { "classe" : "h.ST_dtmethod_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_elist", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_elist", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_field_t", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "h.ST_field_t"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_fontinfo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_fontinfo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_gvlayout_engine_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_gvlayout_features_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_gvplugin_active_layout_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_gvplugin_active_layout_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_gvplugin_available_s", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_gvplugin_installed_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_gvplugin_installed_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_inside_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 25 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_inside_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 45 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_label_params_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_layout_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_layout_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_nlist_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 25 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_nlist_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 45 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_nodequeue", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 25 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_nodequeue", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 45 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_object_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_object_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_pack_info", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_path", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 26 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_path", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 46 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_pathend_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -556,14 +556,14 @@ var mesDatas = {
 ]} 
 , { "classe" : "h.ST_polygon_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_port", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_port", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_rank_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 25 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_rank_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 45 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_refstr_t", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "h.ST_shape_desc | smetana.core.CString | h.ST_refstr_t"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_shape_desc", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_shape_desc", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_shape_functions", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -573,25 +573,25 @@ var mesDatas = {
 ]} 
 , { "classe" : "h.ST_splines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_stk_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 26 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_stk_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 46 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_subtree_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 25 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_subtree_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 45 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_tedge_t", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "h.ST_triangle_t | h.ST_tedge_t"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_textfont_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_textfont_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_textlabel_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_textlabel_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_textspan_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_textspan_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_tna_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "h.ST_triangle_t", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "h.ST_tedge_t | h.ST_triangle_t"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "h.ST_xlabel_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "h.ST_xlabel_t", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "java.applet.Applet", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -1494,7 +1494,7 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.SingleLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.SkinParam", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.wbs.Fork | net.sourceforge.plantuml.wbs.WBSTextBlock | net.sourceforge.plantuml.style.StyleBuilder | net.sourceforge.plantuml.SkinParam"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 58 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 118 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.SkinParamBackcolored", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -1550,9 +1550,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.TikzFontDistortion", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.TitledDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 59 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.TitledDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 119 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.UmlDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.UmlDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.UmlDiagramType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -1569,31 +1569,31 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.acearth.PSystemXearthFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 6 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.ActivityDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 89 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.ActivityDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 179 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.activitydiagram.ActivityDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.activitydiagram.ConditionalContext", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandElse", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 80 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandElse", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 170 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndPartition", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndif", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandEndif", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandIf", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandIf", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandInnerConcurrent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandInnerConcurrent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandLinkActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandLinkActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandLinkLongActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandLinkLongActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandPartition", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram.command.CommandPartition", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.activitydiagram3.AbstractInstruction", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.activitydiagram3.ActivityDiagramFactory3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -1647,95 +1647,95 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.activitydiagram3.WithNote", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivity3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLegacy1", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandActivityLong3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandArrow3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandArrow3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandArrowLong3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandArrowLong3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandBackward3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandBackward3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandBackwardLong3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandBackwardLong3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandBreak", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandBreak", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandCase", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandCase", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandCircleSpot3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElse3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElse3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElseIf2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElseIf2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandElseLegacy1", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEndPartition3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEndPartition3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEndSwitch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEndif3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandEndif3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandFork3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandFork3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandForkAgain3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandForkAgain3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandForkEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandForkEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandGoto", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandGoto", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandGroupEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandGroupEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIf2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIf2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIf4", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIf4", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandIfLegacy1", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandKill3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandKill3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandLabel", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandLabel", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandLink3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandLink3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandNolink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandNolink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandNote3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandNote3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandNoteLong3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandPartition3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandRepeat3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandRepeat3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandRepeatWhile3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandRepeatWhile3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandRepeatWhile3Multilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandRepeatWhile3Multilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSplit3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSplit3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSplitAgain3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSplitAgain3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSplitEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandStart3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandStart3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandStop3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandStop3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSwimlane2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSwitch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandSwitch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandWhile3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandWhile3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandWhileEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.activitydiagram3.command.CommandWhileEnd3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.activitydiagram3.ftile.AbstractConnection", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -2360,7 +2360,7 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.awt.geom.XRectangle2D", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.board.Activity", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.board.BoardDiagram | net.sourceforge.plantuml.board.Activity"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.board.BArray", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -2368,13 +2368,13 @@ var mesDatas = {
 ,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.board.BoardDiagram", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.board.Activity | net.sourceforge.plantuml.board.BoardDiagram"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.board.BoardDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.board.CardBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.board.CommandBoardPlus", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.board.CommandBoardPlus", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.board.PostIt", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -2382,7 +2382,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.bpm.BpmBranch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.bpm.BpmDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.bpm.BpmDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.bpm.BpmDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -2412,19 +2412,19 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.bpm.Col", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.bpm.CommandDockedEvent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.bpm.CommandDockedEvent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.bpm.CommandElseBranch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.bpm.CommandElseBranch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.bpm.CommandEndBranch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.bpm.CommandEndBranch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.bpm.CommandGoto", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.bpm.CommandGoto", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.bpm.CommandMerge", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.bpm.CommandMerge", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.bpm.CommandNewBranch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.bpm.CommandNewBranch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.bpm.CommandResume", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.bpm.CommandResume", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.bpm.ConnectorPuzzle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -2500,9 +2500,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.brotli.Utils", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.AbstractEntityDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 93 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.AbstractEntityDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 183 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.ClassDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 85 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.ClassDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 175 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.classdiagram.ClassDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -2510,41 +2510,41 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.classdiagram.RowLayout", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandAddMethod", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandAddMethod", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandAllowMixing", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandCreateClass", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandCreateClass", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandCreateClassMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandCreateClassMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandCreateElementFull2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandCreateElementFull2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandCreateElementFull2.Mode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandDiamondAssociation", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShow2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 89 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShow2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 179 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowByGender", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowByGender", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowByVisibility", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 89 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandHideShowSpecificClass", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 179 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandLayoutNewLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandLinkClass", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 85 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandLinkLollipop", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 175 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 89 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandNamespaceSeparator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 179 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 89 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandRemoveRestore", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 179 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandStereotype", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandStereotype", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandUrl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 84 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.classdiagram.command.CommandUrl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 174 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.classdiagram.command.GenericRegexProducer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -2622,35 +2622,35 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.Command", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandAffineTransform", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandAffineTransform", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandAffineTransformMultiline", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandAffineTransformMultiline", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandAssumeTransparent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandAssumeTransparent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandCaption", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandCaption", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandControl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandDecoratorMultine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandEndPackage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandEndPackage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandExecutionResult", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandFactorySprite", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandFootboxIgnored", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandFootboxIgnored", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandFooter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandFooter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandLegend", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandLegend", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandMainframe", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandMainframe", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandMinwidth", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandMinwidth", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -2660,37 +2660,37 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesBracket", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesCaption", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesCaption", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesComment", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesFooter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesFooter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesLegend", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesLegend", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesTitle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandMultilinesTitle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandNamespace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandNamespace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandNamespace2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandNamespace2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandNamespaceEmpty", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandNamespaceEmpty", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandNope", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandPackage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandPackage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandPackageEmpty", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandPackageEmpty", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandPage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandPragma", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandPragma", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandRankDir", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandRankDir", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandRotate", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandRotate", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandScale", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
@@ -2704,17 +2704,17 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommandScaleWidthOrHeight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandSkinParam", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandSkinParam", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandSkinParamMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandSkinParamMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandSpriteFile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandSpriteFile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandSpriteSvg", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandSpriteSvg", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandSpriteSvgMultiline", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandSpriteSvgMultiline", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.CommandTitle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.CommandTitle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.CommonCommands", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -2736,9 +2736,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.SingleLineCommand2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.SkinLoader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.SkinLoader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.command.note.CommandConstraintOnLinks", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 89 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.command.note.CommandConstraintOnLinks", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 179 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.note.CommandFactoryNote", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -2789,17 +2789,17 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.command.regex.RegexResult", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.compositediagram.CompositeDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.compositediagram.CompositeDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.compositediagram.CompositeDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.compositediagram.command.CommandCreateBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 81 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.compositediagram.command.CommandCreateBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 171 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.compositediagram.command.CommandCreatePackageBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 91 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.compositediagram.command.CommandCreatePackageBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 181 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.compositediagram.command.CommandEndPackageBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 91 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.compositediagram.command.CommandEndPackageBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 181 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.compositediagram.command.CommandLinkBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 91 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.compositediagram.command.CommandLinkBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 181 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.core.Diagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -2966,7 +2966,7 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.CodeImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.svek.Kal | net.sourceforge.plantuml.cucadiagram.entity.EntityImpl | net.sourceforge.plantuml.cucadiagram.entity.EntityFactory | net.sourceforge.plantuml.cucadiagram.CucaDiagram"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 96 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 186 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram.HideOrShow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -2998,7 +2998,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.GroupPrinter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.cucadiagram.GroupRoot", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 90 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.cucadiagram.GroupRoot", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 180 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.GroupType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -3015,14 +3015,14 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.LeafType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.Link", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.cucadiagram.LinkConstraint | net.sourceforge.plantuml.cucadiagram.Link"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.LinkArg", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.LinkArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.LinkConstraint", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.html.LinkHtmlPrinter | net.sourceforge.plantuml.cucadiagram.Link | net.sourceforge.plantuml.cucadiagram.LinkConstraint"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.LinkDecor", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -3032,9 +3032,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.LinkType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.cucadiagram.Magma", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 93 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.cucadiagram.Magma", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 183 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.cucadiagram.MagmaList", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 92 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.cucadiagram.MagmaList", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 182 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.Member", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -3080,15 +3080,15 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.AbstractGraphviz", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 89 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 179 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 89 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 179 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramTxtMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.DebugTrace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.DotData", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 96 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.DotData", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 186 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.DotMaker2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -3112,7 +3112,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.GraphvizWindowsOld", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.Neighborhood", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 53 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.Neighborhood", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 113 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -3123,9 +3123,9 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.dot.ProcessState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker | net.sourceforge.plantuml.cucadiagram.CucaDiagram | net.sourceforge.plantuml.cucadiagram.entity.EntityFactory"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.cucadiagram.entity.EntityImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.cucadiagram.entity.EntityImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.dedication.BlumBlumShub", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -3161,9 +3161,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.descdiagram.BoxedCharacter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.CommandCreateDomain", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.CommandCreateDomain", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.DescriptionDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.DescriptionDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.descdiagram.DescriptionDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -3177,21 +3177,21 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.descdiagram.EntityImageRequirement.MyUGraphicEllipse", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandArchimate", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 85 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandArchimate", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 175 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandArchimateMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 91 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementFull", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 181 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementParenthesis", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandCreateElementParenthesis", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandLinkElement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandPackageWithUSymbol", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.descdiagram.command.CommandPackageWithUSymbol", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.descdiagram.command.Labels", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -3219,17 +3219,17 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.ebnf.CharIteratorImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.ebnf.CommandComment", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.ebnf.CommandComment", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.ebnf.CommandCommentMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.ebnf.CommandCommentMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.ebnf.CommandCommentMultilines2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.ebnf.CommandCommentMultilines2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.ebnf.CommandEBnfSingleLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.ebnf.CommandEBnfSingleLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.ebnf.CommandEbnfMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.ebnf.CommandEbnfMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.ebnf.CommandNoteMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.ebnf.CommandNoteMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.ebnf.CornerCurved", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -3255,7 +3255,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.ebnf.EbnfExpression", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.ebnf.PSystemEbnf", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.ebnf.PSystemEbnf", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.ebnf.PSystemEbnfFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -3400,11 +3400,11 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.flowdiagram.ActivityBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.flowdiagram.CommandLineSimple", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.flowdiagram.CommandLineSimple", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.flowdiagram.CommandLink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.flowdiagram.CommandLink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.flowdiagram.FlowDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.flowdiagram.FlowDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.flowdiagram.FlowDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -3421,10 +3421,10 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.fun.IconLoader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.gitlog.Commit", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.gitlog.CursorPosition | net.sourceforge.plantuml.gitlog.GitTextArea | net.sourceforge.plantuml.gitlog.Commit"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 16 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 31 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.gitlog.CursorPosition", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.gitlog.GitTextArea | net.sourceforge.plantuml.gitlog.Commit | net.sourceforge.plantuml.gitlog.CursorPosition"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 15 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 30 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.gitlog.GNode", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.gitlog.GNode"}
 ,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
@@ -3433,16 +3433,16 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.gitlog.GitCurve", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.gitlog.GitDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.gitlog.GitDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.gitlog.GitDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.gitlog.GitTextArea", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.gitlog.Commit | net.sourceforge.plantuml.gitlog.CursorPosition | net.sourceforge.plantuml.gitlog.GitTextArea"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 15 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 30 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.gitlog.MagicBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.gitlog.SmetanaForGit", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 26 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.gitlog.SmetanaForGit", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 46 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.golem.Magnet", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -3450,21 +3450,21 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.golem.MinMaxGolem", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.golem.Path", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 24 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.golem.Path", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 44 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.golem.Position", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.golem.Square", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.golem.Tile", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.golem.TileArea | net.sourceforge.plantuml.golem.Tile"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.golem.TileArea", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.golem.Tile | net.sourceforge.plantuml.golem.TileArea"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.golem.TileGeometry", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.golem.TilesField", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.golem.TilesField", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.graphic.AbstractTextBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -3675,9 +3675,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.graphic.color.Colors", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 93 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 183 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.graphml.GraphmlDescriptionDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.hcl.HclDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -3687,27 +3687,27 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.hcl.HclTerm", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.help.CommandHelp", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.help.CommandHelp", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.help.CommandHelpColor", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.help.CommandHelpColor", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.help.CommandHelpFont", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.help.CommandHelpFont", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.help.CommandHelpKeyword", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.help.CommandHelpKeyword", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.help.CommandHelpSkinparam", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.help.CommandHelpSkinparam", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.help.CommandHelpTheme", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.help.CommandHelpTheme", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.help.CommandHelpType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.help.CommandHelpType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.help.Help", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.help.Help", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.help.HelpFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.html.CucaDiagramHtmlMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 93 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.html.CucaDiagramHtmlMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 183 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.html.LinkHtmlPrinter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.html.LinkHtmlPrinter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.jasic.Jasic", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -3785,13 +3785,13 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.jsondiagram.JsonCurve", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.jsondiagram.JsonDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.jsondiagram.JsonDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.jsondiagram.JsonDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.jsondiagram.Mirror", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.jsondiagram.SmetanaForJson", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 26 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.jsondiagram.SmetanaForJson", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 46 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.jsondiagram.SmetanaForJson.InternalNode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -3849,31 +3849,31 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.mda.MDAPackageImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.mindmap.Branch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.mindmap.Branch", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapDirection", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 52 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapDirection", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 112 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapOrgmode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapOrgmode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapOrgmodeMultiline", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapPlus", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapPlus", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapRoot", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.mindmap.CommandMindMapRoot", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.mindmap.Finger", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.mindmap.FingerImpl", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.mindmap.FingerImpl"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.mindmap.Idea", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.mindmap.Idea"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.mindmap.IdeaShape", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.mindmap.MindMap", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.mindmap.MindMap", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.mindmap.MindMapDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.mindmap.MindMapDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.mindmap.MindMapDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -3907,75 +3907,75 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.mjpeg.MJPEGGenerator.RIFFHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandComment", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandComment", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandElement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandElement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandEndSomething", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandEndSomething", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandGroup", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandGroup", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandLink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandLink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandNetwork", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandNetwork", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandNwDiagInit", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandNwDiagInit", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandProperty", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.CommandProperty", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.NwDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.NwDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.NwDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.VerticalLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.core.NServer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 35 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.core.NServer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 75 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.core.NStackable", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.core.Network", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.core.NwGroup", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 34 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.core.NwGroup", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 74 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.next.BooleanGrid", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 33 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.next.GridTextBlockDecorated", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 73 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.next.GridTextBlockSimple", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 32 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.next.GridTextBlockSimple", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 72 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.next.LinkedElement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 34 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.next.LinkedElement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 74 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.next.NBar", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.nwdiag.next.NBox | net.sourceforge.plantuml.nwdiag.next.NBar"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 36 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 76 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.next.NBox", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.nwdiag.next.NwArray | net.sourceforge.plantuml.nwdiag.next.LinkedElement | net.sourceforge.plantuml.nwdiag.core.NServer | net.sourceforge.plantuml.nwdiag.next.NBar | net.sourceforge.plantuml.nwdiag.next.NBox"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 35 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 75 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.next.NPlayField", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 36 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.next.NPlayField", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 76 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.next.NStage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.next.NTetris", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.nwdiag.next.NwArray", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 33 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.nwdiag.next.NwArray", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 73 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.nwdiag.next.Staged", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.objectdiagram.AbstractClassOrObjectDiagram.Association", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandAddData", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 85 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandAddData", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 175 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObject", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObject", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObjectMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateEntityObjectMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateJson", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateJson", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateJsonSingleLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateJsonSingleLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.objectdiagram.command.CommandCreateMap", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.openiconic.Movement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -4058,10 +4058,10 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.posimo.BezierUtils", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.Block", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.posimo.SimpleDrawer | net.sourceforge.plantuml.posimo.Cluster | net.sourceforge.plantuml.posimo.Block"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 79 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.Cluster", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.posimo.SimpleDrawer | net.sourceforge.plantuml.posimo.Cluster"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 80 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.Clusterable", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4069,7 +4069,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.DotPath.TriPoints", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.posimo.DotxMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.posimo.DotxMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 79 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.GraphvizSolverB", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -4083,13 +4083,13 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.LineSegmentIntersection", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.posimo.MargedBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 38 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.posimo.MargedBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 78 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.Mirror", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.Moveable", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.posimo.Path", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.posimo.Path", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 80 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.PathDrawer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4111,7 +4111,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.RacorderOrthogonal", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.posimo.SimpleDrawer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.posimo.SimpleDrawer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 79 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.posimo.TwoLinesIntersection", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -4184,14 +4184,14 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.Failable", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.GanttArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.GanttArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.GanttConstraint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.GanttConstraint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.GanttConstraintMode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.GanttDiagram", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.project.core.Resource | net.sourceforge.plantuml.project.draw.ResourceDraw | net.sourceforge.plantuml.project.GanttDiagram"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.GanttDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -4215,39 +4215,39 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.Value", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandColorTask", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 51 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandColorTask", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 111 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandFootbox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandFootbox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandGanttArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandGanttArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandGanttArrow2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandGanttArrow2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandGroupEnd", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandGroupEnd", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandGroupStart", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandGroupStart", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandHideResourceFootbox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandHideResourceFootbox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandHideResourceName", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandHideResourceName", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandLabelOnColumn", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandLabelOnColumn", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandLanguage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandLanguage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandNoteBottom", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandNoteBottom", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandPrintBetween", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandPrintBetween", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandPrintScale", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandPrintScale", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandSeparator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandSeparator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.CommandWeekNumberStrategy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.command.NaturalCommand", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.command.NaturalCommand", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.core.AbstractTask", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.core.AbstractTask", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.core.Moment", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4256,7 +4256,7 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.project.core.PrintScale", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.core.Resource", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.project.draw.ResourceDraw | net.sourceforge.plantuml.project.core.Resource"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 58 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 118 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.core.Task", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4264,13 +4264,13 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.core.TaskCode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.core.TaskGroup", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.core.TaskGroup", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.core.TaskImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.core.TaskImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.core.TaskInstant", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.core.TaskSeparator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.core.TaskSeparator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.core3.Histogram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4284,7 +4284,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.core3.TimeLineSimple", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.draw.AbstractTaskDraw", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.draw.AbstractTaskDraw", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.draw.FingerPrint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -4293,17 +4293,17 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.project.draw.RectangleTask", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.draw.ResourceDraw", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.project.GanttDiagram | net.sourceforge.plantuml.project.core.Resource | net.sourceforge.plantuml.project.draw.ResourceDraw"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.draw.TaskDraw", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.draw.TaskDrawDiamond", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.draw.TaskDrawDiamond", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.draw.TaskDrawGroup", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.draw.TaskDrawGroup", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.draw.TaskDrawRegular", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.draw.TaskDrawRegular", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.project.draw.TaskDrawSeparator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.project.draw.TaskDrawSeparator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.project.draw.TimeHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -4506,19 +4506,19 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.project.timescale.TimeScaleWink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.real.AbstractReal", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.real.RealLine | net.sourceforge.plantuml.real.AbstractReal"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 80 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.real.PositiveForce", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.real.RealImpl | net.sourceforge.plantuml.real.RealMoveable | net.sourceforge.plantuml.real.AbstractReal | net.sourceforge.plantuml.real.RealLine | net.sourceforge.plantuml.real.PositiveForce"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 38 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 78 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.real.Real", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.real.RealDelta", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 38 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.real.RealDelta", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 78 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.real.RealImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 38 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.real.RealImpl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 78 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.real.RealLine", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.real.RealMax | net.sourceforge.plantuml.real.AbstractReal | net.sourceforge.plantuml.real.RealLine"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 79 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.real.RealLine.AbstractAbsolute", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4526,15 +4526,15 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.real.RealLine.MinAbsolute", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.real.RealMax", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 37 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.real.RealMax", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 77 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.real.RealMiddle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.real.RealMiddle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 81 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.real.RealMiddle2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 38 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.real.RealMiddle2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 78 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.real.RealMin", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.real.RealMin", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 81 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.real.RealMoveable", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.real.RealMoveable", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 81 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.real.RealOrigin", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4542,9 +4542,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.salt.Cell", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.salt.CommandAnything", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.salt.CommandAnything", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.salt.CommandSalt", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.salt.CommandSalt", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.salt.DataSource", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4552,9 +4552,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.salt.Dictionary", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.salt.PSystemSalt", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.salt.PSystemSalt", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.salt.PSystemSaltFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.salt.PSystemSaltFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.salt.PSystemSaltFactory2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -4670,13 +4670,13 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.salt.factory.ScrollStrategy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sdot.CucaDiagramFileMakerSmetana", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 93 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sdot.CucaDiagramFileMakerSmetana", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 183 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sdot.CucaDiagramFileMakerSmetana.Drawing", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sdot.DebugUtils", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sdot.SmetanaPath", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 93 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sdot.SmetanaPath", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 183 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sdot.YMirror", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -4722,7 +4722,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.AbstractEvent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.AutoNumber", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -4730,7 +4730,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.Divider", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.Doll", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 59 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.Doll", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 119 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.DottedNumber", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -4741,10 +4741,10 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.Grouping", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.GroupingLeaf", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.sequencediagram.GroupingStart | net.sourceforge.plantuml.sequencediagram.GroupingLeaf"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.GroupingStart", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.sequencediagram.teoz.ElseTile | net.sourceforge.plantuml.sequencediagram.GroupingLeaf | net.sourceforge.plantuml.sequencediagram.GroupingStart"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.GroupingType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -4752,17 +4752,17 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.InGroupable", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.InGroupableList", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.InGroupableList", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.LifeEvent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.LifeEvent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.LifeEventType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.LinkAnchor", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.Message", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.Message", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.MessageExo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.MessageExo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.MessageExoType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -4770,7 +4770,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.Newpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.Note", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.Note", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.NotePosition", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -4778,105 +4778,105 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.NoteType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.Notes", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.Notes", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.Participant", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.Participant", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.ParticipantEnglober", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.ParticipantType", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.Reference", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.Reference", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.SequenceDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 59 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.SequenceDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 119 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.SequenceDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandActivate", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandActivate", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandActivate2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandActivate2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutoNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutoNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutoactivate", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumber", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumber", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberIncrement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberIncrement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberResume", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberResume", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberStop", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandAutonumberStop", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandBoxEnd", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandBoxStart", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandBoxStart", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandDeactivateShort", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandDeactivateShort", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandDelay", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandDelay", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandDivider", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandDivider", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowAny", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowAny", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowLeft", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowLeft", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowRight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandExoArrowRight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandFootbox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandFootbox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandFootboxOld", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandGrouping", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandGrouping", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandHSpace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandHSpace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandHideUnlinked", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandIgnoreNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandIgnoreNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandLinkAnchor", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandLinkAnchor", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipant", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipant", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA3", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA4", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantA4", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandParticipantMultilines", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandReferenceMultilinesOverSeveral", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandReferenceOverSeveral", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandReferenceOverSeveral", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandReturn", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandReturn", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandSkin", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandSkin", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandUrl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.command.CommandUrl", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Arrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndNoteBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndNoteBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 19 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.ArrowAndParticipant", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Constraint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.ConstraintSet", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.DrawableSet", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.DrawableSet", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.DrawableSetInitializer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.FileMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -4897,7 +4897,7 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.FrontierStackImpl.Stack", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy | net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox | net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 19 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDivider", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -4909,44 +4909,44 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalNewpage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalReference", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 20 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalReference", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 20 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElement", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementElse", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementElse", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.GroupingGraphicalElementTail", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 20 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.InGroupablesStack", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Lazy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 19 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.LifeDestroy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.LifeLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.LifeLine.Variation", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.LivingParticipantBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageExoArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageExoArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.MessageSelfArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.NoteBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.NoteBox", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.NotesBoxes", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.NotesBoxes", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Page", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.sequencediagram.graphic.GraphicalDelayText | net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBox"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 20 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.ParticipantBoxSimple", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -4966,17 +4966,17 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramArea", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Stairs", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1Message", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1Message", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1MessageExo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.puma.FixedLink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -4992,65 +4992,65 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommonTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationExoTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationExoTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottom", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottom", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteLeft", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteLeft", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteRight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteRight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteTop", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteTop", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelfNoteRight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelfNoteRight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.ComponentAdapter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.DelayTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 47 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.DelayTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 107 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.DividerTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 47 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.DividerTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 107 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.Dolls", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.Dolls", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.ElseTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 49 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.ElseTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 109 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.EmptyTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.HSpaceTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LifeEventTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LifeEventTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxesDrawer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LivingSpaces", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.LivingSpaces", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.MutingLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.MutingLine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 47 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 107 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.NoteTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.NoteTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.NotesTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 58 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.NotesTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 118 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 58 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpace", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 118 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpaceWithParticipants", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 59 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.PlayingSpaceWithParticipants", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 119 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.ReferenceTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.ReferenceTile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.SequenceDiagramFileMakerTeoz", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.SequenceDiagramFileMakerTeoz", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.SequenceDiagramFileMakerTeoz.Foo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -5062,7 +5062,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.Tile", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.TileArguments", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 58 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.TileArguments", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 118 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sequencediagram.teoz.TileBuilder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -5180,11 +5180,11 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sprite.ColorPalette4096", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sprite.CommandListSprite", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sprite.CommandListSprite", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sprite.CommandStdlib", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 50 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sprite.CommandStdlib", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 110 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sprite.ListSpriteDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sprite.ListSpriteDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sprite.ListSpriteDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -5212,33 +5212,33 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sprite.SpriteUtils", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.sprite.StdlibDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.sprite.StdlibDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.sprite.StdlibDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.StateDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.StateDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.statediagram.StateDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandAddField", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 85 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandAddField", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 175 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandConcurrentState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandConcurrentState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandCreatePackage2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandCreatePackage2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandCreatePackageState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandCreatePackageState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandCreateState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandCreateState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandEndState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandEndState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandHideEmptyDescription", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 55 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandHideEmptyDescription", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 115 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandLinkState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandLinkState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandLinkStateCommon", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 96 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.statediagram.command.CommandLinkStateReverse", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 186 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.stats.CreoleConverter", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -5290,9 +5290,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.style.ClockwiseTopRightBottomLeft", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.style.CommandStyleImport", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.style.CommandStyleImport", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.style.CommandStyleMultilinesCSS", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.style.CommandStyleMultilinesCSS", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.style.Context", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -5315,9 +5315,9 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.style.Style", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.style.StyleBuilder", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.SkinParam | net.sourceforge.plantuml.style.StyleBuilder"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.style.StyleLoader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.style.StyleLoader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.style.StyleSignature", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -5366,7 +5366,7 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.svek.ArithmeticStrategySum", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.Bibliotekon", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.svek.Kal | net.sourceforge.plantuml.svek.SvekLine | net.sourceforge.plantuml.svek.Bibliotekon"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 96 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 186 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.Boundary", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -5375,13 +5375,13 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.svek.CircleInterface2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.Cluster", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.svek.SvekNode | net.sourceforge.plantuml.svek.Cluster"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.ClusterDecoration", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.ClusterDotString", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 96 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.ClusterDotString", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 186 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.ClusterDotStringKermor", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 96 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.ClusterDotStringKermor", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 186 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.ClusterHeader", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -5397,7 +5397,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.CucaDiagramFileMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 93 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 183 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek2InternalImage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
@@ -5409,7 +5409,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.DotMode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.DotStringFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 97 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.DotStringFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 187 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.EmptySvgException", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -5417,21 +5417,21 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.EntityImageDegenerated", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.EntityImageProtected", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 97 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.EntityImageProtected", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 187 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.FrontierCalculator", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.GeneralImageBuilder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 94 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.GeneralImageBuilder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 184 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.GeneralImageBuilder.EntityImageSimpleEmpty", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.GraphvizCrash", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.GroupPngMakerActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 93 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.GroupPngMakerActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 183 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.GroupPngMakerActivity.InnerGroupHierarchy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.GroupPngMakerState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.GroupPngMakerState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.GroupPngMakerState.InnerGroupHierarchy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -5445,7 +5445,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.InnerStateAutonom", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.Kal", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 96 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.Kal", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 186 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.LineOfSegments", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -5486,12 +5486,12 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.svek.SingleStrategy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.SvekLine", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.svek.Kal | net.sourceforge.plantuml.svek.SvekLine"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 97 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 187 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.SvekNode", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.svek.Cluster | net.sourceforge.plantuml.svek.SvekNode"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 96 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 186 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.SvekResult", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 98 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.SvekResult", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 188 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.SvekUtils", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -5613,7 +5613,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.extremity.MiddleFactoryCircleCircled", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.image.AbstractEntityImageBorder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 97 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.image.AbstractEntityImageBorder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 187 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.Circle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -5621,7 +5621,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.ContainingEllipse", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 91 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageActivity", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 181 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageArcCircle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -5641,7 +5641,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageDeepHistory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageDescription", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageDescription", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageEmptyPackage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
@@ -5651,19 +5651,19 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageLollipopInterface", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye1", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye1", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageLollipopInterfaceEye2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageMap", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageNote", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageNote", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageNoteLink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageObject", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImagePort", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImagePort", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImagePseudoState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -5671,7 +5671,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageState2", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageStateBorder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 97 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageStateBorder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 187 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageStateCommon", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -5679,7 +5679,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageSynchroBar", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageTips", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 97 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageTips", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 187 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.svek.image.EntityImageUseCase", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
@@ -5710,12 +5710,12 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.swing.ImageHelper", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.swing.ImageWindow", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.swing.MainWindow | net.sourceforge.plantuml.swing.ImageWindow"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 19 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.swing.LicenseWindow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.swing.MainWindow", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.swing.ImageWindow | net.sourceforge.plantuml.swing.MainWindow"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 20 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.swing.ScrollablePicture", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -5990,27 +5990,27 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.Player", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.PlayerAnalog", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.PlayerAnalog", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.PlayerBinary", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.PlayerBinary", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.PlayerClock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 6 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.PlayerRobustConcise", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.PlayerRobustConcise", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.TickInPlayer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 6 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.TimeAxisStategy", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.TimeConstraint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.TimeConstraint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.TimeMessage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.TimeMessage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.TimeProjected", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.TimeTick", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.TimingDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.TimingDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.TimingDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -6022,55 +6022,55 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.TimingStyle", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandAnalog", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 52 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandAnalog", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 112 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandAtPlayer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandAtPlayer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandAtTime", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandAtTime", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandBinary", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandBinary", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandChangeState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandChangeState", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByPlayerCode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByPlayerCode", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByTime", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandChangeStateByTime", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandClock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandClock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandConstraint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandConstraint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateLong", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateLong", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateShort", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandDefineStateShort", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandHideTimeAxis", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandHighlight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandHighlight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandModeCompact", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandModeCompact", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandNote", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandNote", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandNoteLong", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandNoteLong", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandPixelHeight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandPixelHeight", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandRobustConcise", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandRobustConcise", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandScalePixel", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandTicks", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandTicks", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandTimeMessage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandTimeMessage", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.command.CommandUseDateFormat", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.command.TimeTickBuilder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.graphic.HexaShape", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.graphic.Histogram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 51 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.graphic.Histogram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 111 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.graphic.IntricatedPoint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -6082,7 +6082,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.graphic.PlayerFrame", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.timingdiagram.graphic.Ribbon", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.timingdiagram.graphic.Ribbon", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
@@ -6104,7 +6104,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.ugraphic.FontChecker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.ugraphic.ImageBuilder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.ugraphic.ImageBuilder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.ugraphic.InflaterSet", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -6486,26 +6486,26 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.vizjs.VizJsEngine", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wbs.CommandWBSItem", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wbs.CommandWBSItem", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wbs.CommandWBSItemMultiline", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 56 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wbs.CommandWBSItemMultiline", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 116 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wbs.Fork", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 53 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wbs.Fork", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 113 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.wbs.ITF", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wbs.ITFComposed", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 57 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wbs.ITFComposed", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 117 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.wbs.ITFLeaf", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wbs.WBSDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 59 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wbs.WBSDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 119 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.wbs.WBSDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wbs.WBSTextBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 58 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wbs.WBSTextBlock", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 118 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.wbs.WElement", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.wbs.WElement"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 58 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 118 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.webp.BoolDecoder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -6514,7 +6514,7 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.webp.IDCT", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.webp.MacroBlock", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.webp.SubBlock | net.sourceforge.plantuml.webp.MacroBlock"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 21 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 39 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.webp.Segment", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -6523,11 +6523,11 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.webp.SegmentQuants", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.webp.SubBlock", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "net.sourceforge.plantuml.webp.VP8Decoder | net.sourceforge.plantuml.webp.VP8Frame | net.sourceforge.plantuml.webp.MacroBlock | net.sourceforge.plantuml.webp.SubBlock"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 20 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.webp.VP8Decoder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 19 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.webp.VP8Decoder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 41 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.webp.VP8Frame", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.webp.VP8Frame", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 40 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.windowsdot.WindowsDotArchive", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -6536,19 +6536,19 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.wire.Block.Pos", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wire.CommandComponent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 54 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wire.CommandComponent", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 114 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wire.CommandGoto", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wire.CommandGoto", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wire.CommandMove", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wire.CommandMove", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wire.CommandNewColumn", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wire.CommandNewColumn", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wire.CommandPrint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wire.CommandPrint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wire.CommandSpot", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wire.CommandSpot", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wire.CommandWLink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wire.CommandWLink", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.wire.Spot", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 5 inclusions", "commentaire" : ""}
 ]} 
@@ -6563,31 +6563,31 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.wire.WPrint", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 3 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.wire.WireDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 59 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.wire.WireDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 119 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.wire.WireDiagramFactory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 4 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 59 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 119 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 86 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiClassDiagramAbstract", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 176 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiClassDiagramArgo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 87 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiClassDiagramArgo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 177 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStandard", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 87 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStandard", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 177 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStar", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 87 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiClassDiagramStar", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 177 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiDescriptionDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 60 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 120 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 61 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramArgo", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 121 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 61 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagramStandard", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 121 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmi.XmiStateDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmi.XmiStateDiagram", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.xmi.XmlDiagramTransformer", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
@@ -6597,9 +6597,9 @@ var mesDatas = {
 ]} 
 , { "classe" : "net.sourceforge.plantuml.xml.XmlFactories.TransformerFactoryHolder", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmlsc.ScxmlStateDiagramStandard", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "net.sourceforge.plantuml.xmlsc.StateDiagramScxmlMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 95 inclusions", "commentaire" : ""}
+, { "classe" : "net.sourceforge.plantuml.xmlsc.StateDiagramScxmlMaker", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 185 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.yaml.SimpleYamlParser", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
 ]} 
@@ -6746,11 +6746,11 @@ var mesDatas = {
 , { "classe" : "smetana.core.CStarStar", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "smetana.core.CString", "details" : [,{ "critere" : "Classe25CircularReferencesOfClasses", "valeur" : "NonConforme", "commentaire" : "h.ST_refstr_t | smetana.core.CString"}
-,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 22 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 42 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "smetana.core.JUtils", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "smetana.core.Macro", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 23 inclusions", "commentaire" : ""}
+, { "classe" : "smetana.core.Macro", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 43 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "smetana.core.Memory", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -6760,7 +6760,7 @@ var mesDatas = {
 ]} 
 , { "classe" : "smetana.core.UnsupportedStarStruct", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
-, { "classe" : "smetana.core.Z", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 26 inclusions", "commentaire" : ""}
+, { "classe" : "smetana.core.Z", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "NonConforme 46 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "smetana.core.__ptr__", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 0 inclusions", "commentaire" : ""}
 ]} 
