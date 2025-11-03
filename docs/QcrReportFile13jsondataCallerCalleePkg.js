@@ -27,6 +27,26 @@ var datadependCallerCalleePkg = { "lesdatas" : [
 { "noeud" : "jcckit.transformation"} ,
 ]
  , "lescycles" : [ 
+{ "uncycle" : [ 
+{ "etape" : "jcckit.data" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.plot" , "annotations" : ""} ,
+{ "etape" : "jcckit.util" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "smetana.core" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.util" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.transformation" , "annotations" : ""} ,
+{ "etape" : "jcckit.util" , "annotations" : ""} ,
+] } ,
 ]
  , "lesclassesversclassecontenue" : [ 
 ]

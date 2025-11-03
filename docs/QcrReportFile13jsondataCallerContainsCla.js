@@ -16264,36 +16264,1525 @@ var datadependCallerContainsCla = { "lesdatas" : [
 { "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
 ] } ,
 { "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionSpot" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_shape_desc" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionStart" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
 { "etape" : "h.ST_Agsubnode_s" , "annotations" : ""} ,
 { "etape" : "h.ST_Agnode_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agobj_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agrec_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.html.LinkHtmlPrinter" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Link" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_dtlink_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_LeafList_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wire.WLinkHorizontal" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
 ] } ,
 { "uncycle" : [ 
 { "etape" : "net.sourceforge.plantuml.project.core.Resource" , "annotations" : ""} ,
 { "etape" : "net.sourceforge.plantuml.project.draw.ResourceDraw" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.project.GanttDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.project.core.TaskGroup" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.creole.SheetBlock1" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.LineBreakStrategy" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.creole.SheetBlock2" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.creole.SheetBlock1" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.LineBreakStrategy" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_fontinfo" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.Guillemet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.gtile.GAbstractConnection" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.gtile.GPoint" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileWithSwimlanes" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_dt_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBoxOld" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.EmbeddedDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.mindmap.Branch" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.mindmap.Idea" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.StringLocated" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.html.CucaDiagramHtmlMaker" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimeConstraint" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wire.WireDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.wire.WBlock" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.bpm.BpmEventAdd" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.bpm.BpmElement" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleSpot" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.board.PostIt" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.board.BNode" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.gtile.AbstractGtile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "smetana.core.Z" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agedge_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.GroupPngMakerActivity" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.jsondiagram.JsonDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.core.TaskImpl" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.draw.TimeHeaderCalendar" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.project.TimeHeaderParameters" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ugraphic.AbstractCommonUGraphic" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.FtileEmpty" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ebnf.ETileBox" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.graphic.Step1Abstract" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.graphic.Histogram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingRuler" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingFormat" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.BodyEnhanced1" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.BodyEnhanced2" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.LineBreakStrategy" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingFormat" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.DataMask" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.LiveBoxes" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.graphic.PageSplitter" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.ConditionalBuilder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.LineBreakStrategy" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.board.BNode" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.OptionFlags" , "annotations" : ""} ,
 ] } ,
 { "uncycle" : [ 
 { "etape" : "smetana.core.CString" , "annotations" : ""} ,
 { "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
 ] } ,
 { "uncycle" : [ 
-{ "etape" : "net.sourceforge.plantuml.cucadiagram.LinkConstraint" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.tim.expression.TValue" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.ClusterDotString" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.svek.Cluster" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.ParticipantEnglober" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.data.DataEvent" , "annotations" : ""} ,
+{ "etape" : "jcckit.data.DataEventType" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.EncodeHintType" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.graphic.color.ColorParser" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.command.regex.RegexLeaf" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.ProcessState" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_port" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.TeozLayer" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.png.PngTitler" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierState" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.posimo.Path" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.posimo.Block" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.posimo.Cluster" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ebnf.EbnfEngine" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.draw.TaskDrawSeparator" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wire.WBlock" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agnodeinfo_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agedge_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "gen.lib.cgraph.attr__c" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.datamatrix.decoder.BitMatrixParser" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.datamatrix.decoder.Version" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.encoder.QRCode" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.posimo.DotxMaker" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.posimo.Cluster" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.plot.PlotCanvas" , "annotations" : ""} ,
+{ "etape" : "jcckit.graphic.Anchor" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agattr_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dt_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.windowsdot.WindowsDotArchive" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.Highlight" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.ChecksumException" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.GeneralImageBuilder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.DotData" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteBottomTopAbstract" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_HDict_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_dtlink_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.mindmap.Idea" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.tim.expression.Token" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.yaml.SimpleYamlParser" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityImpl" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationExoTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.MessageExo" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.board.CardBox" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.webp.VP8Frame" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.webp.MacroBlock" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.webp.SubBlock" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.bpm.BpmDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.bpm.BpmElement" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.Player" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.ClusterDotStringKermor" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.svek.Cluster" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_textfont_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.image.EntityImageNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.svek.SvekLine" , "annotations" : ""} ,
 { "etape" : "net.sourceforge.plantuml.cucadiagram.Link" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionRepeat" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionList" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileIfNude" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.TitledDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.Splash" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.LinkConstraint" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.plot.SimpleCurveFactory" , "annotations" : ""} ,
+{ "etape" : "jcckit.util.ConfigParameters" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
 ] } ,
 { "uncycle" : [ 
 { "etape" : "net.sourceforge.plantuml.svek.SvekLine" , "annotations" : ""} ,
-{ "etape" : "net.sourceforge.plantuml.svek.Kal" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Link" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.Version" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.creole.Fission" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.LineBreakStrategy" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_layout_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleEnd" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.Player" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.graphic.TimeArrow" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_gvplugin_installed_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileWithNoteOpale" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.mindmap.MindMap" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.mindmap.Branch" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.mindmap.Idea" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.plot.PlotEventType" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.ProcessRunner" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.ProcessState" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionSplit" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.GraphvizVersions" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.DecodeHintType" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wire.Block" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.NotFoundException" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionSimple" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.GanttArrow" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateOut" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.jsondiagram.TextBlockJson" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TickInPlayer" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.Player" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.BitMatrixParser" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.png.PngTitler" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.LifeEventTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.LifeEvent" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimeMessage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.GroupPngMakerState" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionList" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.SvekNode" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.svek.Cluster" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDiamondWIP" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
 ] } ,
 { "uncycle" : [ 
 { "etape" : "net.sourceforge.plantuml.webp.SubBlock" , "annotations" : ""} ,
 { "etape" : "net.sourceforge.plantuml.webp.MacroBlock" , "annotations" : ""} ,
 ] } ,
 { "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.Cluster" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ugraphic.ImageBuilder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.FileFormatOption" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStart" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.gitlog.SmetanaForGit" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agraph_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agclos_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dt_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.tim.expression.ReversePolishInterpretor" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.tim.expression.TValue" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_arrowname_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agedge_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.style.StyleLoader" , "annotations" : ""} ,
 { "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
 { "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
 ] } ,
 { "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.posimo.Cluster" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.xmi.CucaDiagramXmiMaker" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextReference" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextActor" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.Kal" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Link" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.DelayTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Delay" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agedgepair_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agedge_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.util.ConfigParametersBasedConfigData" , "annotations" : ""} ,
+{ "etape" : "jcckit.util.ConfigParameters" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.graphic.Ribbon" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingRuler" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingFormat" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_XLabels_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_dt_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchWithDiamonds" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.Mode" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.GroupingStart" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionBreak" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agrec_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wbs.WBSTextBlock" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_subtree_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agnode_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agobj_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agrec_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_dtdata_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dtlink_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_path" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agedge_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.json.WriterConfig" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.SourceFileReaderAbstract" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.FileFormatOption" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.CucaDiagramSimplifierActivity" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.command.SkinLoader" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.TitledDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ugraphic.comp.PiecewiseAffineComposition" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
 { "etape" : "ext.plantuml.com.google.zxing.common.reedsolomon.GF256Poly" , "annotations" : ""} ,
 { "etape" : "ext.plantuml.com.google.zxing.common.reedsolomon.GF256" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_xlabel_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_textlabel_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.security.authentication.SecurityCredentials" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agclos_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dt_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.graphml.CucaDiagramGraphmlMaker" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.MethodsOrFieldsArea" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionIf" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.Branch" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionList" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.FileSystem" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Note" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.posimo.SimpleDrawer" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.posimo.Cluster" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.PlayerBinary" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.ChangeState" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimeTick" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingFormat" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.xmi.XmiSequenceDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.SequenceDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Delay" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_blk_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingRuler" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingFormat" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.FormatInformation" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionGroup" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionList" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.Margins" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wbs.WBSDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.wbs.WElement" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBox" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_gvplugin_active_layout_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteRight" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "org.stathissideris.ascii2image.graphics.ImageHandler" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextShape" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Magma" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.plot.PlotEvent" , "annotations" : ""} ,
+{ "etape" : "jcckit.plot.PlotEventType" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.eggs.PSystemPath" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.eggs.GraphicsPath" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.SvekResult" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.DotData" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.core.AbstractTask" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.cond.FtileSwitchNude" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram.ActivityDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram.ConditionalContext" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionSwitch" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.Branch" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionList" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelfNoteRight" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Message" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "smetana.core.UnsupportedStarStruct" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.UGraphicInterceptorOneSwimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileCircleStop" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileSelf" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Message" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.FormatException" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.draw.AbstractTaskDraw" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.DividerTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Divider" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextParticipant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.tim.TFunctionArgument" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.tim.expression.TValue" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColors" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram.ConditionalContext" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionStop" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.common.reedsolomon.GF256" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sdot.SmetanaPath" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agedge_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.SequenceDiagramFileMakerTeoz" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.FileFormatOption" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.graphic.FontStyle" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.DotStringFactory" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.svek.Cluster" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_dthold_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dtlink_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTileNoteLeft" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wbs.WElement" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBlackBlock" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.BodierJSon" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ActivityDiagram3" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlanes" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Message" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.LineBreakStrategy" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.json.Json" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileDecorateIn" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.DisplayPositioned" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.graphic.BasicGraphicAttributes" , "annotations" : ""} ,
+{ "etape" : "jcckit.graphic.Anchor" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Divider" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionFork" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.MessageExo" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.CucaDiagramFileMakerSvek" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agobj_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agrec_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.FileFormatOption" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_IMapEntry_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.posimo.Block" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.posimo.Cluster" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.LifeEvent" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.AbstractMessage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.eggs.PSystemColors" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Delay" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.webp.VP8Decoder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.webp.VP8Frame" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.webp.MacroBlock" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.webp.SubBlock" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.BarcodeFormat" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.graphic.TextBlockSimple" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.jsondiagram.SmetanaForJson" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agraph_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agclos_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dt_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.SvgCharSizeHack" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.SequenceDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Delay" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ftp.FtpLoop" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.Mode" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "gen.lib.common.shapes__c" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wire.WPrint" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.GroupingLeaf" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.GroupingStart" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.CommunicationTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Message" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agdatadict_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dt_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileThinSplit" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.GroupingTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agraphinfo_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agnode_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agobj_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agrec_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.graphic.Page" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.graphic.Text" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextGroupingHeader" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextArrow" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.datamatrix.decoder.Version" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_textspan_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramTxtMaker" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.SequenceDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Delay" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.tim.EaterExceptionLocated" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.StringLocated" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.command.regex.RegexLeaf" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Link" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.LinkArg" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_field_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_textlabel_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.graphic.SequenceDiagramFileMakerPuma2" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.FileFormatOption" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Newpage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.common.DecoderResult" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.ErrorCorrectionLevel" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_tedge_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_pointnlink_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.util.ConfigParameters" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.PositionedNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.dot.DotData" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wire.WLinkVertical" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.MonoSwimable" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_inside_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agnode_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agobj_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agrec_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.LivingSpace" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.NoteTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Note" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaNote" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextSelfArrow" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.tim.EaterReturn" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.tim.expression.TValue" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.json.JsonValue" , "annotations" : "@SuppressWarnings(\"serial\") "} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.svek.image.AbstractEntityImageBorder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.svek.Cluster" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.draw.TimeHeader" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.skin.Padder" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agsym_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dtlink_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_pointnlink_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.core.TaskGroup" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.eggs.GraphicsPath" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.graphic.Anchor" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextGroupingElse" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.GanttDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.project.core.TaskGroup" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.xmi.SequenceDiagramXmiMaker" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.SequenceDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Delay" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agnode_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agobj_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agrec_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.ElseTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.GroupingLeaf" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.GroupingStart" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.draw.TimeHeaderSimple" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.project.TimeHeaderParameters" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.TimeHeaderParameters" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.HColorSet" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.mindmap.FingerImpl" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.mindmap.Idea" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.qrcode.decoder.Mode" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_GVC_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_gvplugin_active_layout_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "jcckit.data.DataEventType" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionEnd" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.FtileNoteAlone" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.gtile.GPoint" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionWhile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionList" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Doll" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.ParticipantEnglober" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Stereostyles" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.draw.ResourceDraw" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.project.GanttDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.project.core.TaskGroup" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Reference" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_deque_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_pointnlink_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextDivider" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_stk_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_blk_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "smetana.core.Macro" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.Branch" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionList" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.GroupRoot" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.tikz.TikzGraphics" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.ugraphic.color.ColorMapper" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionPartition" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.InstructionList" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.TextBlockCucaJSon" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.LineBreakStrategy" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vcompact.ParallelBuilderFork" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.MutingLine" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Participant" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.project.GanttConstraint" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.style.StyleBuilder" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.SkinParam" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "gen.lib.common.input__c" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sdot.CucaDiagramFileMakerSmetana" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.CucaDiagram" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.entity.EntityFactory" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.asciiart.ComponentTextDelay" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.version.LicenseInfo" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "ext.plantuml.com.google.zxing.common.reedsolomon.ReedSolomonEncoder" , "annotations" : ""} ,
+{ "etape" : "ext.plantuml.com.google.zxing.common.reedsolomon.GF256" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "org.stathissideris.ascii2image.text.GridPatternGroup" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.ReferenceTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Reference" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_textlabel_t" , "annotations" : ""} ,
+{ "etape" : "smetana.core.CString" , "annotations" : ""} ,
+{ "etape" : "h.ST_refstr_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.vertical.FtileBox2" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.board.Activity" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.board.BNode" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.posimo.MargedBlock" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.posimo.Block" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.posimo.Cluster" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agraph_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agclos_s" , "annotations" : ""} ,
+{ "etape" : "h.ST_dt_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileWithNoteOpale" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.ftile.Swimlane" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.gtile.GtileBox" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.activitydiagram3.LinkRendering" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimeTick" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingFormat" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_Agedgeinfo_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_Agedge_s" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "h.ST_triangle_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_tedge_t" , "annotations" : ""} ,
+{ "etape" : "h.ST_pointnlink_t" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.teoz.NewpageTile" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.sequencediagram.Newpage" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.preproc.ReadLineSimple" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.StringLocated" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.bpm.BpmElement" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.cucadiagram.Display" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.wire.Spot" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.wire.WBlock" , "annotations" : ""} ,
+] } ,
+{ "uncycle" : [ 
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.ChangeState" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimeTick" , "annotations" : ""} ,
+{ "etape" : "net.sourceforge.plantuml.timingdiagram.TimingFormat" , "annotations" : ""} ,
 ] } ,
 ]
  , "lesclassesversclassecontenue" : [ 
