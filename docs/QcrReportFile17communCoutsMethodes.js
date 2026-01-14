@@ -12,7 +12,7 @@
 		lsStrTout+=lsStr;
 		lesdetailsclasses.forEach(leItemDetail => {
 			var lsStrDetails = "";
-	                lsStrDetails+= "<tr><td>"+leItemDetail.methode+"</td><td>"+leItemDetail.requestmapping+"</td><td>"+leItemDetail.annotation.replace("path=","path="+leItemDetail.requestmapping+")"</td><td align='right'>"+leItemDetail.couttotal+"</td><td>"+leItemDetail.classe_retour+"</td><td>"+leItemDetail.profondeurinclude+"</td><td>"+leItemDetail.nbchampsclasse+"</td><td>"+leItemDetail.empreintechampsclasse+"</td></tr>";
+	                lsStrDetails+= "<tr><td>"+leItemDetail.methode+"</td><td>"+leItemDetail.requestmapping+"</td><td>"+leItemDetail.annotation+"</td><td align='right'>"+leItemDetail.couttotal+"</td><td>"+leItemDetail.classe_retour+"</td><td>"+leItemDetail.profondeurinclude+"</td><td>"+leItemDetail.nbchampsclasse+"</td><td>"+leItemDetail.empreintechampsclasse+"</td></tr>";
 			lsStrTout+=lsStrDetails;
 		});
 		lsStrTout+="</table>";
