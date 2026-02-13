@@ -2,13 +2,11 @@ var mesDatas = {
 "coutsmappings" : [
 ]
 , "coutsparmethode" : [
+{ "methode" : "jcckit.plot.AxisParameters.createAxis@POLYN307578" , "couttotal": "38" } ,
 { "methode" : "jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN192644" , "couttotal": "34" } ,
-{ "methode" : "jcckit.plot.AxisParameters.createXAxis@POLYN300928" , "couttotal": "30" } ,
-{ "methode" : "jcckit.plot.AxisParameters.createYAxis@POLYN307400" , "couttotal": "30" } ,
+{ "methode" : "jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN197028" , "couttotal": "30" } ,
 { "methode" : "jcckit.plot.Plot.dataChanged@POLYN235285" , "couttotal": "30" } ,
-{ "methode" : "jcckit.plot.AxisParameters.createAxis@POLYN307578" , "couttotal": "28" } ,
 { "methode" : "jcckit.plot.CartesianCoordinateSystem.createView@POLYN193880" , "couttotal": "28" } ,
-{ "methode" : "jcckit.graphic.BasicGraphicAttributes.BasicGraphicAttributes@POLYN197028" , "couttotal": "26" } ,
 { "methode" : "jcckit.GraphicsPlotCanvas.paint@POLYN191109" , "couttotal": "24" } ,
 { "methode" : "jcckit.plot.Plot.setCoordinateSystem@POLYN228654" , "couttotal": "24" } ,
 { "methode" : "jcckit.plot.CartesianCoordinateSystem.createTicsAndGrid@POLYN196505" , "couttotal": "22" } ,
@@ -1802,6 +1800,8 @@ var mesDatas = {
 { "methode" : "jcckit.plot.AxisParameters.AxisParameters@POLYN285808" , "couttotal": "0" } ,
 { "methode" : "jcckit.plot.AxisParameters.adjust@POLYN291887" , "couttotal": "0" } ,
 { "methode" : "jcckit.plot.AxisParameters.calculateTicsParameters@POLYN289530" , "couttotal": "0" } ,
+{ "methode" : "jcckit.plot.AxisParameters.createXAxis@POLYN300928" , "couttotal": "0" } ,
+{ "methode" : "jcckit.plot.AxisParameters.createYAxis@POLYN307400" , "couttotal": "0" } ,
 { "methode" : "jcckit.plot.BarFactory.createLegendSymbol@POLYN181361" , "couttotal": "0" } ,
 { "methode" : "jcckit.plot.BarFactory.createPlainSymbol@POLYN181687" , "couttotal": "0" } ,
 { "methode" : "jcckit.plot.CartesianCoordinateSystem.CartesianCoordinateSystem@POLYN191935" , "couttotal": "0" } ,

@@ -2274,12 +2274,16 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.argon2.model.Argon2Type", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "Conforme", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.argon2.model.Block", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "NonConforme 7 methods", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.argon2.model.Instance", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "NonConforme 2 methods", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.argon2.model.Position", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "Conforme", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.asciiart.AbstractComponentText", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : ""}
 ]} 
@@ -7906,10 +7910,10 @@ var mesDatas = {
 { "classe" : "net.sourceforge.plantuml.argon2.blake2.Blake2b.Tree", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
 { "classe" : "net.sourceforge.plantuml.argon2.exception.Argon2Exception", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
 { "classe" : "net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
-{ "classe" : "net.sourceforge.plantuml.argon2.model.Argon2Type", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
-{ "classe" : "net.sourceforge.plantuml.argon2.model.Block", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
-{ "classe" : "net.sourceforge.plantuml.argon2.model.Instance", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
-{ "classe" : "net.sourceforge.plantuml.argon2.model.Position", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
+{ "classe" : "net.sourceforge.plantuml.argon2.model.Argon2Type", "nbconforme" : "2", "nbnonconforme" : "0", "tauxconformite" : "100"},
+{ "classe" : "net.sourceforge.plantuml.argon2.model.Block", "nbconforme" : "1", "nbnonconforme" : "1", "tauxconformite" : "50"},
+{ "classe" : "net.sourceforge.plantuml.argon2.model.Instance", "nbconforme" : "1", "nbnonconforme" : "1", "tauxconformite" : "50"},
+{ "classe" : "net.sourceforge.plantuml.argon2.model.Position", "nbconforme" : "2", "nbnonconforme" : "0", "tauxconformite" : "100"},
 { "classe" : "net.sourceforge.plantuml.asciiart.AbstractComponentText", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
 { "classe" : "net.sourceforge.plantuml.asciiart.BasicCharArea", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
 { "classe" : "net.sourceforge.plantuml.asciiart.BasicCharAreaImpl", "nbconforme" : "1", "nbnonconforme" : "0", "tauxconformite" : "100"},
