@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/util/ConfigParametersBasedConfigData.java.html" 
- , "texte" : "File src/jcckit/util/ConfigParametersBasedConfigData.java 7 rule violations " 
+ , "texte" : "File src/jcckit/util/ConfigParametersBasedConfigData.java 6 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -104,13 +104,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "3"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
-}}
  ] 
 ,
 "data13b" : [
@@ -126,13 +119,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/util/ConfigParametersBasedConfigData.java.html#59"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00059] For method get arguments String  key"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00059"
- , "c1link" : "./qc/src/jcckit/util/ConfigParametersBasedConfigData.java.html#59"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00059] For method get list of called methods Object monObjet|java.lang.String _config_getN163707"
 }} 
 ,
 { "ligne" : {"" : ""

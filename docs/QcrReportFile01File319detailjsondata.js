@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/Plot.java.html" 
- , "texte" : "File src/jcckit/plot/Plot.java 57 rule violations " 
+ , "texte" : "File src/jcckit/plot/Plot.java 53 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -255,13 +255,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "4"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "INFO"
  , "c2" : "QC-JAV000019"
  , "c3" : "Lock statement"
@@ -296,13 +289,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#122"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00122] For method setCoordinateSystem arguments CoordinateSystem  coordinateSystem"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00122"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#122"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00122] For method setCoordinateSystem list of called methods Object monObjet|jcckit.graphic.GraphicalElement coordinateSystem_getViewN228746|jcckit.graphic.ClippingShape coordinateSystem_getClippingShapeN228820|jcckit.renderer.Transformation coordinateSystem_getTransformationN228894"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -387,13 +373,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#202"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00202] For method transform arguments GraphPoint  point"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00211"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#211"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00211] For method getCompletePlot list of called methods Object monObjet|jcckit.graphic.GraphicalElement[] getCurvesN232323"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -525,13 +504,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00328"
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#328"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00328] For method generateCurves list of called methods Object monObjet|int dataPlot_getNumberOfElementsN237899|jcckit.plot.Curve _curveFactory_createN238064"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00328"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#328"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00328] The argument dataPlot is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -597,13 +569,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#347"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00347] For method fillCurve arguments int  curveIndex|DataCurve  dataCurve"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00347"
- , "c1link" : "./qc/src/jcckit/plot/Plot.java.html#347"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00347] For method fillCurve list of called methods Object monObjet|int dataCurve_getNumberOfElementsN239282"
 }} 
 ,
 { "ligne" : {"" : ""

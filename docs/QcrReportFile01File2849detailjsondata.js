@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/smetana/core/Memory.java.html" 
- , "texte" : "File src/smetana/core/Memory.java 19 rule violations " 
+ , "texte" : "File src/smetana/core/Memory.java 17 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -107,15 +107,6 @@ var maDataBlocs = {
 "data14" : [
 ]
 , 
-"data12a" : [
-]
-,
-"data12b" : [
-]
-,
-"data12c" : [
-]
-, 
 "data13a" : [
 { "ligne" : { "" : ""
  , "c1" : "BLOCKER"
@@ -132,13 +123,6 @@ var maDataBlocs = {
 }}
 ,
 { "ligne" : { "" : ""
- , "c1" : "CRITICAL"
- , "c2" : "QC-JAV999994"
- , "c3" : "Recursivity with depth  1 for method xx"
- , "c4" : "1"
-}}
-,
-{ "ligne" : { "" : ""
  , "c1" : "MAJOR"
  , "c2" : "QC-JAV000010"
  , "c3" : "MagicNumber Strings and numbers should be converted to constants"
@@ -150,13 +134,6 @@ var maDataBlocs = {
  , "c2" : "QC-JAV000006"
  , "c3" : "Argument list of the method"
  , "c4" : "6"
-}}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "1"
 }}
  ] 
 ,
@@ -232,13 +209,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00056"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#56"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00056] For method identityHashCode list of called methods Object monObjet|int data_getUidN161992"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00057"
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#57"
  , "c2" : "MAJOR"
@@ -285,13 +255,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/smetana/core/Memory.java.html#53"
  , "c2" : "BLOCKER"
  , "c3" : "QC-JAV000005[00053] Valued method free is empty or contains only a return."
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00001"
- , "c1link" : "./qc/src/smetana/core/Memory.java.html#1"
- , "c2" : "CRITICAL"
- , "c3" : "QC-JAV999994[00001] Recursive call with depth 1 for smetana.core.Memory.malloc@POLYN161342"
 }} 
 ]
 , 

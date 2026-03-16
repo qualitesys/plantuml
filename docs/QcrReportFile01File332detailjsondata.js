@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html" 
- , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 57 rule violations " 
+ , "texte" : "File src/jcckit/renderer/Graphics2DRenderer.java 52 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -156,13 +156,6 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "9"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "5"
-}}
  ] 
 ,
 "data13b" : [
@@ -185,13 +178,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#96"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00096] For method startRendering arguments GraphicalComposite  composite"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00096"
- , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#96"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00096] For method startRendering list of called methods Object monObjet|jcckit.graphic.ClippingShape composite_getClippingShapeN207959|jcckit.graphic.ClippingRectangle shape_getBoundingBoxN208109"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -302,13 +288,6 @@ var maDataBlocs = {
 { "ligne" : {"" : ""
  , "c1" : "00149"
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#149"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00149] For method render list of called methods Object monObjet|jcckit.graphic.GraphPoint oval_getCenterN211227|double oval_getWidthN211304|double oval_getHeightN211381"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00149"
- , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#149"
  , "c2" : "CRITICAL"
  , "c3" : "QC-JAVCWE476[00149] The argument oval is a class instance but is not tested towards null, but referenced in attribute invocation in the method body, NPE potential risk"
 }} 
@@ -332,13 +311,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#159"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00159] For method drawShape arguments Shape  shape|BasicGraphicalElement  element|Color  backupColor"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00159"
- , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#159"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00159] For method drawShape list of called methods Object monObjet|jcckit.graphic.GraphicAttributes element_getGraphicAttributesN211979|double[] la_getLinePatternN212896|java.awt.Color la_getLineColorN213928"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -416,13 +388,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#205"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00205] For method render arguments Text  text"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00205"
- , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#205"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00205] For method render list of called methods Object monObjet|java.awt.Color ta_getTextColorN215059|java.lang.String text_getTextN215444|double ta_getFontSizeN215688|java.awt.Font createFontN215933"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -528,13 +493,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#287"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00287] For method createFont arguments TextAttributes  attributes|int  size"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00287"
- , "c1link" : "./qc/src/jcckit/renderer/Graphics2DRenderer.java.html#287"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00287] For method createFont list of called methods Object monObjet|java.lang.String attributes_getFontNameN219113|jcckit.graphic.FontStyle attributes_getFontStyleN219320"
 }} 
 ,
 { "ligne" : {"" : ""

@@ -2,7 +2,7 @@ console.log('leListeStr main01 start json de data maDataBlocs');
 var maDataBlocs = {
 "data00" : {
    "fic1"  : "./qc/src/jcckit/plot/AxisParameters.java.html" 
- , "texte" : "File src/jcckit/plot/AxisParameters.java 84 rule violations " 
+ , "texte" : "File src/jcckit/plot/AxisParameters.java 79 rule violations " 
  , "fic3"  : "" 
 }
 , 
@@ -164,23 +164,9 @@ var maDataBlocs = {
  , "c3" : "Argument list of the method"
  , "c4" : "5"
 }}
-,
-{ "ligne" : { "" : ""
- , "c1" : "MINOR"
- , "c2" : "QC-JAV000007"
- , "c3" : "List of methods called in the body"
- , "c4" : "5"
-}}
  ] 
 ,
 "data13b" : [
-{ "ligne" : {"" : ""
- , "c1" : "00132"
- , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#132"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00132] For method calculateTics list of called methods Object monObjet|double Util_logN288312|double Util_logN288430|double Util_expN288979|double adjustN289172|double adjustN289363"
-}} 
-,
 { "ligne" : {"" : ""
  , "c1" : "00137"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#137"
@@ -532,13 +518,6 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00223"
- , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#223"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00223] For method createDefaultXAxisProperties list of called methods Object monObjet|java.util.Properties createDefaultAxisPropertiesN295038"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00225"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#225"
  , "c2" : "MAJOR"
@@ -606,13 +585,6 @@ var maDataBlocs = {
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#327"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00327] For method createXAxis arguments ConfigParameters  config"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00335"
- , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#335"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00335] For method createDefaultYAxisProperties list of called methods Object monObjet|java.util.Properties createDefaultAxisPropertiesN301272"
 }} 
 ,
 { "ligne" : {"" : ""
@@ -714,24 +686,10 @@ var maDataBlocs = {
 }} 
 ,
 { "ligne" : {"" : ""
- , "c1" : "00446"
- , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#446"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00446] For method createAxis list of called methods Object monObjet|boolean c_getBooleanN308179|double c_getDoubleN308280|double c_getDoubleN308381|double c_getDoubleN308482|java.lang.String c_getN308742|double c_getDoubleN309141|boolean c_getBooleanN309242|double c_getDoubleN309461|double c_getDoubleN309592|int c_getIntN309723|jcckit.util.TicLabelFormat createTicLabelFormatN310016|boolean c_getBooleanN310407"
-}} 
-,
-{ "ligne" : {"" : ""
  , "c1" : "00487"
  , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#487"
  , "c2" : "MINOR"
  , "c3" : "QC-JAV000006[00487] For method createTicLabelFormat arguments ConfigParameters  c"
-}} 
-,
-{ "ligne" : {"" : ""
- , "c1" : "00487"
- , "c1link" : "./qc/src/jcckit/plot/AxisParameters.java.html#487"
- , "c2" : "MINOR"
- , "c3" : "QC-JAV000007[00487] For method createTicLabelFormat list of called methods Object monObjet|jcckit.util.Format Format_createN310775|jcckit.util.ConfigParameters c_getNodeN310893"
 }} 
 ,
 { "ligne" : {"" : ""
