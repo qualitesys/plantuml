@@ -2275,16 +2275,16 @@ var mesDatas = {
 , { "classe" : "net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : "net.sourceforge.plantuml.argon2.exception.Argon2InvalidParameterException | net.sourceforge.plantuml.argon2.exception.Argon2Exception"}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.argon2.model.Argon2Type", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : "net.sourceforge.plantuml.argon2.model.Argon2Type"}
-,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "Conforme", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "Conforme 0 methods", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.argon2.model.Block", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : "net.sourceforge.plantuml.argon2.model.Block"}
-,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "NonConforme 7 methods", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "NonConforme 7 method(s)", "commentaire" : "net.sourceforge.plantuml.argon2.model.Block.clear@POLYN162888[java.lang.Void], net.sourceforge.plantuml.argon2.model.Block.copyBlock@POLYN160861[java.lang.Void;net.sourceforge.plantuml.argon2.model.Block], net.sourceforge.plantuml.argon2.model.Block.fromBytes@POLYN159480[java.lang.Void;byte[]], net.sourceforge.plantuml.argon2.model.Block.toBytes@POLYN160182[byte[]], net.sourceforge.plantuml.argon2.model.Block.xor@POLYN161103[java.lang.Void;net.sourceforge.plantuml.argon2.model.Block;net.sourceforge.plantuml.argon2.model.Block], net.sourceforge.plantuml.argon2.model.Block.xor@POLYN161542[java.lang.Void;net.sourceforge.plantuml.argon2.model.Block;net.sourceforge.plantuml.argon2.model.Block;net.sourceforge.plantuml.argon2.model.Block], net.sourceforge.plantuml.argon2.model.Block.xorWith@POLYN162065[java.lang.Void;net.sourceforge.plantuml.argon2.model.Block]"}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.argon2.model.Instance", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 2 inclusions", "commentaire" : "net.sourceforge.plantuml.argon2.model.Instance | net.sourceforge.plantuml.argon2.model.Block"}
-,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "NonConforme 2 methods", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "NonConforme 2 method(s)", "commentaire" : "net.sourceforge.plantuml.argon2.model.Instance.clear@POLYN157900[java.lang.Void], net.sourceforge.plantuml.argon2.model.Instance.initMemory@POLYN157463[java.lang.Void;int]"}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.argon2.model.Position", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : "net.sourceforge.plantuml.argon2.model.Position"}
-,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "Conforme", "commentaire" : ""}
+,{ "critere" : "ClasseRegleClasse03ClassEntityOrModelOrDTOContainsSeveralMethods", "valeur" : "Conforme 0 methods", "commentaire" : ""}
 ]} 
 , { "classe" : "net.sourceforge.plantuml.asciiart.AbstractComponentText", "details" : [,{ "critere" : "ClasseRegleClasse04ExcessiveClassInclusionsDepthIsOver3", "valeur" : "Conforme 1 inclusions", "commentaire" : "net.sourceforge.plantuml.asciiart.AbstractComponentText"}
 ]} 
