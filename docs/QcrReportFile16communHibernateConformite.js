@@ -104,11 +104,13 @@
    var theDivBloc = document.getElementById("maDivHibernateConformite01");  
    theDivBloc.innerHTML = lsStrTout;
    // Tableau des statistiques par ano
-	 lsStrTout = "";
-	 lsStrTout+="<table border='1'>";
-	 lsStrTout+="<tr><td>Anomalie</td><td>Nb de classes / champs</td><td>Nb de classes / champs conformes</td><td>Nb de classes / champs non conformes</td></tr>";
-   leMaHash.forEach((value, key) => {
-	    lsStrTout += "<tr><td>"+key+"</td><td align='right'>"+(value[liIndOk]+value[liIndKo])+"</td><td align='right'>"+(value[liIndOk])+"</td><td align='right'>"+(value[liIndKo])+"</td></tr>";
+   lsStrTout = "";
+   lsStrTout+="<table border='1'>";
+   lsStrTout+="<tr><td>Anomalie</td><td>Nb de classes / champs</td><td>Nb de classes / champs conformes</td><td>Nb de classes / champs non conformes</td></tr>";
+   // Trie par cle croissante
+   leHashSort = new Map([...leMaHash.entries()].sort());
+   leHashSort.forEach((value, key) => {
+      lsStrTout += "<tr><td>"+key+"</td><td align='right'>"+(value[liIndOk]+value[liIndKo])+"</td><td align='right'>"+(value[liIndOk])+"</td><td align='right'>"+(value[liIndKo])+"</td></tr>";
    });
 	 lsStrTout+="</table>";
    var theDivBlocAnomalies = document.getElementById("maDivHibernateConformite02");  
